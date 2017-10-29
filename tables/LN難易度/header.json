@@ -1,0 +1,167 @@
+{
+   "data_url" : "data.json",
+   "grade" : [
+      {
+         "md5" : [
+            "dca02104c7101cd6d00a5853ba72339d",
+            "a037473f6035219037329c12aef66352",
+            "0127fc65b6e0bfee4814bebd403a77f2",
+            "0d11bf38034b09b171101f0e2815521a"
+         ],
+         "name" : "初段",
+         "style" : "-fx-text-fill:lightgreen"
+      },
+      {
+         "md5" : [
+            "dbdebdc2db0a49900e05ca39ac32f83b",
+            "e2cfa196586410891e4cfc17de9961fb",
+            "15e3c89d392646c647fd73071db69307",
+            "144b2e2239364e305e7950e5578b858a"
+         ],
+         "name" : "二段",
+         "style" : "-fx-text-fill:lightgreen"
+      },
+      {
+         "md5" : [
+            "46ae355e3680cdd2884e4771881538b5",
+            "b71c2e87f98b4a9c01c384cf0e854403",
+            "b587486b12f38529d119edd858b73e8a",
+            "bfaa77caae32c4d51326c555bef5cb6a"
+         ],
+         "name" : "三段",
+         "style" : "-fx-text-fill:lightgreen"
+      },
+      {
+         "md5" : [
+            "652978806b176ef33481bcb3446130bf",
+            "e1f42fcf977970f4eb462b48619ed76d",
+            "e70e4d6bf89e94e85dbcb234ea31df23",
+            "d03d7dcaea9b95bfd6134c6bb2ef29ca"
+         ],
+         "name" : "四段",
+         "style" : "-fx-text-fill:lightgreen"
+      },
+      {
+         "md5" : [
+            "3ad8d78baa4fdf5edd91924785a7d6cc",
+            "20090008a5d50566f34f01363e28595d",
+            "57b5fd7b487d0f5be4c2f79d360d1a63",
+            "632a7db28f7d7b3f077b256c1d62fa39"
+         ],
+         "name" : "五段",
+         "style" : "-fx-text-fill:cyan"
+      },
+      {
+         "md5" : [
+            "73439b00d535412947aa74d67aaf35b5",
+            "a22cb279ce7f795411088b27b2734a21",
+            "9e882adb779d29f1e20d9fce885c598a",
+            "b5ed1381386d6de7af0a8b1b854f5c04"
+         ],
+         "name" : "六段",
+         "style" : "-fx-text-fill:cyan"
+      },
+      {
+         "md5" : [
+            "066eed095b7a6dd2a91a4284839913d9",
+            "7bfb838b6c55da4bb5148405193f200f",
+            "b9ffe5ed468b4bb8f48a9b66c4454e49",
+            "224f02343f10f0d5c8aefe2efd24f934"
+         ],
+         "name" : "七段",
+         "style" : "-fx-text-fill:cyan"
+      },
+      {
+         "md5" : [
+            "ef74578215fefb8d60e43a68bec58168",
+            "1b9c813b7d3f76728691d96ccdc2b21f",
+            "45d9360b9d535ee5462511f643a052cf",
+            "a8efbdc00c0319febb7032bceb021b8c"
+         ],
+         "name" : "八段",
+         "style" : "-fx-text-fill:cyan"
+      },
+      {
+         "md5" : [
+            "0fd3a31cdb1a745e049d78b94656d46c",
+            "63a528d3f67fe3a138f2dd3f2d7a9639",
+            "029dfba1b2ec18937fac78256a866efe",
+            "547bb7f01e814330f35d7d6f63209838"
+         ],
+         "name" : "九段",
+         "style" : "-fx-text-fill:red"
+      },
+      {
+         "md5" : [
+            "f0d9c290e30de61defd29fafb2e346bf",
+            "0cc8abd2a1d29fac01876bae6b519729",
+            "6142fc4473735b3be1604adcf3de1ac7",
+            "daa8054030ebc0cdac82795117777ea7"
+         ],
+         "name" : "十段",
+         "style" : "-fx-text-fill:red"
+      },
+      {
+         "md5" : [
+            "c9d94a5387ded1454d27c2d7049b76a7",
+            "302d04a4d66dbcedd9ef617c19eeb595",
+            "cee68c43c6effd2f7bca54521b99d4fa",
+            "1b92d4d96ed2bcca18179323ac90bb0b"
+         ],
+         "name" : "皆伝",
+         "style" : "-fx-text-fill:gold"
+      },
+      {
+         "md5" : [
+            "2c0e44825ffb611caf472816f078b0dc",
+            "84bc096c876667e905e72ecd73652d08",
+            "7e942336a88d8f67784b1d31376051f5",
+            "e85bb7112caee8c9b9dd54f34c9cdd90"
+         ],
+         "name" : "Overjoy",
+         "style" : "-fx-text-fill:gold"
+      },
+      {
+         "md5" : [
+            "f5695a4a39887bc2970c19c884ca9bfb",
+            "b7c14bec0632e1b3ad11764fd0281dd4",
+            "8a4dcc16636a91f3240abe813dcb68e2",
+            "e75f513c5485e9f6599071b208771606"
+         ],
+         "name" : "うどん",
+         "style" : "-fx-text-fill:gold"
+      }
+   ],
+   "level_order" : [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26"
+   ],
+   "name" : "LN難易度",
+   "original_url" : "http://flowermaster.web.fc2.com/lrnanido/gla/LN.html",
+   "symbol" : "◆",
+   "tag" : "◆"
+}

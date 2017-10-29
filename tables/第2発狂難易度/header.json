@@ -1,0 +1,768 @@
+{
+   "course" : [
+      [
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "c07125de4ed7fbe7cb066cc41e50e51e",
+               "fc7d46e7bbc9f6afd26d05e3bf2ef555",
+               "b3887714270e28988ce900e4b9300994",
+               "d1877ad5dc0134b27eb0238da5721eed"
+            ],
+            "name" : "発狂初段",
+            "style" : "lightgreen",
+            "trophy" : [
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "032b0582871a07c604d8cba171f95797",
+               "15e44dfea14cb6812f7fcb56a3a0c409",
+               "151c0d2bb94ab56dfb753410ae70598e",
+               "7300591ce85f888fbefe6984dc4938c3"
+            ],
+            "name" : "発狂二段",
+            "style" : "lightgreen",
+            "trophy" : [
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "1a1ca14aededce99bd136da649fbec7a",
+               "c0d7baaaeb1b0ba9b17b94b587d2fb70",
+               "67bc996815b98296a44fe0f802a6115d",
+               "a6738157b2dc1689bea1f6123660d723"
+            ],
+            "name" : "発狂三段",
+            "style" : "lightgreen",
+            "trophy" : [
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "cd78da88201c01afb934bcba55f955cb",
+               "adec1bcc37806f155cdae08d873c9f77",
+               "0ab22f8cc36b18e6cce19f5f0906d71e",
+               "ee21ce9f5b84794c69e64e6d6d27caed"
+            ],
+            "name" : "発狂四段",
+            "style" : "lightgreen",
+            "trophy" : [
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "683340fac1d376bea11c0848531ed6dd",
+               "1f5cf9788ce30603c5ffe261f55d6c3d",
+               "462c47942b654985da2e94c6e31a238b",
+               "18a3d4f7f8b1d35277e759e5643a4757"
+            ],
+            "name" : "発狂五段",
+            "style" : "cyan",
+            "trophy" : [
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "bcf7607db2955c8979b54a0981b5eeb6",
+               "fd493e9ff008dc10636a55dc4f2a0814",
+               "39f78361dc62f7ac355fb73e628bb336",
+               "bcb640aa649d12c1ba16cd70f94ff0f8"
+            ],
+            "name" : "発狂六段",
+            "style" : "cyan",
+            "trophy" : [
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "6de6909c19156221d729b5e965c5cc2a",
+               "dab5146a185e036cb1514b71edf1032a",
+               "755c4087937b7223c31cd17cedfce788",
+               "8ae06bf384dbe6956b1fc76c071ff86f"
+            ],
+            "name" : "発狂七段",
+            "style" : "cyan",
+            "trophy" : [
+               {
+                  "missrate" : 7.5,
+                  "name" : "bronzemedal",
+                  "scorerate" : 0
+               },
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "556ed0c159434dd1e7a252086482cfd2",
+               "cd24fd54b865c744428da2513643dd8d",
+               "17ee7a35750c8e1b1bdfe3a7ca3a3119",
+               "63947bce9af12ca7f84492b20ca21928"
+            ],
+            "name" : "発狂八段",
+            "style" : "cyan",
+            "trophy" : [
+               {
+                  "missrate" : 7.5,
+                  "name" : "bronzemedal",
+                  "scorerate" : 0
+               },
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "96641e3e89ca6c61b1882ebf04ab4ad1",
+               "79dc444b48299814462ff23a2bf3ab79",
+               "732abafcb87ac588b64a9be39c6deb5c",
+               "2e1cc5e6bb96bff8a92f2defce49e70a"
+            ],
+            "name" : "発狂九段",
+            "style" : "cyan",
+            "trophy" : [
+               {
+                  "missrate" : 7.5,
+                  "name" : "bronzemedal",
+                  "scorerate" : 0
+               },
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "323e391cb09c023da7fe439d12bc6def",
+               "c67ba013af164f2cdec7c8c98c90d8f5",
+               "3c4e5a90478a6a60b430e9816c942ffd",
+               "a8d67366d1e603ff3000af761aef0e53"
+            ],
+            "name" : "発狂十段",
+            "style" : "cyan",
+            "trophy" : [
+               {
+                  "missrate" : 7.5,
+                  "name" : "bronzemedal",
+                  "scorerate" : 0
+               },
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "e6af04686aeaf0a0fa2698cb0b0111ad",
+               "5dc1e3e22e4fc735f010e35f2ae77480",
+               "093a8d66b89944db9e42aa2321b4f637",
+               "39d0732ef7fee9ad0c8b044ccbe8a396"
+            ],
+            "name" : "発狂皆伝",
+            "style" : "cyan",
+            "trophy" : [
+               {
+                  "missrate" : 7.5,
+                  "name" : "bronzemedal",
+                  "scorerate" : 0
+               },
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "96a1536917e1f7f12a85d3dd7eb64932",
+               "c65d0badebb7738e350022a59a1f0637",
+               "c5605fc262eb9023b82c14d14cc837f8",
+               "c46a81cb184f5a804c119930d6eba748"
+            ],
+            "name" : "overjoy",
+            "style" : "cyan",
+            "trophy" : [
+               {
+                  "missrate" : 7.5,
+                  "name" : "bronzemedal",
+                  "scorerate" : 0
+               },
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         }
+      ],
+      [
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "d93d26ea51b78bc9b000b24aae30eabd",
+               "1b72e8f6439a698e78f94be16470b789",
+               "2371263af3b0d644fba62526c9f49481",
+               "8a8a6c2f3511eb0876a6c9a2027d7bbe"
+            ],
+            "name" : "GENOCIDE 次期発狂初段案",
+            "style" : "lightgreen",
+            "trophy" : [
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "1d82eca9a7f34560149864ca2094ab64",
+               "5e3711f2f576f3929156c9594b87efac",
+               "a56ddb2169246817fb7527363fb9c687",
+               "5c1b6d4fab17625da43100cc09223bc8"
+            ],
+            "name" : "GENOCIDE 次期発狂二段案",
+            "style" : "lightgreen",
+            "trophy" : [
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "803c62f33ba287df9364d94e0b0f3a2f",
+               "e9c44c196575967b34ebd7720e487c9f",
+               "3c58f7c2e28bedf002aa1a29c8c86f1b",
+               "8faa0fc06a989fdb3f153e38ac7efddd"
+            ],
+            "name" : "GENOCIDE 次期発狂三段案",
+            "style" : "lightgreen",
+            "trophy" : [
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "47de06762f16d164426e3197c5de967c",
+               "a718de9a2cd2f88deafbd40f5929abb4",
+               "5077cd14b4759d0e8d61e854eac4e88a",
+               "af4a2231ed7c21fe28f5c9353775be39"
+            ],
+            "name" : "GENOCIDE 次期発狂四段案",
+            "style" : "lightgreen",
+            "trophy" : [
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "e9fc0fbbde68bfd10f2d289751a1fc6a",
+               "8a8019d432ab4dd9bde4e65faf1b663f",
+               "3a500560e6ace69e08b51736ff1be0ca",
+               "7fd4d1b5a767fd97343129157782a95f"
+            ],
+            "name" : "GENOCIDE 次期発狂五段案",
+            "style" : "lightgreen",
+            "trophy" : [
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "f96cf3af3d9356407bff483d27f4aecc",
+               "20cfeb60bc8378b3aacc5551f3c46dea",
+               "871c6aed53c5dd3ac35686d9a92af4f4",
+               "40673cc8ea628a9452f6ae9ac74d5817"
+            ],
+            "name" : "GENOCIDE 次期発狂六段案",
+            "style" : "lightgreen",
+            "trophy" : [
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "f1f3a63e62cb5449bcc88578641d0f8a",
+               "a4b59ca055a856b9a200ccfd1bf5c7bc",
+               "a0f48e96286e0ce275a33fd8cb851ff0",
+               "67a76e7d26f3c3ea99fdc6f912f83021"
+            ],
+            "name" : "GENOCIDE 次期発狂七段案",
+            "style" : "lightgreen",
+            "trophy" : [
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "f0feb9654ae044c0e95ebf68e2497c2e",
+               "51e0a29d5c7fc9cdf5e5e8eee1ad1124",
+               "1cf2e138abd7199d6e4656447cfaed6c",
+               "8e0df85dbf59c4753346f1582e2d4422"
+            ],
+            "name" : "GENOCIDE 次期発狂八段案",
+            "style" : "lightgreen",
+            "trophy" : [
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "603aae2c3681cc2562b9b53b50408c69",
+               "79dc444b48299814462ff23a2bf3ab79",
+               "7241b09fbbc77e0e515aa65f245f95ab",
+               "451ed38cdba0323388027129f5929645"
+            ],
+            "name" : "GENOCIDE 次期発狂九段案",
+            "style" : "lightgreen",
+            "trophy" : [
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "d6fea1389a86fc14eb354fcc5e60e03e",
+               "e58e3f718d089ec37caa0f2c7149a54b",
+               "1e049d189ef9bef79824f55764517a58",
+               "fb975909eb0f60a9190c7a1007515d4b"
+            ],
+            "name" : "GENOCIDE 次期発狂十段案",
+            "style" : "lightgreen",
+            "trophy" : [
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "10420967a85371e65db57967e6c696cd",
+               "ebc5946c3de24a01048d1c90cbd5c9d6",
+               "45446f6c96bdb081a2054b80cd8f7208",
+               "39d0732ef7fee9ad0c8b044ccbe8a396"
+            ],
+            "name" : "GENOCIDE 次期発狂皆伝案",
+            "style" : "lightgreen",
+            "trophy" : [
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "cfad3baadce9e02c45021963453d7c94",
+               "77d23be22b2370925c573d922276bce0",
+               "188a99f74ab71804f2e360dcf484545c",
+               "c46a81cb184f5a804c119930d6eba748"
+            ],
+            "name" : "GENOCIDE 次期overjoy案",
+            "style" : "lightgreen",
+            "trophy" : [
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         }
+      ]
+   ],
+   "data_url" : "data.json",
+   "grade" : [
+      {
+         "md5" : [
+            "c07125de4ed7fbe7cb066cc41e50e51e",
+            "fc7d46e7bbc9f6afd26d05e3bf2ef555",
+            "b3887714270e28988ce900e4b9300994",
+            "d1877ad5dc0134b27eb0238da5721eed"
+         ],
+         "name" : "発狂初段",
+         "style" : "-fx-text-fill:lightgreen"
+      },
+      {
+         "md5" : [
+            "032b0582871a07c604d8cba171f95797",
+            "15e44dfea14cb6812f7fcb56a3a0c409",
+            "151c0d2bb94ab56dfb753410ae70598e",
+            "7300591ce85f888fbefe6984dc4938c3"
+         ],
+         "name" : "発狂二段",
+         "style" : "-fx-text-fill:lightgreen"
+      },
+      {
+         "md5" : [
+            "1a1ca14aededce99bd136da649fbec7a",
+            "c0d7baaaeb1b0ba9b17b94b587d2fb70",
+            "67bc996815b98296a44fe0f802a6115d",
+            "a6738157b2dc1689bea1f6123660d723"
+         ],
+         "name" : "発狂三段",
+         "style" : "-fx-text-fill:lightgreen"
+      },
+      {
+         "md5" : [
+            "cd78da88201c01afb934bcba55f955cb",
+            "adec1bcc37806f155cdae08d873c9f77",
+            "0ab22f8cc36b18e6cce19f5f0906d71e",
+            "ee21ce9f5b84794c69e64e6d6d27caed"
+         ],
+         "name" : "発狂四段",
+         "style" : "-fx-text-fill:lightgreen"
+      },
+      {
+         "md5" : [
+            "683340fac1d376bea11c0848531ed6dd",
+            "1f5cf9788ce30603c5ffe261f55d6c3d",
+            "462c47942b654985da2e94c6e31a238b",
+            "18a3d4f7f8b1d35277e759e5643a4757"
+         ],
+         "name" : "発狂五段",
+         "style" : "-fx-text-fill:cyan"
+      },
+      {
+         "md5" : [
+            "bcf7607db2955c8979b54a0981b5eeb6",
+            "fd493e9ff008dc10636a55dc4f2a0814",
+            "39f78361dc62f7ac355fb73e628bb336",
+            "bcb640aa649d12c1ba16cd70f94ff0f8"
+         ],
+         "name" : "発狂六段",
+         "style" : "-fx-text-fill:cyan"
+      },
+      {
+         "md5" : [
+            "6de6909c19156221d729b5e965c5cc2a",
+            "dab5146a185e036cb1514b71edf1032a",
+            "755c4087937b7223c31cd17cedfce788",
+            "8ae06bf384dbe6956b1fc76c071ff86f"
+         ],
+         "name" : "発狂七段",
+         "style" : "-fx-text-fill:cyan"
+      }
+   ],
+   "level_order" : [
+      "0-",
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "?"
+   ],
+   "name" : "第2発狂難易度",
+   "original_url" : "http://bmsnormal2.syuriken.jp/table_insane.html",
+   "symbol" : "▼",
+   "tag" : "▼"
+}
