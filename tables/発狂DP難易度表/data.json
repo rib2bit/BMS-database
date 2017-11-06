@@ -660,17 +660,6 @@
       "url_diff" : "http://www.geocities.jp/uccdpbms/"
    },
    {
-      "artist" : "カラフル・サウンズ・ポート obj:kuro",
-      "comment" : "",
-      "level" : "11",
-      "lr2_bmsid" : "223342",
-      "md5" : "20d0c3c9517e428aab5ee46a4de3658a",
-      "state" : 1,
-      "title" : "ETERNAL DRAIN (DP CHALLENGER)",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=276&event=74",
-      "url_diff" : "https://onedrive.live.com/?id=252E1BC75208EE14%21190&cid=252E1BC75208EE14"
-   },
-   {
       "artist" : "narve // dp131 obj:NEPIA",
       "comment" : " 2014/03/17 差分が入手不可能。本体は入手可能。 2014/03/24 差分URLを移転先に変更。差分入手可",
       "level" : "3",
@@ -2332,6 +2321,17 @@
       "url_diff" : "http://dpbms.at-ninja.jp/index.html"
    },
    {
+      "artist" : "カラフル・サウンズ・ポート obj:kuro",
+      "comment" : "",
+      "level" : "11",
+      "lr2_bmsid" : "247797",
+      "md5" : "685286956c1be7659018cda1dd418fc0",
+      "state" : 1,
+      "title" : "ETERNAL DRAIN (DP CHALLENGER)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=276&event=74",
+      "url_diff" : "https://onedrive.live.com/?id=252E1BC75208EE14%21190&cid=252E1BC75208EE14"
+   },
+   {
       "artist" : "SHIKI / obj:Redrum",
       "comment" : " アーカイブより本体入手可能 http://web.archive.org/web/20051118202018/http://www.remarkablesense.org/~shiki/air.exe",
       "level" : "3",
@@ -2345,7 +2345,7 @@
    {
       "artist" : "Symphonian / Personality [obj:mymt]",
       "comment" : "",
-      "level" : "10",
+      "level" : "11",
       "lr2_bmsid" : "241907",
       "md5" : "6a361e5fd778c4fdde560dad7c2681ca",
       "state" : 0,
