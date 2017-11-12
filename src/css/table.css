@@ -1,0 +1,131 @@
+* {
+  background-attachment: scroll;
+  background-clip: border-box;
+  background-color: transparent;
+  background-image: none;
+  background-origin: padding-box;
+  background-position: 0% 0%;
+  background-repeat: repeat;
+  background-size: auto auto;
+  border-bottom-color: #626566;
+  border-bottom-style: none;
+  border-bottom-width: 0px;
+  border-image-outset: 0 0 0 0;
+  border-image-repeat: stretch stretch;
+  border-image-slice: 100% 100% 100% 100%;
+  border-image-source: none;
+  border-image-width: 1 1 1 1;
+  border-left-color: #626566;
+  border-left-style: none;
+  border-left-width: 0px;
+  border-right-color: #626566;
+  border-right-style: none;
+  border-right-width: 0px;
+  border-top-color: #626566;
+  border-top-style: none;
+  border-top-width: 0px;
+  color: #626566;
+  font-family: "Lucida Grande","Hiragino Kaku Gothic ProN",Meiryo,sans-serif;
+  font-size: 13px;
+  line-height: 20.8px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  outline-color: #626566;
+  outline-style: none;
+  outline-width: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  vertical-align: baseline;
+  word-wrap: break-word;
+  -moz-border-bottom-colors: none;
+  -moz-border-left-colors: none;
+  -moz-border-right-colors: none;
+  -moz-border-top-colors: none;
+}
+.DataTables_sort_icon {
+  display: none !important;
+}
+.ui-state-default {
+  border: 0 !important;
+  margin: 10px !important;
+}
+#difficulty_table {
+  width: 100%;  
+  margin: 20px auto;  
+  text-align: left;
+}
+#difficulty_table table {
+  table-layout: fixed;
+  border: 1px solid #ccc;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+#content {
+  width: 95%; 
+  margin: 50px auto;
+}
+#difficulty_table input {
+  border: 1px solid #ccc;
+  background: #fff;
+}
+#difficulty_table .ui-widget-header {
+  padding: 3px;
+}
+.col_score_link {
+  width: 4em !important;
+}
+.col_diff_link {
+  width: 2.3em !important;
+}
+.col_date {
+  width: 12em !important;
+}
+.col_level {
+  width: 4em !important;
+}
+.col_comment {
+  width: 30% !important;
+}
+.col_diff_link a:link,
+.col_score_link a:link {
+  text-decoration: none;
+}
+.col_diff_link a:visited {
+  color: #aaa;
+}
+.level_group td {
+  background-color: #bfbfbf;
+  color: #fff;
+  font-weight: bold;
+  font-size: 150%;
+}
+h1 {
+  font-size: 150%;
+}
+#loading{
+  border:1px dashed #999;
+  padding:15px;
+  position: fixed;
+  top:50%;
+  left:50%;
+  margin-top: -40px;
+  margin-left:-40px;
+  background-color:#FFF;
+  filter: alpha(opacity=85);
+  -moz-opacity:0.85;
+  opacity:0.85;
+}
+#loading .loadingMsg{
+  text-align:center;
+  padding-top:80px;
+  width:80px;
+  background-image: url("./loading.gif");
+  background-position: center top;
+  background-repeat: no-repeat;
+}
