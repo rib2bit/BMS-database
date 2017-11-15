@@ -4950,6 +4950,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00939"
    },
    {
+      "adddate" : "2017/11/15 13:32",
+      "artist" : "roop/obj.z",
+      "comment" : "ガチ押し、縦連",
+      "folder" : "2017/11",
+      "genre" : "HOUSE",
+      "keys" : 7,
+      "level" : "2017/11",
+      "lr2_bmsid" : "254485",
+      "md5" : "4314b3ab6e68ae0b0bb9feb7dd89d8af",
+      "org_level" : null,
+      "title" : "Danger Love (cheap sound mix)[DX]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01210"
+   },
+   {
       "adddate" : "2017/01/01 22:05",
       "artist" : "翡乃イスカ vs. Iriss/obj.sitoras",
       "comment" : "乱打・連皿・皿複合・縦連・小ソフラン",
@@ -5456,7 +5471,7 @@
       "md5" : "4beec5b81098332c84a9c6eee6551b60",
       "org_level" : null,
       "title" : "8bit Adventurer [^_^7]",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=444&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01180"
    },
    {
@@ -7290,6 +7305,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01110"
    },
    {
+      "adddate" : "2017/11/15 17:53",
+      "artist" : "EBIMAYO obj:SUZUKAZEΛ",
+      "comment" : "同時押し,皿複合,高速階段",
+      "folder" : "2017/11",
+      "genre" : "Low-Tech Rave",
+      "keys" : 7,
+      "level" : "2017/11",
+      "lr2_bmsid" : "254446",
+      "md5" : "60d05af40aa26dfed7424d2f2809d158",
+      "org_level" : null,
+      "title" : "Bad Cycle [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=124&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01211"
+   },
+   {
       "adddate" : "2017/05/22 16:48",
       "artist" : "ROKINA / obj:sagoo BGA:REI-K",
       "comment" : "はやい",
@@ -8323,6 +8353,21 @@
       "title" : "ULTRA RANDA 1",
       "url" : "",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00891"
+   },
+   {
+      "adddate" : "2017/11/15 21:27",
+      "artist" : "Blue-J / obj. Tristan97",
+      "comment" : "\"Delay\" Stairs/Bursts",
+      "folder" : "2017/11",
+      "genre" : "TECHNO",
+      "keys" : 7,
+      "level" : "2017/11",
+      "lr2_bmsid" : "253708",
+      "md5" : "6e0ef8c3434695d5fffce2293e37fb73",
+      "org_level" : null,
+      "title" : "Cynical [T H E   A N O T H E R]",
+      "url" : "https://www.dropbox.com/s/guh50u06u9f0goa/Blue-J_Cynical.zip?dl=1",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01212"
    },
    {
       "adddate" : "2017/03/03 00:51",
@@ -9823,6 +9868,21 @@
       "title" : "Metatron[NOTVICE]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=146&event=104",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00767"
+   },
+   {
+      "adddate" : "2017/11/16 01:10",
+      "artist" : "FOLiACETATE obj : 99",
+      "comment" : "高速、階段、乱打",
+      "folder" : "2017/11",
+      "genre" : "COALENSCENT BREAKCORE",
+      "keys" : 7,
+      "level" : "2017/11",
+      "lr2_bmsid" : "",
+      "md5" : "813f03448f3ff8b4f13148319577bc60",
+      "org_level" : null,
+      "title" : "Heterochromia Iridis[むずかしい] [SP むずかしい]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01213"
    },
    {
       "adddate" : "2017/06/20 17:22",
@@ -20053,5 +20113,20 @@
       "title" : "八大地獄邪魂転生狂葬散火歌 [世伊皿意居時井]",
       "url" : "",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01196"
+   },
+   {
+      "adddate" : "2017/11/15 13:32",
+      "artist" : "roop/obj.z",
+      "comment" : "ガチ押し、縦連",
+      "folder" : "2017/11",
+      "genre" : "HOUSE",
+      "keys" : 7,
+      "level" : "2017/11",
+      "lr2_bmsid" : "254484",
+      "md5" : "ff981aeb139a739dbad00a9fb4369091",
+      "org_level" : null,
+      "title" : "Danger Love (cheap sound mix)[DX-]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01210"
    }
 ]
