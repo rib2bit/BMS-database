@@ -6,9 +6,10 @@ $(document).ready(function () {
     $("#original_url").attr("href", header.original_url);
     $.getJSON(header.data_url, function(data){
       var table = [];
+      var folder_mode = 'entry_type' in header && header['entry_type'] == 'folder';
       data.forEach(function(row){
         table.push([
-          header.symbol + row['level'],
+          folder_mode ? row['folder'] : header.symbol + row['level'],
           "<a href='http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=" + row['md5'] + "'>" + row['title'] + "</a>",
           (row['url']      != '') ? "<a href='" + row['url'] + "'>" + row['artist'] + "</a>" : row['artist'],
           (row['url_diff'] != '') ? "<a href='" + row['url_diff'] + "'>" + header.symbol + "</a>" : '<span style="color: #aaa;">-</a>',
@@ -28,7 +29,7 @@ $(document).ready(function () {
           { "title": "コメント",     "class": "dt-head-center row-border tooltip-right col_comment"},
         ],
           "columnDefs": [
-//          { "visible": false, "targets": 0},
+            { "visible": !folder_mode, "targets": 0},
             { type: 'natural', searchable: false, targets: 0 },
             { orderable: false, searchable: false, targets: [1,2,3,4,5] },
           ],
@@ -44,7 +45,7 @@ $(document).ready(function () {
           api.column(0, {page: 'current'}).data().each( function(group, i) {
             if(last !== group) {
               $(rows).eq(i).before(
-                '<tr class="level_group ui-widget-header dt-body-center" style="text-align: center;"><td colspan="6">' + group + '</td></tr>'
+                '<tr class="level_group ui-widget-header dt-body-center" style="text-align: center;"><td colspan="' + (folder_mode ? '5' : '6') + '">' + group + '</td></tr>'
               );
               last = group;
             }
