@@ -1530,7 +1530,7 @@
    },
    {
       "artist" : "SHIKI / black train",
-      "comment" : "本体URLは自己解凍形式\nhttp://web.archive.org/web/20151105190255/http://absolute.pv.land.to/bms/air7maniaq.bme\n差分は上記URL右クリック保存",
+      "comment" : "本体URLは自己解凍形式",
       "level" : "6",
       "lr2_bmsid" : "1234",
       "md5" : "1e69627c0ca4628b67f731bc36423875",
@@ -5996,7 +5996,7 @@
    },
    {
       "artist" : "裏 吉 川 / obj:arufis",
-      "comment" : "mirror: http://web.archive.org/web/20111031074328/http://r-45.hp.infoseek.co.jp/bms/aci-L.rar",
+      "comment" : "",
       "level" : "10",
       "lr2_bmsid" : "1398",
       "md5" : "87f1756867d68fad094b777fc24c1bef",
@@ -6282,7 +6282,7 @@
    },
    {
       "artist" : "裏 吉 川",
-      "comment" : "https://t.co/YgEXauswKo\n他→BGAにBGA完全ver保管(未定義)",
+      "comment" : "",
       "level" : "3",
       "lr2_bmsid" : "1196",
       "md5" : "8fd0614318cb81d988de5c7f613abe27",
