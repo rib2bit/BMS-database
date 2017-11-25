@@ -5270,6 +5270,21 @@
       "url_pack" : null
    },
    {
+      "artist" : "BMS:9-zen",
+      "comment" : "up00272",
+      "eval" : 0,
+      "level" : "22",
+      "md5" : "c43ef6be4f55c3d031057c819c02212a",
+      "name_diff" : "http://gnqg.rosx.net/upload/",
+      "name_pack" : null,
+      "state" : 0,
+      "tag" : "",
+      "title" : "コルダ [Hydra]",
+      "url" : "http://9zen.dip.jp/",
+      "url_diff" : "http://gnqg.rosx.net/upload/",
+      "url_pack" : null
+   },
+   {
       "artist" : "stereoberry",
       "comment" : "",
       "eval" : 0,
@@ -5848,6 +5863,19 @@
       "tag" : null,
       "title" : "Espresso Shots [LN_Crazyhits]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=96",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
+   },
+   {
+      "artist" : "polysha / 風見 幽香",
+      "comment" : "LONG NOTE up0739",
+      "eval" : 0,
+      "level" : "22",
+      "md5" : "d76961b8c9afb5856fc4de3c25b645e1",
+      "name_diff" : "http://absolute.pv.land.to/bmsuploader.html",
+      "state" : 0,
+      "tag" : "",
+      "title" : "AKIKAZE [USC LN]",
+      "url" : "http://yaruki0.sakura.ne.jp/event/ondanyugi5/impression.cgi?no=25",
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
    },
    {
