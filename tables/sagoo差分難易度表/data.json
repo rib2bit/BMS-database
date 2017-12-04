@@ -473,6 +473,17 @@
       "url_diff" : "https://onedrive.live.com/redir?resid=A972E7D14DCFAF93!110&authkey=!ADuXxYDZsf_L-I8&ithint=folder%2czip"
    },
    {
+      "artist" : "M225 / obj:sagoo",
+      "comment" : "追加音源有り",
+      "level" : "0",
+      "lr2_bmsid" : 0,
+      "md5" : "4d556295d1816e5ec9c2d513b04fb606",
+      "name_diff" : "OneDrive",
+      "title" : "星のカービィ６４「ポップスター」 [sagANOTHER]",
+      "url" : "https://web.archive.org/web/20011228223951/http://www.tkcity.net/~m225/bm98.htm",
+      "url_diff" : "https://onedrive.live.com/redir?resid=A972E7D14DCFAF93!110&authkey=!ADuXxYDZsf_L-I8&ithint=folder%2czip"
+   },
+   {
       "artist" : "nmk/-if- / obj:sagoo",
       "comment" : "表に入ってない曲差分企画<br>http://kaguyasystem.blog.fc2.com/blog-entry-11.html",
       "level" : "2",
@@ -1431,8 +1442,8 @@
    },
    {
       "artist" : "ayatori",
-      "comment" : "同梱譜面<br>難易度がわからないためここに置きます（★17以上あると思います）",
-      "level" : "99",
+      "comment" : "同梱譜面",
+      "level" : "17",
       "lr2_bmsid" : 0,
       "md5" : "fbdf05d6ee4f7320852ade72e0a0acd9",
       "name_diff" : "",
