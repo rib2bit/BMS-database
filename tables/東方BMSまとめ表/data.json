@@ -1663,7 +1663,7 @@
    {
       "artist" : "くっちー",
       "comment" : "",
-      "level" : "未分類",
+      "level" : "★17",
       "lr2_bmsid" : 97050,
       "md5" : "13718f35c6459778fa4059c8c3f70ef5",
       "name_diff" : "",
@@ -3291,7 +3291,7 @@
    {
       "artist" : "ゆ～兎 Respect for ZUN ",
       "comment" : "",
-      "level" : "未分類",
+      "level" : "★9",
       "lr2_bmsid" : "",
       "md5" : "2660ea62850b57ef3302f2fd27367c38",
       "name_diff" : "",
@@ -3632,7 +3632,7 @@
    {
       "artist" : "b-UMB feat.toz(vo.&BGI) ",
       "comment" : "東方音弾遊戯7",
-      "level" : "未分類",
+      "level" : "★7",
       "lr2_bmsid" : "",
       "md5" : "2a9ac043fa47cbc165ce03be0b8662b1",
       "name_diff" : "",
@@ -3984,7 +3984,7 @@
    {
       "artist" : "ZUN(Arr.sun3) ",
       "comment" : "",
-      "level" : "未分類",
+      "level" : "★3",
       "lr2_bmsid" : "",
       "md5" : "2fdd3e46b59d7459ee848bde3e9528e8",
       "name_diff" : "",
@@ -4842,7 +4842,7 @@
    {
       "artist" : "Zun/Arr:kaztora/アクジ/obj：のれぽん ",
       "comment" : "東方音弾遊戯6",
-      "level" : "未分類",
+      "level" : "☆12",
       "lr2_bmsid" : "",
       "md5" : "399152b9864bcaceaa6b7c1e11ea504c",
       "name_diff" : "",
@@ -10463,7 +10463,7 @@
    {
       "artist" : "ZUN arr:ぴすくん obj:いい靴 BGA: そう七日",
       "comment" : "",
-      "level" : "未分類",
+      "level" : "★3",
       "lr2_bmsid" : 193493,
       "md5" : "7f47fa5fbb6fe280e402f1c4d490a7ec",
       "name_diff" : "",
@@ -10474,7 +10474,7 @@
    {
       "artist" : "REX ",
       "comment" : "東方音弾遊戯7",
-      "level" : "未分類",
+      "level" : "★4",
       "lr2_bmsid" : "",
       "md5" : "7f85bc9dae50ff37aa3f51a89c8e42f2",
       "name_diff" : "",
@@ -11540,24 +11540,13 @@
    },
    {
       "artist" : "average respect for ZUN and J.Pachelbel BGA:弓矢",
-      "comment" : "音弾遊戯6",
+      "comment" : "東方音弾遊戯6",
       "level" : "☆1",
       "lr2_bmsid" : 181328,
       "md5" : "8bdef47d0132479a7e67adcd573e7cfb",
       "name_diff" : "",
       "title" : "古明地姉妹のカノン [SP はじめてのピアノ]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=20&event=92",
-      "url_diff" : ""
-   },
-   {
-      "artist" : "average respect for ZUN and J.Pachelbel BGA:弓矢",
-      "comment" : "東方音弾遊戯6",
-      "level" : "☆1",
-      "lr2_bmsid" : "",
-      "md5" : "8bdef47d0132479a7e67adcd573e7cfb",
-      "name_diff" : "",
-      "title" : "古明地姉妹のカノン [SP はじめてのピアノ]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=List_def&event=92",
       "url_diff" : ""
    },
    {
@@ -15875,7 +15864,7 @@
    {
       "artist" : "ZUN(Arr.sun3)",
       "comment" : "",
-      "level" : "未分類",
+      "level" : "★3",
       "lr2_bmsid" : 1098,
       "md5" : "be8148672736d2dd685f99478be02c9b",
       "name_diff" : "",
@@ -16139,7 +16128,7 @@
    {
       "artist" : "ZUN X Yellow Cat",
       "comment" : "",
-      "level" : "☆8",
+      "level" : "☆10",
       "lr2_bmsid" : 104237,
       "md5" : "c07d744674687d905f216d5525652f69",
       "name_diff" : "",
@@ -16535,7 +16524,7 @@
    {
       "artist" : "urimu ",
       "comment" : "東方音弾遊戯5",
-      "level" : "未分類",
+      "level" : "★1",
       "lr2_bmsid" : "",
       "md5" : "c4d51d817aab56622633d66681af47fc",
       "name_diff" : "",
@@ -16689,7 +16678,7 @@
    {
       "artist" : "average respect for ZUN and J.Pachelbel BGA:弓矢",
       "comment" : "東方音弾遊戯6",
-      "level" : "未分類",
+      "level" : "☆12",
       "lr2_bmsid" : "",
       "md5" : "c7b3536a90b55820eaaf3e9904679ba5",
       "name_diff" : "",
@@ -17129,7 +17118,7 @@
    {
       "artist" : "ZUN remixed by Kazune Sawatari respect for NAOKI",
       "comment" : "",
-      "level" : "未分類",
+      "level" : "★5",
       "lr2_bmsid" : 105118,
       "md5" : "ccf7e455a50ea759e68c363104f0f8d2",
       "name_diff" : "",
@@ -17976,7 +17965,7 @@
    {
       "artist" : "noctie* Illust:おっぱさん obj:chinpann",
       "comment" : "東方音弾遊戯5",
-      "level" : "未分類",
+      "level" : "★3",
       "lr2_bmsid" : "",
       "md5" : "d7179521b0a3257e4dc246ce591bd5fe",
       "name_diff" : "",
