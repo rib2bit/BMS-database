@@ -76,7 +76,7 @@
    {
       "artist" : "ZUN (Arr sun3 / DPobject by tsk)",
       "comment" : "Hard Techno",
-      "level" : "12",
+      "level" : "★4",
       "md5" : "008670a69c3d48b4f164d271abf96d3c",
       "title" : "Another Alien World (DP BLACK ANOTHER)"
    },
@@ -1035,7 +1035,7 @@
    {
       "artist" : "Celas / obj:Chrono *FLIP LR.MIRROR",
       "comment" : "GAME MUSIC",
-      "level" : "12",
+      "level" : "★6",
       "md5" : "06adee9e7f05329d8c3fd1fe97dea41d",
       "title" : "クロノトリガー [INSANE]"
    },
@@ -1882,7 +1882,7 @@
    {
       "artist" : "SHIKI // BGA:あかくらげ & M.H [obj:MGN]",
       "comment" : "HAPPY HARDCORE(14key)",
-      "level" : "12",
+      "level" : "★8",
       "md5" : "0c370825d8ddce5fa64683101d83f840",
       "title" : "Endless Dream MGNother"
    },
@@ -2260,7 +2260,7 @@
    {
       "artist" : "Musical Masterpiece obj:ucc / reobj:hamburger",
       "comment" : "PROGRESSIVE JAZZ",
-      "level" : "12",
+      "level" : "★4",
       "md5" : "0edda203dc90a9f7af469d57293a8cd6",
       "title" : "Vacant Between You and Me[EX14]†leggendaria"
    },
@@ -2449,7 +2449,7 @@
    {
       "artist" : "LV.4+-",
       "comment" : "HARD NRG",
-      "level" : "12",
+      "level" : "★5",
       "md5" : "103d01e79a74afb4ec26cba956afdc6f",
       "title" : "Angel dust [S]"
    },
@@ -2531,9 +2531,9 @@
       "title" : "U.F.O."
    },
    {
-      "artist" : "Ｙ丸 obj:ucc *FLIP",
+      "artist" : "Ｙ丸 obj:ucc",
       "comment" : "KUSO Synth",
-      "level" : "12",
+      "level" : "★4",
       "md5" : "11058833439c6150f7681cebe206694e",
       "title" : "夜がずり落ちてくる [CH14]"
    },
@@ -2918,7 +2918,7 @@
    {
       "artist" : "庭師 obj:YYYYY  *FLIP",
       "comment" : "Y",
-      "level" : "12",
+      "level" : "★7",
       "md5" : "14661ef47cff4b7c55651838fb6cfb79",
       "title" : "Y [Y14]"
    },
@@ -3140,7 +3140,7 @@
       "title" : "Mysterious Mind"
    },
    {
-      "artist" : "Shinji Hirako *FLIP",
+      "artist" : "Shinji Hirako *FLIP or LR.MIRROR",
       "comment" : "Death Waltz",
       "level" : "10",
       "md5" : "1580a2c07b2f01b72e9ced3b548e5249",
@@ -3289,7 +3289,7 @@
    {
       "artist" : "+ / movie:sgvc obj.LetsOTL",
       "comment" : "Tech Electro",
-      "level" : "12",
+      "level" : "★4",
       "md5" : "166b5e08776e9772181af7d7bcd996d6",
       "title" : "Busy Factory [DP INSANE]"
    },
@@ -3483,9 +3483,9 @@
       "title" : "Candy & Baguette [Bitter & Sweet]"
    },
    {
-      "artist" : "Kate Lesing feat. RANDO: / Kz *FLIP",
+      "artist" : "Kate Lesing feat. RANDO: / Kz *AVERAGE FLIP",
       "comment" : "Trance techno",
-      "level" : "12",
+      "level" : "?",
       "md5" : "17f6427125f63f1fafeec9a49255aca9",
       "title" : "Out of your love(Exhaust mix) [DP KF]"
    },
@@ -4717,7 +4717,7 @@
    {
       "artist" : "H.U.T GiGAR / obj.LetsOTL",
       "comment" : "GABBER",
-      "level" : "12",
+      "level" : "★4",
       "md5" : "20bee6ca32e177be049c79b6d845ef88",
       "title" : "SHOTGUN ANTHEM [DP anOTLer]"
    },
@@ -5102,7 +5102,7 @@
    {
       "artist" : "masopp",
       "comment" : "chipskit",
-      "level" : "12",
+      "level" : "★4",
       "md5" : "2345102f5f439f413e06f81dc778d192",
       "title" : "happy puppy [HELL]"
    },
@@ -5165,7 +5165,7 @@
    {
       "artist" : "Sakuzyo / Mentalstock obj.Z_N",
       "comment" : "Overture / IDM",
-      "level" : "12",
+      "level" : "★3",
       "md5" : "23ab51f163dae4728bc6d5c8d2e01235",
       "title" : "VALLISTA [Intuition]"
    },
@@ -5737,9 +5737,9 @@
       "title" : "シェルターキッズ [LNKumather]"
    },
    {
-      "artist" : "Hate ? Ritsu ? Salita / obj : lemon_aided Douglas ? Mentalstock  *FLIP",
+      "artist" : "Hate ? Ritsu ? Salita / obj : lemon_aided Douglas ? Mentalstock",
       "comment" : "A-Rock",
-      "level" : "11",
+      "level" : "★3",
       "md5" : "2828f01ee2a4c8a6f34a6c6351a91908",
       "title" : "架空ユリカゴ [D97%]"
    },
@@ -7564,9 +7564,9 @@
       "title" : "new earth [Natural disaster]"
    },
    {
-      "artist" : "裏 吉 川 / obj : 打者走者 *FLIP LR.MIRROR",
+      "artist" : "裏 吉 川 / obj : 打者走者 *正規 or R.MIRROR",
       "comment" : "t r a n c e",
-      "level" : "12",
+      "level" : "★5",
       "md5" : "34a510c0198a8fca50b209b374b38872",
       "title" : "A c i - L - P A P E R"
    },
@@ -7620,9 +7620,9 @@
       "title" : "入浴タイムズ (DP BLACK ANOTHER)"
    },
    {
-      "artist" : "鹿目まどか <OBJ.slo> 佐倉杏子  *FLIP LR.RANDOM",
+      "artist" : "鹿目まどか <OBJ.slo> 佐倉杏子  *FLIP L.MIR R.RAN",
       "comment" : "ENTROPY",
-      "level" : "12",
+      "level" : "★5",
       "md5" : "35285929c2a4ce2c3cb74b8be0bab96c",
       "title" : "円環の理 ガチアナザー"
    },
@@ -8959,7 +8959,7 @@
    {
       "artist" : "naotyu- OBJ:KLOC",
       "comment" : "progressive breaks",
-      "level" : "11",
+      "level" : "★3",
       "md5" : "3f9e1d95e492711239e5ae3954b7c669",
       "title" : "Her Majesty"
    },
@@ -9342,7 +9342,7 @@
       "title" : "Ire -a lie notes- 14key"
    },
    {
-      "artist" : "Ras obj:azurite *L.MIRROR",
+      "artist" : "Ras obj:azurite",
       "comment" : "riquid funk",
       "level" : "8",
       "md5" : "41efa309d5a8fd2f48f4a8454361982c",
@@ -10737,7 +10737,7 @@
    {
       "artist" : "nmk/-if-/obj@PEN/reobj:hamburger *R.MIRROR",
       "comment" : "CYBER　WALTZ",
-      "level" : "12",
+      "level" : "★5",
       "md5" : "4bcc138c4b0a62c0edb517079daa040b",
       "title" : "アルティメットリユニオン†leggendaria DP ANOTHER"
    },
@@ -11610,9 +11610,9 @@
       "title" : "x-Aria -frenzy mix-"
    },
    {
-      "artist" : "utah *FLIP L.MIRROR",
+      "artist" : "utah *FLIP LR.MIRROR",
       "comment" : "HARD INSTRUMENTAL",
-      "level" : "12",
+      "level" : "★8",
       "md5" : "528e0794160ba3e31b9e71492979076c",
       "title" : "Silence (DP ANOTHER)"
    },
@@ -12548,9 +12548,9 @@
       "title" : "YASAKANI [DP INSANE]"
    },
    {
-      "artist" : "Musical Masterpiece obj:ucc *FLIP R.MIRROR",
+      "artist" : "Musical Masterpiece obj:ucc",
       "comment" : "PRELUDE",
-      "level" : "12",
+      "level" : "★4",
       "md5" : "5879c5286c97638f1c350e8f67a7a5b5",
       "title" : "Retroactive Rain [CH14]"
    },
@@ -12620,7 +12620,7 @@
    {
       "artist" : "LV.4 (DPobject by tsk)",
       "comment" : "HARD NRG",
-      "level" : "12",
+      "level" : "★4",
       "md5" : "58be4d17bcd3eef9ac85ba38a395d36f",
       "title" : "Angel dust [14key//LN-Dark]"
    },
@@ -12758,9 +12758,9 @@
       "title" : "妹軍団襲来 -紅魔軍団襲来-"
    },
    {
-      "artist" : "BACO obj:ucc *FLIP",
+      "artist" : "BACO obj:ucc *FLIP LR.MIRROR or 正規",
       "comment" : "トランスレクイエム",
-      "level" : "12",
+      "level" : "★4",
       "md5" : "5a054301fcac3a9de0c5a924ab459218",
       "title" : "キメラ [EX14]"
    },
@@ -13068,7 +13068,7 @@
    {
       "artist" : "Luxion / Obj:ゆ～兎",
       "comment" : "OVERKILL",
-      "level" : "★5",
+      "level" : "★4",
       "md5" : "5c1af26aeca11c281badbc81662597cd",
       "title" : "High-Priestess [GENOCIDE]"
    },
@@ -13810,7 +13810,7 @@
    {
       "artist" : "悠然 / bunta / obj:epics- *R.MIRROR",
       "comment" : "HAPPY HARDCORE",
-      "level" : "8",
+      "level" : "9",
       "md5" : "610ce529a9445e9ceee7e89abaf35879",
       "title" : "桜花撩乱 [DP ANOTHER]"
    },
@@ -14251,7 +14251,7 @@
    {
       "artist" : "SANY-ON obj:ucc BGA by Yozumina  *LR.RANDOM",
       "comment" : "MINIMAL ELECTRO",
-      "level" : "12",
+      "level" : "★4",
       "md5" : "643f31cd5eb9cf5a6115616127a5a839",
       "title" : "my fancy, your fancy (bms edit) [CH14]"
    },
@@ -14284,9 +14284,9 @@
       "title" : "Moonless night -LV.4 fly with you tonight remix- (14A)"
    },
    {
-      "artist" : "天音 obj;ucc *FLIP R.RANDOM",
+      "artist" : "天音 obj;ucc *FLIP R.MIRROR",
       "comment" : "Drum 'n' ambient",
-      "level" : "12",
+      "level" : "★4",
       "md5" : "64665c0436084a659c1a3d06d2329dfd",
       "title" : "その斯くも美しき紅に (EX14)"
    },
@@ -14305,9 +14305,9 @@
       "title" : "異説彼岸花 第一 -原初のアマリリス- [LN14]"
    },
    {
-      "artist" : "NAGI Rustin",
+      "artist" : "NAGI Rustin  *FLIP",
       "comment" : "euro beat",
-      "level" : "12",
+      "level" : "★5",
       "md5" : "64a13580bd05117c67dabdc2657a4429",
       "title" : "la noche [giman]"
    },
@@ -14459,7 +14459,7 @@
       "title" : "BGT-No.15"
    },
    {
-      "artist" : "Red hood",
+      "artist" : "Red hood *FLIP LR.MIRROR",
       "comment" : "Jarring techno",
       "level" : "10",
       "md5" : "659ebd85b522dd0d5818183f5913fd1d",
@@ -14991,9 +14991,9 @@
       "title" : "A c i - L [DPD by blazar]"
    },
    {
-      "artist" : "Grand thaw",
+      "artist" : "Grand thaw *LR.RANDOM",
       "comment" : "EPIC TRANCE",
-      "level" : "12",
+      "level" : "11",
       "md5" : "6907c3d553296b963f7986f9a00003f5",
       "title" : "AutumnBreeze [mEUmeUmeUCkPm]"
    },
@@ -15595,7 +15595,7 @@
    {
       "artist" : "er *R.MIRROR",
       "comment" : "TRANCY FLOWPOP",
-      "level" : "12",
+      "level" : "★5",
       "md5" : "6d75cd4d23bcd8b15992bf66bf05d529",
       "title" : "STAR STREAM  [INSANE14]"
    },
@@ -15691,9 +15691,9 @@
       "title" : "Lucid Quartz"
    },
    {
-      "artist" : "SHIKI / obj:Redrum vs killer TOMATO/reobj:hamburger",
+      "artist" : "SHIKI / obj:Redrum vs killer TOMATO/reobj:hamburger *FLIP LR.MIR or 正規",
       "comment" : "TRANCE CORE",
-      "level" : "12",
+      "level" : "★6",
       "md5" : "6e090ba1d0c10b8c76041f8e839836e9",
       "title" : "Air (DP EX2008†LEGGENDARIA)"
    },
@@ -16995,7 +16995,7 @@
    {
       "artist" : "SHIKI reobj:hamburger",
       "comment" : "TRANCE",
-      "level" : "12",
+      "level" : "★3",
       "md5" : "763b17a0dbcac7fb44661270c5a8753a",
       "title" : "Angelic layer [DP 黒ANOTHER]"
    },
@@ -17560,6 +17560,13 @@
       "title" : "魔理沙が大変な事になりました [EX14]"
    },
    {
+      "artist" : "DusK obj.nor",
+      "comment" : "Jersey Club",
+      "level" : "4",
+      "md5" : "79f86ee9d379adc86a87f51f37dfbd8b",
+      "title" : "Daybreak"
+   },
+   {
       "artist" : "xi Obj.Gatia",
       "comment" : "HAPPY",
       "level" : "5",
@@ -17758,7 +17765,7 @@
    {
       "artist" : "MI-OH",
       "comment" : "HAPPY DUST FLOAT",
-      "level" : "12",
+      "level" : "11",
       "md5" : "7bcadfa974a0be1e97a358d91ca2ad2b",
       "title" : "SUSPENSION -DP ANOTHER-"
    },
@@ -18262,7 +18269,7 @@
    {
       "artist" : "9640 *LR.RANDOM",
       "comment" : "TRANCE",
-      "level" : "12",
+      "level" : "★4",
       "md5" : "7f49fe3a300d3b822b219ce1c3eb29f7",
       "title" : "AnGeLoS [DP_ANOTHER]"
    },
@@ -18596,7 +18603,7 @@
       "title" : "Endless Dream もうちょっとだけMGNother"
    },
    {
-      "artist" : "xi Obj.Gatia *LR.RAN or R.MIR",
+      "artist" : "xi Obj.Gatia *FLIP LR.RAN or R.MIR",
       "comment" : "HAPPY HARDCORE",
       "level" : "★4",
       "md5" : "81b67ad1f4a162724864078c7aa656cc",
@@ -19142,9 +19149,9 @@
       "title" : "Aether [DP+]"
    },
    {
-      "artist" : "Music : Lunatic Sounds / BGA : Photonskyto obj:kuro",
+      "artist" : "Music : Lunatic Sounds / BGA : Photonskyto obj:kuro *FLIP LR.MIRROR",
       "comment" : "ArtCore",
-      "level" : "12",
+      "level" : "★5",
       "md5" : "85017eb80ab753c4cc0ff0dd562da3e0",
       "title" : "DataErr0r [DP CHALLENGER]"
    },
@@ -19620,7 +19627,7 @@
    {
       "artist" : "s-don / 篠乃ちよ obj : mbp",
       "comment" : "Tech Dance",
-      "level" : "12",
+      "level" : "★5",
       "md5" : "8809260b0514461ca925bdb4cbad3328",
       "title" : "これ、Gamegameっすよ(^_^;) (bms edit)"
    },
@@ -19660,7 +19667,7 @@
       "title" : "Out of your love(Exhaust mix) -DP ANOTHER-"
    },
    {
-      "artist" : "yuki. obj:azurite BGI dotη  *FLIP L.MIRROR",
+      "artist" : "yuki. obj:azurite BGI dotη  *FLIP",
       "comment" : "HARDCORE",
       "level" : "9",
       "md5" : "886ff12d4220ac7876ecf5924d0c1d11",
@@ -19996,9 +20003,9 @@
       "title" : "Evanescent [Starlight in my eyes]"
    },
    {
-      "artist" : "ZUN (Remixed by EXCALIpUR)+- *FLIP LR.RANDOM?",
+      "artist" : "ZUN (Remixed by EXCALIpUR)+- *FLIP LR.RANDOM",
       "comment" : "FREEFORM",
-      "level" : "12",
+      "level" : "★8",
       "md5" : "8aa9f3bb00d5cc9977fc0a4411454ef0",
       "title" : "LUNASA the Stormcauser [INSANE]"
    },
@@ -20012,7 +20019,7 @@
    {
       "artist" : "charlotte obj. Gisela  *FLIP",
       "comment" : "okashicore",
-      "level" : "12",
+      "level" : "★5",
       "md5" : "8ac2cf80f2483c1b3b6d68d6baa63531",
       "title" : "cheeselove [DP mami]"
    },
@@ -20570,7 +20577,7 @@
       "title" : "ブランデンブルグ協奏曲 第3番 ト長調 第2･3楽章 [14keyAnother]"
    },
    {
-      "artist" : "er / obj:ゆ～兎 vs 檻 *FLIP",
+      "artist" : "er / obj:ゆ～兎 vs 檻",
       "comment" : "TECHNO POP",
       "level" : "4",
       "md5" : "8dee382052db64847de1736628f50b28",
@@ -20780,7 +20787,7 @@
       "title" : "魔理沙が大変な事になりました [H14]"
    },
    {
-      "artist" : "ねこみみ魔法使い for 地獄谷ふるる  *L.MIRROR",
+      "artist" : "ねこみみ魔法使い for 地獄谷ふるる",
       "comment" : "shuffle pop'n",
       "level" : "9",
       "md5" : "8f36362eface1ed2e0808af42b35368d",
@@ -21391,7 +21398,7 @@
    {
       "artist" : "sumomo and deathrain -G respect for 345",
       "comment" : "NU-STYLE BAKA",
-      "level" : "12",
+      "level" : "?",
       "md5" : "938660483afa26f132df20da002a549e",
       "title" : "gigapluto [EX14]"
    },
@@ -21774,7 +21781,7 @@
       "title" : "sola [DP CHALLENGER]"
    },
    {
-      "artist" : "Symphonian / Personality",
+      "artist" : "Symphonian / Personality *FLIP R.MIR or 正規",
       "comment" : "Full On",
       "level" : "★4",
       "md5" : "967083001bb8213a5c93908e21527ee8",
@@ -21958,7 +21965,7 @@
    {
       "artist" : "ZUN Remixed by くっちー obj:yutaka",
       "comment" : "UK HARDCORE",
-      "level" : "12",
+      "level" : "★5",
       "md5" : "97df48f29f457358fa597cedd076ee0b",
       "title" : "Criminal Yuan-Sheng [DP BLACK ANOTHER]"
    },
@@ -22082,9 +22089,9 @@
       "title" : "ポケットモンスター ブラック・ホワイト 四天王戦"
    },
    {
-      "artist" : "11.Soccer Team / obj:alt",
+      "artist" : "11.Soccer Team / obj:alt *MAXBPM FLIP",
       "comment" : "SOCCORE[DPA]",
-      "level" : "12",
+      "level" : "★4",
       "md5" : "989a25bc7c7a03ecae18ab22f405d8e4",
       "title" : "ドキッ！けふぃーとひ・み・つｖのサッカータイム☆☆ニャホニャホしても、いいんですよ･･･？　 ～KEFIFAワールドカップ編 We love 汚滝健太郎～"
    },
@@ -22929,9 +22936,9 @@
       "title" : "alive [DOUBLE]"
    },
    {
-      "artist" : "Kriemhild Gretchen obj. Gisela",
+      "artist" : "Kriemhild Gretchen obj. Gisela  *L.MIR",
       "comment" : "IDM",
-      "level" : "12",
+      "level" : "★6",
       "md5" : "9e9f2b4db446ad9e45209300afd42808",
       "title" : "Programmed Utopia [DP another]"
    },
@@ -24303,7 +24310,7 @@
    {
       "artist" : "髭姫 feat. えみゅう。 obj:ユキとタツキ LYRICS：やんばるん BGA：Milk_tya ILLUST：UNOQLO  *FLIP",
       "comment" : "SECRET SONG",
-      "level" : "9",
+      "level" : "8",
       "md5" : "a70c0a36b335094d411a4bd481236f1d",
       "title" : "貴女と秘密の… ～そっと…唇重ねる～"
    },
@@ -25687,9 +25694,9 @@
       "title" : "Trick? Trick. Trick!!! -N mix- [DP HYPER]"
    },
    {
-      "artist" : "narve / remix:helix obj:ucc",
+      "artist" : "narve / remix:helix obj:ucc *R.MIR or FLIP R.MIR",
       "comment" : "trance(revenger)",
-      "level" : "12",
+      "level" : "11",
       "md5" : "b0977f40c98c2bbf7afd06342ef7c1b1",
       "title" : "迦具土 -REVENGER- [EX14]"
    },
@@ -25850,7 +25857,7 @@
    {
       "artist" : "LV.4+-  by Spelma",
       "comment" : "HARD NRG",
-      "level" : "12",
+      "level" : "★4",
       "md5" : "b1ca95e12d38a70429a166db3e93dc9b",
       "title" : "Angel dust"
    },
@@ -26046,7 +26053,7 @@
    {
       "artist" : "DiA /obj-7RIN",
       "comment" : "DANCE SPEED",
-      "level" : "12",
+      "level" : "★4",
       "md5" : "b355de6c51d504887133badcd2520ceb",
       "title" : "Chinese Typhoon [無期懲役]"
    },
@@ -26114,7 +26121,7 @@
       "title" : "Rosario -AnotherStory- [TypeB]"
    },
    {
-      "artist" : "Yamajet / 壱air@Visualizer / obj:second *FLIP R.MIRROR",
+      "artist" : "Yamajet / 壱air@Visualizer / obj:second",
       "comment" : "MONDO",
       "level" : "9",
       "md5" : "b3dee6012305f371c9c111ba7e338e9a",
@@ -27026,7 +27033,7 @@
    {
       "artist" : "哀愁マニア",
       "comment" : "hi-nrg / trance",
-      "level" : "12",
+      "level" : "★4",
       "md5" : "b973afa547de0563c8f26b60cd8931c8",
       "title" : "the lost dedicated [mind]"
    },
@@ -28774,7 +28781,7 @@
       "title" : "INSANITY MOON STRIKER [H14]"
    },
    {
-      "artist" : "ZUN RMX By 44teru-k obj:ucc",
+      "artist" : "ZUN RMX By 44teru-k obj:ucc *L.MIRROR",
       "comment" : "こいしMIXTURE",
       "level" : "11",
       "md5" : "c5c3ab936d2e1f982a8e8a3247d34054",
@@ -30736,7 +30743,7 @@
    {
       "artist" : "SHIKI/fity",
       "comment" : "Trance core",
-      "level" : "12",
+      "level" : "★5",
       "md5" : "d4a4e5607be8940407a6a55078ead7d9",
       "title" : "Xecus [S]"
    },
@@ -30867,9 +30874,9 @@
       "title" : "Misdirection [ENOSHIMA14]"
    },
    {
-      "artist" : "姉ヶ崎 寧々 / obj:ED BGA : photonskyto",
+      "artist" : "姉ヶ崎 寧々 / obj:ED BGA : photonskyto  *FLIP R.MIR",
       "comment" : "FULL ON",
-      "level" : "12",
+      "level" : "★6",
       "md5" : "d5d5c7f98d1656211ca5b8ca2c965cc5",
       "title" : "ZENITHALIZE [練習]"
    },
@@ -30890,7 +30897,7 @@
    {
       "artist" : "ZUN(Arr.髭姫) / obj:如月結 VOCAL:しゆ LYRICS：ドラホス BGA：とみー",
       "comment" : "厨二電波ソング",
-      "level" : "12",
+      "level" : "★6",
       "md5" : "d60ca8cce738931df30d075a7562ef4e",
       "title" : "疾騒！痛快！正義のアヤパカガール <<JUSTICE the AYAPAKA>>"
    },
@@ -30972,7 +30979,7 @@
       "title" : "Angelic Snow -practice-†leggendaria"
    },
    {
-      "artist" : "ZUN remix by 44teru-k obj:ucc *FLIP L.MIRROR",
+      "artist" : "ZUN remix by 44teru-k obj:ucc *FLIP L.MIR or L.MIR",
       "comment" : "trance core",
       "level" : "10",
       "md5" : "d691ff46e0c6f11d0857cc6f18fa4c83",
@@ -31252,7 +31259,7 @@
       "title" : "A c i - L - An...um...ii"
    },
    {
-      "artist" : "keyc / Symphonian *FLIP R.MIRROR",
+      "artist" : "keyc / Symphonian",
       "comment" : "m9 MINIMAL",
       "level" : "10",
       "md5" : "d8d2eee80ecb9312bfe5be73dcbdbf03",
@@ -31322,9 +31329,9 @@
       "title" : "Etuden Op.22 No.2"
    },
    {
-      "artist" : "primrose obj:ucc *R.MIRROR",
+      "artist" : "primrose obj:ucc *MAX+30 R.MIRROR",
       "comment" : "ゴシック",
-      "level" : "5",
+      "level" : "7",
       "md5" : "d966add5d45f9b0ebec72d2eee7cdecb",
       "title" : "Lycoris [A14]"
    },
@@ -31406,7 +31413,7 @@
       "title" : "Cross Galaxy [DP_EX]"
    },
    {
-      "artist" : "Ricca(obj:ka2o)",
+      "artist" : "Ricca(obj:ka2o) *FLIP L.MIRROR",
       "comment" : "MACARO'N' STEP",
       "level" : "1",
       "md5" : "d9bac2778e4819c2ee01edc414a118e3",
@@ -32120,9 +32127,9 @@
       "title" : "NO NIGHT MORE SOUL! -14keys-"
    },
    {
-      "artist" : "elephant&rose / Kz",
+      "artist" : "elephant&rose / Kz *FLIP L.MIRROR",
       "comment" : "MORODASH TECHNO",
-      "level" : "12",
+      "level" : "?",
       "md5" : "dedf0f184e7d09ada8c0cb097a761978",
       "title" : "Life-with-覚醒しすぎました！！！ごめんなさい！！！１１１"
    },
@@ -32960,7 +32967,7 @@
       "title" : "DISCHARGE RUSH  [ANOTHER]"
    },
    {
-      "artist" : "霜鵙 / obj.BACO",
+      "artist" : "霜鵙 / obj.BACO *FLIP",
       "comment" : "kiddy pop",
       "level" : "10",
       "md5" : "e51c71b166740a0f9b6193f8ea906cb6",
@@ -33478,9 +33485,9 @@
       "title" : "Astral Xebec"
    },
    {
-      "artist" : "ジーニアスかわいい！！ *LR.RANDOM",
+      "artist" : "ジーニアスかわいい！！ *L.MIR R.RAN",
       "comment" : "SWING FLEBILE",
-      "level" : "12",
+      "level" : "★6",
       "md5" : "e92c5d3019bc0ccbc853b630a7e7c49f",
       "title" : "魔法少年は月夜にマワる (DP ANOTHER)"
    },
@@ -33914,7 +33921,7 @@
    {
       "artist" : "kireji / object by meteor* *FLIP",
       "comment" : "和洋折衷盥回",
-      "level" : "11",
+      "level" : "★4",
       "md5" : "ebeffb105901d104e10cb3998d146328",
       "title" : "YATA [DP HELL]"
    },
@@ -34017,7 +34024,7 @@
       "title" : "Arxisia"
    },
    {
-      "artist" : "syatten *FLIP LR.MIRROR",
+      "artist" : "syatten",
       "comment" : "Cosmic / Dutch Trance",
       "level" : "11",
       "md5" : "ec913f21f5310992512896cfca0bab11",
@@ -34290,13 +34297,6 @@
       "title" : "- harmonics - [DP CHALLENGER+]"
    },
    {
-      "artist" : "DusK obj.nor",
-      "comment" : "Jersey Club",
-      "level" : "4",
-      "md5" : "ee0b23dc070940725c71856712213e75",
-      "title" : "Daybreak"
-   },
-   {
       "artist" : "polycube / object by meteor* mov : 1B",
       "comment" : "HALLUCIGENIA",
       "level" : "1",
@@ -34383,7 +34383,7 @@
    {
       "artist" : "LV.4 (DPobject by tsk)",
       "comment" : "HARD NRG",
-      "level" : "12",
+      "level" : "★4",
       "md5" : "ee5ce7a1656c2468f0eb5777f5849315",
       "title" : "Angel dust [14key//Dark]"
    },
@@ -34733,7 +34733,7 @@
    {
       "artist" : "Est / air",
       "comment" : "TRANCE",
-      "level" : "11",
+      "level" : "★3",
       "md5" : "f0d0c3a7f5e17ba93cecbbf3ce23be15",
       "title" : "Angelic Snow -practice-"
    },
@@ -34775,7 +34775,7 @@
    {
       "artist" : "モリモリあつし obj:右手が恋人",
       "comment" : "HARD RENAISSANCE",
-      "level" : "12",
+      "level" : "★5",
       "md5" : "f123c22bc98eaffc520afd72001f2c3f",
       "title" : "PUPA [S]"
    },
@@ -35872,9 +35872,9 @@
       "title" : "transistor [Another]"
    },
    {
-      "artist" : "remixed by sumomo *FLIP",
+      "artist" : "remixed by sumomo",
       "comment" : "Light Pop (hard14)",
-      "level" : "8",
+      "level" : "9",
       "md5" : "f917764603d8e44bb58efe529e9b20be",
       "title" : "クインティ アーティストステージBGM  (Pop Step.Remix)"
    },
@@ -36474,7 +36474,7 @@
       "title" : "G e n g a o z o -Screen music- [f u - n]"
    },
    {
-      "artist" : "xi/obj:epics-",
+      "artist" : "xi/obj:epics- *R.MIR or FLIP R.MIR",
       "comment" : "RENAISSANCE HARDCORE",
       "level" : "10",
       "md5" : "fd049b5a57d7659b7234bdf67099c324",
@@ -36754,9 +36754,9 @@
       "title" : "Cirrus Resort [Cute]"
    },
    {
-      "artist" : "3034 *FLIP",
+      "artist" : "3034 *AVERAGE FLIP LR.S-RAN",
       "comment" : "DnBT",
-      "level" : "12",
+      "level" : "★5",
       "md5" : "ff901d0d6716c1146517409f325249e0",
       "title" : "sample No.05"
    },
