@@ -278,6 +278,7 @@ metadata from LR2IR, public events and difficulty tables
 |表名|リンク(ミラー)|
 |-|:-:|
 |[BMS削除曲難易度表](http://bmsohaka.web.fc2.com/cemetery.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/BMS削除曲難易度表/table.html)|
+|[DP Overjoy](http://ereter.net/dpoverjoy/)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/DP%20Overjoy/table.html)|
 |[DP皿難易度表](http://www015.upp.so-net.ne.jp/deep_throat/nanido/dp_saranan.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/DP皿難易度表/table.html)|
 |[EXTRAモード難易度表](http://shimamasa1009.web.fc2.com)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/EXTRAモード難易度表/table.html)|
 |[G e n g a o j o y](http://be5moti.web.fc2.com/gengaojoy/)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/G%20e%20n%20g%20a%20o%20j%20o%20y/table.html)|
