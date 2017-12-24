@@ -38,6 +38,7 @@ metadata from LR2IR, public events and difficulty tables
 
 |イベント名|リンク|コメント|
 |-|:-:|-|
+|[BOFU2017](http://bmsoffighters.net/bofu2017/index.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/events/BOFU2017/table.html)|
 |[BMS衆議院選](https://qstol.info/events/BMS_Shuin/)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/events/BMS衆議院選/table.html)|
 |[B.T.S. -Brilliant Techno Square-](http://k2gh.web.fc2.com/btstechno_jpn.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/events/B.T.S.%20-Brilliant%20Techno%20Square-/table.html)|
 |[会場テストイベント](https://qstol.info/events/venue/list?event=4)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/events/会場テストイベント/table.html)|
