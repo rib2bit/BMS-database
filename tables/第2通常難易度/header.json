@@ -1075,42 +1075,12 @@
                "grade_mirror"
             ],
             "md5" : [
-               "7f603d49c3417e75adb8d09e08e369d5",
-               "be720f52dfc491d1bf94dc13a4d6ed47",
-               "1f73e9c19fd5415cae06185bb334e5ca",
-               "6d0e8e0371b74f0fafd1c2d5bb92ecfb"
-            ],
-            "name" : "八段2016",
-            "style" : "red",
-            "trophy" : [
-               {
-                  "missrate" : 7.5,
-                  "name" : "bronzemedal",
-                  "scorerate" : 0
-               },
-               {
-                  "missrate" : 5,
-                  "name" : "silvermedal",
-                  "scorerate" : 70
-               },
-               {
-                  "missrate" : 2.5,
-                  "name" : "goldmedal",
-                  "scorerate" : 85
-               }
-            ]
-         },
-         {
-            "constraint" : [
-               "grade_mirror"
-            ],
-            "md5" : [
+               "325213609ad69f4bb9bcb61735318423",
+               "d53d561ce0296739755b4c03208c375c",
                "223274bfa8d1fa0c32851a273cd28858",
-               "b2697e62f327e504c3bf33e200b93288",
-               "668a238afc2ef29efa87c0fd4a7166b5",
-               "05cb145488b5fd46972b904ff527bba9"
+               "aae406911863082a192b77a4c1212fb7"
             ],
-            "name" : "九段2016",
+            "name" : "第2通常段位認定2018 九段",
             "style" : "red",
             "trophy" : [
                {
@@ -1135,12 +1105,12 @@
                "grade_mirror"
             ],
             "md5" : [
-               "34e09ddf69ae8bdca128db1cc39d163a",
-               "1795731242284bdc443c82b20f243b3f",
-               "0f05b8a42d5565b53d2f1143e432c482",
-               "f721ccf7812feb4380110a237e5f8953"
+               "1cffb346b9a80b2bc119dd95e8a162c8",
+               "711006f06cb07a40e4dc6f0afaa8095c",
+               "5a124174934f23be7749c58eba89428e",
+               "54eaf5c717d0cbc0698f7c624d482ec4"
             ],
-            "name" : "十段2016",
+            "name" : "第2通常段位認定2018 十段",
             "style" : "red",
             "trophy" : [
                {

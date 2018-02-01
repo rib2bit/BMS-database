@@ -60,6 +60,18 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up2218.zip"
    },
    {
+      "artist" : "paraoka / 制限",
+      "comment" : "FILE:01391,★9～10,ガチ押し",
+      "level" : "Λ",
+      "lr2_bmsid" : "256735",
+      "md5" : "02cc25e2711ba839c5db93d3579b2816",
+      "name_diff" : "アプロダ避難所",
+      "reg_date" : " ",
+      "title" : "L9",
+      "url" : "http://web.archive.org/web/20070301141729/http://homepage1.nifty.com:80/paraoka/index38.html",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01391"
+   },
+   {
       "artist" : "BACO feat. るぜ /差分 赤い人",
       "comment" : "",
       "level" : "8",
@@ -118,6 +130,19 @@
       "title" : "ピアノ連弾的「You」～ひぐらしのなく頃に～ [ LEVEL 4 ]",
       "url" : "http://www.geocities.jp/red_without_right_stick/",
       "url_diff" : "http://akred.web.fc2.com/ak-red.html"
+   },
+   {
+      "artist" : "Dolphin Movie: はづく / obj:SUZUKAZEΛ",
+      "comment" : "同時押し,微縦連,ズレ",
+      "level" : "2",
+      "lr2_bmsid" : "256272",
+      "md5" : "03c1d15bf585538013a98a30fcbda8dc",
+      "name_diff" : "SUZUKAZEΛ",
+      "reg_date" : " ",
+      "state" : 1,
+      "title" : "Khalid [ZOI]",
+      "url" : "https://bmssearch.net/venue/detail?event=vfpq02&id=3",
+      "url_diff" : "https://dl.dropbox.com/s/2xo6q0f3r825y7a/khalid_zoi.zip?dl=1"
    },
    {
       "artist" : "LV.4 (obj.mp)",
@@ -1804,6 +1829,18 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up5120.zip"
    },
    {
+      "artist" : "O-SE / obj.7zs",
+      "comment" : "",
+      "level" : "2",
+      "lr2_bmsid" : "255081",
+      "md5" : "41970f91b016ae247054f63be3bfaaef",
+      "name_diff" : "7zs",
+      "reg_date" : " ",
+      "title" : "町 [Dernier Train]",
+      "url" : "http://kaikou.nothing.sh/musics",
+      "url_diff" : "http://7zssabun.web.fc2.com/index.html"
+   },
+   {
       "artist" : "Nego_tiator/BGA:Fiz obj:K-SPIN",
       "comment" : "",
       "level" : "9",
@@ -1823,7 +1860,6 @@
       "md5" : "41ed26d9f8ff084704b0c91d0d083d43",
       "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
-      "state" : 1,
       "title" : "IN THE HOUSE [ZOI]",
       "url" : "https://bmssearch.net/venue/detail?event=ippaitukuru2018&id=11",
       "url_diff" : "https://dl.dropbox.com/s/nasp1jfmxwqi3z1/inthehouse_zoi.zip?dl=1"
@@ -1996,6 +2032,19 @@
       "title" : "ホーリーサンバランド [FIRST BOSS]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=193&event=96",
       "url_diff" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=193&event=96"
+   },
+   {
+      "artist" : "9-zen obj:SUZUKAZEΛ",
+      "comment" : "二重階段,軸,ズレ",
+      "level" : "1",
+      "lr2_bmsid" : "257053",
+      "md5" : "477e42133626489853f003dffb0f9118",
+      "name_diff" : "SUZUKAZEΛ",
+      "reg_date" : " ",
+      "state" : 1,
+      "title" : "はるかぜの湊に [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=118",
+      "url_diff" : "https://dl.dropbox.com/s/8uqz1sn9t8wy6of/%E3%81%AF%E3%82%8B%E3%81%8B%E3%81%9C%E3%81%AE%E6%B9%8A%E3%81%AB_zoi.zip?dl=1"
    },
    {
       "artist" : "knot / Yamajet BGA:ichiAIR / obj:SUZUKAZEΛ",
@@ -2201,6 +2250,19 @@
       "title" : "秋思に三日月　あなたに紅葉",
       "url" : "https://www.axfc.net/u/3832967",
       "url_diff" : "http://xyzzz.net/objxyz.php"
+   },
+   {
+      "artist" : "Est obj:SUZUKAZEΛ",
+      "comment" : "同時押し,交互押し,皿複合,LN",
+      "level" : "1",
+      "lr2_bmsid" : "256538",
+      "md5" : "50976fd0bddbdda58a72c0ad36a58f55",
+      "name_diff" : "SUZUKAZEΛ",
+      "reg_date" : " ",
+      "state" : 1,
+      "title" : "Dog Ear [ZOI]",
+      "url" : "https://www.dropbox.com/s/amob98b5rpf3x5y/est134_dog_ear.zip?dl=1",
+      "url_diff" : "https://dl.dropbox.com/s/qso3257mra62tee/est134_dog_ear_zoi.zip?dl=1"
    },
    {
       "artist" : "P.E. / obj:kuu",
@@ -2538,6 +2600,18 @@
       "title" : "ATLAS [ZOI]",
       "url" : "http://k-bms.com/party_pabat/party2016.jsp?board_num=16&num=55&order=reg&odtype=a",
       "url_diff" : "http://dl.dropbox.com/s/xd6vy00n84dab31/ATLAS_fixzoi.zip?dl=0"
+   },
+   {
+      "artist" : "Tanchiky",
+      "comment" : "",
+      "level" : "1",
+      "lr2_bmsid" : "253366",
+      "md5" : "5a7f422b05a7867ccdd47f10ebe31907",
+      "name_diff" : "同梱譜面",
+      "reg_date" : " ",
+      "title" : "ENERGY SYNERGY MATRIX",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=484&event=116",
+      "url_diff" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=484&event=116"
    },
    {
       "artist" : "竜。 feat.さとうささら lyrics.まさゆき / obj : LindBlum",
@@ -3369,6 +3443,18 @@
       "url_diff" : "http://akred.web.fc2.com/baecon.html"
    },
    {
+      "artist" : "chocolate max/さ-flm",
+      "comment" : "FILE:01272",
+      "level" : "5",
+      "lr2_bmsid" : "187959",
+      "md5" : "7a789d79d6179b253c9b762ba44487b9",
+      "name_diff" : "アプロダ避難所",
+      "reg_date" : " ",
+      "title" : "＊CinnamoN＊",
+      "url" : "http://web.archive.org/web/20070817081433/http://sasakure.bms.ms/bms/cinnamon.zip",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01272"
+   },
+   {
       "artist" : "syatten + 140 / obj : A4",
       "comment" : "",
       "level" : "0",
@@ -3670,6 +3756,19 @@
       "url_diff" : "http://akred.web.fc2.com/baecon.html"
    },
    {
+      "artist" : "nmk feat.かなえゆめ Lyric:夏瀬恭一 / Illust:鈴くす / BGA:むっつぅ / obj:SUZUKAZEΛ",
+      "comment" : "物量,階段,皿複合,壁",
+      "level" : "8",
+      "lr2_bmsid" : "257147",
+      "md5" : "8454d89a91824ce03b6eea069593d819",
+      "name_diff" : "SUZUKAZEΛ",
+      "reg_date" : " ",
+      "state" : 1,
+      "title" : "peerless gale [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=24&event=118",
+      "url_diff" : "https://dl.dropbox.com/s/0rw5685aavvnqb5/nmk_peerless_gale_zoi.zip?dl=1"
+   },
+   {
       "artist" : "Arranged by Y.W obj:SUZUKAZEΛ",
       "comment" : "微縦連,二重階段",
       "level" : "5",
@@ -3826,6 +3925,18 @@
       "title" : "Hecatoncheir",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=290&event=110",
       "url_diff" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=290&event=110"
+   },
+   {
+      "artist" : "t-soach obj.quad",
+      "comment" : "FILE:01014,[本体補足]G2R2014パッケージからDL",
+      "level" : "5",
+      "lr2_bmsid" : "256242",
+      "md5" : "8a29235915681777a4e4825982ddf9bb",
+      "name_diff" : "アプロダ避難所",
+      "reg_date" : " ",
+      "title" : "青色三号 [MANIAC]",
+      "url" : "http://teracoya.nekokan.dyndns.info/g2r2014uop/",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01014"
    },
    {
       "artist" : "sound piercer / mov : deadblue238 illust by monicaNC & mzet:-P / obj:みすげ～",
@@ -4030,6 +4141,19 @@
       "title" : "elegante [Another+]",
       "url" : "http://electro-planet.net/loveplus/",
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up1607.zip"
+   },
+   {
+      "artist" : "ルナ・ヴィオーラ obj:SUZUKAZEΛ",
+      "comment" : "ズレ,微縦連,皿複合,ソフラン",
+      "level" : "6",
+      "lr2_bmsid" : "256273",
+      "md5" : "9325e6fa13ebd364ff951718e5677c43",
+      "name_diff" : "SUZUKAZEΛ",
+      "reg_date" : " ",
+      "state" : 1,
+      "title" : "ヒストリー、ノスタルジア、ゼムルーデ・ヴァルドラーダ [ZOI]",
+      "url" : "https://bmssearch.net/venue/detail?event=vfpq02&id=18",
+      "url_diff" : "https://dl.dropbox.com/s/xcgxmzbkcj2hz6w/%5Blunav%5Dhnzv_zoi.zip?dl=1"
    },
    {
       "artist" : "P*Light obj: ACRON",
@@ -4363,7 +4487,6 @@
       "md5" : "9fcb4c0d22929c7fedc05983a43ae63f",
       "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
-      "state" : 1,
       "title" : "ugoku,ugoku －hyper m,gumix－ [ZOI]",
       "url" : "https://bmssearch.net/venue/detail?event=ippaitukuru2018&id=3",
       "url_diff" : "https://dl.dropbox.com/s/yrkrjo4jyhe6ydy/ugoku_ugoku_hyper_mgumix_zoi.zip?dl=1"
@@ -4742,6 +4865,18 @@
       "url_diff" : "http://drowsy.hannnari.com/"
    },
    {
+      "artist" : "こはのん(kohaxy vs Hanon) obj:monaka",
+      "comment" : "",
+      "level" : "0",
+      "lr2_bmsid" : "254288",
+      "md5" : "ae0c26b17c673bc65316db0b4f42748c",
+      "name_diff" : "monaka",
+      "reg_date" : " ",
+      "title" : "恋色エモーション [Colorful]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=115&event=116",
+      "url_diff" : "https://ux.getuploader.com/monaka_sabun_2/download/136"
+   },
+   {
       "artist" : "LOKI obj:SUZUKAZEΛ",
       "comment" : "物量,高速階段,皿絡み",
       "level" : "10",
@@ -4953,7 +5088,6 @@
       "md5" : "b6cc4c4347e2a6a7f3551ba46067cdda",
       "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
-      "state" : 1,
       "title" : "Starry Stream [ZOI]",
       "url" : "https://bmssearch.net/venue/detail?event=ippaitukuru2018&id=31",
       "url_diff" : "https://dl.dropbox.com/s/f47nti0n3uqdcur/%5Braii%5DStarry%20Stream_zoi.zip?dl=1"
@@ -5089,6 +5223,19 @@
       "title" : "HYPERDIMENSION/ACCELERATION [ZOI]",
       "url" : "http://k-bms.com/party_pabat/party2016.jsp?board_num=16&num=70&order=reg&odtype=a",
       "url_diff" : "https://dl.dropbox.com/s/p3m2t0ikjkofs85/H_A_zoi.zip?dl=0"
+   },
+   {
+      "artist" : "uma feat. ましろ obj:SUZUKAZEΛ",
+      "comment" : "同時押し,皿複合",
+      "level" : "4",
+      "lr2_bmsid" : "257021",
+      "md5" : "bb51e06228e7279b47120b9a5c527421",
+      "name_diff" : "SUZUKAZEΛ",
+      "reg_date" : " ",
+      "state" : 1,
+      "title" : "Love☆Spellcard [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=118",
+      "url_diff" : "https://dl.dropbox.com/s/9nxucvo20dhvoyi/ogg_lsc_zoi.zip?dl=1"
    },
    {
       "artist" : "NIKITA / misokabocha obj:K-SPIN",
@@ -6817,6 +6964,19 @@
       "title" : "P.S : Plasma Strike [Black-A]",
       "url" : "http://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9#id=FC95A680740CA8C9%21172&cid=FC95A680740CA8C9",
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up0414.zip"
+   },
+   {
+      "artist" : "しらいし BGI・obj:SUZUKAZEΛ",
+      "comment" : "乱打,ズレ,同時押し,BGI同梱",
+      "level" : "5",
+      "lr2_bmsid" : "257046",
+      "md5" : "f4c7e86f14881d82397772ead99ceef3",
+      "name_diff" : "SUZUKAZEΛ",
+      "reg_date" : " ",
+      "state" : 1,
+      "title" : "彼女なのか [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=118",
+      "url_diff" : "https://dl.dropbox.com/s/eyt1ezxwdudwdjl/%E5%BD%BC%E5%A5%B3%E3%81%AA%E3%81%AE%E3%81%8B_zoi.zip?dl=1"
    },
    {
       "artist" : "zio obj:SUZUKAZEΛ",
