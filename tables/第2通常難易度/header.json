@@ -1075,6 +1075,96 @@
                "grade_mirror"
             ],
             "md5" : [
+               "5c925be5cfef2aedcbbdf5d6ea45bc2b",
+               "b35b2481b28877d5846492442bb18d1b",
+               "5e9f0599c1a7fa020ab2b0683272f776",
+               "562308fb53613a8baf25784394409709"
+            ],
+            "name" : "第2通常段位認定2018 六段",
+            "style" : "red",
+            "trophy" : [
+               {
+                  "missrate" : 7.5,
+                  "name" : "bronzemedal",
+                  "scorerate" : 0
+               },
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror"
+            ],
+            "md5" : [
+               "cd76f90327dfea365d98f4e8d53c88a0",
+               "79ed06a56ab7d01b4b1ee2306bea95a2",
+               "2c30cf9cf469d5bfc4249e8042d6f225",
+               "4347dd893c8a19995e7ad08f1f641112"
+            ],
+            "name" : "第2通常段位認定2018 七段",
+            "style" : "red",
+            "trophy" : [
+               {
+                  "missrate" : 7.5,
+                  "name" : "bronzemedal",
+                  "scorerate" : 0
+               },
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror"
+            ],
+            "md5" : [
+               "20daf6c408b4dd1d427efea71e194367",
+               "321af1c1e0db37d1edf6dd49bd738933",
+               "fb61fbc91adf5a805528697564d838d1",
+               "8f5d64954bb19efbf9a886134f79193e"
+            ],
+            "name" : "第2通常段位認定2018 八段",
+            "style" : "red",
+            "trophy" : [
+               {
+                  "missrate" : 7.5,
+                  "name" : "bronzemedal",
+                  "scorerate" : 0
+               },
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror"
+            ],
+            "md5" : [
                "325213609ad69f4bb9bcb61735318423",
                "d53d561ce0296739755b4c03208c375c",
                "223274bfa8d1fa0c32851a273cd28858",
