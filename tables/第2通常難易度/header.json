@@ -1072,7 +1072,157 @@
       [
          {
             "constraint" : [
-               "grade_mirror"
+               "grade_random"
+            ],
+            "md5" : [
+               "5734e689de8e977d58c6fb0f91bcee70",
+               "b5b7de75fdeb6df81bbee0b2bdf2903c",
+               "9e748901e6479ae3a202f95c5b6283fb",
+               "e2b3d187cf9e1deddde0a3dac075002e"
+            ],
+            "name" : "第2通常段位認定2018 初段",
+            "style" : "red",
+            "trophy" : [
+               {
+                  "missrate" : 7.5,
+                  "name" : "bronzemedal",
+                  "scorerate" : 0
+               },
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_random"
+            ],
+            "md5" : [
+               "2c0d139bb400382935ae45259141a17b",
+               "6c6513aeeff510257ac815611d5c6cfa",
+               "ffbde15f030fd17eeec538413573fbe4",
+               "0b8ff4ac23adc8da1ba6249b15769726"
+            ],
+            "name" : "第2通常段位認定2018 二段",
+            "style" : "red",
+            "trophy" : [
+               {
+                  "missrate" : 7.5,
+                  "name" : "bronzemedal",
+                  "scorerate" : 0
+               },
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_random"
+            ],
+            "md5" : [
+               "9f9de34028e76a60094a5a6dd0c5b842",
+               "130fcfa155b634a63949a7fbb810079f",
+               "1be8646458717eeb772a2f138a323c6f",
+               "5d03cc4f129145033a6e92355dec4d88"
+            ],
+            "name" : "第2通常段位認定2018 三段",
+            "style" : "red",
+            "trophy" : [
+               {
+                  "missrate" : 7.5,
+                  "name" : "bronzemedal",
+                  "scorerate" : 0
+               },
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_random"
+            ],
+            "md5" : [
+               "5ed0d97f7f66d9a031ff9176efff07e9",
+               "a01dfe8833ca18c7cf8d909b1dce9577",
+               "00c1dde52394cf2b113dce3fa1935ebf",
+               "af6e11fbd685ec64c01d971b05f8c8bc"
+            ],
+            "name" : "第2通常段位認定2018 四段",
+            "style" : "red",
+            "trophy" : [
+               {
+                  "missrate" : 7.5,
+                  "name" : "bronzemedal",
+                  "scorerate" : 0
+               },
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_random"
+            ],
+            "md5" : [
+               "97e192275ca1f8295caf2d7db8145049",
+               "f9ef37af8006e169b2cdff75c3f09822",
+               "d2f44370fe455dc1fbffd8c5c6505e77",
+               "48fe9800c3b29f1bea58fe408b46349a"
+            ],
+            "name" : "第2通常段位認定2018 五段",
+            "style" : "red",
+            "trophy" : [
+               {
+                  "missrate" : 7.5,
+                  "name" : "bronzemedal",
+                  "scorerate" : 0
+               },
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_random"
             ],
             "md5" : [
                "5c925be5cfef2aedcbbdf5d6ea45bc2b",
@@ -1131,14 +1281,26 @@
             ]
          },
          {
+            "charts" : [
+               {
+                  "md5" : "20daf6c408b4dd1d427efea71e194367",
+                  "title" : "メルヘニア -malchenia- [ANOTHER]"
+               },
+               {
+                  "md5" : "321af1c1e0db37d1edf6dd49bd738933",
+                  "title" : "Total Eclipse of the Sun -Hyper-"
+               },
+               {
+                  "md5" : "fb61fbc91adf5a805528697564d838d1",
+                  "title" : "Auburn Halo"
+               },
+               {
+                  "md5" : "8f5d64954bb19efbf9a886134f79193e",
+                  "title" : "world devoid of you (fairydust radio edit // SP Another)"
+               }
+            ],
             "constraint" : [
                "grade_mirror"
-            ],
-            "md5" : [
-               "20daf6c408b4dd1d427efea71e194367",
-               "321af1c1e0db37d1edf6dd49bd738933",
-               "fb61fbc91adf5a805528697564d838d1",
-               "8f5d64954bb19efbf9a886134f79193e"
             ],
             "name" : "第2通常段位認定2018 八段",
             "style" : "red",
