@@ -464,6 +464,20 @@
       "url_diff" : "http://rattoto10.web.fc2.com/bms/rat_elegante.zip"
    },
    {
+      "artist" : "saikoro",
+      "comment" : "FILE 01436",
+      "eval" : 0,
+      "level" : "12",
+      "lr2_bmsid" : "0",
+      "md5" : "1cdddf7704ef3ce9b04f2cc2d838d097",
+      "name_diff" : "rat",
+      "reg_date" : "2016-03-07",
+      "state" : 0,
+      "tag" : null,
+      "title" : "far in the blue sky... [rather]",
+      "url_diff" : "http://rattoto10.web.fc2.com/bms/rat_farinthebluesky.zip"
+   },
+   {
       "artist" : "ねこみりん + nora2r feat. 小宮真央 / 出前 + くるみあべし",
       "comment" : "",
       "eval" : 0,
@@ -2941,7 +2955,7 @@
    },
    {
       "artist" : "ikaruga_nex",
-      "comment" : "FILE 00951",
+      "comment" : "FILE 00951,▼6",
       "eval" : 0,
       "level" : "13",
       "lr2_bmsid" : "0",
