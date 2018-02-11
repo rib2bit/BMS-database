@@ -2,12 +2,12 @@
    "compat_prefix" : "EX★",
    "data_url" : "data.json",
    "editor_name" : "BeMusicSeeker",
-   "editor_version" : "0.3.3.9",
+   "editor_version" : "0.3.3.18",
    "entry_type" : "",
    "folder_order" : [],
    "folder_sort_ascending" : true,
    "folder_sort_key" : "",
-   "last_update" : "2017/10/07",
+   "last_update" : "2018/02/11",
    "level_order" : [
       "1",
       "2",
@@ -38,6 +38,6 @@
    ],
    "name" : "EXTRAモード難易度表",
    "original_url" : "http://shimamasa1009.web.fc2.com",
-   "output_date" : "2017/10/07",
+   "output_date" : "2018/02/11",
    "symbol" : "EX★"
 }
