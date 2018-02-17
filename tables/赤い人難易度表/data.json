@@ -2469,6 +2469,21 @@
       "url_pack" : null
    },
    {
+      "artist" : "Freezer feat. 妃苺/obj:赤い人",
+      "comment" : null,
+      "eval" : 0,
+      "level" : "3",
+      "md5" : "758327498a1bf352c1208b5def353c87",
+      "name_diff" : "右クリック保存",
+      "name_pack" : null,
+      "state" : 1,
+      "tag" : null,
+      "title" : "Berry Go!! [HARD]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=23&amp;event=116",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/Berry-Go_HARD.bme",
+      "url_pack" : null
+   },
+   {
       "artist" : "BOKKEN PINK ",
       "comment" : "",
       "level" : "21",
@@ -2661,15 +2676,35 @@
       "url_pack" : null
    },
    {
+      "artist" : "Freezer feat. 妃苺/obj:赤い人",
+      "comment" : null,
+      "eval" : 0,
+      "level" : "15",
+      "md5" : "819058954e618fe7a1a86c828f9d616e",
+      "name_diff" : "右クリック保存",
+      "name_pack" : null,
+      "state" : 1,
+      "tag" : null,
+      "title" : "Berry Go!! [HARDEST]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=23&amp;event=116",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/Berry-Go_HARDEST.bme",
+      "url_pack" : null
+   },
+   {
       "artist" : "xi",
       "comment" : "",
-      "level" : "22",
+      "eval" : 0,
+      "level" : "23",
       "lr2_bmsid" : 128745,
       "md5" : "81cffd4c50402037a8d9864c5fdbf656",
       "name_diff" : "右クリック保存",
+      "name_pack" : null,
+      "state" : 2,
+      "tag" : null,
       "title" : "Pandemonium [死ぬがよい]",
       "url" : "http://colosseo.nekokan.dyndns.info/c02_shuffle/detail.php?n=53",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/Pandemonium-DEATH.bml"
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/Pandemonium-DEATH.bml",
+      "url_pack" : null
    },
    {
       "artist" : "Ino / 差分 赤い人",
