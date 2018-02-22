@@ -4466,7 +4466,7 @@
       "md5" : "2ff1c3bf7fe2c33aa6517d8148af138c",
       "org_level" : null,
       "title" : "On the Move [Brain Freeze]",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=118",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01454"
    },
    {
@@ -5231,7 +5231,7 @@
       "md5" : "39efc3b790d07526f48649a93e76165a",
       "org_level" : null,
       "title" : "The Lizard Tail [Hexagon]",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=126&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01226"
    },
    {
@@ -6791,7 +6791,7 @@
       "md5" : "489a01db5abc76c73dd14a9fa8aa2db7",
       "org_level" : null,
       "title" : "Phantasm Fantasia [LUNATIC+]",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=118",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01460"
    },
    {
@@ -10211,7 +10211,7 @@
       "md5" : "6ae4cca0e4612a83b9ae52d45469314b",
       "org_level" : null,
       "title" : "Dstorv [Other]",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=212&event=96",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00559"
    },
    {
@@ -10826,7 +10826,7 @@
       "md5" : "709edab65666a19569ec545b946b8ed8",
       "org_level" : null,
       "title" : "Acid Drizzle[Expert]",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=88",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00573"
    },
    {
@@ -11848,6 +11848,21 @@
       "title" : "violet[Barren]",
       "url" : "http://qstol.info/events/venue/detail?event=3&id=1",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00801"
+   },
+   {
+      "adddate" : "2018/02/22 18:11",
+      "artist" : "ねこみりん feat.みゆ / むらしん obj:Kojou Chihiro",
+      "comment" : "総合力,終盤難,低TOTAL（65％）",
+      "folder" : "2018/02",
+      "genre" : "AKIBA POP",
+      "keys" : "7",
+      "level" : "2018/02",
+      "lr2_bmsid" : "257931",
+      "md5" : "7ac84ea7952a9817fa7bf6642b83fb59",
+      "org_level" : null,
+      "title" : "フランちゃんの音楽教室 -BMS EDIT- [RED]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=141&event=54",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01490"
    },
    {
       "adddate" : "2017/04/07 13:42",
@@ -16886,7 +16901,7 @@
       "md5" : "b0691bab420a9784a6fc357cc29c6f72",
       "org_level" : null,
       "title" : "Phantasm Fantasia [LUNATIC]",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=118",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01460"
    },
    {
@@ -17486,7 +17501,7 @@
       "md5" : "b569c9d6d4de613d7c92cb7edc162b1c",
       "org_level" : null,
       "title" : "夢逆行 -Backtrace your Dream- [HyperEcstasy]",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=260&event=83",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00260"
    },
    {
@@ -18225,6 +18240,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00855"
    },
    {
+      "adddate" : "2018/02/22 23:05",
+      "artist" : "Modulation Spin obj:いい靴",
+      "comment" : "カーテン",
+      "folder" : "2018/02",
+      "genre" : "techno",
+      "keys" : 7,
+      "level" : "2018/02",
+      "lr2_bmsid" : "256836",
+      "md5" : "bc52ec62247779156af3c8fb265ec03b",
+      "org_level" : null,
+      "title" : "curtain [curtain]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=187&event=65",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01491"
+   },
+   {
       "adddate" : "2016/10/08 09:55",
       "artist" : "ETIA. / obl:京都306 Movie: iimo",
       "comment" : "00033を修正",
@@ -18735,6 +18765,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00539"
    },
    {
+      "adddate" : "2018/02/22 09:42",
+      "artist" : "ああああ + 翡乃イスカ obj:いい靴",
+      "comment" : "中盤発狂",
+      "folder" : "2018/02",
+      "genre" : "Tropic＠l H＠rdcore",
+      "keys" : 7,
+      "level" : "2018/02",
+      "lr2_bmsid" : "257924",
+      "md5" : "c12683308c6abb86e8637bf0c914e780",
+      "org_level" : null,
+      "title" : "ha＠ppy s＠mmer v＠c＠tion!! [Eb]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=381&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01489"
+   },
+   {
       "adddate" : "2017/11/27 22:12",
       "artist" : "ああああ茶漬け obj:いい靴",
       "comment" : "高速、ラスト回復",
@@ -18943,6 +18988,21 @@
       "title" : "硬核機動 -Assault 01-",
       "url" : "",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01407"
+   },
+   {
+      "adddate" : "2018/02/22 23:17",
+      "artist" : "Omnipotenx",
+      "comment" : "★24＋◎15＝最強",
+      "folder" : "2018/02",
+      "genre" : "SYMPHONIC SCHRANZ",
+      "keys" : 7,
+      "level" : "2018/02",
+      "lr2_bmsid" : "",
+      "md5" : "c2bdb071b218846e42d8f671a0c68d3a",
+      "org_level" : null,
+      "title" : "PEACE BREAKER[◎SCRATCH BREAKER★]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01492"
    },
    {
       "adddate" : "2017/05/05 19:35",
@@ -22436,7 +22496,7 @@
       "md5" : "e66f8a55c7ebc39b6548cb527805a3a6",
       "org_level" : null,
       "title" : "Modern Times -Charles Chaplin-",
-      "url" : "",
+      "url" : "https://drive.google.com/open?id=0B7qCw4hNijr4ZGdUUUJKMTNJZ2M",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01257"
    },
    {

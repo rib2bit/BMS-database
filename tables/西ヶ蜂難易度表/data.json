@@ -270,6 +270,18 @@
       "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/situbou.zip"
    },
    {
+      "artist" : "はがね",
+      "comment" : "発狂/階段/左右振り",
+      "eval" : 0,
+      "level" : "12",
+      "lr2_bmsid" : "256326",
+      "md5" : "0aebefbf4fe35870787109b27f44da1c",
+      "name_diff" : "DL",
+      "title" : "Leveteinn Gravity",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=132&event=116",
+      "url_diff" : "http://nigo10sabun.web.fc2.com/BOFU/lavateinngravity.zip"
+   },
+   {
       "artist" : "44teru-k",
       "comment" : "微縦連/同時押し",
       "eval" : 0,
@@ -365,18 +377,6 @@
       "title" : "pandemic",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=38&event=86",
       "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/pandemic.zip"
-   },
-   {
-      "artist" : "syatten remixed celas",
-      "comment" : "同時押し/発狂/左右振り",
-      "eval" : 0,
-      "level" : "13",
-      "lr2_bmsid" : "216346",
-      "md5" : "0ec99e665067746acfba6cebd6ba81d1",
-      "name_diff" : "DL",
-      "title" : "Bird Sprite -Awakening of Light-",
-      "url" : "http://creation-records.info/",
-      "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/birdsprite.zip"
    },
    {
       "artist" : "あるふす",
@@ -595,6 +595,17 @@
       "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/FirmamenT.zip"
    },
    {
+      "artist" : "raii Movie:Albatrus",
+      "comment" : "階段/乱打",
+      "eval" : 0,
+      "level" : "1",
+      "lr2_bmsid" : "250903",
+      "md5" : "187a388843b5790c50608b882d9290a0",
+      "name_diff" : "本体に同梱",
+      "title" : "Alcubierre Drive",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=88&event=116"
+   },
+   {
       "artist" : "q/stol",
       "comment" : "Normal判定/同時押し/乱打",
       "eval" : 0,
@@ -617,6 +628,18 @@
       "title" : "梅雨の黒い黄昏",
       "url" : "http://cerebralmuddystream.nekokan.dyndns.info/betoo/?mode=datail&no=46",
       "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/tasogare.zip"
+   },
+   {
+      "artist" : "gmtn. mov:solidstock ",
+      "comment" : "発狂/ラスト殺し/縦連打",
+      "eval" : 0,
+      "level" : "12",
+      "lr2_bmsid" : "256327",
+      "md5" : "1a47d4231894bec78c2eabae105b3789",
+      "name_diff" : "DL",
+      "title" : "OneviA",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=171&event=116",
+      "url_diff" : "http://nigo10sabun.web.fc2.com/BOFU/OneviA.zip"
    },
    {
       "artist" : "ルゼ",
@@ -802,18 +825,6 @@
       "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/granblaze.zip"
    },
    {
-      "artist" : "Nitrix",
-      "comment" : "同時押し/発狂/ラスト殺し",
-      "eval" : 0,
-      "level" : "11",
-      "lr2_bmsid" : "209440",
-      "md5" : "2830a9b713bffc4d2979b0e99e94ca7e",
-      "name_diff" : "DL",
-      "title" : "concrete death match",
-      "url" : "http://cerebralmuddystream.nekokan.dyndns.info/BCII/index.php?mode=datail&no=8",
-      "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/concrete.zip"
-   },
-   {
       "artist" : "ROKINA feat.Sam & Anna",
       "comment" : "やめてくださいしんでしまいます",
       "eval" : 0,
@@ -934,6 +945,18 @@
       "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/2cosmic.zip"
    },
    {
+      "artist" : "MSI",
+      "comment" : "同時押し/発狂/ラスト殺し",
+      "eval" : 0,
+      "level" : "10",
+      "lr2_bmsid" : "256513",
+      "md5" : "2dbbc2cfbf241761c3cd1010d22555b2",
+      "name_diff" : "DL",
+      "title" : "Little Wing",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=146&event=116",
+      "url_diff" : "http://nigo10sabun.web.fc2.com/BOFU/littlewing.zip"
+   },
+   {
       "artist" : "idzuchi takl ",
       "comment" : "Normal判定/縦連打/低トータル",
       "eval" : 0,
@@ -992,6 +1015,18 @@
       "title" : "galette des rois",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=535&event=110",
       "url_diff" : "http://nigo10sabun.web.fc2.com/BOFU/galette.zip"
+   },
+   {
+      "artist" : "Nitrix",
+      "comment" : "同時押し/発狂/ラスト殺し",
+      "eval" : 0,
+      "level" : "10",
+      "lr2_bmsid" : "250072",
+      "md5" : "30fe615dc4becc58adc12fb302d2fc98",
+      "name_diff" : "DL",
+      "title" : "concrete death match",
+      "url" : "http://cerebralmuddystream.nekokan.dyndns.info/BCII/index.php?mode=datail&no=8",
+      "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/concrete.zip"
    },
    {
       "artist" : "69 de 74 BGA : EViL",
@@ -1223,6 +1258,18 @@
       "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/511.zip"
    },
    {
+      "artist" : "Silentroom × 駿",
+      "comment" : "階段/発狂/左右振り",
+      "eval" : 0,
+      "level" : "13",
+      "lr2_bmsid" : "256332",
+      "md5" : "3f2c7369cd9a235e67e10b633732ea2e",
+      "name_diff" : "DL",
+      "title" : "Nhelv",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=386&event=116",
+      "url_diff" : "http://nigo10sabun.web.fc2.com/BOFU/kaisan2017.zip"
+   },
+   {
       "artist" : "S.Percentage",
       "comment" : "前半難/階段",
       "eval" : 0,
@@ -1319,6 +1366,18 @@
       "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/izayoi.zip"
    },
    {
+      "artist" : "ETIA. Movie: わっふゑ",
+      "comment" : "Normal判定/縦連打",
+      "eval" : 0,
+      "level" : "1",
+      "lr2_bmsid" : "254671",
+      "md5" : "42d5d0ce24a00b230401e341c398feef",
+      "name_diff" : "DL",
+      "title" : "13/VIS",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=116",
+      "url_diff" : "http://nigo10sabun.web.fc2.com/BOFU/13VIS.zip"
+   },
+   {
       "artist" : "q/stol ",
       "comment" : "縦連打/体力/ラスト殺し",
       "eval" : 0,
@@ -1353,6 +1412,18 @@
       "title" : "lifework",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=174&event=65",
       "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/lifework.zip"
+   },
+   {
+      "artist" : "syatten remixed celas",
+      "comment" : "同時押し/発狂/左右振り",
+      "eval" : 0,
+      "level" : "13",
+      "lr2_bmsid" : "250074",
+      "md5" : "4656ef57b23ba1e64bb135778fbe29a5",
+      "name_diff" : "DL",
+      "title" : "Bird Sprite -Awakening of Light-",
+      "url" : "http://web.archive.org/web/20161022231551/http://creation-records.info/bms.htm",
+      "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/birdsprite.zip"
    },
    {
       "artist" : "TCN180 (DJ TECHNORCH)",
@@ -1551,6 +1622,18 @@
       "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/YARIIKA.zip"
    },
    {
+      "artist" : "gmtn. mov:solidstock ",
+      "comment" : "左右振り/乱打",
+      "eval" : 0,
+      "level" : "5",
+      "lr2_bmsid" : "256297",
+      "md5" : "52c0733d22461c78017a4bfd8b5abf07",
+      "name_diff" : "DL",
+      "title" : "OneviA",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=171&event=116",
+      "url_diff" : "http://nigo10sabun.web.fc2.com/BOFU/OneviA.zip"
+   },
+   {
       "artist" : "69 de 74",
       "comment" : "発狂/乱打/階段",
       "eval" : 0,
@@ -1622,6 +1705,18 @@
       "title" : "本格的 ガチムチクラブミュージック ドラムステップ編",
       "url" : "http://ndk.nekokan.dyndns.info/ndkbms_002/",
       "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/siohigari.zip"
+   },
+   {
+      "artist" : "raii BGI:Earl ",
+      "comment" : "体力/左右振り/縦連打",
+      "eval" : 0,
+      "level" : "7",
+      "lr2_bmsid" : "249028",
+      "md5" : "596a745896b12496e4502ee7ca0d821f",
+      "name_diff" : "DL",
+      "title" : "GALACTIC TRAVERSE",
+      "url" : "http://qstol.info/events/venue/detail?event=3&id=29",
+      "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/Gradius.zip"
    },
    {
       "artist" : "イズミケイ",
@@ -2002,6 +2097,18 @@
       "url_diff" : "http://nigo10sabun.web.fc2.com/BOFU/Ecaed.zip"
    },
    {
+      "artist" : "tarolabo",
+      "comment" : "健全男児の性衝動",
+      "eval" : 0,
+      "level" : "11",
+      "lr2_bmsid" : "249965",
+      "md5" : "71e11aeca98ff0fcaa3e64a1cfbbe206",
+      "name_diff" : "DL",
+      "title" : " Machine⊆Reverse-gender Machine⊇Reverse-gender",
+      "url" : "http://www.mediafire.com/file/th60fhipcw4b0ao/Machine%E2%8A%86Reverse-gender+Machine%E2%8A%87Reverse-gender.zip",
+      "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/noise.zip"
+   },
+   {
       "artist" : "sak (movie : 猫太郎)",
       "comment" : "階段/ラスト殺し",
       "eval" : 0,
@@ -2048,6 +2155,18 @@
       "title" : "死んであげない",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=91",
       "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/shindeagenai.zip"
+   },
+   {
+      "artist" : "TaW",
+      "comment" : "Normal判定/左右振り/縦連打",
+      "eval" : 0,
+      "level" : "4",
+      "lr2_bmsid" : "252875",
+      "md5" : "748c65c51f33c79f90c27f86fceabfa7",
+      "name_diff" : "DL",
+      "title" : "Vessel",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=116",
+      "url_diff" : "https://www.dropbox.com/s/v8e2olnq0nmscad/vessel2.zip?dl=1"
    },
    {
       "artist" : "Brutus ",
@@ -2427,6 +2546,18 @@
       "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/Phunk.zip"
    },
    {
+      "artist" : "ETIA. feat.みちる",
+      "comment" : "交互連打/同時押し",
+      "eval" : 0,
+      "level" : "11",
+      "lr2_bmsid" : "250073",
+      "md5" : "8a45ea8b72b06cacd5a2469381e43b86",
+      "name_diff" : "DL",
+      "title" : "Believe in Myself",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=78",
+      "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/believeinmyself.zip"
+   },
+   {
       "artist" : "q/stol",
       "comment" : "乱打/発狂/ソフラン",
       "eval" : 0,
@@ -2549,6 +2680,18 @@
       "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/LastSelection.zip"
    },
    {
+      "artist" : "Cosine BGA:うまうや、Kaoru Miyazaki",
+      "comment" : "乱打/同時押し",
+      "eval" : 0,
+      "level" : "9",
+      "lr2_bmsid" : "256300",
+      "md5" : "8e90b10b0c210f45effaccb8b1632337",
+      "name_diff" : "DL",
+      "title" : "Is This Your Memory?",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=313&event=116",
+      "url_diff" : "http://nigo10sabun.web.fc2.com/BOFU/IsThisYourMemory.zip"
+   },
+   {
       "artist" : "ケットシー",
       "comment" : "Normal判定/体力/同時押し",
       "eval" : 0,
@@ -2571,6 +2714,18 @@
       "title" : "巫女",
       "url" : "http://www1.axfc.net/uploader/so/1976185?key=bms",
       "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/mico.zip"
+   },
+   {
+      "artist" : "siqlo BGA:Karekitsune",
+      "comment" : "左右振り/階段",
+      "eval" : 0,
+      "level" : "5",
+      "lr2_bmsid" : "254802",
+      "md5" : "8fdd672ced6c32be758c21c1914ab3a3",
+      "name_diff" : "DL",
+      "title" : "One Way Street",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=222&event=116",
+      "url_diff" : "http://nigo10sabun.web.fc2.com/BOFU/OneWayStreet.zip"
    },
    {
       "artist" : "maxXx65535 / cyclia",
@@ -2693,6 +2848,18 @@
       "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/inori.zip"
    },
    {
+      "artist" : "KIRA BGA : Roaring Flame",
+      "comment" : "交互連打/同時押し/ラスト殺し",
+      "eval" : 0,
+      "level" : "8",
+      "lr2_bmsid" : "256322",
+      "md5" : "97d20c92c01b99d940032b913f577a3e",
+      "name_diff" : "DL",
+      "title" : "Summer Ripple",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=136&event=116",
+      "url_diff" : "http://nigo10sabun.web.fc2.com/BOFU/summerripple.zip"
+   },
+   {
       "artist" : "maxXx65535 / cyclia",
       "comment" : "交互連打/階段",
       "eval" : 0,
@@ -2727,18 +2894,6 @@
       "title" : "Genius of unexplored REALM",
       "url" : "http://toymusical.net/",
       "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/sinden.zip"
-   },
-   {
-      "artist" : "ルゼ",
-      "comment" : "縦連打/左右振り/Normal判定",
-      "eval" : 0,
-      "level" : "13",
-      "lr2_bmsid" : "223175",
-      "md5" : "994808d36c169335e4d83838e3ad4d5d",
-      "name_diff" : "DL",
-      "title" : "DTD Emperor",
-      "url" : "http://www.luzeria.net/music/bms.htm",
-      "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/dtd.zip"
    },
    {
       "artist" : "ROKINA",
@@ -2787,6 +2942,17 @@
       "title" : "2011年すた丼の旅",
       "url" : "http://www1.axfc.net/u/3316316",
       "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/stdn.zip"
+   },
+   {
+      "artist" : "raii Movie:Albatrus",
+      "comment" : "階段/同時押し/ラスト殺し",
+      "eval" : 0,
+      "level" : "9",
+      "lr2_bmsid" : "250898",
+      "md5" : "9b62372aca0180c84b4e9bd52d199ab9",
+      "name_diff" : "本体に同梱",
+      "title" : "Alcubierre Drive",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=88&event=116"
    },
    {
       "artist" : "paraoka",
@@ -2981,6 +3147,18 @@
       "title" : "メロンクリームソーダ概論",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=20&event=88",
       "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/melon.zip"
+   },
+   {
+      "artist" : "flicknote vocals: MindaRyn",
+      "comment" : "階段/デニム/ラスト殺し",
+      "eval" : 0,
+      "level" : "11",
+      "lr2_bmsid" : "249365",
+      "md5" : "a536ac4e461c24329575c04ea7f8aa88",
+      "name_diff" : "DL",
+      "title" : "422",
+      "url" : "http://qstol.info/events/venue/detail?event=3&id=42",
+      "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/422.zip"
    },
    {
       "artist" : "Nush",
@@ -3212,18 +3390,6 @@
       "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/kusuha.zip"
    },
    {
-      "artist" : "ETIA. feat.みちる",
-      "comment" : "交互連打/同時押し",
-      "eval" : 0,
-      "level" : "11",
-      "lr2_bmsid" : "227060",
-      "md5" : "ac74b5b2e7f9138967419e1a217d0dd5",
-      "name_diff" : "DL",
-      "title" : "Believe in Myself",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=78",
-      "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/believeinmyself.zip"
-   },
-   {
       "artist" : "妻コロッケ",
       "comment" : "左右振り/発狂/Normal判定",
       "eval" : 0,
@@ -3234,6 +3400,18 @@
       "title" : "トココ２１",
       "url" : "http://toymusical.net/",
       "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/tokoko.zip"
+   },
+   {
+      "artist" : "siqlo BGA:Karekitsune",
+      "comment" : "左右振り/発狂",
+      "eval" : 0,
+      "level" : "10",
+      "lr2_bmsid" : "254776",
+      "md5" : "ac7bc6ca278b5dcf3fb42fde5aaf6751",
+      "name_diff" : "DL",
+      "title" : "One Way Street",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=222&event=116",
+      "url_diff" : "http://nigo10sabun.web.fc2.com/BOFU/OneWayStreet.zip"
    },
    {
       "artist" : "9索敵/8",
@@ -3403,6 +3581,18 @@
       "title" : "ROTTELER'S HOME",
       "url" : "http://a-manbow.sakura.ne.jp/adiary.cgi/011",
       "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/rotteler.zip"
+   },
+   {
+      "artist" : "Ester mov : mi",
+      "comment" : "二重階段/ソフラン",
+      "eval" : 0,
+      "level" : "14",
+      "lr2_bmsid" : "256302",
+      "md5" : "b57984e59a4d5e7d8508bf2f067e1dd2",
+      "name_diff" : "DL",
+      "title" : "Dizzolve",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=56&event=116",
+      "url_diff" : "http://nigo10sabun.web.fc2.com/BOFU/Dizzolve.zip"
    },
    {
       "artist" : "Anguilla japonica ",
@@ -3636,6 +3826,18 @@
       "title" : "風の塔",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=198&event=74",
       "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/wind.zip"
+   },
+   {
+      "artist" : "ルゼ",
+      "comment" : "ﾃﾞ↑　ﾃﾞ↓　ﾃﾞｯﾃﾞｯﾃﾞｯﾃﾞ　ﾃﾞﾃﾞﾃﾞ(ｼｭﾋﾟﾋﾟﾋﾟﾋﾟｰﾝ)",
+      "eval" : 0,
+      "level" : "13",
+      "lr2_bmsid" : "250075",
+      "md5" : "c39b98883855ffcdad2d49a67a306da3",
+      "name_diff" : "DL",
+      "title" : "DTD Emperor",
+      "url" : "http://www.luzeria.net/music/bms.htm",
+      "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/dtd.zip"
    },
    {
       "artist" : "Kaoru",
@@ -3950,6 +4152,18 @@
       "title" : "RISE AGAIN",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=104",
       "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/RISEAGAIN.zip"
+   },
+   {
+      "artist" : "Cosine BGA:うまうや、Kaoru Miyazaki",
+      "comment" : "乱打/同時押し",
+      "eval" : 0,
+      "level" : "2",
+      "lr2_bmsid" : "256348",
+      "md5" : "d404941be895858ebe8221c04d3255ad",
+      "name_diff" : "DL",
+      "title" : "Is This Your Memory?",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=313&event=116",
+      "url_diff" : "http://nigo10sabun.web.fc2.com/BOFU/IsThisYourMemory.zip"
    },
    {
       "artist" : "Hate+",
@@ -4363,6 +4577,18 @@
       "title" : "夕暮れのカフェテラス",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=173&event=96",
       "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/cafe.zip"
+   },
+   {
+      "artist" : "TOMA v.s. DJ Saw-Low",
+      "comment" : "同時押し/縦連打",
+      "eval" : 0,
+      "level" : "13",
+      "lr2_bmsid" : "249632",
+      "md5" : "ec3a5c8c8111b3d1659a862abb660085",
+      "name_diff" : "DL",
+      "title" : " niKu",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=146&event=65",
+      "url_diff" : "http://nigo10sabun.web.fc2.com/sabun/niku29.zip"
    },
    {
       "artist" : "sweez feat. tigerlily&roop",
