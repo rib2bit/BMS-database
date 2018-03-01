@@ -81,7 +81,7 @@
       "url_diff" : "",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "MA$AKI /obj.z",
@@ -170,7 +170,7 @@
    {
       "artist" : "yassu / 小宮真央",
       "comment" : "",
-      "level" : 4,
+      "level" : "4",
       "md5" : "59fa39acd45bc64f9fa1f29d8bbef02d",
       "proposer" : "双六",
       "submission" : 63,
@@ -254,7 +254,7 @@
    {
       "artist" : "MA$AKI /obj.z",
       "comment" : "修正版",
-      "level" : 4,
+      "level" : "4",
       "md5" : "8daa9c9a88f10ac11770e40f511b5036",
       "proposer" : "LUXURY",
       "submission" : 81,
@@ -338,7 +338,7 @@
    {
       "artist" : "P4koo feat. A.Dokuga image : keiyuu/mov : VISREV / obj : O",
       "comment" : "",
-      "level" : 7,
+      "level" : "7",
       "md5" : "a97e0b231c3e72f1d37c34eb86167dfd",
       "proposer" : "LUXURY",
       "submission" : 71,

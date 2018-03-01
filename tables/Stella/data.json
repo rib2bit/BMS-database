@@ -2,7 +2,7 @@
    {
       "artist" : "kei iwata/obj:Charlotte.",
       "comment" : "",
-      "level" : 2,
+      "level" : "2",
       "md5" : "0638c5aaa79a3d748eb6d49f9d6ad1b2",
       "proposer" : "firi.",
       "submission" : 5,
@@ -13,7 +13,7 @@
    {
       "artist" : "3034 / O Anomie / IllusionRain",
       "comment" : "230",
-      "level" : 7,
+      "level" : "7",
       "md5" : "0c44de22eaf1ac81895773e217f48ee8",
       "proposer" : "otoshi.b",
       "submission" : 56,
@@ -24,7 +24,7 @@
    {
       "artist" : "Manaka Takane feat.Nananao / obj:sbt",
       "comment" : "",
-      "level" : 1,
+      "level" : "1",
       "md5" : "0f8009c475de88d1fce903ffb0824f44",
       "proposer" : "Dai7Gon",
       "submission" : 16,
@@ -35,7 +35,7 @@
    {
       "artist" : "kurenaissance / obj:夢瑠",
       "comment" : "",
-      "level" : 2,
+      "level" : "2",
       "md5" : "0fc81033a391b48872b689ce0836e24e",
       "proposer" : "firi.",
       "submission" : 7,
@@ -46,7 +46,7 @@
    {
       "artist" : "あきやまうに",
       "comment" : "",
-      "level" : 5,
+      "level" : "5",
       "md5" : "12cfe502028ae76478d4349b388b45c3",
       "proposer" : "sak",
       "submission" : 67,
@@ -57,7 +57,7 @@
    {
       "artist" : "P4koo",
       "comment" : "",
-      "level" : 8,
+      "level" : "8",
       "md5" : "22a3242fd697083d5f3cfc74d96c0031",
       "proposer" : "LUXURY",
       "submission" : 1,
@@ -68,7 +68,7 @@
    {
       "artist" : "scytheleg",
       "comment" : "",
-      "level" : 3,
+      "level" : "3",
       "md5" : "340fe7012f7c80abdc531e33a5df209b",
       "proposer" : "otoshi.b",
       "submission" : 47,
@@ -79,7 +79,7 @@
    {
       "artist" : "FOLiACETATE /差分 赤い人",
       "comment" : "",
-      "level" : 8,
+      "level" : "8",
       "md5" : "389ffd4f5ff0f3455fd8a94811e7cf6b",
       "proposer" : "Torayjin",
       "submission" : 59,
@@ -90,7 +90,7 @@
    {
       "artist" : "Omnipotenx obj:mute",
       "comment" : "皆伝が 倒 せ な い",
-      "level" : 8,
+      "level" : "8",
       "md5" : "3bbc99a15d6b60533e512134b5ade036",
       "proposer" : "LUXURY",
       "submission" : 29,
@@ -101,7 +101,7 @@
    {
       "artist" : "ROKINA/obj:仙人掌の人 BGA:REI-K",
       "comment" : "up5955",
-      "level" : 9,
+      "level" : "9",
       "md5" : "3be50a201d92af20051b6e2eec673bad",
       "proposer" : "LUXURY",
       "submission" : 78,
@@ -112,7 +112,7 @@
    {
       "artist" : "psi obj:Luft",
       "comment" : "",
-      "level" : 9,
+      "level" : "9",
       "md5" : "3c92cfac314edb59dcee45273a1f01d6",
       "proposer" : "homare",
       "submission" : 31,
@@ -123,7 +123,7 @@
    {
       "artist" : "psi obj:mute",
       "comment" : "",
-      "level" : 5,
+      "level" : "5",
       "md5" : "498a9623f48f6dc5a7fef4e21adfa80a",
       "proposer" : "chack♪",
       "submission" : 51,
@@ -134,7 +134,7 @@
    {
       "artist" : "Vector27 vs Blue-J",
       "comment" : "",
-      "level" : 9,
+      "level" : "9",
       "md5" : "4cb8241ead798db25c94862d772a5b69",
       "proposer" : "homare",
       "submission" : 30,
@@ -145,7 +145,7 @@
    {
       "artist" : "立秋 feat.ちょこ obj:MineC24",
       "comment" : "",
-      "level" : 3,
+      "level" : "3",
       "md5" : "57cd7ce1136cea3b3d95d0b78b4167e1",
       "proposer" : "Dai7Gon",
       "submission" : 9,
@@ -156,7 +156,7 @@
    {
       "artist" : "void feat. Hiroko / obj:発汗BMS",
       "comment" : "",
-      "level" : 5,
+      "level" : "5",
       "md5" : "5942a74d562881300f246d904a73cf9e",
       "proposer" : "sepe",
       "submission" : 66,
@@ -167,7 +167,7 @@
    {
       "artist" : "Lime / inukoro",
       "comment" : "",
-      "level" : 7,
+      "level" : "7",
       "md5" : "5b125766f8a8ccfbecf172ca03961d07",
       "proposer" : "sak",
       "submission" : 12,
@@ -178,7 +178,7 @@
    {
       "artist" : "ETIA. feat.Jenga jubeated",
       "comment" : "",
-      "level" : 2,
+      "level" : "2",
       "md5" : "64dde592ef133610ebaa6664b60538f4",
       "proposer" : "firi.",
       "submission" : 6,
@@ -189,7 +189,7 @@
    {
       "artist" : "SP-# obj:Omino",
       "comment" : "",
-      "level" : 8,
+      "level" : "8",
       "md5" : "655052be72cdca0efda4c89041c056e3",
       "proposer" : "sak",
       "submission" : 2,
@@ -200,7 +200,7 @@
    {
       "artist" : "Feryquitous movie:Sight / obj:Omino",
       "comment" : "",
-      "level" : 8,
+      "level" : "8",
       "md5" : "6ae4cca0e4612a83b9ae52d45469314b",
       "proposer" : "otoshi.b",
       "submission" : 58,
@@ -211,7 +211,7 @@
    {
       "artist" : "toby fox Remixed by uet BGI : morph",
       "comment" : "",
-      "level" : 6,
+      "level" : "6",
       "md5" : "6d36346d7d87daf52eccd4aacf93fc52",
       "proposer" : "nissuxi",
       "submission" : 27,
@@ -222,7 +222,7 @@
    {
       "artist" : "Blue-J / obj. Tristan97",
       "comment" : "",
-      "level" : 5,
+      "level" : "5",
       "md5" : "6e0ef8c3434695d5fffce2293e37fb73",
       "proposer" : "Tristan97",
       "submission" : 10,
@@ -233,7 +233,7 @@
    {
       "artist" : "Xacla / TOHRU MiTSUHASHi",
       "comment" : "",
-      "level" : 8,
+      "level" : "8",
       "md5" : "6ef32f385b60a56e1a2583de6e619ee1",
       "proposer" : "Torayjin",
       "submission" : 60,
@@ -244,7 +244,7 @@
    {
       "artist" : "Bms:KOUICHI / obj : GA-006",
       "comment" : "",
-      "level" : 1,
+      "level" : "1",
       "md5" : "739022d260e82069b0d8505658ee761a",
       "proposer" : "firi.",
       "submission" : 4,
@@ -255,7 +255,7 @@
    {
       "artist" : "MINT BGA : Can.D-mtmrw / OBJ : Omino",
       "comment" : "",
-      "level" : 10,
+      "level" : "10",
       "md5" : "795a49f0f1af941dba965d946ca31c6f",
       "proposer" : "双六",
       "submission" : 15,
@@ -266,7 +266,7 @@
    {
       "artist" : "scytheleg / obj.siokaze",
       "comment" : "",
-      "level" : 3,
+      "level" : "3",
       "md5" : "7bc82ebd4e21112f70e80404f4dc2c3a",
       "proposer" : "LUXURY",
       "submission" : 21,
@@ -277,7 +277,7 @@
    {
       "artist" : "橘花音 かなえゆめ composed by nmk / Obj:lightX Illustration:かぜっと",
       "comment" : "",
-      "level" : 9,
+      "level" : "9",
       "md5" : "843a00e8a3ba354ffe1160610b1a9168",
       "proposer" : "Torayjin",
       "submission" : 33,
@@ -288,7 +288,7 @@
    {
       "artist" : "ROKINA / obj.O",
       "comment" : "",
-      "level" : 8,
+      "level" : "8",
       "md5" : "95ca283a21ebfc5eec714aa6cebe056d",
       "proposer" : "homare",
       "submission" : 14,
@@ -299,7 +299,7 @@
    {
       "artist" : "nmk / obj:Omino",
       "comment" : "",
-      "level" : 2,
+      "level" : "2",
       "md5" : "a083941fd4ee1ee86830c87840ac6e79",
       "proposer" : "chack♪",
       "submission" : 18,
@@ -310,7 +310,7 @@
    {
       "artist" : "ああああ / A",
       "comment" : "",
-      "level" : 7,
+      "level" : "7",
       "md5" : "a2f11b556c935fc60f87d710c64a789f",
       "proposer" : "chack♪",
       "submission" : 57,
@@ -321,7 +321,7 @@
    {
       "artist" : "Silentroom × iimo / selene.",
       "comment" : "",
-      "level" : 9,
+      "level" : "9",
       "md5" : "a7519b6a29a870a303b69cc3f6e728d9",
       "proposer" : "fennec",
       "submission" : 77,
@@ -332,7 +332,7 @@
    {
       "artist" : "xi obj: Alf vs BAECON",
       "comment" : "",
-      "level" : 5,
+      "level" : "5",
       "md5" : "a79a7531325f46f91960a43648296683",
       "proposer" : "fennec",
       "submission" : 11,
@@ -343,7 +343,7 @@
    {
       "artist" : "roop × Mentalstock obj:Omino",
       "comment" : "区切りの多いガチ押し",
-      "level" : 5,
+      "level" : "5",
       "md5" : "b29aef69cc169439f35332a56e2e0164",
       "proposer" : "sak",
       "submission" : 25,
@@ -354,7 +354,7 @@
    {
       "artist" : "Irish Kappa / selene. BGA: Rinser",
       "comment" : "",
-      "level" : 8,
+      "level" : "8",
       "md5" : "bb948b8229b6afaffc6314324b6fb343",
       "proposer" : "nissuxi",
       "submission" : 74,
@@ -365,7 +365,7 @@
    {
       "artist" : "xi / air",
       "comment" : "",
-      "level" : 7,
+      "level" : "7",
       "md5" : "c46a81cb184f5a804c119930d6eba748",
       "proposer" : "fennec",
       "submission" : 28,
@@ -376,7 +376,7 @@
    {
       "artist" : "Yu^ta feat. みずにんじん / A",
       "comment" : "",
-      "level" : 7,
+      "level" : "7",
       "md5" : "d0595448f9aed636bdc0b03d6445bc5f",
       "proposer" : "chack♪",
       "submission" : 13,
@@ -387,7 +387,7 @@
    {
       "artist" : "234 / obj: black train",
       "comment" : "",
-      "level" : 10,
+      "level" : "10",
       "md5" : "d06e6018c5406e3433c080dc7c3ffa0c",
       "proposer" : "fennec",
       "submission" : 34,
@@ -398,7 +398,7 @@
    {
       "artist" : "甘党マニア obj:LAPIS+XYZ",
       "comment" : "",
-      "level" : 1,
+      "level" : "1",
       "md5" : "d2c0b42c018bd6bd851681099fcbfd5d",
       "proposer" : "Dai7Gon",
       "submission" : 3,
@@ -409,7 +409,7 @@
    {
       "artist" : "魔界都市ニイガタ（黄泉路テヂーモ×dawn-system×かゆき） BGA:自動車原付 / obj.hex",
       "comment" : "",
-      "level" : 2,
+      "level" : "2",
       "md5" : "e5cef40f408b17039e59f4b6e97cd0e2",
       "proposer" : "Dai7Gon",
       "submission" : 8,
@@ -420,7 +420,7 @@
    {
       "artist" : "Iriss-Frantzz / O",
       "comment" : "",
-      "level" : 5,
+      "level" : "5",
       "md5" : "f9bee44c97648236d5127a88558e9c6f",
       "proposer" : "双六",
       "submission" : 24,
@@ -431,7 +431,7 @@
    {
       "artist" : "ああああ obj:sak vs BAECON",
       "comment" : "修正版",
-      "level" : 1,
+      "level" : "1",
       "md5" : "ff9de1cdd2653417f0bdcd4818adab26",
       "proposer" : "otoshi.b",
       "submission" : 17,
