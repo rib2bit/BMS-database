@@ -1823,11 +1823,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/02/11",
+      "adddate" : "2018/03/04",
       "artist" : "Lunatic Sounds / Yusi. / obj:Hersh",
       "comment" : "",
-      "folder" : "★07-08",
-      "level" : "★07-08",
+      "folder" : "★09-10",
+      "level" : "★09-10",
       "lr2_bmsid" : null,
       "md5" : "24edfd622b5623da309c5ffb303cab75",
       "name_diff" : null,
@@ -3053,6 +3053,31 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2018/03/04",
+      "artist" : "mossari feat.TEA obj:kuro",
+      "comment" : "",
+      "folder" : "★09-10",
+      "level" : "★09-10",
+      "lr2_bmsid" : null,
+      "md5" : "3c92dfccaab6064b8e7c3fb77d75a4a0",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "6ecc30f116e1b36646e54223246e5d09",
+      "org_md5s" : [
+         "6ecc30f116e1b36646e54223246e5d09",
+         "3c92dfccaab6064b8e7c3fb77d75a4a0",
+         "25d4345f2b61cb8da06f6cce6b1b16aa",
+         "7413baf27804bd657cb0e8aea502ba7c",
+         "0820684c70bc02f1ed8ce22b322aa0c1",
+         "8ee349a3dbb5dbb88deca68f6ea2b47d",
+         "e70b8c18644b7f2fca66ba7d32b45179",
+         "f2f534a98c809f9c14cf1a70a2ceeb73"
+      ],
+      "title" : "Midnight o'clock [DP CHALLENGER+]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2018/01/13",
       "artist" : "BACO",
       "comment" : "",
@@ -3545,6 +3570,32 @@
          "adec1bcc37806f155cdae08d873c9f77"
       ],
       "title" : "Absurd Gaff [あ！]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/03/04",
+      "artist" : "Is-m BGA:yuru",
+      "comment" : "",
+      "folder" : "★03-04",
+      "level" : "★03-04",
+      "lr2_bmsid" : null,
+      "md5" : "43033d8833436e482a5d745e0721b196",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "36a7cbe96382f99493b6e00a5766f6f8",
+      "org_md5s" : [
+         "36a7cbe96382f99493b6e00a5766f6f8",
+         "dc980e833d884f0ba74190dba2c2a60f",
+         "ea8857cb67ffcef4cf4302f54b07e57a",
+         "e203ea931b55ae287aae6a149fa0a5e1",
+         "89e9b8ccdea38444e317724faec16853",
+         "860d5e99399bb6631bf6dcc102c392dc",
+         "a1b979570e2e4cd4e067176b7bd1f27a",
+         "43033d8833436e482a5d745e0721b196",
+         "d56c6df42e54cf7543ebef7888664fde"
+      ],
+      "title" : "Light drivv -DP ANOTHER-",
       "url" : "",
       "url_diff" : ""
    },
@@ -4170,6 +4221,27 @@
          "4912a18ced5a5d8cf0a60e3bed3eaf98"
       ],
       "title" : "Grayed Out -Antifront- [DPA]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/03/04",
+      "artist" : "ダージリン Pattern:金碧ツインテ",
+      "comment" : "",
+      "folder" : "☆11",
+      "level" : "☆11",
+      "lr2_bmsid" : null,
+      "md5" : "51a5633c237dfaa2b1b021ab5e554809",
+      "name_diff" : null,
+      "org_level" : 11,
+      "org_md5" : "24106dd5f1fda8e2dd60b7e81302af68",
+      "org_md5s" : [
+         "24106dd5f1fda8e2dd60b7e81302af68",
+         "51a5633c237dfaa2b1b021ab5e554809",
+         "2f0254925b0e8e05dd0884738533bb05",
+         "33fd10193ee4c49e4e328feaab2346cb"
+      ],
+      "title" : "Noblesse Gloria [DPA]",
       "url" : "",
       "url_diff" : ""
    },
@@ -4834,6 +4906,27 @@
          "b52ccd5968a0610a1796175f68ee7f31"
       ],
       "title" : "DRAGONLADY (DP stop)",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/03/04",
+      "artist" : "anubasu-anubasu pattern: mmry",
+      "comment" : "",
+      "folder" : "★01-02",
+      "level" : "★01-02",
+      "lr2_bmsid" : null,
+      "md5" : "60b03acdf1e54b1bab848994ef72a648",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "2155b2b54562ed0bbc1871f2a9b2218c",
+      "org_md5s" : [
+         "2155b2b54562ed0bbc1871f2a9b2218c",
+         "60b03acdf1e54b1bab848994ef72a648",
+         "491eedef403fd9ca95c92c740446a1ef",
+         "f1ecd70b8110dc1e8a57df1505743bed"
+      ],
+      "title" : "Materialize Anything [DPA]",
       "url" : "",
       "url_diff" : ""
    },
@@ -5587,31 +5680,6 @@
    },
    {
       "adddate" : "2018/02/25",
-      "artist" : "Getty vs. DJ DiA obj:けろりん vs. LO BGA:わっふゑ vs. でこちんハンマー",
-      "comment" : "",
-      "folder" : "★11-13",
-      "level" : "★11-13",
-      "lr2_bmsid" : null,
-      "md5" : "6abd5e8d57c981af7484d9fa25c44e51",
-      "name_diff" : null,
-      "org_level" : 12,
-      "org_md5" : "50e2f39b3d1904bbb16d308549901a19",
-      "org_md5s" : [
-         "50e2f39b3d1904bbb16d308549901a19",
-         "165155b2f10033c2b35cd688c475251a",
-         "5100aff12efbfad2c2fe0fbf4a7d47a4",
-         "6abd5e8d57c981af7484d9fa25c44e51",
-         "61490e59f32cdec04be3517a54293e94",
-         "d5ad7c29ca6487da3d45e1f03ae33704",
-         "25ff0c934cdd54d519222ec8225b38cc",
-         "4912a18ced5a5d8cf0a60e3bed3eaf98"
-      ],
-      "title" : "Grayed Out -Antifront- [社会を生き抜く唯一のDP譜面]",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
-      "adddate" : "2018/02/25",
       "artist" : "KITUNE",
       "comment" : "",
       "folder" : "☆10",
@@ -5889,6 +5957,28 @@
          "44ca3ed71372d826612dbe58955f42f2"
       ],
       "title" : "風仁雷仁 ◆",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/03/04",
+      "artist" : "roop loves tigerlily obj:azurite",
+      "comment" : "",
+      "folder" : "☆11",
+      "level" : "☆11",
+      "lr2_bmsid" : null,
+      "md5" : "6d6a62aa25a3badd514ef6a0c8276cc7",
+      "name_diff" : null,
+      "org_level" : 10,
+      "org_md5" : "d9578e6577617ed1398ebc7de372e632",
+      "org_md5s" : [
+         "d9578e6577617ed1398ebc7de372e632",
+         "0b681af46981a7cf2b545b91a342558c",
+         "a2a0288f28f0bac7218c9b002206032f",
+         "3a120f45b2789efd09df179332e5ad08",
+         "6d6a62aa25a3badd514ef6a0c8276cc7"
+      ],
+      "title" : "RENDEZVOUS [DPA]",
       "url" : "",
       "url_diff" : ""
    },
@@ -6500,6 +6590,30 @@
          "f0a1d4fb7013ba175ce2d7a9abb43062"
       ],
       "title" : "Metatron [sub another14]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/03/04",
+      "artist" : "SUPER MOTEX (O-SE+CSP)/mov:murotani obj:肴",
+      "comment" : "",
+      "folder" : "★07-08",
+      "level" : "★07-08",
+      "lr2_bmsid" : null,
+      "md5" : "780384c8241f2a413b5151695ddba4e5",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "8a0253b9a4ba2168825c422f032931d5",
+      "org_md5s" : [
+         "8a0253b9a4ba2168825c422f032931d5",
+         "32902a7a6870b2bb046bcc0a37fdaeb0",
+         "780384c8241f2a413b5151695ddba4e5",
+         "1ab3b3727b160054fdaea19a6230d466",
+         "6f4ddd888c250f6aeef525400856cea8",
+         "004a66e0a00b22b0c499744a0be0d90f",
+         "39da2bab8e5b71d96d343e0018caa385"
+      ],
+      "title" : "Ray of Chain [DP EXTRA]",
       "url" : "",
       "url_diff" : ""
    },
@@ -8815,6 +8929,29 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2018/03/04",
+      "artist" : "kozato",
+      "comment" : "",
+      "folder" : "★05-06",
+      "level" : "★05-06",
+      "lr2_bmsid" : null,
+      "md5" : "a27df82d4fcac0d543a397764a4f265c",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "0e067401a56d0f8773b8256279b4f7b9",
+      "org_md5s" : [
+         "0e067401a56d0f8773b8256279b4f7b9",
+         "9f97be9c76876162cde46da23c70b962",
+         "e6082cf7a14b7c8ed9f0a83baf14900e",
+         "d23a57c7bff78f5183abe3966b5b378e",
+         "191a530a966d7f4cb956bcce8548fc5c",
+         "a27df82d4fcac0d543a397764a4f265c"
+      ],
+      "title" : "Marion",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2018/01/13",
       "artist" : "SHIKI obj : Fairy",
       "comment" : "",
@@ -9785,6 +9922,29 @@
          "b52ccd5968a0610a1796175f68ee7f31"
       ],
       "title" : "DRAGONLADY",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/03/04",
+      "artist" : "Sound Souler vs. Kamisys BGA : SeRu & Tofa Kim & Merona",
+      "comment" : "",
+      "folder" : "★01-02",
+      "level" : "★01-02",
+      "lr2_bmsid" : null,
+      "md5" : "b577783f3efb52e56c18636a83943c13",
+      "name_diff" : null,
+      "org_level" : 11,
+      "org_md5" : "b577783f3efb52e56c18636a83943c13",
+      "org_md5s" : [
+         "b577783f3efb52e56c18636a83943c13",
+         "33f4b7e142802aa836cebedf7c24b5b6",
+         "f3967fd18237d306971e7fb416b09fe0",
+         "63f7503f1841ecf30cf3e3b31060ff45",
+         "719ffab8b403d0d5c0b83b16f74f9b98",
+         "d454cf2efe3d4a2cd2d262b3221c2c0e"
+      ],
+      "title" : "Promise [14K Another]",
       "url" : "",
       "url_diff" : ""
    },
@@ -12971,27 +13131,6 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/01/07",
-      "artist" : "D-suke / highluin obj:けろりん",
-      "comment" : "",
-      "folder" : "☆11",
-      "level" : "☆11",
-      "lr2_bmsid" : null,
-      "md5" : "ecb04cf4bd0714ebdd8413914afda7ab",
-      "name_diff" : null,
-      "org_level" : 11,
-      "org_md5" : "10f023d6c59b59ed67cbc100deb576a4",
-      "org_md5s" : [
-         "10f023d6c59b59ed67cbc100deb576a4",
-         "949971ba5c3fc55a67a112d6189c5ba8",
-         "fda24ee94221e2a5e9c1116f8263e54c",
-         "ecb04cf4bd0714ebdd8413914afda7ab"
-      ],
-      "title" : "Fairy tale [ＭｉｒａｃｌｅVersion]",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
       "adddate" : "2018/01/13",
       "artist" : "カラフル・サウンズ・ポート / obj:second",
       "comment" : "",
@@ -13679,6 +13818,30 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2018/03/04",
+      "artist" : "U-hey  BGA:ユウノ obj:肴",
+      "comment" : "",
+      "folder" : "★03-04",
+      "level" : "★03-04",
+      "lr2_bmsid" : null,
+      "md5" : "f983229179f52dc835b2a83737382e0d",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "f983229179f52dc835b2a83737382e0d",
+      "org_md5s" : [
+         "f983229179f52dc835b2a83737382e0d",
+         "93155830a00def698402bd8ff59333a1",
+         "dbf77aafef8d1f1e7f607677f2a03e6c",
+         "309ee8636f0bdf0b53a497e72544cb09",
+         "5790bf6bd1d5181ba15b2d65b837f8b7",
+         "870e92983cbdef480f23f20aa8ed9140",
+         "45f905bace6c84af33cccb15b2a1bfb7"
+      ],
+      "title" : "Mercury Tears(bms edit) [DPA]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2018/02/19",
       "artist" : "U-hey  BGA:ユウノ obj:肴",
       "comment" : "",
@@ -13861,6 +14024,29 @@
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "World Against 2 [DP CHALLENGER]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/03/04",
+      "artist" : "あかりちゃん BGA:Frantzz / obj:hi-low",
+      "comment" : "",
+      "folder" : "★07-08",
+      "level" : "★07-08",
+      "lr2_bmsid" : null,
+      "md5" : "fc7b6990bee9ccd98a0e8504ccc8f8af",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "a868b5f6d2743cec0d49eb36d09ad0fb",
+      "org_md5s" : [
+         "a868b5f6d2743cec0d49eb36d09ad0fb",
+         "bf86aec908aeee33d53981c90989fbca",
+         "fc7b6990bee9ccd98a0e8504ccc8f8af",
+         "c272e0ea6518c1a823a3a215abc0cb84",
+         "2a5fa497d8e016122456df69fe070023",
+         "9cac105f88e7341c499e6ae25ea89e53"
+      ],
+      "title" : "PARAMOUNT ANTHEM! [DP ANOTHER]",
       "url" : "",
       "url_diff" : ""
    },
