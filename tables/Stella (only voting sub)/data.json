@@ -154,6 +154,20 @@
       "voteYes" : 1
    },
    {
+      "artist" : "Silentroom × iimo obj : BAECON",
+      "comment" : "高速物量",
+      "level" : "7",
+      "md5" : "54d4facf3ab605c7b5c61177a75ae223",
+      "proposer" : "otoshi.b",
+      "submission" : 92,
+      "title" : "Finixe -LEGENDA EST A MYTH-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=349&event=116",
+      "url_diff" : "http://akred.web.fc2.com/baecon/99_gra3.bme",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "Orange Strophe",
       "comment" : "",
       "level" : "5",
@@ -208,6 +222,20 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 3
+   },
+   {
+      "artist" : "Silentroom × 駿 / 0",
+      "comment" : "ズレ連打複合物量",
+      "level" : "8",
+      "md5" : "8cb55c1645e272a0d2bcfa4bb2a788a2",
+      "proposer" : "otoshi.b",
+      "submission" : 91,
+      "title" : "Nhelv [_]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=386&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01117",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "MA$AKI /obj.z",
@@ -277,7 +305,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01178",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "DusK / O",
