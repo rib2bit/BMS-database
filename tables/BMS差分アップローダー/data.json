@@ -2130,6 +2130,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00778"
    },
    {
+      "adddate" : "2018/03/09 11:00",
+      "artist" : "LeaF / Obj:Signo Movie:想起 / Illust:セシル◇タイト",
+      "comment" : "修正版, 縦連打, 交互縦連打, 階段",
+      "folder" : "2018/03",
+      "genre" : "GOTHIC CHOIR",
+      "keys" : "7",
+      "level" : "2018/03",
+      "lr2_bmsid" : "258584",
+      "md5" : "154b40c2a86462d4db50a07cec9fbf00",
+      "org_level" : null,
+      "title" : "Alice in Misanthrope -厭世アリス-[SIGfix]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01525"
+   },
+   {
       "adddate" : "2017/02/06 22:10",
       "artist" : "zen / obj:京都306",
       "comment" : "同時押し、低TOTAL、NORMAL判定（修正版）",
@@ -9975,6 +9990,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01431"
    },
    {
+      "adddate" : "2018/03/09 21:05",
+      "artist" : "ak+q/obj:凩",
+      "comment" : "階段　皿絡み　同時押し",
+      "folder" : "2018/03",
+      "genre" : "renaissance breaks",
+      "keys" : 7,
+      "level" : "2018/03",
+      "lr2_bmsid" : "258592",
+      "md5" : "673e40ee0ee4af8130dcbf885d3a9648",
+      "org_level" : null,
+      "title" : "Excelsia-00-",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01527"
+   },
+   {
       "adddate" : "2018/02/17 10:59",
       "artist" : "Shiraishi ayamaruyama",
       "comment" : "長押し色々",
@@ -13511,7 +13541,7 @@
       "md5" : "8a29235915681777a4e4825982ddf9bb",
       "org_level" : null,
       "title" : "青色三号 [MANIAC]",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=203&event=96",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01014"
    },
    {
@@ -20745,6 +20775,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01289"
    },
    {
+      "adddate" : "2018/03/09 20:31",
+      "artist" : "サケとカワボとえかたん obj:monaka",
+      "comment" : "同時押し、中盤難、低トータル",
+      "folder" : "2018/03",
+      "genre" : "探偵オペラ",
+      "keys" : 7,
+      "level" : "2018/03",
+      "lr2_bmsid" : "258586",
+      "md5" : "cfd6870f2194e96e51e527d447d95fef",
+      "org_level" : null,
+      "title" : "シャーロック・シェリンフォードのテーマwithえかたん [Who done it?]",
+      "url" : "http://totototo.tokyo/",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01526"
+   },
+   {
       "adddate" : "2017/08/12 20:06",
       "artist" : "yassu / 小宮真央/ obj.Restia",
       "comment" : "BOFup1243 プァイル文字歪め解決",
@@ -24868,6 +24913,21 @@
       "title" : "Blacksphere[Vantablack]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=268&event=96",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00871"
+   },
+   {
+      "adddate" : "2018/03/10 01:13",
+      "artist" : "spine / obj.7zs",
+      "comment" : "中盤、後半ディレイ発狂　(音追加、BGA微変更有り)",
+      "folder" : "2018/03",
+      "genre" : "EBM",
+      "keys" : 7,
+      "level" : "2018/03",
+      "lr2_bmsid" : "",
+      "md5" : "fa03bee0aa32c2b30e34367b26a1c0ef",
+      "org_level" : null,
+      "title" : "TRILL INSTRUCTOR [Get Fired]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01528"
    },
    {
       "adddate" : "2016/12/23 02:11",
