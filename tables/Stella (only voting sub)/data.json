@@ -151,7 +151,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "NIKITA / Optie obj:1/8",
@@ -250,6 +250,20 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 3
+   },
+   {
+      "artist" : "Symphonian / obj : hxrt",
+      "comment" : "BPM222　軸多め",
+      "level" : "7",
+      "md5" : "6a455dbec163c94557d8919b70a44561",
+      "proposer" : "APRICOT",
+      "submission" : 95,
+      "title" : "HELLO MAN (BYE!)",
+      "url" : "https://pan.baidu.com/s/1jGstbxG#list/path=%2F",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "Silentroom × 駿 / 0",
