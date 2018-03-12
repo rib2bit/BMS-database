@@ -28,6 +28,20 @@
       "voteYes" : 2
    },
    {
+      "artist" : "TamaDo / Ondajoy",
+      "comment" : "00949",
+      "level" : "9",
+      "md5" : "24a1ac98307d14fc9094985849120d41",
+      "proposer" : "LUXURY",
+      "submission" : 97,
+      "title" : "Triumphal Return [TrueEnd]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=85&event=115",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00949",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "DJ Ash Ketchum / obj.7zs",
       "comment" : "up01461",
       "level" : "6",
@@ -166,6 +180,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "TamaDo / 逸見魔理男",
+      "comment" : "00701",
+      "level" : "6",
+      "md5" : "71164e47d62579778eb030f6dc9d9028",
+      "proposer" : "LUXURY",
+      "submission" : 96,
+      "title" : "Triumphal Return [Epilogue of Gorilla]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=85&event=115",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00701",
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "Silentroom × 駿 / 0",
