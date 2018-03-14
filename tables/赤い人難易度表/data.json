@@ -1004,6 +1004,21 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/sakurairo_INFERNO.bms"
    },
    {
+      "artist" : "Se-U-Ra",
+      "comment" : null,
+      "eval" : 0,
+      "level" : "12",
+      "md5" : "291900e79b79e1d0edc23452840574fd",
+      "name_diff" : "右クリック保存",
+      "name_pack" : null,
+      "state" : 1,
+      "tag" : null,
+      "title" : "写儀の少女Lix [HARDEST]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=89&amp;event=116",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/_Lix_HARDEST.bms",
+      "url_pack" : null
+   },
+   {
       "artist" : "<a href='http://web.archive.org/web/20050313021215/http://www14.plala.or.jp/sun3_bms/U_r.GCA '>sun3</a>",
       "comment" : "",
       "eval" : 0,
@@ -1264,13 +1279,18 @@
    {
       "artist" : "TiS underground",
       "comment" : "",
+      "eval" : 0,
       "level" : "19",
       "lr2_bmsid" : 176204,
       "md5" : "387808dd59ddd66ec7c3660889c42ba1",
       "name_diff" : "右クリック保存",
+      "name_pack" : null,
+      "state" : 0,
+      "tag" : null,
       "title" : "円環の理 [ＱＢTHER]",
       "url" : "http://3t1a.net/bms/madoka_kaname_ogg.zip",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/_7keys3qbtherf.bms"
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/_7keys3qbtherf.bms",
+      "url_pack" : null
    },
    {
       "artist" : "Celas",
@@ -4686,7 +4706,7 @@
       "artist" : "ETIA. feat. Jenga Movie: HDLV/obj:赤い人",
       "comment" : null,
       "eval" : 0,
-      "level" : "19",
+      "level" : "20",
       "md5" : "d489604cd5e1859b7b11318e2a19ca54",
       "name_diff" : "右クリックで保存",
       "name_pack" : null,
