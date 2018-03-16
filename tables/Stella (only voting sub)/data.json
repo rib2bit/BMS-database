@@ -95,7 +95,7 @@
       "url_diff" : "http://onmacodayo.web.fc2.com/iterated/litmus_iterated_creation.bme",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "Spire / obj.7zs",
@@ -165,7 +165,7 @@
       "url_diff" : "http://oneeighth.web.fc2.com/patterns.html",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "しーけー obj:mute",
@@ -210,6 +210,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Vector27 vs Blue-J/さ",
+      "comment" : "ディレイ",
+      "level" : "3",
+      "md5" : "603cdd2809e952a60133e4b8cd8b015d",
+      "proposer" : "Masa",
+      "submission" : 106,
+      "title" : "Complex path(bms edit) [さぼてんのとげザ－]",
+      "url" : "https://dropbox.bms.ms/u/51977836/Vector27vsBlue-J_Complex%20path.rar",
+      "url_diff" : "http://sabosabun.tank.jp/",
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 1
+   },
+   {
       "artist" : "Symphonian / obj : hxrt",
       "comment" : "BPM222　軸多め",
       "level" : "7",
@@ -235,7 +249,7 @@
       "url_diff" : "",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "NAGI / obj.:JINSAY",
@@ -249,7 +263,7 @@
       "url_diff" : "http://web.archive.org/web/20160715115141/http://absolute.pv.land.to/uploader/src/up3119.zip",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "TamaDo / 逸見魔理男",
@@ -305,7 +319,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "xi / obj morio",
@@ -348,6 +362,34 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 3
+   },
+   {
+      "artist" : "Yosk! / obj:けろささ",
+      "comment" : "",
+      "level" : "2",
+      "md5" : "bfed975d0e59f84a3d36a4c36ccfccaf",
+      "proposer" : "APRICOT",
+      "submission" : 107,
+      "title" : "Little Wizard [Kerother]",
+      "url" : "https://drive.google.com/open?id=0B7qCw4hNijr4eEtvWW5nQi16R2M",
+      "url_diff" : "https://drive.google.com/open?id=0B6gzvhYqRdovVl8zbVZXX3pFaWM",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "ああああ / obj:po",
+      "comment" : "",
+      "level" : "3",
+      "md5" : "d4f7b3c582ab031de4dbf83bd4835443",
+      "proposer" : "APRICOT",
+      "submission" : 108,
+      "title" : "僕たちの旅とエピローグ。 [another+]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=98&event=96",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "さかみりと img:しぐれぷに子",
