@@ -246,11 +246,13 @@
       "level" : "18",
       "md5" : "0afaf6f4f02743c2e159b5295d3f73d5",
       "name_diff" : null,
+      "name_pack" : null,
       "state" : 0,
       "tag" : null,
       "title" : "Divinity Garden [LN Applied]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=96",
-      "url_diff" : "http://moyasabun.web.fc2.com/"
+      "url_diff" : "http://moyasabun.web.fc2.com/",
+      "url_pack" : null
    },
    {
       "artist" : "anubasu-anubasu",
@@ -1103,11 +1105,13 @@
       "lr2_bmsid" : 183650,
       "md5" : "26a8665bbf98cc0adf9ce82b057895ea",
       "name_diff" : "2GUMI",
+      "name_pack" : null,
       "state" : 0,
       "tag" : null,
       "title" : "年中夢中な好奇心 [ぶりゅんひるで]",
       "url" : "http://colorfulumbrella.sakura.ne.jp/ondan/ondan6.html",
-      "url_diff" : "http://flowermaster.web.fc2.com/"
+      "url_diff" : "http://flowermaster.web.fc2.com/",
+      "url_pack" : null
    },
    {
       "artist" : "tarolabo",
@@ -1414,11 +1418,13 @@
       "lr2_bmsid" : 179045,
       "md5" : "302d04a4d66dbcedd9ef617c19eeb595",
       "name_diff" : "vese",
+      "name_pack" : null,
       "state" : 0,
       "tag" : null,
       "title" : "VALLISTA [LN Extra]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=301&event=74",
-      "url_diff" : "http://absolute.pv.land.to/longnote/upload.html"
+      "url_diff" : "http://absolute.pv.land.to/longnote/upload.html",
+      "url_pack" : null
    },
    {
       "artist" : "Super Retro Brothers",
@@ -1619,11 +1625,13 @@
       "lr2_bmsid" : 146378,
       "md5" : "369f5bef53cf7cebbd44bc9378b4bc34",
       "name_diff" : "止ヒ糸",
+      "name_pack" : null,
       "state" : 0,
       "tag" : null,
       "title" : "☆Traveling Sunstar☆　 (<ё>) ",
       "url" : "http://page.freett.com/takacyan930/takacyan930index.htm",
-      "url_diff" : "https://skydrive.live.com/?cid=39A4C1BE9BE86C9A&id=39A4C1BE9BE86C9A%21133"
+      "url_diff" : "https://skydrive.live.com/?cid=39A4C1BE9BE86C9A&id=39A4C1BE9BE86C9A%21133",
+      "url_pack" : null
    },
    {
       "artist" : "ルナ・ヴィオーラ",
@@ -3033,6 +3041,21 @@
       "url_diff" : "http://absolute.pv.land.to/longnote/upload.html"
    },
    {
+      "artist" : "polysha movie:Optie / obj:moya",
+      "comment" : "",
+      "eval" : 0,
+      "level" : "26",
+      "md5" : "705b88b43fe07da1124b266cbc604e75",
+      "name_diff" : "moya",
+      "name_pack" : null,
+      "state" : 0,
+      "tag" : "",
+      "title" : "Endkraft [LN Ruinous]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=55&amp;event=96",
+      "url_diff" : "http://moyasabun.web.fc2.com/",
+      "url_pack" : null
+   },
+   {
       "artist" : "みょん",
       "comment" : "",
       "eval" : 0,
@@ -4191,11 +4214,13 @@
       "level" : "22",
       "md5" : "9d761be9078fcf61ff061b9899351b90",
       "name_diff" : null,
+      "name_pack" : null,
       "state" : 0,
       "tag" : null,
       "title" : "Jihad [LN iNTeGRaL]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=86",
-      "url_diff" : "http://hogeeeeeee.ma-jide.com/"
+      "url_diff" : "http://hogeeeeeee.ma-jide.com/",
+      "url_pack" : null
    },
    {
       "artist" : "ESTi remixed by bbangsami",
@@ -5096,7 +5121,7 @@
       "artist" : "Modulation Spin obj:いい靴",
       "comment" : "<a href=\"http://gnqg.rosx.net/upload/upload.cgi?get=01491\" target=\"_blank\">http://gnqg.rosx.net/upload/upload.cgi?get=01491</a><br>2018/02/05 新規提案難易度：◆7<br>2018/03/11 新規追加：◆8",
       "eval" : 0,
-      "level" : "11?",
+      "level" : "8",
       "md5" : "bc52ec62247779156af3c8fb265ec03b",
       "name_diff" : "",
       "name_pack" : null,
@@ -5443,11 +5468,13 @@
       "lr2_bmsid" : 180323,
       "md5" : "c9d94a5387ded1454d27c2d7049b76a7",
       "name_diff" : "moya",
+      "name_pack" : null,
       "state" : 0,
       "tag" : null,
       "title" : "STARDUST CITY (LN-Applied)",
       "url" : "http://shinka-cb.sakura.ne.jp/index.htm",
-      "url_diff" : "http://moyasabun.web.fc2.com/"
+      "url_diff" : "http://moyasabun.web.fc2.com/",
+      "url_pack" : null
    },
    {
       "artist" : "SHIKI / obj:moya",
@@ -5797,6 +5824,21 @@
       "title" : "おにコア [NANATIC LN]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=142&event=60",
       "url_diff" : "http://flowermaster.web.fc2.com/"
+   },
+   {
+      "artist" : "daiki / BGA:chromatography / Edna",
+      "comment" : "LN up0860",
+      "eval" : 0,
+      "level" : "18",
+      "md5" : "d345dad20f4ced8e4bc3ce59cbfc5cf0",
+      "name_diff" : "http://absolute.pv.land.to/longnote/upload.html",
+      "name_pack" : null,
+      "state" : 0,
+      "tag" : "",
+      "title" : "Lewisia [Elise]",
+      "url" : "http://onedrive.live.com/?cid=FC95A680740CA8C9&amp;id=FC95A680740CA8C9!111",
+      "url_diff" : "http://absolute.pv.land.to/longnote/upload.html",
+      "url_pack" : null
    },
    {
       "artist" : "celas & wa.",
@@ -6709,6 +6751,21 @@
       "title" : "AXION [29LN]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=67",
       "url_diff" : "http://nick.xxxxxxxx.jp/"
+   },
+   {
+      "artist" : "keyc / Armaros",
+      "comment" : "up0849",
+      "eval" : 0,
+      "level" : "22",
+      "md5" : "f3c6d6a0bb63ad4b1dde2c93ecd2586c",
+      "name_diff" : "http://absolute.pv.land.to/longnote/upload.html",
+      "name_pack" : null,
+      "state" : 0,
+      "tag" : "",
+      "title" : "G.N. [Raise]",
+      "url" : "http://onedrive.live.com/?id=FC95A680740CA8C9%21111&amp;cid=FC95A680740CA8C9",
+      "url_diff" : "http://absolute.pv.land.to/longnote/upload.html",
+      "url_pack" : null
    },
    {
       "artist" : "keyc",
