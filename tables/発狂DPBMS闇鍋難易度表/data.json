@@ -410,9 +410,9 @@
       "title" : "Anhedonia [DP APPETITE]"
    },
    {
-      "artist" : "Lightning Obj:ゆ～兎 *FLIP R.MIRROR",
+      "artist" : "Lightning Obj:ゆ～兎 *正規 or FLIP LR.MIRROR",
       "comment" : "elemental breaks",
-      "level" : "10",
+      "level" : "★1",
       "md5" : "02d6799ae24b2f7c2ae934f6246d80dc",
       "title" : "Vajuranda [BGA DP INSANE]"
    },
@@ -2022,7 +2022,7 @@
    {
       "artist" : "Rabbit Bat obj:けろりん",
       "comment" : "Romantic Beats",
-      "level" : "10",
+      "level" : "★1",
       "md5" : "0cc1976901c61df43d6e8f3999cdf995",
       "title" : "rainy beauty [Peggle14]"
    },
@@ -3583,7 +3583,7 @@
    {
       "artist" : "sun3 / BGA:Johnny / obj:Louis *R.MIRROR",
       "comment" : "HARD TECHNO",
-      "level" : "10",
+      "level" : "9",
       "md5" : "1869ac027b98c1db66263f17b5cb9bff",
       "title" : "Messier 333 (EX14)"
    },
@@ -6502,7 +6502,7 @@
    {
       "artist" : "YUKI",
       "comment" : "electro",
-      "level" : "10",
+      "level" : "★1",
       "md5" : "2c8ca67a2198fbb13199b970210d1b20",
       "title" : "QUARTZ [BLACK ANOTHER]"
    },
@@ -6570,9 +6570,9 @@
       "title" : "V804N [DP NOMAL]"
    },
    {
-      "artist" : "REX :LAKESIDE *FLIP R.MIRROR",
+      "artist" : "REX :LAKESIDE",
       "comment" : "DOUBLE ARRANGE",
-      "level" : "10",
+      "level" : "9",
       "md5" : "2cc9a1fb5e34990fa101036428f61c8c",
       "title" : "Scarlet Double Dance -3P-"
    },
@@ -7263,9 +7263,9 @@
       "title" : "necromarionette  [ALL KEY]"
    },
    {
-      "artist" : "Nankumo / obj:lichtr",
+      "artist" : "Nankumo / obj:lichtr *FLIP LR.MIRROR",
       "comment" : "TECHNO",
-      "level" : "10",
+      "level" : "★1",
       "md5" : "31c877e8022d80b63cc78eb42a4be921",
       "title" : "QUESTING"
    },
@@ -9211,7 +9211,7 @@
    {
       "artist" : "NIKITA / nabehiro / obj:hamburger",
       "comment" : "Jazzin'nova",
-      "level" : "★5",
+      "level" : "★4",
       "md5" : "400f6ec1dd53fd3b97c82596f313ea56",
       "title" : "Fakeover [basic skill]"
    },
@@ -13075,7 +13075,7 @@
    {
       "artist" : "P.E.overground / (obj:V-E) *L.MIRROR",
       "comment" : "ボーダーブレイク",
-      "level" : "10",
+      "level" : "9",
       "md5" : "5a68d6ff5c37da83a5dacb853f4b6848",
       "title" : "SABER(short mix)  [DP Break the Arms]"
    },
@@ -15574,7 +15574,7 @@
    {
       "artist" : "siromaru / obj:lichtr  *FLIP",
       "comment" : "SCHRANZ",
-      "level" : "10",
+      "level" : "★1",
       "md5" : "6ae3b967e6b7d81c831b7426bb6bbfe5",
       "title" : "polymeric congealment"
    },
@@ -16932,7 +16932,7 @@
    {
       "artist" : "DJ.kari / obj.LetsOTL",
       "comment" : "Machine Sequencer",
-      "level" : "10",
+      "level" : "★2",
       "md5" : "741d49e9d0596e431f934ce9d7613bb1",
       "title" : "Platinum [Spoon]"
    },
@@ -18505,7 +18505,7 @@
       "title" : "Faceless Moon [DP ANOTHER]"
    },
    {
-      "artist" : "ume / obj:箕作 *L.MIRROR",
+      "artist" : "ume / obj:箕作 *FLIP L.MIRROR",
       "comment" : "anthem groove",
       "level" : "10",
       "md5" : "7de5b5e893cbc798b2b213fed444e55e",
@@ -20458,7 +20458,7 @@
       "title" : "cheeselove [DP mami]"
    },
    {
-      "artist" : "Queen P.A.L. / Hador",
+      "artist" : "Queen P.A.L. / Hador *FLIP LR.MIRROR",
       "comment" : "HYPER TECHNO",
       "level" : "10",
       "md5" : "8acb7834e0256ea8b66b967b85f4b14f",
@@ -22784,7 +22784,7 @@
    {
       "artist" : "xi obj:kuro",
       "comment" : "PROGRESSIVE FUSION",
-      "level" : "10",
+      "level" : "9",
       "md5" : "9a4dded7a6c5ff02090173270ccbfdbb",
       "title" : "Mirage Garden [DP CHALLENGER]"
    },
@@ -22822,6 +22822,13 @@
       "level" : "1",
       "md5" : "9a838e15e80ca1d71d1aa5008320f6fc",
       "title" : "code : Desert (EX14)"
+   },
+   {
+      "artist" : "樋奈月みつ [obj:mymt]",
+      "comment" : "SOARLY TRANCE POP",
+      "level" : "8",
+      "md5" : "9a875638548bb6dda51f5200c9898e70",
+      "title" : "東の国のFLYING PAPARAZZI！ [DP Fake News]"
    },
    {
       "artist" : "EBIMAYO / obj.LetsOTL",
@@ -23188,7 +23195,7 @@
       "title" : "ﾃ-ﾚｯﾃｰ新宿談 [ANOTHER14]"
    },
    {
-      "artist" : "M / obj : lemon_aided *FLIP",
+      "artist" : "M / obj : lemon_aided *FLIP R.MIRROR",
       "comment" : "4096",
       "level" : "★4",
       "md5" : "9c8717af19609686427f4b5512ade424",
@@ -24317,7 +24324,7 @@
    {
       "artist" : "SHIKI obj:kuro",
       "comment" : "TRANCE CORE",
-      "level" : "10",
+      "level" : "★2",
       "md5" : "a3d65198f77f327b94bb86128dcb6ab0",
       "title" : "Metatron [DP CHALLENGER]"
    },
@@ -25297,7 +25304,7 @@
    {
       "artist" : "Xacla / TOHRU MiTSUHASHi / obj:lichtr",
       "comment" : "Euphoric Trance",
-      "level" : "10",
+      "level" : "★2",
       "md5" : "a98fe5d837accebfd8ae852fe29c1dd9",
       "title" : "oceanbird"
    },
@@ -25619,7 +25626,7 @@
    {
       "artist" : "バリネコ *L.MIRROR",
       "comment" : "小学生",
-      "level" : "10",
+      "level" : "★1",
       "md5" : "ac6338bc45e75030bbc2eb2651443769",
       "title" : "音楽室"
    },
@@ -26254,7 +26261,7 @@
       "title" : "conflict [DP MGNother]"
    },
    {
-      "artist" : "CrossGear *FLIP LR.MIRROR",
+      "artist" : "CrossGear *FLIP R.MIRROR",
       "comment" : "Progressive Trance",
       "level" : "★5",
       "md5" : "b08d260dce85d95ab8f4b33ce36c658b",
@@ -26485,7 +26492,7 @@
       "title" : "Ophelia [DPk]"
    },
    {
-      "artist" : "tarolabo vo：小宮真央 / obj:lichtr *R.MIRROR",
+      "artist" : "tarolabo vo：小宮真央 / obj:lichtr *FLIP R.MIRROR",
       "comment" : "ラーメンズPop",
       "level" : "6",
       "md5" : "b221534f0637bbdc234e178fb25d5101",
@@ -26604,9 +26611,9 @@
       "title" : "omega iii - beyond the flare ANOTHER14"
    },
    {
-      "artist" : "enxel [obj:MGN]  *L.MIRROR",
+      "artist" : "enxel [obj:MGN]  *FLIP L.MIRROR",
       "comment" : "UPLIFTING TRANCE",
-      "level" : "10",
+      "level" : "9",
       "md5" : "b32bdf2d8cb4f074bd34117469916c08",
       "title" : "Triton [DP INSANE]"
    },
@@ -26998,7 +27005,7 @@
    {
       "artist" : "tarolabo / Symphonian",
       "comment" : "[Goa/Gore]",
-      "level" : "9",
+      "level" : "8",
       "md5" : "b56df769243333f0f89fb05ea96eea53",
       "title" : "性的猟奇的無意味 [14key_4]"
    },
@@ -32400,7 +32407,7 @@
       "title" : "Last Selection [Extreme]"
    },
    {
-      "artist" : "Junk / RAY obj:ucc",
+      "artist" : "Junk / RAY obj:ucc *L.MIRROR",
       "comment" : "Future Pop",
       "level" : "10",
       "md5" : "db1df84e7df6618b564b4d5f636c7f07",
@@ -33256,7 +33263,7 @@
    {
       "artist" : "mattaku",
       "comment" : "game music",
-      "level" : "10",
+      "level" : "9",
       "md5" : "e139aacb649b64b891706ae89197f45d",
       "title" : "Romancing Sa・Ga3 ～四魔貴族バトル2～ (DP BLACK ANOTHER+)"
    },
@@ -34670,7 +34677,7 @@
    {
       "artist" : "tcheb / mov : 石王マサト obj:kuro",
       "comment" : "AGAINST \"The World\"",
-      "level" : "10",
+      "level" : "★1",
       "md5" : "eb4b366e15b2ebae0270e00302992a60",
       "title" : "Our Dream, Our Justice [DP CHALLENGER]"
    },
@@ -35193,9 +35200,9 @@
       "title" : "奏龍ピアソラ"
    },
    {
-      "artist" : "mattaku *L.MIRROR",
+      "artist" : "mattaku",
       "comment" : "game music",
-      "level" : "10",
+      "level" : "★1",
       "md5" : "ee41cba948f1e8608b84680999000773",
       "title" : "MYSTIC QUEST ～バトル2～ (DP BLACK ANOTHER+)"
    },
@@ -36222,7 +36229,7 @@
       "title" : "Merry Christmas Mr.Lawrence [DPQ]"
    },
    {
-      "artist" : "NS-Factory × cislv obj:ucc *FLIP L.MIRROR",
+      "artist" : "NS-Factory × cislv obj:ucc",
       "comment" : "Uplifting Trance",
       "level" : "10",
       "md5" : "f56f686c4cbed72adeaba45a6a9b4239",
@@ -36621,9 +36628,9 @@
       "title" : "Say A Vengeance [Alternative]"
    },
    {
-      "artist" : "daisan obj:kuro",
+      "artist" : "daisan obj:kuro *FLIP LR.MIRROR",
       "comment" : "Artcore",
-      "level" : "10",
+      "level" : "9",
       "md5" : "f7ec79ebc2ce358846194847e6ec4cec",
       "title" : "reAdvenTia [CHALLENGER]"
    },
@@ -37370,7 +37377,7 @@
       "title" : "G e n g a o z o -Screen music- [f u - n]"
    },
    {
-      "artist" : "xi/obj:epics- *R.MIR or FLIP R.MIR",
+      "artist" : "xi/obj:epics- *L.MIR or R.MIR or FLIP R.MIR",
       "comment" : "RENAISSANCE HARDCORE",
       "level" : "10",
       "md5" : "fd049b5a57d7659b7234bdf67099c324",

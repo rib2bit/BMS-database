@@ -110,6 +110,20 @@
       "url_diff" : "http://www.geocities.jp/hihihi4442/onigiri.html"
    },
    {
+      "artist" : "秋山 澪 / obj:BAECON",
+      "comment" : "少し連打の混じる物量",
+      "level" : "3",
+      "md5" : "1758f4f1386835265fdf8dbb6f6ffb4f",
+      "proposer" : "otoshi.b",
+      "submission" : 110,
+      "title" : "水晶世界 ～Fracture～ [GOD]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=44&event=65",
+      "url_diff" : "http://akred.web.fc2.com/baecon/_crystal-world_r_7GOD.bme",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "風鈴奏 Rustin",
       "comment" : "주로 24,16섞인 폭타가 나오는 후살 몰빵곡입니다 잘 부탁드립니다",
       "level" : "7",
@@ -193,7 +207,7 @@
    {
       "artist" : "うまるつふり",
       "comment" : "",
-      "level" : "7",
+      "level" : "8",
       "md5" : "275df7237fb43091ee19ecc20f6ed606",
       "proposer" : "chack♪",
       "submission" : 73,
@@ -232,7 +246,7 @@
    {
       "artist" : "Spire / obj.7zs",
       "comment" : "up01500",
-      "level" : "3",
+      "level" : "4",
       "md5" : "2bdc2d74aee220082ddd28e7524e26cc",
       "proposer" : "LUXURY",
       "submission" : 83,
@@ -271,7 +285,7 @@
    {
       "artist" : "くるぶっこちゃん BGA : geniway / OBJ : Omino",
       "comment" : "",
-      "level" : "6",
+      "level" : "7",
       "md5" : "32388dd5d425e025cd651096501cf694",
       "proposer" : "nissuxi",
       "submission" : 54,
@@ -300,6 +314,20 @@
       "title" : "☆をかけるアドベンチャー ～ we are forever friends! ～",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=121&event=104",
       "url_diff" : "http://akred.web.fc2.com/baecon/hoshikake_curtaincall.bms"
+   },
+   {
+      "artist" : "EXCITECH obj:Omino",
+      "comment" : "00191",
+      "level" : "7",
+      "md5" : "38503c10766176c398e7ffbccfd4b6af",
+      "proposer" : "LUXURY",
+      "submission" : 112,
+      "title" : "Hypertext Transfer Protocol [Other]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=83",
+      "url_diff" : "http://gnqg.rosx.net/upload/",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "FOLiACETATE /差分 赤い人",
@@ -384,7 +412,7 @@
    {
       "artist" : "しーけー obj:Omino",
       "comment" : "01451",
-      "level" : "3",
+      "level" : "6",
       "md5" : "43ed5893736ed26e0c532df35838b8d0",
       "proposer" : "LUXURY",
       "submission" : 94,
@@ -484,7 +512,7 @@
    {
       "artist" : "立秋 feat.ちょこ obj:MineC24",
       "comment" : "",
-      "level" : "3",
+      "level" : "2",
       "md5" : "57cd7ce1136cea3b3d95d0b78b4167e1",
       "proposer" : "Dai7Gon",
       "submission" : 9,
@@ -506,7 +534,7 @@
    {
       "artist" : "yassu / 小宮真央",
       "comment" : "",
-      "level" : "4",
+      "level" : "3",
       "md5" : "59fa39acd45bc64f9fa1f29d8bbef02d",
       "proposer" : "双六",
       "submission" : 63,
@@ -622,7 +650,7 @@
    {
       "artist" : "Blue-J / obj. Tristan97",
       "comment" : "",
-      "level" : "5",
+      "level" : "6",
       "md5" : "6e0ef8c3434695d5fffce2293e37fb73",
       "proposer" : "Tristan97",
       "submission" : 10,
@@ -799,7 +827,7 @@
    {
       "artist" : "ROKINA / obj.O",
       "comment" : "",
-      "level" : "8",
+      "level" : "9",
       "md5" : "95ca283a21ebfc5eec714aa6cebe056d",
       "proposer" : "homare",
       "submission" : 14,
@@ -948,13 +976,27 @@
    {
       "artist" : "roop × Mentalstock obj:Omino",
       "comment" : "区切りの多いガチ押し",
-      "level" : "5",
+      "level" : "6",
       "md5" : "b29aef69cc169439f35332a56e2e0164",
       "proposer" : "sak",
       "submission" : 25,
       "title" : "Disco Balls [Other]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=183&event=60",
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
+   },
+   {
+      "artist" : "wa. / 百舌谷 obj. B_K",
+      "comment" : "",
+      "level" : "2",
+      "md5" : "b3ac65351c03998e3276790503008d46",
+      "proposer" : "Lapis",
+      "submission" : 111,
+      "title" : "Black Lotus -PUNISHMENT-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=138&event=110",
+      "url_diff" : "http://beatkim.web.fc2.com/",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "犬 obj:ほまれ",
@@ -977,6 +1019,20 @@
       "title" : "スーパーイザナギオブジェクト (おに)",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=102",
       "url_diff" : "http://kanki2.net/bme.html",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "立秋 feat.ちょこ",
+      "comment" : "01059",
+      "level" : "9",
+      "md5" : "b73ef6fac70e149a36e03a1981768057",
+      "proposer" : "LUXURY",
+      "submission" : 113,
+      "title" : "プナイプナイたいそう",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=227&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01059",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -1062,9 +1118,23 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html"
    },
    {
+      "artist" : "ねこみりん  / obj:BAECON",
+      "comment" : "連打複合、ディレイ",
+      "level" : "8",
+      "md5" : "caf5e6255d91771febd4c96ac6e55c10",
+      "proposer" : "otoshi.b",
+      "submission" : 109,
+      "title" : "NO NIGHT MORE SOUL! [むずかしい]",
+      "url" : "http://colosseo.nekokan.dyndns.info/c02_shuffle/detail.php?n=17",
+      "url_diff" : "http://akred.web.fc2.com/baecon/_nnms_810_muzui.bml",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "Yu^ta feat. みずにんじん / A",
       "comment" : "",
-      "level" : "7",
+      "level" : "6",
       "md5" : "d0595448f9aed636bdc0b03d6445bc5f",
       "proposer" : "chack♪",
       "submission" : 13,
@@ -1166,7 +1236,7 @@
    {
       "artist" : "あるさん / obj. Tristan97",
       "comment" : "Please Enjoy!",
-      "level" : "4",
+      "level" : "3",
       "md5" : "eca9b88bf38ea3bd5ab234c04453a65d",
       "proposer" : "Tristan97",
       "submission" : 62,

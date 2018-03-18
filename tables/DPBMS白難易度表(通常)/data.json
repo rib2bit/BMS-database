@@ -2962,7 +2962,7 @@
       "name_diff" : "●",
       "name_pack" : "BOFU2015",
       "note" : "",
-      "state" : "1",
+      "state" : "0",
       "tag" : "☆10中位。16分、縦系同時押し",
       "title" : "Goodbye to Your memory [DP ANOTHER]",
       "total" : "",
@@ -3796,6 +3796,24 @@
       "total" : "",
       "url" : "http://yaruki0.sakura.ne.jp/event/A1_6th/impression.cgi?no=5",
       "url_diff" : ""
+   },
+   {
+      "artist" : "さんまのこぼね/obj:goooya",
+      "bmsid" : "257081",
+      "comment" : "",
+      "eval" : "0",
+      "judge" : "",
+      "level" : "11",
+      "md5" : "ae5b3aef1446d813c4ca57297a3b2b22",
+      "name_diff" : "●",
+      "name_pack" : "BOFU2017",
+      "note" : "",
+      "state" : "1",
+      "tag" : "☆11下～中位。同時押し以上に階段が難しい",
+      "title" : "微睡の星空",
+      "total" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=280&event=116",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/304"
    },
    {
       "artist" : "ねこみりん + nora2r feat. 小宮真央 obj:肴 出前 + くるみあべし",
@@ -5254,6 +5272,24 @@
       "total" : "",
       "url" : "http://yatai.ath.cx/c03_shuffle2/detail.php?n=20",
       "url_diff" : "http://timetorain.web.fc2.com/"
+   },
+   {
+      "artist" : "雨漏りP obj:Gypsy",
+      "bmsid" : "257463",
+      "comment" : "",
+      "eval" : "0",
+      "judge" : "",
+      "level" : "11",
+      "md5" : "e6f267c44ec3330ff6d88bb1b535f76f",
+      "name_diff" : "●",
+      "name_pack" : "BOFU2017",
+      "note" : "",
+      "state" : "1",
+      "tag" : "☆10上位～☆11下位。BPM205の8分以上多を裁けるか",
+      "title" : "Blackstar [Gy-H]",
+      "total" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=320&event=116",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/308"
    },
    {
       "artist" : "P4koo feat. A.Dokuga image : keiyuu/mov : VISREV/lyric : つゆり花鈴/obj : symphonian",
