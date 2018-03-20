@@ -28,6 +28,20 @@
       "voteYes" : 2
    },
    {
+      "artist" : "Yu^ta",
+      "comment" : "ズレ物量乱打",
+      "level" : "4",
+      "md5" : "18a8109ae8f65222ab57570abcfae1b2",
+      "proposer" : "otoshi.b",
+      "submission" : 117,
+      "title" : "Rainy [GOD]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=98",
+      "url_diff" : "https://www.dropbox.com/s/dpfbcmw1tj7f9lq/_05_rainy-GOD.bms?dl=1",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "ROKINA on schwarzekugel BGA:アカツキユウ / ImageIllust:あひゅりむ / obj.剣竜",
       "comment" : "微縦連、同時押し",
       "level" : "7",
@@ -81,7 +95,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "Tlahuizcalpantecuhtli BGA: Air OBJ : ランダマイザ",
@@ -178,8 +192,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=138&event=110",
       "url_diff" : "http://beatkim.web.fc2.com/",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "er obj:NoName",
@@ -193,7 +207,7 @@
       "url_diff" : "http://kanki2.net/bme.html",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "立秋 feat.ちょこ",
@@ -221,7 +235,7 @@
       "url_diff" : "https://drive.google.com/open?id=0B6gzvhYqRdovVl8zbVZXX3pFaWM",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 5
    },
    {
       "artist" : "ねこみりん  / obj:BAECON",
@@ -250,6 +264,20 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 3
+   },
+   {
+      "artist" : "HARD RENAISSAMBA MASTER 佐藤 -SATOH-",
+      "comment" : "総合難　同梱譜面",
+      "level" : "7",
+      "md5" : "d9ef7046e967310fbeeaaf4911acc1b7",
+      "proposer" : "APRICOT",
+      "submission" : 116,
+      "title" : "ハードルネッサンバ -LAST BOSS-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=409&event=104",
+      "url_diff" : "",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "Judah BGA:Lucifer obj : ランダマイザ",
