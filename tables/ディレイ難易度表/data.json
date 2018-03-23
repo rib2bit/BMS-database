@@ -177,7 +177,7 @@
       "name_diff" : "赤い人",
       "title" : "Ladymade corestar [DELAY]",
       "url" : "http://bemuri.com/eventpage/kbp2012_lmcs.htm",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/Ladymade_DELAY.bme "
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/Ladymade_DELAY.bme"
    },
    {
       "artist" : "BACO",
@@ -540,6 +540,16 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up1028.rar"
    },
    {
+      "artist" : "pRojective",
+      "comment" : "",
+      "level" : "10",
+      "md5" : "8e2d76d7da081138365cf644bf42bf58",
+      "name_diff" : "",
+      "title" : "Flat Module [kuso]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=88",
+      "url_diff" : ""
+   },
+   {
       "artist" : "MILK",
       "comment" : "",
       "level" : "22",
@@ -598,6 +608,16 @@
       "title" : "ピアノ連弾的「You」〜ひぐらしのなく頃に〜 [ LEVEL 5 ANOTHER SS]",
       "url" : "http://www.geocities.jp/red_without_right_stick/",
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up2360.zip"
+   },
+   {
+      "artist" : "mattaku",
+      "comment" : "",
+      "level" : "6",
+      "md5" : "9db34f9c45febe201bdb92a95fbd555a",
+      "name_diff" : "SUZUKAZEΛ",
+      "title" : "聖剣伝説2 [ZOI-Delay]",
+      "url" : "",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html"
    },
    {
       "artist" : "立秋",
@@ -950,6 +970,16 @@
       "url_diff" : "http://hakkanbms.web.fc2.com/sabun.html"
    },
    {
+      "artist" : "Grand Thaw",
+      "comment" : "",
+      "level" : "16",
+      "md5" : "f4a23cb3115e0abf956b7462f5a5c91d",
+      "name_diff" : "slash",
+      "title" : "AltMirrorBell [SP Insane]",
+      "url" : "http://sougr3428.web.fc2.com/",
+      "url_diff" : "http://slash24th.web.fc2.com/"
+   },
+   {
       "artist" : "Cres",
       "comment" : "",
       "level" : "26",
@@ -988,5 +1018,15 @@
       "title" : "Mario Paint (Time Regression Mix for BMS) [D-NORMAL]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=66&amp;event=84",
       "url_diff" : "http://fenderbms.web.fc2.com/"
+   },
+   {
+      "artist" : "Signal Love",
+      "comment" : "",
+      "level" : "11",
+      "md5" : "fdb61fbce14484d764343100ddc79dbb",
+      "name_diff" : "詠姫",
+      "title" : "santuario [DELAY]",
+      "url" : "http://sound.jp/bmstank1/sig/sig.html",
+      "url_diff" : "http://skydrive.live.com/?cid=6D4BF06AB079B758&id=6D4BF06AB079B758!177#cid=6D4BF06AB079B758&id=6D4BF06AB079B758!190"
    }
 ]

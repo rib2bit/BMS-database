@@ -1,5 +1,19 @@
 [
    {
+      "artist" : "flicknote vocals: MindaRyn / obj: sak",
+      "comment" : "停止あり",
+      "level" : "8",
+      "md5" : "0397367543e53c1aa02daa037d886b99",
+      "proposer" : "阿蘇",
+      "submission" : 125,
+      "title" : "４２２ [Cupido]",
+      "url" : "http://qstol.info/events/venue/detail?event=3&id=42",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00932",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "かたぎり",
       "comment" : "01229",
       "level" : "4",
@@ -11,7 +25,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01229",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
    },
    {
       "artist" : "wa. vs ETIA. /deadblue238/obj:沈黙の長 ユルト",
@@ -25,7 +39,7 @@
       "url_diff" : "https://www.dropbox.com/s/ohugbujhjlue6sk/_akasagarbha_%28T%292.bme?dl=0",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "秋山 澪 / obj:BAECON",
@@ -39,7 +53,7 @@
       "url_diff" : "http://akred.web.fc2.com/baecon/_crystal-world_r_7GOD.bme",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "Yu^ta",
@@ -66,8 +80,8 @@
       "url" : "https://onedrive.live.com/?id=A0C4279F1B037701!481&cid=A0C4279F1B037701",
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "wa. / 百舌谷 obj:Omino",
@@ -137,7 +151,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00661",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "EXCITECH obj:Omino",
@@ -151,7 +165,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 4
    },
    {
       "artist" : "Silentroom × iimo obj : BAECON",
@@ -179,7 +193,7 @@
       "url_diff" : "http://sabosabun.tank.jp/",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "Kinato",
@@ -194,6 +208,20 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 1
+   },
+   {
+      "artist" : "beatMARIO/obj KAMIO*",
+      "comment" : "ガチ押し　up5638",
+      "level" : "6",
+      "md5" : "695543c1fa363b783d7a749524663102",
+      "proposer" : "APRICOT",
+      "submission" : 124,
+      "title" : "HAMMER the TANGRAM　（ボケ+）",
+      "url" : "http://cool-create.cc/bms/index.html",
+      "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "Symphonian / obj : hxrt",
@@ -234,8 +262,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=104",
       "url_diff" : "http://lapisbms.web.fc2.com",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "ZUMMER BGA / S-BLUE // Obj.Triforce",
@@ -248,8 +276,8 @@
       "url" : "http://team-zummer.club/bms/G2R/Z_TOD_ogg.zip",
       "url_diff" : "http://www.dropbox.com/s/bafy7tkhylxe57i/__NEMESIS_fix.bme?dl=0",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "TEKINA Stella Rustined",
@@ -263,7 +291,7 @@
       "url_diff" : "https://www.dropbox.com/s/cto1z249scbcue2/H.A.L.%20X-Form_stella.bms?dl=0",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "wa. / 百舌谷 obj. B_K",
@@ -277,7 +305,7 @@
       "url_diff" : "http://beatkim.web.fc2.com/",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
    },
    {
       "artist" : "er obj:NoName",
@@ -308,6 +336,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "shimizushi / selene.",
+      "comment" : "",
+      "level" : "7",
+      "md5" : "bea09a3c942e4118bc626924b16ed7bd",
+      "proposer" : "阿蘇",
+      "submission" : 126,
+      "title" : "Electric Spark 2017 -1MV-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=251&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01297",
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 1
+   },
+   {
       "artist" : "Yosk! / obj:けろささ",
       "comment" : "",
       "level" : "2",
@@ -319,7 +361,7 @@
       "url_diff" : "https://drive.google.com/open?id=0B6gzvhYqRdovVl8zbVZXX3pFaWM",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "ねこみりん  / obj:BAECON",
@@ -347,7 +389,7 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "HARD RENAISSAMBA MASTER 佐藤 -SATOH-",
