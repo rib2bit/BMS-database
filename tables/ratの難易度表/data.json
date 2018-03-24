@@ -1629,6 +1629,21 @@
       "url_diff" : "http://rattoto10.web.fc2.com/bms/rat_jacktheripper.zip"
    },
    {
+      "artist" : "TRIAL",
+      "comment" : "",
+      "eval" : 0,
+      "level" : "0",
+      "md5" : "7500afb126a1ab5416c85bd0fa96c303",
+      "name_diff" : "rat",
+      "name_pack" : null,
+      "state" : 0,
+      "tag" : "",
+      "title" : "Stimulant Lollipop [rather]",
+      "url" : null,
+      "url_diff" : "http://rattoto10.web.fc2.com/bms/rat_stimulantlollipop.zip",
+      "url_pack" : null
+   },
+   {
       "artist" : "xi",
       "comment" : "",
       "eval" : 0,
@@ -2829,6 +2844,20 @@
       "tag" : null,
       "title" : "Black Lair [rather]",
       "url_diff" : "http://rattoto10.web.fc2.com/bms/rat_blacklair.zip"
+   },
+   {
+      "artist" : "Modulation Spin",
+      "comment" : "",
+      "eval" : 0,
+      "level" : "12",
+      "lr2_bmsid" : "0",
+      "md5" : "d573f278da1956439c70663f6c50a7da",
+      "name_diff" : "rat",
+      "reg_date" : "2016-06-13",
+      "state" : 0,
+      "tag" : null,
+      "title" : "curtain [rather]",
+      "url_diff" : "http://rattoto10.web.fc2.com/bms/rat_curtain.zip"
    },
    {
       "artist" : "SHIKI",
