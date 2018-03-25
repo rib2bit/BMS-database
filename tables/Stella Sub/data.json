@@ -93,7 +93,7 @@
    {
       "artist" : "かたぎり",
       "comment" : "01229",
-      "level" : "4",
+      "level" : "5",
       "md5" : "0fda6555e8f6d19087d9a1f1d934fe12",
       "proposer" : "LUXURY",
       "submission" : 115,
@@ -203,6 +203,20 @@
       "title" : "Fiore Tempesta [Oncidium]",
       "url" : "https://onedrive.live.com/?id=A0C4279F1B037701!481&cid=A0C4279F1B037701",
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "BTB Mov : mzet :-p & OLB",
+      "comment" : "物量",
+      "level" : "1",
+      "md5" : "1abcc42c80d81038a242ecd688a2b048",
+      "proposer" : "Leva",
+      "submission" : 129,
+      "title" : "Creamy Sky [はっぴぃ↑↑]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=96",
+      "url_diff" : "http://absolute.pv.land.to/uploader/src/up4834.zip",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -483,6 +497,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Aozuna obj:???",
+      "comment" : "高速物量",
+      "level" : "4",
+      "md5" : "4076708c5cc91788f2ffcf65c72a4073",
+      "proposer" : "Masa",
+      "submission" : 127,
+      "title" : "腹腹時計",
+      "url" : "https://onedrive.live.com/?id=863934608D908CD0%21142&cid=863934608D908CD0",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00978",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "P4koo / obj:BAECON",
       "comment" : "",
       "level" : "3",
@@ -636,6 +664,20 @@
       "title" : "Chronomia -LAST BOSS-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=550&event=110",
       "url_diff" : "http://gnqg.rosx.net/"
+   },
+   {
+      "artist" : "Lime / inukoro obj:zukocchi",
+      "comment" : "高速",
+      "level" : "1",
+      "md5" : "5f0721d70d8e107734a042a7f277e233",
+      "proposer" : "Leva",
+      "submission" : 128,
+      "title" : "Chronomia [Presea]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=550&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00542",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "er / obj morio",
@@ -1230,7 +1272,7 @@
    {
       "artist" : "Yosk! / obj:けろささ",
       "comment" : "",
-      "level" : "2",
+      "level" : "3",
       "md5" : "bfed975d0e59f84a3d36a4c36ccfccaf",
       "proposer" : "APRICOT",
       "submission" : 107,
