@@ -39,7 +39,7 @@
       "url_diff" : "https://www.dropbox.com/s/ohugbujhjlue6sk/_akasagarbha_%28T%292.bme?dl=0",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "秋山 澪 / obj:BAECON",
@@ -67,7 +67,7 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up4834.zip",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "wa. / 百舌谷 obj:Omino",
@@ -179,7 +179,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00542",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "Vector27 vs Blue-J/さ",
@@ -249,7 +249,7 @@
       "url_diff" : "http://lapisbms.web.fc2.com",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "ZUMMER BGA / S-BLUE // Obj.Triforce",
@@ -278,6 +278,20 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 3
+   },
+   {
+      "artist" : "SHIKI / po",
+      "comment" : "横に広い物量",
+      "level" : "2",
+      "md5" : "a28a3fbcc2bfd8c8516e78e3aacbdbbc",
+      "proposer" : "Leva",
+      "submission" : 137,
+      "title" : "Air -HADES-",
+      "url" : "http://web.archive.org/web/20051118202018/http://www.remarkablesense.org/~shiki/air.exe",
+      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up4757.zip",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "LeaF / obj:Monsta Movie:q/stol",
@@ -350,6 +364,20 @@
       "voteYes" : 1
    },
    {
+      "artist" : "Yu^ta / obj:Omino",
+      "comment" : "ランダム当たり外れの少ない物量譜面",
+      "level" : "8",
+      "md5" : "c00b5965971e46fd9da5575160e5b9af",
+      "proposer" : "Leva",
+      "submission" : 138,
+      "title" : "人形楽団　 ～ Puppet Ensemble ・∀・ ～",
+      "url" : "http://music.geocities.jp/yutaortslabo/yutaortslabo_asianeuro_16ogg.zip",
+      "url_diff" : "https://www.dropbox.com/s/at2sdovejjqicks/_asianeuro_Other_fix.bms?dl=0",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "ああああ / obj:po",
       "comment" : "",
       "level" : "3",
@@ -376,5 +404,19 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 1
+   },
+   {
+      "artist" : "kenzoooo illust:みらん",
+      "comment" : "",
+      "level" : "10",
+      "md5" : "f88f107565840746801cca12ae92f5f7",
+      "proposer" : "freq",
+      "submission" : 139,
+      "title" : "Skull & Witch [ワルプルギスの夜]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=98",
+      "url_diff" : "http://absolute.pv.land.to/uploader/src/up5211.zip",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    }
 ]

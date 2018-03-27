@@ -1149,6 +1149,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "SHIKI / po",
+      "comment" : "横に広い物量",
+      "level" : "2",
+      "md5" : "a28a3fbcc2bfd8c8516e78e3aacbdbbc",
+      "proposer" : "Leva",
+      "submission" : 137,
+      "title" : "Air -HADES-",
+      "url" : "http://web.archive.org/web/20051118202018/http://www.remarkablesense.org/~shiki/air.exe",
+      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up4757.zip",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "ああああ / A",
       "comment" : "",
       "level" : "7",
@@ -1363,6 +1377,20 @@
       "title" : "Little Wizard [Kerother]",
       "url" : "https://drive.google.com/open?id=0B7qCw4hNijr4eEtvWW5nQi16R2M",
       "url_diff" : "https://drive.google.com/open?id=0B6gzvhYqRdovVl8zbVZXX3pFaWM",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "Yu^ta / obj:Omino",
+      "comment" : "ランダム当たり外れの少ない物量譜面",
+      "level" : "8",
+      "md5" : "c00b5965971e46fd9da5575160e5b9af",
+      "proposer" : "Leva",
+      "submission" : 138,
+      "title" : "人形楽団　 ～ Puppet Ensemble ・∀・ ～",
+      "url" : "http://music.geocities.jp/yutaortslabo/yutaortslabo_asianeuro_16ogg.zip",
+      "url_diff" : "https://www.dropbox.com/s/at2sdovejjqicks/_asianeuro_Other_fix.bms?dl=0",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -1598,6 +1626,20 @@
       "title" : "Gleam of Aigis [DESTRUCTIVE7]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=31&event=103",
       "url_diff" : "http://www.geocities.jp/yjsnpi_kitanai_kusai_unko/BOB2015/BOB2015_k_4_3_E.html"
+   },
+   {
+      "artist" : "kenzoooo illust:みらん",
+      "comment" : "",
+      "level" : "10",
+      "md5" : "f88f107565840746801cca12ae92f5f7",
+      "proposer" : "freq",
+      "submission" : 139,
+      "title" : "Skull & Witch [ワルプルギスの夜]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=98",
+      "url_diff" : "http://absolute.pv.land.to/uploader/src/up5211.zip",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "Iriss-Frantzz / O",
