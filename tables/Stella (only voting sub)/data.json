@@ -14,20 +14,6 @@
       "voteYes" : 2
    },
    {
-      "artist" : "α-5",
-      "comment" : "ズレ 認識難",
-      "level" : "3",
-      "md5" : "07635a3d279a9111d098fcc7f3bfc672",
-      "proposer" : "炉峰",
-      "submission" : 131,
-      "title" : "KRIS of TRUTH (FIENDISH)",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=62&event=104",
-      "url_diff" : "",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
       "artist" : "wa. vs ETIA. /deadblue238/obj:沈黙の長 ユルト",
       "comment" : "物量と少しLN",
       "level" : "1",
@@ -39,7 +25,7 @@
       "url_diff" : "https://www.dropbox.com/s/ohugbujhjlue6sk/_akasagarbha_%28T%292.bme?dl=0",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 7
    },
    {
       "artist" : "秋山 澪 / obj:BAECON",
@@ -67,7 +53,7 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up4834.zip",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "wa. / 百舌谷 obj:Omino",
@@ -95,7 +81,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00949",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "はがね obj. B_K + Lapis",
@@ -136,8 +122,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=351&event=88",
       "url_diff" : "http://1drv.ms/1rxVHvK",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "Aozuna obj:???",
@@ -179,7 +165,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00542",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "Vector27 vs Blue-J/さ",
@@ -210,6 +196,20 @@
       "voteYes" : 1
    },
    {
+      "artist" : "ねこかぶりサイクロン(xi+ねこみりん) feat.えみゅう。/obj.z",
+      "comment" : "00971",
+      "level" : "7",
+      "md5" : "6551b257fe865e84593d40ab62956ac3",
+      "proposer" : "LUXURY",
+      "submission" : 141,
+      "title" : "After Burner [わや]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=430&event=104",
+      "url_diff" : "http://gnqg.rosx.net/upload/",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "beatMARIO/obj KAMIO*",
       "comment" : "ガチ押し　up5638",
       "level" : "6",
@@ -238,6 +238,20 @@
       "voteYes" : 2
    },
    {
+      "artist" : "xelloscope / obj.swa",
+      "comment" : "連打複合",
+      "level" : "6",
+      "md5" : "8b49ff95cc853511397d4feabd4837f2",
+      "proposer" : "mute",
+      "submission" : 143,
+      "title" : "Apollo [30XX.07.16]",
+      "url" : "http://www.luzeria.net/?p=387",
+      "url_diff" : "http://swamelo.web.fc2.com/01_HK.html",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "ROKINA BGA:REI-K / obj:LAPIS",
       "comment" : "",
       "level" : "1",
@@ -249,7 +263,7 @@
       "url_diff" : "http://lapisbms.web.fc2.com",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 6
    },
    {
       "artist" : "ZUMMER BGA / S-BLUE // Obj.Triforce",
@@ -263,7 +277,7 @@
       "url_diff" : "http://www.dropbox.com/s/bafy7tkhylxe57i/__NEMESIS_fix.bme?dl=0",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "TEKINA Stella Rustined",
@@ -277,7 +291,7 @@
       "url_diff" : "https://www.dropbox.com/s/cto1z249scbcue2/H.A.L.%20X-Form_stella.bms?dl=0",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "SHIKI / po",
@@ -290,8 +304,8 @@
       "url" : "http://web.archive.org/web/20051118202018/http://www.remarkablesense.org/~shiki/air.exe",
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up4757.zip",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "LeaF / obj:Monsta Movie:q/stol",
@@ -304,8 +318,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=77&event=83",
       "url_diff" : "http://3228monsta.web.fc2.com/",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "wa. / 百舌谷 obj. B_K",
@@ -320,6 +334,20 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 4
+   },
+   {
+      "artist" : "witch's slave / obj:sak",
+      "comment" : "01043",
+      "level" : "8",
+      "md5" : "b5d82a938f1decc6e57a5862b6bd77ab",
+      "proposer" : "LUXURY",
+      "submission" : 142,
+      "title" : "disperagioia [DESPERATE]",
+      "url" : "http://gmtn.sub.jp/wp/2017/10/15/%E3%80%90bms%E3%80%91disperagioia/",
+      "url_diff" : "http://gnqg.rosx.net/upload/",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "立秋 feat.ちょこ",
@@ -347,7 +375,7 @@
       "url_diff" : "http://fenderbms.web.fc2.com/",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 3
    },
    {
       "artist" : "shimizushi / selene.",
@@ -374,8 +402,8 @@
       "url" : "http://music.geocities.jp/yutaortslabo/yutaortslabo_asianeuro_16ogg.zip",
       "url_diff" : "https://www.dropbox.com/s/at2sdovejjqicks/_asianeuro_Other_fix.bms?dl=0",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "ああああ / obj:po",
@@ -404,6 +432,20 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 1
+   },
+   {
+      "artist" : "Yosk! obj:球根",
+      "comment" : "ディレイ",
+      "level" : "7",
+      "md5" : "e66f8a55c7ebc39b6548cb527805a3a6",
+      "proposer" : "LUXURY",
+      "submission" : 140,
+      "title" : "Modern Times -Charles Chaplin-",
+      "url" : "https://drive.google.com/open?id=0B7qCw4hNijr4ZGdUUUJKMTNJZ2M",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01257",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "kenzoooo illust:みらん",
