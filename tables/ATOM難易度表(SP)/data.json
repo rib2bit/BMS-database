@@ -164,6 +164,18 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/Loves Rebirth 06.zip"
    },
    {
+      "artist" : "Xerenet",
+      "comment" : "微縦連",
+      "level" : "1",
+      "lr2_bmsid" : "0",
+      "md5" : "564ebfe47c9148d00cb8e671fa89ebc8",
+      "name_diff" : "DL",
+      "reg_date" : "2018-03-29",
+      "title" : "1st Acceleration [INSANE]",
+      "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
+      "url_diff" : "http://onzonium.at-ninja.jp/"
+   },
+   {
       "artist" : "Professor S",
       "comment" : "局所難・トリル",
       "level" : "1",
@@ -231,7 +243,7 @@
    {
       "artist" : "RED EYE BGA:tes",
       "comment" : "乱打",
-      "level" : "4",
+      "level" : "3",
       "lr2_bmsid" : "0",
       "md5" : "615f6c3dce74104f021589c5fc869ce2",
       "name_diff" : "DL",
@@ -405,19 +417,6 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/HIGH-ENERGY.zip"
    },
    {
-      "artist" : "Est",
-      "comment" : "乱打・BPM変化",
-      "level" : "6",
-      "lr2_bmsid" : "0",
-      "md5" : "8af966aa2c69222a4ce6fda1c5a34929",
-      "name_diff" : "DL",
-      "name_pack" : "BOF2004",
-      "reg_date" : "2016-09-18",
-      "title" : "Cirrus (INSANE)",
-      "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/Cirrus.zip"
-   },
-   {
       "artist" : "小宮真央 with Na+",
       "comment" : "乱打",
       "level" : "5",
@@ -505,19 +504,6 @@
       "title" : "IRON DOGS [ANOTHER]",
       "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/IRON DOGS.zip"
-   },
-   {
-      "artist" : "NEKI←T",
-      "comment" : "階段・乱打",
-      "level" : "5",
-      "lr2_bmsid" : "0",
-      "md5" : "b966aa73df3f2d1c547b78f36717c97c",
-      "name_diff" : "DL",
-      "name_pack" : "BOF2004",
-      "reg_date" : "2016-07-14",
-      "title" : "nimbostratus (INSANE)",
-      "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/nimbostratus.zip"
    },
    {
       "artist" : "-45",
