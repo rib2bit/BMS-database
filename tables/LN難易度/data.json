@@ -3470,11 +3470,13 @@
       "lr2_bmsid" : 188599,
       "md5" : "7d5d709fb472515536841662bc87b84c",
       "name_diff" : "Gloria",
+      "name_pack" : null,
       "state" : 0,
       "tag" : null,
       "title" : "Misdirection [偽りの道標]",
       "url" : "http://www.manbow.nothing.sh/event/event.cgi?action=More_def&num=425&event=88",
-      "url_diff" : "http://absolute.pv.land.to/longnote/upload.html"
+      "url_diff" : "http://absolute.pv.land.to/longnote/upload.html",
+      "url_pack" : null
    },
    {
       "artist" : "azu",
@@ -4017,7 +4019,7 @@
       "artist" : "TetraElemental / obj:moya",
       "comment" : "",
       "eval" : 0,
-      "level" : "24",
+      "level" : "25",
       "md5" : "96137131d1f8e9005890649a67b6a661",
       "name_diff" : null,
       "name_pack" : null,
@@ -4934,11 +4936,13 @@
       "lr2_bmsid" : 96272,
       "md5" : "b76609d5a5f89d1212b67d59a2c368d4",
       "name_diff" : "Subject#20",
+      "name_pack" : null,
       "state" : 0,
       "tag" : null,
       "title" : "Lamir",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=135&event=65",
-      "url_diff" : "http://youraffection.web.fc2.com/"
+      "url_diff" : "http://youraffection.web.fc2.com/",
+      "url_pack" : null
    },
    {
       "artist" : "tcheb",
@@ -6089,11 +6093,13 @@
       "lr2_bmsid" : 139430,
       "md5" : "da37526424ab26829c13b3f1f2549901",
       "name_diff" : "moya",
+      "name_pack" : null,
       "state" : 0,
       "tag" : null,
       "title" : "searoad tracks =side blue= (LN-Applied)",
       "url" : "http://web.archive.org/web/20070727155516/http://sasakure.bms.ms/bms/searoadremix2.zip",
-      "url_diff" : "http://moyasabun.web.fc2.com"
+      "url_diff" : "http://moyasabun.web.fc2.com",
+      "url_pack" : null
    },
    {
       "artist" : "XAH01",
@@ -6579,15 +6585,17 @@
       "artist" : "P4koo",
       "comment" : "第八回差分企画",
       "eval" : 0,
-      "level" : "20",
+      "level" : "21",
       "lr2_bmsid" : 183563,
       "md5" : "e85bb7112caee8c9b9dd54f34c9cdd90",
       "name_diff" : "2GUMI",
+      "name_pack" : null,
       "state" : 0,
       "tag" : null,
       "title" : "INFINITE BEATS -Brynhildr-",
       "url" : "http://colorfulumbrella.sakura.ne.jp/ondan/ondan6.html",
-      "url_diff" : "http://flowermaster.web.fc2.com/"
+      "url_diff" : "http://flowermaster.web.fc2.com/",
+      "url_pack" : null
    },
    {
       "artist" : "Musical Masterpiece",
