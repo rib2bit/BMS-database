@@ -113,19 +113,6 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/theme of maia.zip"
    },
    {
-      "artist" : "RED EYE BGA:tes",
-      "comment" : "重乱打",
-      "level" : "10",
-      "lr2_bmsid" : "0",
-      "md5" : "38dfc9dc04fb85400b208cb5423e39c2",
-      "name_diff" : "DL",
-      "name_pack" : "BOF2004",
-      "reg_date" : "2016-03-19",
-      "title" : "ozon [OXIDANT]",
-      "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/ozon.zip"
-   },
-   {
       "artist" : "nausiuk",
       "comment" : "☆7<br><br>皿・皿複合・縦連",
       "level" : "-1",
@@ -154,7 +141,7 @@
    {
       "artist" : "小宮真央 with Na+",
       "comment" : "重乱打",
-      "level" : "11",
+      "level" : "10",
       "lr2_bmsid" : "0",
       "md5" : "54625cabb2870bddea4df431c94b0a21",
       "name_diff" : "DL",
@@ -215,6 +202,19 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/G e n g a o z o -Screen music-.zip"
    },
    {
+      "artist" : "paraoka",
+      "comment" : "局所難・階段・軸",
+      "level" : "6",
+      "lr2_bmsid" : "0",
+      "md5" : "5df13e26e4bace2b32955b1cd84c21fa",
+      "name_diff" : "DL",
+      "name_pack" : "BOF2004",
+      "reg_date" : "2018-04-14",
+      "title" : "kyrie (7keys/Insane)",
+      "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
+      "url_diff" : "http://onzonium.at-ninja.jp/sabun/kyrie.zip"
+   },
+   {
       "artist" : "Pipz_key*tone",
       "comment" : "☆9<br><br>皿複合",
       "level" : "-1",
@@ -239,19 +239,6 @@
       "title" : "fragments [ANOTHER]",
       "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/fragments.zip"
-   },
-   {
-      "artist" : "RED EYE BGA:tes",
-      "comment" : "乱打",
-      "level" : "3",
-      "lr2_bmsid" : "0",
-      "md5" : "615f6c3dce74104f021589c5fc869ce2",
-      "name_diff" : "DL",
-      "name_pack" : "BOF2004",
-      "reg_date" : "2016-03-19",
-      "title" : "ozon [INSANE]",
-      "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/ozon.zip"
    },
    {
       "artist" : "YAMD",
@@ -333,7 +320,7 @@
    {
       "artist" : "菊田研究所/lactate",
       "comment" : "階段",
-      "level" : "10",
+      "level" : "9",
       "lr2_bmsid" : "0",
       "md5" : "6cd425736a7e382bc7f8c5b5745f6091",
       "name_diff" : "DL",
@@ -471,10 +458,10 @@
       "comment" : "☆11<br><br>乱打・階段・局所難",
       "level" : "-1",
       "lr2_bmsid" : "0",
-      "md5" : "a3ed00bfa9612b8f0bc7eccf6f3b34fe",
+      "md5" : "9c6f2c2e2498d573c23a8f3da7b0cef8",
       "name_diff" : "DL",
       "name_pack" : "BOF2004",
-      "reg_date" : "2016-11-20",
+      "reg_date" : "2018-04-14",
       "title" : "kyrie (7keys/Another)",
       "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/kyrie.zip"
@@ -518,19 +505,6 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/44river.zip"
    },
    {
-      "artist" : "Yellow Head John",
-      "comment" : "皿複合・局所難・ラス殺し",
-      "level" : "10",
-      "lr2_bmsid" : "0",
-      "md5" : "ba93f14590a6e44a06dd52ecac9575dc",
-      "name_diff" : "DL",
-      "name_pack" : "KBP2012",
-      "reg_date" : "2017-06-25",
-      "title" : "2012 Crisis &lt;7 Insane&gt;",
-      "url" : "http://uploader.bms.ms/data/CRISIS.rar",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/2012 Crisis.zip"
-   },
-   {
       "artist" : "菊田研究所/lactate",
       "comment" : "階段・皿",
       "level" : "21",
@@ -542,19 +516,6 @@
       "title" : "Free Hand zero [BRUTAL]",
       "url" : "http://web.archive.org/web/20051006002133/http://bof.nothing.sh:8080/file/kikuta-lactate-freehand_zero.zip",
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/Free Hand zero.zip"
-   },
-   {
-      "artist" : "paraoka",
-      "comment" : "局所難・階段・軸",
-      "level" : "6",
-      "lr2_bmsid" : "0",
-      "md5" : "be56f9594b81b99db0b536b3d2d7804e",
-      "name_diff" : "DL",
-      "name_pack" : "BOF2004",
-      "reg_date" : "2016-11-20",
-      "title" : "kyrie (7keys/Insane)",
-      "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/kyrie.zip"
    },
    {
       "artist" : "socer",
