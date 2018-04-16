@@ -6,8 +6,7 @@
       [
          {
             "constraint" : [
-               "grade_random",
-               "gauge_lr2"
+               "grade_random"
             ],
             "md5" : [
                "5734e689de8e977d58c6fb0f91bcee70",
@@ -32,8 +31,7 @@
          },
          {
             "constraint" : [
-               "grade_random",
-               "gauge_lr2"
+               "grade_random"
             ],
             "md5" : [
                "2c0d139bb400382935ae45259141a17b",
@@ -58,8 +56,7 @@
          },
          {
             "constraint" : [
-               "grade_random",
-               "gauge_lr2"
+               "grade_random"
             ],
             "md5" : [
                "5d298afcb4debc77516e2fe4e5160707",
@@ -84,8 +81,7 @@
          },
          {
             "constraint" : [
-               "grade_random",
-               "gauge_lr2"
+               "grade_random"
             ],
             "md5" : [
                "d57a17d64cc52db2f2a722c8694d2b45",
@@ -110,8 +106,7 @@
          },
          {
             "constraint" : [
-               "grade_random",
-               "gauge_lr2"
+               "grade_random"
             ],
             "md5" : [
                "e8f3ffafe1a1a8c84ed2d2cb380d324d",
@@ -136,8 +131,7 @@
          },
          {
             "constraint" : [
-               "grade_random",
-               "gauge_lr2"
+               "grade_random"
             ],
             "md5" : [
                "dbf71bc8344d4fd406e154e599c5c27c",
@@ -162,8 +156,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "be200f2661494dc96a0b0484e36129db",
@@ -193,8 +186,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "1bac37f4ae696df258b21a902bfd0232",
@@ -224,8 +216,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "043880563155d8763a33660bfda32c23",
@@ -255,8 +246,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "adfa536284238aa08c3ff4bb9e5b8c9c",
@@ -1072,165 +1062,15 @@
       [
          {
             "constraint" : [
-               "grade_random"
+               "grade_mirror"
             ],
             "md5" : [
-               "5734e689de8e977d58c6fb0f91bcee70",
-               "b5b7de75fdeb6df81bbee0b2bdf2903c",
-               "9e748901e6479ae3a202f95c5b6283fb",
-               "e2b3d187cf9e1deddde0a3dac075002e"
+               "7f603d49c3417e75adb8d09e08e369d5",
+               "be720f52dfc491d1bf94dc13a4d6ed47",
+               "1f73e9c19fd5415cae06185bb334e5ca",
+               "6d0e8e0371b74f0fafd1c2d5bb92ecfb"
             ],
-            "name" : "第2通常段位認定2018 初段",
-            "style" : "red",
-            "trophy" : [
-               {
-                  "missrate" : 7.5,
-                  "name" : "bronzemedal",
-                  "scorerate" : 0
-               },
-               {
-                  "missrate" : 5,
-                  "name" : "silvermedal",
-                  "scorerate" : 70
-               },
-               {
-                  "missrate" : 2.5,
-                  "name" : "goldmedal",
-                  "scorerate" : 85
-               }
-            ]
-         },
-         {
-            "constraint" : [
-               "grade_random"
-            ],
-            "md5" : [
-               "2c0d139bb400382935ae45259141a17b",
-               "6c6513aeeff510257ac815611d5c6cfa",
-               "ffbde15f030fd17eeec538413573fbe4",
-               "0b8ff4ac23adc8da1ba6249b15769726"
-            ],
-            "name" : "第2通常段位認定2018 二段",
-            "style" : "red",
-            "trophy" : [
-               {
-                  "missrate" : 7.5,
-                  "name" : "bronzemedal",
-                  "scorerate" : 0
-               },
-               {
-                  "missrate" : 5,
-                  "name" : "silvermedal",
-                  "scorerate" : 70
-               },
-               {
-                  "missrate" : 2.5,
-                  "name" : "goldmedal",
-                  "scorerate" : 85
-               }
-            ]
-         },
-         {
-            "constraint" : [
-               "grade_random"
-            ],
-            "md5" : [
-               "9f9de34028e76a60094a5a6dd0c5b842",
-               "130fcfa155b634a63949a7fbb810079f",
-               "1be8646458717eeb772a2f138a323c6f",
-               "5d03cc4f129145033a6e92355dec4d88"
-            ],
-            "name" : "第2通常段位認定2018 三段",
-            "style" : "red",
-            "trophy" : [
-               {
-                  "missrate" : 7.5,
-                  "name" : "bronzemedal",
-                  "scorerate" : 0
-               },
-               {
-                  "missrate" : 5,
-                  "name" : "silvermedal",
-                  "scorerate" : 70
-               },
-               {
-                  "missrate" : 2.5,
-                  "name" : "goldmedal",
-                  "scorerate" : 85
-               }
-            ]
-         },
-         {
-            "constraint" : [
-               "grade_random"
-            ],
-            "md5" : [
-               "5ed0d97f7f66d9a031ff9176efff07e9",
-               "a01dfe8833ca18c7cf8d909b1dce9577",
-               "00c1dde52394cf2b113dce3fa1935ebf",
-               "af6e11fbd685ec64c01d971b05f8c8bc"
-            ],
-            "name" : "第2通常段位認定2018 四段",
-            "style" : "red",
-            "trophy" : [
-               {
-                  "missrate" : 7.5,
-                  "name" : "bronzemedal",
-                  "scorerate" : 0
-               },
-               {
-                  "missrate" : 5,
-                  "name" : "silvermedal",
-                  "scorerate" : 70
-               },
-               {
-                  "missrate" : 2.5,
-                  "name" : "goldmedal",
-                  "scorerate" : 85
-               }
-            ]
-         },
-         {
-            "constraint" : [
-               "grade_random"
-            ],
-            "md5" : [
-               "97e192275ca1f8295caf2d7db8145049",
-               "f9ef37af8006e169b2cdff75c3f09822",
-               "d2f44370fe455dc1fbffd8c5c6505e77",
-               "48fe9800c3b29f1bea58fe408b46349a"
-            ],
-            "name" : "第2通常段位認定2018 五段",
-            "style" : "red",
-            "trophy" : [
-               {
-                  "missrate" : 7.5,
-                  "name" : "bronzemedal",
-                  "scorerate" : 0
-               },
-               {
-                  "missrate" : 5,
-                  "name" : "silvermedal",
-                  "scorerate" : 70
-               },
-               {
-                  "missrate" : 2.5,
-                  "name" : "goldmedal",
-                  "scorerate" : 85
-               }
-            ]
-         },
-         {
-            "constraint" : [
-               "grade_random"
-            ],
-            "md5" : [
-               "5c925be5cfef2aedcbbdf5d6ea45bc2b",
-               "b35b2481b28877d5846492442bb18d1b",
-               "5e9f0599c1a7fa020ab2b0683272f776",
-               "562308fb53613a8baf25784394409709"
-            ],
-            "name" : "第2通常段位認定2018 六段",
+            "name" : "八段2016",
             "style" : "red",
             "trophy" : [
                {
@@ -1255,84 +1095,12 @@
                "grade_mirror"
             ],
             "md5" : [
-               "cd76f90327dfea365d98f4e8d53c88a0",
-               "79ed06a56ab7d01b4b1ee2306bea95a2",
-               "2c30cf9cf469d5bfc4249e8042d6f225",
-               "4347dd893c8a19995e7ad08f1f641112"
-            ],
-            "name" : "第2通常段位認定2018 七段",
-            "style" : "red",
-            "trophy" : [
-               {
-                  "missrate" : 7.5,
-                  "name" : "bronzemedal",
-                  "scorerate" : 0
-               },
-               {
-                  "missrate" : 5,
-                  "name" : "silvermedal",
-                  "scorerate" : 70
-               },
-               {
-                  "missrate" : 2.5,
-                  "name" : "goldmedal",
-                  "scorerate" : 85
-               }
-            ]
-         },
-         {
-            "charts" : [
-               {
-                  "md5" : "20daf6c408b4dd1d427efea71e194367",
-                  "title" : "メルヘニア -malchenia- [ANOTHER]"
-               },
-               {
-                  "md5" : "321af1c1e0db37d1edf6dd49bd738933",
-                  "title" : "Total Eclipse of the Sun -Hyper-"
-               },
-               {
-                  "md5" : "fb61fbc91adf5a805528697564d838d1",
-                  "title" : "Auburn Halo"
-               },
-               {
-                  "md5" : "8f5d64954bb19efbf9a886134f79193e",
-                  "title" : "world devoid of you (fairydust radio edit // SP Another)"
-               }
-            ],
-            "constraint" : [
-               "grade_mirror"
-            ],
-            "name" : "第2通常段位認定2018 八段",
-            "style" : "red",
-            "trophy" : [
-               {
-                  "missrate" : 7.5,
-                  "name" : "bronzemedal",
-                  "scorerate" : 0
-               },
-               {
-                  "missrate" : 5,
-                  "name" : "silvermedal",
-                  "scorerate" : 70
-               },
-               {
-                  "missrate" : 2.5,
-                  "name" : "goldmedal",
-                  "scorerate" : 85
-               }
-            ]
-         },
-         {
-            "constraint" : [
-               "grade_mirror"
-            ],
-            "md5" : [
-               "325213609ad69f4bb9bcb61735318423",
-               "d53d561ce0296739755b4c03208c375c",
                "223274bfa8d1fa0c32851a273cd28858",
-               "aae406911863082a192b77a4c1212fb7"
+               "b2697e62f327e504c3bf33e200b93288",
+               "668a238afc2ef29efa87c0fd4a7166b5",
+               "05cb145488b5fd46972b904ff527bba9"
             ],
-            "name" : "第2通常段位認定2018 九段",
+            "name" : "九段2016",
             "style" : "red",
             "trophy" : [
                {
@@ -1357,12 +1125,12 @@
                "grade_mirror"
             ],
             "md5" : [
-               "1cffb346b9a80b2bc119dd95e8a162c8",
-               "711006f06cb07a40e4dc6f0afaa8095c",
-               "5a124174934f23be7749c58eba89428e",
-               "54eaf5c717d0cbc0698f7c624d482ec4"
+               "34e09ddf69ae8bdca128db1cc39d163a",
+               "1795731242284bdc443c82b20f243b3f",
+               "0f05b8a42d5565b53d2f1143e432c482",
+               "f721ccf7812feb4380110a237e5f8953"
             ],
-            "name" : "第2通常段位認定2018 十段",
+            "name" : "十段2016",
             "style" : "red",
             "trophy" : [
                {
@@ -1386,8 +1154,7 @@
       [
          {
             "constraint" : [
-               "grade_random",
-               "gauge_lr2"
+               "grade_random"
             ],
             "md5" : [
                "5734e689de8e977d58c6fb0f91bcee70",
@@ -1417,8 +1184,7 @@
          },
          {
             "constraint" : [
-               "grade_random",
-               "gauge_lr2"
+               "grade_random"
             ],
             "md5" : [
                "bb515279fc2ca77157019a2cf1941241",
@@ -1448,8 +1214,7 @@
          },
          {
             "constraint" : [
-               "grade_random",
-               "gauge_lr2"
+               "grade_random"
             ],
             "md5" : [
                "c96c27b748e3ac340611213f4b46a120",
@@ -1479,8 +1244,7 @@
          },
          {
             "constraint" : [
-               "grade_random",
-               "gauge_lr2"
+               "grade_random"
             ],
             "md5" : [
                "0f99a06b6207e37aad216eb9efb979ed",
@@ -1510,8 +1274,7 @@
          },
          {
             "constraint" : [
-               "grade_random",
-               "gauge_lr2"
+               "grade_random"
             ],
             "md5" : [
                "4e5ab5e78b19be116da4564b7db8e0b9",
@@ -1541,8 +1304,7 @@
          },
          {
             "constraint" : [
-               "grade_random",
-               "gauge_lr2"
+               "grade_random"
             ],
             "md5" : [
                "793e20460c1d60d2dca0c10a91890f0f",
@@ -1572,8 +1334,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "31b90c08c324dac4936c6ba396edefb1",
@@ -1603,8 +1364,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "ddb75942b02a11da01f571e0d515816e",
@@ -1634,8 +1394,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "32c445313b77c744b21b04c652237154",
@@ -1665,8 +1424,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "d063d3666b36cc14b176cd4438487dee",
@@ -2322,8 +2080,7 @@
       [
          {
             "constraint" : [
-               "grade_random",
-               "gauge_lr2"
+               "grade_random"
             ],
             "md5" : [
                "ae11930223a8f24e91633f1a7864e1eb",
@@ -2353,8 +2110,7 @@
          },
          {
             "constraint" : [
-               "grade_random",
-               "gauge_lr2"
+               "grade_random"
             ],
             "md5" : [
                "aad5e34ffc556aa954f93d2515f3ed0b",
@@ -2384,8 +2140,7 @@
          },
          {
             "constraint" : [
-               "grade_random",
-               "gauge_lr2"
+               "grade_random"
             ],
             "md5" : [
                "92dce1d2695db09e61d72f4ed14d5a21",
@@ -2415,8 +2170,7 @@
          },
          {
             "constraint" : [
-               "grade_random",
-               "gauge_lr2"
+               "grade_random"
             ],
             "md5" : [
                "1bfb70ffa6fdd7640e17da077e6bf427",
@@ -2446,8 +2200,7 @@
          },
          {
             "constraint" : [
-               "grade_random",
-               "gauge_lr2"
+               "grade_random"
             ],
             "md5" : [
                "573a647fd0ebdfe379d62a505facdb4c",
@@ -2477,8 +2230,7 @@
          },
          {
             "constraint" : [
-               "grade_random",
-               "gauge_lr2"
+               "grade_random"
             ],
             "md5" : [
                "33c6dd9cfe024f2600c2cfe6ae42df43",
@@ -2508,8 +2260,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "4d87528933213d3427ee870c71791538",
@@ -2539,8 +2290,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "07193291a7222c7a1d1f542b6c081953",
@@ -2570,8 +2320,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "18aa482e76edfda904b3cf3d646c59bf",
@@ -2601,8 +2350,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "f14357d72c2c11081fd45dc00aa4cffa",
@@ -2754,9 +2502,8 @@
       "！",
       "？"
    ],
-   "mode" : "beat-7k",
    "name" : "第2通常難易度",
-   "original_url" : "http://bmsnormal2.syuriken.jp/table.html",
+   "original_url" : "http://rattoto10.jounin.jp/table.html",
    "symbol" : "▽",
    "tag" : "▽"
 }

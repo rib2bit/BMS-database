@@ -3,8 +3,7 @@
       [
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "c07125de4ed7fbe7cb066cc41e50e51e",
@@ -29,8 +28,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "032b0582871a07c604d8cba171f95797",
@@ -55,8 +53,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "1a1ca14aededce99bd136da649fbec7a",
@@ -81,8 +78,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "cd78da88201c01afb934bcba55f955cb",
@@ -107,8 +103,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "683340fac1d376bea11c0848531ed6dd",
@@ -133,8 +128,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "bcf7607db2955c8979b54a0981b5eeb6",
@@ -159,8 +153,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "6de6909c19156221d729b5e965c5cc2a",
@@ -190,8 +183,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "556ed0c159434dd1e7a252086482cfd2",
@@ -221,8 +213,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "96641e3e89ca6c61b1882ebf04ab4ad1",
@@ -252,8 +243,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "323e391cb09c023da7fe439d12bc6def",
@@ -283,8 +273,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "e6af04686aeaf0a0fa2698cb0b0111ad",
@@ -314,8 +303,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "96a1536917e1f7f12a85d3dd7eb64932",
@@ -347,16 +335,15 @@
       [
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
-               "f872dd65dd08638b06d80470a3233fb9",
+               "d93d26ea51b78bc9b000b24aae30eabd",
                "1b72e8f6439a698e78f94be16470b789",
                "2371263af3b0d644fba62526c9f49481",
                "8a8a6c2f3511eb0876a6c9a2027d7bbe"
             ],
-            "name" : "GENOCIDE 2018発狂初段",
+            "name" : "GENOCIDE 次期発狂初段案",
             "style" : "lightgreen",
             "trophy" : [
                {
@@ -373,8 +360,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "1d82eca9a7f34560149864ca2094ab64",
@@ -399,8 +385,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "803c62f33ba287df9364d94e0b0f3a2f",
@@ -425,8 +410,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "47de06762f16d164426e3197c5de967c",
@@ -451,8 +435,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "e9fc0fbbde68bfd10f2d289751a1fc6a",
@@ -477,8 +460,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "f96cf3af3d9356407bff483d27f4aecc",
@@ -503,8 +485,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "f1f3a63e62cb5449bcc88578641d0f8a",
@@ -529,8 +510,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "f0feb9654ae044c0e95ebf68e2497c2e",
@@ -555,8 +535,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "603aae2c3681cc2562b9b53b50408c69",
@@ -581,8 +560,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "d6fea1389a86fc14eb354fcc5e60e03e",
@@ -607,8 +585,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "10420967a85371e65db57967e6c696cd",
@@ -633,8 +610,7 @@
          },
          {
             "constraint" : [
-               "grade_mirror",
-               "gauge_lr2"
+               "grade_mirror"
             ],
             "md5" : [
                "cfad3baadce9e02c45021963453d7c94",
@@ -761,9 +737,8 @@
       "24",
       "?"
    ],
-   "mode" : "beat-7k",
    "name" : "第2発狂難易度",
-   "original_url" : "http://bmsnormal2.syuriken.jp/table_insane.html",
+   "original_url" : "http://rattoto10.jounin.jp/table_insane.html",
    "symbol" : "▼",
    "tag" : "▼"
 }
