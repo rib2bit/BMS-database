@@ -178,8 +178,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=91",
       "url_diff" : "http://akred.web.fc2.com/baecon/7_LB.bms",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "Mystinia /差分　obj. Tristan97",
@@ -206,8 +206,8 @@
       "url" : "http://qstol.info/events/venue/detail?event=3&id=64",
       "url_diff" : "http://lapisbms.web.fc2.com/",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "Rocky / obj:Monsta",
@@ -403,7 +403,7 @@
       "url_diff" : "https://drive.google.com/open?id=1dq-AUblHKrf1yAYiFvsLTQClELxW3d6p",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "Negentropy Movie:Vogeln obj:sak",
@@ -459,7 +459,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00647",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "痛男次郎 obj:ELIGOS",
@@ -486,8 +486,8 @@
       "url" : "http://www5f.biglobe.ne.jp/~careless/",
       "url_diff" : "http://chack3sabun.web.fc2.com/",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "polysha remixed by tcheb / mov : murotani obj:Criyajuh",
@@ -527,9 +527,9 @@
       "title" : "ドキッ！けふぃーとひ・み・つｖのサッカータイム☆☆ニャホニャホしても、いいんですよ･･･？　 ～KEFIFAワールドカップ編 We love 汚滝健太郎～",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=600&event=110",
       "url_diff" : "",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteNo" : 1,
+      "votePercent" : "66.67",
+      "voteYes" : 2
    },
    {
       "artist" : "Power Of Nature arranged by Yosk! object Rustin & Noooooong Arrange:Yosk!",
@@ -570,8 +570,8 @@
       "url" : "http://web.archive.org/web/20060215101559/http://bof.nothing.sh/bof2005/LaValse_marinesnow.rar",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00564",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "櫟井唯 / 岡野佳 obj:BAECON vs sak",
@@ -627,7 +627,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01607",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "ROKINA",
@@ -697,6 +697,6 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    }
 ]
