@@ -94,8 +94,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=430&event=116",
       "url_diff" : "https://www.dropbox.com/s/hehq2jqj98w2asl/_44_magicalgirl_KILL.zip?dl=0",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "Yosk! / mikasa",
@@ -107,8 +107,8 @@
       "title" : "パーティーのはじまりだ！",
       "url" : "https://drive.google.com/open?id=0B7qCw4hNijr4MnZxR0JYNHFHV3M",
       "url_diff" : "http://endymionsan.web.fc2.com/mikasabun.html",
-      "voteNo" : 0,
-      "votePercent" : 0,
+      "voteNo" : 1,
+      "votePercent" : "0.00",
       "voteYes" : 0
    },
    {
@@ -123,7 +123,7 @@
       "url_diff" : "http://onmacodayo.web.fc2.com/ondajoy.html",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "ねこみりん / obj:Pearl-C.",
@@ -193,7 +193,7 @@
       "url_diff" : "https://drive.google.com/open?id=1oo0wa4eMHBsQBv5cF2BEmiQ5e8vALxth",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "翡乃イスカ obj.Lapis",
@@ -375,7 +375,7 @@
       "url_diff" : "",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "parakeet 41 obj:goe BGA:G",
@@ -459,7 +459,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00647",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "痛男次郎 obj:ELIGOS",
@@ -527,8 +527,8 @@
       "title" : "ドキッ！けふぃーとひ・み・つｖのサッカータイム☆☆ニャホニャホしても、いいんですよ･･･？　 ～KEFIFAワールドカップ編 We love 汚滝健太郎～",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=600&event=110",
       "url_diff" : "",
-      "voteNo" : 3,
-      "votePercent" : "57.14",
+      "voteNo" : 4,
+      "votePercent" : "50.00",
       "voteYes" : 4
    },
    {
@@ -697,6 +697,6 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    }
 ]
