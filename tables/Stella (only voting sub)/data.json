@@ -24,8 +24,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=56&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01617",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "silcostones",
@@ -80,8 +80,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=96",
       "url_diff" : "https://ux.getuploader.com/sinmoriosabun/download/86/%E3%83%92%E3%83%A1%E3%82%BF%E3%82%A4%E3%83%97.zip",
       "voteNo" : 2,
-      "votePercent" : "33.33",
-      "voteYes" : 1
+      "votePercent" : "50.00",
+      "voteYes" : 2
    },
    {
       "artist" : "ねこみりん feat.小宮真央 / AAAA Movie:むらしん",
@@ -263,7 +263,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "sasakure.UK / KOOKY",
@@ -291,7 +291,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01612",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "bbangsami feat.Sugar Reactor / Haping,SMIN/ 差分　赤い人",
@@ -361,7 +361,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "ETIA. feat. Jenga Movie: HDLV / obj : BAECON vs Lapis",
@@ -387,8 +387,8 @@
       "title" : "SEPIA - (*>ω<*)-",
       "url" : "http://shiki2.sakura.ne.jp/",
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNo" : 1,
+      "votePercent" : "50.00",
       "voteYes" : 1
    },
    {
@@ -514,8 +514,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=600&event=110",
       "url_diff" : "",
       "voteNo" : 4,
-      "votePercent" : "50.00",
-      "voteYes" : 4
+      "votePercent" : "55.56",
+      "voteYes" : 5
    },
    {
       "artist" : "LS (feat. eFeL / mov. masqerade) / obj:半熟",
@@ -543,7 +543,7 @@
       "url_diff" : "http://www.hyper-laner.com/sabun.html",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 5
    },
    {
       "artist" : "SP-# / 風見 幽香",
@@ -613,7 +613,7 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/_nnms_99_INFERNO.bme",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "ZUN remixed by翡乃イスカ / obj : LindBlum",
