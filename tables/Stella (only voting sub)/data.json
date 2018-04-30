@@ -52,8 +52,8 @@
       "url" : "http://yuinore.net/2017/02/smc-package/",
       "url_diff" : "",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "ねこみりん / obj:Pearl-C.",
@@ -80,8 +80,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=85&event=115",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00918",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "sa10 / 少名 針妙丸",
@@ -94,8 +94,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=47&event=92",
       "url_diff" : "",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "sa10 obj : LindBlum",
@@ -137,7 +137,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01602",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "Getty vs. DJ DiA BGA:わっふゑ vs. でこちんハンマー",
@@ -164,8 +164,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=100&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00406",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "sweet smeller",
@@ -192,8 +192,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=346&event=74",
       "url_diff" : "http://absolute.pv.land.to/bof/upload.html?1326780348",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "sasakure.UK / KOOKY",
@@ -248,8 +248,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=349&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01312",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "ROKINA OBJ:ランダマイザ",
@@ -294,6 +294,20 @@
       "voteYes" : 1
    },
    {
+      "artist" : "LunaticSounds / ShiginoEicar OBJ : ランダマイザ",
+      "comment" : "乱打",
+      "level" : "3",
+      "md5" : "72eb962296d74fa32fa0dd32a17369e8",
+      "proposer" : "五月雨",
+      "submission" : 292,
+      "title" : "Drop Down [stand alone]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=189&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01318",
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
       "artist" : "ああああ obj.#",
       "comment" : "",
       "level" : "9",
@@ -332,8 +346,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=29&event=110",
       "url_diff" : "http://bmsselene.web.fc2.com/index.html",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "wa. /差分　赤い人",
@@ -346,8 +360,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=60",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/_morion_INFERNOf.bme",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "Sound piercer & Sobrem / selene.",
@@ -388,8 +402,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=116",
       "url_diff" : "http://akred.web.fc2.com/baecon/sense2017.bms",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "NIKITA / Optie / O",
@@ -444,8 +458,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=73&event=102",
       "url_diff" : "",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "h0pe obj:ブレイブマン",
@@ -472,8 +486,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=440&event=116",
       "url_diff" : "",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "ねこみりん feat.小宮真央×みゆ×えみゅう。 Movie:kkkfff2 / Illust:永山ゆうのん obj.綾地寧々",
@@ -529,7 +543,7 @@
       "url_diff" : "http://absolute.pv.land.to/Anotherbms.html",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "Laur",
@@ -543,7 +557,21 @@
       "url_diff" : "",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
+   },
+   {
+      "artist" : "オカ研",
+      "comment" : "",
+      "level" : "1",
+      "md5" : "d63a80c94958ffa9df871c3fdf2b2e7d",
+      "proposer" : "Q",
+      "submission" : 291,
+      "title" : "オカ研 [Four-Dimensional Space]",
+      "url" : "https://drive.google.com/open?id=0B7qCw4hNijr4QkotSGRvMW5HeFU",
+      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up5461.zip",
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "ねこみりん + nora2r feat. 小宮真央 出前 + くるみあべし / obj:BAECON",
@@ -570,8 +598,8 @@
       "url" : "http://web.archive.org/web/20050218225015/http://pureweb.jp/~nav/music/islands.html",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01494",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "ZUN remixed by翡乃イスカ / obj : LindBlum",
