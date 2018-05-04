@@ -139,18 +139,6 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/green big apple.zip"
    },
    {
-      "artist" : "小宮真央 with Na+",
-      "comment" : "重乱打",
-      "level" : "10",
-      "lr2_bmsid" : "0",
-      "md5" : "54625cabb2870bddea4df431c94b0a21",
-      "name_diff" : "DL",
-      "reg_date" : "2016-04-24",
-      "title" : "Love's Rebirth '06 LEGEND MIX -insane-",
-      "url" : "https://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21208",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/Loves Rebirth 06.zip"
-   },
-   {
       "artist" : "Xerenet",
       "comment" : "微縦連",
       "level" : "1",
@@ -213,6 +201,18 @@
       "title" : "kyrie (7keys/Insane)",
       "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/kyrie.zip"
+   },
+   {
+      "artist" : "小宮真央 with Na+",
+      "comment" : "乱打",
+      "level" : "2",
+      "lr2_bmsid" : "0",
+      "md5" : "5e57cbf2533165d80194449a301f2e0c",
+      "name_diff" : "DL",
+      "reg_date" : "2018-05-04",
+      "title" : "Love's Rebirth '06 LEGEND MIX -maniac-",
+      "url" : "https://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21208",
+      "url_diff" : "http://onzonium.at-ninja.jp/sabun/Love's Rebirth '06.zip"
    },
    {
       "artist" : "Pipz_key*tone",
@@ -404,18 +404,6 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/HIGH-ENERGY.zip"
    },
    {
-      "artist" : "小宮真央 with Na+",
-      "comment" : "乱打",
-      "level" : "5",
-      "lr2_bmsid" : "0",
-      "md5" : "8dd8dd4307d01a213f236f5fd61382e6",
-      "name_diff" : "DL",
-      "reg_date" : "2016-04-17",
-      "title" : "Love's Rebirth '06 LEGEND MIX -maniac-",
-      "url" : "https://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21208",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/Loves Rebirth 06.zip"
-   },
-   {
       "artist" : "Pipz_key*tone",
       "comment" : "皿複合",
       "level" : "0",
@@ -465,6 +453,18 @@
       "title" : "kyrie (7keys/Another)",
       "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/kyrie.zip"
+   },
+   {
+      "artist" : "小宮真央 with Na+",
+      "comment" : "乱打・皿複合",
+      "level" : "6",
+      "lr2_bmsid" : "0",
+      "md5" : "a45a7bf2941f5695a42dcae85826149e",
+      "name_diff" : "DL",
+      "reg_date" : "2018-05-04",
+      "title" : "Love's Rebirth '06 LEGEND MIX -insane-",
+      "url" : "https://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21208",
+      "url_diff" : "http://onzonium.at-ninja.jp/sabun/Love's Rebirth '06.zip"
    },
    {
       "artist" : "犬型ロボ（a.k.a. 48)",
@@ -684,19 +684,6 @@
       "title" : "Dawn of ancient bay [Gale a Moment]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=88",
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/Dawn of ancient bay.zip"
-   },
-   {
-      "artist" : "RED EYE BGA:tes",
-      "comment" : "乱打",
-      "level" : "0",
-      "lr2_bmsid" : "0",
-      "md5" : "f781b71ff28f3c1b93f45dbccc36e3fd",
-      "name_diff" : "DL",
-      "name_pack" : "BOF2004",
-      "reg_date" : "2016-03-19",
-      "title" : "ozon [ANOTHER]",
-      "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/ozon.zip"
    },
    {
       "artist" : "野球君",
