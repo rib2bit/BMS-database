@@ -1,5 +1,7 @@
 # BMS-database
+
 metadata from LR2IR, public events and difficulty tables
+
 ## 参照元
 
 *   BMSイベント (refs: [BMS EVENT LITE](https://hitkey.nekokan.dyndns.info/bmsevt.htm#ALL))
@@ -20,12 +22,14 @@ metadata from LR2IR, public events and difficulty tables
 ## 収集中
 
 ### <a name="NOIZE SPHERE REDESTRUCTION">[NOIZE SPHERE REDESTRUCTION](https://noizesphere.nekokan.dyndns.info/)</a>
+
 |曲名|コメント|
 |-|-|
 |[逆さ数ｴｳﾀ](http://noizesphere.nekokan.dyndns.info/impression/page.php?no=5)|md5不明|
 |[それから。](http://noizesphere.nekokan.dyndns.info/impression/page.php?no=3)|[49336f4e7023bc92da7ef26cfba79b70](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=49336f4e7023bc92da7ef26cfba79b70)|
 
 ### <a name="戦[sen-goku]國 ～甲午の乱～">[戦[sen-goku]國 ～甲午の乱～](http://scytheleg.sakura.ne.jp/tempyou/event/sen-goku3/)</a>
+
 |曲名|コメント|
 |-|-|
 |[神south](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=93)|[追加差分 下痢south](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=e0d5109583f02998c12fc850f519ac8e)|
@@ -218,6 +222,9 @@ metadata from LR2IR, public events and difficulty tables
 |[PMSデータベース(Lv1~45)](http://pmsdifficulty.xxxxxxxx.jp/PMSdifficulty.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/PMSデータベース(Lv1~45)/table.html)|
 |[PMSデータベース隔離枠](http://pmsdifficulty.xxxxxxxx.jp/excluded_PMSdifficulty.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/PMSデータベース隔離枠/table.html)|
 |[PMS通常難易度表](http://hiiiii.web.fc2.com/pms/Table.htm)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/PMS通常難易度表/table.html)|
+|[Stella](https://stellabms.xyz/table.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/Stella/table.html)|
+|[Stella (only voting sub)](https://stellabms.xyz/table_vote.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/Stella%20(only%20voting%20sub)/table.html)|
+|[Stella Sub](https://stellabms.xyz/table_sub.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/Stella%20Sub/table.html)|
 |[差分アップローダー難易度表](http://upl.konjiki.jp)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/差分アップローダー難易度表/table.html)|
 |[皿難易度表(1st)](http://minddnim.web.fc2.com/sara/1st/bms_sara_1st.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/皿難易度表(1st)/table.html)|
 |[皿難易度表(2nd)](http://minddnim.web.fc2.com/sara/2nd/bms_sara_2nd.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/皿難易度表(2nd)/table.html)|
@@ -227,9 +234,11 @@ metadata from LR2IR, public events and difficulty tables
 |[第2発狂難易度](http://bmsnormal2.syuriken.jp/table_insane.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/第2発狂難易度/table.html)|
 |[通常皿難易度表](http://minddnim.web.fc2.com/bms_sara.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/通常皿難易度表/table.html)|
 |[通常難易度表](http://nekokan.dyndns.info/~lobsak/genocide/normal.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/通常難易度表/table.html)|
+|[発狂BMS Overjoy難易度表](http://cgi.geocities.jp/asahi3jpn/overjoy.php)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/発狂BMS%20Overjoy難易度表/table.html)|
 |[発狂BMS第2難易度表 (旧)](http://bmsinsane2.web.fc2.com/record.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/発狂BMS第2難易度表%20(旧)/table.html)|
 |[発狂BMS第2難易度表+ (旧)](http://bmsinsane2.web.fc2.com/record_p.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/発狂BMS第2難易度表+%20(旧)/table.html)|
 |[発狂BMS難易度表](http://nekokan.dyndns.info/~lobsak/genocide/insane.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/発狂BMS難易度表/table.html)|
+|[発狂DPBMSごった煮難易度表](http://yuyuyu.soudesune.net/DPgottani/insane2.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/発狂DPBMSごった煮難易度表/table.html)|
 |[発狂DP難易度表](http://dpbmsdelta.web.fc2.com/table/insane.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/発狂DP難易度表/table.html)|
 |[発狂PMSデータベース(lv46～)](http://pmsdifficulty.xxxxxxxx.jp/insane_PMSdifficulty.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/発狂PMSデータベース(lv46～)/table.html)|
 |[連打難易度表](http://infinity.s60.xrea.com/bms/renda.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/連打難易度表/table.html)|
@@ -293,6 +302,9 @@ metadata from LR2IR, public events and difficulty tables
 |[resjoy](http://www.geocities.jp/vinyl8310/resjoy/difficulty.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/resjoy/table.html)|
 |[schlucht2難易度](http://www.geocities.jp/ttttkkkk1234/schlist/schlist.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/schlucht2難易度/table.html)|
 |[SUZUKAZEΛ難易度](http://suzukazekuhare.web.fc2.com/)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/SUZUKAZEΛ難易度/table.html)|
+|[Tristan97 Insane Sabun Table](https://tristan97.000webhostapp.com/Tristan97_Insane_Sabun.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/Tristan97%20Insane%20Sabun%20Table/table.html)|
+|[Tristan97 Normal Table](https://tristan97.000webhostapp.com/Tristan97_Normal_Sabun_Table.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/Tristan97%20Normal%20Table/table.html)|
+|[SUZUKAZEΛ難易度](http://suzukazekuhare.web.fc2.com/)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/SUZUKAZEΛ難易度/table.html)|
 |[zindy難易度表](http://cerqant.web.fc2.com/zindy/table.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/zindy難易度表/table.html)|
 |[あぼ。関連BMSリスト](http://abo.nobody.jp/bms_abo_list.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/あぼ。関連BMSリスト/table.html)|
 |[アルファベット難易度表SP](http://iidxtool.kasacontent.com/alphabetlistsp/alphabetlistsp.php)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/アルファベット難易度表SP/table.html)|
@@ -307,9 +319,11 @@ metadata from LR2IR, public events and difficulty tables
 |[きのこの難易度](http://kinokonohakkyounanido.web.fc2.com/index.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/きのこの難易度/table.html)|
 |[ぐや式BMS難易度表](http://kaguyasystem.web.fc2.com/may_fav_nanidohyou/list_guya_fav.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/ぐや式BMS難易度表/table.html)|
 |[ちるのDP難易度表](http://tiruichiyo.web.fc2.com/tiru_noraDP.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/ちるのDP難易度表/table.html)|
+|[ディレイ難易度表](http://rattoto10.web.fc2.com/delay/list_sample.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/ディレイ難易度表/table.html)|
 |[ネタBMS難易度表](http://sky.geocities.jp/syogi2223/neta.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/ネタBMS難易度表/table.html)|
 |[めと難易度](http://metometo.web.fc2.com/index.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/めと難易度/table.html)|
 |[ロマ難易度](http://roma11.site44.com/romananido.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/ロマ難易度/table.html)|
+|[ぜくれ難易度表](https://zkle.web.fc2.com/nannido1/aaa.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/ぜくれ難易度表/table.html)|
 |[音頭難易度表](http://lunatic8192alice.web.fc2.com/ondo.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/音頭難易度表/table.html)|
 |[加古川DP難易度表](http://www.bb.banban.jp/oglover/BMS/kakogawa_dpbms.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/加古川DP難易度表/table.html)|
 |[穴抜き色々](http://cerqant.web.fc2.com/ananuki/table.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/穴抜き色々/table.html)|
@@ -360,27 +374,27 @@ metadata from LR2IR, public events and difficulty tables
 
 #### カラム一覧
 
-| カラム名                    | 説明             |
-|-------------------------|----------------|
-| md5                     | MD5            |
-| level                   | レベル            |
-| lr2_bmsid               | BMS ID(LR2)    |
-| title                   | タイトル           |
-| artist                  | アーティスト         |
-| genre                   | ジャンル           |
-| bpm                     | BPM            |
-| keys                    | 鍵盤数            |
+| カラム名                   | 説明             |
+| ----------------------- | ---------------- |
+| md5                     | MD5              |
+| level                   | レベル              |
+| lr2_bmsid               | BMS ID(LR2)      |
+| title                   | タイトル             |
+| artist                  | アーティスト           |
+| genre                   | ジャンル             |
+| bpm                     | BPM              |
+| keys                    | 鍵盤数           |
 | rank                    | 判定ランク          |
-| tag1                    | タグ1            |
-| tag2                    | タグ2            |
-| tag3                    | タグ3            |
-| tag4                    | タグ4            |
-| tag5                    | タグ5            |
-| tag6                    | タグ6            |
-| tag7                    | タグ7            |
-| tag8                    | タグ8            |
-| tag9                    | タグ9            |
-| tag10                   | タグ10           |
+| tag1                    | タグ1              |
+| tag2                    | タグ2              |
+| tag3                    | タグ3              |
+| tag4                    | タグ4              |
+| tag5                    | タグ5              |
+| tag6                    | タグ6              |
+| tag7                    | タグ7              |
+| tag8                    | タグ8              |
+| tag9                    | タグ9              |
+| tag10                   | タグ10             |
 | url                     | 本体URL          |
 | url_diff                | 差分URL          |
 | comment                 | 備考             |
@@ -397,11 +411,8 @@ metadata from LR2IR, public events and difficulty tables
 | players_normal_count    | NORMAL人数       |
 | players_easy_count      | EASY人数         |
 | players_failed_count    | FAILED人数       |
-| players_fullcombo_rate  | FULLCOMBOレート   |
-| players_hard_rate       | HARDレート        |
-| players_normal_rate     | NORMALレート      |
-| players_easy_rate       | EASYレート        |
-| players_failed_rate     | FAILEDレート      |
-
-
-
+| players_fullcombo_rate  | FULLCOMBOレート     |
+| players_hard_rate       | HARDレート          |
+| players_normal_rate     | NORMALレート        |
+| players_easy_rate       | EASYレート          |
+| players_failed_rate     | FAILEDレート        |
