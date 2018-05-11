@@ -1,0 +1,38 @@
+{
+   "compat_prefix" : "仝",
+   "data_url" : "data.json",
+   "editor_name" : "BeMusicSeeker",
+   "editor_version" : "0.3.3.18",
+   "entry_type" : "",
+   "folder_order" : [
+      "仝0",
+      "仝1",
+      "仝2",
+      "仝3",
+      "仝4",
+      "仝5",
+      "仝6",
+      "仝7",
+      "仝99",
+      "仝999"
+   ],
+   "folder_sort_ascending" : true,
+   "folder_sort_key" : "",
+   "last_update" : "2018/03/30",
+   "level_order" : [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "99",
+      "999"
+   ],
+   "name" : "joverjoy",
+   "original_url" : "http://firiexp.s1003.xrea.com/joverjoy.html",
+   "output_date" : "2018/03/30",
+   "symbol" : "仝"
+}
