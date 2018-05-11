@@ -293,6 +293,7 @@ metadata from LR2IR, public events and difficulty tables
 |[G e n g a o j o y](http://be5moti.web.fc2.com/gengaojoy/)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/G%20e%20n%20g%20a%20o%20j%20o%20y/table.html)|
 |[G2R PMS](http://stellawingroad.web.fc2.com/g2r/pms.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/G2R%20PMS/table.html)|
 |[GENOCIDE Survival](http://hard.okitsune.com/table.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/GENOCIDE%20Survival/table.html)|
+|[joverjoy](http://firiexp.s1003.xrea.com/joverjoy.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/joverjoy/table.html)|
 |[LindBlum難易度表](http://lllindblum.web.fc2.com/lindblum.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/LindBlum難易度表/table.html)|
 |[LNを片っ端からプレイする](http://kickbass.web.fc2.com/LNkatappasi/table.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/LNを片っ端からプレイする/table.html)|
 |[LN表外難易度](http://hogeeeeeee.ma-jide.com/outsideln.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/LN表外難易度/table.html)|
@@ -374,43 +375,43 @@ metadata from LR2IR, public events and difficulty tables
 
 #### カラム一覧
 
-| カラム名                   | 説明             |
-| ----------------------- | ---------------- |
-| md5                     | MD5              |
+| カラム名                | 説明                |
+| ----------------------- | ------------------- |
+| md5                     | MD5                 |
 | level                   | レベル              |
-| lr2_bmsid               | BMS ID(LR2)      |
-| title                   | タイトル             |
-| artist                  | アーティスト           |
-| genre                   | ジャンル             |
-| bpm                     | BPM              |
-| keys                    | 鍵盤数           |
+| lr2_bmsid               | BMS ID(LR2)         |
+| title                   | タイトル            |
+| artist                  | アーティスト        |
+| genre                   | ジャンル            |
+| bpm                     | BPM                 |
+| keys                    | 鍵盤数              |
 | rank                    | 判定ランク          |
-| tag1                    | タグ1              |
-| tag2                    | タグ2              |
-| tag3                    | タグ3              |
-| tag4                    | タグ4              |
-| tag5                    | タグ5              |
-| tag6                    | タグ6              |
-| tag7                    | タグ7              |
-| tag8                    | タグ8              |
-| tag9                    | タグ9              |
-| tag10                   | タグ10             |
-| url                     | 本体URL          |
-| url_diff                | 差分URL          |
-| comment                 | 備考             |
-| youtube_url             | 動画URL YouTube  |
-| niconico_url            | 動画URL niconico |
+| tag1                    | タグ1               |
+| tag2                    | タグ2               |
+| tag3                    | タグ3               |
+| tag4                    | タグ4               |
+| tag5                    | タグ5               |
+| tag6                    | タグ6               |
+| tag7                    | タグ7               |
+| tag8                    | タグ8               |
+| tag9                    | タグ9               |
+| tag10                   | タグ10              |
+| url                     | 本体URL             |
+| url_diff                | 差分URL             |
+| comment                 | 備考                |
+| youtube_url             | 動画URL YouTube     |
+| niconico_url            | 動画URL niconico    |
 | play_count              | プレイ回数          |
 | clear_count             | クリア回数          |
-| clear_rate              | クリアレート (回数)    |
+| clear_rate              | クリアレート (回数) |
 | players_count           | プレイ人数          |
 | players_clear_count     | クリア人数          |
-| players_clear_rate      | クリアレート (人数)    |
-| players_fullcombo_count | FULLCOMBO人数    |
-| players_hard_count      | HARD人数         |
-| players_normal_count    | NORMAL人数       |
-| players_easy_count      | EASY人数         |
-| players_failed_count    | FAILED人数       |
+| players_clear_rate      | クリアレート (人数) |
+| players_fullcombo_count | FULLCOMBO人数       |
+| players_hard_count      | HARD人数            |
+| players_normal_count    | NORMAL人数          |
+| players_easy_count      | EASY人数            |
+| players_failed_count    | FAILED人数          |
 | players_fullcombo_rate  | FULLCOMBOレート     |
 | players_hard_rate       | HARDレート          |
 | players_normal_rate     | NORMALレート        |
