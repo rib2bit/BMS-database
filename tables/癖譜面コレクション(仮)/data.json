@@ -1,5 +1,16 @@
 [
    {
+      "artist" : "eicateve",
+      "comment" : "ガチ押しとお皿",
+      "level" : "29",
+      "lr2_bmsid" : "252337",
+      "md5" : "004d77b8cbda2806d888f6c75a063d0e",
+      "name_diff" : "同梱",
+      "title" : "Vorota Collapse [INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=436&event=116",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Ninja Action Team",
       "comment" : "トリルっぽい連打複合",
       "level" : "21",
@@ -247,10 +258,21 @@
       "level" : "6",
       "lr2_bmsid" : "248561",
       "md5" : "09d4bc43b8335aa52d9a3efd465bef1d",
-      "name_diff" : "8-Jan",
+      "name_diff" : "1/8",
       "title" : "YATA (摩訶不思議)",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=88",
       "url_diff" : "http://oneeighth.web.fc2.com/"
+   },
+   {
+      "artist" : "haleit",
+      "comment" : "連打",
+      "level" : "2",
+      "lr2_bmsid" : "162871",
+      "md5" : "0a3fb84f4b4a669e1768d6ba26f30758",
+      "name_diff" : "同梱",
+      "title" : "Money Song",
+      "url" : "http://cineraria-studio.com/minimani/event.php?eve_id=1#ebms39",
+      "url_diff" : ""
    },
    {
       "artist" : "keyc",
@@ -264,6 +286,17 @@
       "url_diff" : ""
    },
    {
+      "artist" : "HARI KARI",
+      "comment" : "ワープ",
+      "level" : "22",
+      "lr2_bmsid" : "251952",
+      "md5" : "0ac15a988be1cf62f1fb5dd211c70a16",
+      "name_diff" : "同梱",
+      "title" : "METRO3087",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=201&event=116",
+      "url_diff" : ""
+   },
+   {
       "artist" : "LeaF",
       "comment" : "ソフランとLN up691",
       "level" : "19",
@@ -273,6 +306,17 @@
       "title" : "Poison AND÷OR Affection (SHD)",
       "url" : "http://leafbms.web.fc2.com/bms.html",
       "url_diff" : "http://absolute.pv.land.to/longnote/all.html?1430902646"
+   },
+   {
+      "artist" : "edit",
+      "comment" : "皿複合",
+      "level" : "23",
+      "lr2_bmsid" : "133791",
+      "md5" : "0c2f12c52d53a1703fe2d5934aec07e0",
+      "name_diff" : "同梱",
+      "title" : "dust",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=51&event=79",
+      "url_diff" : ""
    },
    {
       "artist" : "DJ TAKUAN",
@@ -316,6 +360,17 @@
       "name_diff" : "同梱",
       "title" : "Into the sunset [HYPER]",
       "url" : "http://www.geocities.jp/bmsetc/",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "------",
+      "comment" : "幸色",
+      "level" : "5",
+      "lr2_bmsid" : "259276",
+      "md5" : "108061878918ecc5a325dc6ae05182b3",
+      "name_diff" : "同梱",
+      "title" : "Just look at my eyes HYPER",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=18&event=119",
       "url_diff" : ""
    },
    {
@@ -584,7 +639,7 @@
    },
    {
       "artist" : "ほうきぼし",
-      "comment" : "Titanomaquia（ムズい）/備考：一部解凍プログラムでは差分ファイルが解凍できないのでAlzipかWinRAR推奨",
+      "comment" : "Titanomaquia（ムズい）</br>備考：一部解凍プログラムでは差分ファイルが解凍できないのでAlzipかWinRAR推奨",
       "level" : "30",
       "lr2_bmsid" : "159440",
       "md5" : "1aa208cf20080b3c29fde2b9b99eb8b8",
@@ -640,7 +695,7 @@
    {
       "artist" : "藤沢 一輝",
       "comment" : "白と皿",
-      "level" : "26",
+      "level" : "24",
       "lr2_bmsid" : "170796",
       "md5" : "1b33c5fad881c9ce95c2457a936e3215",
       "name_diff" : "同梱",
@@ -651,7 +706,7 @@
    {
       "artist" : "ねこみみ魔法使い",
       "comment" : "ビーム",
-      "level" : "25",
+      "level" : "26",
       "lr2_bmsid" : "100890",
       "md5" : "1c3b967a7139d7a0c3f83230d01459e6",
       "name_diff" : "同梱",
@@ -680,6 +735,17 @@
       "title" : "Tuk Tuk Boshi [7keys Another]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=189&event=65",
       "url_diff" : ""
+   },
+   {
+      "artist" : "naotyu- X 140lia",
+      "comment" : "太い連打",
+      "level" : "21",
+      "lr2_bmsid" : "260151",
+      "md5" : "1cc880857701f37a414589747b2b6adc",
+      "name_diff" : "翠廻",
+      "title" : "MAGNETI MARELLI [renovate]",
+      "url" : "https://web.archive.org/web/20071108225454/http://www.naotyu-studio7.com:80/music/bms/",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01632"
    },
    {
       "artist" : "KRUX vs SharPlaw",
@@ -1243,6 +1309,28 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Vector27 ",
+      "comment" : "連打",
+      "level" : "9",
+      "lr2_bmsid" : "93981",
+      "md5" : "3272ae19f7faf040b91a048b46cb7278",
+      "name_diff" : "同梱",
+      "title" : "B22P [Pattern Q]",
+      "url" : "https://sites.google.com/site/bluejbmscollection/",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "FALL",
+      "comment" : "LNと皿",
+      "level" : "23",
+      "lr2_bmsid" : "59363",
+      "md5" : "32762db3bb189adbb5503c3490222b6c",
+      "name_diff" : "RiS",
+      "title" : "Still Alive In Love -hate-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=20&event=61",
+      "url_diff" : "http://fdscaa.rosx.net/"
+   },
+   {
       "artist" : "LeaF",
       "comment" : "ソフラン",
       "level" : "21",
@@ -1331,6 +1419,17 @@
       "url_diff" : ""
    },
    {
+      "artist" : "------",
+      "comment" : "カオス",
+      "level" : "25",
+      "lr2_bmsid" : "259287",
+      "md5" : "379677f81355bc31ef1b78573e71cbe9",
+      "name_diff" : "同梱",
+      "title" : "LOSHAXI",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=119",
+      "url_diff" : ""
+   },
+   {
       "artist" : "6666",
       "comment" : "ソフラン",
       "level" : "3",
@@ -1388,18 +1487,7 @@
    {
       "artist" : "溥儀ゆら原子の力しきみmashana与作",
       "comment" : "皿と低トータル",
-      "level" : "4",
-      "lr2_bmsid" : "102491",
-      "md5" : "3922961b046de9d5b1b229847b3621b8",
-      "name_diff" : "窓付き-Mad2ki-",
-      "title" : "Caterpillar Song -夢譜-",
-      "url" : "https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
-      "url_diff" : "http://absolute.pv.land.to/turntable/src/up0137.zip"
-   },
-   {
-      "artist" : "溥儀ゆら原子の力しきみmashana与作",
-      "comment" : "低トータル皿",
-      "level" : "9",
+      "level" : "7",
       "lr2_bmsid" : "102491",
       "md5" : "3922961b046de9d5b1b229847b3621b8",
       "name_diff" : "窓付き-Mad2ki-",
@@ -1432,7 +1520,7 @@
    {
       "artist" : "tarolabo",
       "comment" : "ハード判定と物量",
-      "level" : "25",
+      "level" : "24",
       "lr2_bmsid" : "243017",
       "md5" : "3b073741055654a2bcf0fb925489c869",
       "name_diff" : "ctc",
@@ -1705,6 +1793,17 @@
       "url_diff" : "http://onedrive.live.com/?cid=BBF81B83CD26C35B&id=BBF81B83CD26C35B!331"
    },
    {
+      "artist" : "HARI KARI",
+      "comment" : "ワープ",
+      "level" : "28",
+      "lr2_bmsid" : "252015",
+      "md5" : "4648ffa6874c6251791330e034011272",
+      "name_diff" : "同梱",
+      "title" : "METRO3087 [LOOP]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=201&event=116",
+      "url_diff" : ""
+   },
+   {
       "artist" : "gmtn.",
       "comment" : "地雷と皿とソフラン",
       "level" : "4",
@@ -1872,7 +1971,7 @@
    {
       "artist" : "Aoi+Trerey-U",
       "comment" : "ソフランとLN",
-      "level" : "2",
+      "level" : "5",
       "lr2_bmsid" : "253645",
       "md5" : "4f7c6afaa207e58111e35be7511353ec",
       "name_diff" : "rat",
@@ -1960,7 +2059,7 @@
    {
       "artist" : "TAK vs General",
       "comment" : "軸",
-      "level" : "22",
+      "level" : "19",
       "lr2_bmsid" : "66212",
       "md5" : "532cb7e12e5c66e3c84a929666901924",
       "name_diff" : "Frenzy",
@@ -2098,6 +2197,17 @@
       "name_diff" : "同梱",
       "title" : "oppIrish",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=250&event=96",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "------",
+      "comment" : "BlackLotus(Buffed)",
+      "level" : "10",
+      "lr2_bmsid" : "259235",
+      "md5" : "59ac6a97f61fdb5941a35a53e93f5533",
+      "name_diff" : "同梱",
+      "title" : "Celestial Axes [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=119",
       "url_diff" : ""
    },
    {
@@ -2433,7 +2543,7 @@
    {
       "artist" : "Neun_jack",
       "comment" : "加速とラス殺し",
-      "level" : "26",
+      "level" : "25",
       "lr2_bmsid" : "217333",
       "md5" : "69d4d5a53716448e5fd3519461fed994",
       "name_diff" : "同梱",
@@ -2763,7 +2873,7 @@
    {
       "artist" : "orgt",
       "comment" : "隣接とBSSとLN",
-      "level" : "4",
+      "level" : "5",
       "lr2_bmsid" : "112222",
       "md5" : "74e04fb5181d49266cc99021e1d40fd6",
       "name_diff" : "同梱",
@@ -2814,6 +2924,17 @@
       "title" : ")-@1くvz@",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=339&event=110",
       "url_diff" : ""
+   },
+   {
+      "artist" : "GYAON",
+      "comment" : "交互と皿",
+      "level" : "27",
+      "lr2_bmsid" : "1485",
+      "md5" : "76eaab1ef2ad5aa12517c2d6d918ba11",
+      "name_diff" : "yuyuko",
+      "title" : "Last Battle-T260G- [LUNATIC]",
+      "url" : "https://web.archive.org/web/20040620014253fw_/http://gyaon.hp.infoseek.co.jp:80/bmindex.html",
+      "url_diff" : "http://www.geocities.jp/minomusiwokokoronisoete/"
    },
    {
       "artist" : "nmk",
@@ -2959,6 +3080,17 @@
       "url_diff" : ""
    },
    {
+      "artist" : "かたぎり",
+      "comment" : "ソフラン",
+      "level" : "29",
+      "lr2_bmsid" : "259923",
+      "md5" : "7b69201266880d82e654396091101645",
+      "name_diff" : "KANS",
+      "title" : "Reso*nyan*ce Fever [UNKNOWN]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=566&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01617"
+   },
+   {
       "artist" : "はがね",
       "comment" : "軸皿ソフラン",
       "level" : "16",
@@ -3027,7 +3159,7 @@
    {
       "artist" : "kju8 + zen + DOT96",
       "comment" : "皿とトリル",
-      "level" : "13",
+      "level" : "11",
       "lr2_bmsid" : "168159",
       "md5" : "7ed84880e9061718fc5632604ec21f20",
       "name_diff" : "同梱",
@@ -3067,6 +3199,17 @@
       "title" : "Under The Sunshine -LUNATIC-",
       "url" : "http://cid-ce1dd07774d515b4.skydrive.live.com/browse.aspx/.Public?lc=1041",
       "url_diff" : "http://www.geocities.jp/minomusiwokokoronisoete/bmssabun.html"
+   },
+   {
+      "artist" : "????",
+      "comment" : "ハード判定デニム連打",
+      "level" : "14",
+      "lr2_bmsid" : "66545",
+      "md5" : "8109a993bbc2d5159b61bbaf7e0c8913",
+      "name_diff" : "j.pami",
+      "title" : "com-plex",
+      "url" : "http://www.geocities.jp/kat3bucchi/",
+      "url_diff" : ""
    },
    {
       "artist" : "scytheleg",
@@ -3155,6 +3298,17 @@
       "title" : "THIS TIME; LAST TIME [7KEYS ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=108",
       "url_diff" : ""
+   },
+   {
+      "artist" : "LeaF",
+      "comment" : "ソフラン",
+      "level" : "20",
+      "lr2_bmsid" : "210848",
+      "md5" : "83ce5edff7ef096b351c82fc9596ef2a",
+      "name_diff" : "いい靴",
+      "title" : "Doppelganger [Eb.soflan]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=142&event=88",
+      "url_diff" : "http://eboots.ashigaru.jp/"
    },
    {
       "artist" : "LeaF × kana",
@@ -3498,6 +3652,17 @@
       "url_diff" : "http://ctconnected.blog.fc2.com/blog-entry-1.html"
    },
    {
+      "artist" : "utah",
+      "comment" : "全押し",
+      "level" : "1",
+      "lr2_bmsid" : "248139",
+      "md5" : "8fd968683bd78a8916a901dd10222a10",
+      "name_diff" : "同梱",
+      "title" : "Worthless Love (SP NORMAL)",
+      "url" : "https://bmssearch.net/venue/detail?event=3&id=41",
+      "url_diff" : ""
+   },
+   {
       "artist" : "air",
       "comment" : "低トータルと微ソフラン",
       "level" : "19",
@@ -3775,7 +3940,7 @@
    {
       "artist" : "Nomkins Remixed by IDEAL",
       "comment" : "ベリハ判定と皿",
-      "level" : "9",
+      "level" : "12",
       "lr2_bmsid" : "3084",
       "md5" : "9c495964f35ffa983d5cda8552e44e3a",
       "name_diff" : "同梱",
@@ -4004,6 +4169,17 @@
       "url_diff" : ""
    },
    {
+      "artist" : "needle valley",
+      "comment" : "皿",
+      "level" : "0",
+      "lr2_bmsid" : "12494",
+      "md5" : "a776b7feb9d771945e66f20fc6a81eeb",
+      "name_diff" : "同梱",
+      "title" : "U.N.O. (Hip-Hop Mix) [7KEYS NORMAL]",
+      "url" : "https://mega.nz/#F!EpgWgJqa!7OItZfYLQxZ0X8OB19yvNQ!B5JETKwa",
+      "url_diff" : ""
+   },
+   {
       "artist" : "mono feat. Rin / LiTaNia",
       "comment" : "FAXXっぽいソフラン",
       "level" : "4",
@@ -4103,6 +4279,17 @@
       "url_diff" : ""
    },
    {
+      "artist" : "ROKINA",
+      "comment" : "物量よりの総合力",
+      "level" : "23",
+      "lr2_bmsid" : "217434",
+      "md5" : "ad93bbfdf0cbf944da1346971c2756cf",
+      "name_diff" : "同梱",
+      "title" : "キミとボクへの葬送歌 [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=104&num=4",
+      "url_diff" : ""
+   },
+   {
       "artist" : "ねこみみ魔法使い",
       "comment" : "超低トータル",
       "level" : "29",
@@ -4189,6 +4376,17 @@
       "title" : "クロラノ [Another]",
       "url" : "https://onedrive.live.com/?cid=344d670279808113&id=344D670279808113%21107&authkey=!AM4qWW6_OzqxnJY#cid=344D670279808113&id=344D670279808113%21129&authkey=%21AM4qWW6_OzqxnJY",
       "url_diff" : ""
+   },
+   {
+      "artist" : "かたぎり",
+      "comment" : "ソフラン",
+      "level" : "21",
+      "lr2_bmsid" : "259922",
+      "md5" : "b0b62581862e5d1a8559bebefea81181",
+      "name_diff" : "KANS",
+      "title" : "Reso*nyan*ce Fever [CHAOS]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=566&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01616"
    },
    {
       "artist" : "eicateve",
@@ -4664,6 +4862,17 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Nine tales",
+      "comment" : "ベリハLN",
+      "level" : "15",
+      "lr2_bmsid" : "121982",
+      "md5" : "c223467b0f6934541ec9a3780afa3543",
+      "name_diff" : "同梱",
+      "title" : "repeated lie",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=76",
+      "url_diff" : ""
+   },
+   {
       "artist" : "MONOLITH feat.FG75 +kju8",
       "comment" : "加速からの増えたトリル",
       "level" : "26",
@@ -4895,6 +5104,17 @@
       "url_diff" : "http://nekokan.dyndns.info/~otlovers/bin/pforum/sin.php?mode=viewmain&l=0&no=14893&p=&page=0&dispno=14893"
    },
    {
+      "artist" : "oinu(PANDA TRAX)",
+      "comment" : "S乱外れ",
+      "level" : "4",
+      "lr2_bmsid" : "245800",
+      "md5" : "c896763f02ecb4132d8776ed73386c45",
+      "name_diff" : "同梱",
+      "title" : "Tasmanian Devil",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=115",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Silent Spica",
       "comment" : "ヤバイ",
       "level" : "8",
@@ -4959,17 +5179,6 @@
       "title" : "Spiral Staircase 【ロール練習曲超上級】",
       "url" : "https://dropbox.bms.ms/u/77067884/Spiral.zip",
       "url_diff" : ""
-   },
-   {
-      "artist" : "LeaF",
-      "comment" : "ソフラン",
-      "level" : "20",
-      "lr2_bmsid" : "205108",
-      "md5" : "cba6a40e86526ba62db5fba165b8fb36",
-      "name_diff" : "いい靴",
-      "title" : "Doppelganger [Eb.soflan]",
-      "url" : "http://leafbms.web.fc2.com/bms.html",
-      "url_diff" : "http://eboots.ashigaru.jp/"
    },
    {
       "artist" : "LeaF × kana",
@@ -5643,6 +5852,17 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Acid Age",
+      "comment" : "物量よりの総合力",
+      "level" : "19",
+      "lr2_bmsid" : "257993",
+      "md5" : "e5ae33e873f647b5555087226754e7ca",
+      "name_diff" : "翠廻",
+      "title" : "Acid Jet Stream",
+      "url" : "https://onedrive.live.com/?cid=F61C1F8825F0CF46&id=F61C1F8825F0CF46%21159",
+      "url_diff" : "https://box.yahoo.co.jp/guest/viewer?sid=box-l-metf4ado2qn2fr36bmcbtctd34-1001&uniqid=36b9be63-50ec-4b22-97e4-489d5dcaac40&viewtype=detail"
+   },
+   {
       "artist" : "flicknote",
       "comment" : "早い白階段",
       "level" : "3",
@@ -5696,6 +5916,17 @@
       "title" : "Lead Out",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=81&event=116",
       "url_diff" : ""
+   },
+   {
+      "artist" : "naotyu-",
+      "comment" : "中盤皿/up557",
+      "level" : "5",
+      "lr2_bmsid" : "46299",
+      "md5" : "e6760a33ef551731732ebeca5f99eec4",
+      "name_diff" : "霜深",
+      "title" : "Velaciela [PLANET]",
+      "url" : "http://sdrv.ms/RGziYJ",
+      "url_diff" : "http://absolute.pv.land.to/uploader/upload.html"
    },
    {
       "artist" : "実質BACO",
@@ -5857,7 +6088,7 @@
       "level" : "19",
       "lr2_bmsid" : "246865",
       "md5" : "edd5c998201be3aa9199e6b9ddb927d8",
-      "name_diff" : "8-Jan",
+      "name_diff" : "1/8",
       "title" : "Be a Dreamer!! [Pursuit]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=55&event=115",
       "url_diff" : ""
