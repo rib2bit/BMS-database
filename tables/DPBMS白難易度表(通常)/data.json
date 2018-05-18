@@ -396,6 +396,24 @@
       "url_diff" : ""
    },
    {
+      "artist" : "しらいし obj: misty.ls04",
+      "bmsid" : "260944",
+      "comment" : "",
+      "eval" : "0",
+      "judge" : "",
+      "level" : "8",
+      "md5" : "11bec24de08723338e50ff0aff77603a",
+      "name_diff" : "●",
+      "name_pack" : "Battle in the Mist 2ndMIX",
+      "note" : "",
+      "state" : "1",
+      "tag" : "やや変則リズムの混フレ。同色大階段",
+      "title" : "Crystalized [DP HYPER]",
+      "total" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=119",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/369"
+   },
+   {
       "artist" : "raii / obj.Blue-J Movie:Albatrus",
       "bmsid" : "256100",
       "comment" : "",
@@ -2016,6 +2034,24 @@
       "url_diff" : "https://ux.getuploader.com/dpbms/download/162"
    },
    {
+      "artist" : "yukitani / DKN obj : Thulium",
+      "bmsid" : "261187",
+      "comment" : "https://www.dropbox.com/s/z0e4sk1eki2tz08/yukitani_AmusingReflectionRag_dp.zip?dl=1",
+      "eval" : "0",
+      "judge" : "",
+      "level" : "11",
+      "md5" : "5a92655fd0ec55a54d3b511469e03aaf",
+      "name_diff" : "●",
+      "name_pack" : "BOFU2015",
+      "note" : "",
+      "state" : "1",
+      "tag" : "☆10上～☆11下位。早めのBPMでの16分多め",
+      "title" : "Amusing Reflection Rag. (DP Hyper)",
+      "total" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=212&event=104",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/374"
+   },
+   {
       "artist" : "",
       "bmsid" : "252368",
       "comment" : "",
@@ -2782,7 +2818,7 @@
       "name_diff" : "",
       "name_pack" : "Battle in the Mist 2ndMIX",
       "note" : "",
-      "state" : "1",
+      "state" : "0",
       "tag" : "超高速BPMでの縦連、トリル系",
       "title" : "BEAT MASTER SLAYER [DP HYPER]",
       "total" : "",
@@ -3454,6 +3490,24 @@
       "total" : "",
       "url" : "http://qstol.info/events/venue/detail?event=3&id=10",
       "url_diff" : "https://drive.google.com/file/d/0B7qCw4hNijr4VFZJbzhVcEhTd28/view"
+   },
+   {
+      "artist" : "Silentroom × 駿 / obj.LetsOTL",
+      "bmsid" : "260612",
+      "comment" : "https://ux.getuploader.com/dpbms/download/365",
+      "eval" : "0",
+      "judge" : "",
+      "level" : "10",
+      "md5" : "98934872d10c287a246af9b0ecc09f3c",
+      "name_diff" : "●",
+      "name_pack" : "BOFU2017",
+      "note" : "",
+      "state" : "1",
+      "tag" : "☆10中～上位。密度的には☆9だが、LNと早めの階段でトータル値低め",
+      "title" : "GAMEBOY [SRBOFU2017DP]",
+      "total" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=389&event=116",
+      "url_diff" : "https://www.dropbox.com/s/13a7kz5spsebf7v/SRBOFU2017DP.zip?dl=0"
    },
    {
       "artist" : "Orange Strophe obj:ucc",
