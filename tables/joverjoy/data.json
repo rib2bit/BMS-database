@@ -518,6 +518,65 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2018/05/19",
+      "artist" : "polysha",
+      "comment" : "",
+      "folder" : "仝2",
+      "level" : "2",
+      "lr2_bmsid" : null,
+      "md5" : "0122d4528399af4e2c051cd4940ac655",
+      "name_diff" : null,
+      "org_level" : 18,
+      "org_md5" : "78ab95dc63f87825e9d5b33542396020",
+      "org_md5s" : [
+         "78ab95dc63f87825e9d5b33542396020",
+         "972b8d5289ef41e98089c427267503dd",
+         "af64b7ca5d53852ec1cb437b1e02ad0c",
+         "7e32af584080fb9965bbf497947de99f",
+         "fae668556e7a69b1c7268513bedf2a9d",
+         "ee5eb52f0e7195fc21713828f500173c",
+         "b77bbd67da65788b15484cfb987d68a2",
+         "40a7e309c5d5677f7ce0000a5d08dae1",
+         "bac3523192e46346983cf1012175a345",
+         "0389f186e4ebc4dc39620bd8b1bfff17",
+         "3e844ace937cc6b8d354c0c2e73a3a10",
+         "1b7402a63405ff3417f61a239e145f27",
+         "8a84fcc546d4cd8c2bb94299d3141c1f",
+         "4e75cccd709eba514c0bb962d823ca89",
+         "239d23687843db11b252bc257d37a334",
+         "16a458a6df2790f6f87bf5d1f6fb3d99",
+         "822bb90ba72ebcab13ddf971f2d48aae",
+         "51ab65f2107b1ef4c9a9fbfdd2d12c29",
+         "e466740716b5a58002661a640e6fec69",
+         "cdc2f9e8c884811e6163a781823a73f0",
+         "472a6ab80e25629a01a95f030f697284",
+         "fe010b79c43843170c846100883fd2c2",
+         "81f565d09df553ebb6f17a32826fcd70",
+         "954774a53e8c7be7f851ef85ee945102",
+         "fd114de16ba01172a63889b40e79071d",
+         "ae50d5ae456c6f74f9d496f3cb8a963e",
+         "413b575ee11c6a8a070e2c0577da9047",
+         "49b04e0d82fa693ef565654087550c14",
+         "7c3e7a28dd4f3576dca9b3c34fc49a6a",
+         "eda14cc282ca3edc2078e58a9242a415",
+         "e32917d8fea173d2fe52cd88a8ad4a7b",
+         "36349a468ce37c9fefb53ec8a04b663c",
+         "ad39831a2fa73a7675f027806806e173",
+         "10c7fc4a286f9146cd934880c681fc36",
+         "be3ebfcad366df1abc281c51c773ba28",
+         "7b9af00c180c56a3b3236d83a83259dd",
+         "831d20ae9d3be945886f98529a42e124",
+         "02760a4c0d96d1b4b57d46c52f635895",
+         "a3e10d076b2833c69614342b4c752e5e",
+         "6e67dcf5c3409570f2b3d65591c3bfb2",
+         "2e4fbaa3f9968ca6cd5239049520ad1b",
+         "0122d4528399af4e2c051cd4940ac655"
+      ],
+      "title" : "It's \"alice\" dream - Crazy -",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2017/10/14",
       "artist" : "DJ.Kari",
       "comment" : "",
@@ -624,11 +683,13 @@
       "level" : "1",
       "lr2_bmsid" : "9117",
       "md5" : "0183b55c5829e698fdaff5ba2f2b97f0",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "myste`re　 -LAST BOSS-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/05",
@@ -638,11 +699,13 @@
       "level" : "2",
       "lr2_bmsid" : "9117",
       "md5" : "0183b55c5829e698fdaff5ba2f2b97f0",
+      "name_diff" : null,
       "org_level" : 22,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "myste`re　 -LAST BOSS-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -668,11 +731,13 @@
       "level" : "6",
       "lr2_bmsid" : "62450",
       "md5" : "019ac1a99cd2e4e1d971e85089ec474a",
+      "name_diff" : null,
       "org_level" : 6,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "NS18 [7key Amother]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/23",
@@ -1241,11 +1306,13 @@
       "level" : "0",
       "lr2_bmsid" : "54992",
       "md5" : "03aed4dce9e1f5443be3bdc358ca0f41",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Angel dust [7key//Assault]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -1573,11 +1640,13 @@
       "level" : "2",
       "lr2_bmsid" : "192729",
       "md5" : "049b99148a855cebae52d2aa5851ea69",
+      "name_diff" : null,
       "org_level" : 2,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Freja [SP Monather]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -2298,11 +2367,13 @@
       "level" : "2",
       "lr2_bmsid" : "1820",
       "md5" : "064970e4288f662f8d7e03fc938b9a85",
+      "name_diff" : null,
       "org_level" : 2,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "175bpm",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -2385,11 +2456,13 @@
       "level" : "2",
       "lr2_bmsid" : "1823",
       "md5" : "0678f28c087798f26ccb39f6ad5776ff",
+      "name_diff" : null,
       "org_level" : 2,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "紅染十三番街道",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -2958,11 +3031,13 @@
       "level" : "3",
       "lr2_bmsid" : "80176",
       "md5" : "07fc1a120fab1efa8c054019a33f744a",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Halcyon[Limit Edition]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -3053,11 +3128,13 @@
       "level" : "2",
       "lr2_bmsid" : "157608",
       "md5" : "0849f00f3701057423777d6398ecded0",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Endymion -Immortal-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/23",
@@ -3083,11 +3160,13 @@
       "level" : "3",
       "lr2_bmsid" : "206013",
       "md5" : "0868089e55f456df7181a8f43ae739aa",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Dandelion Sparkle!! [Lovely]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/23",
@@ -3757,11 +3836,13 @@
       "level" : "3",
       "lr2_bmsid" : "127594",
       "md5" : "093a8d66b89944db9e42aa2321b4f637",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "サンバランド -LAST BOSS-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -4047,11 +4128,13 @@
       "level" : "2",
       "lr2_bmsid" : "239047",
       "md5" : "09bb3f38c7bb3c598ba630564c8489b8",
+      "name_diff" : null,
       "org_level" : 22,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Grayed Out -Antifront- [stLOng]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -4193,11 +4276,13 @@
       "level" : "6",
       "lr2_bmsid" : "64606",
       "md5" : "09ed1d6bd689dee2b8ffea8e63aab5f1",
+      "name_diff" : null,
       "org_level" : 6,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "ひつぎとふたご [7KEY/PHANTASM]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -4429,11 +4514,13 @@
       "level" : "1",
       "lr2_bmsid" : "144019",
       "md5" : "0a5f66290ea8306923a9d49ebb113dc9",
+      "name_diff" : null,
       "org_level" : 21,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Say A Vengeance [INFERNO]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/03/19",
@@ -4955,11 +5042,13 @@
       "level" : "1",
       "lr2_bmsid" : "208427",
       "md5" : "0b54450bfc34e506f7f554df50a856cf",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Groovin Groovin!! (*'∀'人)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -5653,11 +5742,13 @@
       "level" : "1",
       "lr2_bmsid" : "151228",
       "md5" : "0d1128a834e2aeb4dc0b31fa9d2dbbc2",
+      "name_diff" : null,
       "org_level" : 21,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "res extensa [Monsther]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/27",
@@ -6029,11 +6120,13 @@
       "level" : "7",
       "lr2_bmsid" : "233290",
       "md5" : "0dbf685ac782291528de82b4c6316408",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "is NOT music EXTREME+LONG",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -6950,11 +7043,13 @@
       "level" : "3",
       "lr2_bmsid" : "174124",
       "md5" : "10420967a85371e65db57967e6c696cd",
+      "name_diff" : null,
       "org_level" : 23,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Doppelganger [Hi]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -7048,11 +7143,13 @@
       "level" : "5",
       "lr2_bmsid" : "48393",
       "md5" : "10e7944ff3c97d039f3319a505ba86ab",
+      "name_diff" : null,
       "org_level" : 5,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Reincarnation [HYPER]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -7655,11 +7752,13 @@
       "level" : "2",
       "lr2_bmsid" : "91517",
       "md5" : "11dcbec181f49ba93a9dbc3dbe211803",
+      "name_diff" : null,
       "org_level" : 2,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "κανων -Ω-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -8936,11 +9035,13 @@
       "level" : "2",
       "lr2_bmsid" : "113617",
       "md5" : "14dd3bf557fdfdd68036749ee134e1bf",
+      "name_diff" : null,
       "org_level" : 2,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Cross Galaxy -Clover-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/05",
@@ -8950,11 +9051,13 @@
       "level" : "2",
       "lr2_bmsid" : "145054",
       "md5" : "14e242272c33a1774bf12a70571bb94a",
+      "name_diff" : null,
       "org_level" : 22,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Tuk Tuk Boshi -LAST BOSS-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -9022,11 +9125,13 @@
       "level" : "0",
       "lr2_bmsid" : "420",
       "md5" : "14e6967d1ebe85eb26cadb7fafa1e23e",
+      "name_diff" : null,
       "org_level" : 20,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "MirroR -Miracle version-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -9774,11 +9879,13 @@
       "level" : "3",
       "lr2_bmsid" : "92880",
       "md5" : "16e5122ba41c66456b7cd3e8cda57485",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "lifework",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/23",
@@ -9820,11 +9927,13 @@
       "level" : "0",
       "lr2_bmsid" : "1129",
       "md5" : "1728928d4d010b0c1ba0e21130a854a3",
+      "name_diff" : null,
       "org_level" : 20,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Cold Breath (Another++)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/11/18",
@@ -10136,6 +10245,38 @@
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "運命論",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/05/19",
+      "artist" : "ROKINA obj:homare",
+      "comment" : "",
+      "folder" : "仝6",
+      "level" : "6",
+      "lr2_bmsid" : null,
+      "md5" : "17feecd94600b5eb6e6c30e90cc48353",
+      "name_diff" : null,
+      "org_level" : 6,
+      "org_md5" : "62436e6feab96231cf31620f46c2eb4b",
+      "org_md5s" : [
+         "62436e6feab96231cf31620f46c2eb4b",
+         "dab5d94fdecdfb9827b7470e10f0689d",
+         "0026a58307a8a4edeab4a7e625ff1817",
+         "ec96a495b4988376ce874af235bbe982",
+         "056e3d6a2cd908666f6387802494883b",
+         "19416ee5637e16421aaa90c73894cf09",
+         "840093ed40521caaa0613c432fe96120",
+         "f07aa2dcec6f0bfd1c178b23fda9978c",
+         "0aa9ea294757e88cfa9b40499b1e2c4d",
+         "492b813b7ee99a23fe9b32ed9235b359",
+         "fbe94821f93aefea75dc0ad20c7e9cc6",
+         "0c62c987bbe7fb2a39657481793de771",
+         "4c07761bff0a6ebb7696e8e91fef6b3d",
+         "d6276412e050468e0ae681ba83a0fa3e",
+         "17feecd94600b5eb6e6c30e90cc48353"
+      ],
+      "title" : "Schwerkraft [Dioga Gravidon]",
       "url" : "",
       "url_diff" : ""
    },
@@ -10506,11 +10647,13 @@
       "level" : "5",
       "lr2_bmsid" : "169287",
       "md5" : "188a99f74ab71804f2e360dcf484545c",
+      "name_diff" : null,
       "org_level" : 5,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "運命論",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/12/10",
@@ -10621,7 +10764,8 @@
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "unhappy century",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/01/31",
@@ -10720,11 +10864,13 @@
       "level" : "3",
       "lr2_bmsid" : "128573",
       "md5" : "199de1d50d4b44c642bd6464cf93876c",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Love-Colored Look of the Sky　 [abusive]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/15",
@@ -11702,11 +11848,13 @@
       "level" : "3",
       "lr2_bmsid" : "131832",
       "md5" : "1ba66dd0dffbe081276a59d3bf05de4a",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "幽雅に咲かせ、墨染の桜 [NORMAL+]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -12025,11 +12173,13 @@
       "level" : "2",
       "lr2_bmsid" : "1689",
       "md5" : "1c52dac038673920d8aebe38d4b72785",
+      "name_diff" : null,
       "org_level" : 2,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "サウザンテイルズ",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -12486,11 +12636,13 @@
       "level" : "1",
       "lr2_bmsid" : "64966",
       "md5" : "1d22b6675f5aa3ef2e1f872ae1330455",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Karakuri Plum -Kuso?-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/21",
@@ -12773,11 +12925,13 @@
       "level" : "1",
       "lr2_bmsid" : "80401",
       "md5" : "1ddf2c56ef0035e58ecdaf9b7d67eb5f",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "S t r a i n -imminent-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -12883,11 +13037,13 @@
       "level" : "7",
       "lr2_bmsid" : "233689",
       "md5" : "1e1c4fc28acfdd285f83afeb7635a0ae",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "超戦戦戦歌十倍「オルグラリヤ」",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -12921,11 +13077,13 @@
       "level" : "4",
       "lr2_bmsid" : "50411",
       "md5" : "1e4797ed280b7b309af3331eeaf8cf89",
+      "name_diff" : null,
       "org_level" : 4,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "どうか私を殺して下さい -もう、樹海しか見えない-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/21",
@@ -14696,11 +14854,13 @@
       "level" : "5",
       "lr2_bmsid" : "40971",
       "md5" : "210d23468812b5f7400bc73616a3a063",
+      "name_diff" : null,
       "org_level" : 5,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "ピアノ降臨曲第2番”神龜瀧” [7expert]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -15129,6 +15289,60 @@
          "eaccf46807d2e2cad407a2adfcd4abef"
       ],
       "title" : "漉　摸　諷　鷺",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/05/19",
+      "artist" : "polycube / obj.swa mov : 140",
+      "comment" : "",
+      "folder" : "仝0",
+      "level" : "0",
+      "lr2_bmsid" : null,
+      "md5" : "22ebf416100df556dcd2b1ab52bbd6cc",
+      "name_diff" : null,
+      "org_level" : 19,
+      "org_md5" : "6ec36b06a4d82e60d1408e7cdde12cf0",
+      "org_md5s" : [
+         "6ec36b06a4d82e60d1408e7cdde12cf0",
+         "96d1ae086893e5510c10bb3599ddb369",
+         "f9cbb6ca9115985110904c524b06e4ca",
+         "75914e14477d80226fc899f2091279db",
+         "ba241440e04da552a1367bc26b784c69",
+         "51bbd3a8e3cee44e22740cf6521fd5c8",
+         "14bf729bdb8c3893821c7b24f775c151",
+         "567240f854b0a85ed359feb9f76261c3",
+         "035bf516cfd51d52654f4de8b46facf7",
+         "22ebf416100df556dcd2b1ab52bbd6cc"
+      ],
+      "title" : "Enigma [Gestaltzerfall]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/05/19",
+      "artist" : "nmk / わっふゑ obj:Omino",
+      "comment" : "",
+      "folder" : "仝6",
+      "level" : "6",
+      "lr2_bmsid" : null,
+      "md5" : "22f71b0463955fcedb84eca9d09e60ca",
+      "name_diff" : null,
+      "org_level" : 0,
+      "org_md5" : "59ac6a97f61fdb5941a35a53e93f5533",
+      "org_md5s" : [
+         "59ac6a97f61fdb5941a35a53e93f5533",
+         "109963650f2723a9893032f2d3a3edcf",
+         "9fae9ca297e05b51882f65cde7928737",
+         "8b02ba8b8671b735c8694976b4b623b9",
+         "9d3bc555dced19c31ce5d04efe889a61",
+         "db6e443545b6270df20d3506d828fb0e",
+         "0f476dcfb4063c4fb64b6d697a4333f3",
+         "3254865aa940b5f26918803d46994c19",
+         "d0f1f94adb420951d7c9123a24a814b2",
+         "22f71b0463955fcedb84eca9d09e60ca"
+      ],
+      "title" : "Celestial Axes [Other]",
       "url" : "",
       "url_diff" : ""
    },
@@ -15617,11 +15831,13 @@
       "level" : "1",
       "lr2_bmsid" : "203729",
       "md5" : "246fb64792ed33f8c9b6b35587cecbb5",
+      "name_diff" : null,
       "org_level" : 21,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Skull & Witch [黒色破壊光線]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -16069,11 +16285,13 @@
       "level" : "1",
       "lr2_bmsid" : "155327",
       "md5" : "257891e5ffb2b24ecc3557296110e135",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "A BEAUTIFUL BEAM -OB style-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -16156,11 +16374,13 @@
       "level" : "5",
       "lr2_bmsid" : "165492",
       "md5" : "25f637af6dd3a5138d347fcabebd7857",
+      "name_diff" : null,
       "org_level" : 5,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Apollo [SUPERVAKA]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -16448,11 +16668,13 @@
       "level" : "1",
       "lr2_bmsid" : "158607",
       "md5" : "26c296c5b9d2f13f6fdc92263572e05c",
+      "name_diff" : null,
       "org_level" : 21,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "わがままプリンセス [DX]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -17152,11 +17374,13 @@
       "level" : "3",
       "lr2_bmsid" : "1916",
       "md5" : "284712605e020dfbd6b8be94afc053fd",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "DENGEKI Tube [100万ボルト]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/23",
@@ -17315,11 +17539,13 @@
       "level" : "0",
       "lr2_bmsid" : "131878",
       "md5" : "28788156857a8fc75da04b797587c256",
+      "name_diff" : null,
       "org_level" : 20,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "L9DM [FUC]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/05",
@@ -17329,11 +17555,13 @@
       "level" : "5",
       "lr2_bmsid" : "17272",
       "md5" : "287d374175465cce156aaa8101a48e87",
+      "name_diff" : null,
       "org_level" : 5,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "パガニーニの「ラ・カンパネラ」の主題による華麗なる大幻想曲 [発狂2]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -17487,11 +17715,13 @@
       "level" : "3",
       "lr2_bmsid" : "17259",
       "md5" : "28e3615744d2aba5f388ab4f9ff9014a",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "風塵少女-Wind Rush-(BMS edit) (異次元皆伝)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/23",
@@ -17566,11 +17796,13 @@
       "level" : "3",
       "lr2_bmsid" : "225689",
       "md5" : "29291a5e543a54f1f758d1a276b41189",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Pangaea [Ultima]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/18",
@@ -17667,11 +17899,13 @@
       "level" : "1",
       "lr2_bmsid" : "147298",
       "md5" : "29894cf918d9568d4431b263d241e58c",
+      "name_diff" : null,
       "org_level" : 21,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Synthesized Fortress -伝説から神話へ-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -17886,11 +18120,13 @@
       "level" : "2",
       "lr2_bmsid" : "97611",
       "md5" : "2a5eb3e8a4a037cc7abd15eb76acee3a",
+      "name_diff" : null,
       "org_level" : 2,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "AXION -ecstasy-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -18625,11 +18861,13 @@
       "level" : "2",
       "lr2_bmsid" : "48239",
       "md5" : "2c3b8bb52b69ab14aa75d24a3e1d3aba",
+      "name_diff" : null,
       "org_level" : 2,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "LEthAl wEApOn -ALIthER-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -18777,11 +19015,13 @@
       "level" : "1",
       "lr2_bmsid" : "184494",
       "md5" : "2c957674533ffa6215bc77e921a8509e",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "TYR -Finale-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -18919,11 +19159,13 @@
       "level" : "1",
       "lr2_bmsid" : "1817",
       "md5" : "2ce093dffc92f27e00055b5143ceb319",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "theme of Maia [29Another]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/05",
@@ -18933,11 +19175,13 @@
       "level" : "2",
       "lr2_bmsid" : "1817",
       "md5" : "2ce093dffc92f27e00055b5143ceb319",
+      "name_diff" : null,
       "org_level" : 22,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "theme of Maia [29Another]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -19376,11 +19620,13 @@
       "level" : "3",
       "lr2_bmsid" : "1539",
       "md5" : "2e2c4168d3c350de3136a0c2ad23dce3",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "FREEDOM DiVE  [UNIVERSE]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -20017,11 +20263,13 @@
       "level" : "1",
       "lr2_bmsid" : "105610",
       "md5" : "2ff8873d5fd31edf60810296638ae2ad",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "LEthAl wEApOn -SP AMETHER-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -20414,11 +20662,13 @@
       "level" : "1",
       "lr2_bmsid" : "1805",
       "md5" : "30a5cc8b0bfdc784f19fa42155917b6c",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Little \"Sister\" Bitch",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/05",
@@ -20428,11 +20678,13 @@
       "level" : "2",
       "lr2_bmsid" : "1805",
       "md5" : "30a5cc8b0bfdc784f19fa42155917b6c",
+      "name_diff" : null,
       "org_level" : 22,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Little \"Sister\" Bitch",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -20941,11 +21193,13 @@
       "level" : "1",
       "lr2_bmsid" : "52576",
       "md5" : "323e391cb09c023da7fe439d12bc6def",
+      "name_diff" : null,
       "org_level" : 21,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "GaRaKuTic Dream (garbage)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -21540,11 +21794,13 @@
       "level" : "2",
       "lr2_bmsid" : "6479",
       "md5" : "34394ae0d05f3f3565270a177f823e3d",
+      "name_diff" : null,
       "org_level" : 2,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "U.N.オーエンは彼女なのか? (midi)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/01",
@@ -21663,11 +21919,13 @@
       "level" : "1",
       "lr2_bmsid" : "213912",
       "md5" : "3480d9d717902663ff63cd33a30a5373",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Bloody Scarlet Nightmare",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -21829,11 +22087,13 @@
       "level" : "3",
       "lr2_bmsid" : "1547",
       "md5" : "34ef021066ca17f8014bd6bc0973453d",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "アズール リミックス <MANIAC>",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -21956,11 +22216,13 @@
       "level" : "3",
       "lr2_bmsid" : "109180",
       "md5" : "3544024ea5deff997deb4ce2ce5dbfc2",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Qualia [長距離走]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -22060,11 +22322,13 @@
       "level" : "2",
       "lr2_bmsid" : "72590",
       "md5" : "3594edfdcfa5202a6bb15c85fa371640",
+      "name_diff" : null,
       "org_level" : 22,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "kyrka [MEISTER]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -22343,6 +22607,22 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2018/05/19",
+      "artist" : "------ / Who am I?",
+      "comment" : "",
+      "folder" : "仝5",
+      "level" : "5",
+      "lr2_bmsid" : null,
+      "md5" : "360314498b82642358d271db0193b06a",
+      "name_diff" : null,
+      "org_level" : 0,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "Lost Reality [OVERKILL]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2017/10/14",
       "artist" : "siromaru + cranky /wing",
       "comment" : "",
@@ -22592,11 +22872,13 @@
       "level" : "4",
       "lr2_bmsid" : "136199",
       "md5" : "365816fd4a3bc8df11fe10823de3fd2e",
+      "name_diff" : null,
       "org_level" : 4,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "★So SweeT LittlE HearT★ (GOD)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/23",
@@ -22622,11 +22904,13 @@
       "level" : "3",
       "lr2_bmsid" : "13228",
       "md5" : "366c24a092f40f28152ca083fefddc5a",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "★LittlE HearTs★",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -22667,11 +22951,13 @@
       "level" : "3",
       "lr2_bmsid" : "170620",
       "md5" : "3694a35da49161921ea6814ab68f112d",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "先天性エゴサ依存症候群 [EX7]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -22860,11 +23146,13 @@
       "level" : "2",
       "lr2_bmsid" : "108923",
       "md5" : "36e57a930af6c8d78a55684f7da13f36",
+      "name_diff" : null,
       "org_level" : 2,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Sicilian kiss -kiss of death-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -23493,11 +23781,13 @@
       "level" : "1",
       "lr2_bmsid" : "",
       "md5" : "38b6f9405ecbf0e41856b9f2369d1be8",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "ほしぞら遊覧飛行 [Andromeda]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -23561,11 +23851,13 @@
       "level" : "3",
       "lr2_bmsid" : "131863",
       "md5" : "38f7d300a2ba8c3289af529595566cc3",
+      "name_diff" : null,
       "org_level" : 23,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "L9 -落とし穴 Revolutions-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -23626,11 +23918,13 @@
       "level" : "0",
       "lr2_bmsid" : "214129",
       "md5" : "393721d8ae30bf1c212e8126dadc03c3",
+      "name_diff" : null,
       "org_level" : 20,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Complex path(bms edit -madness-)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/23",
@@ -23805,11 +24099,13 @@
       "level" : "4",
       "lr2_bmsid" : "96180",
       "md5" : "39d0732ef7fee9ad0c8b044ccbe8a396",
+      "name_diff" : null,
       "org_level" : 4,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Love & Justice [GOD]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/05",
@@ -23819,11 +24115,13 @@
       "level" : "1",
       "lr2_bmsid" : "81417",
       "md5" : "39d2d83a18b86d0e0c44df19bae677c8",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Lunatic of the Full-Moon (Lunatic7)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/11/23",
@@ -24291,11 +24589,13 @@
       "level" : "4",
       "lr2_bmsid" : "103391",
       "md5" : "3af3b4962bd60e27e9c7f92743a28e07",
+      "name_diff" : null,
       "org_level" : 4,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Time files [UNHAPPY]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/23",
@@ -24854,11 +25154,13 @@
       "level" : "4",
       "lr2_bmsid" : "112178",
       "md5" : "3c4e5a90478a6a60b430e9816c942ffd",
+      "name_diff" : null,
       "org_level" : 4,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "煉獄-Purgatorium- [ANOTHER]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/23",
@@ -25027,11 +25329,13 @@
       "level" : "1",
       "lr2_bmsid" : "131448",
       "md5" : "3cc376adecd0e196a34a12eb39311146",
+      "name_diff" : null,
       "org_level" : 21,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "絶対的共依存-Codependence-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/01/31",
@@ -25427,11 +25731,13 @@
       "level" : "7",
       "lr2_bmsid" : "101406",
       "md5" : "3dc2a8614c4ab1dad9ec9db83a9c9576",
+      "name_diff" : null,
       "org_level" : 7,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "幽雅に咲かせ、墨染の桜 [HYPER]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -26978,11 +27284,13 @@
       "level" : "1",
       "lr2_bmsid" : "1827",
       "md5" : "40e62c68ee044e28cbea6805a88bb760",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "unquenchable",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -27303,11 +27611,13 @@
       "level" : "2",
       "lr2_bmsid" : "231484",
       "md5" : "416aa4486f710ded95c0c3758812f5ed",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Kamui (8bit mix)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -27507,11 +27817,13 @@
       "level" : "0",
       "lr2_bmsid" : "88667",
       "md5" : "425b14fc43db24a16f44380f4a06a3a5",
+      "name_diff" : null,
       "org_level" : 20,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "ERIS [BIFROST]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -27835,11 +28147,13 @@
       "level" : "4",
       "lr2_bmsid" : "163530",
       "md5" : "432cd6b8ba5e96c88865904bb48fa7b3",
+      "name_diff" : null,
       "org_level" : 4,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "トココ21 -Black Another-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -28404,11 +28718,13 @@
       "level" : "5",
       "lr2_bmsid" : "143534",
       "md5" : "4417ce8ee8ebbfe6f54603633cea42fd",
+      "name_diff" : null,
       "org_level" : 5,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "res extensa [EX]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/18",
@@ -28642,11 +28958,13 @@
       "level" : "1",
       "lr2_bmsid" : "159666",
       "md5" : "451ed38cdba0323388027129f5929645",
+      "name_diff" : null,
       "org_level" : 21,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "CHMR -Automata-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -28897,11 +29215,13 @@
       "level" : "1",
       "lr2_bmsid" : "208105",
       "md5" : "45b002bfe981461be80d75b45df9446f",
+      "name_diff" : null,
       "org_level" : 21,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "new earth [terra nova]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -29245,6 +29565,30 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2018/05/19",
+      "artist" : "------ / selene.",
+      "comment" : "",
+      "folder" : "仝2",
+      "level" : "2",
+      "lr2_bmsid" : null,
+      "md5" : "46cb167dc87808a383641a7e11602c99",
+      "name_diff" : null,
+      "org_level" : 22,
+      "org_md5" : "897b45fbd4c1bc0745b89c043ccd8ee1",
+      "org_md5s" : [
+         "897b45fbd4c1bc0745b89c043ccd8ee1",
+         "e5367ae7f7ca878e700cdbdaaf8c030f",
+         "b3fed26590cc269afa8f3e35a34b3756",
+         "4f0478e6826761c0b9570f10ccc1b514",
+         "af260ced28ae909b55bd50880edd165e",
+         "360314498b82642358d271db0193b06a",
+         "46cb167dc87808a383641a7e11602c99"
+      ],
+      "title" : "Lost Reality -Genocide-",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2018/05/04",
       "artist" : "NEKI←T + Est / obj:BAECON",
       "comment" : "",
@@ -29252,11 +29596,13 @@
       "level" : "2",
       "lr2_bmsid" : "170294",
       "md5" : "46d5650c40771ced6bb351af7af30c82",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "上海紅茶館(foon)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -30276,11 +30622,13 @@
       "level" : "5",
       "lr2_bmsid" : "115827",
       "md5" : "499edec22a416ce88cc1f7c3a402dff8",
+      "name_diff" : null,
       "org_level" : 5,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "魔女達の舞踏会[HYPER]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -31275,11 +31623,13 @@
       "level" : "1",
       "lr2_bmsid" : "180789",
       "md5" : "4c359a90144bafc6fd4c765438ae7075",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "事象の地平  [事件の終結]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -31889,11 +32239,13 @@
       "level" : "0",
       "lr2_bmsid" : "69431",
       "md5" : "4e14636fcef5d3e7572607aa3f39c2e3",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "vijore [BLUE ROSE]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -32307,6 +32659,35 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2018/05/19",
+      "artist" : "STARSTREAK CHAOS-TL12 Illustration by Neru / OBJ: qtp13",
+      "comment" : "",
+      "folder" : "仝5",
+      "level" : "5",
+      "lr2_bmsid" : null,
+      "md5" : "4f45a563979da12123c3c769ac2ca185",
+      "name_diff" : null,
+      "org_level" : 25,
+      "org_md5" : "a5f7b75f90391f6438e80209a9a6f861",
+      "org_md5s" : [
+         "a5f7b75f90391f6438e80209a9a6f861",
+         "2b03dca73a314a9e23c10ea0c5a8e9e3",
+         "dd9cf5ab84abb6616df334d729f0fa0e",
+         "f45c378bba9556fcdbf4df5a68907a1b",
+         "d50a0313c2e862e13bf7a863ac5251b5",
+         "c03b01ff61b160a5bd29c323f9eddad7",
+         "e5be45c8b010d88c161aba42a05b64f6",
+         "ca5e2b58671be0aed0a8f83a94b59190",
+         "bde6e746250d86e04619a5d7f527c4be",
+         "acb6ceb5012d40626e07a9b077e8dd8b",
+         "5afe50e4fc83613f7b96691fe5e820d9",
+         "4f45a563979da12123c3c769ac2ca185"
+      ],
+      "title" : "VENUS INVADER [7K FatalMix]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2017/10/18",
       "artist" : "SHALE vs A4paper",
       "comment" : "",
@@ -32542,6 +32923,42 @@
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "dolorosa melodia [おっしゃあ高密度だぜヒャッホウ！7g569d版]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/05/19",
+      "artist" : "sasakure.UK / obj. laner",
+      "comment" : "",
+      "folder" : "仝1",
+      "level" : "1",
+      "lr2_bmsid" : null,
+      "md5" : "4fe71d66b9de769681fd01f85f19eaf4",
+      "name_diff" : null,
+      "org_level" : 1,
+      "org_md5" : "91ad562b105c253cee6ef2944282c30d",
+      "org_md5s" : [
+         "91ad562b105c253cee6ef2944282c30d",
+         "cfc50b5771bf70d03d50e543f7f59380",
+         "8ba7928daff4e41fa1d0effbb6f6207e",
+         "e1281cebf8c6efdf7cfb9f41543ebac4",
+         "04c7327e4c8393e071f9386d9f4a43d0",
+         "e683816e75ba792ed9212956d55720e4",
+         "494a829403d0f76371360f1f041da6fe",
+         "571a604b245a7fa5c7b7630ac9dce4e0",
+         "7a948d1ca21757673d29642694298ec1",
+         "2596b4b9ccff321830f930f17d0b7e09",
+         "2f511b2b9061bb8b3a7755badfad1241",
+         "328794f072634f20d2d8ac53944f8823",
+         "74139db89763b2333f4b6b9f44308a58",
+         "bef7992c836e2e29c36330601ce4569e",
+         "95019398e4f9e9c1db0f4c41917274a1",
+         "25c6fdf54ed4248ee71ef04f661a1116",
+         "fbc3b523da62071d13fbcc52c8fea503",
+         "5b9aeaa0e9b33cf87ec728f3d7b152e3",
+         "4fe71d66b9de769681fd01f85f19eaf4"
+      ],
+      "title" : "海神寓拝[for whale]",
       "url" : "",
       "url_diff" : ""
    },
@@ -33955,11 +34372,13 @@
       "level" : "7",
       "lr2_bmsid" : "18169",
       "md5" : "517791cedc3793c7475014dfbbf47a05",
+      "name_diff" : null,
       "org_level" : 7,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "G e n g a o z o _ F U C",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -33985,11 +34404,13 @@
       "level" : "1",
       "lr2_bmsid" : "127781",
       "md5" : "51802e865232ba2b86b676a6fe3016c5",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Nichirin -HighSpeed edition- [SEIRYU INSANE]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/21",
@@ -34054,11 +34475,13 @@
       "level" : "0",
       "lr2_bmsid" : "195481",
       "md5" : "51e0a29d5c7fc9cdf5e5e8eee1ad1124",
+      "name_diff" : null,
       "org_level" : 20,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "現実をカットアップしてみた[Realism]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -34570,6 +34993,30 @@
          "52f8754ea10a6da9375cba790d292672"
       ],
       "title" : "Ayleid [Massive]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/05/19",
+      "artist" : "マピ子 obj.hex",
+      "comment" : "",
+      "folder" : "仝3",
+      "level" : "3",
+      "lr2_bmsid" : null,
+      "md5" : "530bb8a64ae5718c7485b28a8a930779",
+      "name_diff" : null,
+      "org_level" : 3,
+      "org_md5" : "a8129178f6d8ee2248c3707e4be95179",
+      "org_md5s" : [
+         "a8129178f6d8ee2248c3707e4be95179",
+         "754e065121c2a1f43fdd59cf3004bb62",
+         "540058e3397dd9bdb672ff1292ea5e05",
+         "58a19cea2a02dae79f1fc4c27c742a9a",
+         "41588a10e67abdbe432556ec8f933b5f",
+         "203c411b3ec01d6556e634483f2c00a1",
+         "530bb8a64ae5718c7485b28a8a930779"
+      ],
+      "title" : "arosonik'A [ヒム子]",
       "url" : "",
       "url_diff" : ""
    },
@@ -35304,6 +35751,43 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2018/05/19",
+      "artist" : "Lubinn / obj. laner",
+      "comment" : "",
+      "folder" : "仝2",
+      "level" : "2",
+      "lr2_bmsid" : null,
+      "md5" : "55175a61f06b704b6c4849fbabd473cd",
+      "name_diff" : null,
+      "org_level" : 1,
+      "org_md5" : "13d17f801fa90857d920ec4a022b5360",
+      "org_md5s" : [
+         "13d17f801fa90857d920ec4a022b5360",
+         "6e66f2b794144ae3786f82738d5d38bf",
+         "e4c71bdea01e13a8862d7876dddac595",
+         "28a8170a55d118b778e11708ebca7c61",
+         "46c0afc395022c018eb35e7075c9971f",
+         "3ce7ea599189ada55cd0c801c36aa5ac",
+         "a9afa695e31c0347a44e4b9b7ae0daa6",
+         "e81b29bbac12291c94b63652411fe68f",
+         "c0e599da26e9ab625383215e4a0c7212",
+         "5321bf361cb1f41b3cb23e5356bce467",
+         "35e9b7c25bf77a239c7aa4160d79336f",
+         "e7f2372f27be1ebc2c9f1bcf886e99e7",
+         "1a94e7692c400c34e8d98c5089309434",
+         "ce1fe272ff57b488ff9671e0e5300a26",
+         "10534874b828c6006df8723b055984da",
+         "fae9655444d0a7d8eea411013cae891e",
+         "63532f179a598acf496155be0c8707ad",
+         "46f645c96fc4bf3725de205275ae96e8",
+         "7ea86bbf8abb1e9395a7e5b7e9d298b9",
+         "55175a61f06b704b6c4849fbabd473cd"
+      ],
+      "title" : "夜明けの少女たち[triple]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2017/10/14",
       "artist" : "psi obj:O",
       "comment" : "",
@@ -35566,11 +36050,13 @@
       "level" : "3",
       "lr2_bmsid" : "213858",
       "md5" : "56bae55b19cbf032b95d5c95a57f233a",
+      "name_diff" : null,
       "org_level" : 23,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Wizdomiot[INFERNO]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -35665,11 +36151,13 @@
       "level" : "2",
       "lr2_bmsid" : "142970",
       "md5" : "5713095faa7f7801eb9624e4a693e077",
+      "name_diff" : null,
       "org_level" : 2,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "yksinaisyys [Gehenna]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/23",
@@ -35850,6 +36338,32 @@
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Blooming Jump! [7Futabather]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/05/19",
+      "artist" : "II-L obj:蒸餅擬キ",
+      "comment" : "",
+      "folder" : "仝2",
+      "level" : "2",
+      "lr2_bmsid" : null,
+      "md5" : "57f79c36ef424dd0cb0bee533d894cd7",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "b2cc3459a06f4674026afc57f6383ae6",
+      "org_md5s" : [
+         "b2cc3459a06f4674026afc57f6383ae6",
+         "278e057ad673918e692fea7a0188f28c",
+         "7223f0b7879024ceb6194f8437a923ef",
+         "2ba986cf9491c0187eabf0ca670937fe",
+         "76f7cc79ef7c0315d4ec5682ce765485",
+         "45c888c25e26aa338cb3215e4ff0b94a",
+         "bf643c4c34252d4dce1a735411c03aef",
+         "01f4fe77b555ffb70c30f1b5cd98044b",
+         "57f79c36ef424dd0cb0bee533d894cd7"
+      ],
+      "title" : "V804N [time capsule]",
       "url" : "",
       "url_diff" : ""
    },
@@ -36084,11 +36598,13 @@
       "level" : "4",
       "lr2_bmsid" : "17262",
       "md5" : "58c5e615e56eb0c35ffe056ce533cc29",
+      "name_diff" : null,
       "org_level" : 4,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Z -Crazy7-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -36130,11 +36646,13 @@
       "level" : "5",
       "lr2_bmsid" : "224134",
       "md5" : "58f58fb9aa25d1abdd90d4678578560a",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "PRICE OF LIFE (pskn-Style)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -37014,11 +37532,13 @@
       "level" : "2",
       "lr2_bmsid" : "1818",
       "md5" : "593a7ffe30aed80cb793a11ae714716d",
+      "name_diff" : null,
       "org_level" : 2,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "RAY",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -37140,11 +37660,13 @@
       "level" : "3",
       "lr2_bmsid" : "1619",
       "md5" : "5a087786a7f91a114d36a2dedc90c99d",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "blue traces [*>ω<*]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -37640,11 +38162,13 @@
       "level" : "1",
       "lr2_bmsid" : "83994",
       "md5" : "5b5b2a56526393ae893e4092068aa1cd",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "44river [nox]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/23",
@@ -37894,11 +38418,13 @@
       "level" : "0",
       "lr2_bmsid" : "205288",
       "md5" : "5bf292e20d822eca7541716e2a43a976",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "lifework [人生論]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -38010,11 +38536,13 @@
       "level" : "6",
       "lr2_bmsid" : "10939",
       "md5" : "5c02488ed7f347cf9b78398fa8982e69",
+      "name_diff" : null,
       "org_level" : 6,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "日溜りの街－あ！－ (BMS MASTER)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -38681,11 +39209,13 @@
       "level" : "4",
       "lr2_bmsid" : "28667",
       "md5" : "5d1d2af70ea6c62d360fefa8f550141f",
+      "name_diff" : null,
       "org_level" : 4,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "少女幻葬　～ Necro-Fantasy -Extra-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -38987,11 +39517,13 @@
       "level" : "3",
       "lr2_bmsid" : "1836",
       "md5" : "5dc1e3e22e4fc735f010e35f2ae77480",
+      "name_diff" : null,
       "org_level" : 23,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "%E3%83%96%E3%83%B3%E3%82%BF%E3%83%B3 ～Falling in \"B\" mix～ (EXPERT)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -40231,11 +40763,13 @@
       "level" : "1",
       "lr2_bmsid" : "99254",
       "md5" : "5ea7be57a0d2010ff66a8fcddf66b15b",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Name of oath -夢譜-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -40596,11 +41130,13 @@
       "level" : "0",
       "lr2_bmsid" : "233708",
       "md5" : "5f3fc3b6062d8374f896d18517c1fd9b",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "The Feast [狂喜乱舞]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -40775,11 +41311,13 @@
       "level" : "0",
       "lr2_bmsid" : "225711",
       "md5" : "603aae2c3681cc2562b9b53b50408c69",
+      "name_diff" : null,
       "org_level" : 20,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "硬核機動 -Assault X-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -40865,6 +41403,55 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2018/05/19",
+      "artist" : "SHIKI / selene.",
+      "comment" : "",
+      "folder" : "仝2",
+      "level" : "2",
+      "lr2_bmsid" : null,
+      "md5" : "60527567b8f589f85a3c94201632766d",
+      "name_diff" : null,
+      "org_level" : 22,
+      "org_md5" : "15bc2304858648a64d5b7b325c9421a2",
+      "org_md5s" : [
+         "15bc2304858648a64d5b7b325c9421a2",
+         "f5f5ddf8785ac7ade9981df70c05f977",
+         "064e714d2fc0e799169ec2b6107dd825",
+         "a12e4d3cf4ce5f820b237bf3d0fa8580",
+         "cc9e27423248e6ac75b9dd9d59e704cb",
+         "25ce2e85522a78ec864b45d88088452b",
+         "f0a1d4fb7013ba175ce2d7a9abb43062",
+         "c46b6d2999ebccd316d4a00c8b0d8157",
+         "29f08e78af7534c616720dfe4fcf9537",
+         "15c1b386ef01bed778c8d65479666223",
+         "5174a26d9e75b335b5b6c3b1bde11d39",
+         "70c29e5cc7459c46f585d72f7ea62cf2",
+         "3a33130f7db411f2f61311581d13dec3",
+         "3edbc8940ca812c2c784cfd8f3af227c",
+         "f2d9b85ed2641e545c85275d6e6c21df",
+         "07ca377d03a8a8b7278b0e0d7d28d935",
+         "79880207b9262e2265cde22cbf4a85be",
+         "832a7a12d7c830e0eea307250450a78f",
+         "bef16a1a78c4bcd781377d308f4a2aca",
+         "9be128d78ddb0d11be12afdaa0d97002",
+         "4ed53e38384c8d7fd2b04bb154ad5cff",
+         "c9e0aa138bd68b67e2e24d64576fcf53",
+         "8105c6cee030eb9573f4b918d649f77d",
+         "7bcec4380276ddaef4c0d522c3e14fdb",
+         "cc7fbc4ff7f01d886bd46bdd5409973d",
+         "4fd56c65e220bf8172b7cd3ff570e89c",
+         "819dc2da87d4cc8bb9d893fae0509cca",
+         "77bc22ee60b30a7adafd0ff27f097477",
+         "322ef08c16f7420069a67fb66301f93f",
+         "a3d65198f77f327b94bb86128dcb6ab0",
+         "a9b7f7af5daeada2842cd54bfb5712fa",
+         "60527567b8f589f85a3c94201632766d"
+      ],
+      "title" : "Metatron -Genocide-",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2017/10/14",
       "artist" : "Jin / sarada BGA:Ghastly Conceit",
       "comment" : "",
@@ -40904,11 +41491,13 @@
       "level" : "4",
       "lr2_bmsid" : "87143",
       "md5" : "60821574ae129f58e5147524508d8e08",
+      "name_diff" : null,
       "org_level" : 4,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Fantasmagorilla",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/01/08",
@@ -41017,11 +41606,13 @@
       "level" : "0",
       "lr2_bmsid" : "116763",
       "md5" : "60efbab48e249a45525255e1a996ee2e",
+      "name_diff" : null,
       "org_level" : 20,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "英雄 ～氷の妖精のお話～ [INFELNO]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -41400,11 +41991,13 @@
       "level" : "6",
       "lr2_bmsid" : "258097",
       "md5" : "61f98ef6779a399ac1644db1dcef6b5c",
+      "name_diff" : null,
       "org_level" : 6,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Legend of Seeker [FULL:PRO]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/04/04",
@@ -41999,6 +42592,78 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2018/05/19",
+      "artist" : "w_tre obj:他人",
+      "comment" : "",
+      "folder" : "仝0",
+      "level" : "0",
+      "lr2_bmsid" : null,
+      "md5" : "63781287275ef0636a40b392a92f5195",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "9ca6f832f8d5b85549c3129e740d1705",
+      "org_md5s" : [
+         "9ca6f832f8d5b85549c3129e740d1705",
+         "557b4da440303c0421d972876600a513",
+         "1444f6dfaa7fd802586af5b331bac1ca",
+         "010492dbce773e39992651ce11a146d5",
+         "feb2a0a1a09a16e111783dac2a28c39e",
+         "64715e5edf46723e79bed9966ea48176",
+         "9aff16b0b81b4c1345f8f9512e416a68",
+         "438ab055f0d920b181c67687cebf1cd4",
+         "c4ceee8d297a02e5d09d4e57a1cd4e7f",
+         "7593998e3f51cc48f2a26b12d6bef08b",
+         "bc1829a41352c4d71e77857cc830058d",
+         "0c4653f4c628005e3363f602c56f54c8",
+         "e2a69813b7d136b592d1fd0a5f5100f0",
+         "95d0853d4e798a6c69d3a50d6edf4c46",
+         "46502fec84f3c9765b434953614dd1dd",
+         "6886a9341c7584b7f7d3e1cf55ff7809",
+         "3d32e4256e47728d801e496a195b9868",
+         "5cfe9827cf4f066bd2c71bae69ccc3f2",
+         "63781287275ef0636a40b392a92f5195"
+      ],
+      "title" : "mom [5月の第2日曜日]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/05/19",
+      "artist" : "w_tre obj:他人",
+      "comment" : "",
+      "folder" : "仝5",
+      "level" : "5",
+      "lr2_bmsid" : null,
+      "md5" : "63781287275ef0636a40b392a92f5195",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "9ca6f832f8d5b85549c3129e740d1705",
+      "org_md5s" : [
+         "9ca6f832f8d5b85549c3129e740d1705",
+         "557b4da440303c0421d972876600a513",
+         "1444f6dfaa7fd802586af5b331bac1ca",
+         "010492dbce773e39992651ce11a146d5",
+         "feb2a0a1a09a16e111783dac2a28c39e",
+         "64715e5edf46723e79bed9966ea48176",
+         "9aff16b0b81b4c1345f8f9512e416a68",
+         "438ab055f0d920b181c67687cebf1cd4",
+         "c4ceee8d297a02e5d09d4e57a1cd4e7f",
+         "7593998e3f51cc48f2a26b12d6bef08b",
+         "bc1829a41352c4d71e77857cc830058d",
+         "0c4653f4c628005e3363f602c56f54c8",
+         "e2a69813b7d136b592d1fd0a5f5100f0",
+         "95d0853d4e798a6c69d3a50d6edf4c46",
+         "46502fec84f3c9765b434953614dd1dd",
+         "6886a9341c7584b7f7d3e1cf55ff7809",
+         "3d32e4256e47728d801e496a195b9868",
+         "5cfe9827cf4f066bd2c71bae69ccc3f2",
+         "63781287275ef0636a40b392a92f5195"
+      ],
+      "title" : "mom [5月の第2日曜日]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2017/10/14",
       "artist" : "403 ERROR / obj:LeaF Image by HEART CREATE",
       "comment" : "",
@@ -42186,11 +42851,13 @@
       "level" : "0",
       "lr2_bmsid" : "155857",
       "md5" : "63cad21224b1c23518f1f915bf4bebac",
+      "name_diff" : null,
       "org_level" : 20,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "銀の風",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/23",
@@ -42264,11 +42931,13 @@
       "level" : "6",
       "lr2_bmsid" : "75158",
       "md5" : "641c2e8205a42c3eac61eb230b4cf1d8",
+      "name_diff" : null,
       "org_level" : 6,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "BlythE:ExtenD [GORILIUM]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -42512,11 +43181,13 @@
       "level" : "2",
       "lr2_bmsid" : "191875",
       "md5" : "6460b75af6e2e0f334786456339acffb",
+      "name_diff" : null,
       "org_level" : 2,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "3amba cat [LAST BOSS]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/05",
@@ -42526,11 +43197,13 @@
       "level" : "3",
       "lr2_bmsid" : "188378",
       "md5" : "646aa89bba491e5b832dcbc778e2a91f",
+      "name_diff" : null,
       "org_level" : 23,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "YATA (超地獄級)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -43238,11 +43911,13 @@
       "level" : "0",
       "lr2_bmsid" : "105866",
       "md5" : "64fcd7f0c47f0edc6e22a8b712c7f9f2",
+      "name_diff" : null,
       "org_level" : 20,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "aballava (Clover?)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -44563,11 +45238,13 @@
       "level" : "3",
       "lr2_bmsid" : "195556",
       "md5" : "6834602609fd773b09ae846a72eb8c3c",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Toki (Sound piercer's Timesucker Remix) [SP Plus]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/23",
@@ -44733,11 +45410,13 @@
       "level" : "1",
       "lr2_bmsid" : "202869",
       "md5" : "68bdd3fcc8908895891c1752d3fce5b9",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Tacticanalyst [OhPIE]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/01/27",
@@ -44991,11 +45670,13 @@
       "level" : "1",
       "lr2_bmsid" : "75157",
       "md5" : "6938e19733164bb3b5d2bc2890305ac8",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "BlythE:ExtenD [MANIAC]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -45822,11 +46503,13 @@
       "level" : "1",
       "lr2_bmsid" : "1654",
       "md5" : "6aa7a93d4f578ba072151d4110c815fb",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "あめふりこねこ [29Another]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -46005,11 +46688,13 @@
       "level" : "4",
       "lr2_bmsid" : "15629",
       "md5" : "6b607db3717c41e13d778c83692ba66d",
+      "name_diff" : null,
       "org_level" : 4,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "日溜りの街－あ！－ (HELL)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -48128,11 +48813,13 @@
       "level" : "3",
       "lr2_bmsid" : "143763",
       "md5" : "6c8083d239d3800ded1957995ceb5b2c",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "res extensa [SABOTHER]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -48209,11 +48896,13 @@
       "level" : "2",
       "lr2_bmsid" : "126686",
       "md5" : "6cab005fa74faf889a7573c5ba51e4d0",
+      "name_diff" : null,
       "org_level" : 22,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "ロッカー -Ex-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -48324,11 +49013,13 @@
       "level" : "5",
       "lr2_bmsid" : "85865",
       "md5" : "6ceecceda5141525b2963b9dc7a906d1",
+      "name_diff" : null,
       "org_level" : 5,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Demystify Feast",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -48680,11 +49371,13 @@
       "level" : "3",
       "lr2_bmsid" : "17260",
       "md5" : "6d89a7ff8770f308b8351c6e9db8cfeb",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "F∞N",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -48802,11 +49495,13 @@
       "level" : "1",
       "lr2_bmsid" : "129902",
       "md5" : "6dacc90521213fc1c7d5de2112ae1f1e",
+      "name_diff" : null,
       "org_level" : 21,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Moon-gate [DELAYMASTER]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -48967,11 +49662,13 @@
       "level" : "3",
       "lr2_bmsid" : "112176",
       "md5" : "6e2291bffcb84d1eef743ac10aef5e49",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Deublithick (KF7)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -49526,11 +50223,13 @@
       "level" : "1",
       "lr2_bmsid" : "104878",
       "md5" : "6f4c146c25321ca7ab4c6a4f6a83bf42",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Cowardly Clime [Sin]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -49809,11 +50508,13 @@
       "level" : "1",
       "lr2_bmsid" : "90997",
       "md5" : "6fd3ccb271ddb3d18bd8e4800e81ad81",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "WAKEFULNESS [A+]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -50542,11 +51243,13 @@
       "level" : "0",
       "lr2_bmsid" : "206465",
       "md5" : "7241b09fbbc77e0e515aa65f245f95ab",
+      "name_diff" : null,
       "org_level" : 20,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Blacksphere [Black Hole]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/11/01",
@@ -50605,11 +51308,13 @@
       "level" : "4",
       "lr2_bmsid" : "153033",
       "md5" : "727ab7a4bc5995f9d4e53b0273b8e698",
+      "name_diff" : null,
       "org_level" : 4,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "撃墜-HELL AIR FORCE- [Hartmann]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -50738,6 +51443,37 @@
          "72c21935a884777402290d33c40bd3de"
       ],
       "title" : "瑠璃子-Blue Moon Mix- (満月)",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/05/19",
+      "artist" : "phantomblue / obj. laner BGA:G",
+      "comment" : "",
+      "folder" : "仝4",
+      "level" : "4",
+      "lr2_bmsid" : null,
+      "md5" : "72c6bc7a3fb300b930c4abcf908e6468",
+      "name_diff" : null,
+      "org_level" : 23,
+      "org_md5" : "e0323a054c4c256dbe0ece4bd3452c68",
+      "org_md5s" : [
+         "e0323a054c4c256dbe0ece4bd3452c68",
+         "41ff4a4eaedb8d3bb37abfb6fbc6915c",
+         "8ab2f333b45419eaaa48ce6b430f0941",
+         "e7da8f55a20703be06ee0d2df8570107",
+         "58712f843551298a1b45b6e7dfa615e1",
+         "8e6c76bbc88f5e23563f176363f36cfe",
+         "2c7af5ba983ca891c0ecc3154adc7b5a",
+         "55ec86526d42ec48c28603c4dd8b7527",
+         "5b6c21c409b6655afd8ebf3cd9ad8765",
+         "1700e9e4a508dafc762fee1fda4e7dbd",
+         "9b6925c1c260f8075168e5ae0628a230",
+         "5487d5f3e540e842b822c77fbd84ed7f",
+         "0dfa3e8be750fb6aecb3ab9f58151e11",
+         "72c6bc7a3fb300b930c4abcf908e6468"
+      ],
+      "title" : "five rhythm [lanest]",
       "url" : "",
       "url_diff" : ""
    },
@@ -51671,11 +52407,13 @@
       "level" : "0",
       "lr2_bmsid" : "87404",
       "md5" : "732abafcb87ac588b64a9be39c6deb5c",
+      "name_diff" : null,
       "org_level" : 20,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "banana man [HIMUTHER]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/04/21",
@@ -51724,11 +52462,13 @@
       "level" : "6",
       "lr2_bmsid" : "50418",
       "md5" : "73352456741f87d206fde33057d73455",
+      "name_diff" : null,
       "org_level" : 6,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "electric butterfly [7g]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/21",
@@ -52033,11 +52773,13 @@
       "level" : "4",
       "lr2_bmsid" : "162414",
       "md5" : "73d256b2f2f297582249a1509c8b6895",
+      "name_diff" : null,
       "org_level" : 4,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Extinction and reproduction [SP Plus]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -52293,11 +53035,13 @@
       "level" : "0",
       "lr2_bmsid" : "545",
       "md5" : "751738dea1169c5c39db935adfc9e85f",
+      "name_diff" : null,
       "org_level" : 20,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Air  -GOD-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/18",
@@ -52332,11 +53076,13 @@
       "level" : "99",
       "lr2_bmsid" : "178172",
       "md5" : "7530e1761bceab278a1b1ca5125e7a9b",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Imperishable Night 2006 for T+",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/04",
@@ -52346,11 +53092,13 @@
       "level" : "3",
       "lr2_bmsid" : "230068",
       "md5" : "7552096b3459173b2e3e45f042748067",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "人形楽団　 ～ Puppet Ensemble ・∀・ ～",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/05",
@@ -52360,11 +53108,13 @@
       "level" : "5",
       "lr2_bmsid" : "112095",
       "md5" : "75754e069fcbb55e903a89f175dfbbb5",
+      "name_diff" : null,
       "org_level" : 5,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "squartatrice",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -52548,11 +53298,13 @@
       "level" : "2",
       "lr2_bmsid" : "17740",
       "md5" : "75c5c9c650c21efedf28cceee1d1a286",
+      "name_diff" : null,
       "org_level" : 2,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Alastor [full density]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/05",
@@ -52562,11 +53314,13 @@
       "level" : "3",
       "lr2_bmsid" : "17740",
       "md5" : "75c5c9c650c21efedf28cceee1d1a286",
+      "name_diff" : null,
       "org_level" : 23,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Alastor [full density]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/05",
@@ -52576,11 +53330,13 @@
       "level" : "6",
       "lr2_bmsid" : "6673",
       "md5" : "75ccb3edea0e977c0b5d3c0f8670db76",
+      "name_diff" : null,
       "org_level" : 6,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "G.N.オーエンはゴリラ人間なのか？ [Gorilla Ningen]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/18",
@@ -52697,11 +53453,13 @@
       "level" : "4",
       "lr2_bmsid" : "113281",
       "md5" : "76294fd563a49f07db199057fba07013",
+      "name_diff" : null,
       "org_level" : 4,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Parousia [παρουσια]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -52727,11 +53485,13 @@
       "level" : "3",
       "lr2_bmsid" : "16890",
       "md5" : "7657195910d8b5aa0b95ab15e9169473",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Curry (舌火傷）",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/23",
@@ -53185,11 +53945,13 @@
       "level" : "1",
       "lr2_bmsid" : "179945",
       "md5" : "777a5ba64247c1cceb02555eb268164d",
+      "name_diff" : null,
       "org_level" : 21,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Artificial Rose [INFERNO]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -53252,11 +54014,13 @@
       "level" : "2",
       "lr2_bmsid" : "1734",
       "md5" : "77ab0d7b0eca8e8b1d9e84fa41fb543b",
+      "name_diff" : null,
       "org_level" : 2,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "アズアラス [Butcher]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -53593,6 +54357,38 @@
          "f4e281917921e455059a2c17c9d3cfc7"
       ],
       "title" : "volcanic -世紀末-",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/05/19",
+      "artist" : "nez obj.hex",
+      "comment" : "",
+      "folder" : "仝2",
+      "level" : "2",
+      "lr2_bmsid" : null,
+      "md5" : "7867d3bf5cc5af9289f33313eaceb2ed",
+      "name_diff" : null,
+      "org_level" : 4,
+      "org_md5" : "96bf7a4f3a0ef5ca8d5acee0f7f151fe",
+      "org_md5s" : [
+         "96bf7a4f3a0ef5ca8d5acee0f7f151fe",
+         "6a5f0ec34a4e432c34d1ac50ac6524bd",
+         "0539204e65152ecd2c41c30ee1d35784",
+         "940ffd963b95079d74a9c094dbe77c86",
+         "1c6e68d5bd1b66558e350c4697455930",
+         "95edb3f219f947c768600421e7c0a76f",
+         "c4f0c1c6ff58f70b90c5cb62212c9150",
+         "91a20cbfa92cba88795f0c1d9b303707",
+         "3f6494fae633300aeb666dbc9f87055b",
+         "360060b4a045e6cb3e002bc779d8a221",
+         "9fc3d2a25f6e30413dbdca62fcda7043",
+         "28b434d5da1910ac18a7dfe1a80da2e1",
+         "87899feb5a0a621ba5a2f75f14b19ddc",
+         "7867d3bf5cc5af9289f33313eaceb2ed",
+         "90d312100a8ef6ac66f507de5d1104c2"
+      ],
+      "title" : "That's the style!! [Hexagon]",
       "url" : "",
       "url_diff" : ""
    },
@@ -54704,11 +55500,13 @@
       "level" : "7",
       "lr2_bmsid" : "3811",
       "md5" : "799e7598d530456cb394c663dd88f590",
+      "name_diff" : null,
       "org_level" : 7,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "U9",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/05",
@@ -54718,11 +55516,13 @@
       "level" : "0",
       "lr2_bmsid" : "1125",
       "md5" : "79dc444b48299814462ff23a2bf3ab79",
+      "name_diff" : null,
       "org_level" : 20,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "ひつぎとふたご [7KEY/LUNATIC]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -54780,11 +55580,13 @@
       "level" : "1",
       "lr2_bmsid" : "96921",
       "md5" : "79efc087bbe77815aca1bb628b87266a",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Name of oath [窓Another]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -55096,11 +55898,13 @@
       "level" : "3",
       "lr2_bmsid" : "1067",
       "md5" : "7aa9437164b505cd4260955c4ce0624f",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "亡き皇女の為のセプテット -IR-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -55158,11 +55962,13 @@
       "level" : "2",
       "lr2_bmsid" : "208128",
       "md5" : "7ae4a901d2c8f438bb1673ad4cadc576",
+      "name_diff" : null,
       "org_level" : 22,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Ultimate Weapon [βφ]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -56660,11 +57466,13 @@
       "level" : "6",
       "lr2_bmsid" : "6483",
       "md5" : "7bf820e354fe9eb1aa006bd5facf0696",
+      "name_diff" : null,
       "org_level" : 6,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "メイドと血の懐中時計",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -58355,11 +59163,13 @@
       "level" : "4",
       "lr2_bmsid" : "69786",
       "md5" : "7df4a2c6ab9a8a112953140ac034c259",
+      "name_diff" : null,
       "org_level" : 4,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "BlythE:ExtenD [NIGHTMARE]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/01",
@@ -58575,11 +59385,13 @@
       "level" : "2",
       "lr2_bmsid" : "160660",
       "md5" : "7ebdaafa1f1cb1d9c079ae74f5a0b614",
+      "name_diff" : null,
       "org_level" : 2,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "VG (Radio Edit) [Hide]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -58879,11 +59691,13 @@
       "level" : "2",
       "lr2_bmsid" : "505",
       "md5" : "7fd8a87559a14d4a8d5867aae06e8864",
+      "name_diff" : null,
       "org_level" : 22,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Under The Sunshine -LUNATIC-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/04/21",
@@ -59043,11 +59857,13 @@
       "level" : "5",
       "lr2_bmsid" : "97876",
       "md5" : "8083e08068f22e193c6a2e0ab082f820",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Time files [MASTER]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -59149,11 +59965,13 @@
       "level" : "2",
       "lr2_bmsid" : "1533",
       "md5" : "8134e312f232d10c10efa2a1e34387bd",
+      "name_diff" : null,
       "org_level" : 2,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Imperishable Night 2006 for D+",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/05",
@@ -59163,11 +59981,13 @@
       "level" : "3",
       "lr2_bmsid" : "1533",
       "md5" : "8134e312f232d10c10efa2a1e34387bd",
+      "name_diff" : null,
       "org_level" : 23,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Imperishable Night 2006 for D+",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -59281,11 +60101,13 @@
       "level" : "1",
       "lr2_bmsid" : "105584",
       "md5" : "8199967dbf9ec4757b6b666e35ac8d31",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Legend of Seeker [Legend of Gorilla]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -61423,11 +62245,13 @@
       "level" : "5",
       "lr2_bmsid" : "106334",
       "md5" : "8415338dd1be9b89e9d2059920dee9eb",
+      "name_diff" : null,
       "org_level" : 5,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "人形楽団　 ～ Puppet Ensemble ・∀・ ～",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -61773,11 +62597,13 @@
       "level" : "3",
       "lr2_bmsid" : "162503",
       "md5" : "8474cc8eca6afd17f4abb9ccbfe0a34f",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "星の器～STAR OF ANDROMEDA [HELL]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/18",
@@ -62260,6 +63086,47 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2018/05/19",
+      "artist" : "五条下位＆仲村芽衣子 // movie: kagi55x obj: swa",
+      "comment" : "",
+      "folder" : "仝1",
+      "level" : "1",
+      "lr2_bmsid" : null,
+      "md5" : "85a701dee0592b8ffb31e9740e5f6bd7",
+      "name_diff" : null,
+      "org_level" : 21,
+      "org_md5" : "bc24f0bfbd4d1703f0c2b7bdb58380a6",
+      "org_md5s" : [
+         "bc24f0bfbd4d1703f0c2b7bdb58380a6",
+         "6ca30904ee9ad78d5c11466968c0d0a6",
+         "8ed0cb51333b1ddcf40bd40665968acc",
+         "1c58f683bbe8c46abb83d547d4dc1d6d",
+         "0b88deed7006d3db9ad1e9196f6852ac",
+         "e58da2c5fc2c87a1c7dc208f6fcdfbde",
+         "296bb7a6cfd25b9d6157a6ac0e467792",
+         "181cea178cf37fabbe9c41c730ed4a60",
+         "df84cff13642ddc8903fccaeb36c92f9",
+         "fbe3d621bb925acf090049be9beee326",
+         "f4bd47e37bf23f59f4939320312432f0",
+         "f08866748688b9728bb73f1faae24921",
+         "4c6910e54469c10706d83058b54cf0c9",
+         "04f5dbc7c08c101e935455153d8a3ad4",
+         "aa06c64239b3868fba58188f74f56b30",
+         "5e607068fe560a2d4e213ba2f9d6a178",
+         "32ffe494e6b48ca85c2e0df44a53b667",
+         "26b6cebf488e3256f3dcee30b4e87817",
+         "1a8b00b4738a39274a2e7873abbb697e",
+         "0a2ed0b9c9e5cca37d5af25a6c2cf88d",
+         "aed5f38cc4b2dfa2d1f80904a13cf744",
+         "13a2b42edcc86f12517074e9472799d4",
+         "d4ef28235e07ad2d3f62389624cfd0af",
+         "85a701dee0592b8ffb31e9740e5f6bd7"
+      ],
+      "title" : "fragment of tears [dilacerant]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2018/01/08",
       "artist" : "cranky / obj:sak",
       "comment" : "",
@@ -62733,11 +63600,13 @@
       "level" : "4",
       "lr2_bmsid" : "54974",
       "md5" : "86eaba3bb0b7b6a5569a323ca4e12b48",
+      "name_diff" : null,
       "org_level" : 4,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Remilia ～吸血鬼の為の協奏曲 [LUNATIC]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -63034,6 +63903,27 @@
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Fireball 「 」",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/05/19",
+      "artist" : "農民 obj.boss",
+      "comment" : "",
+      "folder" : "仝5",
+      "level" : "5",
+      "lr2_bmsid" : null,
+      "md5" : "87fcae09e13c9be280e73853a27f0800",
+      "name_diff" : null,
+      "org_level" : 25,
+      "org_md5" : "63f2c95811812e936be5c8261562f0fa",
+      "org_md5s" : [
+         "63f2c95811812e936be5c8261562f0fa",
+         "c760e61a1cda73a0c7839792cd3ff91b",
+         "ddbc507d9dbbb23c80c4724a3de7bf94",
+         "87fcae09e13c9be280e73853a27f0800"
+      ],
+      "title" : "PAIN HACKER [Bleeding]",
       "url" : "",
       "url_diff" : ""
    },
@@ -63969,11 +64859,13 @@
       "level" : "3",
       "lr2_bmsid" : "117702",
       "md5" : "8ad0e0556389b7fab8883a6fd5e1c042",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Paraclete [INFELNO]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/01",
@@ -64004,11 +64896,13 @@
       "level" : "1",
       "lr2_bmsid" : "80567",
       "md5" : "8b327890a493ead1825472d4c4f7bc79",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "水晶世界 ～Fracture～ [MANIAC]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -64381,11 +65275,13 @@
       "level" : "7",
       "lr2_bmsid" : "66754",
       "md5" : "8bd56cf7937a7d812d1f8428e40eed13",
+      "name_diff" : null,
       "org_level" : 7,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "compressed eyes -XaaaCi-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -65381,11 +66277,13 @@
       "level" : "2",
       "lr2_bmsid" : "99128",
       "md5" : "8eb9cf13719eaa8c8caf129c5d9209aa",
+      "name_diff" : null,
       "org_level" : 2,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "ディRAY",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -65546,11 +66444,13 @@
       "level" : "5",
       "lr2_bmsid" : "78310",
       "md5" : "8f2a82e4f1f3e299c5d761a4c673b9ae",
+      "name_diff" : null,
       "org_level" : 5,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "the lost dedicated [life]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -65584,11 +66484,13 @@
       "level" : "4",
       "lr2_bmsid" : "131874",
       "md5" : "8f4dc7c8237ce74eaf5740808fa89844",
+      "name_diff" : null,
       "org_level" : 4,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "G e n g a o z o - f o o n",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -66158,6 +67060,38 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2018/05/19",
+      "artist" : "nez obj.hex",
+      "comment" : "",
+      "folder" : "仝4",
+      "level" : "4",
+      "lr2_bmsid" : null,
+      "md5" : "90d312100a8ef6ac66f507de5d1104c2",
+      "name_diff" : null,
+      "org_level" : 4,
+      "org_md5" : "96bf7a4f3a0ef5ca8d5acee0f7f151fe",
+      "org_md5s" : [
+         "96bf7a4f3a0ef5ca8d5acee0f7f151fe",
+         "6a5f0ec34a4e432c34d1ac50ac6524bd",
+         "0539204e65152ecd2c41c30ee1d35784",
+         "940ffd963b95079d74a9c094dbe77c86",
+         "1c6e68d5bd1b66558e350c4697455930",
+         "95edb3f219f947c768600421e7c0a76f",
+         "c4f0c1c6ff58f70b90c5cb62212c9150",
+         "91a20cbfa92cba88795f0c1d9b303707",
+         "3f6494fae633300aeb666dbc9f87055b",
+         "360060b4a045e6cb3e002bc779d8a221",
+         "9fc3d2a25f6e30413dbdca62fcda7043",
+         "28b434d5da1910ac18a7dfe1a80da2e1",
+         "87899feb5a0a621ba5a2f75f14b19ddc",
+         "7867d3bf5cc5af9289f33313eaceb2ed",
+         "90d312100a8ef6ac66f507de5d1104c2"
+      ],
+      "title" : "That's the style!! [Super Hexagon]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2017/10/23",
       "artist" : "Lime obj : 双葉杏",
       "comment" : "",
@@ -66477,11 +67411,13 @@
       "level" : "2",
       "lr2_bmsid" : "123386",
       "md5" : "916f531e1c93e71d396741dee6ae8b39",
+      "name_diff" : null,
       "org_level" : 2,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Demystify Feast [NORMAL+]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/15",
@@ -66640,6 +67576,28 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2018/05/19",
+      "artist" : "Dachs Movie : mi / obj:otoshi.b",
+      "comment" : "",
+      "folder" : "仝5",
+      "level" : "5",
+      "lr2_bmsid" : null,
+      "md5" : "91c72bd5a5df77367c66e3cf98c6e941",
+      "name_diff" : null,
+      "org_level" : 24,
+      "org_md5" : "19e75d59b36a08b18e2c47c5698d84bb",
+      "org_md5s" : [
+         "19e75d59b36a08b18e2c47c5698d84bb",
+         "cd849cb539a742bde1b77f39ae04b736",
+         "b695053cdfe024385ee79052df3997f8",
+         "89da7362e8856c1baafe78dfeaa571fc",
+         "91c72bd5a5df77367c66e3cf98c6e941"
+      ],
+      "title" : "Kalte [Heimweh]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2017/10/14",
       "artist" : "FALL feat. yufu_sekka // obj:mute",
       "comment" : "",
@@ -66663,11 +67621,13 @@
       "level" : "5",
       "lr2_bmsid" : "18173",
       "md5" : "91cfcd10fed566c44ec125987b20dde2",
+      "name_diff" : null,
       "org_level" : 5,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Blue-White Crazybits [WC-Washlet]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -67063,11 +68023,13 @@
       "level" : "2",
       "lr2_bmsid" : "110557",
       "md5" : "92892e7a9f81773b4bf25b8db1c98cac",
+      "name_diff" : null,
       "org_level" : 22,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Apollo -Mare Tranquillitatis-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/05",
@@ -67077,11 +68039,13 @@
       "level" : "1",
       "lr2_bmsid" : "9390",
       "md5" : "928f2942dcedd1163bce24e4bf894b2d",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Xecus -ecstasy-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -67146,11 +68110,13 @@
       "level" : "2",
       "lr2_bmsid" : "199568",
       "md5" : "932f64cf3bc9f5acbda995bfae6e6b5b",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Last Battle-T260G-[Alther]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/01",
@@ -67207,11 +68173,13 @@
       "level" : "5",
       "lr2_bmsid" : "13279",
       "md5" : "9345c0d30160bb11cda99dc86e487fb1",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "ZEUS for technician",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/18",
@@ -67537,11 +68505,13 @@
       "level" : "3",
       "lr2_bmsid" : "201742",
       "md5" : "93d1ae76a2c0d2988f9867eec3cc5268",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "L.D.2013 [KNOTHER]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -68147,11 +69117,13 @@
       "level" : "1",
       "lr2_bmsid" : "190021",
       "md5" : "95ca00d705648b926d406e39e87c887d",
+      "name_diff" : null,
       "org_level" : 21,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "iterated [INFINITE]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -68177,11 +69149,13 @@
       "level" : "6",
       "lr2_bmsid" : "258478",
       "md5" : "95e7dcaadc337bed376ef77ea220983e",
+      "name_diff" : null,
       "org_level" : 6,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "FREEDOM DiVE [FOUR DIMENSIONS:MAS]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/05",
@@ -68191,11 +69165,13 @@
       "level" : "2",
       "lr2_bmsid" : "115693",
       "md5" : "95e9a9b9dfb97ea0d314632cc52e8a0f",
+      "name_diff" : null,
       "org_level" : 2,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "円環の理 [Side:A]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -68261,11 +69237,13 @@
       "level" : "2",
       "lr2_bmsid" : "143772",
       "md5" : "960d994d0f433ba8c1806f6cb442b9ea",
+      "name_diff" : null,
       "org_level" : 22,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "dreamin' -happycore version - [INFERNO]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -68363,11 +69341,13 @@
       "level" : "0",
       "lr2_bmsid" : "141582",
       "md5" : "964f90e176afbe94daf736499f052e88",
+      "name_diff" : null,
       "org_level" : 20,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "あなた -EX-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -68673,11 +69653,13 @@
       "level" : "0",
       "lr2_bmsid" : "126278",
       "md5" : "96641e3e89ca6c61b1882ebf04ab4ad1",
+      "name_diff" : null,
       "org_level" : 20,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Ophelia [INFELNO]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -68759,11 +69741,13 @@
       "level" : "4",
       "lr2_bmsid" : "28461",
       "md5" : "96a1536917e1f7f12a85d3dd7eb64932",
+      "name_diff" : null,
       "org_level" : 4,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Angelic layer 名人",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -70174,11 +71158,13 @@
       "level" : "2",
       "lr2_bmsid" : "105828",
       "md5" : "991d27eeac91214a9700dfbffba78210",
+      "name_diff" : null,
       "org_level" : 2,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "冥界帰航 (GOD)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/03/30",
@@ -70233,11 +71219,13 @@
       "level" : "3",
       "lr2_bmsid" : "198343",
       "md5" : "9926f0c39f96d31f6ff77a40a2737925",
+      "name_diff" : null,
       "org_level" : 23,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Aragami [ULTIMATE BEAM]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/05",
@@ -70247,11 +71235,13 @@
       "level" : "0",
       "lr2_bmsid" : "546",
       "md5" : "993b15d873cde2232c04b4f35a100e81",
+      "name_diff" : null,
       "org_level" : 20,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "稲田姫様ご乱心 <bms edit> -Lunatic7-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -71463,11 +72453,13 @@
       "level" : "5",
       "lr2_bmsid" : "141200",
       "md5" : "9c4bd1df00984d7b3593b5d669cffc26",
+      "name_diff" : null,
       "org_level" : 5,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "ShootingStar",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -71723,11 +72715,13 @@
       "level" : "4",
       "lr2_bmsid" : "92263",
       "md5" : "9cbc458fa3247e7d2c035dfe72fe73c0",
+      "name_diff" : null,
       "org_level" : 4,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Xecus PLUS+",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -72232,11 +73226,13 @@
       "level" : "3",
       "lr2_bmsid" : "2156",
       "md5" : "9dc47ce3ec62730288fb5a3746d0b5f1",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "エピトゥリカの祀 [29Another]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/03/19",
@@ -72574,6 +73570,28 @@
          "8b30bc425131398877be6e6ff8966a7f"
       ],
       "title" : "Final of PuyoPuyo [ばよえ～ん！ばよえ～ん！]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/05/19",
+      "artist" : "Sakamiya obj:VINYL",
+      "comment" : "",
+      "folder" : "仝3",
+      "level" : "3",
+      "lr2_bmsid" : null,
+      "md5" : "9e942caf48bec75c77ca736e138d9ce6",
+      "name_diff" : null,
+      "org_level" : 23,
+      "org_md5" : "efed320d3a20c4faf6d805c99bf3b940",
+      "org_md5s" : [
+         "efed320d3a20c4faf6d805c99bf3b940",
+         "be663f70f5be4e005b55c9ea6b15cdf1",
+         "7608b1665a8692ab8ea1c173d7ad4baa",
+         "4c7fedd1e66de051730e427006099330",
+         "9e942caf48bec75c77ca736e138d9ce6"
+      ],
+      "title" : "Valkyrie Revolutia [EXTRA]",
       "url" : "",
       "url_diff" : ""
    },
@@ -73275,11 +74293,13 @@
       "level" : "4",
       "lr2_bmsid" : "83995",
       "md5" : "9ff70c1c66c9bd9377a799fb87115d82",
+      "name_diff" : null,
       "org_level" : 4,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "44river [fatal]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -73352,11 +74372,13 @@
       "level" : "7",
       "lr2_bmsid" : "165706",
       "md5" : "a031d8aadb4461849bca0efd76bf3a70",
+      "name_diff" : null,
       "org_level" : 11,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "G e n g a o z o - A L L K E Y S -",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -74106,6 +75128,31 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2018/05/19",
+      "artist" : "punchhh / obj. Tristan97",
+      "comment" : "",
+      "folder" : "仝1",
+      "level" : "1",
+      "lr2_bmsid" : null,
+      "md5" : "a246e312cf1d00180c4def6cbc1b99b0",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "b6f635f6986a8ac6627accd79332df4d",
+      "org_md5s" : [
+         "b6f635f6986a8ac6627accd79332df4d",
+         "e7c09d9711c8b999742fc6341284e625",
+         "0e6d984e90832dbba6c681f5a3b932f8",
+         "4eeb12b59b788df52bb4573645bc8a99",
+         "8870c7bd945708cde4869517110d126f",
+         "cbf27c8fbbbc241479f1a8e91b76bbfb",
+         "3e2780f2671b7740bd26dd0c27cbb025",
+         "a246e312cf1d00180c4def6cbc1b99b0"
+      ],
+      "title" : "the scenery [Magical]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2017/10/14",
       "artist" : "BACO / bga : kody / SHOT-U",
       "comment" : "",
@@ -74418,11 +75465,13 @@
       "level" : "3",
       "lr2_bmsid" : "1552",
       "md5" : "a2bcbceaccf8d9642e8b62723940590e",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "人形裁判　～ 人の形弄びし少女 -EXTRA-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -75058,11 +76107,13 @@
       "level" : "2",
       "lr2_bmsid" : "71236",
       "md5" : "a464acfdda743cf8ddf234c88c07ddbf",
+      "name_diff" : null,
       "org_level" : 2,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "モリオンの姫 [ゴリオンの王]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -75149,11 +76200,13 @@
       "level" : "3",
       "lr2_bmsid" : "77",
       "md5" : "a4a9c721a726435eaf37b62b1768b4e1",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "★LittlE HearTs★(GOD)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -75379,6 +76432,29 @@
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "YO-KAI Drop -Dddddddddddddddddddeath-",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/05/19",
+      "artist" : "Crimsona obj.7zs",
+      "comment" : "",
+      "folder" : "仝3",
+      "level" : "3",
+      "lr2_bmsid" : null,
+      "md5" : "a539d62a700fe779dc528a99d320dad2",
+      "name_diff" : null,
+      "org_level" : 23,
+      "org_md5" : "13d83f5922f097d743320643bdfdfc9a",
+      "org_md5s" : [
+         "13d83f5922f097d743320643bdfdfc9a",
+         "ebc3c8f9ae8d64a15e1e99c00a2d9c1d",
+         "413f7ba663145dd7fc0e4422c9247d55",
+         "ce48fdb800dab17b396de1995d44264f",
+         "7ae3d2d7314e5e404e543ef4d9a4add2",
+         "a539d62a700fe779dc528a99d320dad2"
+      ],
+      "title" : "Hyper Fiber World Spectrum [Exotic Ethnic]",
       "url" : "",
       "url_diff" : ""
    },
@@ -75917,11 +76993,13 @@
       "level" : "4",
       "lr2_bmsid" : "15210",
       "md5" : "a6643da4f1655244111aafbf99c1d83e",
+      "name_diff" : null,
       "org_level" : 4,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "unquenchable (*>ω<*)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -76188,11 +77266,13 @@
       "level" : "1",
       "lr2_bmsid" : "14456",
       "md5" : "a6f79caa5d7a149fc798b7bf55621094",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Merry Christmas Mr.butanic",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/04/04",
@@ -76585,11 +77665,13 @@
       "level" : "3",
       "lr2_bmsid" : "62282",
       "md5" : "a83b9435a888df3eaaa7ab6236ae789c",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "NS18 [7key ksk]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -76693,7 +77775,8 @@
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Ascension to Heaven -maniaxi-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -77059,11 +78142,13 @@
       "level" : "0",
       "lr2_bmsid" : "68047",
       "md5" : "a989801931b5e3172a2bd50401c10eec",
+      "name_diff" : null,
       "org_level" : 20,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "モリオンの姫 [yumether]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/18",
@@ -77841,11 +78926,13 @@
       "level" : "1",
       "lr2_bmsid" : "206416",
       "md5" : "ab91b5085d9ba78312fd40802ab52534",
+      "name_diff" : null,
       "org_level" : 21,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "witchcraft -Ultima-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -77913,11 +79000,13 @@
       "level" : "0",
       "lr2_bmsid" : "22337",
       "md5" : "ac10def001390f4a64ce4ec477babee8",
+      "name_diff" : null,
       "org_level" : 20,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Ruriko FINAL (LUNATIC)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -77943,11 +79032,13 @@
       "level" : "5",
       "lr2_bmsid" : "9378",
       "md5" : "ac1228ba3c377c984014cf5d6c56f0a7",
+      "name_diff" : null,
       "org_level" : 5,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "ひつぎとふたご (´；ω；｀)ぶわっ",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -78028,11 +79119,13 @@
       "level" : "4",
       "lr2_bmsid" : "82",
       "md5" : "ac29456828fbd27bb27bd99d52a666c4",
+      "name_diff" : null,
       "org_level" : 4,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "P.S : Plasma Strike - LAST BOSS -",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -78474,11 +79567,13 @@
       "level" : "6",
       "lr2_bmsid" : "83968",
       "md5" : "ad78b1a00de468de846ee0bf44670f32",
+      "name_diff" : null,
       "org_level" : 6,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Le Vol du bourdon",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/23",
@@ -78604,11 +79699,13 @@
       "level" : "4",
       "lr2_bmsid" : "15519",
       "md5" : "adc8062565ea3b203d5953d86c637d1d",
+      "name_diff" : null,
       "org_level" : 4,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Heart To Heart -collect sky blue- [S-KF]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/28",
@@ -79078,6 +80175,28 @@
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "PEACE BREAKER [DOUBLEvPEACEv]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/05/19",
+      "artist" : "P4koo /obj : LindBlum",
+      "comment" : "",
+      "folder" : "仝3",
+      "level" : "3",
+      "lr2_bmsid" : null,
+      "md5" : "aec99dbb869464bf3500dad322f24c54",
+      "name_diff" : null,
+      "org_level" : 23,
+      "org_md5" : "f17846602ca9f0b7bf2c6486a2734aa8",
+      "org_md5s" : [
+         "f17846602ca9f0b7bf2c6486a2734aa8",
+         "a044243aa126da1bdc4d4bc3ae3457c8",
+         "587bb49cc57a319210d1ddca4af0ebfe",
+         "e3dfd9f62e2da6233836e6628c9bba6a",
+         "aec99dbb869464bf3500dad322f24c54"
+      ],
+      "title" : "PLUS+INFINITY -Metamorphose-",
       "url" : "",
       "url_diff" : ""
    },
@@ -80316,11 +81435,13 @@
       "level" : "3",
       "lr2_bmsid" : "114863",
       "md5" : "b1599974bc31ef91665e94e33921b025",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Parousia [HEAVEN]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -80370,11 +81491,13 @@
       "level" : "3",
       "lr2_bmsid" : "203415",
       "md5" : "b19237f74be75d7197d8f88c847728a3",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Stargaze [TOKITHER]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -80948,11 +82071,13 @@
       "level" : "3",
       "lr2_bmsid" : "106958",
       "md5" : "b3125dad9faddd06386110933be53143",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Gun to Childhead",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/21",
@@ -82598,11 +83723,13 @@
       "level" : "1",
       "lr2_bmsid" : "183507",
       "md5" : "b47abfd03ddffcd78a1943d2c400ef1a",
+      "name_diff" : null,
       "org_level" : 21,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Singing of Night birds [HEAVEN]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/05",
@@ -84608,11 +85735,13 @@
       "level" : "3",
       "lr2_bmsid" : "72602",
       "md5" : "b76485e4f2384bba2d1326c50b87e13f",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "sunlight storm",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -85511,11 +86640,13 @@
       "level" : "5",
       "lr2_bmsid" : "71914",
       "md5" : "ba0777ae0296b84cf35e8016dacdada5",
+      "name_diff" : null,
       "org_level" : 5,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "千年女王 [SHD]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/23",
@@ -85908,11 +87039,13 @@
       "level" : "1",
       "lr2_bmsid" : "1819",
       "md5" : "ba9d6967e0c9d9bbe30f6e8beabfc4f2",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Revenger [(^^)EXTRA]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -86071,11 +87204,13 @@
       "level" : "0",
       "lr2_bmsid" : "1785",
       "md5" : "bb039ac3a3d097d69569f44e0ac80b09",
+      "name_diff" : null,
       "org_level" : 20,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "ＤＱⅢ　Battle -Another-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -86422,6 +87557,27 @@
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "squartatrice -GOD-",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/05/19",
+      "artist" : "-45 / obj : cieu",
+      "comment" : "",
+      "folder" : "仝4",
+      "level" : "4",
+      "lr2_bmsid" : null,
+      "md5" : "bbe671f5588cd5ad8c85bd0284d43af8",
+      "name_diff" : null,
+      "org_level" : 25,
+      "org_md5" : "9ff70c1c66c9bd9377a799fb87115d82",
+      "org_md5s" : [
+         "9ff70c1c66c9bd9377a799fb87115d82",
+         "07feb4188b64d4dfed7dbc090c709f87",
+         "ba0bfcf585ffdfd700b74b3fde807fdc",
+         "bbe671f5588cd5ad8c85bd0284d43af8"
+      ],
+      "title" : "44river [fatal short]",
       "url" : "",
       "url_diff" : ""
    },
@@ -86810,11 +87966,13 @@
       "level" : "0",
       "lr2_bmsid" : "144507",
       "md5" : "bcd078c49adee918e2cc2260f912be19",
+      "name_diff" : null,
       "org_level" : 20,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Rewinding Sound Wave -sugarless-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -87044,11 +88202,13 @@
       "level" : "1",
       "lr2_bmsid" : "224794",
       "md5" : "bda8cb9c0bc624fb90082b30332ec2f4",
+      "name_diff" : null,
       "org_level" : 21,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "永劫の沙漏 -Permanent+-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -87114,11 +88274,13 @@
       "level" : "2",
       "lr2_bmsid" : "174866",
       "md5" : "bdb04337e3ad5da43ca2f1eb7b8150af",
+      "name_diff" : null,
       "org_level" : 2,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "fragmentation [≡]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/23",
@@ -87324,7 +88486,8 @@
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "lest (FUNERAL)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -88609,11 +89772,13 @@
       "level" : "7",
       "lr2_bmsid" : "128096",
       "md5" : "c1d01da48460429dcc8cc4f58f712427",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Long9999999999999^99999999999",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/04",
@@ -88623,11 +89788,13 @@
       "level" : "3",
       "lr2_bmsid" : "225347",
       "md5" : "c1e2f199e1cc2e9fb4c8e68adcd11e39",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "D0nt Sink Feer [Golinther]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/04",
@@ -88637,11 +89804,13 @@
       "level" : "4",
       "lr2_bmsid" : "225347",
       "md5" : "c1e2f199e1cc2e9fb4c8e68adcd11e39",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "D0nt Sink Feer [Golinther]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -89117,11 +90286,13 @@
       "level" : "1",
       "lr2_bmsid" : "",
       "md5" : "c30a75fe5ca649243bdee4ef642f59a2",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "HIDDEN, TRACK, CALLED 'No.II' [バラバラ]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/21",
@@ -89167,11 +90338,13 @@
       "level" : "4",
       "lr2_bmsid" : "61329",
       "md5" : "c32eb7d3731941ed98b1d0885b13cb7c",
+      "name_diff" : null,
       "org_level" : 4,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Karakuri Plum -Kuso-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -89324,11 +90497,13 @@
       "level" : "1",
       "lr2_bmsid" : "1336",
       "md5" : "c3a22c5b77f1b692b3ec6b5c04c9fe51",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "SunnyShinyRing -For Expert-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/05",
@@ -89338,11 +90513,13 @@
       "level" : "4",
       "lr2_bmsid" : "96711",
       "md5" : "c3da564eb186728c013a62b66be6e46c",
+      "name_diff" : null,
       "org_level" : 4,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "もっと！Central DELAY",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -89588,11 +90765,13 @@
       "level" : "5",
       "lr2_bmsid" : "1031",
       "md5" : "c46a81cb184f5a804c119930d6eba748",
+      "name_diff" : null,
       "org_level" : 5,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "FREEDOM DiVE  [FOUR DIMENSIONS]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/21",
@@ -89916,11 +91095,13 @@
       "level" : "0",
       "lr2_bmsid" : "984",
       "md5" : "c569481923194f107186148d48584351",
+      "name_diff" : null,
       "org_level" : 0,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "人　身　事　故　で　停　止",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -90174,11 +91355,13 @@
       "level" : "5",
       "lr2_bmsid" : "52407",
       "md5" : "c65d0badebb7738e350022a59a1f0637",
+      "name_diff" : null,
       "org_level" : 5,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "End Time  [賢者タイム]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/04",
@@ -90188,11 +91371,13 @@
       "level" : "3",
       "lr2_bmsid" : "123650",
       "md5" : "c66769497bcde91be83a37c7482940da",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "CmonAndDanceWithMe -mania9m-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/23",
@@ -90239,11 +91424,13 @@
       "level" : "1",
       "lr2_bmsid" : "1578",
       "md5" : "c67ba013af164f2cdec7c8c98c90d8f5",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Cynic (THE another)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -90317,11 +91504,13 @@
       "level" : "2",
       "lr2_bmsid" : "117402",
       "md5" : "c6c3021134801b842f588108192e3fd9",
+      "name_diff" : null,
       "org_level" : 2,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "The Lamia 170 [INFELNO]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -90496,11 +91685,13 @@
       "level" : "1",
       "lr2_bmsid" : "131871",
       "md5" : "c73bdb3e4bb30bf452998c1fb76cedac",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "四十五年ノ雪桜 [EX]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/05",
@@ -90510,11 +91701,13 @@
       "level" : "2",
       "lr2_bmsid" : "131871",
       "md5" : "c73bdb3e4bb30bf452998c1fb76cedac",
+      "name_diff" : null,
       "org_level" : 22,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "四十五年ノ雪桜 [EX]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -90640,11 +91833,13 @@
       "level" : "3",
       "lr2_bmsid" : "17273",
       "md5" : "c79c3e7a184404225c13df046d5586d7",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "パガニーニによる超絶技巧練習曲 S140 3番「ラ・カンパネラ」　変イ短調",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -90963,11 +92158,13 @@
       "level" : "1",
       "lr2_bmsid" : "219832",
       "md5" : "c82b7bb2ae99dc1a2a1dcc6b122542d7",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Amphisbaena [Pwnable]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -92486,6 +93683,25 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2018/05/19",
+      "artist" : "parakeet 41 / obj. laner BGA:Is-m",
+      "comment" : "",
+      "folder" : "仝4",
+      "level" : "4",
+      "lr2_bmsid" : null,
+      "md5" : "cbe682edbde931cc4eb176932eea95ce",
+      "name_diff" : null,
+      "org_level" : 23,
+      "org_md5" : "66154a2482a100ea0d4debd25323cc82",
+      "org_md5s" : [
+         "66154a2482a100ea0d4debd25323cc82",
+         "cbe682edbde931cc4eb176932eea95ce"
+      ],
+      "title" : "night tear [outburst]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2017/10/14",
       "artist" : "Est/obj fff",
       "comment" : "",
@@ -92509,11 +93725,13 @@
       "level" : "1",
       "lr2_bmsid" : "116095",
       "md5" : "cbfee23392ad22638ff24b9905c42ffb",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "ETERNAL DRAIN (ETERNAL DELAYMASTER)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -93131,11 +94349,13 @@
       "level" : "0",
       "lr2_bmsid" : "80699",
       "md5" : "cd24fd54b865c744428da2513643dd8d",
+      "name_diff" : null,
       "org_level" : 20,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "水晶世界 ～Fracture～ [yumether]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -93433,6 +94653,29 @@
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Quickening 2 the RED [Hi]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/05/19",
+      "artist" : "TamaDo obj.hex",
+      "comment" : "",
+      "folder" : "仝2",
+      "level" : "2",
+      "lr2_bmsid" : null,
+      "md5" : "ce580b56e63cf1667bec9b975911e358",
+      "name_diff" : null,
+      "org_level" : 2,
+      "org_md5" : "91000060a5131c0f4cbd78c840336ff6",
+      "org_md5s" : [
+         "91000060a5131c0f4cbd78c840336ff6",
+         "cdc9994bc2b0c89efbb4796d4293612d",
+         "7870515b8eb320e495f8609b5a1b91a9",
+         "3c877a5b11404e56a2c7e5c8e24b5aad",
+         "40544c50a20c119450b3838215b0546e",
+         "ce580b56e63cf1667bec9b975911e358"
+      ],
+      "title" : "雨 [Hexagon]",
       "url" : "",
       "url_diff" : ""
    },
@@ -93786,11 +95029,13 @@
       "level" : "4",
       "lr2_bmsid" : "89420",
       "md5" : "cf41e5c3935f54cbe8e5b70833b73ec9",
+      "name_diff" : null,
       "org_level" : 4,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "GoRilLaTic Dream",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/05",
@@ -93800,11 +95045,13 @@
       "level" : "3",
       "lr2_bmsid" : "183925",
       "md5" : "cf7b23d82b7464c4e9aec5cf94838e86",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "HAELEQUIN [monather]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -94858,11 +96105,13 @@
       "level" : "2",
       "lr2_bmsid" : "161521",
       "md5" : "d23a2e7dcf07ed2742477f09e50e1bf3",
+      "name_diff" : null,
       "org_level" : 22,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Happico Happico -mundanity-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/05",
@@ -94872,11 +96121,13 @@
       "level" : "2",
       "lr2_bmsid" : "179299",
       "md5" : "d24c00ac2c711cf34d5421c48de79ef4",
+      "name_diff" : null,
       "org_level" : 2,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Sunny☆girL [むっかぁぁぁぁ！！]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/18",
@@ -95446,11 +96697,13 @@
       "level" : "2",
       "lr2_bmsid" : "209724",
       "md5" : "d32cd838b2cac0d369f00268e8243aed",
+      "name_diff" : null,
       "org_level" : 2,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Quickening 2 the RED ＾＾",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -95520,11 +96773,13 @@
       "level" : "1",
       "lr2_bmsid" : "77283",
       "md5" : "d36e27c5895caa1d3647ad1454e0dd29",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "SAMBISTA[皿]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -96655,11 +97910,13 @@
       "level" : "3",
       "lr2_bmsid" : "37822",
       "md5" : "d68f92b4205aa2313dcc73245624a1d2",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "DTD Emperor [鬼]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -96690,7 +97947,8 @@
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "多重極展開[yumether]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -96971,11 +98229,13 @@
       "level" : "1",
       "lr2_bmsid" : "187042",
       "md5" : "d7d2e57e1de315927ca7d8aea8ecd555",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Le Specimen d'un Papillon (7標本)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -97310,11 +98570,13 @@
       "level" : "4",
       "lr2_bmsid" : "183690",
       "md5" : "d8d3ae6de1aecb5975e60b15041567dc",
+      "name_diff" : null,
       "org_level" : 4,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "年中夢中な好奇心 [24時間年中無休]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -97377,11 +98639,13 @@
       "level" : "5",
       "lr2_bmsid" : "11169",
       "md5" : "d900e30bdfadb80b32cf6dd1b2754bc2",
+      "name_diff" : null,
       "org_level" : 5,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "日溜りの街－あ！－ (GOD)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/11/23",
@@ -97937,11 +99201,13 @@
       "level" : "3",
       "lr2_bmsid" : "251290",
       "md5" : "daa48ea783515359ad31bb6a8f6b01a9",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Brave My Soul",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/05",
@@ -97951,11 +99217,13 @@
       "level" : "5",
       "lr2_bmsid" : "87134",
       "md5" : "dabc6c70ca4dac9f0060a17a9218a1af",
+      "name_diff" : null,
       "org_level" : 5,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "duty [free]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/28",
@@ -98527,11 +99795,13 @@
       "level" : "3",
       "lr2_bmsid" : "182643",
       "md5" : "dbf4b5e2b82eb6162013a30f0252ba22",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Etude for the Sinners [^p^]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -98865,11 +100135,13 @@
       "level" : "0",
       "lr2_bmsid" : "125742",
       "md5" : "dcf3d946cbc402dec08871b115225c46",
+      "name_diff" : null,
       "org_level" : 20,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "彼女の言い分 -ﾋﾟｺﾋﾟｺedit-[INFELNO]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/11/23",
@@ -98943,11 +100215,13 @@
       "level" : "7",
       "lr2_bmsid" : "71917",
       "md5" : "dd6a670c77100e514c8d159182cfe587",
+      "name_diff" : null,
       "org_level" : 7,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "L.D.",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -98983,11 +100257,13 @@
       "level" : "2",
       "lr2_bmsid" : "15238",
       "md5" : "dd91b904ad91da3fa9fcec176f0319fe",
+      "name_diff" : null,
       "org_level" : 2,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "稲田姫様に叱られるから　 (LUNATIC)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -99298,11 +100574,13 @@
       "level" : "6",
       "lr2_bmsid" : "5367",
       "md5" : "de6240bb00c79b4814efc0d9e283209b",
+      "name_diff" : null,
       "org_level" : 6,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "LivedaM(Evil7)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -99390,11 +100668,13 @@
       "level" : "3",
       "lr2_bmsid" : "131872",
       "md5" : "dea6f20c24aabc0984b4a3f66f997ee3",
+      "name_diff" : null,
       "org_level" : 23,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "AutumnBreeze (kei-unmeansured)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/23",
@@ -100824,11 +102104,13 @@
       "level" : "99",
       "lr2_bmsid" : "",
       "md5" : "e162e7217109fc420ba2b735bcf25bb9",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Ascension to Heaven -613Another-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/02/28",
@@ -101251,11 +102533,13 @@
       "level" : "1",
       "lr2_bmsid" : "132902",
       "md5" : "e27f3374832a4df86582520183342245",
+      "name_diff" : null,
       "org_level" : 21,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "カラフル・サウンズ・カッター (EX)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/05",
@@ -101265,11 +102549,13 @@
       "level" : "5",
       "lr2_bmsid" : "8182",
       "md5" : "e296f891f7869d64c95dc8f5fd05dc5c",
+      "name_diff" : null,
       "org_level" : 5,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "G.N. [A]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -102301,11 +103587,13 @@
       "level" : "2",
       "lr2_bmsid" : "197987",
       "md5" : "e58e3f718d089ec37caa0f2c7149a54b",
+      "name_diff" : null,
       "org_level" : 22,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Altale [Mirage]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -102414,11 +103702,13 @@
       "level" : "3",
       "lr2_bmsid" : "142710",
       "md5" : "e5d71ddb6aa7e626eb773be94ac0f92f",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Arcanum Guardian [EX]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -103042,11 +104332,13 @@
       "level" : "1",
       "lr2_bmsid" : "96145",
       "md5" : "e6be97eebfbde50085d4d3b8509b63aa",
+      "name_diff" : null,
       "org_level" : 21,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Love & Justice [EXTREME]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/23",
@@ -103672,11 +104964,13 @@
       "level" : "2",
       "lr2_bmsid" : "240706",
       "md5" : "e862d41db4532275e322327fed6909cc",
+      "name_diff" : null,
       "org_level" : 22,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Black Lotus [PING]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/18",
@@ -104118,6 +105412,7 @@
       "level" : "2",
       "lr2_bmsid" : "256225",
       "md5" : "ea0c7ca0e5272b82b91cfbd7f006f388",
+      "name_diff" : null,
       "org_level" : 2,
       "org_md5" : "",
       "org_md5s" : [],
@@ -104185,11 +105480,13 @@
       "level" : "3",
       "lr2_bmsid" : "113550",
       "md5" : "ea6bac60d6062a3b2bf160a38b98d6eb",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "congolict",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/05",
@@ -104199,11 +105496,13 @@
       "level" : "0",
       "lr2_bmsid" : "176759",
       "md5" : "ea7096cd8a20ad7c12c0802c898188cf",
+      "name_diff" : null,
       "org_level" : 20,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "乙女ノススメ！ (EX)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -104903,11 +106202,13 @@
       "level" : "1",
       "lr2_bmsid" : "1807",
       "md5" : "ec056512be0b6770e4ec0ebc8744ef3a",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "MooN -SP NIGHTMARE-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -105860,11 +107161,13 @@
       "level" : "5",
       "lr2_bmsid" : "65205",
       "md5" : "ede8adc3386ba97ecaed8431192b3dd2",
+      "name_diff" : null,
       "org_level" : 5,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Lucifuge Rofocale [ω＝＝э]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/12/25",
@@ -105965,11 +107268,13 @@
       "level" : "7",
       "lr2_bmsid" : "77319",
       "md5" : "ee67facb8fadc96e9383a1a530f1fe54",
+      "name_diff" : null,
       "org_level" : 7,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Last Battle-T260G-[ORETIC-2]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -106340,11 +107645,13 @@
       "level" : "0",
       "lr2_bmsid" : "177355",
       "md5" : "eeec3f7659ee455f94e40a1f12645e4e",
+      "name_diff" : null,
       "org_level" : 20,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Lewisia",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -107191,11 +108498,13 @@
       "level" : "5",
       "lr2_bmsid" : "253643",
       "md5" : "f0a5b422db1cc105403780c032c4e6eb",
+      "name_diff" : null,
       "org_level" : 5,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Emptiness",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -107551,6 +108860,29 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2018/05/19",
+      "artist" : "LiA / obj. laner",
+      "comment" : "",
+      "folder" : "仝4",
+      "level" : "4",
+      "lr2_bmsid" : null,
+      "md5" : "f16a6870feae1ffca0650ec23c62b25d",
+      "name_diff" : null,
+      "org_level" : 3,
+      "org_md5" : "a571a6cbbcceab0207556bef782a03b5",
+      "org_md5s" : [
+         "a571a6cbbcceab0207556bef782a03b5",
+         "8ade690083de7a7f4d1f2d906d213ffb",
+         "e917ee30ee8527d46872e9d83abb4741",
+         "ed63dc6cbda002e2a488d072d251ae48",
+         "3323f860b2a8c59ef34bdf13a72dbb1b",
+         "f16a6870feae1ffca0650ec23c62b25d"
+      ],
+      "title" : "DIADRA [for whale]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2017/10/14",
       "artist" : "NISR",
       "comment" : "",
@@ -107574,11 +108906,13 @@
       "level" : "3",
       "lr2_bmsid" : "130755",
       "md5" : "f1f2531b22f396117bd5bfc05ec6db2e",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "NESARIA -MIRACLE☆-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/05",
@@ -107588,11 +108922,13 @@
       "level" : "3",
       "lr2_bmsid" : "185560",
       "md5" : "f20bd075359761847491c712c3397a53",
+      "name_diff" : null,
       "org_level" : 3,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "EOS -EchinOidS♪ Delay-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/04",
@@ -107602,11 +108938,13 @@
       "level" : "0",
       "lr2_bmsid" : "",
       "md5" : "f26043d15019e00361708b7ebf08f444",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Total Eclipse of the Sun -Anton Raid-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -108313,11 +109651,13 @@
       "level" : "2",
       "lr2_bmsid" : "76551",
       "md5" : "f3b5befffd5b4bb1177ba91091e72307",
+      "name_diff" : null,
       "org_level" : 2,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Central DELAY",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/11/18",
@@ -108861,11 +110201,13 @@
       "level" : "6",
       "lr2_bmsid" : "77513",
       "md5" : "f5ba65cc6c12701860ed358419879e12",
+      "name_diff" : null,
       "org_level" : 6,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "End Time  [TechnoBreak]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -110434,11 +111776,13 @@
       "level" : "4",
       "lr2_bmsid" : "191701",
       "md5" : "f9c0ae20fa204404f4c725c9255eb2a0",
+      "name_diff" : null,
       "org_level" : 4,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Groovin Groovin!! (=ω=)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -110933,11 +112277,13 @@
       "level" : "1",
       "lr2_bmsid" : "196109",
       "md5" : "faab1fb9c88fd164a1f4a40150c37b70",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Curry (英国式)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -111010,11 +112356,13 @@
       "level" : "1",
       "lr2_bmsid" : "5700",
       "md5" : "fad6820e676a64dc7fe16dca0dac95dd",
+      "name_diff" : null,
       "org_level" : 1,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "sensitive -IR-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -111123,11 +112471,13 @@
       "level" : "2",
       "lr2_bmsid" : "27331",
       "md5" : "fb311b248584d57fbff14299d8dcfd47",
+      "name_diff" : null,
       "org_level" : 2,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "夢人形 -SP NIGHTMARE-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/05/05",
@@ -111137,11 +112487,13 @@
       "level" : "4",
       "lr2_bmsid" : "84313",
       "md5" : "fb393a2814927adc80fba6fcb75b4718",
+      "name_diff" : null,
       "org_level" : 4,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Mokotans [LastSpell]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -111184,11 +112536,13 @@
       "level" : "4",
       "lr2_bmsid" : "16429",
       "md5" : "fb7a747a5115a4a4739397d17ccb26bb",
+      "name_diff" : null,
       "org_level" : 4,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Angel dust -Abyss-",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -111238,11 +112592,13 @@
       "level" : "2",
       "lr2_bmsid" : "141985",
       "md5" : "fb975909eb0f60a9190c7a1007515d4b",
+      "name_diff" : null,
       "org_level" : 22,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "天空の城ヴェリエル [SABOTHER]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -111389,7 +112745,8 @@
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Schwerkraft [すごそうな譜面]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -111588,11 +112945,13 @@
       "level" : "0",
       "lr2_bmsid" : "209566",
       "md5" : "fcc19d3e75d21238cc72e3905c00b773",
+      "name_diff" : null,
       "org_level" : null,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "異説彼岸花 第二 -終世のリコリス- [ExHard]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -112372,11 +113731,13 @@
       "level" : "2",
       "lr2_bmsid" : "50619",
       "md5" : "fe655986dbb6c75105d768782d00bc0a",
+      "name_diff" : null,
       "org_level" : 2,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Ascension to Heaven [MANIAC]",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
@@ -112759,11 +114120,13 @@
       "level" : "0",
       "lr2_bmsid" : "92938",
       "md5" : "ff5d7235ba643bc85b804a3df2778590",
+      "name_diff" : null,
       "org_level" : 20,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "hypocrite",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/04/12",
@@ -112910,11 +114273,13 @@
       "level" : "1",
       "lr2_bmsid" : "162910",
       "md5" : "ff82e0003d07d1933f7a12c87c84218f",
+      "name_diff" : null,
       "org_level" : 21,
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "失望Choco (・ω・)",
-      "url" : ""
+      "url" : "",
+      "url_diff" : ""
    },
    {
       "adddate" : "2017/10/14",
