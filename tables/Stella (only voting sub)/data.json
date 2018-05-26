@@ -29,7 +29,7 @@
    {
       "artist" : "----- / 縺翫?縺倥∞縺上→ 縺輔￥",
       "comment" : "ディレイ",
-      "level" : "3",
+      "level" : "4",
       "md5" : "187d10ffcdd9e7a99db5d72a83dcd3f8",
       "proposer" : "LUXURY",
       "submission" : 293,
@@ -120,8 +120,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=18&event=92",
       "url_diff" : "https://onedrive.live.com/redir?resid=6A58DD88BD7062C4!210&authkey=!AGZePJr_LRrydzg&ithint=folder%2czip",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "er obj:Fxi",
@@ -149,7 +149,7 @@
       "url_diff" : "http://www.hyper-laner.com/sabun.html",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "eicateve / O むらしん[movie] 為宙しなこ[illust]",
@@ -176,8 +176,8 @@
       "url" : "http://www.mediafire.com/file/18wnwxx50a83drz/V804N.zip",
       "url_diff" : "http://www.ribbit.xyz/bms/tables/bmsuploader2.html",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "Damjoy&ほくとしちせい obj:Monsta",
@@ -205,7 +205,7 @@
       "url_diff" : "http://3228monsta.web.fc2.com/",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "Len mov:いとう まさき / obj:Criyajuh",
@@ -316,8 +316,8 @@
       "url" : "https://www.axfc.net/u/1679447&key=seikaihahitotu!zyanai!!",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00114",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "69 de 74 feat.小宮真央 BG:ユーロビートたけし(西野武) obj.sak",
@@ -344,8 +344,8 @@
       "url" : "http://seapulse.net/event/bmsippai2015/",
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "Venstant Illustration : 13 (いちみ)",
@@ -373,7 +373,7 @@
       "url_diff" : "https://drive.google.com/open?id=1krMqG0faRGa-cUsCsLibkW1h80FiF7Af",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "Crimsona obj.7zs",
@@ -428,7 +428,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01642",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "DJ LATI BGA : EMSH / OBJ. swa",
@@ -456,7 +456,7 @@
       "url_diff" : "https://drive.google.com/drive/folders/0B-jo3hSmNHFaSUNPanhQQ3VINUU",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "ROKINA BGA:REI-K",
@@ -553,6 +553,6 @@
       "url_diff" : "http://ameria3141.web.fc2.com/bmssabun.html",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    }
 ]
