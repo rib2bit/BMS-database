@@ -217,7 +217,8 @@ metadata from LR2IR, public events and difficulty tables
 |[DPBMS黒難易度表(発狂)](http://dpbmschart.web.fc2.com/insane-chart/insane_chart.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/DPBMS黒難易度表(発狂)/table.html)|
 |[DPBMS白難易度表(通常)](http://dpbmschart.web.fc2.com/normal-chart/normal_chart.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/DPBMS白難易度表(通常)/table.html)|
 |[LN難易度](http://flowermaster.web.fc2.com/lrnanido/gla/LN.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/LN難易度/table.html)|
-|[Overjoy](http://achusi.main.jp/overjoy/nanido-luna.php)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/Overjoy/table.html)|
+|[Overjoy](http://cgi.geocities.jp/asahi3jpn/overjoy.php)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/Overjoy/table.html)|
+|[Overjoy (旧)](http://achusi.main.jp/overjoy/nanido-luna.php)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/Overjoy%20(旧)/table.html)|
 |[Overjoy隔離](http://achusi.main.jp/overjoy/nanido-ana.php)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/Overjoy隔離/table.html)|
 |[PMSデータベース(Lv1~45)](http://pmsdifficulty.xxxxxxxx.jp/PMSdifficulty.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/PMSデータベース(Lv1~45)/table.html)|
 |[PMSデータベース隔離枠](http://pmsdifficulty.xxxxxxxx.jp/excluded_PMSdifficulty.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/PMSデータベース隔離枠/table.html)|
@@ -234,7 +235,6 @@ metadata from LR2IR, public events and difficulty tables
 |[第2発狂難易度](http://bmsnormal2.syuriken.jp/table_insane.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/第2発狂難易度/table.html)|
 |[通常皿難易度表](http://minddnim.web.fc2.com/bms_sara.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/通常皿難易度表/table.html)|
 |[通常難易度表](http://nekokan.dyndns.info/~lobsak/genocide/normal.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/通常難易度表/table.html)|
-|[発狂BMS Overjoy難易度表](http://cgi.geocities.jp/asahi3jpn/overjoy.php)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/発狂BMS%20Overjoy難易度表/table.html)|
 |[発狂BMS第2難易度表 (旧)](http://bmsinsane2.web.fc2.com/record.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/発狂BMS第2難易度表%20(旧)/table.html)|
 |[発狂BMS第2難易度表+ (旧)](http://bmsinsane2.web.fc2.com/record_p.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/発狂BMS第2難易度表+%20(旧)/table.html)|
 |[発狂BMS難易度表](http://nekokan.dyndns.info/~lobsak/genocide/insane.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/発狂BMS難易度表/table.html)|
@@ -269,6 +269,7 @@ metadata from LR2IR, public events and difficulty tables
 |[poprer難易度表](http://poprerbms.web.fc2.com/sptable.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/poprer難易度表/table.html)|
 |[ratの難易度表](http://rattoto10.web.fc2.com/table/list_sample.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/ratの難易度表/table.html)|
 |[sagoo差分難易度表](http://bmsagoo.web.fc2.com/list_sagoo.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/sagoo差分難易度表/table.html)|
+|[SUZUKAZEΛonly難易度](http://suzukazekuhare.web.fc2.com/suzukazelist.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/SUZUKAZEΛonly難易度/table.html)|
 |[swa倉庫](http://swamelo.web.fc2.com/01_HK.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/swa倉庫/table.html)|
 |[あーさん表](http://drowsy.hannnari.com/records.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/あーさん表/table.html)|
 |[オンマコ難易度](http://onmacodayo.web.fc2.com/nannidohyoou.html)|[🔗](http://rawgit.com/rib2bit/BMS-database/master/tables/オンマコ難易度/table.html)|
