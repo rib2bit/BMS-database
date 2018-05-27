@@ -42,6 +42,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Grand thaw obj.mn",
+      "comment" : "低速, 物量",
+      "level" : "1",
+      "md5" : "059371c55fcd6d04f8828b68428840ce",
+      "proposer" : "LUXURY",
+      "submission" : 360,
+      "title" : "AltMirrorBell (moon)",
+      "url" : "http://www5f.biglobe.ne.jp/~careless/",
+      "url_diff" : "http://stairway.sakura.ne.jp/dosukoi/index.htm",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "kei iwata/obj:Charlotte.",
       "comment" : "",
       "level" : "2",
@@ -103,6 +117,20 @@
       "url_diff" : "http://sabosabun.tank.jp/"
    },
    {
+      "artist" : "anubasu-anubasu / obj.7zs",
+      "comment" : "同時押し、ちょっと低速",
+      "level" : "0",
+      "md5" : "091e742ab34187cb2cc63f461f1a80ca",
+      "proposer" : "mono",
+      "submission" : 361,
+      "title" : "Materialize Anything [Ground Fissure]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=153&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "Ester obj:sharo mov : mi",
       "comment" : "総合譜面",
       "level" : "5",
@@ -133,7 +161,7 @@
    {
       "artist" : "ぷらすちっくと女の子 / U",
       "comment" : "ガチ押し",
-      "level" : "2",
+      "level" : "3",
       "md5" : "0b5f10cc5b6ee23dff60442b4f0ecd36",
       "proposer" : "はやた",
       "submission" : 327,
@@ -811,6 +839,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Aカップ三兄弟 / Ds",
+      "level" : "7",
+      "md5" : "2b166f5b8f443176af46e9f5aec40074",
+      "proposer" : "MEES-♪",
+      "submission" : 351,
+      "title" : "I Want You (USAMIMIX) -GODS-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=84",
+      "url_diff" : "http://www.geocities.jp/dsks5456/bms/iwantyou.zip",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "litmus* obj.maco:j",
       "comment" : "高速",
       "level" : "5",
@@ -942,6 +983,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "hapi⇒ obj:mute",
+      "comment" : "物量、同時押し",
+      "level" : "0",
+      "md5" : "363f5744e85c161d49986b3e7197fbca",
+      "proposer" : "otoshi.b",
+      "submission" : 352,
+      "title" : "Theme of \"ULTIMATE IRIS\" [FINAL-BATTLE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=318&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "EXCITECH obj:Omino",
       "comment" : "00191",
       "level" : "7",
@@ -979,6 +1034,20 @@
       "title" : "Heterochromia Iridis [INFERNOPlus]",
       "url" : "http://leafbms.web.fc2.com/song.html",
       "url_diff" : "https://drive.google.com/drive/folders/0B1yMDChuf_2sYzVKQmRoamRydlE"
+   },
+   {
+      "artist" : "山蝙蝠ホールディングス movie : Y.A.B.tudidama / A",
+      "comment" : "乱打、物量、同時押し",
+      "level" : "0",
+      "md5" : "38b6f9405ecbf0e41856b9f2369d1be8",
+      "proposer" : "ZEUS",
+      "submission" : 365,
+      "title" : "ほしぞら遊覧飛行 [Andromeda]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=222&event=104",
+      "url_diff" : "https://www.dropbox.com/s/qosqzytphowv94k/Yamajet_hoshizora_7Andromeda.zip?dl=0",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "MYUKKE. obj：R4V3R / BGI：ゑのき",
@@ -1179,6 +1248,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "sasakure.UK / DDX",
+      "comment" : "up1234.zip",
+      "level" : "3",
+      "md5" : "41076a9300823c90c6671fb5591fc454",
+      "proposer" : "eth",
+      "submission" : 364,
+      "title" : "Merry Christmas Mr.Che",
+      "url" : "http://dee.manbow.org/event/explus/ex_revival/bms/mcml.rar",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "Y.W / A",
       "comment" : "ディレイ　縦連",
       "level" : "0",
@@ -1223,7 +1306,7 @@
    {
       "artist" : "P4koo / obj:BAECON",
       "comment" : "",
-      "level" : "3",
+      "level" : "2",
       "md5" : "4355875c733257e5371a121d0e68ad8c",
       "proposer" : "chack♪",
       "submission" : 19,
@@ -1518,7 +1601,7 @@
    {
       "artist" : "eicateve / O むらしん[movie] 為宙しなこ[illust]",
       "comment" : "同時押し、ディレイ",
-      "level" : "8",
+      "level" : "7",
       "md5" : "5387b0479ac825cd34be52fec90e3b31",
       "proposer" : "キルシー",
       "submission" : 336,
@@ -1944,7 +2027,7 @@
    {
       "artist" : "ETIA. feat.Jenga jubeated",
       "comment" : "",
-      "level" : "2",
+      "level" : "1",
       "md5" : "64dde592ef133610ebaa6664b60538f4",
       "proposer" : "firi.",
       "submission" : 6,
@@ -2293,6 +2376,20 @@
       "url_diff" : "http://absolute.pv.land.to/"
    },
    {
+      "artist" : "38k / obj : LindBlum",
+      "comment" : "同時押し、中盤発狂",
+      "level" : "7",
+      "md5" : "73e1eb7c81df3e97ddb52380f8f94616",
+      "proposer" : "双六",
+      "submission" : 350,
+      "title" : "Blizzard [猛吹雪]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=137&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "QJITAI",
       "comment" : "高速乱打",
       "level" : "5",
@@ -2463,6 +2560,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "髭姫 feat. えみゅう。 LYRICS：やんばるん BGA：Milk_tya ILLUST：UNOQLO obj：もさ子",
+      "comment" : "ガチ押しとズレの…",
+      "level" : "4",
+      "md5" : "83589087b6c8e6a79998be146b2a24de",
+      "proposer" : "qtp13",
+      "submission" : 366,
+      "title" : "貴女と秘密の… (ヤンデレ)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=106&event=93",
+      "url_diff" : "http://higehime.main.jp/bms/_ss_05_mosako.zip",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "橘花音 かなえゆめ composed by nmk / Obj:lightX Illustration:かぜっと",
       "comment" : "",
       "level" : "9",
@@ -2483,6 +2594,20 @@
       "title" : "SEPIA - (*>ω<*)-",
       "url" : "http://shiki2.sakura.ne.jp/",
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "6yen / G obj:WAYA",
+      "comment" : "drrrrrrrr",
+      "level" : "3",
+      "md5" : "8617c9f152b7d0f055a2033d8f6fafcb",
+      "proposer" : "LUXURY",
+      "submission" : 367,
+      "title" : "Cynic -drrrrrrrr-",
+      "url" : "http://web.archive.org/web/20060621033302/http://www.commonsense.nu/songs/cynic.zip",
+      "url_diff" : "http://flowermaster.web.fc2.com/",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -2592,6 +2717,20 @@
       "title" : "Apollo [30XX.07.16]",
       "url" : "http://www.luzeria.net/?p=387",
       "url_diff" : "http://swamelo.web.fc2.com/01_HK.html",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "Roy Mikelate obj:saaa",
+      "comment" : "同時押しとか",
+      "level" : "1",
+      "md5" : "8c100f7a91368a2ed98144f003f438e7",
+      "proposer" : "双六",
+      "submission" : 356,
+      "title" : "Everybody Pumc Kin Jump! [ATLANTIC GIANT]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=131&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01173",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -2781,6 +2920,20 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00929"
    },
    {
+      "artist" : "Team:SASAKURATION / selene.",
+      "comment" : "物量・同時押し",
+      "level" : "2",
+      "md5" : "969ce9512086a7f7baa68f45c9ad395f",
+      "proposer" : "otoshi.b",
+      "submission" : 357,
+      "title" : "AVALON -Genocide-",
+      "url" : "https://mega.nz/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01754",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "SP-# / *^o~*",
       "comment" : "00610",
       "level" : "6",
@@ -2790,6 +2943,20 @@
       "title" : "tinnitus -INFINITY-",
       "url" : "https://onedrive.live.com/?cid=578814ACC2BD5A74&id=578814ACC2BD5A74!140",
       "url_diff" : "http://gnqg.rosx.net/upload/",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "uma vs. モリモリあつし Movie : masiro vs. adaptor",
+      "comment" : "高速乱打、縦連",
+      "level" : "8",
+      "md5" : "99b162a8fc9fd371d75a5a61eaf26d3c",
+      "proposer" : "桜ノ宮苺香",
+      "submission" : 353,
+      "title" : "Re:End of a Dream -HE4VENLY7-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=543&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01504",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -2979,6 +3146,20 @@
       "url_diff" : "https://www.dropbox.com/s/8w7reyd8g1h6ul6/hoshikake_%20The%20End%20of%20the%20Universe.zip?dl=0"
    },
    {
+      "artist" : "Ark-Z / BAECON",
+      "comment" : "皿複合",
+      "level" : "1",
+      "md5" : "a4675f892ef5d2372056e355e468c601",
+      "proposer" : "LUXURY",
+      "submission" : 358,
+      "title" : "幽雅に開け、青空の扉 -EXUSIA-",
+      "url" : "http://web.archive.org/web/20160101135626/http://creation-records.info:80/bms.htm",
+      "url_diff" : "http://akred.web.fc2.com/baecon/yuugaEXUSIA_ogg_luna-plus.bme",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "Crimsona obj.7zs",
       "comment" : "01686",
       "level" : "2",
@@ -3159,6 +3340,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Arranged by Y.W / obj. Tristan97",
+      "comment" : "物量、ディレイ",
+      "level" : "6",
+      "md5" : "b0a9cc445df7d071ac3ca02aea4b187d",
+      "proposer" : "otoshi.b",
+      "submission" : 354,
+      "title" : "ポケットモンスター ブラック・ホワイト 四天王戦 [Haxorus]",
+      "url" : "http://www.yw-works.com/mp3/bwshitennou.zip",
+      "url_diff" : "https://drive.google.com/open?id=0B7YPM4581YbMSGVUWk9LMWZtcVk",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "LeaF / obj:Monsta Movie:q/stol",
       "comment" : "",
       "level" : "1",
@@ -3168,6 +3363,20 @@
       "title" : "Arcanum Guardian [Monsther]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=77&event=83",
       "url_diff" : "http://3228monsta.web.fc2.com/",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "Flat:nique Dolls Orchestra Illustration : まど / selene.",
+      "comment" : "ディレイ・連打混じり物量",
+      "level" : "6",
+      "md5" : "b0d5be4893a101f226f7a311e1b623d1",
+      "proposer" : "otoshi.b",
+      "submission" : 355,
+      "title" : "Pure White † Crimson Coffin -Raganrok-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01139",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -3614,6 +3823,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "DJ SUNECHAMA",
+      "comment" : "240 短い",
+      "level" : "9",
+      "md5" : "c688e75f05dd271fa15b7d6c9ac737af",
+      "proposer" : "onmaco",
+      "submission" : 362,
+      "title" : "スネ夫がFDFDをしてるときに流れてるガバ (ANOTHER)",
+      "url" : "http://uploader.bms.ms/data/suneo_ogg.zip",
+      "url_diff" : "http://onmacodayo.web.fc2.com/0117/suneo7fd.bms",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "11.Soccer Team",
       "comment" : "サビ前２回停止あり",
       "level" : "0",
@@ -3850,7 +4073,7 @@
    {
       "artist" : "LaValse obj: qtp13",
       "comment" : "Tiro finale+Central delay st0~1kanaa",
-      "level" : "0",
+      "level" : "1",
       "md5" : "d471465bb8e45b3867827dd436017607",
       "proposer" : "qtp13",
       "submission" : 228,
@@ -3864,7 +4087,7 @@
    {
       "artist" : "櫟井唯 / 岡野佳 obj:BAECON vs sak",
       "comment" : "微連打複合",
-      "level" : "3",
+      "level" : "2",
       "md5" : "d48b594303432caa392c08a98f7cac9d",
       "proposer" : "otoshi.b",
       "submission" : 173,
@@ -3906,7 +4129,7 @@
    {
       "artist" : "ROKINA BGA:REI-K",
       "comment" : "高速物量",
-      "level" : "6",
+      "level" : "7",
       "md5" : "d67b56f453043aaf9c90edd5a456ee86",
       "proposer" : "otoshi.b",
       "submission" : 321,
@@ -4127,7 +4350,7 @@
    {
       "artist" : "魔界都市ニイガタ（黄泉路テヂーモ×dawn-system×かゆき） BGA:自動車原付 / obj.hex",
       "comment" : "",
-      "level" : "2",
+      "level" : "3",
       "md5" : "e5cef40f408b17039e59f4b6e97cd0e2",
       "proposer" : "Dai7Gon",
       "submission" : 8,
@@ -4187,6 +4410,20 @@
       "title" : "Andro",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=238&event=104",
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up6006.zip",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "Cres / ALICE*",
+      "comment" : "up0685",
+      "level" : "0",
+      "md5" : "e7e922d2a22ebb9add14bb97b2ee04e6",
+      "proposer" : "LUXURY",
+      "submission" : 359,
+      "title" : "End Time [ALITHER]",
+      "url" : "https://mega.nz/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA",
+      "url_diff" : "http://www.ribbit.xyz/bms/tables/bmsuploader.html",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -4283,7 +4520,7 @@
    {
       "artist" : "うえつ氏 /さ",
       "comment" : "高速乱打",
-      "level" : "9",
+      "level" : "8",
       "md5" : "efc800022aa4b92e1fdb934e829094d8",
       "proposer" : "sak",
       "submission" : 182,
@@ -4340,7 +4577,7 @@
    },
    {
       "artist" : "ROKINA",
-      "level" : "0",
+      "level" : "1",
       "md5" : "f33028fd5bcef05cf5947f416622f46b",
       "proposer" : "qtp13",
       "submission" : 331,
@@ -4492,6 +4729,20 @@
       "title" : "GOODRAGE [FullThrottle]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=122&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01005",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "さかみりと img:しぐれぷに子/obj:赤い人",
+      "comment" : "地力+ ディレイ",
+      "level" : "5",
+      "md5" : "fd30c75f45ddeb72c0b0dd7c147e0cb0",
+      "proposer" : "eth",
+      "submission" : 363,
+      "title" : "八大地獄邪魂転生狂葬散火歌 [INFERNO]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=116",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/G59_INFERNO.bms",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
