@@ -64,8 +64,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=332&event=74",
       "url_diff" : "http://gnqg.rosx.net/upload/",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "hapi⇒ obj:mute",
@@ -273,8 +273,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=106&event=93",
       "url_diff" : "http://higehime.main.jp/bms/_ss_05_mosako.zip",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "6yen / G obj:WAYA",
@@ -385,8 +385,8 @@
       "url" : "http://web.archive.org/web/20160101135626/http://creation-records.info:80/bms.htm",
       "url_diff" : "http://akred.web.fc2.com/baecon/yuugaEXUSIA_ogg_luna-plus.bme",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "Crimsona obj.7zs",
@@ -469,8 +469,8 @@
       "url" : "http://uploader.bms.ms/data/suneo_ogg.zip",
       "url_diff" : "http://onmacodayo.web.fc2.com/0117/suneo7fd.bms",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "TamaDo obj.hex",
@@ -484,7 +484,7 @@
       "url_diff" : "https://drive.google.com/drive/folders/0B-jo3hSmNHFaSUNPanhQQ3VINUU",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "Xect. MOVIE: SeibaR",

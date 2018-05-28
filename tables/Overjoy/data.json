@@ -73,18 +73,6 @@
    },
    {
       "adddate" : 1527318397,
-      "artist" : "BACO",
-      "comment" : "2008 段位認定Overjoy3曲目",
-      "level" : 3,
-      "md5" : "07ccec1f53d1f73105d4c349c8603495",
-      "misc" : "",
-      "subartist" : "",
-      "title" : "DENGEKI Tube [100万ボルト]",
-      "url" : "http://uploader.bms.ms/sen-goku/baco/",
-      "url_diff" : "https://web.archive.org/web/20120908125751/http://page.freett.com/lobsak/dengeki_7_100V.lzh"
-   },
-   {
-      "adddate" : 1527318397,
       "artist" : "siromaru",
       "comment" : "up0206",
       "level" : 4,
@@ -469,6 +457,18 @@
    },
    {
       "adddate" : 1527318397,
+      "artist" : "BACO",
+      "comment" : "2008 段位認定Overjoy3曲目",
+      "level" : 3,
+      "md5" : "284712605e020dfbd6b8be94afc053fd",
+      "misc" : "",
+      "subartist" : "",
+      "title" : "DENGEKI Tube [100万ボルト]",
+      "url" : "http://uploader.bms.ms/sen-goku/baco/",
+      "url_diff" : "https://web.archive.org/web/20120908125751/http://page.freett.com/lobsak/dengeki_7_100V.lzh"
+   },
+   {
+      "adddate" : 1527318397,
       "artist" : "Liszt / ddou",
       "comment" : "",
       "level" : 5,
@@ -586,6 +586,18 @@
       "title" : "Endeavor [ごめんなさい]",
       "url" : "https://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9!274&ithint=file,zip&authkey=!AIkV4RYTe2QHyDE",
       "url_diff" : "https://www.dropbox.com/s/v1byhudzbw190me/satori%28DELAY%29.rar?dl=0"
+   },
+   {
+      "adddate" : 1527318397,
+      "artist" : "t+pazolite",
+      "comment" : "",
+      "level" : 2,
+      "md5" : "30a5cc8b0bfdc784f19fa42155917b6c",
+      "misc" : "",
+      "subartist" : "",
+      "title" : "Little \"Sister\" Bitch(AHYA)",
+      "url" : "https://web.archive.org/web/20051221205150/http://www.c-h-s.net/works/%5Bt+pazolite%5Dbof_lsb_HQ.rar",
+      "url_diff" : "http://nekokan.dyndns.info/~lobsak/hokan/"
    },
    {
       "adddate" : 1527318397,
@@ -1928,7 +1940,7 @@
       "misc" : "",
       "subartist" : "けろささ",
       "title" : "Dar [kerother]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=98",
+      "url" : "http://bm-asahi.com/archive/suna_dar.rar",
       "url_diff" : "http://drive.google.com/folderview?id=0B6gzvhYqRdovfl9iMEJTVzNGR05OemRVbE5xdUpOQk5mRXJFNHhqNjZqS2xDZHNFR3ZIa0k&usp=sharing"
    },
    {
@@ -1978,18 +1990,6 @@
       "title" : "u gotta party (S_DX)",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=179&event=83",
       "url_diff" : "http://www.geocities.jp/dsks5456/bms.html"
-   },
-   {
-      "adddate" : 1527318397,
-      "artist" : "t+pazolite",
-      "comment" : "",
-      "level" : 2,
-      "md5" : "a4453418a714b6887ed5522af4d91299",
-      "misc" : "",
-      "subartist" : "",
-      "title" : "Little \"Sister\" Bitch(AHYA)",
-      "url" : "https://web.archive.org/web/20051221205150/http://www.c-h-s.net/works/%5Bt+pazolite%5Dbof_lsb_HQ.rar",
-      "url_diff" : "http://nekokan.dyndns.info/~lobsak/hokan/"
    },
    {
       "adddate" : 1527318397,
@@ -2461,18 +2461,6 @@
    },
    {
       "adddate" : 1527318397,
-      "artist" : "Andy Lee arranged by silcostones (小豆職人)",
-      "comment" : "Grotesque.___ の拡張子をzipに変えて解凍すると出てきます",
-      "level" : 7,
-      "md5" : "d1756a2336f4b2ce1aa54dc4ffe4982f",
-      "misc" : "",
-      "subartist" : "",
-      "title" : "L.D.2013 [2005 Grotesque]",
-      "url" : "http://hapinano.org/bms/ld2013_bms.zip",
-      "url_diff" : ""
-   },
-   {
-      "adddate" : 1527318397,
       "artist" : "BMS：渋垣茉理 / Illust：橘ちひろ",
       "comment" : "",
       "level" : 2,
@@ -2590,6 +2578,18 @@
       "title" : "Etude for the Sinners [^p^]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=461&event=88",
       "url_diff" : "http://k-bms.com/board/board_append.jsp?board_num=13&co_num=21"
+   },
+   {
+      "adddate" : 1527318397,
+      "artist" : "Andy Lee arranged by Saka-ROW組",
+      "comment" : "",
+      "level" : 7,
+      "md5" : "dd6a670c77100e514c8d159182cfe587",
+      "misc" : "",
+      "subartist" : "",
+      "title" : "L.D.",
+      "url" : "https://onedrive.live.com/?authkey=%21AHXNigSGRDZ6G8w&cid=40805CD20B6241C6&id=40805CD20B6241C6%212163&parId=40805CD20B6241C6%211922&o=OneUp",
+      "url_diff" : ""
    },
    {
       "adddate" : 1527318397,
@@ -2770,6 +2770,18 @@
       "title" : "End Time [TechnoBreak]",
       "url" : "https://onedrive.live.com/?cid=578814ACC2BD5A74&id=578814ACC2BD5A74!389",
       "url_diff" : "http://yahoo.jp/box/twZ9In"
+   },
+   {
+      "adddate" : 1527318397,
+      "artist" : "LeaF",
+      "comment" : "同梱",
+      "level" : 1,
+      "md5" : "f6e32c03afd5706328f7b0d810f98324",
+      "misc" : "",
+      "subartist" : "",
+      "title" : "MEPHISTO [CLAVIER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=237&event=83",
+      "url_diff" : ""
    },
    {
       "adddate" : 1527318397,
