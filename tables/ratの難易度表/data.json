@@ -239,6 +239,19 @@
       "url_diff" : "http://rattoto10.web.fc2.com/bms/rat_halcyon.zip"
    },
    {
+      "artist" : "翡乃イスカ vs. Iriss",
+      "comment" : "2018年春のソフラン祭り第二回",
+      "eval" : 0,
+      "level" : "0",
+      "lr2_bmsid" : "0",
+      "md5" : "0d6f2a1b6d499bb203aa99cc4e064fd0",
+      "name_diff" : "rat vs paraph",
+      "reg_date" : "2017-06-15",
+      "state" : 0,
+      "title" : "Booouncing!! [parather]",
+      "url_diff" : "http://rattoto10.web.fc2.com/bms/rat_booouncing.zip"
+   },
+   {
       "artist" : "削除 feat. void / 浪漫映像制作倶楽部",
       "comment" : "",
       "eval" : 0,
@@ -902,6 +915,23 @@
       "url_diff" : "http://rattoto10.web.fc2.com/bms/rat_warlordsofatlantis.zip"
    },
    {
+      "artist" : "翡乃イスカ",
+      "comment" : "2018年春のソフラン祭り第二回",
+      "eval" : 0,
+      "level" : "0",
+      "lr2_bmsid" : "0",
+      "md5" : "3cef810720f425d9928993b20894430c",
+      "name_diff" : "ctc vs rat",
+      "name_pack" : null,
+      "reg_date" : "2016-06-13",
+      "state" : 0,
+      "tag" : null,
+      "title" : "Cosmogazer [Gravity]",
+      "url" : null,
+      "url_diff" : "https://www.dropbox.com/s/j15qfki7v61uc1w/rat_cosmogazer.zip?dl=1",
+      "url_pack" : null
+   },
+   {
       "artist" : "RiraN",
       "comment" : "KOTY2017第2期<br>http://baecon1.hatenablog.com/entry/2017/07/10/230309",
       "eval" : 0,
@@ -1094,21 +1124,6 @@
       "tag" : null,
       "title" : "Laplace [rat-hyper]",
       "url_diff" : "http://rattoto10.web.fc2.com/bms/rat_laplace.zip"
-   },
-   {
-      "artist" : "Aoi+Trerey-U",
-      "comment" : "同梱",
-      "eval" : 0,
-      "level" : "0",
-      "md5" : "4f7c6afaa207e58111e35be7511353ec",
-      "name_diff" : "rat",
-      "name_pack" : null,
-      "state" : 0,
-      "tag" : "",
-      "title" : "Silva [ZERO]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=314&event=116",
-      "url_diff" : null,
-      "url_pack" : null
    },
    {
       "artist" : "SHIKI",
@@ -1305,6 +1320,21 @@
       "tag" : null,
       "title" : "[OpenMRF]AfternoonTea(BMSEdit) [rather]",
       "url_diff" : "http://rattoto10.web.fc2.com/bms/rat_afternoontea.zip"
+   },
+   {
+      "artist" : "Aoi+Trerey-U",
+      "comment" : "同梱",
+      "eval" : 0,
+      "level" : "0",
+      "md5" : "5af1f5e15d88dd0f947510dc0a27713b",
+      "name_diff" : "rat",
+      "name_pack" : null,
+      "state" : 0,
+      "tag" : "",
+      "title" : "Silva [ZERO]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=314&event=116",
+      "url_diff" : null,
+      "url_pack" : null
    },
    {
       "artist" : "ねこかぶりサイクロン(xi+ねこみりん) feat.えみゅう。",
@@ -2010,6 +2040,20 @@
       "url_diff" : "http://rattoto10.web.fc2.com/bms/rat_aragami.zip"
    },
    {
+      "artist" : "455 / *8284*",
+      "comment" : "",
+      "eval" : 0,
+      "level" : "12",
+      "lr2_bmsid" : "0",
+      "md5" : "9229ab56bffd3523113859bd160ed0cf",
+      "name_diff" : "rat",
+      "reg_date" : "2016-06-13",
+      "state" : 0,
+      "tag" : null,
+      "title" : "G e n g a o z o A⇒Side [rather]",
+      "url_diff" : "http://rattoto10.web.fc2.com/bms/rat_gengaozo.zip"
+   },
+   {
       "artist" : "Andy Lee arranged by Saka-ROW組",
       "comment" : "",
       "eval" : 0,
@@ -2295,6 +2339,20 @@
       "tag" : null,
       "title" : "Dreadnought [jaji-beginner]",
       "url_diff" : "http://rattoto10.web.fc2.com/bms/rat_dreadnought.zip"
+   },
+   {
+      "artist" : "庭師+Trerey-U",
+      "comment" : "2018年春のソフラン祭り第二回",
+      "eval" : 0,
+      "level" : "13",
+      "lr2_bmsid" : "0",
+      "md5" : "a1f418f41aa642dbbb31fd8b3174e972",
+      "name_diff" : "rat",
+      "reg_date" : "2016-06-13",
+      "state" : 0,
+      "tag" : null,
+      "title" : "翡翠 [rather]",
+      "url_diff" : "http://rattoto10.web.fc2.com/bms/rat_hisui.zip"
    },
    {
       "artist" : "raii",

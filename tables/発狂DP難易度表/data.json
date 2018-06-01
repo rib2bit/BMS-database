@@ -3019,7 +3019,7 @@
       "level" : "7",
       "lr2_bmsid" : "253308",
       "md5" : "8a80c624665085feeb75ad5632325002",
-      "state" : 1,
+      "state" : 0,
       "title" : "進め！イッスン軍団 -Rebellion of the Dwarfs-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=178&event=116",
       "url_diff" : ""
@@ -3690,10 +3690,21 @@
       "level" : "6",
       "lr2_bmsid" : "252860",
       "md5" : "a267ea913718e363071f52c94890f516",
-      "state" : 1,
+      "state" : 0,
       "title" : "itsuka [INSANE]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=428&event=116",
       "url_diff" : "同梱譜面"
+   },
+   {
+      "artist" : "kozato",
+      "comment" : " 同梱譜面",
+      "level" : "6",
+      "lr2_bmsid" : "236240",
+      "md5" : "a27df82d4fcac0d543a397764a4f265c",
+      "state" : 1,
+      "title" : "Marion",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=326&event=110",
+      "url_diff" : ""
    },
    {
       "artist" : "siromaru / obj:lichtr",
