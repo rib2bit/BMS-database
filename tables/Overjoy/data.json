@@ -1825,18 +1825,6 @@
    },
    {
       "adddate" : 1527318397,
-      "artist" : "BMS：Ｆ／Ａ１８　MIDI：ロウファ　BGA:LZH",
-      "comment" : "fa_inada2_7luna_air.bme",
-      "level" : 2,
-      "md5" : "95123d2e1b32efca74c78d718c044bc7",
-      "misc" : "",
-      "subartist" : "air",
-      "title" : "稲田姫様に叱られるから (LUNATIC)",
-      "url" : "http://fa18af.sakura.ne.jp/",
-      "url_diff" : "http://yahoo.jp/box/twZ9In"
-   },
-   {
-      "adddate" : 1527318397,
       "artist" : "鹿目まどか",
       "comment" : "up2311",
       "level" : 2,
@@ -2590,6 +2578,18 @@
       "title" : "L.D.",
       "url" : "https://onedrive.live.com/?authkey=%21AHXNigSGRDZ6G8w&cid=40805CD20B6241C6&id=40805CD20B6241C6%212163&parId=40805CD20B6241C6%211922&o=OneUp",
       "url_diff" : ""
+   },
+   {
+      "adddate" : 1527318397,
+      "artist" : "BMS：Ｆ／Ａ１８　MIDI：ロウファ　BGA:LZH",
+      "comment" : "fa_inada2_7luna_air.bme",
+      "level" : 2,
+      "md5" : "dd91b904ad91da3fa9fcec176f0319fe",
+      "misc" : "",
+      "subartist" : "air",
+      "title" : "稲田姫様に叱られるから (LUNATIC)",
+      "url" : "http://fa18af.sakura.ne.jp/",
+      "url_diff" : "http://yahoo.jp/box/twZ9In"
    },
    {
       "adddate" : 1527318397,
