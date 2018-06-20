@@ -38,8 +38,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=238&event=104",
       "url_diff" : "https://1drv.ms/u/s!AvQoCNc6GxengUDf_jDbxkjN_Yzs",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "NIKITA / misokabocha obj:ランダマイザ",
@@ -53,7 +53,7 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "P4koo / OBJ:けろささ",
@@ -67,7 +67,7 @@
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up5227.rar",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "うえつ氏 / obj morio",
@@ -122,8 +122,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=56&event=120",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01849",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "モリモリあつし / obj:Monsta",
@@ -163,9 +163,9 @@
       "title" : "直角スライド:CrazyGirl",
       "url" : "https://onedrive.live.com/redir?resid=CE038C7E1045ACD3!173&authkey=!AHVb22I2pnUZK1g&ithint=folder%2czip",
       "url_diff" : "",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteNo" : 1,
+      "votePercent" : "83.33",
+      "voteYes" : 5
    },
    {
       "artist" : "SHIKI / Ds",
@@ -193,7 +193,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00463",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "あす  /差分　赤い人/ reobj : ??",
@@ -207,7 +207,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01770",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "adamthix Obj.Triforce",
@@ -263,7 +263,7 @@
       "url_diff" : "",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "にっすぃー",
@@ -291,7 +291,7 @@
       "url_diff" : "",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "はがね / bga:白助 / obj : BOKKI",
@@ -347,7 +347,7 @@
       "url_diff" : "",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 6
    },
    {
       "artist" : "りぃぶれーしょん obj:ほまれーしょん",
@@ -375,7 +375,7 @@
       "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "er/ 差分 赤い人",
@@ -401,8 +401,8 @@
       "title" : "albagioso vergine [furioso]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=108",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01604",
-      "voteNo" : 0,
-      "votePercent" : 0,
+      "voteNo" : 1,
+      "votePercent" : "0.00",
       "voteYes" : 0
    },
    {
@@ -444,8 +444,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=204&event=74",
       "url_diff" : "http://3228monsta.web.fc2.com/",
       "voteNo" : 2,
-      "votePercent" : "71.43",
-      "voteYes" : 5
+      "votePercent" : "75.00",
+      "voteYes" : 6
    },
    {
       "artist" : "ZUN remixed by LeaF Movie:Optie",
@@ -472,7 +472,7 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/carage_solitary_melody-INFERNOf.bml",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 5
    },
    {
       "artist" : "イヴ/さ",
@@ -527,7 +527,7 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/SoG_INFERNO.bme",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 7
    },
    {
       "artist" : "Lunatic Sounds / Yusi. obj.Lapis",
@@ -541,7 +541,7 @@
       "url_diff" : "http://lapisbms.web.fc2.com/",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 5
    },
    {
       "artist" : "Music:しらいし / obj:秘密",
@@ -553,7 +553,7 @@
       "title" : "Happico Happico [HiHiHiTHER]",
       "url" : "http://www1.axfc.net/uploader/Li/so/128884",
       "url_diff" : "https://www.dropbox.com/s/evlwqddjbobbwt1/_happico_hihihi.bms?dl=1",
-      "voteNo" : 2,
+      "voteNo" : 3,
       "votePercent" : "0.00",
       "voteYes" : 0
    }
