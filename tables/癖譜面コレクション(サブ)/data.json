@@ -82,11 +82,21 @@
    {
       "artist" : "「Yﾌ",
       "comment" : "ソフラン停止地雷連打",
-      "level" : "5",
+      "level" : "7",
       "md5" : "11aa346e89534349e332fda1480997a4",
       "name_diff" : "",
       "title" : "funger! - T3",
       "url" : "http://d11x.sakura.ne.jp/asdf/?p=304",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "この世全ての佐藤 -SATOH-",
+      "comment" : "局所難",
+      "level" : "24",
+      "md5" : "13dafde34fd73fe289e1c2347f7659e1",
+      "name_diff" : "",
+      "title" : "ダークサンバランド -黒★歴★史-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=417&event=88",
       "url_diff" : ""
    },
    {
@@ -108,6 +118,16 @@
       "title" : "ROOTS SOAK LASTING xxHz [HYPER]",
       "url" : "https://dropbox.bms.ms/u/59462259/G2R2014/130bms_no57.zip",
       "url_diff" : ""
+   },
+   {
+      "artist" : "er",
+      "comment" : "低トータル",
+      "level" : "14",
+      "md5" : "173f50ee45c864f1b16717b0ea7d96f0",
+      "name_diff" : "ふたば",
+      "title" : "ハイパーミラクルシューティングスター [FULLCOMBO CHALLENGE]",
+      "url" : "https://dropbox.bms.ms/u/28765267/er_HMSS.zip",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01878"
    },
    {
       "artist" : "猫の人 / fz / sumomo",
@@ -310,9 +330,29 @@
       "url_diff" : ""
    },
    {
+      "artist" : "再調整の人 / lime",
+      "comment" : "ベリハ音頭(超高トータル)",
+      "level" : "99",
+      "md5" : "3f3a1937d139ae3740da954e60052e64",
+      "name_diff" : "",
+      "title" : "ほのぼの神社 [恋符「マスタースパーク」]",
+      "url" : "http://kanki2.net/bms.html",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "ゴリライザー制作委員会",
+      "comment" : "ハード判定高トータル",
+      "level" : "3",
+      "md5" : "43e0400fb9e0d9873c1188bf1482c9e2",
+      "name_diff" : "",
+      "title" : "音弾超人ゴリライザー",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=82&event=104",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Iron Maiden Strength BGA / Seagle Asakura",
       "comment" : "ソフラン",
-      "level" : "9",
+      "level" : "14",
       "md5" : "44931518289e7c0743ffb6b82324a0c0",
       "name_diff" : "rat",
       "title" : "Lolita Scaffold [rather]",
@@ -480,6 +520,16 @@
       "url_diff" : "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html"
    },
    {
+      "artist" : "wa. / 百舌谷",
+      "comment" : "ソフランと全押し",
+      "level" : "9",
+      "md5" : "60250fc70980dc470e3661fc514c4b1b",
+      "name_diff" : "京都306",
+      "title" : "Black Lotus [100⇔200]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=138&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00202"
+   },
+   {
       "artist" : "er",
       "comment" : "連打皿高速階段",
       "level" : "30",
@@ -570,6 +620,16 @@
       "url_diff" : "http://oneeighth.web.fc2.com/patterns.html"
    },
    {
+      "artist" : "Sho Fish",
+      "comment" : "ソフラン",
+      "level" : "7",
+      "md5" : "7bb1bed51003c0cede65e20205b49a7b",
+      "name_diff" : "",
+      "title" : "リバースベースイデオロギー [Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=58&event=102",
+      "url_diff" : ""
+   },
+   {
       "artist" : "DJ.kari",
       "comment" : "ソフラン",
       "level" : "19",
@@ -620,6 +680,16 @@
       "url_diff" : ""
    },
    {
+      "artist" : "蟻るれro",
+      "comment" : "階段と皿",
+      "level" : "13",
+      "md5" : "81f543ec43c9a99e7dbf00911c410b30",
+      "name_diff" : "",
+      "title" : "Ex-PRO's-ioN [7key/Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=91&event=104",
+      "url_diff" : ""
+   },
+   {
       "artist" : "GEMA",
       "comment" : "連打",
       "level" : "14",
@@ -651,7 +721,7 @@
    },
    {
       "artist" : "orangentle / deadblue238",
-      "comment" : "",
+      "comment" : "低速ラス殺し",
       "level" : "21",
       "md5" : "844ac055e4bb4d17c6af03ca6b2f4b60",
       "name_diff" : "paraph",
@@ -697,6 +767,16 @@
       "name_diff" : "",
       "title" : "Greenwich burned down II",
       "url" : "http://onedrive.live.com/?id=F0FDD6D137C174FA%21151&cid=F0FDD6D137C174FA",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "U咲 obj.Hostc*",
+      "comment" : "ラス殺し",
+      "level" : "30",
+      "md5" : "891289fae0aad5e75a28c7d78e0e4852",
+      "name_diff" : "",
+      "title" : "Frozen Maiden [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=590&event=110",
       "url_diff" : ""
    },
    {
@@ -770,6 +850,16 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Sho Fish",
+      "comment" : "ソフランとLN",
+      "level" : "22",
+      "md5" : "9f50d7c16ee62bdd197c9bda27109eac",
+      "name_diff" : "",
+      "title" : "Notebook [ANOTHER_B]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=47&event=96",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Sampling Disaster 咲-SAKI-",
       "comment" : "皿LN縦連複合",
       "level" : "16",
@@ -802,7 +892,7 @@
    {
       "artist" : "raii",
       "comment" : "総合力",
-      "level" : "19",
+      "level" : "13",
       "md5" : "a38508a9fb77cc5f63862859676a2774",
       "name_diff" : "rat",
       "title" : "Disordered Moon [rather]",
@@ -848,6 +938,16 @@
       "title" : "searoad tracks =side blue= [ToileTStorm]",
       "url" : "http://web.archive.org/web/20070727154611/http://sasakure.bms.ms/framemusic.htm",
       "url_diff" : "http://nick.xxxxxxxx.jp/"
+   },
+   {
+      "artist" : "Sho Fish Movie:Crash",
+      "comment" : "ソフラン",
+      "level" : "6",
+      "md5" : "a972e2efc10e34d46f418746c184cf52",
+      "name_diff" : "",
+      "title" : "Phonon [Another-B]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=186&event=116",
+      "url_diff" : ""
    },
    {
       "artist" : "KNTS 8bitWorks",
@@ -980,6 +1080,16 @@
       "url_diff" : ""
    },
    {
+      "artist" : "uet (mov:いかお)",
+      "comment" : "皿と局所難",
+      "level" : "24",
+      "md5" : "bbf9cffab66f0f1af19dd0f8f8f1d6d5",
+      "name_diff" : "",
+      "title" : "Batrachotoxin (BGA ON)",
+      "url" : "https://dropbox.bms.ms/u/60346274/bms/yadoku_ogg.rar",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Xettho × jubeated",
       "comment" : "ズレソフラン",
       "level" : "5",
@@ -1068,6 +1178,16 @@
       "title" : "Misty DASH ! [ryuthere+] BGA ver.3",
       "url" : "https://cerebralmuddystream.nekokan.dyndns.info/betoo/?mode=datail&no=97",
       "url_diff" : ""
+   },
+   {
+      "artist" : "ラスとルーク",
+      "comment" : "低速皿",
+      "level" : "16",
+      "md5" : "cfaa1f297853a71273fe9e337b9fb2f5",
+      "name_diff" : "奈那樹",
+      "title" : "ASTRO [NANATHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=240&event=65",
+      "url_diff" : "http://flowermaster.web.fc2.com/"
    },
    {
       "artist" : "sasakure.UK",
@@ -1190,6 +1310,16 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Rabbit Bat",
+      "comment" : "地雷とガチ押し",
+      "level" : "18",
+      "md5" : "def513c720fb5aff8a92588429a86296",
+      "name_diff" : "",
+      "title" : "rainy beauty",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=159&event=60",
+      "url_diff" : ""
+   },
+   {
       "artist" : "SHK",
       "comment" : "低トータルLNソフラン",
       "level" : "10",
@@ -1228,6 +1358,16 @@
       "title" : "Calamity Fortune [LAST-DANCE]",
       "url" : "http://colorfulumbrella.sakura.ne.jp/ondan/ondan5.html",
       "url_diff" : "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html"
+   },
+   {
+      "artist" : "HOLY DOKYO MASTER 佐藤 -SATOH-",
+      "comment" : "皿縦連階段",
+      "level" : "25",
+      "md5" : "e24494af30acb372186834d10e86fc9e",
+      "name_diff" : "",
+      "title" : "ホーリーサンバランド -度胸-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=193&event=96",
+      "url_diff" : ""
    },
    {
       "artist" : "cybermiso (movie:龍花)",
@@ -1277,7 +1417,7 @@
       "name_diff" : "M.H",
       "title" : "orangegirl sentiment (BGA ANOTHER)",
       "url" : "http://www.pixellife.x0.to/event/revival/",
-      "url_diff" : "http://blogattach.naver.net/07921ba8bde5e33f10f792a19a7e0375dc8b749a5f/20141009_198_blogfile/ansguq00_1412784891188_5U836x_zip/mhsabun.zip"
+      "url_diff" : "https://blog.naver.com/ansguq00/80112094434"
    },
    {
       "artist" : "SHIKI",
@@ -1288,6 +1428,16 @@
       "title" : "Chariot [にゃむてる]",
       "url" : "http://shiki2.sakura.ne.jp/fohs.html",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01820"
+   },
+   {
+      "artist" : "recognize m. / BGAnimation retu",
+      "comment" : "ハード判定低トータル",
+      "level" : "4",
+      "md5" : "f29f623e82961c271eb7dab61d881c23",
+      "name_diff" : "京都306",
+      "title" : "like a dandelion [August]",
+      "url" : "https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00823"
    },
    {
       "artist" : "Franz Liszt",
