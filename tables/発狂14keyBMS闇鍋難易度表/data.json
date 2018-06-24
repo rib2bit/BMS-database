@@ -597,7 +597,7 @@
    {
       "artist" : "Y.W",
       "comment" : "BATTLE IMAGING /// 14KEYS BOSS LN",
-      "level" : "★4",
+      "level" : "★5",
       "md5" : "03a217542bef0b440db0267d0bdecf97",
       "title" : "Pokemon battle imaging - No.3"
    },
@@ -1272,6 +1272,13 @@
       "level" : "2",
       "md5" : "07f8bb805ba4e3348c5b163062ccd57f",
       "title" : "事象の地平 [DP HORIZON]"
+   },
+   {
+      "artist" : "安藤浩和 bms:Yosk!",
+      "comment" : "カービィのブロックボール",
+      "level" : "6",
+      "md5" : "07facc874c1403c7597df038714e93a1",
+      "title" : "STAGE 9  (DP黒)"
    },
    {
       "artist" : "keyc / obj.boxpurin",
@@ -4464,6 +4471,13 @@
       "level" : "10",
       "md5" : "1d33d50e2d0a06e85f8eb6b5eab8ea08",
       "title" : "Developers, Developers, Developers, Developers! [DP ANOTHER]"
+   },
+   {
+      "artist" : "UDSV / 38k *FLIP LR.MIRROR",
+      "comment" : "WORLD GROOVE",
+      "level" : "5",
+      "md5" : "1d3ae3bbc9579ca352e3aa7071f5cc53",
+      "title" : "Ares [DP ANOTHER]"
    },
    {
       "artist" : "SHANG0 respect for S.L.K. obj:ucc",
@@ -9954,7 +9968,7 @@
       "title" : "HAMMER the TANGRAM"
    },
    {
-      "artist" : "keyc+- *FLIP R.RANDOM",
+      "artist" : "keyc+- *FLIP",
       "comment" : "GABBA",
       "level" : "★4",
       "md5" : "4334bdbdef225691c16f6f434f0b2890",
@@ -11237,7 +11251,7 @@
    {
       "artist" : "remixed celas vs wa.+ obj:Louis",
       "comment" : "dramatic trance",
-      "level" : "9",
+      "level" : "3",
       "md5" : "4be6535230d01d51cfc3e5442cc53539",
       "title" : "La notti bianche [DP MAXIMUM]"
    },
@@ -12654,6 +12668,13 @@
       "level" : "5",
       "md5" : "560cbe7a6b4f90772523549460e04ceb",
       "title" : "おるめりー　らんごーど [A14]"
+   },
+   {
+      "artist" : "UDSV obj:ucc *FLIP",
+      "comment" : "WORLD GROOVE",
+      "level" : "4",
+      "md5" : "56116e881520c086cda1ebd5613a3a34",
+      "title" : "Ares [A14]"
    },
    {
       "artist" : "xi / Obj:ゆ～兎",
@@ -16268,7 +16289,7 @@
       "title" : "KIRBY-CHAN'D CANYON (CN Ver.) [CN-TEMP2]"
    },
    {
-      "artist" : "w_tre respect for AT&HU / obj:lichtr",
+      "artist" : "w_tre respect for AT&HU / obj:lichtr *L.MIRROR",
       "comment" : "PIANO ALGEBRA",
       "level" : "★4",
       "md5" : "6d1d41ab908e9861857f94a062b47c79",
@@ -16518,6 +16539,13 @@
       "level" : "6",
       "md5" : "6e8f73289e07949f5b6c360e87b3582c",
       "title" : "Tuk Tuk Boshi [セミ]"
+   },
+   {
+      "artist" : "HOUJIROU obj:ucc",
+      "comment" : "TECHNO / TECH DANCE",
+      "level" : "2",
+      "md5" : "6ec13a59a0f84b46799fe459363a2737",
+      "title" : "Soul of Deep-sea Fish [A14]"
    },
    {
       "artist" : "Cres / Obj. Z_N",
@@ -18347,6 +18375,13 @@
       "title" : "Dazzling Neon [Darling14]"
    },
    {
+      "artist" : "Silentroom × mommy × Nate / obj.LetsOTL *FLIP",
+      "comment" : "FORTISSIMO",
+      "level" : "3",
+      "md5" : "79d513270d899b4ee308aca0a0a0422b",
+      "title" : "Implexrough [SRBOFU2017DP]"
+   },
+   {
       "artist" : "しらいし (obj:NEPIA)",
       "comment" : "Classical Trance",
       "level" : "★4",
@@ -18802,7 +18837,7 @@
       "title" : "Debut [DP ANOTHER]"
    },
    {
-      "artist" : "ATM / objeCraft *FLIP R.MIRROR",
+      "artist" : "ATM / objeCraft *正規 or FLIP R.MIRROR",
       "comment" : "space",
       "level" : "★5",
       "md5" : "7c8b37e5197f5e4d0dffd75f03cdcdc4",
@@ -19374,6 +19409,13 @@
       "level" : "6",
       "md5" : "80e277775336b9117e422af376df700d",
       "title" : "妹様Exterminator [14KEY ANOTHER]"
+   },
+   {
+      "artist" : "安藤浩和 bms:Yosk!",
+      "comment" : "カービィのブロックボール",
+      "level" : "3",
+      "md5" : "80e306179bcba762a66b1b87d1656fdf",
+      "title" : "STAGE 9  (DPA)"
    },
    {
       "artist" : "copyyyy obj:ucc *L.MIRROR",
@@ -20267,7 +20309,7 @@
    {
       "artist" : "Ras obj:Hersh",
       "comment" : "Tech electro",
-      "level" : "★6",
+      "level" : "★7",
       "md5" : "863731609949991af64c0a42f5d0a124",
       "title" : "STAGER [Infinity STAGE]"
    },
@@ -20435,7 +20477,7 @@
    {
       "artist" : "AKIRA YAMAOKA / obj : cosmos *FLIP LR.MIRROR",
       "comment" : "HYPER TECNO",
-      "level" : "★6",
+      "level" : "★5",
       "md5" : "872c2fbbdeeefe82497fe020863b1834",
       "title" : "350DQm"
    },
@@ -21413,7 +21455,7 @@
       "title" : "COMMANDO (DP KUSSO)"
    },
    {
-      "artist" : "Musical Masterpiece obj:ucc *L.MIRROR",
+      "artist" : "Musical Masterpiece obj:ucc *L.MIRROR or LR.RANDOM",
       "comment" : "PROGRESSIVE JAZZ",
       "level" : "8",
       "md5" : "8d24ea2eb9a1d96e8aefdb86de668a19",
@@ -22015,6 +22057,13 @@
       "title" : "Pulse of Reunion [DP HYPER]"
    },
    {
+      "artist" : "Ras",
+      "comment" : "TECHNO",
+      "level" : "3",
+      "md5" : "904a134a33925667ed288e65ca87ddda",
+      "title" : "ALIENS MASK (DP Another)"
+   },
+   {
       "artist" : "ZUN(Arr.sun3)",
       "comment" : "MYSTIC SEQUENCER",
       "level" : "10",
@@ -22253,9 +22302,9 @@
       "title" : "Jack o' Lantern -14keys-"
    },
    {
-      "artist" : "Ice *R.MIRROR",
+      "artist" : "Ice *R.MIRROR or R.RANDOM",
       "comment" : "RENAISSANCE PRAYER",
-      "level" : "9",
+      "level" : "10",
       "md5" : "925b52c71c25c554ee603e7a4f8ba4e8",
       "title" : "L (ANOTHER)"
    },
@@ -24248,7 +24297,7 @@
       "title" : "Auston -14GB-"
    },
    {
-      "artist" : "anubasu-anubasu / obj: JGh meets Pumpkin_Man BGA by 出前  *LR.MIRROR",
+      "artist" : "anubasu-anubasu / obj: JGh meets Pumpkin_Man BGA by 出前  *正規 or LR.MIR",
       "comment" : "RAVE / HARD DANCE",
       "level" : "★6",
       "md5" : "9fbc494da8f271e564335e44e9c344ca",
@@ -28553,7 +28602,7 @@
       "title" : "Famicom sweet memories"
    },
    {
-      "artist" : "Junk OBJ:KLOC",
+      "artist" : "Junk OBJ:KLOC  *L.MIRROR",
       "comment" : "Epic Trance",
       "level" : "★2",
       "md5" : "ba63eceb4bc2fcee654b559202dff442",
@@ -29402,7 +29451,7 @@
    {
       "artist" : "onoken / 38k *AVERAGE",
       "comment" : "drum'n core",
-      "level" : "1",
+      "level" : "5",
       "md5" : "bfcbeaaf47e232cd281085f4c7868bc3",
       "title" : "P8107 -DP ANOTHER-"
    },
@@ -30002,14 +30051,14 @@
       "title" : "EXILE [MANIAQ14]"
    },
    {
-      "artist" : "Is-j",
+      "artist" : "Is-j *FLIP LR.MIRROR",
       "comment" : "JAIANESE POPS",
       "level" : "★6",
       "md5" : "c3c0b70c9ef5428d6d603b8bde493592",
       "title" : "暗黒大迷路探検"
    },
    {
-      "artist" : "東風谷誠 feat.かなえゆめ obj:ucc *FLIP L.RAN R.MIR",
+      "artist" : "東風谷誠 feat.かなえゆめ obj:ucc *正規 or FLIP LR.MIRROR",
       "comment" : "RECOLLECTION TRANCE",
       "level" : "9",
       "md5" : "c3cbd2b76fed8138fde5036ec9fadab4",
@@ -31516,7 +31565,7 @@
    {
       "artist" : "Key Remixed by くっちー feat.初音ミク Illust:きさ/OBJ:KLOC",
       "comment" : "HAPPY HARDCORE",
-      "level" : "★5",
+      "level" : "★6",
       "md5" : "cee4c3778ad709782a417777040fa687",
       "title" : "青空(Cheerful -air- Remix) [H軟膏]"
    },
@@ -32328,7 +32377,7 @@
    {
       "artist" : "Lime / 温泉の力 /",
       "comment" : "kawaiicore",
-      "level" : "★5",
+      "level" : "★6",
       "md5" : "d49f9971691b047257865520846193f8",
       "title" : "Harmony [S]"
    },
@@ -34029,7 +34078,7 @@
    {
       "artist" : "ridis  obj ; N",
       "comment" : "intelligence",
-      "level" : "★4",
+      "level" : "★5",
       "md5" : "e05216f33674d459fc7164a1d138a333",
       "title" : "x-Aria [DP えぬTHER+]"
    },
@@ -36521,7 +36570,7 @@
    {
       "artist" : "HARD RENAISSAMBA MASTER 佐藤 -SATOH- / obj.LetsOTL",
       "comment" : "ゆったり系失楽園",
-      "level" : "★6",
+      "level" : "★7",
       "md5" : "f09c551eea50f1d3fb104cc9a2b5c5cd",
       "title" : "ハードルネッサンバ -DP LAST BOSS-"
    },
