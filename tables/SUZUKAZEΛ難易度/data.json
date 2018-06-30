@@ -555,6 +555,18 @@
       "url_diff" : "http://obj42.web.fc2.com/index.html"
    },
    {
+      "artist" : "cittan* feat. YUNA obj:monaka",
+      "comment" : "",
+      "level" : "1",
+      "lr2_bmsid" : "259373",
+      "md5" : "136a63ad93e95ecb2bb7261612921f62",
+      "name_diff" : "monaka",
+      "reg_date" : "",
+      "title" : "Guiding Star (SP EX)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=65",
+      "url_diff" : "https://ux.getuploader.com/monaka_sabun_2/download/151"
+   },
+   {
       "artist" : "kanone/差分　赤い人 mov:deadblue238",
       "comment" : "",
       "level" : "2",
@@ -920,6 +932,18 @@
       "url_diff" : "https://dl.dropbox.com/s/7dr0edk7qzievod/Rockstar_zoi.zip?dl=0"
    },
    {
+      "artist" : "raii obj:SUZUKAZEΛ",
+      "comment" : "乱打 ／ ガチ押し",
+      "level" : "0",
+      "lr2_bmsid" : "262104",
+      "md5" : "1df63004f70bfcfd5dab20b7a31d8214",
+      "name_diff" : "SUZUKAZEΛ",
+      "reg_date" : " ",
+      "title" : "Let's start the Party! [ZOI]",
+      "url" : "https://twitter.com/raii_x/status/1003289945157484549",
+      "url_diff" : "https://dl.dropbox.com/s/pfl54hac90hyg9g/%5Braii%5DLet%27s%20start%20the%20Party%21_zoi.zip?dl=1"
+   },
+   {
       "artist" : "濱田理恵 remixed by goangra obj:SUZUKAZEΛ",
       "comment" : "乱打,皿絡み,微縦連",
       "level" : "9",
@@ -1083,7 +1107,6 @@
       "md5" : "22280d823787624f74da7e1bba6f15ef",
       "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
-      "state" : 1,
       "title" : "幽雅に咲かせ、墨染の桜 [ZOI-Endless]",
       "url" : "https://mega.nz/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA!VIlliZbJ",
       "url_diff" : "https://dl.dropbox.com/s/9caz8zg4xtd61z7/%5Bzun%5D%20%E5%B9%BD%E9%9B%85%E3%81%AB%E5%92%B2%E3%81%8B%E3%81%9B%E3%80%81%E5%A2%A8%E6%9F%93%E3%81%AE%E6%A1%9C_zoi.zip?dl=1"
@@ -1219,6 +1242,18 @@
       "title" : "サラトマティック [ZOI-EZ]",
       "url" : "http://web.archive.org/web/20081003142610/http://page.freett.com/nekonohito/sala.htm",
       "url_diff" : "https://dl.dropbox.com/s/0734okim2xx464n/ne_sala_zoi.zip?dl=1"
+   },
+   {
+      "artist" : "Se-U-Ra",
+      "comment" : "",
+      "level" : "11",
+      "lr2_bmsid" : "258599",
+      "md5" : "291900e79b79e1d0edc23452840574fd",
+      "name_diff" : "赤い人",
+      "reg_date" : " ",
+      "title" : "写儀の少女Lix [HARDEST]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=89&event=116",
+      "url_diff" : "http://akred.web.fc2.com/ak-red.html"
    },
    {
       "artist" : "U-hey　BGA:ユウノ / obj : LindBlum",
@@ -1376,6 +1411,19 @@
       "title" : "Ophelia [SEIRYU Easy]",
       "url" : "http://lime0836.nomaki.jp/bms.html",
       "url_diff" : "http://kusaiseiryu.web.fc2.com/doblestairs.html"
+   },
+   {
+      "artist" : "saaa BGI:MO / obj:SUZUKAZEΛ",
+      "comment" : "乱打,ズレ,微縦連",
+      "level" : "11",
+      "lr2_bmsid" : "261753",
+      "md5" : "30e2030a1d04bc4eb09cfb078c8ed878",
+      "name_diff" : "SUZUKAZEΛ",
+      "reg_date" : " ",
+      "state" : 1,
+      "title" : "Rise Above the Firmament [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=121",
+      "url_diff" : "https://dl.dropbox.com/s/4xbf6fcp9l92fka/%5Bsaaa%5DRise%20Above%20the%20Firmament_zoi.zip?dl=1"
    },
    {
       "artist" : "高嶺　愛花　obj : JEYSON BGA : 室谷",
@@ -2154,6 +2202,18 @@
       "url_diff" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=193&event=96"
    },
    {
+      "artist" : "void 鴫野エイカー",
+      "comment" : "FILE：01370",
+      "level" : "4",
+      "lr2_bmsid" : "256271",
+      "md5" : "473db12a91972ab16c3ea9b21e245a5d",
+      "name_diff" : "アプロダ避難所先",
+      "reg_date" : "",
+      "title" : "Twilight Observer [Another+]",
+      "url" : "https://bmssearch.net/venue/detail?event=vfpq02&id=25",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01370"
+   },
+   {
       "artist" : "9-zen obj:SUZUKAZEΛ",
       "comment" : "二重階段,軸,ズレ",
       "level" : "1",
@@ -2429,6 +2489,19 @@
       "title" : "PrayStation [おに]",
       "url" : "http://colosseo.nekokan.dyndns.info/c02_shuffle/detail.php?n=50",
       "url_diff" : "http://10tan.web.fc2.com/bms/PrayStation_7oni.bme"
+   },
+   {
+      "artist" : "raii obj:SUZUKAZEΛ",
+      "comment" : "★8,乱打 ／ ガチ押し",
+      "level" : "Λ",
+      "lr2_bmsid" : "262105",
+      "md5" : "51dfe837f6837c6be9b7f9b07ed4e929",
+      "name_diff" : "SUZUKAZEΛ",
+      "reg_date" : " ",
+      "state" : 1,
+      "title" : "Let's start the Party! [ZOI-SC]",
+      "url" : "https://twitter.com/raii_x/status/1003289945157484549",
+      "url_diff" : "https://dl.dropbox.com/s/pfl54hac90hyg9g/%5Braii%5DLet%27s%20start%20the%20Party%21_zoi.zip?dl=1"
    },
    {
       "artist" : "sak Movie:猫太郎",
@@ -3009,6 +3082,19 @@
       "url_diff" : "http://akred.web.fc2.com/baecon.html"
    },
    {
+      "artist" : "nonomori obj:SUZUKAZEΛ",
+      "comment" : "同時押し,縦連,皿複合,高速階段",
+      "level" : "6",
+      "lr2_bmsid" : "261830",
+      "md5" : "65b11165f71adaa3dbe00727cd58be17",
+      "name_diff" : "SUZUKAZEΛ",
+      "reg_date" : " ",
+      "state" : 1,
+      "title" : "天照～amaterasu～ [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=121",
+      "url_diff" : "https://dl.dropbox.com/s/lhomobjiolgbxzc/%5Bnonomori%5Damaterasu_zoi.zip?dl=1"
+   },
+   {
       "artist" : "wa. / obj:Sena",
       "comment" : "汎用up0680",
       "level" : "7",
@@ -3115,6 +3201,19 @@
       "title" : "聖徳伝説 [十人十色]",
       "url" : "http://dl.dropbox.com/u/31329797/seitoku_ogg.rar",
       "url_diff" : "http://flowermaster.web.fc2.com/"
+   },
+   {
+      "artist" : "さんまのこぼね obj:SUZUKAZEΛ",
+      "comment" : "微縦連,跳ね,同時押し,LN",
+      "level" : "3",
+      "lr2_bmsid" : "261978",
+      "md5" : "6949a9982c7678ae41a0277388cb8995",
+      "name_diff" : "SUZUKAZEΛ",
+      "reg_date" : " ",
+      "state" : 1,
+      "title" : "Tearslight [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=56&event=121",
+      "url_diff" : "https://dl.dropbox.com/s/eog735789ovnjw0/Tearslight_zoi.zip?dl=1"
    },
    {
       "artist" : "mommy obj:SUZUKAZEΛ",
@@ -3616,7 +3715,6 @@
       "md5" : "7a7d5fd4f10befd8c4437c8f2b62b067",
       "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
-      "state" : 1,
       "title" : "呼無のカミサマ [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=120",
       "url_diff" : "https://dl.dropbox.com/s/7ooz5u7oprh8epb/Bacikami_zoi.zip?dl=1"
@@ -3921,6 +4019,18 @@
       "title" : "Is This Your Memory? [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=313&event=116",
       "url_diff" : "https://dl.dropbox.com/s/jj1gpruc9gfere5/Cosine_Is_This_Your_Memory_zoi.zip?dl=1"
+   },
+   {
+      "artist" : "MALVA. ob.にゃむ",
+      "comment" : "FILE：01795",
+      "level" : "4",
+      "lr2_bmsid" : "261962",
+      "md5" : "83aafbc22779cf30f0db5d48447fd461",
+      "name_diff" : "アプロダ避難所",
+      "reg_date" : "",
+      "title" : "Heilenwelt [たーる！]",
+      "url" : "https://bmssearch.net/venue/detail?event=3&id=52",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01795"
    },
    {
       "artist" : "BELUGA Movie : highluin obj:BAECON",
@@ -5042,6 +5152,19 @@
       "url_diff" : "http://siokazebms.web.fc2.com/"
    },
    {
+      "artist" : "corok-Bb obj:SUZUKAZEΛ",
+      "comment" : "同時押し(ガチ押し),皿複合,LN",
+      "level" : "3",
+      "lr2_bmsid" : "262521",
+      "md5" : "ac120f7e76f327ea7203bd9a506c397f",
+      "name_diff" : "SUZUKAZEΛ",
+      "reg_date" : " ",
+      "state" : 1,
+      "title" : "Signager [EZ-ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=121",
+      "url_diff" : "https://dl.dropbox.com/s/cv6u58ngm9yl3rd/Signager_zoifix.zip?dl=1"
+   },
+   {
       "artist" : "Se-U-Ra obj:SUZUKAZEΛ",
       "comment" : "同時押し,高速階段,皿絡み",
       "level" : "7",
@@ -5181,7 +5304,6 @@
       "md5" : "b1719188cba5450eaf9aa16dad6ff32c",
       "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
-      "state" : 1,
       "title" : "Break of the Day [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=68&event=120",
       "url_diff" : "https://dl.dropbox.com/s/m54lh45mo5imn1q/%5Braii%5DBreak%20of%20the%20Day_zoi.zip?dl=1"
@@ -5206,7 +5328,6 @@
       "md5" : "b1f0507215829d75064a2f49faa4dd04",
       "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
-      "state" : 1,
       "title" : "Brink [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=120",
       "url_diff" : "https://dl.dropbox.com/s/46grvy28yw3xr3q/uet_Brink_HQzoi.zip?dl=1"
@@ -5375,7 +5496,6 @@
       "md5" : "b7c510d564e6abdc8fb3a0495663ce4a",
       "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
-      "state" : 1,
       "title" : "ハニエルのうた [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=120",
       "url_diff" : "https://dl.dropbox.com/s/4vc0aizmeg0am0y/%5Bsak%5D%E3%83%8F%E3%83%8B%E3%82%A8%E3%83%AB%E3%81%AE%E3%81%86%E3%81%9F_zoi.zip?dl=1"
@@ -5439,6 +5559,18 @@
       "title" : "アルティメットリユニオン [DELAY]",
       "url" : "http://miohosina.moe.hm/",
       "url_diff" : "http://akred.web.fc2.com/ak-red.html"
+   },
+   {
+      "artist" : "shimizushi illust:a.a / obj:monaka",
+      "comment" : "",
+      "level" : "5",
+      "lr2_bmsid" : "262076",
+      "md5" : "b9064f3696a6d97cdd321da8246f11f7",
+      "name_diff" : "monaka",
+      "reg_date" : "",
+      "title" : "SATSUKI [MAY]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=62&event=121",
+      "url_diff" : "https://ux.getuploader.com/monaka_sabun_2/download/157"
    },
    {
       "artist" : "LunaticSounds / ShiginoEicar obj:SUZUKAZEΛ",
@@ -5508,7 +5640,6 @@
       "md5" : "bb51e06228e7279b47120b9a5c527421",
       "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
-      "state" : 1,
       "title" : "Love☆Spellcard [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=118",
       "url_diff" : "https://dl.dropbox.com/s/9nxucvo20dhvoyi/ogg_lsc_zoi.zip?dl=1"
@@ -6784,12 +6915,11 @@
    {
       "artist" : "MALVA. BGA : 焼き鳥　Illustration : 恋々 obj : SUZUKAZEΛ",
       "comment" : "同時押し,ズレ,壁",
-      "level" : "8",
+      "level" : "7",
       "lr2_bmsid" : "261045",
       "md5" : "e3c98032996665fe9956981fd4d543f0",
       "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
-      "state" : 1,
       "title" : "Mifis -Confinement- [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=120",
       "url_diff" : "https://dl.dropbox.com/s/5s6n68ladocp8ms/%5BMALVA%5Dmifis%5BAlchemistStory4%5D_LR2_zoi.zip?dl=1"
@@ -7036,6 +7166,19 @@
       "title" : "Bloody Malie -Light-",
       "url" : "http://malie.noor.jp/",
       "url_diff" : "http://piyopiyosabun.syoyu.net/"
+   },
+   {
+      "artist" : "corok-Bb obj:SUZUKAZEΛ",
+      "comment" : "同時押し(ガチ押し),皿複合,LN",
+      "level" : "11",
+      "lr2_bmsid" : "262522",
+      "md5" : "e9dfe82dfd8827393fabb87483344e20",
+      "name_diff" : "SUZUKAZEΛ",
+      "reg_date" : " ",
+      "state" : 1,
+      "title" : "Signager [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=121",
+      "url_diff" : "https://dl.dropbox.com/s/cv6u58ngm9yl3rd/Signager_zoifix.zip?dl=1"
    },
    {
       "artist" : "midi:yukitani obj:SUZUKAZEΛ",
@@ -7358,7 +7501,6 @@
       "md5" : "f4be342c99aa0d1ec024e021706b7ac2",
       "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
-      "state" : 1,
       "title" : "let me take you [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=26&event=120",
       "url_diff" : "https://dl.dropbox.com/s/4x2et1p0nxoziw2/let%20me%20take%20you%20zoi.zip?dl=1"
@@ -7371,7 +7513,6 @@
       "md5" : "f4be342c99aa0d1ec024e021706b7ac2",
       "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
-      "state" : 1,
       "title" : "Formula Star [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=38&event=120",
       "url_diff" : "https://dl.dropbox.com/s/p3fl3tkejxvk5zp/hpx-formulastar_zoi.zip?dl=1"
@@ -7405,18 +7546,6 @@
       "artist" : "さかみりと img:しぐれぷに子",
       "comment" : "高速階段,微縦連,皿複合",
       "level" : "10",
-      "lr2_bmsid" : "253948",
-      "md5" : "f4e9aca685fa4e3ab896010474ea1d45",
-      "name_diff" : "SUZUKAZEΛ",
-      "reg_date" : " ",
-      "title" : "八大地獄邪魂転生狂葬散火歌 [ZOI]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=116",
-      "url_diff" : "https://dl.dropbox.com/s/d1a170d3qzhv49s/8G59_sakamirito_zoi.zip?dl=1"
-   },
-   {
-      "artist" : "さかみりと img:しぐれぷに子",
-      "comment" : "高速階段,微縦連,皿複合",
-      "level" : "11",
       "lr2_bmsid" : "253948",
       "md5" : "f4e9aca685fa4e3ab896010474ea1d45",
       "name_diff" : "SUZUKAZEΛ",
@@ -7592,6 +7721,19 @@
       "title" : "CHICKEN for the WIN [Chicken Pizza]",
       "url" : "http://teracoya.nekokan.dyndns.info/g2r2014uop/",
       "url_diff" : "http://lapisbms.web.fc2.com/"
+   },
+   {
+      "artist" : "qfeileadh mov.アトリエ海百合　feat. レゾナンスもえこ / ハタイッセー / obj:SUZUKAZEΛ",
+      "comment" : "乱打,ズレ,微縦連",
+      "level" : "2",
+      "lr2_bmsid" : "262033",
+      "md5" : "fb799d0d6a7148d844b65d6fb6ce0cf5",
+      "name_diff" : "SUZUKAZEΛ",
+      "reg_date" : " ",
+      "state" : 1,
+      "title" : "スピカ [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=121",
+      "url_diff" : "https://dl.dropbox.com/s/ytxqwqkb7qz1e9e/qfeileadh_spica_zoi.zip?dl=1"
    },
    {
       "artist" : "nitro obj:SUZUKAZEΛ",
