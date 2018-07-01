@@ -1801,7 +1801,7 @@
    {
       "artist" : "XEOEXE　obj:LAKE *FLIP R.MIRROR",
       "comment" : "Gorilla←このカーナビ持ってます",
-      "level" : "9",
+      "level" : "4",
       "md5" : "0b3a81b0293a1e7b85dd7fba73baab7e",
       "title" : "Gorilla Gorilla -真・お手軽ゴリラちゃん-"
    },
@@ -2207,7 +2207,7 @@
    {
       "artist" : "zest:rave / Obj:ゆ～兎",
       "comment" : "Cyber Core",
-      "level" : "9",
+      "level" : "10",
       "md5" : "0e05593e0b01c2fa57281cc42c22cdb0",
       "title" : "H.S : Hadron Strike [DP ANOTHER]"
    },
@@ -3684,7 +3684,7 @@
    {
       "artist" : "黒雛 obj:ucc",
       "comment" : "ラプンツェル",
-      "level" : "★1",
+      "level" : "9",
       "md5" : "18550a74c7b4856f53d1d547afc8d991",
       "title" : "雨月籠歌 [A14]"
    },
@@ -5040,7 +5040,7 @@
       "title" : "ドリームグライダー  <14KEYS ANOTHER>"
    },
    {
-      "artist" : "N-island-K *R.MIRROR or R.RANDOM",
+      "artist" : "N-island-K *LR.RANDOM",
       "comment" : "ハードノスタルジア",
       "level" : "★4",
       "md5" : "2137f88aea68d2bccc9d387efb0e74a7",
@@ -6776,7 +6776,7 @@
       "title" : "Rainy City(What did you say?) ～夕立～"
    },
    {
-      "artist" : "HOUJIROU / BGA: hardlove / obj:Hersh *L.MIRROR",
+      "artist" : "HOUJIROU / BGA: hardlove / obj:Hersh",
       "comment" : "Drum 'n Bass",
       "level" : "★3",
       "md5" : "2ccc7f859566656749e5ecd20af72e69",
@@ -7926,7 +7926,7 @@
    {
       "artist" : "SHIKI obj:hamburger",
       "comment" : "TRANCE",
-      "level" : "★6",
+      "level" : "★7",
       "md5" : "34a5330a0e8421b22813d79ced01f8eb",
       "title" : "Angelic layer (^_^;)"
    },
@@ -9037,7 +9037,7 @@
       "title" : "Naked Game [DP ANOTHER]"
    },
    {
-      "artist" : "Is-m (obj:k) BGA:tyrantnias",
+      "artist" : "Is-m (obj:k) BGA:tyrantnias  *正規 or L.MIR",
       "comment" : "TECHNO",
       "level" : "★3",
       "md5" : "3cbe162b897c7495410750b1376ea6d5",
@@ -16758,7 +16758,7 @@
       "title" : "Precipitance  [14key]"
    },
    {
-      "artist" : "3034/obj:hamburger Anomie / IllusionRain",
+      "artist" : "3034/obj:hamburger Anomie / IllusionRain  *AVE 0->-20",
       "comment" : "EXTREME TECHNO",
       "level" : "★7",
       "md5" : "704dcc734eb152884b4c0e2a576766a0",
@@ -16933,7 +16933,7 @@
       "title" : "Dance revolution [DP ANOTHER]"
    },
    {
-      "artist" : "TRANCE TANCE *LR.RANDOM",
+      "artist" : "TRANCE TANCE *FLIP LR.MIRROR",
       "comment" : "BITCHAGE TRANCE",
       "level" : "9",
       "md5" : "7146cab7bfc86cafb837eff9ef2b87bd",
@@ -17199,9 +17199,9 @@
       "title" : "桜華月 [ししとう14]"
    },
    {
-      "artist" : "ZUN(Remixed by 八意)/obj@PEN *FLIP LR.RANDOM",
+      "artist" : "ZUN(Remixed by 八意)/obj@PEN *FLIP LR.MIRROR",
       "comment" : "Piano DnB",
-      "level" : "★3",
+      "level" : "★1",
       "md5" : "72dfb8d78f6e72fe7e0f51ea13ff7cb9",
       "title" : "Voyage ～夢幻の彼方、永久の冥王星～"
    },
@@ -20202,7 +20202,7 @@
       "title" : "CHASER [Another]"
    },
    {
-      "artist" : "8284 / Obj:ゆ～兎",
+      "artist" : "8284 / Obj:ゆ～兎 *FLIP",
       "comment" : "CYBER ENERGETIC TRANCE",
       "level" : "★4",
       "md5" : "85b82513dc18fd21b92ec57b7fa40fbe",
@@ -24094,7 +24094,7 @@
       "title" : "ハルトマンの妖怪少女～VirusⅤ [H14]"
    },
    {
-      "artist" : "tarolabo#obj.e",
+      "artist" : "tarolabo#obj.e *正規 or FLIP LR.MIRROR",
       "comment" : "[ProgressiveSwing]",
       "level" : "★5",
       "md5" : "9e7a50b14f605768b9bc1c086b23d162",
@@ -26497,7 +26497,7 @@
    {
       "artist" : "Blacksparrow VS DeathisM *LR.RANDOM",
       "comment" : "Orchestral Drum'n Bass",
-      "level" : "9",
+      "level" : "8",
       "md5" : "ad5d5543720e1008bb577ffff2069c1d",
       "title" : "Glacier heart [Another]"
    },
@@ -30485,9 +30485,9 @@
       "title" : "roulade"
    },
    {
-      "artist" : "D.J.Nero/*8284* *LR.RANDOM",
+      "artist" : "D.J.Nero/*8284* *LR.RANDOM or L.MIRROR",
       "comment" : "RENAISSANCE",
-      "level" : "9",
+      "level" : "10",
       "md5" : "c6d41277df47373749a2d4ced415f22b",
       "title" : "Joker -A-"
    },
@@ -30555,9 +30555,9 @@
       "title" : "麻婆格闘倶楽部 [14KEYS 激辛]"
    },
    {
-      "artist" : "bbangsami *FLIP",
+      "artist" : "bbangsami",
       "comment" : "Casual fusion (Band play [2p] 7keys Lv.6 & Lv.11)",
-      "level" : "9",
+      "level" : "?",
       "md5" : "c71a9b3c35c8d865344ed9738c14ebf7",
       "title" : "Grow sproutling (2players Lv.6 synthesizer & Lv.11 drum)"
    },
@@ -31157,7 +31157,7 @@
       "title" : "asdfsong (\"mix your own sytrus\" mix) [dpasdf]"
    },
    {
-      "artist" : "ねこみみ魔法使い Obj.Gatia *LR.MIR or LR.RAN",
+      "artist" : "ねこみみ魔法使い Obj.Gatia *FLIP L.RANDOM",
       "comment" : "HappY PoPcorN(another14)",
       "level" : "★1",
       "md5" : "cb25a8c0d6bda60a1776366be0ea2d8b",
@@ -31423,7 +31423,7 @@
       "title" : "Retroactive Rain (NORMAL)"
    },
    {
-      "artist" : "DETRO *FLIP LR.MIRROR",
+      "artist" : "DETRO *正規 or FLIP LR.MIRROR",
       "comment" : "ボルケーノ",
       "level" : "★16",
       "md5" : "ccf2c4775d052f7ab1c1ac8b5a9e2bf2",
@@ -32151,7 +32151,7 @@
       "title" : "Name of oath [DP sub black another]"
    },
    {
-      "artist" : "ZANG / obj:w *MAXBPM+20 FLIP",
+      "artist" : "ZANG / obj:w *MAXBPM+20 FLIP　L.RANDOM",
       "comment" : "famicom music",
       "level" : "★5",
       "md5" : "d2d3b0a3e429bd39b2050d47dbe134fa",
@@ -32321,7 +32321,7 @@
    {
       "artist" : "由蘭 / ALICE*  obj ; N",
       "comment" : "東方怪綺談",
-      "level" : "★5",
+      "level" : "★6",
       "md5" : "d4548a94f9a73173f0be533ae9219520",
       "title" : "不思議の国のアリス [DP えぬTHER]"
    },
@@ -33199,6 +33199,13 @@
       "level" : "★9",
       "md5" : "da485598390d10b64dd20255214a1a40",
       "title" : "ばーどすぷらいとだぶる はやい"
+   },
+   {
+      "artist" : "Queen P.A.L. / obj: NiGHTS",
+      "comment" : "HYPER TECHNO",
+      "level" : "3",
+      "md5" : "da5ee6612befcc4cea62714e7dfff9bb",
+      "title" : "Maharaja Trance + [EXPERT14]"
    },
    {
       "artist" : "ABE3 / obj : JGh",
@@ -35126,7 +35133,7 @@
       "title" : "綺麗だった [14KEY]"
    },
    {
-      "artist" : "GYAON obj:ado *正規 or L.MIRROR",
+      "artist" : "GYAON obj:ado *正規 or L.MIR or FLIP LR.MIR",
       "comment" : "SaGa Frontier",
       "level" : "★5",
       "md5" : "e7fe01a692e737337c7824775dca954c",
@@ -35448,7 +35455,7 @@
       "title" : "The Formula [DP INSANE]"
    },
    {
-      "artist" : "BOKKEN FUCHSIA BOKKEN BLUE obj:ucc",
+      "artist" : "BOKKEN FUCHSIA BOKKEN BLUE obj:ucc  *FLIP",
       "comment" : "HYBRIDIZE PSYBOKKEN",
       "level" : "★1",
       "md5" : "ea4242bff8da40325c552ac89572bbfa",
@@ -37088,7 +37095,7 @@
    {
       "artist" : "Ice obj:ucc",
       "comment" : "elemental core",
-      "level" : "9",
+      "level" : "8",
       "md5" : "f4465fd665a7274eb71ba5cbce30d012",
       "title" : "glacial world [LNA14]"
    },
@@ -37331,7 +37338,7 @@
       "title" : "8th:Planet [DPA]"
    },
    {
-      "artist" : "DaDass *L.MIR or FLIP L.MIR or LR.RAN",
+      "artist" : "DaDass *FLIP or LR.RAN",
       "comment" : "Goa Trance",
       "level" : "★5",
       "md5" : "f628985ddb79a074e1c2a46159034ffb",
