@@ -13,11 +13,22 @@
    {
       "artist" : "裏吉川/-45",
       "comment" : "",
-      "level" : "4",
+      "level" : "5",
       "md5" : "00e83118bc79a984ebd4c5c98742f257",
       "name_diff" : "be5moti",
       "title" : "零式 [Type Zero]",
       "url" : "http://www5.pf-x.net/~malie/"
+   },
+   {
+      "artist" : "be5moti",
+      "comment" : "",
+      "level" : "2",
+      "lr2_bmsid" : 243787,
+      "md5" : "00f7360d51c5eb540ffd054a7a42999b",
+      "name_diff" : "selene.",
+      "title" : "Trahison -Judas-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=63&event=102",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00608"
    },
    {
       "artist" : "Is-m",
@@ -42,12 +53,20 @@
    {
       "artist" : "farsita with PMT&moonlight",
       "comment" : "",
-      "level" : "4",
+      "level" : "5",
       "lr2_bmsid" : 214731,
       "md5" : "056248b8ccc5ea31e3653df887ae320d",
       "name_diff" : "VINYL",
       "title" : "Assumptio [Death Penalty]",
       "url_diff" : "http://www.geocities.jp/vinyl8310/"
+   },
+   {
+      "artist" : "－",
+      "comment" : "Key音無し",
+      "level" : "4",
+      "md5" : "0605842d8eaec45074af8dbd63ace043",
+      "name_diff" : "－",
+      "title" : "Nest [LEGACY]"
    },
    {
       "artist" : "ルゼ",
@@ -71,19 +90,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=351&event=74"
    },
    {
-      "artist" : "SLK",
-      "comment" : "",
-      "level" : "1",
-      "lr2_bmsid" : 92194,
-      "md5" : "087098fc884589dfb3787f8d84143f31",
-      "name_diff" : "お下げ",
-      "title" : "Cymicco(THE mikother)",
-      "url" : "http://web.archive.org/web/20040605192725/http://www30.cds.ne.jp/~slk_ymd/muzik/index.html",
-      "url_diff" : "http://www.geocities.jp/dsks5456/index.html"
-   },
-   {
       "artist" : "－",
-      "comment" : "",
+      "comment" : "Key音無し",
       "level" : "3",
       "md5" : "09048de1f42d02fed990373491df121f",
       "name_diff" : "－",
@@ -205,7 +213,7 @@
    },
    {
       "artist" : "－",
-      "comment" : "",
+      "comment" : "Key音無し",
       "level" : "3",
       "md5" : "11ea7a58c6c8cd0ee3b18a91fa3332d8",
       "name_diff" : "－",
@@ -231,16 +239,6 @@
       "title" : "Yugan Diver -PENDULUMs-",
       "url" : "https://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9!201&authkey=!AKRI_LJWCFUbDrg",
       "url_diff" : "http://www.geocities.jp/vinyl8310/"
-   },
-   {
-      "artist" : "次元大介",
-      "comment" : "",
-      "level" : "3",
-      "lr2_bmsid" : 157588,
-      "md5" : "1376b1a070d160ef5aad1905639684a0",
-      "name_diff" : "－",
-      "title" : "歪んだ樹 [92Another]",
-      "url" : "https://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9!201&authkey=!AKRI_LJWCFUbDrg"
    },
    {
       "artist" : "kurena",
@@ -276,15 +274,15 @@
    },
    {
       "artist" : "－",
-      "comment" : "",
-      "level" : "0",
+      "comment" : "Key音無し",
+      "level" : "1",
       "md5" : "1712b8a5616ddd9fc712fe727c524061",
       "name_diff" : "－",
       "title" : "Raison d'etre -ANOTHER+-"
    },
    {
       "artist" : "－",
-      "comment" : "",
+      "comment" : "Key音無し",
       "level" : "4",
       "lr2_bmsid" : 150164,
       "md5" : "183eeb8e51ce6f29f87b5d36a22b823c",
@@ -334,16 +332,6 @@
       "url" : "http://kurenaissance.web6.jp/"
    },
    {
-      "artist" : "SHIKI",
-      "comment" : "",
-      "level" : "6",
-      "lr2_bmsid" : 126898,
-      "md5" : "1bd7694a5975fd7c7eab333fa13b7989",
-      "name_diff" : "be5moti",
-      "title" : "DELAir -EXTREME-",
-      "url" : "http://shiki2.sakura.ne.jp/"
-   },
-   {
       "artist" : "Yu^ta",
       "comment" : "",
       "level" : "3",
@@ -387,7 +375,7 @@
    },
    {
       "artist" : "－",
-      "comment" : "",
+      "comment" : "Key音無し",
       "level" : "0",
       "md5" : "1f6d90f18f55526653864e558695be2b",
       "name_diff" : "－",
@@ -416,15 +404,6 @@
       "url_diff" : "http://infinity.s60.xrea.com/bms/index.html"
    },
    {
-      "artist" : "farsita with PMT&moonlight",
-      "comment" : "",
-      "level" : "6",
-      "lr2_bmsid" : 209404,
-      "md5" : "2268ff3983365db0ca1bc4bf8e442393",
-      "name_diff" : "VINYL",
-      "title" : "Assumptio [Death Penalty+]"
-   },
-   {
       "artist" : "kurena",
       "comment" : "",
       "level" : "0",
@@ -437,7 +416,7 @@
    {
       "artist" : "ROKINA",
       "comment" : "",
-      "level" : "1",
+      "level" : "2",
       "lr2_bmsid" : 174328,
       "md5" : "23dedeea6c2efdb09d9bb481ebf0d834",
       "name_diff" : "月門",
@@ -446,8 +425,19 @@
       "url_diff" : "http://www.geocities.jp/musicmakeman/"
    },
    {
-      "artist" : "－",
+      "artist" : "TamaDo",
       "comment" : "",
+      "level" : "6",
+      "lr2_bmsid" : 249988,
+      "md5" : "24a1ac98307d14fc9094985849120d41",
+      "name_diff" : "Ondajoy",
+      "title" : "Triumphal Return[TrueEnd]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=85&event=115",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00949\n"
+   },
+   {
+      "artist" : "－",
+      "comment" : "Key音無し",
       "level" : "0",
       "md5" : "24d93ef0686d444bf2f33281658e24dc",
       "name_diff" : "－",
@@ -494,11 +484,41 @@
    },
    {
       "artist" : "－",
+      "comment" : "Key音無し",
+      "level" : "2",
+      "lr2_bmsid" : 207547,
+      "md5" : "279b83e31db85350630add2e026c4967",
+      "name_diff" : "－",
+      "title" : "Return to Universe"
+   },
+   {
+      "artist" : "TamaDo",
       "comment" : "",
+      "level" : "2",
+      "lr2_bmsid" : 249680,
+      "md5" : "27c0a891fd12211df0ac7f9f45378bb7",
+      "name_diff" : "LindBlum",
+      "title" : "Triumphal Return-Xe-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=85&event=115",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00918"
+   },
+   {
+      "artist" : "－",
+      "comment" : "Key音無し",
       "level" : "2",
       "md5" : "27fb80b0e208e94254257d32b144eb99",
       "name_diff" : "－",
       "title" : "Soul Destructor[Breaker]"
+   },
+   {
+      "artist" : "Emil",
+      "comment" : "",
+      "level" : "1",
+      "lr2_bmsid" : 263028,
+      "md5" : "2880dbea8cafcb9ba511242dfb49a547",
+      "name_diff" : "be5moti",
+      "title" : "Celeste [divine]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=110"
    },
    {
       "artist" : "arranged by flow",
@@ -509,17 +529,6 @@
       "name_diff" : "VINYL",
       "title" : "One More Luvly -達人-",
       "url_diff" : "http://www.geocities.jp/vinyl8310/"
-   },
-   {
-      "artist" : "きっちー",
-      "comment" : "",
-      "level" : "1",
-      "lr2_bmsid" : 163191,
-      "md5" : "29d63e7795d4861b76de2d00855eb9e4",
-      "name_diff" : "Rian",
-      "title" : "東方妖怪小町 -Extra-",
-      "url" : "http://www42.tok2.com/home/hinanai/",
-      "url_diff" : "http://sky.geocities.jp/dark_the_star/"
    },
    {
       "artist" : "kurena",
@@ -534,7 +543,7 @@
    {
       "artist" : "Rune Caster",
       "comment" : "",
-      "level" : "2",
+      "level" : "0",
       "lr2_bmsid" : 184494,
       "md5" : "2c957674533ffa6215bc77e921a8509e",
       "name_diff" : "morio",
@@ -586,6 +595,16 @@
       "url" : "http://kurenaissance.web6.jp/"
    },
    {
+      "artist" : "Lemi.",
+      "comment" : "",
+      "level" : "4",
+      "lr2_bmsid" : 262845,
+      "md5" : "30bffbc5f5a74d005bd38d395f798107",
+      "name_diff" : "Omino",
+      "title" : "Number Y [Other]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=342&event=116"
+   },
+   {
       "artist" : "Lime",
       "comment" : "",
       "level" : "0",
@@ -596,7 +615,7 @@
    },
    {
       "artist" : "－",
-      "comment" : "",
+      "comment" : "Key音無し",
       "level" : "0",
       "md5" : "31395f8b62c08fc45490970d202dbdf6",
       "name_diff" : "－",
@@ -610,6 +629,17 @@
       "md5" : "31b8e16a86bb98b4ee6558327f8127c0",
       "name_diff" : "VINYL",
       "title" : "one more lonely -達人-"
+   },
+   {
+      "artist" : "Tlahuizcalpantecuhtli",
+      "comment" : "",
+      "level" : "3",
+      "lr2_bmsid" : 245100,
+      "md5" : "3216e0be0404e5311672194432d8b82a",
+      "name_diff" : "ランダマイザ",
+      "title" : "Destroyer［Oxygen］",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=170&event=104",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00661"
    },
    {
       "artist" : "dj sept-em",
@@ -631,16 +661,6 @@
       "name_diff" : "be5moti",
       "title" : "Ende [Die unendliche Geschichte]",
       "url" : "https://www.dropbox.com/s/ahnf0375w8fv3ey/BOF2010_bj.HaLo_ende.zip"
-   },
-   {
-      "artist" : "judah",
-      "comment" : "",
-      "level" : "2",
-      "lr2_bmsid" : 216430,
-      "md5" : "356c793d7f6b4926d59812435d955573",
-      "name_diff" : "tyaba",
-      "title" : "F13 [GE]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=96"
    },
    {
       "artist" : "kurena",
@@ -687,7 +707,7 @@
    {
       "artist" : "kurena",
       "comment" : "",
-      "level" : "2",
+      "level" : "3",
       "lr2_bmsid" : 124167,
       "md5" : "3844ffb7b5de4d43525fd07a2b1b0ed1",
       "name_diff" : "夢瑠",
@@ -737,19 +757,9 @@
       "url" : "http://kurenaissance.web6.jp/"
    },
    {
-      "artist" : "夢幻海",
-      "comment" : "",
-      "level" : "4",
-      "lr2_bmsid" : 208329,
-      "md5" : "3b886649d55e1098feb840c4d740ee28",
-      "name_diff" : "VINYL",
-      "title" : "Obsidian - EX -",
-      "url" : "http://mugenky.web.fc2.com/"
-   },
-   {
       "artist" : "LUNE",
       "comment" : "",
-      "level" : "2",
+      "level" : "3",
       "md5" : "3b93dff60123b1362720d2574924d5a5",
       "name_diff" : "be5moti",
       "title" : "理想と言う名の虚構 [figmentum]"
@@ -859,7 +869,7 @@
    {
       "artist" : "Le Dos-on",
       "comment" : "",
-      "level" : "4",
+      "level" : "5",
       "lr2_bmsid" : 81911,
       "md5" : "4734dfe0cc9a169269dda03c6f8f11e5",
       "name_diff" : "同梱",
@@ -878,7 +888,7 @@
    },
    {
       "artist" : "－",
-      "comment" : "",
+      "comment" : "Key音無し",
       "level" : "4",
       "md5" : "4806bb1d858afbe2f27b7e91955f89d8",
       "name_diff" : "－",
@@ -915,9 +925,20 @@
       "url_diff" : "http://www.geocities.jp/vinyl8310/"
    },
    {
+      "artist" : "NIKITA",
+      "comment" : "",
+      "level" : "1",
+      "lr2_bmsid" : 231154,
+      "md5" : "4b27ac124e5d92c71e9754099ca6dd5d",
+      "name_diff" : "1/8",
+      "title" : "SCARY BANQUET -Extrication-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=152&event=104",
+      "url_diff" : "http://oneeighth.web.fc2.com/patterns.html"
+   },
+   {
       "artist" : "LUNE",
       "comment" : "",
-      "level" : "3",
+      "level" : "4",
       "md5" : "4c7e0eb8846325bd4f838c1f042d535e",
       "name_diff" : "be5moti",
       "title" : "空は、死を告げる鴉の群れに染まり．．． [White Crow]"
@@ -964,20 +985,10 @@
    {
       "artist" : "BMS:あす MIDI:H-Hosoi",
       "comment" : "",
-      "level" : "1",
+      "level" : "3",
       "md5" : "502eb104060510065ec0633662b7c292",
       "name_diff" : "be5moti",
       "title" : "対袁術戦 [H-S]"
-   },
-   {
-      "artist" : "Belkis & Ayato",
-      "comment" : "",
-      "level" : "1",
-      "lr2_bmsid" : 208176,
-      "md5" : "50e7317e5b4f0547ab9fd10057823e1e",
-      "name_diff" : "VINYL",
-      "title" : "Night Mare -EX-",
-      "url_diff" : "http://www.geocities.jp/vinyl8310/"
    },
    {
       "artist" : "ROKINA",
@@ -1042,6 +1053,17 @@
       "url" : "http://nekokan.dyndns.info/~anonymous/Mutual_Faith/MutualFaith_ogg.rar"
    },
    {
+      "artist" : "ridis",
+      "comment" : "",
+      "level" : "4",
+      "lr2_bmsid" : 248323,
+      "md5" : "57718c24142ef2e405bd989bd0ec4881",
+      "name_diff" : "hplaner",
+      "title" : "x-Aria [Love the Music]",
+      "url" : "https://web.archive.org/web/20060305103446/http://bof.nothing.sh:8080/file/catnap_ridis_x_aria_hq.rar",
+      "url_diff" : "http://www.hyper-laner.com/sabun.html"
+   },
+   {
       "artist" : "rider",
       "comment" : "",
       "level" : "5",
@@ -1052,8 +1074,8 @@
    },
    {
       "artist" : "－",
-      "comment" : "",
-      "level" : "0",
+      "comment" : "Key音無し",
+      "level" : "1",
       "md5" : "598e2f88d4ec1c8c01d822b135394689",
       "name_diff" : "－",
       "title" : "微熱からMystery[UR]"
@@ -1080,12 +1102,14 @@
       "url" : "http://kurenaissance.web6.jp/"
    },
    {
-      "artist" : "－",
+      "artist" : "ALTM",
       "comment" : "",
       "level" : "3",
-      "md5" : "5c9996b71bc34d87d8f6436279d2f47a",
-      "name_diff" : "－",
-      "title" : "微熱からMystery[HELL]"
+      "lr2_bmsid" : 261389,
+      "md5" : "5b40ad48f2a2ef4b00a42e35a7dd6289",
+      "name_diff" : "be5moti",
+      "title" : "Defeated Wings [LOST]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=123&event=88"
    },
    {
       "artist" : "ROKINA",
@@ -1108,6 +1132,17 @@
       "url" : "http://onedrive.live.com/?cid=C9FE89A646FB0230&id=C9FE89A646FB0230%21115"
    },
    {
+      "artist" : "Len",
+      "comment" : "",
+      "level" : "2",
+      "lr2_bmsid" : 198568,
+      "md5" : "61968950b9aeb39c6ce2576c75884243",
+      "name_diff" : "Criyajuh",
+      "title" : "Septem Peccata Mortalia [Deus]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=142&event=96",
+      "url_diff" : "http://absolute.pv.land.to/uploader/src/up4814.zip"
+   },
+   {
       "artist" : "夢幻海",
       "comment" : "",
       "level" : "2",
@@ -1121,7 +1156,7 @@
    {
       "artist" : "ETIA. feat.Jenga",
       "comment" : "汎用up3515",
-      "level" : "1",
+      "level" : "0",
       "lr2_bmsid" : 161569,
       "md5" : "64dde592ef133610ebaa6664b60538f4",
       "name_diff" : "uploader",
@@ -1132,11 +1167,12 @@
    {
       "artist" : "やっす～",
       "comment" : "",
-      "level" : "2",
+      "level" : "3",
       "md5" : "662271ddabce147c7a9e7210611a9e9a",
       "name_diff" : "VINYL",
       "title" : "before...[D+]",
-      "url" : "http://sound.jp/brilliantharmony/"
+      "url" : "http://sound.jp/brilliantharmony/",
+      "url_diff" : "http://www.geocities.jp/vinyl8310/"
    },
    {
       "artist" : "kurena",
@@ -1182,8 +1218,8 @@
    },
    {
       "artist" : "－",
-      "comment" : "",
-      "level" : "1",
+      "comment" : "Key音無し",
+      "level" : "0",
       "md5" : "6a6cbd258b2a6295dcf098daa5ae8fde",
       "name_diff" : "－",
       "title" : "UNBALANCED LOVE[EX]"
@@ -1244,7 +1280,7 @@
    {
       "artist" : "kurena",
       "comment" : "",
-      "level" : "3",
+      "level" : "4",
       "lr2_bmsid" : 208055,
       "md5" : "6e050071bb603d77031def354d3635bf",
       "name_diff" : "VINYL",
@@ -1291,6 +1327,14 @@
       "title" : "Cinderella Cage -Trancecore Mix- [fatal]"
    },
    {
+      "artist" : "－",
+      "comment" : "Key音無し",
+      "level" : "4",
+      "md5" : "707be254dca347a902f4beee8fdcabb7",
+      "name_diff" : "－",
+      "title" : "おてんば恋娘 -Maniac-"
+   },
+   {
       "artist" : "THETA",
       "comment" : "",
       "level" : "4",
@@ -1300,6 +1344,17 @@
       "title" : "Materiality Flow (7 MERCILESS)",
       "url" : "http://k-bms.com/party_pabat/party2014.jsp?board_num=11&num=35&order=reg&odtype=a",
       "url_diff" : "http://vorota.web.fc2.com/"
+   },
+   {
+      "artist" : "TamaDo",
+      "comment" : "",
+      "level" : "4",
+      "lr2_bmsid" : 246476,
+      "md5" : "71164e47d62579778eb030f6dc9d9028",
+      "name_diff" : "逸見魔理男",
+      "title" : "Triumphal Return[Epilogue of Gorilla]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=85&event=115",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00701"
    },
    {
       "artist" : "LeaF",
@@ -1354,6 +1409,17 @@
       "title" : "Quad Queens [EX]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=71",
       "url_diff" : "http://www.geocities.jp/dsks5456/index.html"
+   },
+   {
+      "artist" : "橘花音 かなえゆめ composed by nmk",
+      "comment" : "",
+      "level" : "4",
+      "lr2_bmsid" : 263137,
+      "md5" : "79628a2eaf42b73f58f53bb76064d975",
+      "name_diff" : "VINYL",
+      "title" : "図書室のエルザ [EXTRA]",
+      "url" : "http://tosyosituno-elsa.tumblr.com/",
+      "url_diff" : "http://www.geocities.jp/vinyl8310/BMS/elsa.zip\n"
    },
    {
       "artist" : "ABE3",
@@ -1447,19 +1513,8 @@
       "url_diff" : "http://infinity.s60.xrea.com/bms/index.html"
    },
    {
-      "artist" : "guna",
-      "comment" : "",
-      "level" : "0",
-      "lr2_bmsid" : 154381,
-      "md5" : "89d7ace33205be1fae451f4b16fd6769",
-      "name_diff" : "BELLE",
-      "title" : "subconsciousness -HELL+-",
-      "url" : "http://web.archive.org/web/20130708104907/http://aquaseeds.net/archives/yumenikki_hq.rar",
-      "url_diff" : "http://infinity.s60.xrea.com/bms/index.html"
-   },
-   {
       "artist" : "－",
-      "comment" : "",
+      "comment" : "Key音無し",
       "level" : "3",
       "md5" : "8a927bf53507868fbd1b9486f966afaa",
       "name_diff" : "－",
@@ -1666,7 +1721,8 @@
       "md5" : "9d405a16d8ca69e959805ba1732ae71c",
       "name_diff" : "VINYL",
       "title" : "SPACE RAIDERS [INVADER]",
-      "url" : "http://cerebralmuddystream.nekokan.dyndns.info/betoo/?mode=datail&no=70"
+      "url" : "http://cerebralmuddystream.nekokan.dyndns.info/betoo/?mode=datail&no=70",
+      "url_diff" : "http://www.geocities.jp/vinyl8310/"
    },
    {
       "artist" : "kurena",
@@ -1691,12 +1747,26 @@
       "url_diff" : "http://infinity.s60.xrea.com/bms/index.html"
    },
    {
+      "artist" : "Sakamiya",
+      "comment" : "",
+      "level" : "4",
+      "lr2_bmsid" : 261158,
+      "md5" : "9e942caf48bec75c77ca736e138d9ce6",
+      "name_diff" : "VINYL",
+      "title" : "Valkyrie Revolutia [EXTRA]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=119",
+      "url_diff" : "http://www.geocities.jp/vinyl8310/"
+   },
+   {
       "artist" : "DJ Ash Ketchum",
       "comment" : "",
       "level" : "2",
+      "lr2_bmsid" : 220297,
       "md5" : "9fe99413724c2d8a6ef85b122eb7ef95",
       "name_diff" : "VINYL",
-      "title" : "LOSTSILVER [Creepypasta]"
+      "title" : "LOSTSILVER [Creepypasta]",
+      "url" : "https://www.axfc.net/u/3464448",
+      "url_diff" : "http://www.geocities.jp/vinyl8310/"
    },
    {
       "artist" : "LeaF",
@@ -1721,7 +1791,7 @@
    {
       "artist" : "LiA",
       "comment" : "",
-      "level" : "1",
+      "level" : "0",
       "lr2_bmsid" : 191297,
       "md5" : "a0f3e4cf22c7b9b02017bf7ccad47293",
       "name_diff" : "同梱",
@@ -1730,7 +1800,7 @@
    },
    {
       "artist" : "－",
-      "comment" : "",
+      "comment" : "Key音無し",
       "level" : "5",
       "lr2_bmsid" : 150165,
       "md5" : "a1373e131c3e96847538c02314c6fae1",
@@ -1772,31 +1842,22 @@
    {
       "artist" : "koto",
       "comment" : "",
-      "level" : "1",
+      "level" : "3",
       "md5" : "a3819fb1954c2b37008f7d9a1a82ecb5",
       "name_diff" : "VINYL",
       "title" : "Lucem Lunae [EXTRA]",
-      "url" : "http://cerebralmuddystream.nekokan.dyndns.info/betoo/?mode=datail&no=89"
+      "url" : "http://cerebralmuddystream.nekokan.dyndns.info/betoo/?mode=datail&no=89",
+      "url_diff" : "http://www.geocities.jp/vinyl8310/"
    },
    {
       "artist" : "SHIKI",
       "comment" : "",
-      "level" : "2",
+      "level" : "3",
       "lr2_bmsid" : 8627,
       "md5" : "a49a05e285f25e49d59183b22b41c20d",
       "name_diff" : "air",
       "title" : "Cold Breath (れいとうビーム)",
       "url" : "http://shiki2.sakura.ne.jp/"
-   },
-   {
-      "artist" : "s-don",
-      "comment" : "",
-      "level" : "2",
-      "lr2_bmsid" : 178617,
-      "md5" : "a538fa2fb7dbc920b6e485e70f52191f",
-      "name_diff" : "おきてる",
-      "title" : "Hollow AI [雑]",
-      "url" : "http://suudooon.web.fc2.com/"
    },
    {
       "artist" : "kurena",
@@ -1851,16 +1912,6 @@
       "url_diff" : "http://nick.xxxxxxxx.jp/"
    },
    {
-      "artist" : "kurena",
-      "comment" : "",
-      "level" : "3",
-      "lr2_bmsid" : 208188,
-      "md5" : "a80eab870f9006c50b68a3dd04e6f590",
-      "name_diff" : "VINYL",
-      "title" : "カイコウカ (KF-Light7)",
-      "url" : "http://kurenaissance.web6.jp/"
-   },
-   {
       "artist" : "ブラックマリア",
       "comment" : "",
       "level" : "5",
@@ -1898,9 +1949,19 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
    },
    {
+      "artist" : "Jun Kuroda",
+      "comment" : "",
+      "level" : "2",
+      "lr2_bmsid" : 263029,
+      "md5" : "adbc7caa128c55257a4edc17d0d08900",
+      "name_diff" : "be5moti",
+      "title" : "Anokumene [Veraltet]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=265&event=110"
+   },
+   {
       "artist" : "be5moti",
       "comment" : "",
-      "level" : "1",
+      "level" : "0",
       "lr2_bmsid" : 167935,
       "md5" : "ae9b03394afe4d385f05b8b48a74f128",
       "name_diff" : "同梱",
@@ -1958,9 +2019,19 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=449&event=88"
    },
    {
+      "artist" : "SHALE vs A4paper",
+      "comment" : "",
+      "level" : "2",
+      "lr2_bmsid" : 260373,
+      "md5" : "b35ddd25de9e2b6568cb7656caaaee4d",
+      "name_diff" : "be5moti",
+      "title" : "Conviction[EXT]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=88"
+   },
+   {
       "artist" : "Ice",
       "comment" : "",
-      "level" : "0",
+      "level" : "1",
       "lr2_bmsid" : 168236,
       "md5" : "b5ddb85d62f3f278c2883e8aa4a71d42",
       "name_diff" : "同梱",
@@ -1979,21 +2050,11 @@
    },
    {
       "artist" : "－",
-      "comment" : "",
+      "comment" : "Key音無し",
       "level" : "1",
       "md5" : "b920b8ccdd7b0e2f64174b54f095484b",
       "name_diff" : "－",
       "title" : "Love marginal[EX]"
-   },
-   {
-      "artist" : "ROKINA",
-      "comment" : "",
-      "level" : "6",
-      "lr2_bmsid" : 137451,
-      "md5" : "bb15cd288ff3b11364278c5a0b591f7e",
-      "name_diff" : "同梱",
-      "title" : "七つの鍵盤と大きな円盤のための練習曲第一番 ハ短調 たのしいピクニック",
-      "url" : "https://onedrive.live.com/redir?resid=A0C4279F1B037701%21122"
    },
    {
       "artist" : "rebellion",
@@ -2071,7 +2132,7 @@
    },
    {
       "artist" : "－",
-      "comment" : "",
+      "comment" : "Key音無し",
       "level" : "0",
       "md5" : "c3e0b4710a72a74ef51ae30a6533d51f",
       "name_diff" : "－",
@@ -2088,7 +2149,7 @@
    },
    {
       "artist" : "－",
-      "comment" : "",
+      "comment" : "Key音無し",
       "level" : "3",
       "md5" : "c6d76550c4014ebe55760d1ace29508a",
       "name_diff" : "－",
@@ -2167,7 +2228,7 @@
    },
    {
       "artist" : "－",
-      "comment" : "",
+      "comment" : "Key音無し",
       "level" : "4",
       "md5" : "cd756c301ed7ccb917ab16fa096a289e",
       "name_diff" : "－",
@@ -2209,13 +2270,32 @@
    {
       "artist" : "猫蟹丸",
       "comment" : "",
-      "level" : "2",
+      "level" : "3",
       "lr2_bmsid" : 160486,
       "md5" : "d06f7121bc12c8bdab9097c936d84ba9",
       "name_diff" : "black train",
       "title" : "7SP:雪の少女-MorningDash!Mix-",
       "url" : "http://knm.sakura.ne.jp/index.html",
       "url_diff" : "http://absolute.pv.land.to/"
+   },
+   {
+      "artist" : "Sakamiya",
+      "comment" : "",
+      "level" : "1",
+      "lr2_bmsid" : 260822,
+      "md5" : "d0c19223794014a1e8686e70350d2cd2",
+      "name_diff" : "hex",
+      "title" : "Valkyrie Revolutia [Hexagon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=119",
+      "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html"
+   },
+   {
+      "artist" : "－",
+      "comment" : "Key音無し",
+      "level" : "0",
+      "md5" : "d0f15277ef61a58ac509ad0ed1880d06",
+      "name_diff" : "－",
+      "title" : "Ark -Elysion-"
    },
    {
       "artist" : "Ice",
@@ -2239,7 +2319,7 @@
    },
    {
       "artist" : "－",
-      "comment" : "",
+      "comment" : "Key音無し",
       "level" : "2",
       "md5" : "d343e3f1cc02ba91d48f3b88c564cb08",
       "name_diff" : "－",
@@ -2248,7 +2328,7 @@
    {
       "artist" : "CLANN",
       "comment" : "",
-      "level" : "0",
+      "level" : "1",
       "md5" : "d47f8a22ec7c043ce8d7be4c840e2445",
       "name_diff" : "tyaba",
       "title" : "決戦 -Hard to the Limit- ［GE］",
@@ -2265,7 +2345,7 @@
    },
    {
       "artist" : "－",
-      "comment" : "",
+      "comment" : "Key音無し",
       "level" : "6",
       "md5" : "d7921b435623f79c381b0b4bb8863a11",
       "name_diff" : "－",
@@ -2280,6 +2360,16 @@
       "title" : "ドラクエ4ユーロビートアレンジ[LN OFF]"
    },
    {
+      "artist" : "Freezer feat. 妃苺",
+      "comment" : "",
+      "level" : "2",
+      "lr2_bmsid" : 262540,
+      "md5" : "d975db5994c9f4f5b67fdacee4f50989",
+      "name_diff" : "Omino",
+      "title" : "Berry Go!! [Other]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=116"
+   },
+   {
       "artist" : "P.E.",
       "comment" : "",
       "level" : "3",
@@ -2291,7 +2381,7 @@
    },
    {
       "artist" : "－",
-      "comment" : "",
+      "comment" : "Key音無し",
       "level" : "2",
       "md5" : "dcc58285d4e764e3d3a44b2e32c7dcad",
       "name_diff" : "－",
@@ -2338,11 +2428,22 @@
    },
    {
       "artist" : "－",
-      "comment" : "",
+      "comment" : "Key音無し",
       "level" : "4",
       "md5" : "e1d17dc086529e85e9fe11ddd75f58d1",
       "name_diff" : "－",
       "title" : "after school NAVIGATORS [EXPERT]"
+   },
+   {
+      "artist" : "nmk feat.かなえゆめ",
+      "comment" : "",
+      "level" : "2",
+      "lr2_bmsid" : 257423,
+      "md5" : "e3840c4a4eb84f84e663409bb857a09c",
+      "name_diff" : "hex",
+      "title" : "東風谷早苗が悲しい顔をする理由。 [Hexagon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=48&event=118",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01457"
    },
    {
       "artist" : "ROKINA",
@@ -2376,7 +2477,7 @@
    },
    {
       "artist" : "－",
-      "comment" : "",
+      "comment" : "Key音無し",
       "level" : "0",
       "md5" : "e490c9e691a796c6ddf4c53a9c47f060",
       "name_diff" : "－",
@@ -2394,7 +2495,7 @@
    },
    {
       "artist" : "xi",
-      "comment" : "",
+      "comment" : "Key音無し",
       "level" : "0",
       "md5" : "e78f519da2d30e2715b7cedf80f56a0a",
       "name_diff" : "－",
@@ -2418,7 +2519,8 @@
       "md5" : "ea0dfecbd64fa49f870223e21c021e1a",
       "name_diff" : "VINYL",
       "title" : "colorful disease [STERVEN]",
-      "url" : "http://yatai.ath.cx/c03_shuffle2/detail.php?n=37"
+      "url" : "http://yatai.ath.cx/c03_shuffle2/detail.php?n=37",
+      "url_diff" : "http://www.geocities.jp/vinyl8310/"
    },
    {
       "artist" : "455",
@@ -2433,7 +2535,7 @@
    },
    {
       "artist" : "－",
-      "comment" : "",
+      "comment" : "Key音無し",
       "level" : "0",
       "md5" : "eb2e45d369428ea3cd39340a0506c6af",
       "name_diff" : "－",
@@ -2482,7 +2584,7 @@
    },
    {
       "artist" : "－",
-      "comment" : "",
+      "comment" : "Key音無し",
       "level" : "0",
       "md5" : "f4401353c746818e6fa08adfbdddb862",
       "name_diff" : "－",
@@ -2502,14 +2604,14 @@
    {
       "artist" : "midi/Lix　bms/h-2",
       "comment" : "",
-      "level" : "2",
+      "level" : "3",
       "md5" : "f59606074bb56a2187d384cc4d324cc0",
       "name_diff" : "be5moti",
       "title" : "Stab the sword of justice [EXT]"
    },
    {
       "artist" : "－",
-      "comment" : "",
+      "comment" : "Key音無し",
       "level" : "0",
       "md5" : "f5e6d927a2306fd703ae56cde22a2b97",
       "name_diff" : "－",
@@ -2555,16 +2657,6 @@
       "url" : "http://nekomimi.name/"
    },
    {
-      "artist" : "beta",
-      "comment" : "",
-      "level" : "7",
-      "lr2_bmsid" : 147883,
-      "md5" : "f7d95659f52bc943b0ff18a51d2a587d",
-      "name_diff" : "同梱",
-      "title" : "Blue-White Crazystars[BLACKHOLE]",
-      "url" : "http://www.nicovideo.jp/watch/sm19662969"
-   },
-   {
       "artist" : "kurena",
       "comment" : "",
       "level" : "6",
@@ -2573,6 +2665,16 @@
       "name_diff" : "同梱",
       "title" : "saucy plume(KurisumasuFumen)",
       "url" : "http://kurenaissance.web6.jp/"
+   },
+   {
+      "artist" : "judah",
+      "comment" : "",
+      "level" : "3",
+      "lr2_bmsid" : 216430,
+      "md5" : "f907def8e66ab8023c4040d36a658897",
+      "name_diff" : "tyaba",
+      "title" : "F13 [GE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=96"
    },
    {
       "artist" : "A.I.Processor from Hyper-X",
@@ -2604,6 +2706,14 @@
       "title" : "Envy [future]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=71",
       "url_diff" : "http://stairway.sakura.ne.jp/dosukoi/index.htm"
+   },
+   {
+      "artist" : "－",
+      "comment" : "Key音無し",
+      "level" : "5",
+      "md5" : "fb5f6c05a2701d0070258686c8207bc2",
+      "name_diff" : "－",
+      "title" : "Soul Destructor[Sacrifice]"
    },
    {
       "artist" : "ABE3",

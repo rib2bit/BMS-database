@@ -154,6 +154,28 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01129"
    },
    {
+      "artist" : "kagerow",
+      "comment" : "8分メイン",
+      "level" : "4",
+      "md5" : "0e9e71da1f89a803d60b75319b21b9f5",
+      "proposer" : "ZEUS",
+      "submission" : 455,
+      "title" : "にじいろクレヨン [GOD]",
+      "url" : "http://kagerow.net",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01814"
+   },
+   {
+      "artist" : "紅蓮月影 obj.m BGA:A-ZERO Project",
+      "comment" : "微縦連とズレ",
+      "level" : "10",
+      "md5" : "0f63a16ebba37923ba4d2ef8039fef18",
+      "proposer" : "vth",
+      "submission" : 427,
+      "title" : "Andro [SINGULARITY]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=238&event=104",
+      "url_diff" : "https://1drv.ms/u/s!AvQoCNc6GxengUDf_jDbxkjN_Yzs"
+   },
+   {
       "artist" : "SPELL BREAK obj.mn HEART BREAK",
       "comment" : "",
       "level" : "10",
@@ -406,6 +428,16 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up4834.zip"
    },
    {
+      "artist" : "Yu^ta /差分 赤い人",
+      "level" : "3",
+      "md5" : "1cb91a4319dce2d1c0971557bbccbddd",
+      "proposer" : "LUXURY",
+      "submission" : 447,
+      "title" : "ShootingStar [INFERNO]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=368&event=83",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/shootingstar-INFERNO.bms"
+   },
+   {
       "artist" : "はがね bgi.ばんぶー obj:NoName",
       "comment" : "連打複合",
       "level" : "5",
@@ -492,6 +524,17 @@
       "title" : "Blooming Jump! [ケッコンカッコカリ]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=109",
       "url_diff" : "http://swamelo.web.fc2.com/_blooming_jump_.bms"
+   },
+   {
+      "artist" : "P4koo / OBJ:けろささ",
+      "comment" : "bpm185の4個2個乱打＋α",
+      "level" : "3",
+      "md5" : "24ffc0e42b4c0aa1b7f43232e777201b",
+      "proposer" : "y",
+      "submission" : 415,
+      "title" : "Illusion of Mind [kerother]",
+      "url" : "http://k-bms.com/party_pabat/party2014.jsp?board_num=11&num=24&order=reg&odtype=a",
+      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up5227.rar"
    },
    {
       "artist" : "超究極ウルトラアルティメットゴリラ愛花(改)(＾＾) BGA : 室谷",
@@ -659,6 +702,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/"
    },
    {
+      "artist" : "有賀 澪 BGA:しらたき Illust:Cleome obj: qtp13",
+      "comment" : "CYCLONEリスペクト",
+      "level" : "10",
+      "md5" : "2c61b055ab4a80c60786f705d168de45",
+      "proposer" : "KIYOM",
+      "submission" : 430,
+      "title" : "Defeat awaken battle ship (SP DESTROYER)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=112",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01483"
+   },
+   {
       "artist" : "Is-m / obj:Rian BGA:syatten",
       "comment" : "ノーマル判定、連打",
       "level" : "4",
@@ -690,6 +744,39 @@
       "title" : "YO-KAI Drop -あ！-",
       "url" : "http://necoco.2-d.jp/13_bms.html",
       "url_diff" : "http://absolute.pv.land.to/bof/src/up0695.zip"
+   },
+   {
+      "artist" : "Yosk! / A",
+      "comment" : "FUTURE 2299",
+      "level" : "2",
+      "md5" : "2fc9c12eeee75532bc464431efc381fc",
+      "proposer" : "LUXURY",
+      "submission" : 419,
+      "title" : "FUTURE 1999 [2299.06.15]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=56&event=120",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01849"
+   },
+   {
+      "artist" : "Shiraishi/Lucy",
+      "comment" : "DELAY",
+      "level" : "9",
+      "md5" : "30ffe778cecf1dc7109faf38015a0f0f",
+      "proposer" : "eth",
+      "submission" : 457,
+      "title" : "真・千年女王 [DELAYMASTER]",
+      "url" : "http://goo.gl/BJYNG",
+      "url_diff" : "http://www.dropbox.com/s/bg1a3pzihqxs7el/_sinSQ_DELAY%2B.zip"
+   },
+   {
+      "artist" : "ZUN BMS:imr",
+      "comment" : "純地力譜面",
+      "level" : "0",
+      "md5" : "315dc438337e581c92d43366640009d7",
+      "proposer" : "OXYGEN",
+      "submission" : 410,
+      "title" : "佐渡の二ッ岩 [LUNATIC]",
+      "url" : "https://dropbox.bms.ms/u/106449495/hutatuiwa_ogg.zip",
+      "url_diff" : ""
    },
    {
       "artist" : "Tlahuizcalpantecuhtli BGA: Air OBJ : ランダマイザ",
@@ -756,6 +843,27 @@
       "title" : "Theme of \"ULTIMATE IRIS\" [FINAL-BATTLE]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=318&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/"
+   },
+   {
+      "artist" : "Nephrite / obj:Monsta",
+      "comment" : "モンスタディレイ",
+      "level" : "7",
+      "md5" : "367b33a91988e3a86a410391a97ee247",
+      "proposer" : "qtp13",
+      "submission" : 444,
+      "title" : "Nothingness [殺]",
+      "url" : "https://onedrive.live.com/?id=28AD024975AC04A4%21136&cid=28AD024975AC04A4",
+      "url_diff" : "http://3228monsta.web.fc2.com/Nothingness.zip"
+   },
+   {
+      "artist" : "kurenaissance / obj:夢瑠",
+      "level" : "3",
+      "md5" : "3844ffb7b5de4d43525fd07a2b1b0ed1",
+      "proposer" : "LUXURY",
+      "submission" : 461,
+      "title" : "saucy plume [yumether]",
+      "url" : "http://onedrive.live.com/?cid=e6c08c2d3413101e&sc=documents&uc=1&nl=1&id=E6C08C2D3413101E%21255",
+      "url_diff" : "http://yumerusabun.web.fc2.com/nue.html"
    },
    {
       "artist" : "EXCITECH obj:Omino",
@@ -1132,6 +1240,16 @@
       "url_diff" : "http://gnqg.rosx.net/upload/"
    },
    {
+      "artist" : "Luxion /差分 赤い人",
+      "level" : "2",
+      "md5" : "49de0d8b5d372447b0fc92225ed3e872",
+      "proposer" : "LUXURY",
+      "submission" : 445,
+      "title" : "High-Priestess [INFERNO]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=159&event=83",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/HighPriestess-INFERNOf.bme"
+   },
+   {
       "artist" : "NIKITA / Optie obj:1/8",
       "comment" : "",
       "level" : "1",
@@ -1163,6 +1281,17 @@
       "title" : "Complex path (bms edit_extra)",
       "url" : "https://dropbox.bms.ms/u/51977836/Vector27vsBlue-J_Complex%20path.rar",
       "url_diff" : "http://stairway.sakura.ne.jp/dosukoi/sabun/complex%20path.rar"
+   },
+   {
+      "artist" : "adamthix Obj.Triforce",
+      "comment" : "超物量",
+      "level" : "10",
+      "md5" : "4d8311240b969d602415a07aaa8d03f5",
+      "proposer" : "homare",
+      "submission" : 434,
+      "title" : "res extensa [das Sichtbare]",
+      "url" : "https://bms.ms/u/106449495/resextensa.zip",
+      "url_diff" : "http://www.dropbox.com/s/h4p2rusaz5obezu/rextensa_99triforce.bme?dl=0"
    },
    {
       "artist" : "しーけー obj:mute",
@@ -1769,6 +1898,16 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01318"
    },
    {
+      "artist" : "髭姫 feat.しゆ＆橘花音/ 差分 赤い人 LYRICS：やんばるん BGA：Milk_tya ILLUST：UNOQLO",
+      "level" : "3",
+      "md5" : "73a1144b713e3b0482d15dea84a5ab78",
+      "proposer" : "LUXURY",
+      "submission" : 446,
+      "title" : "しぇる☆どっきんぐ ～だめ！このままじゃ溢れちゃう！～ [INFERNO]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=106&event=88",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/sd-INFERNO.bms"
+   },
+   {
       "artist" : "38k / obj : LindBlum",
       "comment" : "同時押し、中盤発狂",
       "level" : "8",
@@ -1966,17 +2105,6 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01813"
    },
    {
-      "artist" : "はがね / bga:白助 / obj : BOKKI",
-      "comment" : "ガチ押し  LN",
-      "level" : "4",
-      "md5" : "8386fcb41963aa6c24456193d321e41a",
-      "proposer" : "ZEUS",
-      "submission" : 422,
-      "title" : "Mirage Imitation ＾＾",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=101",
-      "url_diff" : "http://www.geocities.jp/yjsnpi_kitanai_kusai_unko/BOB2015/BOB2015_k_4_3_1.html"
-   },
-   {
       "artist" : "橘花音 かなえゆめ composed by nmk / Obj:lightX Illustration:かぜっと",
       "comment" : "",
       "level" : "9",
@@ -2143,7 +2271,7 @@
    {
       "artist" : "DJ HoppingRabbit obj:けーすぴん",
       "comment" : "＼((((*'∀'人))))／♥",
-      "level" : "3",
+      "level" : "4",
       "md5" : "8d637fd0dbfd25c4f3c1f14f1dc2abaa",
       "proposer" : "ZEUS",
       "submission" : 166,
@@ -2196,6 +2324,17 @@
       "url_diff" : "http://lapisbms.web.fc2.com"
    },
    {
+      "artist" : "りぃぶれーしょん obj:ほまれーしょん",
+      "comment" : "同時押し",
+      "level" : "6",
+      "md5" : "8eba74ebad024d79ad14cb276f1378ec",
+      "proposer" : "onmaco",
+      "submission" : 435,
+      "title" : "Don't Run Away, Don't Be Afraid From Invisible Screaming Madness. [Don't Be Excited, That's Just A Game.]",
+      "url" : "https://onedrive.live.com/?id=A0C4279F1B037701%21429&cid=A0C4279F1B037701",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00985"
+   },
+   {
       "artist" : "maki / obj.hplaner",
       "comment" : "subconsciousness -KILL-",
       "level" : "0",
@@ -2209,7 +2348,7 @@
    {
       "artist" : "vorbis / obj:夢瑠",
       "comment" : "微連打複合系",
-      "level" : "2",
+      "level" : "3",
       "md5" : "8f4cd43c1237ce576e8b7cf0740fe73c",
       "proposer" : "双六",
       "submission" : 417,
@@ -2240,6 +2379,17 @@
       "url_diff" : "http://www.geocities.jp/yjsnpi_kitanai_kusai_unko/index.html"
    },
    {
+      "artist" : "ああああ + 翡乃イスカ / A",
+      "comment" : "乱打 すこし微連打 微ディレイ",
+      "level" : "1",
+      "md5" : "908d75ff54e057931ab2ec97454f1577",
+      "proposer" : "ZEUS",
+      "submission" : 458,
+      "title" : "ha＠ppy s＠mmer v＠c＠tion!! [unha＠ppy s＠mmer v＠c＠tion!!]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=381&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01745"
+   },
+   {
       "artist" : "DJ TECHNORCH / BGA: SYNK",
       "comment" : "ガチ押し 全押し",
       "level" : "4",
@@ -2264,7 +2414,7 @@
    {
       "artist" : "er/ 差分 赤い人",
       "comment" : "delay",
-      "level" : "4",
+      "level" : "3",
       "md5" : "938525af08c02dd23efd56f59f906ea7",
       "proposer" : "LUXURY",
       "submission" : 423,
@@ -2703,7 +2853,7 @@
    {
       "artist" : "Flat:nique Dolls Orchestra Illustration : まど / selene.",
       "comment" : "ディレイ・連打混じり物量",
-      "level" : "6",
+      "level" : "7",
       "md5" : "b0d5be4893a101f226f7a311e1b623d1",
       "proposer" : "otoshi.b",
       "submission" : 355,
@@ -2853,17 +3003,6 @@
       "title" : "The World of Cyber [ANCIENT]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=96",
       "url_diff" : "http://l-bms.space/1st/download.html"
-   },
-   {
-      "artist" : "LeaF / obj : LindBlum☆彡 Movie:Optie",
-      "comment" : "mopemope",
-      "level" : "9",
-      "md5" : "b8e56943ddfedcb67dead98d2021c2e5",
-      "proposer" : "eth",
-      "submission" : 380,
-      "title" : "もぺもぺ",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=219&event=116",
-      "url_diff" : "https://1drv.ms/f/s!AsRicL2I3VhqgVJmXjya_y0a8nc4"
    },
    {
       "artist" : "mattaku / obj. Tristan97",
@@ -3230,7 +3369,7 @@
    {
       "artist" : "イヴ/さ",
       "comment" : "st2-3　物量",
-      "level" : "2",
+      "level" : "3",
       "md5" : "d324f981955e881393501f0f791b2d93",
       "proposer" : "7zs",
       "submission" : 384,
@@ -3810,7 +3949,7 @@
    {
       "artist" : "さかみりと img:しぐれぷに子/obj:赤い人",
       "comment" : "地力+ ディレイ",
-      "level" : "5",
+      "level" : "6",
       "md5" : "fd30c75f45ddeb72c0b0dd7c147e0cb0",
       "proposer" : "eth",
       "submission" : 363,
