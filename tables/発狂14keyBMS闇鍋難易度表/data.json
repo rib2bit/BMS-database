@@ -3682,7 +3682,7 @@
       "title" : "U.N.Owen～戯れし狂姉妹～ [DP ALK-H]"
    },
    {
-      "artist" : "黒雛 obj:ucc",
+      "artist" : "黒雛 obj:ucc *R.MIRROR",
       "comment" : "ラプンツェル",
       "level" : "9",
       "md5" : "18550a74c7b4856f53d1d547afc8d991",
@@ -6869,7 +6869,7 @@
    {
       "artist" : "裏 吉 川 / obj:ED *R.MIRROR",
       "comment" : "t r a n c e",
-      "level" : "9",
+      "level" : "8",
       "md5" : "2d6fad3153d8b8b98479c52bacac2e8f",
       "title" : "A c i - L [ D P - 並 ]"
    },
@@ -7679,7 +7679,7 @@
       "title" : "okayamaEVOLVED"
    },
    {
-      "artist" : "wa. obj:ucc *FLIP R.MIR or FLIP LR.RAN",
+      "artist" : "wa. obj:ucc *FLIP L.MIR or FLIP LR.RAN",
       "comment" : "IntelligenceTerror",
       "level" : "★7",
       "md5" : "33041d9a9432b867919199e3f9ea5707",
@@ -8477,9 +8477,9 @@
       "title" : "INFINITE GAME 2nd Act. -ANOTHER14-"
    },
    {
-      "artist" : "xi / obj:lichtr",
+      "artist" : "xi / obj:lichtr *R.MIRROR",
       "comment" : "マジックジャズ",
-      "level" : "9",
+      "level" : "8",
       "md5" : "3905b085dba43821ee1da22d47cbd909",
       "title" : "Beatrice"
    },
@@ -8804,6 +8804,13 @@
       "level" : "6",
       "md5" : "3b2e166d059d9d9db7723fa67f524380",
       "title" : "Berry Go!! [DP sub another]"
+   },
+   {
+      "artist" : "れおん *R.RANDOM",
+      "comment" : "Symphonic Synth",
+      "level" : "4",
+      "md5" : "3b33f49628ad48620cca2dc17db416a0",
+      "title" : "Infinite Stars★ [NEUTRONSTAR-14]"
    },
    {
       "artist" : "LU",
@@ -18020,7 +18027,7 @@
    {
       "artist" : "sumomo (& obj) // kusoX. *AVERAGE-40",
       "comment" : "SuperNOVA MINIMAL",
-      "level" : "★4",
+      "level" : "★5",
       "md5" : "77ba1ae6c0b69a6ae0480af11bccf202",
       "title" : "ДESPOND survivor"
    },
@@ -20057,7 +20064,7 @@
    {
       "artist" : "A.T.M. / objeCraft *L.MIRROR",
       "comment" : "Hard House",
-      "level" : "9",
+      "level" : "8",
       "md5" : "844bc5ed7d096cfe46632830c9eafe70",
       "title" : "Cold Tribe (14)"
    },
@@ -20125,7 +20132,7 @@
       "title" : "theme of Maia theme of Maia [practice]"
    },
    {
-      "artist" : "しらいし / srof",
+      "artist" : "しらいし / srof *L.MIRROR",
       "comment" : "TRANCE",
       "level" : "★5",
       "md5" : "84e32bdbd0a9c77632e11dbe6cfe0a3d",
@@ -21504,7 +21511,7 @@
       "title" : "架空ユリカゴ [D73%]"
    },
    {
-      "artist" : "紅蓮月影 BGA:A-ZERO Project obj:kuro",
+      "artist" : "紅蓮月影 BGA:A-ZERO Project obj:kuro  *FLIP LR.MIR",
       "comment" : "LOGICAL FORMAT",
       "level" : "★3",
       "md5" : "8d5b8df217288510f94bbea9ba44633e",
@@ -23287,6 +23294,13 @@
       "level" : "8",
       "md5" : "98f208e5972735c4fa29325846e96268",
       "title" : "煌舞姫ベアトリクス -dp-"
+   },
+   {
+      "artist" : "れおん *R.MIRROR",
+      "comment" : "Symphonic Synth",
+      "level" : "10",
+      "md5" : "98f7618e420bcb3cd661f8f52a5fe9be",
+      "title" : "Infinite Stars★ [BLACKHOLE-14]"
    },
    {
       "artist" : "Grand thaw  obj:ROCO",
@@ -25564,7 +25578,7 @@
       "title" : "GOODMEN [DP GOOOOOOD]"
    },
    {
-      "artist" : "青龍 *FLIP",
+      "artist" : "青龍 *FLIP L.MIRROR",
       "comment" : "DANCE SPEED",
       "level" : "9",
       "md5" : "a71a56e4e32ac90a9e8afeaaa837f030",
@@ -25874,7 +25888,7 @@
    {
       "artist" : "うまるつふり / obj:imit8or *FLIP LR.RANDOM",
       "comment" : "祭祀",
-      "level" : "★4",
+      "level" : "★5",
       "md5" : "a8b8d0e6f5c92b6b9e975bb3604aff2e",
       "title" : "天風 (14keys Maniac)"
    },
@@ -28196,6 +28210,13 @@
       "title" : "Quark  (DB)"
    },
    {
+      "artist" : "Negentropy / obj:Hador Movie:Vogeln",
+      "comment" : "Symphonic Roar",
+      "level" : "★11",
+      "md5" : "b7b59a13d058b2f763a9f252d89ffaf0",
+      "title" : "ouroVoros [Fantasy]"
+   },
+   {
       "artist" : "ねこみみ魔法使い for 御庭つみき BGA:石王マサト obj:ねこすきうっしっし  *LR.RANDOM",
       "comment" : "shuffle pop'n",
       "level" : "5",
@@ -30508,7 +30529,7 @@
    {
       "artist" : "Nankumo (obj:EIT)",
       "comment" : "TECHNO",
-      "level" : "9",
+      "level" : "8",
       "md5" : "c6f4bc07f96f263bea0d46b2da2b3001",
       "title" : "BINDING STROKE"
    },
@@ -33549,6 +33570,13 @@
       "level" : "★1",
       "md5" : "dc2e0dc8712954e8df776e50e89f0c46",
       "title" : "Smiling [Heartbeat]"
+   },
+   {
+      "artist" : "ZUN (Arr.sun3) obj: QJITAI *FLIP LR.MIRROR",
+      "comment" : "GOA TRANCE",
+      "level" : "★7",
+      "md5" : "dc2e5be8a6477b3e20ed0ea3cbd0c319",
+      "title" : "星の器～STAR OF ANDROMEDA (DP OSHO)"
    },
    {
       "artist" : "ETIA./obj:epics-",
