@@ -196,6 +196,35 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2018/07/22",
+      "artist" : "バスロマンス / obj:ABYSS*",
+      "comment" : "",
+      "folder" : "★8",
+      "level" : "★8",
+      "lr2_bmsid" : null,
+      "md5" : "06d7816979fbaef8ee302be1aae21cd5",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "bd1eb4c1dea22b030a45097d73c4a855",
+      "org_md5s" : [
+         "bd1eb4c1dea22b030a45097d73c4a855",
+         "9d30e7f6236edce77d37329467544291",
+         "4af7d38b19e7ce4fcf012c8a0928df8b",
+         "bf69cbbdaad5c23dc1dc5a82a7738350",
+         "06d7816979fbaef8ee302be1aae21cd5",
+         "62d1e623ba1e5852462cd557aecc88a5",
+         "f9da359ecbd4975e6025e58330410fcc",
+         "47e544a8cbb0e5667a639da01957795c",
+         "2c6f066d9561267a648d30a3970fb7b5",
+         "3d0ce58d594c897e7b4bafa87e06c5b4",
+         "7d5e11b6f53a4467eb353d810f99009e",
+         "97cdce82fe8b12e43e5364b3982a9720"
+      ],
+      "title" : "ピンポンタイムズ (DP ANOTHER)",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2018/01/07",
       "artist" : "taqumi vs DG-P BGA:deadblue238 / Obj:ゆ～兎",
       "comment" : "",
@@ -313,11 +342,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/03/10",
+      "adddate" : "2018/07/07",
       "artist" : "zest:rave / Obj:ゆ～兎",
       "comment" : "",
-      "folder" : "★10",
-      "level" : "★10",
+      "folder" : "★9",
+      "level" : "★9",
       "lr2_bmsid" : null,
       "md5" : "0e05593e0b01c2fa57281cc42c22cdb0",
       "name_diff" : null,
@@ -2075,6 +2104,35 @@
          "47d9c2e9f75c83f24e46cf4bdffb4eea"
       ],
       "title" : "Jack-the-Ripper◆ [JackHasCome！！]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/07/22",
+      "artist" : "バスロマンス / obj:ABYSS*",
+      "comment" : "",
+      "folder" : "うんち",
+      "level" : "うんち",
+      "lr2_bmsid" : null,
+      "md5" : "47e544a8cbb0e5667a639da01957795c",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "bd1eb4c1dea22b030a45097d73c4a855",
+      "org_md5s" : [
+         "bd1eb4c1dea22b030a45097d73c4a855",
+         "9d30e7f6236edce77d37329467544291",
+         "4af7d38b19e7ce4fcf012c8a0928df8b",
+         "bf69cbbdaad5c23dc1dc5a82a7738350",
+         "06d7816979fbaef8ee302be1aae21cd5",
+         "62d1e623ba1e5852462cd557aecc88a5",
+         "f9da359ecbd4975e6025e58330410fcc",
+         "47e544a8cbb0e5667a639da01957795c",
+         "2c6f066d9561267a648d30a3970fb7b5",
+         "3d0ce58d594c897e7b4bafa87e06c5b4",
+         "7d5e11b6f53a4467eb353d810f99009e",
+         "97cdce82fe8b12e43e5364b3982a9720"
+      ],
+      "title" : "ピンポンタイムズ (DP OLYMPIC)",
       "url" : "",
       "url_diff" : ""
    },
@@ -4618,6 +4676,32 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2018/07/22",
+      "artist" : "CELLON. / obj.Blue-J BGA : lysnA",
+      "comment" : "",
+      "folder" : "★03-04",
+      "level" : "★03-04",
+      "lr2_bmsid" : null,
+      "md5" : "9769bdf37085123a763575bd4e1bb304",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "a446967fdbfa695ce824c3bd7934867b",
+      "org_md5s" : [
+         "a446967fdbfa695ce824c3bd7934867b",
+         "6a7e6c0d29c7a244cf4103a152eb4237",
+         "743556fa7c0bf3ea2acf66286defd87d",
+         "51ed06d3fe257dc43ba36520736be4a8",
+         "9769bdf37085123a763575bd4e1bb304",
+         "b720452b58485fab4d3e7467b07587a7",
+         "cf6a6b537944c5b9442c0c189a69eb4e",
+         "eaf7fe8824996ffb739a8c96fb9d6891",
+         "07e5f9d3f6673cddb1cfdec49b02933e"
+      ],
+      "title" : "Virtual mode [DP VR]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2018/03/10",
       "artist" : "syatten",
       "comment" : "",
@@ -4713,11 +4797,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/06/24",
+      "adddate" : "2018/07/22",
       "artist" : "w_tre / Mer obj : abx",
       "comment" : "",
-      "folder" : "★8",
-      "level" : "★8",
+      "folder" : "うんち",
+      "level" : "うんち",
       "lr2_bmsid" : null,
       "md5" : "98cb9691447584d46b924b434b23ed58",
       "name_diff" : null,
@@ -4960,29 +5044,6 @@
          "a16edade818b7fc1ebbcf39df5d7af0b"
       ],
       "title" : "Titanomaquia [DP ANOTHER]",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
-      "adddate" : "2018/03/04",
-      "artist" : "kozato",
-      "comment" : "",
-      "folder" : "★05-06",
-      "level" : "★05-06",
-      "lr2_bmsid" : null,
-      "md5" : "a27df82d4fcac0d543a397764a4f265c",
-      "name_diff" : null,
-      "org_level" : 12,
-      "org_md5" : "0e067401a56d0f8773b8256279b4f7b9",
-      "org_md5s" : [
-         "0e067401a56d0f8773b8256279b4f7b9",
-         "9f97be9c76876162cde46da23c70b962",
-         "e6082cf7a14b7c8ed9f0a83baf14900e",
-         "d23a57c7bff78f5183abe3966b5b378e",
-         "191a530a966d7f4cb956bcce8548fc5c",
-         "a27df82d4fcac0d543a397764a4f265c"
-      ],
-      "title" : "Marion",
       "url" : "",
       "url_diff" : ""
    },
@@ -6264,33 +6325,6 @@
    },
    {
       "adddate" : "2018/06/24",
-      "artist" : "Junk feat.Salita / obj:epics-",
-      "comment" : "",
-      "folder" : "★9",
-      "level" : "★9",
-      "lr2_bmsid" : null,
-      "md5" : "d00fe45112e2927a61b3ec3b5cd61654",
-      "name_diff" : null,
-      "org_level" : 16,
-      "org_md5" : "77082b1af44c1902851fd92fa9141e74",
-      "org_md5s" : [
-         "77082b1af44c1902851fd92fa9141e74",
-         "86030ae0cb6945ba653176e021fca4fd",
-         "425478a27d729a98a97c896438f85575",
-         "50d06c08b90e30bd168764d3e96ccbd9",
-         "f25a7671b94e48dce5d9e07844f9dc32",
-         "df884862a0c6307a9bc9dca9fc47297b",
-         "44f2352a791a52d7e584fa063b4d1b24",
-         "d00fe45112e2927a61b3ec3b5cd61654",
-         "bc5be0b3f89ad59a81d1fc804c61b7e4",
-         "06065c06be13227357e4fd891f998d70"
-      ],
-      "title" : "Fly Again (bms edit) [Rea'du14]",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
-      "adddate" : "2018/06/24",
       "artist" : "- 4 5 obj:肴",
       "comment" : "",
       "folder" : "候補",
@@ -6875,11 +6909,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/06/24",
+      "adddate" : "2018/07/07",
       "artist" : "Hate × tarolabo obj:ucc",
       "comment" : "",
-      "folder" : "★8",
-      "level" : "★8",
+      "folder" : "★10",
+      "level" : "★10",
       "lr2_bmsid" : null,
       "md5" : "e1d5b110b5fec7a15dcc92c0bea8cabe",
       "name_diff" : null,
@@ -7001,6 +7035,36 @@
          "3cd7e5f70cc06553f94510bf9556affe"
       ],
       "title" : "Wasabi [DP練り山葵]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/07/22",
+      "artist" : "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya mov:hrchem notes:OSR",
+      "comment" : "",
+      "folder" : "★9",
+      "level" : "★9",
+      "lr2_bmsid" : null,
+      "md5" : "e4241831e9d8c7312ca593e63fb7eed1",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "176eda616ae9d87692895cf30a7631d4",
+      "org_md5s" : [
+         "176eda616ae9d87692895cf30a7631d4",
+         "55adbcbb97ad332fb135434a7cd08637",
+         "addb36647dad8cc8e3e1b33846467fdf",
+         "e4241831e9d8c7312ca593e63fb7eed1",
+         "e0e380bc80a8c1ff305330b82b5132fc",
+         "4d85e8d4e8af26091e0257fde0699897",
+         "51e9f18ff0951d7be451804c55127d92",
+         "c7eb8d96ffdb1978a44f636061f24fe9",
+         "74619d8216f1efcc9aaf040ad2ebd4f3",
+         "bc905963049d627acf4619b136006783",
+         "ea06683848f89332ae7a6ef38345178f",
+         "eba48f0f1f8bc57b1c6a586fd7e4cdfd",
+         "8c0c8f4afe6865c77abbdee96c02ed1e"
+      ],
+      "title" : "Lyzoande for sacrifice [DP EXTRA]",
       "url" : "",
       "url_diff" : ""
    },
@@ -7242,28 +7306,6 @@
          "be4b6fbdaba29d5157bb83cd265378e8"
       ],
       "title" : "Arxisia",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
-      "adddate" : "2018/03/10",
-      "artist" : "カラフル・サウンズ・ポート/mov:むらしん obj:肴",
-      "comment" : "",
-      "folder" : "★7",
-      "level" : "★7",
-      "lr2_bmsid" : null,
-      "md5" : "ed72f1a1e1eae519d9889ed44c48d2ce",
-      "name_diff" : null,
-      "org_level" : 12,
-      "org_md5" : "66c971d40f291bd56bf71f5ce32874f0",
-      "org_md5s" : [
-         "66c971d40f291bd56bf71f5ce32874f0",
-         "b7985a386640c19d1cb783c08d7d7ace",
-         "d0e53b3c0d9b71e66b16fae0a831e52f",
-         "0f9d1e704c0217403b5f90221675414f",
-         "ed72f1a1e1eae519d9889ed44c48d2ce"
-      ],
-      "title" : "聖戦の輪舞 [DP EXTRA]",
       "url" : "",
       "url_diff" : ""
    },
