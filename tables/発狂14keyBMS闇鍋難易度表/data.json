@@ -287,9 +287,9 @@
       "title" : "Elysian Forest [DP EXTRA]"
    },
    {
-      "artist" : "xi/obj:epics- *R.MIRROR",
+      "artist" : "xi/obj:epics- *R.MIRROR or L.MIRROR",
       "comment" : "無調音楽",
-      "level" : "9",
+      "level" : "8",
       "md5" : "01d7180735bf131da1c0fe37c67ccc6c",
       "title" : "Pandemonium [DP INSANE]"
    },
@@ -4718,7 +4718,7 @@
       "title" : "幽霊楽団(Prismriver's Dancefloor Style) [14keys Prismriver]"
    },
    {
-      "artist" : "Is-m / obj:Hersh Vo.　あまね（COOL&CREATE） BGA:iimo  *MAXBPM",
+      "artist" : "Is-m / obj:Hersh Vo.　あまね（COOL&CREATE） BGA:iimo  *MAXBPM FLIP",
       "comment" : "ETERNAL",
       "level" : "★5",
       "md5" : "1ed77eed505b85aff747d33b68ad4550",
@@ -6657,7 +6657,7 @@
       "title" : "ZENITHALIZE [俄十四]"
    },
    {
-      "artist" : "田井中 律 / obj:二代目IIDX16相坂",
+      "artist" : "田井中 律 / obj:二代目IIDX16相坂 *FLIP or L.MIRROR",
       "comment" : "HARD RENAISSANCE",
       "level" : "★6",
       "md5" : "2bd7c7bd3d6c54d3f85bfb610a1afd15",
@@ -11538,7 +11538,7 @@
    {
       "artist" : "姉ヶ崎 寧々/obj kohane BGA : photonskyto  *FLIP",
       "comment" : "FULL ON",
-      "level" : "9",
+      "level" : "6",
       "md5" : "4e5e6bec380d3c84a7b73b81ed436d54",
       "title" : "ZENITHALIZE [DPz]"
    },
@@ -12231,7 +12231,7 @@
    {
       "artist" : "ETIA. photonskyto/OBJ:KLOC  *FLIP R.MIR or L.MIR",
       "comment" : "TRANCECORE",
-      "level" : "★6",
+      "level" : "★5",
       "md5" : "52e69449b16ff00c31b392a3603d16c2",
       "title" : "Knock It Off [4G]"
    },
@@ -14530,6 +14530,13 @@
       "level" : "★5",
       "md5" : "6130ff3641cbf7ef3f72995ec3b985d6",
       "title" : "SCARY BANQUET [Trick or Treat!]"
+   },
+   {
+      "artist" : "455 / rio / black train",
+      "comment" : "P s y",
+      "level" : "?",
+      "md5" : "615b256def1982a56a18d0eff567ea76",
+      "title" : "G e n g a o z o _ BIG  MAC  Hanon"
    },
    {
       "artist" : "美樹さやか vs. 美樹さやか (fw. 美樹さやか) obj 穂海 *FLIP",
@@ -17747,7 +17754,7 @@
    {
       "artist" : "polysha mov.zue-row / obj:コトネとしずくちゃん",
       "comment" : "TRANCE",
-      "level" : "★5",
+      "level" : "★6",
       "md5" : "75d4d7993c5608a92d42bd6a6803310b",
       "title" : "Castor(BMS edit) [DP INSANE]"
    },
@@ -19859,7 +19866,7 @@
       "title" : "冬蛍 [DP Another]"
    },
    {
-      "artist" : "adamthix / obj.A- vs 綾 *FLIP",
+      "artist" : "adamthix / obj.A- vs 綾 *FLIP LR.MIRROR",
       "comment" : "TECHNO",
       "level" : "★5",
       "md5" : "8349851d16a6dda7500af45194ee2859",
@@ -31556,7 +31563,7 @@
       "title" : "FREEZING FLOWERET MGNother"
    },
    {
-      "artist" : "Trish Movie:Vergil/Obj:ちとせ",
+      "artist" : "Trish Movie:Vergil/Obj:ちとせ  *正規 or FLIP R.MIR",
       "comment" : "New Age",
       "level" : "★6",
       "md5" : "ce4b526b809db30a71e9e2be9880f303",
@@ -32718,7 +32725,7 @@
       "title" : "Trick or Treat? [14key_Trick]"
    },
    {
-      "artist" : "NS-Factory",
+      "artist" : "NS-Factory *R.MIRROR",
       "comment" : "Oriental Edge",
       "level" : "★6",
       "md5" : "d7557959c793edd42e9a03ede1e01fef",
@@ -33924,7 +33931,7 @@
    {
       "artist" : "Yamajet × Mentalstock obj:ucc *R.MIRROR",
       "comment" : "TECH HOUSE",
-      "level" : "9",
+      "level" : "8",
       "md5" : "defb9e933719d03394562806000222e4",
       "title" : "Sequential Emotions [EX14]"
    },
@@ -35623,7 +35630,7 @@
       "title" : "Colorful (roop remix)"
    },
    {
-      "artist" : "ねこみりん feat.小宮真央×みゆ×えみゅう。 Movie:kkkfff2 / Illust:永山ゆうのん / obj:zairu",
+      "artist" : "ねこみりん feat.小宮真央×みゆ×えみゅう。 Movie:kkkfff2 / Illust:永山ゆうのん / obj:zairu  *FLIP",
       "comment" : "A-POP",
       "level" : "10",
       "md5" : "eacd9cdb531fa328cefc8d0b155c30f8",

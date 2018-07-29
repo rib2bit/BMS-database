@@ -1,20 +1,5 @@
 [
    {
-      "artist" : "EXCALIpUR / obj:muscleMEN",
-      "comment" : "物量 ★12強化版",
-      "level" : "0",
-      "md5" : "05f93d54b6a4441b38ec5b3312aa19f1",
-      "proposer" : "ZEUS",
-      "proposerLr2id" : 80338,
-      "submission" : 520,
-      "title" : "MIGHTY OBSTACLE",
-      "url" : "http://web.archive.org/web/20090416225824/http://homepage3.nifty.com/halm-berte/exc",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02014",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 6
-   },
-   {
       "artist" : "NIKITA / misokabocha / 差分 赤い人",
       "comment" : "物量",
       "level" : "1",
@@ -27,27 +12,12 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/yumemaboroshi_INFERNO.bms",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
-   },
-   {
-      "artist" : "SHIKI / black train / DDX",
-      "comment" : "4分半 6901notes",
-      "level" : "1",
-      "md5" : "0d51be5bb5e7ce5470f5bb21559f6f64",
-      "proposer" : "null",
-      "proposerLr2id" : 56801,
-      "submission" : 527,
-      "title" : "Air -GOD- [Long]",
-      "url" : "http://web.archive.org/web/20051118202018/http://www.remarkablesense.org/~shiki/air.exe",
-      "url_diff" : "http://absolute.pv.land.to/uploader/src/up0408.zip",
-      "voteNo" : 6,
-      "votePercent" : "60.00",
-      "voteYes" : 9
+      "voteYes" : 2
    },
    {
       "artist" : "syatten obj : BAECON",
       "comment" : "ガチ押し",
-      "level" : "4",
+      "level" : "3",
       "md5" : "12820816c37bd5dd1500e4232ebb2297",
       "proposer" : "ZEUS",
       "proposerLr2id" : 80338,
@@ -58,20 +28,6 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 5
-   },
-   {
-      "artist" : "ブースター / obj. hplaner",
-      "level" : "0",
-      "md5" : "1d7a8c995ba28203d49e570426e7c662",
-      "proposer" : "파이어",
-      "proposerLr2id" : 7290,
-      "submission" : 515,
-      "title" : "tightrope city [taxy]",
-      "url" : "http://aquaseeds.net/",
-      "url_diff" : "http://www.hyper-laner.com/sabun.html",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 6
    },
    {
       "artist" : "Lemi. obj:Omino",
@@ -86,7 +42,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01977",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "SHALE BGA : Can.D-mtmrw / mikasa",
@@ -99,24 +55,9 @@
       "title" : "Micro Hazard",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=107&event=96",
       "url_diff" : "http://endymionsan.web.fc2.com/mikasabun.html",
-      "voteNo" : 1,
-      "votePercent" : "0.00",
-      "voteYes" : 0
-   },
-   {
-      "artist" : "U咲 obj:O",
-      "comment" : "ディレイ",
-      "level" : "7",
-      "md5" : "3a64127bd72f4c6d24ee1b22d6c9fa1b",
-      "proposer" : "APRICOT",
-      "proposerLr2id" : 109350,
-      "submission" : 530,
-      "title" : "Frozen Maiden [Disaster]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=590&event=110",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01424",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteNo" : 2,
+      "votePercent" : "60.00",
+      "voteYes" : 3
    },
    {
       "artist" : "しらいし / obj:dragon",
@@ -133,18 +74,19 @@
       "voteYes" : 1
    },
    {
-      "artist" : "p_d/s_h Artwork : ふりっと★",
-      "level" : "4",
-      "md5" : "3bbec1005ef59916b0c0e6ca931c1756",
-      "proposer" : "ZEUS",
-      "proposerLr2id" : 80338,
-      "submission" : 532,
-      "title" : "Dandelion Sparkle!! (´；ω；｀)",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=93",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01992",
+      "artist" : "SP-# obj:sak",
+      "comment" : "音頭",
+      "level" : "9",
+      "md5" : "4920e601bc093e6bc627babb06763cc6",
+      "proposer" : "otoshi.b",
+      "proposerLr2id" : 87474,
+      "submission" : 542,
+      "title" : "tinnitus音頭",
+      "url" : "https://k-bms.com/party_pabat/party2015.jsp?board_num=15&num=58&order=reg&odtype=a",
+      "url_diff" : "http://gnqg.rosx.net/upload/",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 1
    },
    {
       "artist" : "Yu^ta / obj:Monsta",
@@ -159,21 +101,7 @@
       "url_diff" : "http://3228monsta.web.fc2.com/",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
-   },
-   {
-      "artist" : "Lubinn / obj. laner",
-      "level" : "2",
-      "md5" : "55175a61f06b704b6c4849fbabd473cd",
-      "proposer" : "파이어",
-      "proposerLr2id" : 7290,
-      "submission" : 526,
-      "title" : "夜明けの少女たち [triple]",
-      "url" : "http://www.dropbox.com/s/0rae7necmvt7q7b/%E5%A4%9C%E6%98%8E%E3%81%91%E3%81%AE%E5%B0%91%E5%A5%B3%E3%81%9F%E3%81%A1.zip?dl=0",
-      "url_diff" : "http://www.hyper-laner.com/sabun.html",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 4
    },
    {
       "artist" : "syzfonics obj: qtp13",
@@ -188,7 +116,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02012",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "TOMA Remixed by FALL/さ",
@@ -220,19 +148,33 @@
       "voteYes" : 3
    },
    {
-      "artist" : "こどものなみだ / BANZAI",
-      "comment" : "★LittlE HearT★",
-      "level" : "2",
-      "md5" : "6ea26b0431e3d78d36a07055d80c2c0d",
-      "proposer" : "LUXURY♪",
-      "proposerLr2id" : 23110,
-      "submission" : 499,
-      "title" : "白の魔法の光 (LHGOD-)",
-      "url" : "http://tm2.toymusical.net/",
-      "url_diff" : "http://web.archive.org/web/20160330115701/http://freett.com/iidxbanzai/banzaisabun1.html",
+      "artist" : "noctie* Illust:おっぱさん obj.鰐",
+      "comment" : "超ズレガチ押し",
+      "level" : "6",
+      "md5" : "67bdf423cb959b220369a901955dc8c2",
+      "proposer" : "otoshi.b",
+      "proposerLr2id" : 87474,
+      "submission" : 540,
+      "title" : "resta del tramonto",
+      "url" : "http://yaruki0.sakura.ne.jp/event/ondanyugi5/impression.cgi?no=39",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02008",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "黄泉路テヂーモ / 出前×篠乃ちよ / A",
+      "level" : "0",
+      "md5" : "6dc04f5f2faa96d4b94a9f13f4c22dd9",
+      "proposer" : "ZEUS",
+      "proposerLr2id" : 80338,
+      "submission" : 546,
+      "title" : "ロリキート",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=264&event=96",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02033\t",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 1
    },
    {
       "artist" : "RainDrops(obj.WAS)",
@@ -250,34 +192,34 @@
       "voteYes" : 0
    },
    {
-      "artist" : "HYPER HYBRID(\"HYPER\" MSMcorp. vs \"HYPER\" RYO-K) obj : LindBlum",
-      "comment" : "高速物量",
-      "level" : "6",
-      "md5" : "8a9782b72dcd805d43a52c8a65c508e3",
-      "proposer" : "こめっと",
-      "proposerLr2id" : 80964,
-      "submission" : 493,
-      "title" : "HYPER HYPED HYPERION(HYPER \"HYPER\" MIX) [HYPEREMIA]",
-      "url" : "http://yaruki0.sakura.ne.jp/event/A1_6th/impression.cgi?no=22",
-      "url_diff" : "http://gnqg.rosx.net/upload/",
+      "artist" : "ねこみりん / Apollo Sampling Machine feat.ilder×焔すばる / obj:秘密",
+      "comment" : "★★2 強化版 st3~4くらい",
+      "level" : "4",
+      "md5" : "7722f93ce5a0358e080a3e1d24308981",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "submission" : 545,
+      "title" : "VG (Radio Edit) [Hi]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=74",
+      "url_diff" : "http://www.geocities.jp/hihihi4442/",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
-      "artist" : "2TORI/^o^",
-      "comment" : "高速物量",
-      "level" : "5",
-      "md5" : "a2324e2eb0bc6fafc7387ce282c31583",
-      "proposer" : "onmaco",
-      "proposerLr2id" : 47467,
-      "submission" : 481,
-      "title" : "ゼフィランサス [Plus+]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=29&event=61",
-      "url_diff" : "http://onmacodayo.web.fc2.com/bms0910/plus.bms",
-      "voteNo" : 1,
-      "votePercent" : "66.67",
-      "voteYes" : 2
+      "artist" : "ZUN bms:imr",
+      "comment" : "微縦連と地力",
+      "level" : "1",
+      "md5" : "a94b904f6e3cc39c107867801001727d",
+      "proposer" : "OXYGEN",
+      "proposerLr2id" : 133294,
+      "submission" : 536,
+      "title" : "虎柄の毘沙門天 [LUNATIC]",
+      "url" : "https://dropbox.bms.ms/u/106449495/bishamon_ogg.zip",
+      "url_diff" : "",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "m108/さ BGA : 砂糖天麩羅 / シキイチル",
@@ -292,22 +234,37 @@
       "url_diff" : "http://sabosabun.tank.jp/",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
-      "artist" : "er",
-      "comment" : "多要素(同時 微連打 ディレイ 皿 階段 )",
-      "level" : "1",
-      "md5" : "b14a62fe597d3f4e4e47de795296013a",
+      "artist" : "beatMARIO / tomsfir / selene.",
+      "comment" : "物量",
+      "level" : "0",
+      "md5" : "b02c021e18f561d60cab0723afcacd21",
       "proposer" : "ZEUS",
       "proposerLr2id" : 80338,
-      "submission" : 509,
-      "title" : "いじわるプリンセス [どたばた]",
-      "url" : "https://www.dropbox.com/s/chgthqx87749idp/er_Dotabata-Princess.zip?dl=1",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01988",
+      "submission" : 547,
+      "title" : "Last! Least! Regrets!! -Heaven-",
+      "url" : "http://cool-create.cc/",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01786",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 1
+   },
+   {
+      "artist" : "siromaru / obj:秘密",
+      "comment" : "iimoビーム",
+      "level" : "5",
+      "md5" : "b4384ba2b90691b478a2e2454b097b93",
+      "proposer" : "null",
+      "proposerLr2id" : 56801,
+      "submission" : 537,
+      "title" : "symbolic gear [この歯車だけなぜかおにぎりが挟まっている]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=246&event=65",
+      "url_diff" : "http://www.geocities.jp/hihihi4442/",
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "arranged:ka2o/ 差分　赤い人 original bms:recognize m./bga-RED",
@@ -320,8 +277,8 @@
       "url" : "http://onedrive.live.com/?cid=06316bf8db3cb0be&id=6316BF8DB3CB0BE%21125&authkey=!AHtMH0imt8N3nn4",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/hc_happymix_DELAYMASTER.bms",
       "voteNo" : 2,
-      "votePercent" : "50.00",
-      "voteYes" : 2
+      "votePercent" : "60.00",
+      "voteYes" : 3
    },
    {
       "artist" : "Is-m / obj. laner BGA:yuru",
@@ -335,7 +292,22 @@
       "url_diff" : "http://www.hyper-laner.com/sabun.html",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 3
+   },
+   {
+      "artist" : "chan + Est/さ",
+      "comment" : "ズレガチ押し",
+      "level" : "5",
+      "md5" : "c7d57d3728131508a83b85d2afa5ca83",
+      "proposer" : "otoshi.b",
+      "proposerLr2id" : 87474,
+      "submission" : 544,
+      "title" : "denebora (EX)",
+      "url" : "http://estish.nobody.jp/",
+      "url_diff" : "http://sabosabun.tank.jp/",
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "竜。 feat.結月ゆかり obj:音ゲーマーゆかり",
@@ -350,20 +322,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01935",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
-      "artist" : "Freezer feat. 妃苺 obj.hex",
-      "level" : "0",
-      "md5" : "cdf6f272f0128bf9a1a926d60c5fec73",
-      "proposer" : "파이어",
-      "proposerLr2id" : 7290,
-      "submission" : 529,
-      "title" : "べりごっごっご！",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=116",
-      "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html",
-      "voteNo" : 5,
-      "votePercent" : "16.67",
+      "artist" : "incinerate/差分　赤い人",
+      "comment" : "SHINUGAYOI",
+      "level" : "5",
+      "md5" : "ce29cc499ae42934788b55150668028a",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "submission" : 548,
+      "title" : "煉獄-Purgatorium- [死ぬがよい]",
+      "url" : "http://bof2011bfg.web.fc2.com/nowcanyouclear.html",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/rengokuDEATH.bme",
+      "voteNo" : 0,
+      "votePercent" : "100.00",
       "voteYes" : 1
    },
    {
@@ -377,54 +350,84 @@
       "title" : "LOSHAXI [Vorarephilia]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=119",
       "url_diff" : "https://www.dropbox.com/s/h0vxuz9tdgcr2w2/__Loshaxi_yan.bms?dl=0",
-      "voteNo" : 2,
+      "voteNo" : 3,
       "votePercent" : "0.00",
       "voteYes" : 0
    },
    {
-      "artist" : "fether obj : BAECON vs sak",
-      "comment" : "fetherfether",
-      "level" : "6",
-      "md5" : "e60b85c94680409543f1eb4f9ebc898b",
-      "proposer" : "LUXURY♪",
-      "proposerLr2id" : 23110,
-      "submission" : 473,
-      "title" : "ピアノ協奏曲第１番\"蠍火\"（なんでも吸い込むピンク色のための）",
-      "url" : "http://fether.exblog.jp/",
-      "url_diff" : "http://akred.web.fc2.com/baecon/_sasoribi_historia.bme",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
-   },
-   {
-      "artist" : "Silentroom × 駿 / selene.",
-      "comment" : "ガチ押し",
+      "artist" : "ueotan / obj:KOOPA",
+      "comment" : "同時押し・微連打",
       "level" : "1",
-      "md5" : "f4361759a5f83568b517a6d031c8841a",
-      "proposer" : "こめっと",
-      "proposerLr2id" : 80964,
-      "submission" : 513,
-      "title" : "GAMEBOY -TO THE FUTURE-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=389&event=116",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02018",
+      "md5" : "d314f67bb881c58aa6c8f5efed6630cb",
+      "proposer" : "otoshi.b",
+      "proposerLr2id" : 87474,
+      "submission" : 549,
+      "title" : "Mario Paint (Time Regression Mix for BMS) [MANIAC]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=66&event=84",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 11
+      "voteYes" : 1
    },
    {
-      "artist" : "straw + Laf_R",
-      "comment" : "物量",
-      "level" : "0",
-      "md5" : "f6b6559b7f74ddfa82fd00e1ab6f3e44",
+      "artist" : "DJ TAKUAN 及び 佐倉アヤキ 　及　び obj:BAECON",
+      "comment" : "kachifushi",
+      "level" : "7",
+      "md5" : "e313f2cacd75e39b45e61f439ede55a7",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,
-      "submission" : 522,
-      "title" : "ネレーヌの滝 -Fall of Nereene- [KORATHER！(`o´)]",
-      "url" : "https://dropbox.bms.ms/u/68979347/nereene_taki.zip",
-      "url_diff" : "",
+      "submission" : 550,
+      "title" : "ゴリ姫",
+      "url" : "http://llllllllllll.sakura.ne.jp/djtakuan/",
+      "url_diff" : "http://akred.web.fc2.com/baecon/gorihime.bms",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "NS-Factory obj.hex",
+      "comment" : "微連打物量",
+      "level" : "4",
+      "md5" : "e332debea050f1700fd92aa40dfc8e0b",
+      "proposer" : "otoshi.b",
+      "proposerLr2id" : 87474,
+      "submission" : 538,
+      "title" : "MASAMUNE [Hexagon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=392&event=104",
+      "url_diff" : "http://bms.hexlataia.xyz/",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 1
+   },
+   {
+      "artist" : "Y.W / obj:秘密",
+      "comment" : "ガチ押し",
+      "level" : "3",
+      "md5" : "f3865539a4781d3ffe86a5ace3626138",
+      "proposer" : "null",
+      "proposerLr2id" : 56801,
+      "submission" : 539,
+      "title" : "Challenge the final mission! [Hide]",
+      "url" : "http://www.yw-works.com/bms_pms.htm",
+      "url_diff" : "http://www.geocities.jp/hihihi4442/",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "CrYmson /差分　赤い人",
+      "comment" : "godsong",
+      "level" : "0",
+      "md5" : "fbe222a9c9c0638e9cd1c9ed19e38c48",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "submission" : 543,
+      "title" : "Revival of Kalpa [INFELNO]",
+      "url" : "http://skydrive.live.com/embed?cid=27068862682769FE&resid=27068862682769FE%21125&authkey=AHNT3I9kq_ghwbg",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/RoK_INFELNO.bms",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "insanity tOY",
@@ -438,7 +441,7 @@
       "url" : "http://tm2.toymusical.net/download.html",
       "url_diff" : "http://www.geocities.jp/dsks5456/index.html",
       "voteNo" : 1,
-      "votePercent" : "66.67",
-      "voteYes" : 2
+      "votePercent" : "75.00",
+      "voteYes" : 3
    }
 ]
