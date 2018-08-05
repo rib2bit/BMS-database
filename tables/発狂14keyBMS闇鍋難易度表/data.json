@@ -504,7 +504,7 @@
       "title" : "Re:End of a Dream"
    },
    {
-      "artist" : "onoken / obj:Redrum *FLIP R.MIRROR or 正規",
+      "artist" : "onoken / obj:Redrum *FLIP or 正規",
       "comment" : "tribal euro",
       "level" : "★3",
       "md5" : "0336fef6ffbc308a99b6b9db7d0539ed",
@@ -994,7 +994,7 @@
       "title" : "Disabution (7-7)"
    },
    {
-      "artist" : "syatten / srof *FLIP LR.RANDOM",
+      "artist" : "syatten / srof",
       "comment" : "European Trance",
       "level" : "9",
       "md5" : "064ac9af32dfe5362a5b35066dd4dcd4",
@@ -3549,7 +3549,7 @@
       "title" : "Clear Blue BMS edit"
    },
    {
-      "artist" : "-45 (obj:EIT)",
+      "artist" : "-45 (obj:EIT) *正規 or FLIP R.MIRROR",
       "comment" : "Occultic",
       "level" : "★2",
       "md5" : "170a67652e0a91aa3c14fab625141409",
@@ -5903,7 +5903,7 @@
    {
       "artist" : "paraoka　object by NORE/DP:DJKYO *LR.MIRROR",
       "comment" : "pro階段sive",
-      "level" : "9",
+      "level" : "10",
       "md5" : "26fa4b900122ef85aa65b4d9e2190f60",
       "title" : "L9 (Stair to Hell mode)Another DP [皿なし]"
    },
@@ -14154,9 +14154,9 @@
       "title" : "樟葉(remix) [H14]"
    },
    {
-      "artist" : "ZUN (Remixed by EXCALIpUR)+- *FLIP L.MIRROR",
+      "artist" : "ZUN (Remixed by EXCALIpUR)+-",
       "comment" : "FREEFORM",
-      "level" : "9",
+      "level" : "10",
       "md5" : "5e85a560b6c6b1427bc4cb763d242552",
       "title" : "LUNASA the Stormcauser [Another+]"
    },
@@ -14322,7 +14322,7 @@
       "title" : "竹取はっぴー [A14]"
    },
    {
-      "artist" : "mattaku",
+      "artist" : "mattaku *FLIP R.MIRROR",
       "comment" : "game music",
       "level" : "8",
       "md5" : "6005a25611488935acb25a37c01baa79",
@@ -15827,7 +15827,7 @@
       "title" : "臨終 [14 ovERAst]"
    },
    {
-      "artist" : "nmk/sPH1Ca/Symphonian",
+      "artist" : "nmk/sPH1Ca/Symphonian *FLIP",
       "comment" : "HARD RESURRECTION",
       "level" : "9",
       "md5" : "69ceb4d52c91737095bb82dc9dafe03c",
@@ -16324,7 +16324,7 @@
       "title" : "萌 -XRATED-"
    },
    {
-      "artist" : "Ill *FLIP",
+      "artist" : "Ill",
       "comment" : "TECHNO",
       "level" : "9",
       "md5" : "6d2792e648c6bab8a825af2417d37916",
@@ -17969,7 +17969,7 @@
       "title" : "sola [DP ANOTHER]"
    },
    {
-      "artist" : "Marc-Andre' Hamelin *FLIP LR.MIRROR",
+      "artist" : "Marc-Andre' Hamelin *FLIP LR.MIR or FLIP LR.RAN",
       "comment" : "現代音楽",
       "level" : "9",
       "md5" : "773457357c979ad7602a52e16d986743",
@@ -23786,7 +23786,7 @@
       "title" : "Air -DP ANOTHER- [short2]"
    },
    {
-      "artist" : "DaDass vs Sinnippolian *R.MIRROR",
+      "artist" : "DaDass vs Sinnippolian *R.MIRROR or FLIP L.MIR R.RAN",
       "comment" : "Man's Minimal",
       "level" : "★3",
       "md5" : "9bfcf3fdfa1b1adf87fb7e712e3644c3",
@@ -27741,7 +27741,7 @@
       "title" : "無想 (14A)"
    },
    {
-      "artist" : "ATEMAK - obj:(=ﾟωﾟ)ノぃょぅ *FLIP",
+      "artist" : "ATEMAK - obj:(=ﾟωﾟ)ノぃょぅ",
       "comment" : "H-techno",
       "level" : "★5",
       "md5" : "b51bf7b3c6d0decb459f01d986f7c04b",
@@ -28280,6 +28280,13 @@
       "title" : "シティ・ガーデン(BMS edit) (14keys Maniac)"
    },
    {
+      "artist" : "近藤浩治 bms:Yosk!",
+      "comment" : "ヨッシーアイランド",
+      "level" : "8",
+      "md5" : "b81fa95668546ea29c83e9846741c0ef",
+      "title" : "アスレチック  [DP INSANE]"
+   },
+   {
       "artist" : "void feat. Hiroko / objeCraft",
       "comment" : "Euphoric Vocal J-Trance",
       "level" : "4",
@@ -28630,7 +28637,7 @@
       "title" : "Famicom sweet memories"
    },
    {
-      "artist" : "Junk OBJ:KLOC  *L.MIRROR",
+      "artist" : "Junk OBJ:KLOC",
       "comment" : "Epic Trance",
       "level" : "★2",
       "md5" : "ba63eceb4bc2fcee654b559202dff442",
@@ -29139,6 +29146,13 @@
       "level" : "★4",
       "md5" : "bda5b856fe276c06cc4bed2db46d0016",
       "title" : "FIONA [Enjoy]"
+   },
+   {
+      "artist" : "Charles Valentin Alkan bms:Yosk!",
+      "comment" : "TRANSCENDENTAL ETUDE",
+      "level" : "4",
+      "md5" : "bdb31008ab787e059cce5dd4c31246e5",
+      "title" : "長調による12の練習曲 第5番 アレグロ・バルバロ"
    },
    {
       "artist" : "ixi's Movie : TAKRIDER obj:ucc",
@@ -29876,7 +29890,7 @@
       "title" : "あめふりこねこ [黒猫]"
    },
    {
-      "artist" : "ANDROID-TC *FLIP LR.MIRROR",
+      "artist" : "ANDROID-TC *SUD+ MINBPM 120 -> 60",
       "comment" : "ALLSPEED HARDCORE",
       "level" : "?",
       "md5" : "c2538c0db98d9ec8a2e1a9a63928f929",
@@ -29974,9 +29988,9 @@
       "title" : "ロスト：ユートピアと真理と純粋の極彩世界 [DP ANOTHER]"
    },
    {
-      "artist" : "ANDROID-TC *MINBPM 70",
+      "artist" : "ANDROID-TC *SUD+ MINBPM 120 -> 60",
       "comment" : "ALLSPEED HARDCORE",
-      "level" : "8",
+      "level" : "5",
       "md5" : "c31ec5efc678fada7ce59183314d65da",
       "title" : "Bullshit Delta"
    },
@@ -31670,7 +31684,7 @@
    {
       "artist" : "裏吉川 obj:NEPIA *FLIP R.MIR or R.MIR",
       "comment" : "",
-      "level" : "★7",
+      "level" : "★6",
       "md5" : "cf6faa5dededb13d2f115a388e6ad29b",
       "title" : "A (nepiA)"
    },
@@ -35287,7 +35301,7 @@
       "title" : "ナイト・オブ・ナイツ -鬼畜ピアノ-"
    },
    {
-      "artist" : "Queen P.A.L. / Hador *FLIP R.MIRROR",
+      "artist" : "Queen P.A.L. / Hador *FLIP LR.MIRROR",
       "comment" : "HYPER TECHNO",
       "level" : "9",
       "md5" : "e8cf73919a799ccbceb3d8d7e95eb00e",
@@ -35847,6 +35861,13 @@
       "title" : "Satori ～3rd EyEs (bms edit) [A14]"
    },
    {
+      "artist" : "Charles Valentin Alkan bms:Yosk!  *L.MIRROR",
+      "comment" : "TRANSCENDENTAL ETUDE",
+      "level" : "★2",
+      "md5" : "ec16cb9aabc1c72b8af11f6ffee40491",
+      "title" : "長調による12の練習曲 第5番 アレグロ・バルバロ"
+   },
+   {
       "artist" : "しらいし (obj:NEPIAvsKumamoto) *L.MIRROR",
       "comment" : "Classical Trance",
       "level" : "★1",
@@ -36204,7 +36225,7 @@
       "title" : "Alice [DP INSANE]"
    },
    {
-      "artist" : "FALL / obj:Redrum *FLIP LR.MIRROR",
+      "artist" : "FALL / obj:Redrum *FLIP LR.MIR or FLIP LR.RAN",
       "comment" : "TECHNO",
       "level" : "9",
       "md5" : "ee18e374710600a3e5a3bf9963d915cf",
@@ -37816,7 +37837,7 @@
    {
       "artist" : "立秋 feat.ちょこ obj:Starfish",
       "comment" : "プナイプナイPOP",
-      "level" : "★5",
+      "level" : "★6",
       "md5" : "f8e822c988dc4181a783c81dc4e111af",
       "title" : "プナイプナイたいそう [DP INS☆NE]"
    },
