@@ -11130,9 +11130,9 @@
       "title" : "FF4 最後の闘い  -LN 14A-"
    },
    {
-      "artist" : "上杉うた/obj:epics- *FLIP",
+      "artist" : "上杉うた/obj:epics-",
       "comment" : "hard nrg",
-      "level" : "9",
+      "level" : "8",
       "md5" : "4b2d84e3ee6fddaf678d30cb695d638a",
       "title" : "Judah [DP INSANE]"
    },
@@ -11732,7 +11732,7 @@
       "title" : "oceanbird [DP ANQTHER]"
    },
    {
-      "artist" : "LeaF Movie:Optie / obj:lichtr  *AVE-30",
+      "artist" : "LeaF Movie:Optie / obj:lichtr  *SUD+ AVE-40",
       "comment" : "PROGRESSIVE IDM",
       "level" : "★7",
       "md5" : "4f8575de279c590c823b7de0a21110bd",
@@ -16725,7 +16725,7 @@
    {
       "artist" : "urimu Movie:RAIDEN / Obj:ゆ～兎",
       "comment" : "HARD TRANCE",
-      "level" : "9",
+      "level" : "8",
       "md5" : "7008ff0237c4c9c65809950654b8c01c",
       "title" : "Bicolor Spirit [DP INSANE]"
    },
@@ -17052,7 +17052,7 @@
       "title" : "SunnyShinyRing -革命Hyper-"
    },
    {
-      "artist" : "orangentle / deadblue238 / obj:Louis *L.MIRROR",
+      "artist" : "orangentle / deadblue238 / obj:Louis *R.MIRROR",
       "comment" : "Dissociative Identity Disorder",
       "level" : "9",
       "md5" : "71f10dfbda1e77d43241d5557649639a",
@@ -17152,7 +17152,7 @@
    {
       "artist" : "Aozuna *FLIP LR.RAN 1p3->1, 2p5->7",
       "comment" : "GABBA",
-      "level" : "★4",
+      "level" : "★5",
       "md5" : "72aaf3ae20efde5878937d101c51bfb5",
       "title" : "R'DAM NATION 2001 [DPH]"
    },
@@ -23039,7 +23039,7 @@
    {
       "artist" : "GEMA *LR.RANDOM",
       "comment" : "Tek Tribal",
-      "level" : "★6",
+      "level" : "★5",
       "md5" : "974d88ff4af54b8efe310aa9ed94d655",
       "title" : "digital tribe -DP Another-"
    },
@@ -25538,7 +25538,7 @@
    {
       "artist" : "Hate+ / obj = Mr.egg BGA : S.P.S.B.  *AVERAGE",
       "comment" : "- Level 2 -",
-      "level" : "9",
+      "level" : "8",
       "md5" : "a6e27067459b53821d4e54deddf7b544",
       "title" : "encore [DC]"
    },
@@ -27013,7 +27013,7 @@
       "title" : "officeVIP [DP MANIAC]"
    },
    {
-      "artist" : "midori  obj ； S *FLIP LR.MIRROR",
+      "artist" : "midori  obj ； S *FLIP LR.MIR or FLIP LR.RAN",
       "comment" : "Trance",
       "level" : "★5",
       "md5" : "b05fcf581121bbcfa79439e032c5931a",
@@ -30933,7 +30933,7 @@
       "title" : "オトゲラヴ！ [DPLOVE]"
    },
    {
-      "artist" : "maxXx65535 / cyclia *R.MIRROR",
+      "artist" : "maxXx65535 / cyclia",
       "comment" : "Artcore(DPA)",
       "level" : "★6",
       "md5" : "c9be3fded9f1f19956c170152193475f",
@@ -35413,9 +35413,9 @@
       "title" : "s.o.b [DPQ]"
    },
    {
-      "artist" : "D.J.Nero - obj:(=ﾟωﾟ)ノぃょぅ *R.MIRROR",
+      "artist" : "D.J.Nero - obj:(=ﾟωﾟ)ノぃょぅ",
       "comment" : "RENAISSANCE",
-      "level" : "9",
+      "level" : "8",
       "md5" : "e9b91377d8dd16de5567e45ce5689d8c",
       "title" : "Joker ('A`)"
    },
