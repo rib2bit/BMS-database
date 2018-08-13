@@ -126,6 +126,18 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/green big apple.zip"
    },
    {
+      "artist" : "xra",
+      "comment" : "リズム難・HARD判定<br><br>原曲名：megalopa",
+      "level" : "1",
+      "lr2_bmsid" : "0",
+      "md5" : "46ec0b5265dcc6132583f6446fa0c20b",
+      "name_diff" : "DL",
+      "reg_date" : "2018-08-13",
+      "title" : "brachyura",
+      "url" : "https://drive.google.com/file/d/1KDq1aPQn33oweMS5m0GJY2dbwLcD0Lld/view",
+      "url_diff" : "http://onzonium.at-ninja.jp/sabun/megalopa.zip"
+   },
+   {
       "artist" : "nausiuk / obj.ATOM",
       "comment" : "☆9<br><br>皿・縦連",
       "level" : "-1",
@@ -292,32 +304,6 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/Pangaea.zip"
    },
    {
-      "artist" : "未来 arranged by BACO",
-      "comment" : "☆11<br><br>同時押し・階段",
-      "level" : "-1",
-      "lr2_bmsid" : "0",
-      "md5" : "669eee6aac9c535c36b7d1e4c2b729da",
-      "name_diff" : "DL",
-      "name_pack" : "BOF2004",
-      "reg_date" : "2016-04-24",
-      "title" : "brightocean [INSANE]",
-      "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/brightocean.zip"
-   },
-   {
-      "artist" : "月海",
-      "comment" : "ラス殺し",
-      "level" : "4",
-      "lr2_bmsid" : "0",
-      "md5" : "6b2be23e20c0dd2cc87fb8c649ce3b4e",
-      "name_diff" : "DL",
-      "name_pack" : "BOF2004",
-      "reg_date" : "2016-03-19",
-      "title" : "Time Limit [INSANE]",
-      "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/Time Limit.zip"
-   },
-   {
       "artist" : "菊田研究所/lactate",
       "comment" : "階段",
       "level" : "9",
@@ -417,19 +403,6 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/Tea and Drops.zip"
    },
    {
-      "artist" : "dj TIME",
-      "comment" : "皿複合・ラス殺し",
-      "level" : "5",
-      "lr2_bmsid" : "0",
-      "md5" : "9534ffd6de1c1ee304db674a65b611c8",
-      "name_diff" : "DL",
-      "name_pack" : "BOF2004",
-      "reg_date" : "2016-04-16",
-      "title" : "IRON DOGS [INSANE]",
-      "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/IRON DOGS.zip"
-   },
-   {
       "artist" : "Est",
       "comment" : "ラス殺し",
       "level" : "1",
@@ -480,17 +453,16 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/FREEeee!.zip"
    },
    {
-      "artist" : "dj TIME",
-      "comment" : "☆9<br><br>皿・皿複合",
-      "level" : "-1",
+      "artist" : "6yen",
+      "comment" : "乱打・皿複合・BPM変化",
+      "level" : "8",
       "lr2_bmsid" : "0",
-      "md5" : "a9e62292c4884d8ca474869df1d7a26d",
+      "md5" : "af190d46e80d7688ab0ce1f61e13da74",
       "name_diff" : "DL",
-      "name_pack" : "BOF2004",
-      "reg_date" : "2016-03-19",
-      "title" : "IRON DOGS [ANOTHER]",
+      "reg_date" : "2018-08-13",
+      "title" : "on the sequence #2 [INSANE]",
       "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/IRON DOGS.zip"
+      "url_diff" : "http://onzonium.at-ninja.jp/sabun/on the sequence #2.zip"
    },
    {
       "artist" : "-45",
@@ -554,19 +526,6 @@
       "title" : "決戦！サルーイン -Final Battle with Saruin- [心の闇]",
       "url" : "http://lucifer.pussycat.jp/BMS/L_Saruin.zip",
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/決戦！サルーイン -Final Battle with Saruin-.zip"
-   },
-   {
-      "artist" : "月海",
-      "comment" : "乱打・ラス殺し",
-      "level" : "0",
-      "lr2_bmsid" : "0",
-      "md5" : "c69cf53bc5cbe41e4aa35d0ac80cd595",
-      "name_diff" : "DL",
-      "name_pack" : "BOF2004",
-      "reg_date" : "2016-03-19",
-      "title" : "Time Limit [ANOTHER]",
-      "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/timelimit.zip"
    },
    {
       "artist" : "czardas",
