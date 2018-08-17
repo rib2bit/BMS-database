@@ -66,6 +66,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02048"
    },
    {
+      "artist" : "ZUN/arr.みょん",
+      "comment" : "微縦連,物量",
+      "level" : "27",
+      "lr2_bmsid" : 264087,
+      "md5" : "4b9235f47855e53714e40bced653ab20",
+      "name_diff" : "差分",
+      "title" : "Plastic Mind [Omake]",
+      "url" : "http://onedrive.live.com/?cid=FC95A680740CA8C9&id=FC95A680740CA8C9%21201",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02108"
+   },
+   {
       "artist" : "cybermiso",
       "comment" : "皿複合,終盤難",
       "level" : "18",
@@ -177,14 +188,25 @@
    },
    {
       "artist" : "ZUN/arr.みょん",
-      "comment" : "微縦連,物量,中盤難",
-      "level" : "27",
+      "comment" : "微縦連,物量,中盤難,Artifulより難しい",
+      "level" : "26",
       "lr2_bmsid" : 263859,
       "md5" : "9c642767cb27ae0699b33a72dffc6e6b",
       "name_diff" : "差分",
       "title" : "Plastic Mind [Hermoso]",
       "url" : "http://onedrive.live.com/?cid=FC95A680740CA8C9&id=FC95A680740CA8C9%21201",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02081"
+   },
+   {
+      "artist" : "ZUN/arr.みょん",
+      "comment" : "微縦連,物量",
+      "level" : "17",
+      "lr2_bmsid" : 264092,
+      "md5" : "9c9ea3aa1bbebf4d4f017f5393b168c6",
+      "name_diff" : "差分",
+      "title" : "Plastic Mind [Sppc]",
+      "url" : "http://onedrive.live.com/?cid=FC95A680740CA8C9&id=FC95A680740CA8C9%21201",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02108"
    },
    {
       "artist" : "ルゼ",
@@ -286,6 +308,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01872"
    },
    {
+      "artist" : "ZUN/arr.みょん",
+      "comment" : "微縦連,物量",
+      "level" : "23",
+      "lr2_bmsid" : 264093,
+      "md5" : "e61f34c0546717add1bd6a7aaf139a0f",
+      "name_diff" : "差分",
+      "title" : "Plastic Mind [Sppf]",
+      "url" : "http://onedrive.live.com/?cid=FC95A680740CA8C9&id=FC95A680740CA8C9%21201",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02108"
+   },
+   {
       "artist" : "dj Extrose",
       "comment" : "皿控えめの割れ譜面",
       "level" : "10",
@@ -309,7 +342,7 @@
    },
    {
       "artist" : "ZUN/arr.みょん",
-      "comment" : "高速皿,◎16くらい,狂気でできてる",
+      "comment" : "高速皿,◎16くらい",
       "level" : "99",
       "lr2_bmsid" : 263355,
       "md5" : "f785b063ceddf40e9e8b5170ffcb73c2",
