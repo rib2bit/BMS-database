@@ -574,7 +574,7 @@
       "title" : "彼女なのか [U.N.Owen]"
    },
    {
-      "artist" : "Team:SASAKURATION :obj FIXBPM-Min *FIXOFF 220",
+      "artist" : "Team:SASAKURATION :obj FIXBPM-Min *SUD+ FIXOFF 240",
       "comment" : "Ω",
       "level" : "9",
       "md5" : "03878db294265ae58099f87c1f826ff1",
@@ -3628,7 +3628,7 @@
    {
       "artist" : "くっちー obj:yutaka Movie:HEART CREATE  *R.MIRROR",
       "comment" : "CYBER OPUS",
-      "level" : "9",
+      "level" : "10",
       "md5" : "17f9d3a176c5faee464ab0b7d62167d0",
       "title" : "秩序の秋桜 [皿皿-Hyper-]"
    },
@@ -5889,12 +5889,12 @@
    {
       "artist" : "Ｙ丸 obj:ucc *L.MIRROR or FLIP R.MIRROR",
       "comment" : "KUSO Synth",
-      "level" : "9",
+      "level" : "10",
       "md5" : "26e9889ca0d6c4b1461466bfc1c8564a",
       "title" : "夜がずり落ちてくる [EX14]"
    },
    {
-      "artist" : "38k *FLIP",
+      "artist" : "38k *L.MIRROR",
       "comment" : "Retrogressive",
       "level" : "★2",
       "md5" : "26f7d6100583286d73ee5884c3c3759a",
@@ -12280,7 +12280,7 @@
    {
       "artist" : "seizan",
       "comment" : "MSGS TECH CORE",
-      "level" : "★6",
+      "level" : "★7",
       "md5" : "532b0732e4de52d4a7258863ba305dc3",
       "title" : "N.U.clear"
    },
@@ -15841,7 +15841,7 @@
       "title" : "竹取はっぴー [EX14]"
    },
    {
-      "artist" : "xi iimo",
+      "artist" : "xi iimo  *正規 or FLIP LR.MIRROR",
       "comment" : "LIFE STREAM",
       "level" : "★6",
       "md5" : "69de444deb5615b65059febff095b8a3",
@@ -17372,6 +17372,13 @@
       "level" : "2",
       "md5" : "73e1a67c683004e499d6a40e91fcc0d6",
       "title" : "あなた [DP HYPER]"
+   },
+   {
+      "artist" : "朱雀vs玄武vs落龍",
+      "comment" : "PSG-TERIC SPEED CORE[2P]",
+      "level" : "無理",
+      "md5" : "73e275ac25d22b818f1325180f2c5e3d",
+      "title" : "卑弥呼 (PSG mix)"
    },
    {
       "artist" : "mattaku *FLIP LR.MIRROR",
@@ -19635,7 +19642,7 @@
       "title" : "真・トリル女王 [14KEY ANOTHER]"
    },
    {
-      "artist" : "tarolabo/石王マサト/ルゼ/obj. o",
+      "artist" : "tarolabo/石王マサト/ルゼ/obj. o *LR.RANDOM",
       "comment" : "[Futurismo]",
       "level" : "★6",
       "md5" : "81f9b09f907bef15dd2252552aefc2ed",
@@ -27489,7 +27496,7 @@
       "title" : "CLOCKTOWER [DPLN]"
    },
    {
-      "artist" : "Grand Thaw / obj:Louis *R.MIRROR",
+      "artist" : "Grand Thaw / obj:Louis",
       "comment" : "Neo Pagan Folk",
       "level" : "9",
       "md5" : "b3bc559673f21782da88878abed7538b",
@@ -28777,7 +28784,7 @@
       "title" : "四十五年ノ雪桜 [DP Another]"
    },
    {
-      "artist" : "zun/MIDI：こんそめ/編集：wanco obj:けろりん",
+      "artist" : "zun/MIDI：こんそめ/編集：wanco obj:けろりん *MINBPM",
       "comment" : "東方萃夢想",
       "level" : "★6",
       "md5" : "bb38a606a04e71218beb0feac8b1dff8",
@@ -29960,9 +29967,9 @@
       "title" : "Blink [DP CHALLENGER]"
    },
    {
-      "artist" : "ZUN , Arr:ゆ～兎 / Obj:killer TOMATO *FLIP L.MIRROR",
+      "artist" : "ZUN , Arr:ゆ～兎 / Obj:killer TOMATO",
       "comment" : "Trance",
-      "level" : "9",
+      "level" : "8",
       "md5" : "c2d6647787de1c2033991c66bde71526",
       "title" : "Bad Apple!! -YH mix- [Macintosh]"
    },
@@ -31920,6 +31927,13 @@
       "title" : "Bad Apple!! -YH mix-"
    },
    {
+      "artist" : "落龍 feat 重音テト",
+      "comment" : "ASIAN HIGH-SPEED",
+      "level" : "無理",
+      "md5" : "d0c643ce59ee47ae8da506eec963aaaf",
+      "title" : "六兆年と一分物語"
+   },
+   {
       "artist" : "Sakamiya feat.mirina img:circussion / obj:alt",
       "comment" : "Digital-J-EURO",
       "level" : "7",
@@ -32739,7 +32753,7 @@
       "title" : "Trick or Treat? [14key_Trick]"
    },
    {
-      "artist" : "NS-Factory *R.MIRROR",
+      "artist" : "NS-Factory *正規 or FLIP LR.MIRROR",
       "comment" : "Oriental Edge",
       "level" : "★6",
       "md5" : "d7557959c793edd42e9a03ede1e01fef",
@@ -35889,9 +35903,9 @@
       "title" : "happy groove [DPA]"
    },
    {
-      "artist" : "しらいし obj:けろりん *LR.RANDOM",
+      "artist" : "しらいし obj:けろりん *LR.RANDOM or R.MIRROR",
       "comment" : "J-CLASSICAL TRANCE CORE",
-      "level" : "9",
+      "level" : "10",
       "md5" : "ec34ec3a5c44f59572a19e4eeaed8cbd",
       "title" : "飛翔天華 [精霊天翔]"
    },
@@ -36421,9 +36435,9 @@
       "title" : "Mechanical Beat (DA)"
    },
    {
-      "artist" : "NIKITA / misokabocha obj:shyBlasters(LA＆N)",
+      "artist" : "NIKITA / misokabocha obj:shyBlasters(LA＆N) *FLIP LR.MIRROR",
       "comment" : "SYMPHONIC BREAK BEATS",
-      "level" : "9",
+      "level" : "10",
       "md5" : "ef096b099ffddf02c6749eb1b029d818",
       "title" : "夢、幻。 -皆、伝。-"
    },
@@ -37625,6 +37639,13 @@
       "title" : "Papyrus [DP MANIAC]"
    },
    {
+      "artist" : "ておくれ(.gate)",
+      "comment" : "Houkai3rd(困難)",
+      "level" : "★15",
+      "md5" : "f7989f7886317369e0470929bf0bdb75",
+      "title" : "千年の羽 [bmstyle]"
+   },
+   {
       "artist" : "きのこ～ず(G.G with Anne-Ninne) /obj.TIRU",
       "comment" : "NOSTALGIC STAR TRANCE 2",
       "level" : "4",
@@ -38519,6 +38540,13 @@
       "level" : "★1",
       "md5" : "fd258d70c62dc1eedb581c4e97b35fae",
       "title" : "Love is gone by sectorη  [DP ANOTHER]"
+   },
+   {
+      "artist" : "* (Asterisk) 前川みく×多田李衣菜 / obj:MGN",
+      "comment" : "HOUSE",
+      "level" : "10",
+      "md5" : "fd25ef62b4d13e156d280959e91a7bb0",
+      "title" : "Lonely Cat [DP Cat fog]"
    },
    {
       "artist" : "Rocky obj:killer TOMATO *FLIP R.MIRROR",
