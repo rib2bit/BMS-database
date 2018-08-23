@@ -11,6 +11,17 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Team:SASAKURATION",
+      "comment" : "中速乱打",
+      "level" : "11",
+      "lr2_bmsid" : 264223,
+      "md5" : "0a17d3157cec38aa5e02a00fea432e6c",
+      "name_diff" : "差分",
+      "title" : "エピトゥリカの祀 [cprac-easy]",
+      "url" : "http://web.archive.org/web/20120415195317/http://sasakure.bms.ms/bof2008/epitorica_mq.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02182"
+   },
+   {
       "artist" : "cybermiso",
       "comment" : "癖コレ!?14,皿,◎5くらい",
       "level" : "9",
@@ -227,7 +238,7 @@
       "md5" : "92b736baaa2bd207b8b6d76829661f93",
       "name_diff" : "差分",
       "title" : "エピトゥリカの祀 [c-663]",
-      "url" : "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsid=50071",
+      "url" : "http://web.archive.org/web/20120415195317/http://sasakure.bms.ms/bof2008/epitorica_mq.rar",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02044"
    },
    {
@@ -293,7 +304,7 @@
       "md5" : "b61b44e5fb4a3417244767ec6b697012",
       "name_diff" : "差分",
       "title" : "エピトゥリカの祀 [c-14]",
-      "url" : "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsid=50071",
+      "url" : "http://web.archive.org/web/20120415195317/http://sasakure.bms.ms/bof2008/epitorica_mq.rar",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02044"
    },
    {
@@ -385,6 +396,17 @@
       "url_diff" : "https://1drv.ms/u/s!AgwdTZXAN9JZd9jwKYo3IDFoVnc"
    },
    {
+      "artist" : "Team:SASAKURATION",
+      "comment" : "中速乱打",
+      "level" : "21",
+      "lr2_bmsid" : 264224,
+      "md5" : "f09e9464ff30610c02a258e2230aa998",
+      "name_diff" : "差分",
+      "title" : "エピトゥリカの祀 [cprac-hard]",
+      "url" : "http://web.archive.org/web/20120415195317/http://sasakure.bms.ms/bof2008/epitorica_mq.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02182"
+   },
+   {
       "artist" : "篠螺悠那",
       "comment" : "同時押し気味の乱打,高TOTAL(0.34%)",
       "level" : "13",
@@ -416,5 +438,16 @@
       "title" : "物怪舞踏 [そとゆ]",
       "url" : "http://tsubu.ath.cx/~electrogic/bms/mononoke.rar",
       "url_diff" : "https://1drv.ms/u/s!AgwdTZXAN9JZeM-Vf8CtA6_TnDk"
+   },
+   {
+      "artist" : "LeaF",
+      "comment" : "ソフラン,HARD判定,高TOTAL(0.5%)",
+      "level" : "99",
+      "lr2_bmsid" : 264225,
+      "md5" : "f9794feca1a8b7901b870fc14004c09e",
+      "name_diff" : "差分",
+      "title" : "I [I-MASTER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=79",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02127"
    }
 ]
