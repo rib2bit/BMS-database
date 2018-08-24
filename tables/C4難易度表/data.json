@@ -1,7 +1,7 @@
 [
    {
       "artist" : "II-L",
-      "comment" : "高TOTAL(173%)",
+      "comment" : "高TOTAL",
       "level" : "-1",
       "lr2_bmsid" : 238803,
       "md5" : "01f4fe77b555ffb70c30f1b5cd98044b",
@@ -13,13 +13,13 @@
    {
       "artist" : "Team:SASAKURATION",
       "comment" : "中速乱打",
-      "level" : "11",
+      "level" : "10",
       "lr2_bmsid" : 264223,
       "md5" : "0a17d3157cec38aa5e02a00fea432e6c",
       "name_diff" : "差分",
       "title" : "エピトゥリカの祀 [cprac-easy]",
       "url" : "http://web.archive.org/web/20120415195317/http://sasakure.bms.ms/bof2008/epitorica_mq.rar",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02182"
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02128"
    },
    {
       "artist" : "cybermiso",
@@ -35,7 +35,7 @@
    {
       "artist" : "siromaru + cranky",
       "comment" : "微縦連",
-      "level" : "21",
+      "level" : "20",
       "lr2_bmsid" : 264096,
       "md5" : "12f01ff9aa6363b2e471c0767bc688fe",
       "name_diff" : "差分",
@@ -308,6 +308,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02044"
    },
    {
+      "artist" : "xelloscope",
+      "comment" : "微縦連、中速乱打",
+      "level" : "11",
+      "lr2_bmsid" : 264279,
+      "md5" : "bbd516bcb709093999702faa857ff306",
+      "name_diff" : "差分",
+      "title" : "Apollo [11]",
+      "url" : "http://www.luzeria.net/?m=199808",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02132"
+   },
+   {
       "artist" : "ZUN/arr.みょん",
       "comment" : "微縦連,物量",
       "level" : "25",
@@ -320,7 +331,7 @@
    },
    {
       "artist" : "II-L",
-      "comment" : "LN,同時押し,低速,高TOTAL(132%)",
+      "comment" : "LN,同時押し,低速,高TOTAL",
       "level" : "0",
       "lr2_bmsid" : 238799,
       "md5" : "bf643c4c34252d4dce1a735411c03aef",
@@ -328,6 +339,28 @@
       "title" : "V804N [SP HYPER]",
       "url" : "http://www.mediafire.com/file/18wnwxx50a83drz/V804N.zip",
       "url_diff" : ""
+   },
+   {
+      "artist" : "Caerula",
+      "comment" : "高速乱打,終盤難,ラスト回復",
+      "level" : "21",
+      "lr2_bmsid" : 264247,
+      "md5" : "c43d3f1bdf3a1977bf1a0215f6b57e54",
+      "name_diff" : "差分",
+      "title" : "ブラーブルー [蒼ひ想ひ出]",
+      "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/12/",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02130"
+   },
+   {
+      "artist" : "xelloscope",
+      "comment" : "微縦連,中速乱打,低TOTAL(0.18%)",
+      "level" : "1",
+      "lr2_bmsid" : 264278,
+      "md5" : "c80b46aad4650d02933ca4af53a0b010",
+      "name_diff" : "差分",
+      "title" : "Apollo [11]",
+      "url" : "http://www.luzeria.net/?m=199808",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02132"
    },
    {
       "artist" : "Darkist",
@@ -363,6 +396,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01884"
    },
    {
+      "artist" : "kawasaki under ground",
+      "comment" : "ガチ押し,やや低TOTAL(0.15%)",
+      "level" : "25",
+      "lr2_bmsid" : 264266,
+      "md5" : "d6f0835e2c3abd964720501472aac65d",
+      "name_diff" : "差分",
+      "title" : "carnot [Phisicist]",
+      "url" : "http://web.archive.org/web/20110704014210/http://www.outfound.info/data/bms/kawasaki_carnot.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02131"
+   },
+   {
       "artist" : "eicateve",
       "comment" : "癖コレ!?20,縦連,超低TOTAL(0.06%,71TOTAL)",
       "level" : "15",
@@ -385,6 +429,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02108"
    },
    {
+      "artist" : "Caerula",
+      "comment" : "高速乱打,終盤難,ラスト回復",
+      "level" : "1",
+      "lr2_bmsid" : 264262,
+      "md5" : "e7fd7f0663aed3b7aa8c3422ee389d69",
+      "name_diff" : "差分",
+      "title" : "ブラーブルー [蒼ひ空]",
+      "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/12/",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02130"
+   },
+   {
       "artist" : "dj Extrose",
       "comment" : "皿控えめの割れ譜面",
       "level" : "10",
@@ -404,7 +459,7 @@
       "name_diff" : "差分",
       "title" : "エピトゥリカの祀 [cprac-hard]",
       "url" : "http://web.archive.org/web/20120415195317/http://sasakure.bms.ms/bof2008/epitorica_mq.rar",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02182"
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02128"
    },
    {
       "artist" : "篠螺悠那",
