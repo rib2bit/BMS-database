@@ -112,7 +112,7 @@
    {
       "artist" : "Yosk!",
       "comment" : "ズレ乱打,局所発狂",
-      "level" : "24",
+      "level" : "23",
       "lr2_bmsid" : 264157,
       "md5" : "579d9957eb63cbaf2b0471b82d343347",
       "name_diff" : "差分",
@@ -174,6 +174,17 @@
       "title" : "物怪舞踏 [大太法師]",
       "url" : "http://tsubu.ath.cx/~electrogic/bms/mononoke.rar",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01973"
+   },
+   {
+      "artist" : "xelloscope",
+      "comment" : "微縦連,中速乱打,低TOTAL(0.18%)",
+      "level" : "1",
+      "lr2_bmsid" : 264278,
+      "md5" : "78640421427cf307e8472a185e061709",
+      "name_diff" : "差分",
+      "title" : "Apollo [11]",
+      "url" : "http://www.luzeria.net/?m=199808",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02132"
    },
    {
       "artist" : "cybermiso",
@@ -314,7 +325,7 @@
       "lr2_bmsid" : 264279,
       "md5" : "bbd516bcb709093999702faa857ff306",
       "name_diff" : "差分",
-      "title" : "Apollo [11]",
+      "title" : "Apollo [Saturn 5]",
       "url" : "http://www.luzeria.net/?m=199808",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02132"
    },
@@ -352,17 +363,6 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02130"
    },
    {
-      "artist" : "xelloscope",
-      "comment" : "微縦連,中速乱打,低TOTAL(0.18%)",
-      "level" : "1",
-      "lr2_bmsid" : 264278,
-      "md5" : "c80b46aad4650d02933ca4af53a0b010",
-      "name_diff" : "差分",
-      "title" : "Apollo [11]",
-      "url" : "http://www.luzeria.net/?m=199808",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02132"
-   },
-   {
       "artist" : "Darkist",
       "comment" : "前半LN,主に乱打",
       "level" : "1",
@@ -398,7 +398,7 @@
    {
       "artist" : "kawasaki under ground",
       "comment" : "ガチ押し,やや低TOTAL(0.15%)",
-      "level" : "25",
+      "level" : "24",
       "lr2_bmsid" : 264266,
       "md5" : "d6f0835e2c3abd964720501472aac65d",
       "name_diff" : "差分",
