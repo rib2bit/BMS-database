@@ -11,8 +11,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=121",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02103",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "yukitani / HYOUTAN / 差分赤い人",
@@ -25,9 +25,9 @@
       "title" : "Kaiden Aura [INFELNO]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=65",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/kaidenaura_INFELNO.bme",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "voteNo" : 1,
+      "votePercent" : "50.00",
+      "voteYes" : 1
    },
    {
       "artist" : "Kuwagata / obj:MineC24",
@@ -40,9 +40,9 @@
       "title" : "シグナルほっぴんぐ [Signal Delay]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=190&event=116",
       "url_diff" : "https://www.dropbox.com/s/h0knvieqszusgf1/_00_kuwagata_signal_%5Bsigdel%5D.bms?dl=0",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteNo" : 1,
+      "votePercent" : "75.00",
+      "voteYes" : 3
    },
    {
       "artist" : "ATEMAK / obj:GN",
@@ -72,7 +72,7 @@
       "url_diff" : "http://hakkanbms.web.fc2.com/",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "DG LIFE@EXAM.S/BGA.HEART CREATE/OBJ.TAKA.S",
@@ -84,8 +84,8 @@
       "title" : "Sonic speed in the sky [LIGHT SPEED]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=71",
       "url_diff" : "",
-      "voteNo" : 0,
-      "votePercent" : 0,
+      "voteNo" : 1,
+      "votePercent" : "0.00",
       "voteYes" : 0
    },
    {
@@ -100,8 +100,8 @@
       "url" : "https://www.dropbox.com/s/vk18dnujcakcvjg/IWBS_A.rar?dl=0",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01654",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "ねこみみ魔法使い for 御庭つみき / obj:Ds BGA:石王マサト",
@@ -130,8 +130,8 @@
       "url" : "http://tsubu.ath.cx/~electrogic/bms/mononoke.rar",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01973",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "bakamin / AAAAAAAA",
@@ -164,6 +164,21 @@
       "voteYes" : 0
    },
    {
+      "artist" : "honey princess / po",
+      "comment" : "物量",
+      "level" : "3",
+      "md5" : "4b9410eda6335db6c874ecd4aca9e3a3",
+      "proposer" : "null",
+      "proposerLr2id" : 56801,
+      "submission" : 621,
+      "title" : "LOVE☆BEAM (orange summer mix) -^^-",
+      "url" : "https://web.archive.org/web/20111219094756/http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=33",
+      "url_diff" : "http://absolute.pv.land.to/uploader/src/up4358.zip",
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 1
+   },
+   {
       "artist" : "raii obj.Lapis",
       "comment" : "delay(?)",
       "level" : "2",
@@ -174,8 +189,8 @@
       "title" : "Break of the Day [Break of the DELay]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=68&event=120",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01858",
-      "voteNo" : 0,
-      "votePercent" : 0,
+      "voteNo" : 2,
+      "votePercent" : "0.00",
       "voteYes" : 0
    },
    {
@@ -190,8 +205,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=89&event=115",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02065",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "かたぎり illust:YuleOz obj:MineC24",
@@ -204,9 +219,9 @@
       "title" : "Reso*nyan*ce Fever [めちゃくちゃ]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=566&event=110",
       "url_diff" : "https://www.dropbox.com/s/c18q9nr3pol0ntl/7M.bms?dl=0",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "voteNo" : 1,
+      "votePercent" : "50.00",
+      "voteYes" : 1
    },
    {
       "artist" : "LeaF / Notes:キラ",
@@ -234,9 +249,9 @@
       "title" : "異説彼岸花 第二 -終世のリコリス-/side：A",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=141&event=65",
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
-      "voteNo" : 1,
-      "votePercent" : "0.00",
-      "voteYes" : 0
+      "voteNo" : 2,
+      "votePercent" : "33.33",
+      "voteYes" : 1
    },
    {
       "artist" : "sun3/ds",
@@ -250,23 +265,8 @@
       "url" : "http://web.archive.org/web/20050313021215/http://www14.plala.or.jp/sun3_bms/U_r.GCA",
       "url_diff" : "http://www.geocities.jp/dsks5456/index.html",
       "voteNo" : 2,
-      "votePercent" : "66.67",
-      "voteYes" : 4
-   },
-   {
-      "artist" : "goangra BGA:WCMP obj.きのP",
-      "comment" : "BPM185の乱打とディレイ",
-      "level" : "1",
-      "md5" : "81e0d18616e3ac8d00652f35ab37a378",
-      "proposer" : "桜ノ宮苺香",
-      "proposerLr2id" : 61713,
-      "submission" : 615,
-      "title" : "Fantasy [Checkmate]",
-      "url" : "http://www.dropbox.com/s/dfr9k18083pjd5s/fantasy.ogg.zip",
-      "url_diff" : "http://www6.atpages.jp/japancoolfuku/1to24/objlist",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "71.43",
+      "voteYes" : 5
    },
    {
       "artist" : "五条下位＆仲村芽衣子 // movie: kagi55x obj: swa",
@@ -279,8 +279,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=286&event=74",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01669",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "9RAN/obj:ゆうりん",
@@ -298,6 +298,21 @@
       "voteYes" : 3
    },
    {
+      "artist" : "Judah BGA:Lucifer",
+      "comment" : "つよい",
+      "level" : "3",
+      "md5" : "a9375e12d23080e77fb58f717eeb5c9e",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "submission" : 622,
+      "title" : "F13 [つよい]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=96",
+      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up4869.zip",
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 1
+   },
+   {
       "artist" : "b-UMB /差分　赤い人",
       "level" : "2",
       "md5" : "ad76093e017c7a2682b7d33ddf1e7cdb",
@@ -307,9 +322,9 @@
       "title" : "Alice-areA(BMS edit) [INFELNO]",
       "url" : "https://web.archive.org/web/20140111144501/http://colorfulumbrella.sakura.ne.jp/bms/alice_area.rar",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/alice-area-INFELNO.bme",
-      "voteNo" : 3,
-      "votePercent" : "25.00",
-      "voteYes" : 1
+      "voteNo" : 4,
+      "votePercent" : "33.33",
+      "voteYes" : 2
    },
    {
       "artist" : "ケットシー @main obj:firi.",
@@ -366,8 +381,8 @@
       "title" : "風塵少女-Wind Rush- [INFELNO]",
       "url" : "https://onedrive.live.com/?id=578814ACC2BD5A74%21140&cid=578814ACC2BD5A74",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/windrush-INFELNO.bme",
-      "voteNo" : 0,
-      "votePercent" : 0,
+      "voteNo" : 1,
+      "votePercent" : "0.00",
       "voteYes" : 0
    },
    {
@@ -382,8 +397,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=313&event=104",
       "url_diff" : "https://onedrive.live.com/?authkey=%21AN%5F%2DMNvGSM39jOw&cid=A7171B3AD70828F4&id=A7171B3AD70828F4%21159&parId=A7171B3AD70828F4%21172&o=OneUp",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "cromo /差分　赤い人 BGA: カントクP",
@@ -412,8 +427,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=425&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01603",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "かおみりん feat.こもも×みゆ",
@@ -428,6 +443,6 @@
       "url_diff" : "http://gnqg.rosx.net/upload/",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 5
    }
 ]

@@ -294,6 +294,19 @@
       "url_diff" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=116"
    },
    {
+      "artist" : "Quaint Project Jacket: 水無月ぱんだ / obj:SUZUKAZEΛ",
+      "comment" : "微縦連,同時押し,高速階段,皿絡み",
+      "level" : "7",
+      "lr2_bmsid" : "263815",
+      "md5" : "1b3a8fff9e2975f082cba5c7e65f3f78",
+      "name_diff" : "SUZUKAZEΛ",
+      "reg_date" : " ",
+      "state" : 1,
+      "title" : "Delucs [ZOI]",
+      "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/5/",
+      "url_diff" : "https://dl.dropbox.com/s/emf6i1baww1hc9o/Quaint_Project_Delucs_zoi.zip?dl=1"
+   },
+   {
       "artist" : "Arctures vs DJ KemoNOiZE obj:SUZUKAZEΛ",
       "comment" : "皿,高速階段,乱打,LN,一時停止",
       "level" : "5",
@@ -333,13 +346,12 @@
    },
    {
       "artist" : "raii obj:SUZUKAZEΛ",
-      "comment" : "乱打 ／ ガチ押し",
+      "comment" : "乱打",
       "level" : "0",
       "lr2_bmsid" : "262104",
       "md5" : "1df63004f70bfcfd5dab20b7a31d8214",
       "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
-      "state" : 1,
       "title" : "Let's start the Party! [ZOI]",
       "url" : "https://twitter.com/raii_x/status/1003289945157484549",
       "url_diff" : "https://dl.dropbox.com/s/pfl54hac90hyg9g/%5Braii%5DLet%27s%20start%20the%20Party%21_zoi.zip?dl=1"
@@ -461,7 +473,6 @@
       "md5" : "30e2030a1d04bc4eb09cfb078c8ed878",
       "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
-      "state" : 1,
       "title" : "Rise Above the Firmament [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=121",
       "url_diff" : "https://dl.dropbox.com/s/4xbf6fcp9l92fka/%5Bsaaa%5DRise%20Above%20the%20Firmament_zoi.zip?dl=1"
@@ -741,7 +752,7 @@
    {
       "artist" : "ぽんきち obj:SUZUKAZEΛ",
       "comment" : "同時押し,皿複合,高速階段",
-      "level" : "5",
+      "level" : "4",
       "lr2_bmsid" : "253894",
       "md5" : "46ec56993c8fdb1315adc4a928df93e2",
       "name_diff" : "SUZUKAZEΛ",
@@ -802,7 +813,7 @@
    {
       "artist" : "Freezer feat. 妃苺 obj:SUZUKAZEΛ",
       "comment" : "同時押し,皿複合,微縦連,LN,高速階段",
-      "level" : "5",
+      "level" : "6",
       "lr2_bmsid" : "251781",
       "md5" : "4c94eeee4fa1be25572f317e42888e8e",
       "name_diff" : "SUZUKAZEΛ",
@@ -867,7 +878,6 @@
       "md5" : "51dfe837f6837c6be9b7f9b07ed4e929",
       "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
-      "state" : 1,
       "title" : "Let's start the Party! [ZOI-SC]",
       "url" : "https://twitter.com/raii_x/status/1003289945157484549",
       "url_diff" : "https://dl.dropbox.com/s/pfl54hac90hyg9g/%5Braii%5DLet%27s%20start%20the%20Party%21_zoi.zip?dl=1"
@@ -1067,6 +1077,19 @@
       "url_diff" : "https://dl.dropbox.com/s/mlxkipfoxbrx2py/BD_zoi.zip?dl=0"
    },
    {
+      "artist" : "Caerula obj:SUZUKAZEΛ",
+      "comment" : "同時押し(ガチ押し気味),ズレ,高速階段",
+      "level" : "10",
+      "lr2_bmsid" : "263988",
+      "md5" : "62b3907120f65e4782964ee5324cdfbd",
+      "name_diff" : "SUZUKAZEΛ",
+      "reg_date" : " ",
+      "state" : 1,
+      "title" : "ブラーブルー [ZOI]",
+      "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/12/",
+      "url_diff" : "https://dl.dropbox.com/s/523ofw9gg609yf9/%5BCaerula%5Dblur_blue_zoifix.zip?dl=1"
+   },
+   {
       "artist" : "nonomori obj:SUZUKAZEΛ",
       "comment" : "同時押し,縦連,皿複合,高速階段",
       "level" : "6",
@@ -1074,7 +1097,6 @@
       "md5" : "65b11165f71adaa3dbe00727cd58be17",
       "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
-      "state" : 1,
       "title" : "天照～amaterasu～ [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=121",
       "url_diff" : "https://dl.dropbox.com/s/lhomobjiolgbxzc/%5Bnonomori%5Damaterasu_zoi.zip?dl=1"
@@ -1087,7 +1109,6 @@
       "md5" : "6949a9982c7678ae41a0277388cb8995",
       "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
-      "state" : 1,
       "title" : "Tearslight [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=56&event=121",
       "url_diff" : "https://dl.dropbox.com/s/eog735789ovnjw0/Tearslight_zoi.zip?dl=1"
@@ -1307,6 +1328,19 @@
       "title" : "x-Aria ‐frenzy mix‐ [ZOI]",
       "url" : "http://web.archive.org/web/20110911074519/http://tsubu.ath.cx/~electrogic/bms/x_aria_f.rar",
       "url_diff" : "https://dl.dropbox.com/s/jh0g0a81o8ogsjq/x_aria_f_zoi.zip?dl=1"
+   },
+   {
+      "artist" : "Concordia(Aeris+Cervesia) feat.ヒトトリ BGA : sunrise films / obj:SUZUKAZEΛ",
+      "comment" : "同時押し,皿複合,微縦連,物量",
+      "level" : "7",
+      "lr2_bmsid" : "264303",
+      "md5" : "7fc65a1fe0cedd5cef9be685ad383c66",
+      "name_diff" : "SUZUKAZEΛ",
+      "reg_date" : " ",
+      "state" : 1,
+      "title" : "Sea Breeze Memory [ZOI]",
+      "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/22/",
+      "url_diff" : "https://dl.dropbox.com/s/omo16hpac9v9000/%5BConcordia%5DSeabreeeze_memory_zoi.zip?dl=1"
    },
    {
       "artist" : "LiA obj:SUZUKAZEΛ",
@@ -1668,7 +1702,6 @@
       "md5" : "ac120f7e76f327ea7203bd9a506c397f",
       "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
-      "state" : 1,
       "title" : "Signager [EZ-ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=121",
       "url_diff" : "https://dl.dropbox.com/s/cv6u58ngm9yl3rd/Signager_zoifix.zip?dl=1"
@@ -2260,7 +2293,7 @@
    {
       "artist" : "eoll feat.白羽美依 obj:SUZUKAZEΛ",
       "comment" : "同時押し,乱打,皿絡み",
-      "level" : "0",
+      "level" : "2",
       "lr2_bmsid" : "235536",
       "md5" : "df9cca9b79c4e1e016238731ad516328",
       "name_diff" : "SUZUKAZEΛ",
@@ -2460,7 +2493,6 @@
       "md5" : "e9dfe82dfd8827393fabb87483344e20",
       "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
-      "state" : 1,
       "title" : "Signager [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=121",
       "url_diff" : "https://dl.dropbox.com/s/cv6u58ngm9yl3rd/Signager_zoifix.zip?dl=1"
@@ -2527,6 +2559,18 @@
       "url_diff" : "https://dl.dropbox.com/s/4x2et1p0nxoziw2/let%20me%20take%20you%20zoi.zip?dl=1"
    },
    {
+      "artist" : "Hyparpax obj:SUZUKAZEΛ",
+      "comment" : "微縦連,同時押し,皿複合,中速階段,LN",
+      "level" : "5",
+      "lr2_bmsid" : "260837",
+      "md5" : "f4be342c99aa0d1ec024e021706b7ac2",
+      "name_diff" : "SUZUKAZEΛ",
+      "reg_date" : " ",
+      "title" : "Formula Star [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=38&event=120",
+      "url_diff" : "https://dl.dropbox.com/s/p3fl3tkejxvk5zp/hpx-formulastar_zoi.zip?dl=1"
+   },
+   {
       "artist" : "しらいし BGI・obj:SUZUKAZEΛ",
       "comment" : "乱打,ズレ,同時押し,BGI同梱",
       "level" : "5",
@@ -2562,6 +2606,19 @@
       "title" : "八大地獄邪魂転生狂葬散火歌 [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=116",
       "url_diff" : "https://dl.dropbox.com/s/d1a170d3qzhv49s/8G59_sakamirito_zoi.zip?dl=1"
+   },
+   {
+      "artist" : "Flapper. Movie:mameden / obj:SUZUKAZEΛ",
+      "comment" : "同時押し,二重階段,皿複合",
+      "level" : "5",
+      "lr2_bmsid" : "264029",
+      "md5" : "f6c2e415207d65eb0b7c24a7a97a3f27",
+      "name_diff" : "SUZUKAZEΛ",
+      "reg_date" : " ",
+      "state" : 1,
+      "title" : "ANOZER [ZOI]",
+      "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/24/",
+      "url_diff" : "https://dl.dropbox.com/s/0hsiw852h2gs4l4/ANOZER_zoi.zip?dl=1"
    },
    {
       "artist" : "黎明機構第三研究開発部 / CV: 浅見ゆい Illustration: うまるつふり / Movie: 石王マサト / obj:SUZUKAZEΛ",
@@ -2607,7 +2664,6 @@
       "md5" : "fb799d0d6a7148d844b65d6fb6ce0cf5",
       "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
-      "state" : 1,
       "title" : "スピカ [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=121",
       "url_diff" : "https://dl.dropbox.com/s/ytxqwqkb7qz1e9e/qfeileadh_spica_zoi.zip?dl=1"
