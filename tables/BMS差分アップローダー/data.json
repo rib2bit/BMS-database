@@ -795,6 +795,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00105"
    },
    {
+      "adddate" : "2018/08/30 12:53",
+      "artist" : "じぽたん MIDI : 猫姫 obj : nullest",
+      "comment" : "連打複合 後半のみ",
+      "folder" : "2018/08",
+      "genre" : "ピアノ連弾",
+      "keys" : 7,
+      "level" : "2018/08",
+      "lr2_bmsid" : "264389",
+      "md5" : "0456133b5e21f141a4b8c7b8f15bea58",
+      "org_level" : null,
+      "title" : "ピアノ連弾的「You」～ひぐらしのなく頃に～ [むずかしい]",
+      "url" : "http://www.geocities.jp/red_without_right_stick/bms/index.html",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02141"
+   },
+   {
       "adddate" : "2018/02/01 23:08",
       "artist" : "Raimu/mixed.NOHE obj:kaguya",
       "comment" : "低トータル / 曲URL同梱",
@@ -8846,7 +8861,7 @@
       "md5" : "3fbc0099d577d5805543e55c64a2eb69",
       "org_level" : null,
       "title" : "ブラーブルー【AquaMarine】",
-      "url" : "",
+      "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/12/",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02123"
    },
    {
@@ -12418,6 +12433,21 @@
       "title" : "空想都市トーキョー [Another Reality]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=60&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00106"
+   },
+   {
+      "adddate" : "2018/08/30 07:37",
+      "artist" : "MILK / obj:na",
+      "comment" : "マイルド",
+      "folder" : "2018/08",
+      "genre" : "HARD TRANCE",
+      "keys" : "7",
+      "level" : "2018/08",
+      "lr2_bmsid" : "264397",
+      "md5" : "5720fc5f1e9fc6aed9bb70e6af969725",
+      "org_level" : null,
+      "title" : "RAY",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02140"
    },
    {
       "adddate" : "2018/06/10 21:20",
