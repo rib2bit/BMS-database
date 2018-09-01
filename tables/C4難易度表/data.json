@@ -352,6 +352,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02010"
    },
    {
+      "artist" : "qfeileadh",
+      "comment" : "乱打",
+      "level" : "8",
+      "lr2_bmsid" : 264436,
+      "md5" : "bc6b095f7f03cf5f23b887062fbce81b",
+      "name_diff" : "差分",
+      "title" : "スピカ [Elgafar]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=121",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02144"
+   },
+   {
       "artist" : "II-L",
       "comment" : "LN,同時押し,低速,高TOTAL",
       "level" : "0",
@@ -526,5 +537,16 @@
       "title" : "I [I-MASTER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=79",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02127"
+   },
+   {
+      "artist" : "qfeileadh",
+      "comment" : "微縦連乱打",
+      "level" : "20",
+      "lr2_bmsid" : 264435,
+      "md5" : "fa1410ac50fbb836c37827bf7afa0ccf",
+      "name_diff" : "差分",
+      "title" : "スピカ [Khambalia]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=121",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02144"
    }
 ]
