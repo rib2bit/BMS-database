@@ -1603,9 +1603,9 @@
       "title" : "ナイト・オブ・ザ・リビングデッド"
    },
    {
-      "artist" : "メスクラ (エヴァたん＆メコたん) obj:ucc *LR.RANDOM",
+      "artist" : "メスクラ (エヴァたん＆メコたん) obj:ucc *FLIP LR.RANDOM",
       "comment" : "ルネッサンスコア",
-      "level" : "9",
+      "level" : "10",
       "md5" : "0a22ba6f1f691c065f73ef86236b0e75",
       "title" : "アズール [A14]"
    },
@@ -4951,7 +4951,7 @@
    {
       "artist" : "H.U.T GiGAR / obj.LetsOTL",
       "comment" : "GABBER",
-      "level" : "★4",
+      "level" : "★5",
       "md5" : "20bee6ca32e177be049c79b6d845ef88",
       "title" : "SHOTGUN ANTHEM [DP anOTLer]"
    },
@@ -5532,7 +5532,7 @@
    {
       "artist" : "Modulation Spin",
       "comment" : "filter schranz",
-      "level" : "9",
+      "level" : "8",
       "md5" : "24863c79411dd97877a4b3762a3bf6d9",
       "title" : "thunder storm"
    },
@@ -6111,7 +6111,7 @@
       "title" : "★So SweeT LittlE HearT★ [ANOTHER]"
    },
    {
-      "artist" : "xarva (obj:k) *FLIP LR.MIRROR",
+      "artist" : "xarva (obj:k) *FLIP LR.MIR or FLIP R.MIR",
       "comment" : "epic house",
       "level" : "★5",
       "md5" : "28cf59439c28fa865376972ec722a659",
@@ -8568,7 +8568,7 @@
       "title" : "CRYSTAL GEYSER [14ANOTHER]"
    },
    {
-      "artist" : "yukitani feat. DJ YKTN and DJ UMA note by Y.W *AVERAGE FLIP L.MIR",
+      "artist" : "yukitani feat. DJ YKTN and DJ UMA note by Y.W *AVERAGE-10 FLIP L.MIR",
       "comment" : "Nerd Funk",
       "level" : "★6",
       "md5" : "39a3586186ba1b207442abe520d1f829",
@@ -17117,7 +17117,7 @@
    {
       "artist" : "FALL remixed by s-don / obj j.pami *FLIP LR.MIRROR",
       "comment" : "CUMBIA",
-      "level" : "9",
+      "level" : "8",
       "md5" : "726e7aead7bb21c277bcf771482414a5",
       "title" : "君、beer."
    },
@@ -18074,7 +18074,7 @@
       "title" : "絶対的共依存 -Asovigocoros-"
    },
    {
-      "artist" : "幸せの教室 *FLIP",
+      "artist" : "幸せの教室",
       "comment" : "-",
       "level" : "9",
       "md5" : "7802fe17564158a5adb90431739621dc",
@@ -18767,7 +18767,7 @@
       "title" : "H'az'E (Another mix)"
    },
    {
-      "artist" : "Humanoid Remixed by Hate obj:ucc *LR.RAN or L.MIR or R.MIR",
+      "artist" : "Humanoid Remixed by Hate obj:ucc *LR.RANDOM",
       "comment" : "8bit mix",
       "level" : "10",
       "md5" : "7c166e91a5262e3784efc7cc1091d4b1",
@@ -19600,9 +19600,9 @@
       "title" : "Conviction [DP HYPER]"
    },
    {
-      "artist" : "Ninja Action Team / sequence : pinoIce *FLIP",
+      "artist" : "Ninja Action Team / sequence : pinoIce *FLIP LR.MIRROR",
       "comment" : "Bigbeat",
-      "level" : "9",
+      "level" : "★1",
       "md5" : "81cfb859565544822573b91551da5c5a",
       "title" : "Wasabi 極辛"
    },
@@ -22645,9 +22645,9 @@
       "title" : "DENGEKI Tube [200万ボルト]"
    },
    {
-      "artist" : "明智小衣 / obj:夢瑠 *FLIP LR.RANDOM",
+      "artist" : "明智小衣 / obj:夢瑠 *LR.MIRROR or LR.RANDOM",
       "comment" : "STRIP",
-      "level" : "9",
+      "level" : "10",
       "md5" : "941c4439df37db095ff0cbba59bb9169",
       "title" : "さようなら、いままで魚をありがとう"
    },
@@ -34750,7 +34750,7 @@
    {
       "artist" : "Charon Fedoul obj:ucc *MAXBPM FLIP",
       "comment" : "エキストラバトル",
-      "level" : "9",
+      "level" : "10",
       "md5" : "e4b9122c17cdf591a35066266ff69857",
       "title" : "veiled altar [A14]"
    },
