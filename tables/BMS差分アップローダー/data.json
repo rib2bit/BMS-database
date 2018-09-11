@@ -8610,6 +8610,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00522"
    },
    {
+      "adddate" : "2018/09/11 17:25",
+      "artist" : "鳩 / obj:muscleMEN",
+      "comment" : "体力",
+      "folder" : "2018/09",
+      "genre" : "DarkBreaks",
+      "keys" : 7,
+      "level" : "2018/09",
+      "lr2_bmsid" : "",
+      "md5" : "3d11da08834644a1c8af528a027649f9",
+      "org_level" : null,
+      "title" : "Alastor [Dead End]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02170"
+   },
+   {
       "adddate" : "2017/11/26 15:54",
       "artist" : "TRIAL / obj:NASA",
       "comment" : "同時押し、皿複合、ラス殺し、低速(ギアチェン可)",
@@ -9281,7 +9296,7 @@
       "md5" : "4104296bc45a8a79aab8b17e3b145581",
       "org_level" : null,
       "title" : "[Re:]Re:End of a Dream",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=543&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01481"
    },
    {
@@ -13616,7 +13631,7 @@
       "md5" : "5e441bc7987c1b50170aebfbd8eec4b2",
       "org_level" : null,
       "title" : "Delucs [IMPACT]",
-      "url" : "",
+      "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/5/",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02151"
    },
    {
@@ -28228,6 +28243,21 @@
       "title" : "ULTRA RENDA 1 [Futabather]",
       "url" : "",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00955"
+   },
+   {
+      "adddate" : "2018/09/12 02:02",
+      "artist" : "ikaruga_nex feat. Salita / obj:shelther",
+      "comment" : "上げなおしと譜面修正。乱打メイン",
+      "folder" : "2018/09",
+      "genre" : "freeform",
+      "keys" : 7,
+      "level" : "2018/09",
+      "lr2_bmsid" : "264644",
+      "md5" : "c07d08f3140366b0951b8528cee97e8d",
+      "org_level" : null,
+      "title" : "We are the xxxx[Shelther]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02171"
    },
    {
       "adddate" : "2017/02/18 11:27",
