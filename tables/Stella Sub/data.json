@@ -5654,7 +5654,7 @@
    {
       "artist" : "黒皇帝 / obj:O Movie: 6XeNoN9",
       "comment" : "高速物量",
-      "level" : "7",
+      "level" : "8",
       "md5" : "a06c88e7421b463a9d2d8b0e606eea97",
       "proposer" : "APRICOT",
       "proposerLr2id" : 109350,
@@ -8436,6 +8436,21 @@
       "title" : "e.f. (Lunatic)",
       "url" : "https://onedrive.live.com/?id=863934608D908CD0%21105&cid=863934608D908CD0",
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "Is-m obj:firi. BGA:coda obj:firi.",
+      "comment" : "ディレイ",
+      "level" : "9",
+      "md5" : "eed4439da9b6641b4acf0322912cd040",
+      "proposer" : "homare",
+      "proposerLr2id" : 79434,
+      "submission" : 664,
+      "title" : "MooN -Infinite-",
+      "url" : "http://www.is-m.jp/bms/",
+      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up4291.zip",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
