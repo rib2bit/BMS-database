@@ -56,7 +56,7 @@
    },
    {
       "artist" : "篠螺悠那",
-      "comment" : "同時押し気味の乱打,高TOTAL(0.32%)",
+      "comment" : "stella st0,同時押し気味の乱打,高TOTAL(0.32%)",
       "level" : "20",
       "lr2_bmsid" : 263198,
       "md5" : "32f1a933bfad5ebcee1e753c08aad451",
@@ -209,6 +209,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01487"
    },
    {
+      "artist" : "R*uLuru",
+      "comment" : "中速、高速乱打",
+      "level" : "2",
+      "lr2_bmsid" : 264763,
+      "md5" : "797ded0efc357dea2f4cae56536ebd3b",
+      "name_diff" : "差分",
+      "title" : "Alitatrieb [Madness]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=121",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02188"
+   },
+   {
       "artist" : "篠螺悠那",
       "comment" : "同時押し気味の乱打,高TOTAL(0.35%)",
       "level" : "3",
@@ -264,15 +275,15 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02044"
    },
    {
-      "artist" : "ZUN/arr.みょん",
-      "comment" : "微縦連,物量,中盤難,Artifulより難しい",
-      "level" : "26",
-      "lr2_bmsid" : 263859,
-      "md5" : "9c642767cb27ae0699b33a72dffc6e6b",
+      "artist" : "R*uLuru",
+      "comment" : "中速、高速乱打",
+      "level" : "14",
+      "lr2_bmsid" : 264764,
+      "md5" : "9a4f793c19d3f7b27187bf50b858e95d",
       "name_diff" : "差分",
-      "title" : "Plastic Mind [Hermoso]",
-      "url" : "http://onedrive.live.com/?cid=FC95A680740CA8C9&id=FC95A680740CA8C9%21201",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02081"
+      "title" : "Alitatrieb [Insanity]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=121",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02188"
    },
    {
       "artist" : "ZUN/arr.みょん",
@@ -295,6 +306,17 @@
       "title" : "DTD Emperor [Divert]",
       "url" : "http://www.luzeria.net/music/bms.htm",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02093"
+   },
+   {
+      "artist" : "エターナルコスモ斎藤",
+      "comment" : "高速乱打、同時押し",
+      "level" : "20",
+      "lr2_bmsid" : 264848,
+      "md5" : "ac7563cd5e067287e1a0a25cbc0b0987",
+      "name_diff" : "差分",
+      "title" : "Nigrette [busy]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=121",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02192"
    },
    {
       "artist" : "siromaru + cranky",
@@ -504,6 +526,17 @@
       "title" : "物怪舞踏 [河童]",
       "url" : "http://tsubu.ath.cx/~electrogic/bms/mononoke.rar",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01973"
+   },
+   {
+      "artist" : "エターナルコスモ斎藤",
+      "comment" : "高速乱打、同時押し",
+      "level" : "2",
+      "lr2_bmsid" : 264847,
+      "md5" : "f36d0f1522c505b515ad3a0da2e68e0d",
+      "name_diff" : "差分",
+      "title" : "Nigrette [lonely]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=121",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02192"
    },
    {
       "artist" : "ZUN/arr.みょん",
