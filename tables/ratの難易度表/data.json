@@ -14,6 +14,20 @@
       "url_diff" : "http://rattoto10.web.fc2.com/bms/rat_eos.zip"
    },
    {
+      "artist" : "牛頭馬頭 / BGI: うまるつふり",
+      "comment" : "",
+      "eval" : 0,
+      "level" : "0",
+      "lr2_bmsid" : "0",
+      "md5" : "0045c93339f06a0be08a51198c4d182b",
+      "name_diff" : "rat",
+      "reg_date" : "2016-06-13",
+      "state" : 0,
+      "tag" : null,
+      "title" : "シタガエルハユウキイデタツハカクリヨカミヨニマツルハ [お前は地獄行きじゃアナザー]",
+      "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/6/"
+   },
+   {
       "artist" : "SHIKI",
       "comment" : "",
       "eval" : 0,
@@ -2012,6 +2026,20 @@
       "url_diff" : "http://rattoto10.web.fc2.com/bms/rat_altale.zip"
    },
    {
+      "artist" : "牛頭馬頭 / BGI: うまるつふり",
+      "comment" : "",
+      "eval" : 0,
+      "level" : "13",
+      "lr2_bmsid" : "0",
+      "md5" : "8d50f0c2c2478b69b04687a709a5dd58",
+      "name_diff" : "rat vs SANY",
+      "reg_date" : "2016-06-13",
+      "state" : 0,
+      "tag" : null,
+      "title" : "シタガエルハユウキイデタツハカクリヨカミヨニマツルハ [百鬼夜行]",
+      "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/6/"
+   },
+   {
       "artist" : "五条下位＆仲村芽衣子 // movie: kagi55x",
       "comment" : "",
       "eval" : 0,
@@ -2762,6 +2790,23 @@
       "tag" : null,
       "title" : "Dreadnought [Missouri]",
       "url_diff" : "http://rattoto10.web.fc2.com/bms/rat_dreadnought.zip"
+   },
+   {
+      "artist" : "TRIAL BGA:KinCraft",
+      "comment" : "FILE 01983",
+      "eval" : 0,
+      "level" : "0",
+      "lr2_bmsid" : "0",
+      "md5" : "c5657c9c3b7e47aa43d401076b4b3d27",
+      "name_diff" : "rat",
+      "name_pack" : null,
+      "reg_date" : "2016-03-07",
+      "state" : 0,
+      "tag" : null,
+      "title" : "Hanky-Panky [rather]",
+      "url" : null,
+      "url_diff" : "http://rattoto10.web.fc2.com/bms/rat_hankypanky.zip",
+      "url_pack" : null
    },
    {
       "artist" : "Grand Thaw",
