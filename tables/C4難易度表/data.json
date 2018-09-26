@@ -55,6 +55,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02113"
    },
    {
+      "artist" : "keyc",
+      "comment" : "同時押し,高速物量",
+      "level" : "24",
+      "lr2_bmsid" : 264939,
+      "md5" : "1c80ec0b77339eeb02dff197e68f5b00",
+      "name_diff" : "差分",
+      "title" : "Revenger [7retuned]",
+      "url" : "http://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02206"
+   },
+   {
       "artist" : "篠螺悠那",
       "comment" : "stella st0,同時押し気味の乱打,高TOTAL(0.32%)",
       "level" : "20",
@@ -174,6 +185,17 @@
       "title" : "ひつぎとふたご [7KEY/A2]",
       "url" : "http://wayback.archive.org/web/20081003060805/http://placase.bms.ms:80/data/bms/pla_futago.rar",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02051"
+   },
+   {
+      "artist" : "fether",
+      "comment" : "縦連複合,階段,低TOTAL(0.1%)",
+      "level" : "24",
+      "lr2_bmsid" : 264959,
+      "md5" : "5e138279a603761e1728c0896f867f1e",
+      "name_diff" : "差分",
+      "title" : "ピアノ協奏曲第１番”蠍火”（なんでも吸い込むピンク色のための）",
+      "url" : "https://fether.exblog.jp/#BMS_fether",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02204"
    },
    {
       "artist" : "篠螺悠那",
@@ -352,6 +374,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02044"
    },
    {
+      "artist" : "remixed celas",
+      "comment" : "ズレ乱打,ややラス殺し",
+      "level" : "21",
+      "lr2_bmsid" : 264537,
+      "md5" : "b92c090db34f0054e3cec2cf4a93dc70",
+      "name_diff" : "差分",
+      "title" : "Legend of Seeker [loke]",
+      "url" : "http://web.archive.org/web/20160808001644/http://creation-records.info:80/bms.htm",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02156"
+   },
+   {
       "artist" : "xelloscope",
       "comment" : "微縦連、中速乱打",
       "level" : "11",
@@ -383,6 +416,17 @@
       "title" : "スピカ [Elgafar]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=121",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02144"
+   },
+   {
+      "artist" : "remixed celas",
+      "comment" : "ズレ乱打,ややラス殺し",
+      "level" : "13",
+      "lr2_bmsid" : 264536,
+      "md5" : "bda3ef14d781cfa2c9e4458ff2ba3ea4",
+      "name_diff" : "差分",
+      "title" : "Legend of Seeker [leend]",
+      "url" : "http://web.archive.org/web/20160808001644/http://creation-records.info:80/bms.htm",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02156"
    },
    {
       "artist" : "II-L",
@@ -581,5 +625,16 @@
       "title" : "スピカ [Khambalia]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=121",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02144"
+   },
+   {
+      "artist" : "keyc",
+      "comment" : "ガチ押し,高速物量",
+      "level" : "26",
+      "lr2_bmsid" : 264940,
+      "md5" : "fcf5e1e5438213eeb7dcf2aff372d786",
+      "name_diff" : "差分",
+      "title" : "Revenger [(^^)retuned]",
+      "url" : "http://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02206"
    }
 ]
