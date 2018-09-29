@@ -126,11 +126,32 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
+      "artist" : "SlowMouse",
+      "comment" : "",
+      "folder" : "うんち",
+      "level" : "うんち",
+      "lr2_bmsid" : null,
+      "md5" : "01fef29059dcb14dd1a10624f13fa8bd",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "d1fd0af86867aea0ec02369a1988d839",
+      "org_md5s" : [
+         "d1fd0af86867aea0ec02369a1988d839",
+         "01fef29059dcb14dd1a10624f13fa8bd",
+         "3b170dc8272dd26660a6ef6b3e679bf6",
+         "e206134fb88248ee4b1f19f0e936f9a7"
+      ],
+      "title" : "Kids' Tricky Cheating (Honkytonk Side)",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
       "artist" : "vorbis obj:azurite",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "02064175d217843b7dc2c511b3e4236e",
       "name_diff" : null,
@@ -150,11 +171,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "Personative feat. MC. NOREAJ BGA : Photonskyto / obj:Lilium",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "02cd164511a6c1dd6215e299bf75abbd",
       "name_diff" : null,
@@ -225,11 +246,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "daisan / object by meteor*",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "037a196d202a1f670132015cc2941ff7",
       "name_diff" : null,
@@ -252,11 +273,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "しらいし obj.vectorla",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "038731e97cca3ebf0906a9d003d7fc00",
       "name_diff" : null,
@@ -273,11 +294,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "ETIA./obj:epics-",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "03b33e8c24120db11f737a2614a8e82d",
       "name_diff" : null,
@@ -400,11 +421,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "TEKINA",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "05270991d07b02581dcdaffc57ba624d",
       "name_diff" : null,
@@ -470,11 +491,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "er / obj 穂海",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "06776c456537cc7d597964ac4b3ce60b",
       "name_diff" : null,
@@ -515,11 +536,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "narve / helix / obj:Redrum",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "06bd7fe1b66ed24f32371c4d23922fa0",
       "name_diff" : null,
@@ -557,11 +578,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/07/22",
+      "adddate" : "2018/09/24",
       "artist" : "バスロマンス / obj:ABYSS*",
       "comment" : "",
-      "folder" : "★8",
-      "level" : "★8",
+      "folder" : "★7",
+      "level" : "★7",
       "lr2_bmsid" : null,
       "md5" : "06d7816979fbaef8ee302be1aae21cd5",
       "name_diff" : null,
@@ -615,11 +636,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "天音",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "0749dad3bb28e56157713884a6f4a650",
       "name_diff" : null,
@@ -642,11 +663,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "wint / (obj:V-E)",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "085de50d52e924d5387c477b789368d1",
       "name_diff" : null,
@@ -727,11 +748,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "小宮真央 with Na+/obj.kiri",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "08b91feca95a9e6d7f0d1fa5adfef13b",
       "name_diff" : null,
@@ -753,11 +774,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "Ym1024 / obj:Louis",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "091cb903b514fb408e80ca389e6438b9",
       "name_diff" : null,
@@ -820,11 +841,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "悠然 / bunta / obj:epics-",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "0a96201faf16d73b0b9981fbf28496d6",
       "name_diff" : null,
@@ -869,11 +890,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "oto feat.きせの obj:srof",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "0b21a8560aac5f0c43a59701aaab2e7e",
       "name_diff" : null,
@@ -915,6 +936,30 @@
          "0b3047b7b9a0a65becb09c65bb3f3b23"
       ],
       "title" : "ゆらめきつまさき",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "しらいし obj: misty.ls04",
+      "comment" : "",
+      "folder" : "☆11",
+      "level" : "☆11",
+      "lr2_bmsid" : null,
+      "md5" : "0b6e9b3ad6bdb344c58958d046156c9b",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "c2c7fefcb173bfe809eda28dcde8ca18",
+      "org_md5s" : [
+         "c2c7fefcb173bfe809eda28dcde8ca18",
+         "27b7d6b26286ace8aa48ad1f24b007e1",
+         "cf1ee3d106be57dc2002f80368b2fca8",
+         "0b6e9b3ad6bdb344c58958d046156c9b",
+         "323b75f925963be5f90c5045ca7df899",
+         "11bec24de08723338e50ff0aff77603a",
+         "d551d9d558c08cab964ee41687a74fb8"
+      ],
+      "title" : "Crystalized [DP ANOTHER]",
       "url" : "",
       "url_diff" : ""
    },
@@ -963,6 +1008,38 @@
          "9d8d483384f4427b6ec692bb430ab47e"
       ],
       "title" : "Absurd Gaff [DP ANOTHER]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "siromaru",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "0b81594988fe5c640b864e80225be9f1",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "Absurd Gaff [DP ANOTHER]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "ZUN(Arr.sun3)",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "0bdae4a70449d55878d2d14c94cf16f6",
+      "name_diff" : null,
+      "org_level" : 11,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "彼岸帰航 -idling mix-",
       "url" : "",
       "url_diff" : ""
    },
@@ -1028,11 +1105,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "Grand thaw  obj ; N",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "0c933c11ffdf881c10d51d46b418a099",
       "name_diff" : null,
@@ -1054,11 +1131,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "Rabbit Bat obj:けろりん",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "0cc1976901c61df43d6e8f3999cdf995",
       "name_diff" : null,
@@ -1117,22 +1194,6 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
-      "artist" : "LiTaNia/objEPICS-",
-      "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
-      "lr2_bmsid" : null,
-      "md5" : "0d23ec5b4da1cfa77d8d97428a6f5a1f",
-      "name_diff" : null,
-      "org_level" : 17,
-      "org_md5" : "",
-      "org_md5s" : [],
-      "title" : "To-O-Won-O [DP EXTRA]",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
       "adddate" : "2018/06/24",
       "artist" : "cranky obj:肴",
       "comment" : "",
@@ -1156,11 +1217,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "kireji / object by meteor*",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "0d593daf10b8563db411204ef7609fe8",
       "name_diff" : null,
@@ -1195,11 +1256,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "Bit's / obj:Redrum BGA:tomsfir",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "0e3560e1f70383618122dc39b69fedb7",
       "name_diff" : null,
@@ -1258,11 +1319,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "悠然 / bunta / obj:epics-",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "0f6d2c3bd19fd3190309607ff38edfa4",
       "name_diff" : null,
@@ -1377,6 +1438,22 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2018/09/29",
+      "artist" : "LV.4+-",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "103d01e79a74afb4ec26cba956afdc6f",
+      "name_diff" : null,
+      "org_level" : 1,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "Angel dust [S]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2018/09/20",
       "artist" : "naotyu- X 140lia (obj: BMS Journal)",
       "comment" : "",
@@ -1398,11 +1475,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "Ark-Z/obj:ちとせゆき",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "106bb6ae7202f07d6081015beaef316a",
       "name_diff" : null,
@@ -1419,11 +1496,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "こはのん(kohaxy vs Hanon) obj.vectorla",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "10e42db1a176f07cdc55733a67bd5697",
       "name_diff" : null,
@@ -1440,11 +1517,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "oto feat.きせの / srof",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "1113649d10c378fb868f007d287b595f",
       "name_diff" : null,
@@ -1554,11 +1631,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "Y.W obj : 打者走者",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "121c0e1ff63fc2e81e28c54d69c453ec",
       "name_diff" : null,
@@ -1585,11 +1662,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "ルゼ / obj. BACO",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "1232eb2af5f8c9845565437bfa29470a",
       "name_diff" : null,
@@ -1672,11 +1749,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "π/3 BGA:Optie ",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "13a764a4e4e5cdf50f3ba9a15755b73d",
       "name_diff" : null,
@@ -1796,11 +1873,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "LiTaNia/objEPICS-",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "144f33d585f31f75d24f882638194c57",
       "name_diff" : null,
@@ -1881,11 +1958,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/20",
+      "adddate" : "2018/09/29",
       "artist" : "SHIKI",
       "comment" : "",
-      "folder" : "★9",
-      "level" : "★9",
+      "folder" : "★10",
+      "level" : "★10",
       "lr2_bmsid" : null,
       "md5" : "15bc2304858648a64d5b7b325c9421a2",
       "name_diff" : null,
@@ -1949,6 +2026,22 @@
          "a9e6a34bfe317fea92d7459186c80e3e"
       ],
       "title" : "Total Eclipse of the Sun [DP partial eclipse]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "nmk/-if-/",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "173bdea5dc3f92fc7d68aed2578e5930",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "アルティメットリユニオン DP ANOTHER",
       "url" : "",
       "url_diff" : ""
    },
@@ -2115,22 +2208,6 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
-      "artist" : "D.J.Nero / obj:Louis",
-      "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
-      "lr2_bmsid" : null,
-      "md5" : "1a0efa73bcc7deb3890ce969642c855b",
-      "name_diff" : null,
-      "org_level" : 12,
-      "org_md5" : "",
-      "org_md5s" : [],
-      "title" : "S [DP ANOTHER LN-OFF]",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
       "adddate" : "2018/09/20",
       "artist" : "tanacoro BGA: 5argon / obj:Gypsy",
       "comment" : "",
@@ -2201,11 +2278,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "keyc / Symphonian",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "1aa0f976a5b9361fe1d2581d15b6ad51",
       "name_diff" : null,
@@ -2242,22 +2319,6 @@
          "6430d67026d64dbab1173e3f8cea671e",
          "fd108f3b6b1d5d6ff814a8810d5d38d0"
       ],
-      "title" : "PHANTOM KILLER [DP INSANE+]",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
-      "adddate" : "2018/09/23",
-      "artist" : "q/stol / object by meteor*",
-      "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
-      "lr2_bmsid" : null,
-      "md5" : "1ab08447a83f69a8769558559d73823c",
-      "name_diff" : null,
-      "org_level" : 13,
-      "org_md5" : "",
-      "org_md5s" : [],
       "title" : "PHANTOM KILLER [DP INSANE+]",
       "url" : "",
       "url_diff" : ""
@@ -2331,11 +2392,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "BACO obj:ucc",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "1b672e4b66614c0a1620ec7da8781b25",
       "name_diff" : null,
@@ -2453,11 +2514,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "Blue-J",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "1cb56df9e368e08de786733760c96301",
       "name_diff" : null,
@@ -2598,11 +2659,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "ridis",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "1e14ab65ea7dd4aeb4af1f8c0fd9befc",
       "name_diff" : null,
@@ -2711,11 +2772,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "DJ YOSHITAKA×ZUN remixed by ueo obj:srof",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "1f0d5605c840c1322f0163b51dad0996",
       "name_diff" : null,
@@ -2763,11 +2824,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "q/stol / object by meteor*",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "1f20956d5dd908d3e877d358ff8147d6",
       "name_diff" : null,
@@ -2801,11 +2862,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "daisan / object by meteor*",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "2007365660caa1e06f0c3022de3526a3",
       "name_diff" : null,
@@ -2851,6 +2912,22 @@
          "754c4867898ad520dee7cd35796fd47c"
       ],
       "title" : "繋いで！Miracle☆Wish -A Style Mix-",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "nmk/-if-/",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "20d17efab538d0894e9aafd1ebf776a5",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "アルティメットリユニオン DP ANOTHER",
       "url" : "",
       "url_diff" : ""
    },
@@ -3010,11 +3087,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "Nene Anegasaki feat. Salita obj:けろりん Movie : Ryuka",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "228c254ba0282236ade85a28607f7f31",
       "name_diff" : null,
@@ -3026,11 +3103,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "tarolabo / obj : Ill",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "23180cf95819ad3aebdcf9c5ed9d390e",
       "name_diff" : null,
@@ -3042,11 +3119,54 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
+      "artist" : "Is-m BGA:ハマドメハマル",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "2344584fd7bc2c430ffd3a12afdfad9d",
+      "name_diff" : null,
+      "org_level" : 23,
+      "org_md5" : "688d5932824c6fba43dd42e0181b7c39",
+      "org_md5s" : [
+         "688d5932824c6fba43dd42e0181b7c39",
+         "715914467dfff4f7b9a3423d1f187ad1",
+         "e7d5a04c48d7eca8c174f86cd9d56990",
+         "5ae0afb8bcd94330254bd16612150fb8",
+         "c718dfae050feb7ac84d8221cda1acd3",
+         "2018d3137dd08f4b734b0fe3d8c9a9ef",
+         "bbd935f7f26722a93001d36183cba416",
+         "ddc18f1ec07ebf12a7f124f3486b0c2c",
+         "b73c05f5bc653e4d2a801129d58f2297",
+         "2344584fd7bc2c430ffd3a12afdfad9d"
+      ],
+      "title" : "Anti Function -DP INSANE-",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "HOUJIROU",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "234b35edb9e16df3365af75c16b5d398",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "舞姫 ～buki～",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
       "artist" : "こはのん(kohaxy vs Hanon) obj.vectorla",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "234e84aa362ee7cadcbc940aa5cfd3c5",
       "name_diff" : null,
@@ -3109,11 +3229,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "Y.W obj : 打者走者",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "24e39c417dff61d9a8ecb9ff2be8eb87",
       "name_diff" : null,
@@ -3166,11 +3286,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "DETRO obj:ucc",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "251582b7c1577c3327caf126dcb1198d",
       "name_diff" : null,
@@ -3619,11 +3739,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "Airlia OBJ:KLOC",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "2a52347621e02475d9ca800cc856a575",
       "name_diff" : null,
@@ -3664,11 +3784,37 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
+      "artist" : "GYAON",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "2af9f6bb535c946485b34e276b8aa9b0",
+      "name_diff" : null,
+      "org_level" : 11,
+      "org_md5" : "c296077b633760605f2a71df302cc158",
+      "org_md5s" : [
+         "c296077b633760605f2a71df302cc158",
+         "68a71c50c2aa65b04697228c65e190d7",
+         "fc0f9ecb58edf76e09315bc3006320a1",
+         "cae810d65cd1eab0815f6f8ddbed3ff2",
+         "fff9bbbd71c9e2ce60c5fae86eb67450",
+         "fb08fc1b8e8bb14c1d44d061bf48d46d",
+         "ee67facb8fadc96e9383a1a530f1fe54",
+         "2af9f6bb535c946485b34e276b8aa9b0",
+         "edce00e9e599f519c2d1e3af7fc28e1f"
+      ],
+      "title" : "Last Battle-T260G-",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
       "artist" : "nora2r / obj:halcot",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "2b26d4f1fe71609ac016edb3929cd17e",
       "name_diff" : null,
@@ -3688,11 +3834,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "m108/Notes:天乃桜音々 BGA:メツヤ Illust:flap",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "2b44efdc91e18af9adb6c8a15eba6be0",
       "name_diff" : null,
@@ -3742,11 +3888,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "DJ YOSHITAKA×ZUN remixed by ueo obj:srof",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "2b95907346ea5372b3b43a048f32f525",
       "name_diff" : null,
@@ -3930,11 +4076,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "D.J.Nero / obj:Louis",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "2cc0800d3b51456dcd21aa3278000fe3",
       "name_diff" : null,
@@ -4025,11 +4171,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "daisan / object by meteor*",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "2ea9c9eef4389683c2d02c63f69b2ce4",
       "name_diff" : null,
@@ -4080,11 +4226,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "Process 2.3.1.[obj:MGN]",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "2edd9a2b6d344023a133953a1f5f9026",
       "name_diff" : null,
@@ -4099,11 +4245,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "悠然 / bunta / obj:epics-",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "2f81e1c09430f6c8f5ba3fb47dc1a64a",
       "name_diff" : null,
@@ -4190,11 +4336,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "Est feat.雪歌ユフ Notes: pico*",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "30cfbd9c6dd3d146ca23dadc71c591f8",
       "name_diff" : null,
@@ -4206,11 +4352,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "Est / obj:Louis",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "310c6617d32b650e5d4d0f78346a61b3",
       "name_diff" : null,
@@ -4227,11 +4373,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "D : obj / Ill",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "31409bc92d74ca68354479ec71bb67d9",
       "name_diff" : null,
@@ -4423,11 +4569,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "s-don / kkkfff2 / obj:ゆゆゆ！ hi-low",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "3433dfba7fd6bbecb833c2e6ab46b016",
       "name_diff" : null,
@@ -4753,11 +4899,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "remixed celas feat.ARU (obj:k)",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "3636430d4a2609d1da67ffbb9d1b796b",
       "name_diff" : null,
@@ -4796,11 +4942,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "void feat. Hiroko / obj.TIRU",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "36cde9efdb924755cd6a587b6d8d6060",
       "name_diff" : null,
@@ -4912,11 +5058,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "上杉うた/obj:epics-",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "3772afd010eaa36651bba200951ad39f",
       "name_diff" : null,
@@ -5002,22 +5148,6 @@
          "8d74bc69d36b4493d007ef742101cc89",
          "ac10def001390f4a64ce4ec477babee8"
       ],
-      "title" : "Ruriko FINAL (14KEYS) ANOTHER",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
-      "adddate" : "2018/09/24",
-      "artist" : "POSI-TRON! / obj:Redrum",
-      "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
-      "lr2_bmsid" : null,
-      "md5" : "396bfe7d5936d1182cd0fece4e03089f",
-      "name_diff" : null,
-      "org_level" : 13,
-      "org_md5" : "",
-      "org_md5s" : [],
       "title" : "Ruriko FINAL (14KEYS) ANOTHER",
       "url" : "",
       "url_diff" : ""
@@ -5167,6 +5297,27 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2018/09/29",
+      "artist" : "SlowMouse",
+      "comment" : "",
+      "folder" : "うんち",
+      "level" : "うんち",
+      "lr2_bmsid" : null,
+      "md5" : "3b170dc8272dd26660a6ef6b3e679bf6",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "d1fd0af86867aea0ec02369a1988d839",
+      "org_md5s" : [
+         "d1fd0af86867aea0ec02369a1988d839",
+         "01fef29059dcb14dd1a10624f13fa8bd",
+         "3b170dc8272dd26660a6ef6b3e679bf6",
+         "e206134fb88248ee4b1f19f0e936f9a7"
+      ],
+      "title" : "Kids' Tricky Cheating (Mellow Grand Piano Side)",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2018/06/24",
       "artist" : "しろ obj:肴",
       "comment" : "",
@@ -5260,6 +5411,22 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2018/09/29",
+      "artist" : "EXCITECH",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "3c0b24ea54ed70d3974066a030dfbb68",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "Hypertext Transfer Protocol",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2018/09/20",
       "artist" : "xi / obj:Louis",
       "comment" : "",
@@ -5285,11 +5452,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "美樹さやか vs. 美樹さやか (fw. 美樹さやか) / obj kohane BGA ： 美樹さやか",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "3c6bf2a4ed9ff647bd2c0760718d8547",
       "name_diff" : null,
@@ -5319,11 +5486,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "Ras / Keybreakers",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "3c7436610ddad54e3afa7fd162b927a9",
       "name_diff" : null,
@@ -5639,11 +5806,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "美樹さやか vs. 美樹さやか (fw. 美樹さやか) obj 穂海",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "3f072944bbaa5da3cbf8743c59f92b07",
       "name_diff" : null,
@@ -5673,11 +5840,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "LU obj:azurite",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "3f31373bf1ec16a561957e39fc77ff19",
       "name_diff" : null,
@@ -5696,11 +5863,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/03/10",
+      "adddate" : "2018/09/29",
       "artist" : "tpplssive obj:braun",
       "comment" : "",
-      "folder" : "★8",
-      "level" : "★8",
+      "folder" : "★9",
+      "level" : "★9",
       "lr2_bmsid" : null,
       "md5" : "3f43d6afbd41c40c2ac7f2285bb5938b",
       "name_diff" : null,
@@ -5719,11 +5886,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "xenothium/obj:epics-",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "3f590c545a3c1a9969286aae5974a774",
       "name_diff" : null,
@@ -5781,11 +5948,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "kireji / object by meteor*",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "3fab5a52546d8672b9bc27b3b145c320",
       "name_diff" : null,
@@ -5797,11 +5964,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "celas /obj:ue",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "3fbf5f5ff39b6a095366c1f856064c6e",
       "name_diff" : null,
@@ -5852,11 +6019,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "yujurie",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "4076f9923946eaeb9abaf90583107cd9",
       "name_diff" : null,
@@ -5871,6 +6038,30 @@
          "4076f9923946eaeb9abaf90583107cd9"
       ],
       "title" : "Sick as a fuxxxxxkin' wonderful church [x]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "ma*4lo",
+      "comment" : "",
+      "folder" : "★01-02",
+      "level" : "★01-02",
+      "lr2_bmsid" : null,
+      "md5" : "40891f4d93275b7435434209ff5c5797",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "40891f4d93275b7435434209ff5c5797",
+      "org_md5s" : [
+         "40891f4d93275b7435434209ff5c5797",
+         "a5ef1ac6bc7c009f078492c980f127ea",
+         "9c5624e7d06dc75eda2de8933c49711b",
+         "3a404ddad3b6d42cf0d6c310a63d53c5",
+         "af77a29e96901f6660a1ff612cf3bfe9",
+         "f7c7a8fe712a64e2d8060c49f7a62ede",
+         "d9b6983c511ab5ce178156ead7494dcd"
+      ],
+      "title" : "Summer-Like[DP_Another]",
       "url" : "",
       "url_diff" : ""
    },
@@ -6041,11 +6232,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "Grand thaw  obj ; N",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "420671c8ab8ac8241d2e3800fe55f4d8",
       "name_diff" : null,
@@ -6093,11 +6284,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "narve / helix / obj:Redrum",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "4248c8ade2bd84e30c0ad288ec1d8f01",
       "name_diff" : null,
@@ -6114,11 +6305,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "celas /obj:ue",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "42923f8d76c5bb6bcdb235f8d5f954a9",
       "name_diff" : null,
@@ -6342,22 +6533,6 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
-      "artist" : "NEKI←T (obj:k)",
-      "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
-      "lr2_bmsid" : null,
-      "md5" : "447f9d6c114f84c30c8ac66f68b03032",
-      "name_diff" : null,
-      "org_level" : 12,
-      "org_md5" : "",
-      "org_md5s" : [],
-      "title" : "GaRaKuTic Dream (DP ANOTHER)",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
       "adddate" : "2018/09/17",
       "artist" : "eicateve 千頭和直輝[act+poet] かゆき[gt] まきのせな[mv+cam] q/stol,なの太,おう未[cam] むらしん[sv+cam]",
       "comment" : "",
@@ -6425,11 +6600,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "oto feat.きせの / srof",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "4514da8cbfe145eb307a1e742d61cf0b",
       "name_diff" : null,
@@ -6495,6 +6670,30 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2018/09/29",
+      "artist" : "noctie*",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "45869768c572acfd36600c9724f6e00f",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "a05f8e6e55ac3e57b3e3beaae63b2ab7",
+      "org_md5s" : [
+         "a05f8e6e55ac3e57b3e3beaae63b2ab7",
+         "e5a4b84ec2c9be2cc4621f28a25fd126",
+         "82230fbefae264d31644b0d36419149d",
+         "a5410fead63cc9c31eccc958d8fd0ad9",
+         "d8339306ee23a44e2242e1d7ff6a7870",
+         "108e9b1814387a062ee6b7b4bd2eb65c",
+         "45869768c572acfd36600c9724f6e00f"
+      ],
+      "title" : "Rewinding Sound Wave",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2018/01/07",
       "artist" : "カラフル・サウンズ・ポート / obj:lichtr",
       "comment" : "",
@@ -6519,11 +6718,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "BACO obj:ucc",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "45adff678fbdb04a4059f2e3664a5855",
       "name_diff" : null,
@@ -6556,6 +6755,36 @@
          "01c0333f60b9934513bc6d1bc632662c"
       ],
       "title" : "どたばたプリンセス [ANOTHER]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "syatten + 140",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "4699c925fc586bb8275f4b4645e148a5",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "9e2e666673cb500e97f320f4e2953ef6",
+      "org_md5s" : [
+         "9e2e666673cb500e97f320f4e2953ef6",
+         "ba976b164c8d9e397f54191860b3622a",
+         "167332ae4b7b5c7ed3571866b36c473d",
+         "ab869072bc5e4694e2e239f21919bcf7",
+         "4699c925fc586bb8275f4b4645e148a5",
+         "3d8e33f3268a75570c1e1746adeebfba",
+         "c49a4d33357995756b9e2156c38d6410",
+         "674f7563972d718f12d4b46c6b936fcf",
+         "c088feffdcc83ad84d8ad070ef0d70c9",
+         "7b00be2a087de2c29f5527fc439ac157",
+         "eb961de5b7703657a08fe2dce340e5d6",
+         "d690c3ea859d5e1f4d619b220179247b",
+         "da43065e1b37737bd8816accf5e5f464"
+      ],
+      "title" : "Evangelize (Radio Edit)",
       "url" : "",
       "url_diff" : ""
    },
@@ -6602,6 +6831,22 @@
          "9184e9c59cb4e62fb9ad93173f6e21bb"
       ],
       "title" : "BULLET HELL",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "裏 吉 川",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "479e47392bc2d20e517db249322ffd9b",
+      "name_diff" : null,
+      "org_level" : 11,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "A c i - L -",
       "url" : "",
       "url_diff" : ""
    },
@@ -6792,22 +7037,6 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
-      "artist" : "NIKITA / Optie / obj:Comet",
-      "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
-      "lr2_bmsid" : null,
-      "md5" : "48e906a9c6e871fcbbfdcd3ba64f7c5b",
-      "name_diff" : null,
-      "org_level" : 12,
-      "org_md5" : "",
-      "org_md5s" : [],
-      "title" : "SCARY BANQUET[Haunted]",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
       "adddate" : "2018/03/10",
       "artist" : "LunaticSounds / ShiginoEicar Obj_Onedict",
       "comment" : "",
@@ -6881,11 +7110,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "Cosmos remix by polysha Obj. KENIN*",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "4afba528c0e6ab2b43d62556f560d7a0",
       "name_diff" : null,
@@ -6932,22 +7161,6 @@
          "4b2d84e3ee6fddaf678d30cb695d638a",
          "998283f36b23c4aa78242f1ac2cacc72"
       ],
-      "title" : "Judah [DP INSANE]",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
-      "adddate" : "2018/09/24",
-      "artist" : "上杉うた/obj:epics-",
-      "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
-      "lr2_bmsid" : null,
-      "md5" : "4b2d84e3ee6fddaf678d30cb695d638a",
-      "name_diff" : null,
-      "org_level" : 18,
-      "org_md5" : "",
-      "org_md5s" : [],
       "title" : "Judah [DP INSANE]",
       "url" : "",
       "url_diff" : ""
@@ -7259,11 +7472,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "ridis",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "4f1eb06bc06ef394f663f7f3bb16ca8e",
       "name_diff" : null,
@@ -7307,11 +7520,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "luzebzk(from 300club)/obj:epics-",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "4f76ddd15195e52e6c5957887e9e5437",
       "name_diff" : null,
@@ -7391,11 +7604,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "ねこみみ魔法使い / 広瀬まどか / obj:rhys",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "50b15842e309f7075fe9e70a107b6e06",
       "name_diff" : null,
@@ -7439,11 +7652,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "樋奈月みつ obj ; N",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "50f85ecc1cfb5e500e06ec96baa8f8ed",
       "name_diff" : null,
@@ -7463,11 +7676,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "tarolabo//obj.MIST",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "511e8d55d0fc763f85394df1157c3c56",
       "name_diff" : null,
@@ -7552,11 +7765,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "H.U.T GiGAR / obj:Louis",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "51b244baf1ef34abbe9b9fd9758b873f",
       "name_diff" : null,
@@ -7621,11 +7834,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "π/3 BGA:Optie ",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "530f686ed1a60ccd0a29e484a7f5e355",
       "name_diff" : null,
@@ -7644,11 +7857,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "sampling minor SUICA / obj : Ill",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "5338fc570ea559491b8bb2bc58d21693",
       "name_diff" : null,
@@ -7660,11 +7873,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "NIKITA / object by meteor*",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "536f924af67c8bc89d093e719444993e",
       "name_diff" : null,
@@ -7676,11 +7889,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "Fall / obj:killer TOMATO",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "537c2252ca506dc9a519f5356184dd5a",
       "name_diff" : null,
@@ -7764,11 +7977,27 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
+      "artist" : "Iriss-Frantzz",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "5443ad1dace97111fc9eaf8b0a4768f6",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "Turndup[DP Another]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
       "artist" : "otokaz //obj:srof",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "546fb7c89a954cae4eaf7f2288010355",
       "name_diff" : null,
@@ -7811,11 +8040,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "remixed celas feat.ARU / obj : lemon_aided",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "54cae9c9560b0ce05b79024fbe8179c7",
       "name_diff" : null,
@@ -7950,11 +8179,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/19",
+      "adddate" : "2018/09/29",
       "artist" : "tcheb / 出前 / obj:alt",
       "comment" : "",
-      "folder" : "★03-04",
-      "level" : "★03-04",
+      "folder" : "★05-06",
+      "level" : "★05-06",
       "lr2_bmsid" : null,
       "md5" : "56d362024e483b7d2951515582e3db6b",
       "name_diff" : null,
@@ -8019,11 +8248,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "narve / helix / obj:Redrum",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "5779a1f35e80659d43574ac327ef1017",
       "name_diff" : null,
@@ -8059,27 +8288,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
-      "artist" : "MONO / obj:松魚",
-      "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
-      "lr2_bmsid" : null,
-      "md5" : "577fdf52bfd29e51b72ace059fb33ae2",
-      "name_diff" : null,
-      "org_level" : 12,
-      "org_md5" : "",
-      "org_md5s" : [],
-      "title" : "Fantasmagoria -DP MANIAC-",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "鹿目まどか 佐倉杏子 / obj 穂海",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "578f84ec190835c54b3754f23958ffd4",
       "name_diff" : null,
@@ -8096,6 +8309,29 @@
          "578f84ec190835c54b3754f23958ffd4"
       ],
       "title" : "円環の理 [DPhouther]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "------ obj:nBel",
+      "comment" : "",
+      "folder" : "★10",
+      "level" : "★10",
+      "lr2_bmsid" : null,
+      "md5" : "57e114f1b2c9455ed8f9d06daa96c514",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "efed320d3a20c4faf6d805c99bf3b940",
+      "org_md5s" : [
+         "efed320d3a20c4faf6d805c99bf3b940",
+         "be663f70f5be4e005b55c9ea6b15cdf1",
+         "7608b1665a8692ab8ea1c173d7ad4baa",
+         "4c7fedd1e66de051730e427006099330",
+         "57e114f1b2c9455ed8f9d06daa96c514",
+         "f6fbc7b6cbe28afa35fe7c22b7d94a1a"
+      ],
+      "title" : "Valkyrie Revolutia[Gram]",
       "url" : "",
       "url_diff" : ""
    },
@@ -8146,11 +8382,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "daisan / object by meteor*",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "587381040b9327bb6540986e37ea641a",
       "name_diff" : null,
@@ -8279,22 +8515,6 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
-      "artist" : "BACO obj:ucc",
-      "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
-      "lr2_bmsid" : null,
-      "md5" : "5a054301fcac3a9de0c5a924ab459218",
-      "name_diff" : null,
-      "org_level" : 25,
-      "org_md5" : "",
-      "org_md5s" : [],
-      "title" : "キメラ [EX14]",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
       "adddate" : "2018/03/17",
       "artist" : "Sakamiya feat.遊左 未 img:moyura ntoes:OSR",
       "comment" : "",
@@ -8401,22 +8621,6 @@
          "86dfbd4c7ec7c3c3398584e8389220cb",
          "659fab05460eb7896f0126f657b677b5"
       ],
-      "title" : "supersoulsimulator [DP えぬTHER+]",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
-      "adddate" : "2018/09/23",
-      "artist" : "Yamajet  obj ; N",
-      "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
-      "lr2_bmsid" : null,
-      "md5" : "5a8786ecb28354f1c8fa814a71d9ed4e",
-      "name_diff" : null,
-      "org_level" : 20,
-      "org_md5" : "",
-      "org_md5s" : [],
       "title" : "supersoulsimulator [DP えぬTHER+]",
       "url" : "",
       "url_diff" : ""
@@ -8543,11 +8747,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "daisan / object by meteor*",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "5b711caaa90d45c8e1befa1dc84eb522",
       "name_diff" : null,
@@ -8555,6 +8759,22 @@
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "YASAKANI[DP ANOTHER]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "Hate vs Brilliance",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "5b8a13ce22b29b6a588aea8f534b6ac3",
+      "name_diff" : null,
+      "org_level" : 11,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "Quark",
       "url" : "",
       "url_diff" : ""
    },
@@ -8608,11 +8828,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "The Lovers / obj : Ill",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "5c35267e0d7525c0c7ad2d976b018f6d",
       "name_diff" : null,
@@ -8635,11 +8855,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "kireji / object by meteor*",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "5c4007ef9f00991870fc9f41af6ed9a3",
       "name_diff" : null,
@@ -8850,11 +9070,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "カラフル・サウンズ・ポート / obj 穂海",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "5e25afe2ef79cdc311249c1da115d1ef",
       "name_diff" : null,
@@ -8872,11 +9092,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "daisan / object by meteor*",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "5e2fff6224584dd65d25a09b38f13528",
       "name_diff" : null,
@@ -9091,11 +9311,31 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "照堕 remix by keyc / obj : Ill",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "★7",
+      "level" : "★7",
+      "lr2_bmsid" : null,
+      "md5" : "604578866ab5e3405fb41b5a4d456792",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "7ba29309c4f790cfc65a12ed1eff3458",
+      "org_md5s" : [
+         "7ba29309c4f790cfc65a12ed1eff3458",
+         "31f450371f24e82219e1887e8c19c259",
+         "604578866ab5e3405fb41b5a4d456792"
+      ],
+      "title" : "BLACKOUT -Side Story- [ANOTHER14]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "照堕 remix by keyc / obj : Ill",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "604578866ab5e3405fb41b5a4d456792",
       "name_diff" : null,
@@ -9103,6 +9343,29 @@
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "BLACKOUT -Side Story- [ANOTHER14]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "Chino   by Spelma",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "604811b687a68f98544c153d1347ad72",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "9ce8bf0ee1d39ac3b44714145671fb61",
+      "org_md5s" : [
+         "9ce8bf0ee1d39ac3b44714145671fb61",
+         "6ac4a7d3a047e307ce12272d4f6a7751",
+         "93ad5b560879ded9240a2f137e719045",
+         "2072dbaee887367c97ce0812ab663a7b",
+         "604811b687a68f98544c153d1347ad72",
+         "cc7aa9a67436c394a5a61c0b96e9562c"
+      ],
+      "title" : "Espresso Shots",
       "url" : "",
       "url_diff" : ""
    },
@@ -9219,11 +9482,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "悠然 / bunta / obj:epics-",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "610ce529a9445e9ceee7e89abaf35879",
       "name_diff" : null,
@@ -9243,11 +9506,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "美樹さやか vs. 美樹さやか (fw. 美樹さやか) obj 穂海",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "615e607a26e88a377a75d29dc39486b2",
       "name_diff" : null,
@@ -9387,11 +9650,34 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "rebellion / obj:Louis",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "うんち",
+      "level" : "うんち",
+      "lr2_bmsid" : null,
+      "md5" : "62b6e8e3db46b032c9049f7470ced155",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "3a5392fc4f34c1283f785c6fb770e987",
+      "org_md5s" : [
+         "3a5392fc4f34c1283f785c6fb770e987",
+         "ee23fc5371440a18b01e16394a25e02d",
+         "03fa9c294960e3021466e774f1dc5db3",
+         "c234034633a8e42de914d3144e86ff53",
+         "62b6e8e3db46b032c9049f7470ced155",
+         "236442900a9501b318b375ccab3e15af"
+      ],
+      "title" : "Backside of the world [DP AFOTHER]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "rebellion / obj:Louis",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "62b6e8e3db46b032c9049f7470ced155",
       "name_diff" : null,
@@ -9403,11 +9689,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "taqumi/obj:epics- BGA by koavenit",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "62c4aa0978d9349c8d75a694f4397616",
       "name_diff" : null,
@@ -9562,22 +9848,6 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
-      "artist" : "q/stol / object by meteor*",
-      "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
-      "lr2_bmsid" : null,
-      "md5" : "6430d67026d64dbab1173e3f8cea671e",
-      "name_diff" : null,
-      "org_level" : 12,
-      "org_md5" : "",
-      "org_md5s" : [],
-      "title" : "PHANTOM KILLER [DP INSANE]",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
       "adddate" : "2018/03/04",
       "artist" : "Chicala Lpis movie:K.MONO,illustration:戀 / obj:Hersh",
       "comment" : "",
@@ -9651,11 +9921,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "姉ヶ崎 寧々 obj;茜ヶ崎 空 BGA : photonskyto",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "64b0144472846f9d7fa50b83c14960e9",
       "name_diff" : null,
@@ -9771,11 +10041,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "puru twk. sound piercer (feat.Hee Bun.D) obj:Dr.K",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "65adabbe450b2b42ff0cb4a7705a7769",
       "name_diff" : null,
@@ -9815,11 +10085,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "DJ YOSHITAKA×ZUN remixed by ueo obj:srof",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "65d9badfd44a4ac79e6e7452d32c60e4",
       "name_diff" : null,
@@ -10010,11 +10280,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "PhotonFairy/obj:epics-",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "67c7d017891708cf276e6e3a6a21d33a",
       "name_diff" : null,
@@ -10074,11 +10344,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "Celas / obj ; N",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "68d1b75ed85571342623410cbac23a08",
       "name_diff" : null,
@@ -10220,11 +10490,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "daisan / object by meteor*",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "696d55aba4477b61335f1bd87e0ea236",
       "name_diff" : null,
@@ -10265,6 +10535,28 @@
          "776eb67b4424a24d172a5bd17bc0ca92"
       ],
       "title" : "VALKYRIE [DP ANOTHER]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "P4koo / obj:Hersh",
+      "comment" : "",
+      "folder" : "★10",
+      "level" : "★10",
+      "lr2_bmsid" : null,
+      "md5" : "6a05bb03d221a13e413543289b891ead",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "f17846602ca9f0b7bf2c6486a2734aa8",
+      "org_md5s" : [
+         "f17846602ca9f0b7bf2c6486a2734aa8",
+         "a044243aa126da1bdc4d4bc3ae3457c8",
+         "587bb49cc57a319210d1ddca4af0ebfe",
+         "6a05bb03d221a13e413543289b891ead",
+         "21079e525af712d46f85d3be297bdc9f"
+      ],
+      "title" : "PLUS+INFINITY [3↑(3↑3)]",
       "url" : "",
       "url_diff" : ""
    },
@@ -10316,11 +10608,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "Arranged by Y.W  obj:LvsZ",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "6a48313d96284d16ad52eb66e8ed9e1d",
       "name_diff" : null,
@@ -10395,11 +10687,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "LU obj:azurite",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "6ab8f64ab1e29475a92a3785923d333a",
       "name_diff" : null,
@@ -10602,11 +10894,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "DG-P / obj:Louis",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "6c69e92056e6dc7ea0016fcbca9433d3",
       "name_diff" : null,
@@ -10716,22 +11008,6 @@
          "6eb073c6a001e4d807c44645758741fb",
          "6d9e0dea08714106e4954acd2c5549c7"
       ],
-      "title" : "Scarlet Double Dance",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
-      "adddate" : "2018/09/23",
-      "artist" : "REX / halcot",
-      "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
-      "lr2_bmsid" : null,
-      "md5" : "6d9e0dea08714106e4954acd2c5549c7",
-      "name_diff" : null,
-      "org_level" : 12,
-      "org_md5" : "",
-      "org_md5s" : [],
       "title" : "Scarlet Double Dance",
       "url" : "",
       "url_diff" : ""
@@ -10895,11 +11171,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "裏 吉 川 / obj:二代目IIDX16",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "6f67a3f7ee913852cde36df56f13d663",
       "name_diff" : null,
@@ -10953,6 +11229,22 @@
          "6fab2ab551aad79becb390a89187bc95"
       ],
       "title" : "Dusk Recapture [DP ANOTHER]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "EXAM.S/BGA:S-BLUE",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "6fb5fc925fffd0a25ee4aef04aa7e5fd",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "Over Sound",
       "url" : "",
       "url_diff" : ""
    },
@@ -11073,11 +11365,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "mist-rose obj:noix",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "70e440cec52720dab43d8cac928244c1",
       "name_diff" : null,
@@ -11120,11 +11412,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "taqumi/obj:epics- BGA by koavenit",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "71e2bd5d5b56ad3da480fc4168ac522c",
       "name_diff" : null,
@@ -11468,11 +11760,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "Yusuke Takeuchi",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "76da1ef6be7ee5010c8f6478811b321c",
       "name_diff" : null,
@@ -11579,11 +11871,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "Celas / obj ; N",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "7760c72419bc75a4470e0a0b0ec4a065",
       "name_diff" : null,
@@ -11666,11 +11958,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "かゆき/obj:epics-",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "782cabdddc8e69e4f257ae727d0ce121",
       "name_diff" : null,
@@ -11707,11 +11999,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "YUKI / srof",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "78772f5c3c96203c6b49519cd789b8fa",
       "name_diff" : null,
@@ -11723,11 +12015,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "D : obj / Ill",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "7885ae5e7b1535d3e632619d0f915c22",
       "name_diff" : null,
@@ -11791,11 +12083,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "s-don / 篠乃ちよ obj :松魚",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "79cb79ce76668d0637b3748b5a83ec0a",
       "name_diff" : null,
@@ -11933,11 +12225,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "POSI-TRON![obj:mymt]",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "7b3473b497c3a3d01bea819fa21883b2",
       "name_diff" : null,
@@ -11961,11 +12253,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/18",
+      "adddate" : "2018/09/29",
       "artist" : "おみー vs. Re:gats& obj.nor",
       "comment" : "",
-      "folder" : "★8",
-      "level" : "★8",
+      "folder" : "★9",
+      "level" : "★9",
       "lr2_bmsid" : null,
       "md5" : "7b859ed9ca39f957943ec372dafa29f0",
       "name_diff" : null,
@@ -12109,11 +12401,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "妃宮 千早 with. 七々原 薫子 (BG : ケイリ・グランセリウス)",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "7cb46c944a8faac47fc632e34501386a",
       "name_diff" : null,
@@ -12173,11 +12465,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "LU obj:azurite",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "7d09af97748b3a70eec995fc73228121",
       "name_diff" : null,
@@ -12500,11 +12792,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "かゆき/obj:epics-",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "7fcca86a4266e437db5e04cb3eb222e8",
       "name_diff" : null,
@@ -12549,11 +12841,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "siromaru",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "80688a79f251ece911a4a1c3b782f835",
       "name_diff" : null,
@@ -12565,11 +12857,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "P4koo　obj:lakeside",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "8092b26f6aae146f2beb906b00c87870",
       "name_diff" : null,
@@ -12643,11 +12935,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "しらいし (obj:k)",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "80ee395d844feab16da059f53c82bfa6",
       "name_diff" : null,
@@ -12848,6 +13140,22 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2018/09/29",
+      "artist" : "enxel",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "82d097a4e01f8df7b89213a9495c9b42",
+      "name_diff" : null,
+      "org_level" : 1,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "HAPPY CIRCULATION [S]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2018/09/20",
       "artist" : "Ras / obj.lsung",
       "comment" : "",
@@ -12894,6 +13202,22 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2018/09/29",
+      "artist" : "ねこみみ魔法使い",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "839ded11aaca49b0d6664ef6fecfee78",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "★LittlE HearTs★",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2018/01/07",
       "artist" : "fmy. × TrioStaR × Lylica* × ｂ cislv × Mentalstock / obj:lichtr",
       "comment" : "",
@@ -12920,11 +13244,33 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "Lime / Frantzz / obj.LetsOTL",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "★05-06",
+      "level" : "★05-06",
+      "lr2_bmsid" : null,
+      "md5" : "83f096e9bef33832bc77408bfa7ef8b6",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "3ec24e09258e99eabdf3f2b2db2465d9",
+      "org_md5s" : [
+         "3ec24e09258e99eabdf3f2b2db2465d9",
+         "500ca2566ac485deed038efff758c57c",
+         "9e4b0efe8ddf38d80e9b82a459613b32",
+         "47b34c286a21b938f025f205f9ec46d0",
+         "83f096e9bef33832bc77408bfa7ef8b6"
+      ],
+      "title" : "8bit Adventurer [DPBF]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "Lime / Frantzz / obj.LetsOTL",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "83f096e9bef33832bc77408bfa7ef8b6",
       "name_diff" : null,
@@ -12985,11 +13331,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "dj Extrose obj,係長",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "847576d89a19e0e2d3e3275d3c373634",
       "name_diff" : null,
@@ -13053,11 +13399,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "くっちー / obj 穂海",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "85095c6d83f7c2b33aabf0d0b25edd5d",
       "name_diff" : null,
@@ -13074,11 +13420,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "美樹さやか vs. 美樹さやか (fw. 美樹さやか) obj 穂海 BGA ： 美樹さやか",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "854dd70a5fa1edca11cb131610efccde",
       "name_diff" : null,
@@ -13127,27 +13473,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
-      "artist" : "xenothium/obj:epics-",
-      "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
-      "lr2_bmsid" : null,
-      "md5" : "855a2b130f5f522b4629606c5650484a",
-      "name_diff" : null,
-      "org_level" : 16,
-      "org_md5" : "",
-      "org_md5s" : [],
-      "title" : "Ms.Naive Princess [Symmetry14]",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
-      "adddate" : "2018/01/20",
+      "adddate" : "2018/09/29",
       "artist" : "EBIMAYO / obj.LetsOTL",
       "comment" : "",
-      "folder" : "★03-04",
-      "level" : "★03-04",
+      "folder" : "★05-06",
+      "level" : "★05-06",
       "lr2_bmsid" : null,
       "md5" : "862bad018be732989b33886f12264d98",
       "name_diff" : null,
@@ -13297,22 +13627,6 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
-      "artist" : "Yamajet  obj ; N",
-      "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
-      "lr2_bmsid" : null,
-      "md5" : "86dfbd4c7ec7c3c3398584e8389220cb",
-      "name_diff" : null,
-      "org_level" : 17,
-      "org_md5" : "",
-      "org_md5s" : [],
-      "title" : "supersoulsimulator [DP えぬTHER]",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
       "adddate" : "2018/09/20",
       "artist" : "LiTaNia/objEPICS-",
       "comment" : "",
@@ -13332,22 +13646,6 @@
          "962ebb60e5d4351592dc6864e888e2f7",
          "1f9647140ccd4eb09ddad62fa72bbecc"
       ],
-      "title" : "To-O-Won-O [DP ANOTHER]",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
-      "adddate" : "2018/09/24",
-      "artist" : "LiTaNia/objEPICS-",
-      "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
-      "lr2_bmsid" : null,
-      "md5" : "86e3348998f1252fb60b645385bafcdf",
-      "name_diff" : null,
-      "org_level" : 15,
-      "org_md5" : "",
-      "org_md5s" : [],
       "title" : "To-O-Won-O [DP ANOTHER]",
       "url" : "",
       "url_diff" : ""
@@ -13474,11 +13772,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "Awesomeman obj:ucc",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "88db593460bd2932355fb3db151ca9e2",
       "name_diff" : null,
@@ -13490,11 +13788,34 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
+      "artist" : "Blue-J",
+      "comment" : "",
+      "folder" : "★03-04",
+      "level" : "★03-04",
+      "lr2_bmsid" : null,
+      "md5" : "893cfb609f2b2537b4f900a0bff1c1c4",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "893cfb609f2b2537b4f900a0bff1c1c4",
+      "org_md5s" : [
+         "893cfb609f2b2537b4f900a0bff1c1c4",
+         "4a9aeefa314973bacdadd0a44a472b63",
+         "ffb6e5de0c90b770773515861a0abda9",
+         "f79ae7f0dbdcfe2008f3b91234dbc20c",
+         "92d1db5316efa9a04ee4f7bd3c50b59e",
+         "a039c33395226ddc45de7a7a85e321c3"
+      ],
+      "title" : "B.0.X [DP ANOTHER]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
       "artist" : "horoscope/obj:hamburger object by あ",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "895621d47ce4bedf63ace12e7c913273",
       "name_diff" : null,
@@ -13535,6 +13856,22 @@
          "99789e83386883b9e3c2b06d8d3305e1"
       ],
       "title" : "Disco the ground [DP INSANE]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "Omnipotenx",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "8991fe1785846530c7d4eaffb3051fd0",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "PEACE BREAKER [DP ANOTHER]",
       "url" : "",
       "url_diff" : ""
    },
@@ -13602,22 +13939,6 @@
          "27e25eb2664c6a0f4a53758d66fa7d3a",
          "c3b5caa66bcead0f8bb87195f63e0c57"
       ],
-      "title" : "Point Graphy [DP ANOTHER]",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
-      "adddate" : "2018/09/23",
-      "artist" : "syzfonics / obj:Louis",
-      "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
-      "lr2_bmsid" : null,
-      "md5" : "8abb36d45b4dd51eac2a67421f87f677",
-      "name_diff" : null,
-      "org_level" : 12,
-      "org_md5" : "",
-      "org_md5s" : [],
       "title" : "Point Graphy [DP ANOTHER]",
       "url" : "",
       "url_diff" : ""
@@ -13710,6 +14031,22 @@
          "323e391cb09c023da7fe439d12bc6def"
       ],
       "title" : "GaRaKuTic Dream (dust)",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "Hate vs Brilliance",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "8c4d536af5be94048592fd14fa1d6e1d",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "Quark",
       "url" : "",
       "url_diff" : ""
    },
@@ -13812,11 +14149,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "POSI-TRON! / obj:Redrum",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "8d74bc69d36b4493d007ef742101cc89",
       "name_diff" : null,
@@ -13897,11 +14234,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "snowdrop / obj:Redrum",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "8e171847ff4fd27ff8501e1ec2ced6cb",
       "name_diff" : null,
@@ -13964,6 +14301,27 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2018/09/29",
+      "artist" : "KAI",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "8f154820564abc4113e643073f120ea4",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "f6ad29c86609dcd1dab99bd7720b0d62",
+      "org_md5s" : [
+         "f6ad29c86609dcd1dab99bd7720b0d62",
+         "5ab922772fa72767c8c36df2117fdc50",
+         "706c134eeedcf2faef11590b8ef5b21e",
+         "8f154820564abc4113e643073f120ea4"
+      ],
+      "title" : "Fantasista Eleven(For BMS)",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2018/09/20",
       "artist" : "NAGI / obj:slash",
       "comment" : "",
@@ -14009,11 +14367,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "しーけー obj:kuro",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "8fc89e312f2ae2b1d08ac4c1cfc5edff",
       "name_diff" : null,
@@ -14025,11 +14383,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "celas /obj:ue",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "90399cd7dd4946050c7ed49ae4ea738b",
       "name_diff" : null,
@@ -14037,6 +14395,38 @@
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Pulse of Reunion [DP HYPER]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "ZUN(Arr.sun3)",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "90721e41341330b7de9a0ec1680ffbb7",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "彼岸帰航 -idling mix-",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "裏 吉 川 obj:NEPIA",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "907c48f6790b3a7718668d63d5a5b33a",
+      "name_diff" : null,
+      "org_level" : 11,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "A c i - L - D P A",
       "url" : "",
       "url_diff" : ""
    },
@@ -14111,11 +14501,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "shimizushi BGA : a.a / obj:Lilium",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "910cc1c37bc2f5ee3bf01fda57cec776",
       "name_diff" : null,
@@ -14378,22 +14768,6 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
-      "artist" : "ニトロサイクロン",
-      "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
-      "lr2_bmsid" : null,
-      "md5" : "93aee1f01ccd00203db2308f1e14ec8d",
-      "name_diff" : null,
-      "org_level" : 12,
-      "org_md5" : "",
-      "org_md5s" : [],
-      "title" : "パッパララッパー [kumanother]",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
       "adddate" : "2018/02/11",
       "artist" : "ARForest bga: inukoro, obj: Hersh",
       "comment" : "",
@@ -14438,11 +14812,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "D : obj / Ill",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "94c824f1b2754cd9ad03fdadaf344811",
       "name_diff" : null,
@@ -14530,11 +14904,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "暁美ほむら/obj:epics-",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "96ab95279168b8575c8dd1402010f642",
       "name_diff" : null,
@@ -14571,11 +14945,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "vorbis obj:azurite",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "96d4e2122ba6f8742c13d6ecde6e0a78",
       "name_diff" : null,
@@ -14694,6 +15068,22 @@
          "edee5f1a07815d9a5fd9431da82ff5bd",
          "1d1e81a86e148848f1ba08789e90827e"
       ],
+      "title" : "Altostratus [S]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "syatten",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "979f5f9815b5df8b98780c5210df852c",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "",
+      "org_md5s" : [],
       "title" : "Altostratus [S]",
       "url" : "",
       "url_diff" : ""
@@ -14825,11 +15215,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "nora2r / 出前 / obj:ゆゆゆ！",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "98e33057a3e73a195dcc6a53ef4362ca",
       "name_diff" : null,
@@ -14924,11 +15314,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "佐久間まゆ / 星輝子 / 星井美希",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "9a0c2c08dd18b1ac668b4b424835c760",
       "name_diff" : null,
@@ -15326,22 +15716,6 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
-      "artist" : "ZUN remix by 44teru-k obj:けろりん",
-      "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
-      "lr2_bmsid" : null,
-      "md5" : "9f0c477f232ab799c9b31cfd0063beec",
-      "name_diff" : null,
-      "org_level" : 13,
-      "org_md5" : "",
-      "org_md5s" : [],
-      "title" : "死体旅行～QUATTRO EDIT [クエン酸]",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
       "adddate" : "2018/09/17",
       "artist" : "unlimited player(s) obj:ucc",
       "comment" : "",
@@ -15406,11 +15780,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "noctie* / obj:2y",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "a05f8e6e55ac3e57b3e3beaae63b2ab7",
       "name_diff" : null,
@@ -15527,27 +15901,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
-      "artist" : "ixi's / obj : Ill Movie : TAKRIDER",
-      "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
-      "lr2_bmsid" : null,
-      "md5" : "a1a97ad73b976ebfc6f110026b60b1a4",
-      "name_diff" : null,
-      "org_level" : 12,
-      "org_md5" : "",
-      "org_md5s" : [],
-      "title" : "TRI-TECH [△]",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "kireji / object by meteor*",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "a1dd5aec791f91f641c8cb0d66108035",
       "name_diff" : null,
@@ -15687,11 +16045,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "NIKITA / object by meteor*",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "a3bc9dd2b77b2c1838f00c1c02beacf7",
       "name_diff" : null,
@@ -15727,11 +16085,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "ねこみみ魔法使い / 広瀬まどか / obj:rhys",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "a3eed5a92cffd69fd32686e400a2932b",
       "name_diff" : null,
@@ -15823,6 +16181,22 @@
          "a43f09a629b5d9e5861df912d3b172dd"
       ],
       "title" : "PLASTIC GIRLS (ft. Seorryang) [swing 14]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "Good Loosers",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "a45ff85ea10c404d42e8fe396f306bd9",
+      "name_diff" : null,
+      "org_level" : 0,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "タキオン [S]",
       "url" : "",
       "url_diff" : ""
    },
@@ -15969,11 +16343,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "noctie* / RhL",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "a5410fead63cc9c31eccc958d8fd0ad9",
       "name_diff" : null,
@@ -16063,11 +16437,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "DJ YOSHITAKA×ZUN remixed by ueo obj:srof",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "a6a2521ca3d24e4c8608f5ff5c464ecd",
       "name_diff" : null,
@@ -16285,11 +16659,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "チャチャ / halcot",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "a88c65d61348c7de210e7c34f6004058",
       "name_diff" : null,
@@ -16358,11 +16732,27 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
+      "artist" : "A.I.TOYS",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "a8bd6f19faf35edf27772e2e00fb3df8",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "compressed eyes",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
       "artist" : "麦コロッケ/obj:epics-",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "a8d776c4be298d6330fd52d9f2583d91",
       "name_diff" : null,
@@ -16502,11 +16892,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "しらいし obj: misty.ls04",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "a9b1760c6e25b5d540a82d74e2f09122",
       "name_diff" : null,
@@ -16543,11 +16933,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "vorbis obj:azurite",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "aa3bce4a378f910c66939659bc7ede1b",
       "name_diff" : null,
@@ -16618,22 +17008,6 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
-      "artist" : "NIKITA / object by meteor*",
-      "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
-      "lr2_bmsid" : null,
-      "md5" : "aa7da90a5898dc06e6e632af16239b98",
-      "name_diff" : null,
-      "org_level" : 12,
-      "org_md5" : "",
-      "org_md5s" : [],
-      "title" : "RAPID STRIKE [DP INSANE]",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
       "adddate" : "2018/01/07",
       "artist" : "E.Elgar rmx by bbangsami / deadblue238",
       "comment" : "",
@@ -16688,11 +17062,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "clap stick (obj:k)",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "aaff2ce568b8968c3d9780622eb79eea",
       "name_diff" : null,
@@ -16734,11 +17108,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "こはのん(kohaxy vs Hanon) obj.vectorla",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "ac425e3ff0d5eb20a75ece821aab5940",
       "name_diff" : null,
@@ -16781,11 +17155,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "Kriemhild Gretchen / obj:綾",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "ad2b9f9baf85e57caf2c278a88e973f8",
       "name_diff" : null,
@@ -16805,11 +17179,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "巴マミとキュゥべえ / obj kohane",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "ad64f7834d69e7593125105f65214f24",
       "name_diff" : null,
@@ -16822,6 +17196,31 @@
          "ad64f7834d69e7593125105f65214f24"
       ],
       "title" : "Tiro finale [DPk]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "0310",
+      "comment" : "",
+      "folder" : "☆11",
+      "level" : "☆11",
+      "lr2_bmsid" : null,
+      "md5" : "ada752e5f1f2edc1b83a5478b23e1350",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "ada752e5f1f2edc1b83a5478b23e1350",
+      "org_md5s" : [
+         "ada752e5f1f2edc1b83a5478b23e1350",
+         "25d455c47487d5704405fdbc2db97928",
+         "012f004388f2f11d1a624dbf3b63bf12",
+         "cf003ecde7dd69f4f7f2ddf7d8da3e02",
+         "d674188b7aaa659d3cb9cf19868c4e2e",
+         "cf4f5ec591eb2903ac93548ff3d10525",
+         "94e612b88de13cd546449113187806a5",
+         "5dad366f8ea921c939a5f2f86140145e"
+      ],
+      "title" : "Lies",
       "url" : "",
       "url_diff" : ""
    },
@@ -16965,11 +17364,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "daisan / object by meteor*",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "aee587970d848afb5259956b8f184d2c",
       "name_diff" : null,
@@ -17047,11 +17446,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "CrossGear / object by halcot",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "afd5922c58d11de9edd644242ac73869",
       "name_diff" : null,
@@ -17139,11 +17538,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "PhotonFairy/obj:epics-",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "affea4b31b8b5a5fd3cc6ed442b8c380",
       "name_diff" : null,
@@ -17198,11 +17597,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "LU obj:azurite",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "b0510f40e54983d0c90ee185e8382cd4",
       "name_diff" : null,
@@ -17241,6 +17640,22 @@
          "c07125de4ed7fbe7cb066cc41e50e51e"
       ],
       "title" : "Papyrus (14keysAnother)",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "CrossGear",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "b08d260dce85d95ab8f4b33ce36c658b",
+      "name_diff" : null,
+      "org_level" : 0,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "Faith. [S]",
       "url" : "",
       "url_diff" : ""
    },
@@ -17392,11 +17807,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "Lime / obj kohane",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "b2118df25c5891e21c6c3108495ee544",
       "name_diff" : null,
@@ -17417,11 +17832,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "sampling minor SUICA / obj : Ill",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "b24de8e1069649eb2e43e844ac618320",
       "name_diff" : null,
@@ -17644,11 +18059,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "くっちー / obj 穂海",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "b4a632805dc8400af63e33ab5acafba9",
       "name_diff" : null,
@@ -17665,11 +18080,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "keyc / Symphonian",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "b4ebb15dd80d58125695f1b95ca5c074",
       "name_diff" : null,
@@ -17715,11 +18130,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "しらいし obj:J-G",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "b521134892d280e15fe34411efbb9def",
       "name_diff" : null,
@@ -17801,11 +18216,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "Lime/obj:epics-",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "b58eaa7d467f1bda7154e5e46a078652",
       "name_diff" : null,
@@ -17908,11 +18323,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "樋奈月みつ obj ; N",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "b625fba5ec2d5fde118cbe1bf6eb5fcf",
       "name_diff" : null,
@@ -17958,22 +18373,6 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
-      "artist" : "NIKITA / object by meteor*",
-      "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
-      "lr2_bmsid" : null,
-      "md5" : "b653bf1151b98aeba0829fbdf14ca4a8",
-      "name_diff" : null,
-      "org_level" : 13,
-      "org_md5" : "",
-      "org_md5s" : [],
-      "title" : "RAPID STRIKE [DP INSANE+]",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
       "adddate" : "2018/09/20",
       "artist" : "yassu feat. 真野綾 obj:ucc",
       "comment" : "",
@@ -17998,11 +18397,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "裏 吉 川 / obj:二代目IIDX16",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "b6841d151aa98b78353af147f49db607",
       "name_diff" : null,
@@ -18018,11 +18417,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "kireji / object by meteor*",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "b69788c31dac122a1259cf99767461a8",
       "name_diff" : null,
@@ -18034,11 +18433,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "oto feat.きせの / srof",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "b6b85c9adeea54ca061d2b3044bf4b68",
       "name_diff" : null,
@@ -18113,11 +18512,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "DJ YOSHITAKA×ZUN remixed by ueo obj:srof",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "b7440f428c4a4bba2d7e2c3afbac6fc0",
       "name_diff" : null,
@@ -18195,11 +18594,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "Junk (obj:k)",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "b7766c7d598ad3545f75c173a35f80ce",
       "name_diff" : null,
@@ -18211,11 +18610,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "luzebzk(from 300club)/obj:epics-",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "b7e0a4a60113bda322f4d70e4c68d86f",
       "name_diff" : null,
@@ -18253,6 +18652,22 @@
          "5a24a50b3206d86b77a1a29f8e01cf7e"
       ],
       "title" : "地獄の業火で焼肉大会！？ [双・這韋爆亜]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "fether",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "b868d7bd7296fb8eddf33d40655a55c2",
+      "name_diff" : null,
+      "org_level" : 1,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "☆ twinklesky ☆　 [S]",
       "url" : "",
       "url_diff" : ""
    },
@@ -18308,11 +18723,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "暁美ほむら/obj:epics-",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "b8f6072086e4821003637684f28cd765",
       "name_diff" : null,
@@ -18324,11 +18739,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "Celas / obj ; N",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "b92827ed808d008250545a1410b1ef41",
       "name_diff" : null,
@@ -18348,11 +18763,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "DETRO / obj.URIT",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "b944ebf9804004f84dde96b9b8edd029",
       "name_diff" : null,
@@ -18389,11 +18804,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "Le Dos-on bga : Air",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "b9ec039192cd769eabe2729828017fe7",
       "name_diff" : null,
@@ -18410,11 +18825,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "ATEMAK / obj:OSR",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "ba7157e746a5ce67473fd39b52b491da",
       "name_diff" : null,
@@ -18454,11 +18869,27 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
+      "artist" : "Omnipotenx",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "baa443f81709dbef1be1076856b1d63c",
+      "name_diff" : null,
+      "org_level" : 11,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "PEACE BREAKER [DP HYPER]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
       "artist" : "The Lovers / obj : Ill",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "bbf187d639df257c48e97a90aecc8662",
       "name_diff" : null,
@@ -18574,11 +19005,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "麦コロッケ/obj:epics-",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "bcf1bb11c0174bb2deafc9dfc64d9254",
       "name_diff" : null,
@@ -18792,11 +19223,32 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
+      "artist" : "daiki",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "bef24295c1336f21c898063290f0ed3f",
+      "name_diff" : null,
+      "org_level" : 11,
+      "org_md5" : "74c5a500f14579795fb8885c0aaed4f0",
+      "org_md5s" : [
+         "74c5a500f14579795fb8885c0aaed4f0",
+         "25d59c14733611c626adeb702af0cbc2",
+         "af26b4ba491407fa3d12d623bd6353ed",
+         "bef24295c1336f21c898063290f0ed3f"
+      ],
+      "title" : "Nagasaki Airport",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
       "artist" : "POSI-TRON! / obj:Redrum",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "bf2514222bf52a86c6e5016530cf1fbb",
       "name_diff" : null,
@@ -18859,18 +19311,23 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
-      "artist" : "ixi's / obj : Ill Movie : TAKRIDER",
+      "adddate" : "2018/09/29",
+      "artist" : "------ obj:Gypsy",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "☆10",
+      "level" : "☆10",
       "lr2_bmsid" : null,
-      "md5" : "bf9c862cba56ff1db6d586ad4a8b06c7",
+      "md5" : "bfb44aa3f6d73a87fb35657dd8f68400",
       "name_diff" : null,
-      "org_level" : 12,
-      "org_md5" : "",
-      "org_md5s" : [],
-      "title" : "TRI-TECH [HYPER]",
+      "org_level" : 10,
+      "org_md5" : "4cc3fa8d55e9aff8a78c4988ec7aec84",
+      "org_md5s" : [
+         "4cc3fa8d55e9aff8a78c4988ec7aec84",
+         "b9ee66ecbd2b2223ee055fa928212763",
+         "27dab793f8807240e3af370985f6fb04",
+         "bfb44aa3f6d73a87fb35657dd8f68400"
+      ],
+      "title" : "mist a [Gy]",
       "url" : "",
       "url_diff" : ""
    },
@@ -18896,11 +19353,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "Cosmos remix by polysha Obj. KENIN*",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "bfe814c85c09348c177159dc0c03cf0a",
       "name_diff" : null,
@@ -18912,11 +19369,51 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
+      "artist" : "BACO",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "c01fbbc122e02d1db0967efa44b2d2a6",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "DENGEKI Tube [VerA]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
       "artist" : "vorbis obj:azurite",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "★7",
+      "level" : "★7",
+      "lr2_bmsid" : null,
+      "md5" : "c0435afb47dc989146ea3ac2a56578f6",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "755dae1089b1ac6bc8faa09b94e92d35",
+      "org_md5s" : [
+         "755dae1089b1ac6bc8faa09b94e92d35",
+         "1d4fc7eb2ed0e8ecb27d2b8e9a5049d1",
+         "58b1af1489ab8f0c0e7718a7ef19dfa1",
+         "02064175d217843b7dc2c511b3e4236e",
+         "96d4e2122ba6f8742c13d6ecde6e0a78",
+         "c0435afb47dc989146ea3ac2a56578f6",
+         "aa3bce4a378f910c66939659bc7ede1b"
+      ],
+      "title" : "Back 2 Oldskool[DP Maniac]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "vorbis obj:azurite",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "c0435afb47dc989146ea3ac2a56578f6",
       "name_diff" : null,
@@ -19063,11 +19560,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "フロン / ラズベリル",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "c1f2feda2db97d6ab45fb71e596d232a",
       "name_diff" : null,
@@ -19082,11 +19579,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "ねこみみ魔法使い obj:けろりん",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "c251647c5e873e96a36687bc8bf40942",
       "name_diff" : null,
@@ -19203,11 +19700,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "Nene Anegasaki feat. Salita obj:けろりん Movie : Ryuka",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "c409006ba29e9c0a61761de63ee6d95d",
       "name_diff" : null,
@@ -19267,11 +19764,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "6yen / G /obj:No.9",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "c4f62da67425e50bdb2b4609ad632af8",
       "name_diff" : null,
@@ -19288,6 +19785,22 @@
          "c4f62da67425e50bdb2b4609ad632af8"
       ],
       "title" : "Cynic -14GB-",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "Kinato",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "c528e951b53b666db1933c623e799eab",
+      "name_diff" : null,
+      "org_level" : 1,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "P.S : Plasma Strike [S]",
       "url" : "",
       "url_diff" : ""
    },
@@ -19367,11 +19880,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "麦コロッケ Notes: pico*",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "c6347ce7ce3d134a8ebac477dd9ef42a",
       "name_diff" : null,
@@ -19389,11 +19902,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "暁美ほむら/obj:epics-",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "c64669d5b71c97426891493913b1f4fe",
       "name_diff" : null,
@@ -19647,11 +20160,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "妃宮 千早 with. 七々原 薫子 (BG : ケイリ・グランセリウス)",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "c8dc214003898e6ace09d3341701fc01",
       "name_diff" : null,
@@ -19684,27 +20197,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
-      "artist" : "xenothium (obj:k)",
-      "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
-      "lr2_bmsid" : null,
-      "md5" : "c8ef4b90c5a42d15e72b6fd905306cf4",
-      "name_diff" : null,
-      "org_level" : 12,
-      "org_md5" : "",
-      "org_md5s" : [],
-      "title" : "Spiral Beauty Salon [DP Another]",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "Grand Thaw / obj:ROCO",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "c90554111e1512198f4b0f9fb3f39e46",
       "name_diff" : null,
@@ -19742,11 +20239,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "NS-Factory × deadblue238 × hi-low Obj:GO--YA",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "c961c5ba3da39fe054fb91e48da9daaa",
       "name_diff" : null,
@@ -19859,11 +20356,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "佐久間まゆ / 星輝子 / 星井美希",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "ca2cc62cdc45b07c1cae935a2ee9cfe2",
       "name_diff" : null,
@@ -20027,11 +20524,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "fdsa feat. sarah beara/obj:epics-",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "cb225d11552311241b52cd84b17813d4",
       "name_diff" : null,
@@ -20053,11 +20550,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "天邪鬼/obj:ROCO",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "cb46a1843adab03c14ad405c0c1d13e2",
       "name_diff" : null,
@@ -20139,22 +20636,6 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
-      "artist" : "azu / obj:OSR",
-      "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
-      "lr2_bmsid" : null,
-      "md5" : "cc65c4cda9bbfe5d9897d03814b8096f",
-      "name_diff" : null,
-      "org_level" : 12,
-      "org_md5" : "",
-      "org_md5s" : [],
-      "title" : "siete colores brillo e sonido [DP MANIAC]",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
       "adddate" : "2018/09/20",
       "artist" : "eicateve yurico[vo] まきのせな[mv] hi-low[obj]",
       "comment" : "",
@@ -20174,6 +20655,29 @@
          "46d0f71e46701ab542f68cb4cde0175b"
       ],
       "title" : "sora no meikyu feat. yurico",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "Chino",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "cc7aa9a67436c394a5a61c0b96e9562c",
+      "name_diff" : null,
+      "org_level" : 1,
+      "org_md5" : "9ce8bf0ee1d39ac3b44714145671fb61",
+      "org_md5s" : [
+         "9ce8bf0ee1d39ac3b44714145671fb61",
+         "6ac4a7d3a047e307ce12272d4f6a7751",
+         "93ad5b560879ded9240a2f137e719045",
+         "2072dbaee887367c97ce0812ab663a7b",
+         "604811b687a68f98544c153d1347ad72",
+         "cc7aa9a67436c394a5a61c0b96e9562c"
+      ],
+      "title" : "Espresso Shots  [S]",
       "url" : "",
       "url_diff" : ""
    },
@@ -20265,11 +20769,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/02",
+      "adddate" : "2018/09/29",
       "artist" : "STASTA TEKINA",
       "comment" : "",
-      "folder" : "★01-02",
-      "level" : "★01-02",
+      "folder" : "★03-04",
+      "level" : "★03-04",
       "lr2_bmsid" : null,
       "md5" : "ce7d6db9389dea40079e947f2d83a2c5",
       "name_diff" : null,
@@ -20482,11 +20986,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "かゆき/obj:epics-",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "d0858e1645db30c2eb690cb087ab289e",
       "name_diff" : null,
@@ -20546,11 +21050,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "daisan / object by meteor*",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "d0da596ae735fdd1d186e19338eabcf0",
       "name_diff" : null,
@@ -20633,22 +21137,6 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
-      "artist" : "NIKITA / object by meteor*",
-      "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
-      "lr2_bmsid" : null,
-      "md5" : "d1351018993850aeda57788bd885f25c",
-      "name_diff" : null,
-      "org_level" : 10,
-      "org_md5" : "",
-      "org_md5s" : [],
-      "title" : "RAPID STRIKE [DP ANOTHER]",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
       "adddate" : "2018/09/20",
       "artist" : "Hate vs Brilliance / BMSSP",
       "comment" : "",
@@ -20668,6 +21156,27 @@
          "b3e9f5e163dad44490f890445c137d40"
       ],
       "title" : "Quark [14keys Another]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "SlowMouse",
+      "comment" : "",
+      "folder" : "うんち",
+      "level" : "うんち",
+      "lr2_bmsid" : null,
+      "md5" : "d1fd0af86867aea0ec02369a1988d839",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "d1fd0af86867aea0ec02369a1988d839",
+      "org_md5s" : [
+         "d1fd0af86867aea0ec02369a1988d839",
+         "01fef29059dcb14dd1a10624f13fa8bd",
+         "3b170dc8272dd26660a6ef6b3e679bf6",
+         "e206134fb88248ee4b1f19f0e936f9a7"
+      ],
+      "title" : "Kids' Tricky Cheating (Acoustic Piano Side)",
       "url" : "",
       "url_diff" : ""
    },
@@ -20742,22 +21251,6 @@
          "1b672e4b66614c0a1620ec7da8781b25",
          "3ffe563b9ccdcd7181ac278c4690c146"
       ],
-      "title" : "キメラ [A14]",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
-      "adddate" : "2018/09/23",
-      "artist" : "BACO obj:ucc",
-      "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
-      "lr2_bmsid" : null,
-      "md5" : "d27ef69756066db21fae8095a1000835",
-      "name_diff" : null,
-      "org_level" : 12,
-      "org_md5" : "",
-      "org_md5s" : [],
       "title" : "キメラ [A14]",
       "url" : "",
       "url_diff" : ""
@@ -20845,11 +21338,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "daisan / object by meteor*",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "d30f3ab5d46f0542cc7455bfbd23940d",
       "name_diff" : null,
@@ -20894,11 +21387,36 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
+      "artist" : "しらいし",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "d38f439fad87b51eec1328cd46157fd6",
+      "name_diff" : null,
+      "org_level" : 1,
+      "org_md5" : "6110773db5df13c5f85291b1bc25f3db",
+      "org_md5s" : [
+         "6110773db5df13c5f85291b1bc25f3db",
+         "563662c3a669daea788903083e1dfda1",
+         "ade29fe7890672d86f68be05f6e8d707",
+         "9e4e2e04dc156cd12635876b1a50b174",
+         "400092ff3a1120ce721a01ebe87fb7d2",
+         "95ea804f8f7f892674bdf74793941a25",
+         "31fec89a397e270f1540fe2a160c01b4",
+         "d38f439fad87b51eec1328cd46157fd6"
+      ],
+      "title" : "硬核機動[S]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
       "artist" : "TOMA Remixed by FALL :obj No.9",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "d3f0563b5c4c228074622995b00a0093",
       "name_diff" : null,
@@ -20964,11 +21482,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "Lime/obj:epics-",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "d456037131dc98541200c34c3fe146ae",
       "name_diff" : null,
@@ -21027,6 +21545,57 @@
          "6c14f3a0bdb9dbd9146e67fd967d8221"
       ],
       "title" : "Seed [DP ANOTHER]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "ねこみみ魔法使い",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "d49907b0d7c930263952c6d9aeba2131",
+      "name_diff" : null,
+      "org_level" : 11,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "★LittlE HearTs★",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "Lime / 温泉の力 /",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "d49f9971691b047257865520846193f8",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "a121119a9b37663023ed5b85c59a6201",
+      "org_md5s" : [
+         "a121119a9b37663023ed5b85c59a6201",
+         "d49f9971691b047257865520846193f8"
+      ],
+      "title" : "Harmony [S]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "SHIKI/fity",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "d4a4e5607be8940407a6a55078ead7d9",
+      "name_diff" : null,
+      "org_level" : 1,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "Xecus [S]",
       "url" : "",
       "url_diff" : ""
    },
@@ -21294,11 +21863,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "Rabbit Bat obj:けろりん",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "d69afec5896d7e9963869d1b0247edaf",
       "name_diff" : null,
@@ -21360,11 +21929,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "ZUN/arr.みょん / iimode-do / かげきち / obj : Ill",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "d6c435c0d3a140e02619e515c4a391b9",
       "name_diff" : null,
@@ -21372,6 +21941,22 @@
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Plastic Mind [ANOTHER]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "上杉うた with 星明",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "d7671d14a928d1893b5c4a815ed37d3a",
+      "name_diff" : null,
+      "org_level" : 1,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "Canon  (blazing summer mix) [S]",
       "url" : "",
       "url_diff" : ""
    },
@@ -21476,11 +22061,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "keyc / Symphonian",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "d8d2eee80ecb9312bfe5be73dcbdbf03",
       "name_diff" : null,
@@ -21630,11 +22215,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "Tima obj:けろりん",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "db01bca63c4fdc5302a1caa92966b73a",
       "name_diff" : null,
@@ -21706,11 +22291,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "guna / Imperrsia",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "db7906de15447b6740bae86239afdbdb",
       "name_diff" : null,
@@ -21803,6 +22388,22 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2018/09/29",
+      "artist" : "ZUN (Arr.sun3)",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "dc24e1131ffce949ede5d087ee00ca1c",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "星の器～STAR OF ANDROMEDA (ANOTHER)",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2018/09/20",
       "artist" : "櫟井唯 / 岡野佳 / obj:Hersh",
       "comment" : "",
@@ -21832,11 +22433,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "ETIA./obj:epics-",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "dc3e4eedad2c81db661625da7c838c1d",
       "name_diff" : null,
@@ -22188,11 +22789,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "美樹さやか vs. 美樹さやか (fw. 美樹さやか) obj 穂海 BGA ： 美樹さやか",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "e0642940684b18670cde7b9bc7d74e80",
       "name_diff" : null,
@@ -22364,11 +22965,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "void feat. コツキミヤ , Gt. えば  obj;茜ヶ崎 空 BGA : Photonskyto",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "e1a25bfc5a3b15a5bb48d497a39c6dca",
       "name_diff" : null,
@@ -22440,6 +23041,27 @@
          "8dfa2c225a6a97c95c80260b14718198"
       ],
       "title" : "愛と煩悩と輪廻と常識の極彩世界 [DP HYPER]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "SlowMouse",
+      "comment" : "",
+      "folder" : "うんち",
+      "level" : "うんち",
+      "lr2_bmsid" : null,
+      "md5" : "e206134fb88248ee4b1f19f0e936f9a7",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "d1fd0af86867aea0ec02369a1988d839",
+      "org_md5s" : [
+         "d1fd0af86867aea0ec02369a1988d839",
+         "01fef29059dcb14dd1a10624f13fa8bd",
+         "3b170dc8272dd26660a6ef6b3e679bf6",
+         "e206134fb88248ee4b1f19f0e936f9a7"
+      ],
+      "title" : "Kids' Tricky Cheating (Rock Piano Side)",
       "url" : "",
       "url_diff" : ""
    },
@@ -22651,11 +23273,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "牧野",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "e48e8d34af03537c809e51e03532d971",
       "name_diff" : null,
@@ -22732,6 +23354,30 @@
          "0b3047b7b9a0a65becb09c65bb3f3b23"
       ],
       "title" : "ゆらめきつまさき",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "void 鴫野エイカー / dbm",
+      "comment" : "",
+      "folder" : "☆11",
+      "level" : "☆11",
+      "lr2_bmsid" : null,
+      "md5" : "e693a74865a2f86d15050fc644bcc374",
+      "name_diff" : null,
+      "org_level" : 11,
+      "org_md5" : "5b4f499546b48c454922593059fd92a8",
+      "org_md5s" : [
+         "5b4f499546b48c454922593059fd92a8",
+         "6ed4d1c9743a84fe58e35d418bf7ba16",
+         "c2404d8f5be9d93cd3cd2d5cd2afb070",
+         "c50ee83034c629a8bfc898d709042cd4",
+         "8804db717d94ee936efc253567c0328a",
+         "c9eda59a651ec3e581a176d87ba40366",
+         "e693a74865a2f86d15050fc644bcc374"
+      ],
+      "title" : "Twilight Observer",
       "url" : "",
       "url_diff" : ""
    },
@@ -22943,11 +23589,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "horoscope/obj:hamburger object by あ",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "e81b95a8cf612e75ef36c08ca9f1ec12",
       "name_diff" : null,
@@ -22963,11 +23609,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "A4paper / obj:Lilium",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "e8264193492ec640327c934f9f37b02c",
       "name_diff" : null,
@@ -22979,11 +23625,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "ATEMAK (obj:k)",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "e85034a561b425a5d001b320808ef6ef",
       "name_diff" : null,
@@ -23001,11 +23647,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "DETRO obj:ucc",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "e896b4c69f7d3e4541d72a66121b071c",
       "name_diff" : null,
@@ -23232,11 +23878,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "kireji / object by meteor*",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "ebeffb105901d104e10cb3998d146328",
       "name_diff" : null,
@@ -23268,22 +23914,6 @@
          "6430d67026d64dbab1173e3f8cea671e",
          "fd108f3b6b1d5d6ff814a8810d5d38d0"
       ],
-      "title" : "PHANTOM KILLER [DP ANOTHER]",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
-      "adddate" : "2018/09/23",
-      "artist" : "q/stol / object by meteor*",
-      "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
-      "lr2_bmsid" : null,
-      "md5" : "ec8151f26709e44effe1abbff8eec919",
-      "name_diff" : null,
-      "org_level" : 10,
-      "org_md5" : "",
-      "org_md5s" : [],
       "title" : "PHANTOM KILLER [DP ANOTHER]",
       "url" : "",
       "url_diff" : ""
@@ -23389,11 +24019,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "LV.4 obj:NO.9",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "ed6dd065bec4c645b2ba896d3e765c33",
       "name_diff" : null,
@@ -23492,11 +24122,37 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
+      "artist" : "GYAON",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "edce00e9e599f519c2d1e3af7fc28e1f",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "c296077b633760605f2a71df302cc158",
+      "org_md5s" : [
+         "c296077b633760605f2a71df302cc158",
+         "68a71c50c2aa65b04697228c65e190d7",
+         "fc0f9ecb58edf76e09315bc3006320a1",
+         "cae810d65cd1eab0815f6f8ddbed3ff2",
+         "fff9bbbd71c9e2ce60c5fae86eb67450",
+         "fb08fc1b8e8bb14c1d44d061bf48d46d",
+         "ee67facb8fadc96e9383a1a530f1fe54",
+         "2af9f6bb535c946485b34e276b8aa9b0",
+         "edce00e9e599f519c2d1e3af7fc28e1f"
+      ],
+      "title" : "Last Battle-T260G-[S]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
       "artist" : "Dachs / obj:二代目IIDX16",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "ede197e2138d85d5c24edfc4db37c843",
       "name_diff" : null,
@@ -23560,11 +24216,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "ZUN/arr.みょん / iimode-do / かげきち / obj : Ill",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "ee690b6259f622b0a4e64b8b19cd90cd",
       "name_diff" : null,
@@ -23670,11 +24326,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "DETRO obj:ucc",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "ef03a08d7f8cd74c0f2f4cc979d5d988",
       "name_diff" : null,
@@ -23798,6 +24454,22 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2018/09/29",
+      "artist" : "モリモリあつし obj:右手が恋人",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "f123c22bc98eaffc520afd72001f2c3f",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "PUPA [S]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2018/02/06",
       "artist" : "owl-light obj:ucc",
       "comment" : "",
@@ -23822,11 +24494,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "fdsa feat. sarah beara/obj:epics-",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "f1ac5d4ab300fcdd1e8d48407c67ee0d",
       "name_diff" : null,
@@ -23894,22 +24566,6 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
-      "artist" : "Yamajet  obj ; N",
-      "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
-      "lr2_bmsid" : null,
-      "md5" : "f1aec98dc60c53724899fd65580f1f62",
-      "name_diff" : null,
-      "org_level" : 13,
-      "org_md5" : "",
-      "org_md5s" : [],
-      "title" : "supersoulsimulator [DP えぬTHER-]",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
       "adddate" : "2018/03/04",
       "artist" : "o.s.gate",
       "comment" : "",
@@ -23926,22 +24582,6 @@
          "43f9320b4e266f37497482cb0d60af9c",
          "f23547243c81abf0b59ee0838daf4274"
       ],
-      "title" : "リジットXXパラダイス［DPかっぱうた］",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
-      "adddate" : "2018/09/23",
-      "artist" : "o.s.gate",
-      "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
-      "lr2_bmsid" : null,
-      "md5" : "f23547243c81abf0b59ee0838daf4274",
-      "name_diff" : null,
-      "org_level" : 12,
-      "org_md5" : "",
-      "org_md5s" : [],
       "title" : "リジットXXパラダイス［DPかっぱうた］",
       "url" : "",
       "url_diff" : ""
@@ -24057,11 +24697,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "Celas / obj ; N",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "f32a03fcebfa3d3417002d3006b1f7b0",
       "name_diff" : null,
@@ -24077,6 +24717,22 @@
          "7760c72419bc75a4470e0a0b0ec4a065"
       ],
       "title" : "Nuclear Fusion DPEX",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "Hate vs Brilliance",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "f340fe46ae74e834c0499b2e437a8987",
+      "name_diff" : null,
+      "org_level" : 9,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "Quark",
       "url" : "",
       "url_diff" : ""
    },
@@ -24177,11 +24833,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "かゆき/obj:epics-",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "f5b99da1d2a96cc4c0e8847ddd2d6a18",
       "name_diff" : null,
@@ -24309,11 +24965,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "Junk",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "f740ff9866f58a8919b60ef5c60c94f6",
       "name_diff" : null,
@@ -24330,11 +24986,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "ETIA./obj:epics-",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "f7b49d9104d937907de9ee9d6b6dab04",
       "name_diff" : null,
@@ -24399,11 +25055,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "Tima obj:けろりん",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "f85c37429ca759ec3e1f354f762fb833",
       "name_diff" : null,
@@ -24425,11 +25081,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "LiTaNia/objEPICS-",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "f862102c264a5da9e42f0ccd1f54100c",
       "name_diff" : null,
@@ -24441,11 +25097,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "otokaz //obj:srof",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "f95179854cab541caf0fe4df7d196f3a",
       "name_diff" : null,
@@ -24592,11 +25248,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "HOUJIROU / srof",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "faad1d17b68d8f865f46c620236e547f",
       "name_diff" : null,
@@ -24629,11 +25285,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "ginkiha / obj kohane",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "fad47cac797653a3c3dbdf3719d14ba7",
       "name_diff" : null,
@@ -24762,11 +25418,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "q/stol / object by meteor*",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "fd108f3b6b1d5d6ff814a8810d5d38d0",
       "name_diff" : null,
@@ -24859,11 +25515,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/24",
+      "adddate" : "2018/09/29",
       "artist" : "m108/Notes:天乃桜音々 BGA:メツヤ Illust:flap",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "fdf7ead9d221a8372ca8468fada32bd1",
       "name_diff" : null,
@@ -24919,6 +25575,29 @@
          "fe5bf98e4000d668cb6983bcdc91f526"
       ],
       "title" : "せるびずむ！[14KEYS]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2018/09/29",
+      "artist" : "punchhh",
+      "comment" : "",
+      "folder" : "☆11",
+      "level" : "☆11",
+      "lr2_bmsid" : null,
+      "md5" : "feb8ba8b2575719616dced58a218a185",
+      "name_diff" : null,
+      "org_level" : 11,
+      "org_md5" : "feb8ba8b2575719616dced58a218a185",
+      "org_md5s" : [
+         "feb8ba8b2575719616dced58a218a185",
+         "72a7c60afd1e1bed1796511e48fd006b",
+         "a56f60e625deaf82776130b27a122821",
+         "d9bdc479be009602d1bbd9d420f74e79",
+         "f4c0602dd346b625a6de3ce75772c216",
+         "09eb829f9269a15e3a212da7a027be73"
+      ],
+      "title" : "Winter harbor",
       "url" : "",
       "url_diff" : ""
    },
@@ -24987,11 +25666,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/23",
+      "adddate" : "2018/09/29",
       "artist" : "daisan / object by meteor*",
       "comment" : "",
-      "folder" : "候補2",
-      "level" : "候補2",
+      "folder" : "候補",
+      "level" : "候補",
       "lr2_bmsid" : null,
       "md5" : "fff94d8d9c2d1f9fe7e9cbdfa2cbac17",
       "name_diff" : null,
