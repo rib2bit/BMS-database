@@ -15,7 +15,7 @@
    {
       "artist" : "金ラメタキシード",
       "comment" : "トリル・LN・局所難・軸",
-      "level" : "8",
+      "level" : "7",
       "lr2_bmsid" : "0",
       "md5" : "069c27f9241a2ced41736fab408bebd0",
       "name_diff" : "DL",
@@ -190,18 +190,6 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/yorugao.zip"
    },
    {
-      "artist" : "45Is-m BGA:-45",
-      "comment" : "階段・乱打",
-      "level" : "3",
-      "lr2_bmsid" : "0",
-      "md5" : "59859baa452a28753833259ac39f666c",
-      "name_diff" : "DL",
-      "reg_date" : "2016-04-13",
-      "title" : "G e n g a o z o -Screen music- -SP MESSIAH-",
-      "url" : "http://www.is-m.jp/bms/song/em41.html",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/G e n g a o z o -Screen music-.zip"
-   },
-   {
       "artist" : "paraoka",
       "comment" : "局所難・階段・軸",
       "level" : "6",
@@ -331,7 +319,7 @@
    {
       "artist" : "the KB feat.takoP",
       "comment" : "縦連・前半難<br><br>キー音ほぼ全部",
-      "level" : "3",
+      "level" : "2",
       "lr2_bmsid" : "0",
       "md5" : "6d852f84ad2f967c97010ecc83353d73",
       "name_diff" : "DL",
@@ -339,6 +327,18 @@
       "title" : "B-T(short.ver) [7keys-maniac+]",
       "url" : "http://www.interq.or.jp//neptune/koo/hey.htm",
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/B-T.zip"
+   },
+   {
+      "artist" : "cranky",
+      "comment" : "皿複合乱打<br><br>一部音追加",
+      "level" : "7",
+      "lr2_bmsid" : "0",
+      "md5" : "74c2323687353ff9c6e6e71d2314179c",
+      "name_diff" : "DL",
+      "reg_date" : "2018-10-06",
+      "title" : "save the music [INSANE]",
+      "url" : "https://mega.nz/#F!sZMTGZqZ!YZH2Xy6jBMMNl3MvQ_pp-A",
+      "url_diff" : "http://onzonium.at-ninja.jp/sabun/save the music.zip"
    },
    {
       "artist" : "Gun-SEKI",
@@ -618,18 +618,6 @@
       "title" : "Canon (blazing summer mix) [insane]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=54",
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/Canon (blazing summer mix).zip"
-   },
-   {
-      "artist" : "sasakure.UK",
-      "comment" : "局所難・BPM変化",
-      "level" : "4",
-      "lr2_bmsid" : "0",
-      "md5" : "e0f4ac41f84c3b69f63b24efb7fb20b1",
-      "name_diff" : "DL",
-      "reg_date" : "2016-04-13",
-      "title" : "E reviver(INSANE)",
-      "url" : "http://web.archive.org/web/20070727154611/http://sasakure.bms.ms/framemusic.htm",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/E reviver.zip"
    },
    {
       "artist" : "赤碕 翔",
