@@ -331,7 +331,7 @@
    {
       "artist" : "哀愁マニア/obj:hamburger",
       "comment" : "hi-nrg / trance",
-      "level" : "★6",
+      "level" : "★7",
       "md5" : "0206a0753292a3f3088a4e9ee092e3d5",
       "title" : "the lost dedicated 【(^_^;)】"
    },
@@ -5012,6 +5012,13 @@
       "title" : "銀の風 [EI]"
    },
    {
+      "artist" : "2X obj:Starfish",
+      "comment" : "Oriental Trance",
+      "level" : "10",
+      "md5" : "20f17bf680d3235662bf935438e98771",
+      "title" : "TEN [DP INS☆NE]"
+   },
+   {
       "artist" : "P4koo / obj:Hersh *L.MIRROR",
       "comment" : "NRG CORE",
       "level" : "9",
@@ -5388,6 +5395,13 @@
       "level" : "4",
       "md5" : "233932541ba713841ac8038c642ea4ce",
       "title" : "Brave My Soul [DP sub another]"
+   },
+   {
+      "artist" : "エルリ鳥 obj. MIC(H) obj.:KEH",
+      "comment" : "afterimage",
+      "level" : "4",
+      "md5" : "23406b03f6a8a94290fd5aa077005e3e",
+      "title" : "スペクトラム (DP)"
    },
    {
       "artist" : "masopp",
@@ -6459,6 +6473,13 @@
       "level" : "★7",
       "md5" : "2a77fab5a5f925444ce71b131b54fb8c",
       "title" : "Annihilate the living [DP EXBOSS]"
+   },
+   {
+      "artist" : "Cres / air / KEH",
+      "comment" : "ReQuiEm tRanCe",
+      "level" : "?",
+      "md5" : "2a9282abfc8c7c4a2ed7e82376972432",
+      "title" : "End Time [ダブル賢者タイム]"
    },
    {
       "artist" : "Y.W obj:けろりん",
@@ -8092,6 +8113,13 @@
       "title" : "edelweiss (bms edit) [LN14]"
    },
    {
+      "artist" : "PSYPHA *FLIP",
+      "comment" : "PSYCHEDELIC",
+      "level" : "3",
+      "md5" : "35838b9de22b496d6f1913b39f0f3b32",
+      "title" : "HyperHeadache (14keys)"
+   },
+   {
       "artist" : "削除 feat. void / 浪漫映像制作倶楽部 / obj:lichtr",
       "comment" : "Act / Wars",
       "level" : "7",
@@ -8841,7 +8869,7 @@
       "title" : "Dream Catcher  [DP Another]"
    },
    {
-      "artist" : "SlowMouse",
+      "artist" : "SlowMouse *L.MIRROR R.RANDOM",
       "comment" : "Sixteen-Handed Piano Quartet",
       "level" : "★4",
       "md5" : "3b170dc8272dd26660a6ef6b3e679bf6",
@@ -12320,9 +12348,9 @@
       "title" : "[DP New period]"
    },
    {
-      "artist" : "maxXx65535 obj:ucc",
+      "artist" : "maxXx65535 obj:ucc *FLIP",
       "comment" : "Jazz",
-      "level" : "9",
+      "level" : "6",
       "md5" : "52dd496ab71a5d645b4615023743dfeb",
       "title" : "Feldschlacht -j.z. mix- [A14]"
    },
@@ -13883,7 +13911,7 @@
    {
       "artist" : "哀愁マニア / obj@DemitassE",
       "comment" : "hi-nrg / trance",
-      "level" : "★6",
+      "level" : "★7",
       "md5" : "5c464476f49ad219ffada8fe1f922ef9",
       "title" : "the lost dedicated [life of KAMIKAZE]"
    },
@@ -14518,9 +14546,9 @@
       "title" : "Espresso Shots"
    },
    {
-      "artist" : "er[obj:MGN] *FLIP L.MIRROR",
+      "artist" : "er[obj:MGN] *FLIP L.MIRROR or L.MIRROR",
       "comment" : "ゆるふわボッサ/ゆるふわハウス",
-      "level" : "★8",
+      "level" : "★7",
       "md5" : "60492ebec67d1d1adf50ac160af85bf9",
       "title" : "午後のこいしちゃん [超不機嫌]"
    },
@@ -15344,6 +15372,13 @@
       "title" : "Halimede"
    },
    {
+      "artist" : "puru twk. sound piercer (feat.Hee Bun.D) obj:Dr.K",
+      "comment" : "Freeform / Gabber",
+      "level" : "★5",
+      "md5" : "65adabbe450b2b42ff0cb4a7705a7769",
+      "title" : "Toki (Sound piercer's Timesucker Remix) [DP EXTRA]"
+   },
+   {
       "artist" : "Saz (obj:k) *FLIP LR.RANDOM",
       "comment" : "trance/hardstyle",
       "level" : "6",
@@ -15860,6 +15895,13 @@
       "level" : "10",
       "md5" : "6907c3d553296b963f7986f9a00003f5",
       "title" : "AutumnBreeze [mEUmeUmeUCkPm]"
+   },
+   {
+      "artist" : "polycube mov : レク  *R.MIRROR",
+      "comment" : "ELECTRONIC DANCE",
+      "level" : "★1",
+      "md5" : "6912b945e537f0d0f2f7e7d1047f1670",
+      "title" : "Another DP"
    },
    {
       "artist" : "カラフル・サウンズ・ポート obj:肴",
@@ -17801,7 +17843,7 @@
       "title" : "うみいろ、そらいろ。 (14foon)"
    },
    {
-      "artist" : "narve arranged by FMN (obj.selene.) *FLIP R.MIRROR",
+      "artist" : "narve arranged by FMN (obj.selene.) *FLIP R.MIR or FLIP L.MIR or FLIP LR.RAN",
       "comment" : "ibiza trance",
       "level" : "★6",
       "md5" : "753e90e4511ffef688450dc7c3016ab3",
@@ -19852,7 +19894,7 @@
       "title" : "sterminio [DP ANOTHER]"
    },
    {
-      "artist" : "Est / obj:2y",
+      "artist" : "Est / obj:2y *L.MIRROR",
       "comment" : "TRANCE",
       "level" : "9",
       "md5" : "81fb3b4f09be4959426ee5c2441a4184",
@@ -20246,7 +20288,7 @@
    {
       "artist" : "xi / obj:二代目IIDX16 *LR.RANDOM",
       "comment" : "RENAISSANCE HARDCORE",
-      "level" : "9",
+      "level" : "10",
       "md5" : "8409acdff81b08c03ba3d8842efecd72",
       "title" : "Halcyon [14key_Equivalent]"
    },
@@ -20298,6 +20340,13 @@
       "level" : "★11",
       "md5" : "845da3fdb8ab017ee46ed9005a1330ec",
       "title" : "大盛りイカ墨焼きそば二人前 [黒Another]"
+   },
+   {
+      "artist" : "naotyu- / obj:Starfish",
+      "comment" : "Progressive Breaks",
+      "level" : "8",
+      "md5" : "845f1a1282944836cce79c24f8d0b146",
+      "title" : "Velaciela [DP ☆NOTHER]"
    },
    {
       "artist" : "dj Extrose obj,係長 *LR.MIRROR",
@@ -24691,7 +24740,7 @@
    {
       "artist" : "Forced Leaving / obj:Lilium & Rosa",
       "comment" : "Hardcore Rave",
-      "level" : "9",
+      "level" : "8",
       "md5" : "a0514d8ed746ca43bac5ec626593269f",
       "title" : "Fascinating Laser -14keys-"
    },
@@ -27043,7 +27092,7 @@
    {
       "artist" : "HOUJIROU / obj.LetsOTL",
       "comment" : "SPEED CORE",
-      "level" : "9",
+      "level" : "10",
       "md5" : "af31a7f7dd25e74de552a672b69ddbd4",
       "title" : "Buuuuuuurstraffic [速い。]"
    },
@@ -34685,7 +34734,7 @@
       "title" : "ふわり、ふわり。 [舞空術]"
    },
    {
-      "artist" : "SlowMouse",
+      "artist" : "SlowMouse *L.MIRROR R.RANDOM",
       "comment" : "Sixteen-Handed Piano Quartet",
       "level" : "★4",
       "md5" : "e206134fb88248ee4b1f19f0e936f9a7",
@@ -35229,6 +35278,13 @@
       "level" : "★5",
       "md5" : "e61bf226fcbf995b288d8f7ecbc9d929",
       "title" : "volcanic (DPAnother)"
+   },
+   {
+      "artist" : "Silentroom × 駿 / obj:IIDX16",
+      "comment" : "KATASTROPHE",
+      "level" : "★10",
+      "md5" : "e6252128a7b6cbfca0eaa5e4854470da",
+      "title" : "Nhelv [strange]"
    },
    {
       "artist" : "Tanchiky  obj:右手が恋人",
@@ -36839,6 +36895,13 @@
       "level" : "2",
       "md5" : "efcad9c4e4b80c7666f913b06eb091aa",
       "title" : "ting ting [ANOTHER14]"
+   },
+   {
+      "artist" : "455 / rio / black train",
+      "comment" : "P s y",
+      "level" : "9",
+      "md5" : "efccf427556dc97383760549a6398403",
+      "title" : "G e n g a o z o _ more穴クエ階段"
    },
    {
       "artist" : "Squar / obj.LetsOTL",
