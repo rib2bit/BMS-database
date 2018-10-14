@@ -658,6 +658,13 @@
       "title" : "とびらにじいろ"
    },
    {
+      "artist" : "Reanisz×minun♂ obj.vectorla  *FLIP LR.MIRROR",
+      "comment" : "Drum'n'Bass",
+      "level" : "4",
+      "md5" : "040077ba38277b2e8dbb43b244bda752",
+      "title" : "[OpenMRF]COSMO TRAVEL [SUPERCLUSTER]"
+   },
+   {
       "artist" : "guna / Imperrsia *FLIP LR.MIRROR",
       "comment" : "instrumental",
       "level" : "7",
@@ -884,7 +891,7 @@
    {
       "artist" : "ぜらにも obj:海馬瀬人と四糸乃",
       "comment" : "Postclassical",
-      "level" : "9",
+      "level" : "?",
       "md5" : "056f5eb8dbfdc141329d8b7980141da2",
       "title" : "Decolora [DP another]"
    },
@@ -1162,7 +1169,7 @@
       "title" : "FATAL ERROR [notice 14]"
    },
    {
-      "artist" : "syatten + coda / obj:QJITAI",
+      "artist" : "syatten + coda / obj:QJITAI *SUD+",
       "comment" : "time paradox",
       "level" : "9",
       "md5" : "0709da21dbe74d4921b2abc837d76554",
@@ -6706,9 +6713,9 @@
       "title" : "MO★TSU★NA★BE★"
    },
    {
-      "artist" : "D.J.Nero obj.Larkid",
+      "artist" : "D.J.Nero obj.Larkid *LR.RANDOM",
       "comment" : "RENAISSANCE",
-      "level" : "9",
+      "level" : "8",
       "md5" : "2bcc0c8997d68732860d1360f96280a1",
       "title" : "Quad Queens [SP to DP]"
    },
@@ -10992,7 +10999,7 @@
    {
       "artist" : "Belle. *FLIP R.MIRROR",
       "comment" : "SPEED DANCE",
-      "level" : "9",
+      "level" : "10",
       "md5" : "498caad48303c19257d84eb7ea282290",
       "title" : "Cherry Blossom Shower -DP ANOTHER-"
    },
@@ -12696,6 +12703,13 @@
       "level" : "1",
       "md5" : "54f7647d6354627ad180b8df2375013c",
       "title" : "detritus"
+   },
+   {
+      "artist" : "KAH (BGA:自動車原付　イラスト:手鞠鈴) obj:けろりん",
+      "comment" : "rave tech",
+      "level" : "10",
+      "md5" : "5503e1f48d5a9ecba061fb0ad97d66a3",
+      "title" : "energy night [ENERGY BOMBER]"
    },
    {
       "artist" : "snowdrop / objeCraft",
@@ -15932,6 +15946,13 @@
       "title" : "Baby Baby Frenzy"
    },
    {
+      "artist" : "LOKI",
+      "comment" : "ETHEREAL BREAKS ATMOSPHERIC",
+      "level" : "8",
+      "md5" : "692054a2e8da881fc72e2ae0fac52738",
+      "title" : "モノリスの園 [14KEYS]"
+   },
+   {
       "artist" : "eicateve tonishina[vocal] 高松[movie] 森永君尋[illust] / obj:Hersh  *L.M",
       "comment" : "Pop / Her Story II",
       "level" : "★4",
@@ -17087,7 +17108,7 @@
       "title" : "天上のポリスルイン [DP ANOTHER]"
    },
    {
-      "artist" : "horosceased obj:ucc *LR.RANDOM",
+      "artist" : "horosceased obj:ucc",
       "comment" : "ジュエル",
       "level" : "9",
       "md5" : "70cc7a3704908aa3c1f04997ee252bae",
@@ -22106,7 +22127,7 @@
       "title" : "死霊の夜桜 - er edit [ANOTHER14]"
    },
    {
-      "artist" : "KAI",
+      "artist" : "KAI *正規 or LR.RANDOM",
       "comment" : "EURO TRANCE",
       "level" : "10",
       "md5" : "8f154820564abc4113e643073f120ea4",
@@ -23100,9 +23121,9 @@
       "title" : "Say A Vengeance [Thistle]"
    },
    {
-      "artist" : "mattaku *MAX+30",
+      "artist" : "mattaku *SUD+ FLIP LR.RAN or FLIP",
       "comment" : "game music",
-      "level" : "9",
+      "level" : "7",
       "md5" : "95720ea0e80ea7fde2c1ffc3debecd32",
       "title" : "時空の覇者 Sa・Ga3 バトルメドレー -story ver.- (DP BLACK ANOTHER)"
    },
@@ -24206,6 +24227,13 @@
       "title" : "marquid [Boxed]"
    },
    {
+      "artist" : "455 / rio / black train",
+      "comment" : "P s y",
+      "level" : "9",
+      "md5" : "9cc30c054b4c12b886adccee7b4ff192",
+      "title" : "G e n g a o z o _ more穴クエ階段Δ"
+   },
+   {
       "artist" : "Arr. by dawn-system / Obj:ゆ～兎",
       "comment" : "GHOSTLY ROCK",
       "level" : "2",
@@ -24920,7 +24948,7 @@
       "title" : "IRREPLACEBLE THINGS [14keys-Typeα]"
    },
    {
-      "artist" : "ルゼ obj : Yamajet  *正規 or L.MIR",
+      "artist" : "ルゼ obj : Yamajet  *FLIP",
       "comment" : "神統譜",
       "level" : "★2",
       "md5" : "a16edade818b7fc1ebbcf39df5d7af0b",
@@ -26579,7 +26607,7 @@
       "title" : "L.D.2013 DP"
    },
    {
-      "artist" : "落雁 *FLIP L.MIRROR",
+      "artist" : "落雁 *FLIP L.MIR or FLIP L.MIR R.RAN",
       "comment" : "Healing Harp",
       "level" : "9",
       "md5" : "ab6fecb4e823173d59fb5491bce76622",
@@ -27797,9 +27825,9 @@
       "title" : "Aeventyr [DP EX]"
    },
    {
-      "artist" : "Ice obj:ucc *LR.RANDOM",
+      "artist" : "Ice obj:ucc *LR.RANDOM or R.MIRROR",
       "comment" : "elemental core",
-      "level" : "9",
+      "level" : "6",
       "md5" : "b3ca6f72d357a000b9d135742002cb4c",
       "title" : "glacial world [A14]"
    },
@@ -29895,6 +29923,13 @@
       "level" : "7",
       "md5" : "c0435afb47dc989146ea3ac2a56578f6",
       "title" : "Back 2 Oldskool [DP Maniac]"
+   },
+   {
+      "artist" : "white crystal / black train /まっつん /KEH",
+      "comment" : "（縦連打）",
+      "level" : "?",
+      "md5" : "c04bed2d9452adf684a6c0ef20e76f91",
+      "title" : "sensitive -DPIR-"
    },
    {
       "artist" : "455-38B *LR.RANDOM",
@@ -33138,9 +33173,9 @@
       "title" : "aliceblue (Hanase Edit) (DP ANOTHER)"
    },
    {
-      "artist" : "mattaku *SUD+ FLIP LR.RANDOM",
+      "artist" : "mattaku *SUD+ FLIP LR.RAN or FLIP",
       "comment" : "game music",
-      "level" : "8",
+      "level" : "7",
       "md5" : "d81c88971daf09f0643685f39a8cddcc",
       "title" : "時空の覇者 Sa・Ga3 バトルメドレー (DP BLACK ANOTHER)"
    },
@@ -34769,7 +34804,7 @@
       "title" : "Empty [DP ANOTHER]"
    },
    {
-      "artist" : "P4koo obj:SUGURI Visual : HAEGOE  *FLIP",
+      "artist" : "P4koo obj:SUGURI Visual : HAEGOE  *FLIP L.MIR R.RAN",
       "comment" : "Space Techno",
       "level" : "★3",
       "md5" : "e25b5496e57f23127423d2660d28e6ca",
@@ -36059,7 +36094,7 @@
    {
       "artist" : "ねこみみ魔法使い  obj:右手が恋人",
       "comment" : "HappY PoPcorN",
-      "level" : "★9",
+      "level" : "★8",
       "md5" : "eb3d1f997acb4b9359523c96677dedeb",
       "title" : "★LittlE HearTs★ [S]"
    },
@@ -36398,6 +36433,13 @@
       "level" : "8",
       "md5" : "ed4c6b5f9c69cc7fba895dbfe6bdc0da",
       "title" : "omega iii - beyond the flare EX14"
+   },
+   {
+      "artist" : "455-38B object : keh  *LR.RANDOM",
+      "comment" : "P s y",
+      "level" : "9",
+      "md5" : "ed55a9e69b61e1900b7d62bc24f48219",
+      "title" : "G e n g a o z o - 人 中 薬"
    },
    {
       "artist" : "ねこみりん / 小宮真央 / わんびぃ / obj@PEN *FLIP",
@@ -37429,7 +37471,7 @@
       "title" : "Luminance (DP ANOTHER)"
    },
    {
-      "artist" : "削除 / Mentalstock / obj:slash",
+      "artist" : "削除 / Mentalstock / obj:slash *SUD+",
       "comment" : "Overture / IDM",
       "level" : "★6",
       "md5" : "f36bc59f982bbfb5abea4a2d9de12b3f",
@@ -37935,7 +37977,7 @@
    {
       "artist" : "------ obj:nBel",
       "comment" : "Holy knight core",
-      "level" : "★9",
+      "level" : "★7",
       "md5" : "f6fbc7b6cbe28afa35fe7c22b7d94a1a",
       "title" : "Valkyrie Revolutia [Gram†LEGGENDARIA]"
    },
