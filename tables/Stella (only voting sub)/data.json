@@ -25,8 +25,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=171&event=74",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/Deublithick-INFELNO.bme",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "がむつ氏 + けえ氏/さ (a.k.a. witch's slave)",
@@ -43,6 +43,21 @@
       "voteYes" : 2
    },
    {
+      "artist" : "S-10duck-TL12XD feat. re_you Illustration by Neru&Keiyuu / obj.七海千秋",
+      "comment" : "自薦ごめん",
+      "level" : "2",
+      "md5" : "12afc145977401356772869356be0446",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "submission" : 717,
+      "title" : "JK★REVOLUTION!!!!!! -Despair-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=356&event=116",
+      "url_diff" : "https://www.dropbox.com/s/w939na9c6dim28i/JR_nanami00.bms?dl=0",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "美月 正 / obj:夢瑠",
       "comment" : "SMAAAASH!!",
       "level" : "2",
@@ -53,6 +68,21 @@
       "title" : "夕凪の丘 [yumether]",
       "url" : "http://tsubu.ath.cx/~electrogic/bms/yuunagi.rar",
       "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "anubasu-anubasu / Note:薄杏 BGA by 出前",
+      "comment" : "ガチ押し",
+      "level" : "7",
+      "md5" : "2cec58645c590720db9fc0755cbe8bef",
+      "proposer" : "otoshi.b",
+      "proposerLr2id" : 87474,
+      "submission" : 720,
+      "title" : "The Island of Albatross [EXTRA+]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=20&event=78",
+      "url_diff" : "https://drive.google.com/drive/folders/0B1yMDChuf_2sYzVKQmRoamRydlE",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -85,7 +115,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "Linne X SCTL / obj;N Visualized by Keiyuu & RED-FOX",
@@ -100,7 +130,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00912",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "BMS:くっちー / BGA:あっきー / 差分　赤い人",
@@ -128,8 +158,8 @@
       "url" : "http://cineraria-studio.com/?page_id=53",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/xrossdimension_INFELNO.bms",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "MALVA. obj : BAECON",
@@ -141,9 +171,9 @@
       "title" : "Strahlzwerg [AromaMateria]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=7&event=116",
       "url_diff" : "",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "voteNo" : 1,
+      "votePercent" : "50.00",
+      "voteYes" : 1
    },
    {
       "artist" : "櫟井唯 / 岡野佳 obj.hex",
@@ -184,6 +214,21 @@
       "title" : "galaxy fall -GALAXY-",
       "url" : "http://www.is-m.jp/",
       "url_diff" : "http://akred.web.fc2.com/baecon/_36_10000_f.bme",
+      "voteNo" : 1,
+      "votePercent" : "0.00",
+      "voteYes" : 0
+   },
+   {
+      "artist" : "dj Extrose with Miku Hatsune obj: qtp13",
+      "comment" : "物量　体力",
+      "level" : "3",
+      "md5" : "95f99a9c91102aee08d489348b5f1e06",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "submission" : 718,
+      "title" : "Synthesizer M.H. [UNINSTALL]",
+      "url" : "http://music.geocities.jp/beat_vocaloids/",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02160",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -199,6 +244,21 @@
       "title" : "SAVE The World -starlight,more Colors- [Who has lost his tail?]",
       "url" : "http://www.is-m.jp/bms/song/em42.html",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02060",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "SAMBA MASTER 佐藤 -SATOH- / reobj:Ds",
+      "comment" : "ガチ押し",
+      "level" : "7",
+      "md5" : "9f1aa034e887e925a7779e56874560cf",
+      "proposer" : "otoshi.b",
+      "proposerLr2id" : 87474,
+      "submission" : 719,
+      "title" : "レンダランド -EXTRA BOSS-",
+      "url" : "http://colosseo.nekokan.dyndns.info/c02_shuffle/detail.php?n=61",
+      "url_diff" : "http://www.geocities.jp/dsks5456/hyou.html",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -274,9 +334,24 @@
       "title" : "subconsciousness [wide]",
       "url" : "http://aquaseeds.net/",
       "url_diff" : "http://www.hyper-laner.com/table.html",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNo" : 1,
+      "votePercent" : "80.00",
       "voteYes" : 4
+   },
+   {
+      "artist" : "Another Infinity vs ZUN Remixed by くっちー / Ds BGA:chiArosCuro",
+      "comment" : "ラストだけだが面白い",
+      "level" : "1",
+      "md5" : "f4d2221e35077cd17fecbd731916d2f0",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "submission" : 716,
+      "title" : "514nm(Kucchi☆mix) [音幕フィロソフィ]",
+      "url" : "https://dropbox.bms.ms/u/95333411/BMS/k_514nm_ogg.rar",
+      "url_diff" : "http://www.geocities.jp/dsks5456/bms.html",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "NIKITA / obj:BAECON",
