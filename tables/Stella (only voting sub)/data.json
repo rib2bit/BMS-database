@@ -1,20 +1,5 @@
 [
    {
-      "artist" : "Duca/Scuderia K Remixed by Lemon beads obj : BAECON",
-      "comment" : "st8-9 区切りのある連打複合",
-      "level" : "8",
-      "md5" : "000ea160740d2bb27d0c0f5a14159f4f",
-      "proposer" : "otoshi.b",
-      "proposerLr2id" : 87474,
-      "submission" : 704,
-      "title" : "ネコイチ(Lemon beads Remix) [Castor]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=92&event=116",
-      "url_diff" : "http://akred.web.fc2.com/baecon/lemon_nekopara3_Castor.bms",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 3
-   },
-   {
       "artist" : "激辛マニア /差分赤い人",
       "level" : "4",
       "md5" : "049accd5306faaa7c668fab8b17e10e1",
@@ -26,21 +11,22 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/Deublithick-INFELNO.bme",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
-      "artist" : "がむつ氏 + けえ氏/さ (a.k.a. witch's slave)",
-      "level" : "0",
-      "md5" : "058166279df278ff728ff04067a83aa3",
-      "proposer" : "파이어",
-      "proposerLr2id" : 7290,
-      "submission" : 701,
-      "title" : "dolorosa melodia　 -EX-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=243&event=83",
-      "url_diff" : "http://sabosabun.tank.jp/",
+      "artist" : "Kyou1110 vs Takuya Namba / obj: qtp13",
+      "comment" : "総合譜面",
+      "level" : "7",
+      "md5" : "09eadf584bd4efb1f25a1be771a64e13",
+      "proposer" : "APRICOT",
+      "proposerLr2id" : 109350,
+      "submission" : 726,
+      "title" : "\"Alice in Wonderland\" : crazy apple could not live in real life [7 EX-INSANE]",
+      "url" : "https://mega.nz/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01467",
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 4
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "S-10duck-TL12XD feat. re_you Illustration by Neru&Keiyuu / obj.七海千秋",
@@ -53,6 +39,21 @@
       "title" : "JK★REVOLUTION!!!!!! -Despair-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=356&event=116",
       "url_diff" : "https://www.dropbox.com/s/w939na9c6dim28i/JR_nanami00.bms?dl=0",
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
+      "artist" : "goangra/さ BGA:WCMP",
+      "comment" : "・∀・",
+      "level" : "4",
+      "md5" : "200948e13c0940dd328f5fb1ffb365a1",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "submission" : 722,
+      "title" : "Fantasy (・∀・)",
+      "url" : "http://silentman.blog51.fc2.com/",
+      "url_diff" : "http://sabosabun.tank.jp/",
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 1
@@ -84,8 +85,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=20&event=78",
       "url_diff" : "https://drive.google.com/drive/folders/0B1yMDChuf_2sYzVKQmRoamRydlE",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "kbwnk max / obj:uet",
@@ -100,52 +101,22 @@
       "url_diff" : "https://dropbox.bms.ms/u/60346274/okbokujou/_sslh_G.zip",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
-   },
-   {
-      "artist" : "LeaF / Movie:猫太郎 obj:ほまれ",
-      "comment" : "Disaster (00532)",
-      "level" : "5",
-      "md5" : "415cdbc19c0213327147b149d3c12a82",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "submission" : 703,
-      "title" : "MEPHISTO [DISASTER]",
-      "url" : "http://leafbms.web.fc2.com/song.html",
-      "url_diff" : "http://gnqg.rosx.net/upload/",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 5
-   },
-   {
-      "artist" : "Linne X SCTL / obj;N Visualized by Keiyuu & RED-FOX",
-      "comment" : "ガチ押し",
-      "level" : "9",
-      "md5" : "50c63da030f327e60dc038d68e29c4c9",
-      "proposer" : "homare",
-      "proposerLr2id" : 79434,
-      "submission" : 713,
-      "title" : "WHIRLWIND [END]",
-      "url" : "https://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=43&order=reg&odtype=a",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00912",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
       "voteYes" : 3
    },
    {
-      "artist" : "BMS:くっちー / BGA:あっきー / 差分　赤い人",
-      "comment" : "DDeellaayy",
-      "level" : "2",
-      "md5" : "5bc86616c301d03d027881c256d2f748",
+      "artist" : "SPELL BREAK/obj:Charlotte HEART BREAK",
+      "comment" : "DELAY",
+      "level" : "4",
+      "md5" : "55172d3b87f791e0198f81d466552523",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,
-      "submission" : 685,
-      "title" : "Satori ～3rd EyEs [DELAY]",
-      "url" : "http://web.archive.org/web/20130827051814/http://big.freett.com/ykyk00/k4_satori_ogg.rar",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/_satori_delay.bms",
-      "voteNo" : 1,
-      "votePercent" : "80.00",
-      "voteYes" : 4
+      "submission" : 723,
+      "title" : "Lambda Driver [Side:A]",
+      "url" : "http://3t1a.net/bms/lambda_driver_ogg.zip",
+      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up2877.zip",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "TiS underground/差分　赤い人",
@@ -162,6 +133,21 @@
       "voteYes" : 1
    },
    {
+      "artist" : "void / obj:Tristan97 Momomi Aoyama",
+      "comment" : "物量",
+      "level" : "1",
+      "md5" : "71118bb5c2c92998df3379bebbe8691a",
+      "proposer" : "poet=san",
+      "proposerLr2id" : 104330,
+      "submission" : 721,
+      "title" : "Caelumize [Elah]",
+      "url" : "https://dropbox.bms.ms/u/65076260/void-caelumize2.rar",
+      "url_diff" : "https://drive.google.com/open?id=1nJVTX5oBnTHHYFKrUAhteH-xjb8JMG3t",
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 1
+   },
+   {
       "artist" : "MALVA. obj : BAECON",
       "level" : "0",
       "md5" : "7ec4081796258a2b21d91f90e8670cbc",
@@ -171,8 +157,8 @@
       "title" : "Strahlzwerg [AromaMateria]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=7&event=116",
       "url_diff" : "",
-      "voteNo" : 1,
-      "votePercent" : "50.00",
+      "voteNo" : 2,
+      "votePercent" : "33.33",
       "voteYes" : 1
    },
    {
@@ -187,22 +173,7 @@
       "url_diff" : "https://dl.dropboxusercontent.com/s/ixua4gbggolcdgk/yui.zip",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
-   },
-   {
-      "artist" : "onoken / selene.",
-      "comment" : "st1-2 乱打",
-      "level" : "1",
-      "md5" : "90eedb47ffdd6bccee421f527ecea7ff",
-      "proposer" : "otoshi.b",
-      "proposerLr2id" : 87474,
-      "submission" : 687,
-      "title" : "FELYS -Genocide-",
-      "url" : "http://web.archive.org/web/20070111193502/www107.sakura.ne.jp/~onoken/htmls/bms.html",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02211",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 5
    },
    {
       "artist" : "Is-m / obj:BAECON BGA:syatten",
@@ -214,7 +185,7 @@
       "title" : "galaxy fall -GALAXY-",
       "url" : "http://www.is-m.jp/",
       "url_diff" : "http://akred.web.fc2.com/baecon/_36_10000_f.bme",
-      "voteNo" : 1,
+      "voteNo" : 2,
       "votePercent" : "0.00",
       "voteYes" : 0
    },
@@ -229,8 +200,8 @@
       "title" : "Synthesizer M.H. [UNINSTALL]",
       "url" : "http://music.geocities.jp/beat_vocaloids/",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02160",
-      "voteNo" : 0,
-      "votePercent" : 0,
+      "voteNo" : 3,
+      "votePercent" : "0.00",
       "voteYes" : 0
    },
    {
@@ -245,8 +216,8 @@
       "url" : "http://www.is-m.jp/bms/song/em42.html",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02060",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "SAMBA MASTER 佐藤 -SATOH- / reobj:Ds",
@@ -260,8 +231,8 @@
       "url" : "http://colosseo.nekokan.dyndns.info/c02_shuffle/detail.php?n=61",
       "url_diff" : "http://www.geocities.jp/dsks5456/hyou.html",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "姉ヶ崎 寧々 BGA : photonskyto/obj:Monsta",
@@ -279,6 +250,36 @@
       "voteYes" : 1
    },
    {
+      "artist" : "Judah BGA:Lucifer",
+      "comment" : "前半物量後半同時押し",
+      "level" : "0",
+      "md5" : "a8089220ba650cffa6e0ce6df116c77b",
+      "proposer" : "poet=san",
+      "proposerLr2id" : 104330,
+      "submission" : 724,
+      "title" : "F13 [MASTER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=96",
+      "url_diff" : "",
+      "voteNo" : 2,
+      "votePercent" : "33.33",
+      "voteYes" : 1
+   },
+   {
+      "artist" : "EBIMAYO / Ds",
+      "comment" : "Goodtek",
+      "level" : "1",
+      "md5" : "afda25e236d10a01990cf8bfc113bb91",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "submission" : 725,
+      "title" : "GOODTEK [下]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=83&event=104",
+      "url_diff" : "http://www.geocities.jp/dsks5456/bms/goodtek.zip",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "猫蟹丸(obj.WAS)",
       "comment" : "地力",
       "level" : "1",
@@ -291,52 +292,7 @@
       "url_diff" : "http://2nd.geocities.jp/yoshi_65c816/was/list.html",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
-   },
-   {
-      "artist" : "wa. remixed celas / obj:BAECON BGA:TOHRU MiTSUHASHi",
-      "comment" : " ( >д<)､;'.･ ｸｼｮﾝ～",
-      "level" : "3",
-      "md5" : "cd04e5f97fff7b0fc1d3f3129c5c3b92",
-      "proposer" : "MEES-♬",
-      "proposerLr2id" : 39693,
-      "submission" : 693,
-      "title" : "銀の風邪",
-      "url" : "http://mok2lnbms.6.ql.bz/nijihaifu.html",
-      "url_diff" : "http://akred.web.fc2.com/baecon/_silver_wind_kaze.bme",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 5
-   },
-   {
-      "artist" : "DJ.Deplorer with DJ.EmeralD / obj:夢瑠",
-      "comment" : "SpeedRush",
-      "level" : "0",
-      "md5" : "df2158e11185a9bb575203f7442dd4cb",
-      "proposer" : "LUXURY♪",
-      "proposerLr2id" : 23110,
-      "submission" : 682,
-      "title" : "Surfacing Ship -SpeedRush RMX- [EXTRA]",
-      "url" : "http://music.geocities.jp/darkness_station/_bms/_bms.html",
-      "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 5
-   },
-   {
-      "artist" : "guna with チーム・キュッキュ / obj. laner",
-      "comment" : "認識力系ガチ押し",
-      "level" : "3",
-      "md5" : "e2961626bf567be86416967a891759db",
-      "proposer" : "otoshi.b",
-      "proposerLr2id" : 87474,
-      "submission" : 680,
-      "title" : "subconsciousness [wide]",
-      "url" : "http://aquaseeds.net/",
-      "url_diff" : "http://www.hyper-laner.com/table.html",
-      "voteNo" : 1,
-      "votePercent" : "83.33",
-      "voteYes" : 5
+      "voteYes" : 3
    },
    {
       "artist" : "Another Infinity vs ZUN Remixed by くっちー / Ds BGA:chiArosCuro",
@@ -349,8 +305,8 @@
       "title" : "514nm(Kucchi☆mix) [音幕フィロソフィ]",
       "url" : "https://dropbox.bms.ms/u/95333411/BMS/k_514nm_ogg.rar",
       "url_diff" : "http://www.geocities.jp/dsks5456/bms.html",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNo" : 3,
+      "votePercent" : "25.00",
       "voteYes" : 1
    },
    {
