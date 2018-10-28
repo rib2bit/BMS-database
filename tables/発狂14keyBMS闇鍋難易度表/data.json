@@ -1085,7 +1085,7 @@
       "title" : "恍惚之宴 [CH14]"
    },
    {
-      "artist" : "Celas / obj:Chrono *FLIP LR.MIRROR",
+      "artist" : "Celas / obj:Chrono *FLIP LR.MIR or FLIP LR.RAN",
       "comment" : "GAME MUSIC",
       "level" : "★6",
       "md5" : "06adee9e7f05329d8c3fd1fe97dea41d",
@@ -2378,6 +2378,13 @@
       "level" : "8",
       "md5" : "0ecd2b46afbb1a3f853a7211f9bfbb91",
       "title" : "ピアノ協奏曲第１番\"蠍火\"（なんでも吸い込むピンク色のための） [本家]"
+   },
+   {
+      "artist" : "Cosine BGA:うまうや、Kaoru Miyazaki / obj:Thulium",
+      "comment" : "Future Bass",
+      "level" : "2",
+      "md5" : "0ed3cf04dd716879b4ec4ef50aff2cd0",
+      "title" : "Is This Your Memory? [Insane]"
    },
    {
       "artist" : "Musical Masterpiece obj:ucc / reobj:hamburger",
@@ -6741,6 +6748,13 @@
       "title" : "異説彼岸花 第二 -終世のリコリス- [LN版DP2000KEY]"
    },
    {
+      "artist" : "Mastermind(xi+nora2r) obj:kuro iimo",
+      "comment" : "Breakthrough",
+      "level" : "8",
+      "md5" : "2bef2aaca13082016b396c6beddc4f61",
+      "title" : "Dreadnought [DP sub black another+]"
+   },
+   {
       "artist" : "Team PAPERBOY *LR.RANDOM",
       "comment" : "Deliverance [14ANOTHER]",
       "level" : "?",
@@ -8330,6 +8344,13 @@
       "title" : "race (=ﾟωﾟ)"
    },
    {
+      "artist" : "Mastermind(xi+nora2r) obj:kuro iimo",
+      "comment" : "Breakthrough",
+      "level" : "★5",
+      "md5" : "36faebee1e1c488b9de7fb942c119536",
+      "title" : "Dreadnought [DP CHALLENGER+]"
+   },
+   {
       "artist" : "Hyunesis & REnewer obj:肴",
       "comment" : "BLUE HARDCORE",
       "level" : "8",
@@ -9210,6 +9231,13 @@
       "level" : "★5",
       "md5" : "3d6216c00ac84b17717a68784b38fc7f",
       "title" : "Jack-the-Ripper◆ [14Ripper Jack]"
+   },
+   {
+      "artist" : "tcheb / mov : 石王マサト obj:kuro",
+      "comment" : "AGAINST \"The World\"",
+      "level" : "4",
+      "md5" : "3d6408517abfa86af1f9c311adc3db3c",
+      "title" : "Our Dream, Our Justice [DP Sub Black Another+]"
    },
    {
       "artist" : "SHIKI / obj:killer TOMATO *FLIP L.RANDOM R.MIRROR",
@@ -18270,6 +18298,13 @@
       "title" : "marine snow (dx edition)"
    },
    {
+      "artist" : "tcheb / mov : 石王マサト obj:kuro",
+      "comment" : "AGAINST \"The World\"",
+      "level" : "2",
+      "md5" : "776666eb989eb10b1e2cfb38367b0f33",
+      "title" : "Our Dream, Our Justice [DP Sub Another+]"
+   },
+   {
       "artist" : "Studio Chieph obj:ucc *R.MIRROR",
       "comment" : "BIGBEAT",
       "level" : "4",
@@ -20405,6 +20440,13 @@
       "title" : "Velaciela [DP ☆NOTHER]"
    },
    {
+      "artist" : "tcheb / mov : 石王マサト obj:kuro",
+      "comment" : "AGAINST \"The World\"",
+      "level" : "★3",
+      "md5" : "846d74b4e7ff080f41c28d5d5857a328",
+      "title" : "Our Dream, Our Justice [DP CHALLENGER+]"
+   },
+   {
       "artist" : "dj Extrose obj,係長 *LR.MIRROR",
       "comment" : "SPEED TEK",
       "level" : "★4",
@@ -21371,7 +21413,7 @@
       "title" : "Point Graphy [DP ANOTHER]"
    },
    {
-      "artist" : "charlotte obj. Gisela",
+      "artist" : "charlotte obj. Gisela  *FLIP",
       "comment" : "okashicore",
       "level" : "★5",
       "md5" : "8ac2cf80f2483c1b3b6d68d6baa63531",
@@ -24549,13 +24591,6 @@
       "title" : "Missing Ogre(bms edit) -DP ANOTHER-"
    },
    {
-      "artist" : "Mastermind(xi+nora2r) obj:kuro iimo",
-      "comment" : "Breakthrough",
-      "level" : "4",
-      "md5" : "9eca163a7305a02e433b1e87a1781324",
-      "title" : "Dreadnought"
-   },
-   {
       "artist" : "かゆき obj:kuro",
       "comment" : "PROGRESSIVE FUSION",
       "level" : "★7",
@@ -25331,6 +25366,13 @@
       "level" : "7",
       "md5" : "a32ec19da96aa8391db09874ea30544f",
       "title" : "Blooming [DP ANOTHER]"
+   },
+   {
+      "artist" : "xi / obj:kuro *正規 or FLIP LR.MIRROR",
+      "comment" : "RENAISSANCE HARDCORE",
+      "level" : "★6",
+      "md5" : "a34fe31e9282be5c6d7374744ebb9f8a",
+      "title" : "Halcyon [DP CHALLENGER+]"
    },
    {
       "artist" : "jet:tones / obj : Ill",
@@ -26423,6 +26465,13 @@
       "level" : "7",
       "md5" : "a99ad29f492e3bff9a8b16a9aaf708ee",
       "title" : "異説彼岸花 第一 -原初のアマリリス- [EX14]"
+   },
+   {
+      "artist" : "しらいし obj: misty.ls04　　*R.MIRROR",
+      "comment" : "J-Trance",
+      "level" : "2",
+      "md5" : "a9b1760c6e25b5d540a82d74e2f09122",
+      "title" : "幻雪夜 [粉雪]"
    },
    {
       "artist" : "paraoka/yusuke obj:けろりん",
@@ -31402,7 +31451,7 @@
       "title" : "The Panorama [あ！]†leggendaria"
    },
    {
-      "artist" : "ねこみみ魔法使い  obj:右手が恋人",
+      "artist" : "ねこみみ魔法使い  obj:右手が恋人 *FLIP LR.MIRROR",
       "comment" : "HappY PoPcorN",
       "level" : "★6",
       "md5" : "ca17c4cbd406b44018e8a8787726b8f8",
@@ -32781,6 +32830,13 @@
       "title" : "beyond the world (disturbance mix) <radio edit>"
    },
    {
+      "artist" : "xi / obj:kuro",
+      "comment" : "RENAISSANCE HARDCORE",
+      "level" : "★3",
+      "md5" : "d4440a7a6244203a9b0cdadf90a2e5ff",
+      "title" : "Halcyon [DP CHALLENGER]"
+   },
+   {
       "artist" : "由蘭 / ALICE*  obj ; N",
       "comment" : "東方怪綺談",
       "level" : "★6",
@@ -33294,7 +33350,7 @@
    {
       "artist" : "Mastermind(xi+nora2r) iimo / obj: lichtr  *MINBPM L.MIR or LR.RAN",
       "comment" : "Breakthrough",
-      "level" : "★4",
+      "level" : "★5",
       "md5" : "d87082bc27587aad465f89bf9dc49e59",
       "title" : "Dreadnought"
    },
@@ -34452,13 +34508,6 @@
       "level" : "1",
       "md5" : "df76b1ea1303f4b7e75f0db1a636b026",
       "title" : "路上のギリジン-Shou+rt Mix- [14key_hard]"
-   },
-   {
-      "artist" : "Mastermind(xi+nora2r) obj:kuro iimo",
-      "comment" : "Breakthrough",
-      "level" : "9",
-      "md5" : "df7d9a9808713e060dcd3ec112adbc7a",
-      "title" : "Dreadnought"
    },
    {
       "artist" : "Yosk! *AVERAGE FLIP",
@@ -36806,6 +36855,13 @@
       "title" : "PASERI [無理皿]"
    },
    {
+      "artist" : "Mastermind(xi+nora2r) obj:kuro iimo",
+      "comment" : "Breakthrough",
+      "level" : "4",
+      "md5" : "eeb436e6c4ac9e079187e6f1103d80b6",
+      "title" : "Dreadnought [DP sub another+]"
+   },
+   {
       "artist" : "mommy",
       "comment" : "DRUM'N'BASS",
       "level" : "3",
@@ -38213,7 +38269,7 @@
       "title" : "Twilight"
    },
    {
-      "artist" : "Project Chord Minor / Obj : .t29 *MAX+50 FLIP L.MIRROR",
+      "artist" : "Project Chord Minor / Obj : .t29 *SUD+ MAX+50",
       "comment" : "Hard Techno",
       "level" : "9",
       "md5" : "f83c71a9f56ee794de0aa872c7c86e4e",
