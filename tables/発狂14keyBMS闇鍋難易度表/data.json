@@ -1610,6 +1610,13 @@
       "title" : "Doppelganger [DPH]"
    },
    {
+      "artist" : "Andy Lee arranged by Saka-ROW組 *AVERAGE",
+      "comment" : "EUROBEAT",
+      "level" : "無理",
+      "md5" : "0a11cfde655faf58d7071428d967f170",
+      "title" : "L.D.2013 -D.P.-"
+   },
+   {
       "artist" : "SOA-ED / obj:TAKO-ED *FLIP or LR.RANDOM",
       "comment" : "DRUM'N BASS",
       "level" : "10",
@@ -3201,7 +3208,7 @@
    {
       "artist" : "nora2r / 出前 / obj:JGh *FLIP LR.MIRROR",
       "comment" : "UK HARDCORE",
-      "level" : "★1",
+      "level" : "★2",
       "md5" : "14f2af07f1e7603451c7817c9a2b3391",
       "title" : "B.B.K.K.B.K.K. (14crazy)"
    },
@@ -6183,7 +6190,7 @@
    {
       "artist" : "xarva (obj:k) *FLIP LR.MIR or FLIP R.MIR",
       "comment" : "epic house",
-      "level" : "★5",
+      "level" : "★4",
       "md5" : "28cf59439c28fa865376972ec722a659",
       "title" : "underwater sunset ［あ！］"
    },
@@ -6620,6 +6627,13 @@
       "level" : "9",
       "md5" : "2b44efdc91e18af9adb6c8a15eba6be0",
       "title" : "XIII Charlotte -INFINITY KEYS-"
+   },
+   {
+      "artist" : "DJ角煮 vs B.E. / obj:夢瑠",
+      "comment" : "FREEFORM HARDCORE",
+      "level" : "5",
+      "md5" : "2b6c4c49b938f8cfc8ae9dbf7fc9e23b",
+      "title" : "Schlaflosigkeitnacht"
    },
    {
       "artist" : "Syatten/xi-forne *LR.RANDOM",
@@ -8407,7 +8421,7 @@
       "title" : "Pop Pop Poppet [ANOTHER14]"
    },
    {
-      "artist" : "秋山 澪 obj 穂海",
+      "artist" : "秋山 澪 obj 穂海  *L.MIRROR",
       "comment" : "hard nrg",
       "level" : "★3",
       "md5" : "37abb3e34210b713637112adc006368b",
@@ -8549,7 +8563,7 @@
    {
       "artist" : "戒斗 Rustin *FLIP or L.MIRROR",
       "comment" : "プラネットランス",
-      "level" : "★3",
+      "level" : "★2",
       "md5" : "38a75166c1ea363fd0f2f521dba979d6",
       "title" : "VY Canis Majoris [Rustin's DP Hyper]"
    },
@@ -10059,6 +10073,13 @@
       "title" : "DESTINY - DPLN -"
    },
    {
+      "artist" : "Lime / Roaring Flame",
+      "comment" : "Hardcore",
+      "level" : "?",
+      "md5" : "42d4a3e658f2a1f2e5bf6912801ed14c",
+      "title" : "Daydreamer [Syndrome]"
+   },
+   {
       "artist" : "ROKINA BGA:TEKINA",
       "comment" : "MAKINA",
       "level" : "無理",
@@ -11118,7 +11139,7 @@
    {
       "artist" : "ヲルバ＝田中・ヴァニラ obj:LIEF  *R.MIRROR",
       "comment" : "IRREGULAR HI-BREAK",
-      "level" : "★3",
+      "level" : "★4",
       "md5" : "4a425e6b792ec7d91b13ba1295707e45",
       "title" : "Y"
    },
@@ -17022,6 +17043,13 @@
       "level" : "★2",
       "md5" : "701ccc06b22973d220f7407ef28f2fd1",
       "title" : "Rainy Night"
+   },
+   {
+      "artist" : "nitro / obj:alt",
+      "comment" : "SHAPESHIFTER",
+      "level" : "★6",
+      "md5" : "70237b6c2fcac1d8902d9962ffad3df1",
+      "title" : "[line:delta] [force]"
    },
    {
       "artist" : "#268[obj:mymt]",
@@ -24948,6 +24976,13 @@
       "title" : "舞姫 ～buki～　 [AFOTHER]"
    },
    {
+      "artist" : "ちんぽ *HS60 LR.S-RANDOM",
+      "comment" : "ごめんなさい",
+      "level" : "?",
+      "md5" : "a0ec899feb7d0e33750e75160f0fb008",
+      "title" : "ただの嫌がらせ2"
+   },
+   {
       "artist" : "ZUN arranged by FALL / whenya",
       "comment" : "DRUM'N'BASS",
       "level" : "6",
@@ -30401,7 +30436,7 @@
       "title" : "Bad Apple!! -YH mix- [Macintosh]"
    },
    {
-      "artist" : "kurena / obj:ED *SUD+ 正規 or R.MIR",
+      "artist" : "kurena / obj:ED *SUD+ FLIP R.MIRROR",
       "comment" : "Ancient Concerto",
       "level" : "★5",
       "md5" : "c2eec0f82b71c5c3a9218c5fae4dc02c",
@@ -38199,6 +38234,13 @@
       "title" : "Tsukuyomi [BLACKANOTHER14]"
    },
    {
+      "artist" : "渋谷凛 / 成宮由愛",
+      "comment" : "IDOL SONG / NEW GENERATION",
+      "level" : "3",
+      "md5" : "f7cba5233e404264871cd333d6775c8e",
+      "title" : "ベストフレンド [DP ANOTHER]"
+   },
+   {
       "artist" : "Team:SASAKURATION obj:ucc/reobj:hamburger *SUD+",
       "comment" : "Ω",
       "level" : "★4",
@@ -39247,6 +39289,13 @@
       "level" : "3",
       "md5" : "fef14977225affb1befb305d1e679128",
       "title" : "Dream Rocket* [14key MGNother]"
+   },
+   {
+      "artist" : "455 / rio / black train",
+      "comment" : "P s y",
+      "level" : "?",
+      "md5" : "fef6db96fea59572bd2e592b6479af99",
+      "title" : "G e n g a o z o _ MEGA  MAC  Hanon"
    },
    {
       "artist" : "innkeeper obj:azurite",
