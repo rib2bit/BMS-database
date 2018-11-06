@@ -9,8 +9,8 @@
       "url" : "http://www.geocities.jp/bmsetc/",
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "Rosenbrug Engel / UnK-now/37XP",
@@ -109,8 +109,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=324&event=83",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02240",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "onoken / obj. hplaner",
@@ -349,8 +349,8 @@
       "title" : "A c i - L - go to H E A V E N",
       "url" : "http://malie.noor.jp/",
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up2823.rar",
-      "voteNo" : 0,
-      "votePercent" : 0,
+      "voteNo" : 1,
+      "votePercent" : "0.00",
       "voteYes" : 0
    }
 ]
