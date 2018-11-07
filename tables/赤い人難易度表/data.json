@@ -7,7 +7,7 @@
       "md5" : "0043b90b1d96234cb8f72518ae2d6681",
       "name_diff" : "右クリック保存",
       "name_pack" : null,
-      "state" : 1,
+      "state" : 0,
       "tag" : null,
       "title" : "Alice in Misanthrope -厭世アリス- [INFERNO]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=501&amp;event=110",
@@ -2504,13 +2504,18 @@
    {
       "artist" : "P4koo",
       "comment" : " ",
+      "eval" : 0,
       "level" : "14",
       "lr2_bmsid" : 125281,
       "md5" : "728d65c085150c3085e8dfd68d298ca7",
       "name_diff" : "右クリック保存",
+      "name_pack" : null,
+      "state" : 0,
+      "tag" : null,
       "title" : "Electric Icicles!! [HARDEST]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=66&event=71",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/icicle-HARDEST.bms"
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/icicle-HARDEST.bms",
+      "url_pack" : null
    },
    {
       "artist" : "髭姫 feat.しゆ＆橘花音",
@@ -2599,13 +2604,18 @@
    {
       "artist" : "メアリー",
       "comment" : "★21",
+      "eval" : 0,
       "level" : "21",
       "lr2_bmsid" : 179945,
       "md5" : "777a5ba64247c1cceb02555eb268164d",
       "name_diff" : "右クリック保存",
+      "name_pack" : null,
+      "state" : 0,
+      "tag" : null,
       "title" : "Artificial Rose [INFERNO]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=363&event=83",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/ArtificialRose-INFERNOf.bms"
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/ArtificialRose-INFERNOf.bms",
+      "url_pack" : null
    },
    {
       "artist" : "Mystinia",
@@ -2913,6 +2923,21 @@
       "title" : "エーデルワイス [HARD]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=95",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/Edelweiss-HARD.bms",
+      "url_pack" : null
+   },
+   {
+      "artist" : "void / Gt. HAKKYOU-KUN nokir /obj:赤い人",
+      "comment" : "",
+      "eval" : 0,
+      "level" : "17",
+      "md5" : "87f4bdeda2791196264bdbb1a588e6b2",
+      "name_diff" : "右クリックで保存",
+      "name_pack" : null,
+      "state" : 1,
+      "tag" : null,
+      "title" : "Never Escape [HARDEST]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=274&amp;event=123",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/Never_Escape-HARDEST.bme",
       "url_pack" : null
    },
    {
@@ -3340,7 +3365,7 @@
       "md5" : "9f53ddf9b7be1648ca8b0e23166797c1",
       "name_diff" : "右クリックで保存",
       "name_pack" : null,
-      "state" : 1,
+      "state" : 0,
       "tag" : null,
       "title" : "Ladymade corestar [DELAYMASTER＋]",
       "url" : "http://bemuri.com/eventpage/kbp2012_lmcs.htm",
@@ -4039,13 +4064,18 @@
    {
       "artist" : "Alicia",
       "comment" : "",
-      "level" : "20",
+      "eval" : 0,
+      "level" : "21",
       "lr2_bmsid" : 114037,
       "md5" : "b7dff18d9aeac74702940455e90a6555",
       "name_diff" : "右クリック保存",
+      "name_pack" : null,
+      "state" : 2,
+      "tag" : null,
       "title" : "アイーシャの剣-Forcing breakthrough-ＡＮＯＴＨＥＲ＋",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=174&event=74",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/aisha_7keys.a-plus.bms"
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/aisha_7keys.a-plus.bms",
+      "url_pack" : null
    },
    {
       "artist" : "彩音",
@@ -4363,7 +4393,7 @@
       "md5" : "c6aab3bab8557c8c94f3889569d9c329",
       "name_diff" : "右クリック保存",
       "name_pack" : null,
-      "state" : 1,
+      "state" : 0,
       "tag" : null,
       "title" : "Alice in Misanthrope -厭世アリス- [HARDEST]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=501&amp;event=110",
@@ -4674,12 +4704,12 @@
       "artist" : "xenothium remixed by gmtn",
       "comment" : "",
       "eval" : 0,
-      "level" : "20",
+      "level" : "22",
       "lr2_bmsid" : 176205,
       "md5" : "d20a263deebaf93ab3c76850c2c50f81",
       "name_diff" : "右クリック保存",
       "name_pack" : null,
-      "state" : 0,
+      "state" : 2,
       "tag" : null,
       "title" : "幸なる旋律-the solitary melody- [INFERNO]",
       "url" : "http://skydrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9!111",
@@ -5151,13 +5181,18 @@
    {
       "artist" : "nora2r",
       "comment" : "",
-      "level" : "21",
+      "eval" : 0,
+      "level" : "22",
       "lr2_bmsid" : 169667,
       "md5" : "e488b404d6f5da84ea1ce98f9ac4572b",
       "name_diff" : "右クリック保存",
+      "name_pack" : null,
+      "state" : 2,
+      "tag" : null,
       "title" : "Shade of Gloria [INFERNO]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=82&event=88",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/SoG_INFERNO.bme"
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/SoG_INFERNO.bme",
+      "url_pack" : null
    },
    {
       "artist" : "cranky",
@@ -5180,6 +5215,21 @@
       "title" : "Oriens [HARD]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=214&event=83",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/Oriens_HARD.bms"
+   },
+   {
+      "artist" : "museo /obj:赤い人",
+      "comment" : "",
+      "eval" : 0,
+      "level" : "22",
+      "md5" : "e5e9d6a9aeb5dad4a58c280dd5b38976",
+      "name_diff" : "右クリックで保存",
+      "name_pack" : null,
+      "state" : 1,
+      "tag" : null,
+      "title" : "twinkle★candy☆memories [INFERNO]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=84&amp;event=123",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/_twinkle_candy_memories_INFERNO.bms",
+      "url_pack" : null
    },
    {
       "artist" : "ねこみりん",
@@ -5368,13 +5418,18 @@
    {
       "artist" : "M",
       "comment" : "",
+      "eval" : 0,
       "level" : "25",
       "lr2_bmsid" : 137627,
       "md5" : "eed9d181f6c151395589313bd6b20718",
       "name_diff" : "右クリック保存",
+      "name_pack" : null,
+      "state" : 0,
+      "tag" : null,
       "title" : "Synthesized Fortress [死ぬがよい]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=74",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/synthesized-fortress-DEATH.bme"
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/synthesized-fortress-DEATH.bme",
+      "url_pack" : null
    },
    {
       "artist" : "くっちー",
