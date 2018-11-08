@@ -15,6 +15,21 @@
       "url_pack" : null
    },
    {
+      "artist" : "立秋 feat.ちょこ /obj:赤い人",
+      "comment" : "",
+      "eval" : 0,
+      "level" : "24",
+      "md5" : "0080eadf956738164b20a1cd8cffafc1",
+      "name_diff" : "右クリックで保存",
+      "name_pack" : null,
+      "state" : 1,
+      "tag" : null,
+      "title" : "プナイプナイせんそう [INFERNO]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=104&amp;event=123",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/_punaipunai2_INFERNO.bms",
+      "url_pack" : null
+   },
+   {
       "artist" : "ETIA. feat.Jenga",
       "comment" : "",
       "eval" : 0,
@@ -5037,6 +5052,21 @@
       "title" : "Exodus [HARDEST]",
       "url" : "http://skydrive.live.com/?cid=578814ACC2BD5A74&id=578814ACC2BD5A74%21140",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/Exodus-HARDEST.bme"
+   },
+   {
+      "artist" : "立秋 feat.ちょこ /obj:赤い人",
+      "comment" : "",
+      "eval" : 0,
+      "level" : "18",
+      "md5" : "dd875b50d2eabd169af37f61ec9d0be7",
+      "name_diff" : "右クリックで保存",
+      "name_pack" : null,
+      "state" : 1,
+      "tag" : null,
+      "title" : "プナイプナイせんそう [HARDEST]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=104&amp;event=123",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/_punaipunai2_HARDEST.bms",
+      "url_pack" : null
    },
    {
       "artist" : "ETIA. feat. Jenga Movie: HDLV/obj:赤い人",
