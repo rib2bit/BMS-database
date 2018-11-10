@@ -2,7 +2,7 @@
    {
       "artist" : "II-L",
       "comment" : "高TOTAL",
-      "level" : "-1",
+      "level" : "-2",
       "lr2_bmsid" : 238803,
       "md5" : "01f4fe77b555ffb70c30f1b5cd98044b",
       "name_diff" : "",
@@ -178,7 +178,7 @@
    {
       "artist" : "plastic feat.サキト",
       "comment" : "ディレイ",
-      "level" : "5",
+      "level" : "7",
       "lr2_bmsid" : 263615,
       "md5" : "5cd3a41e8f017eb4164c6bded198ddc9",
       "name_diff" : "差分",
@@ -297,6 +297,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02044"
    },
    {
+      "artist" : "cybermiso",
+      "comment" : "低TOTAL,縦連",
+      "level" : "24",
+      "lr2_bmsid" : 265156,
+      "md5" : "99fcdc3f3180626636fefeabe3f1f069",
+      "name_diff" : "差分",
+      "title" : "ZOOQUU [Pa]",
+      "url" : "https://dropbox.bms.ms/u/45360077/watasino_h0-mupe-ji.html",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02220"
+   },
+   {
       "artist" : "R*uLuru",
       "comment" : "中速、高速乱打",
       "level" : "14",
@@ -409,7 +420,7 @@
    {
       "artist" : "qfeileadh",
       "comment" : "乱打",
-      "level" : "8",
+      "level" : "7",
       "lr2_bmsid" : 264436,
       "md5" : "bc6b095f7f03cf5f23b887062fbce81b",
       "name_diff" : "差分",
@@ -475,7 +486,7 @@
    {
       "artist" : "痛男次郎",
       "comment" : "高速乱打",
-      "level" : "11",
+      "level" : "13",
       "lr2_bmsid" : 264353,
       "md5" : "cc5abe2098468dda9baa63eeb7c39f31",
       "name_diff" : "差分",
@@ -519,7 +530,7 @@
    {
       "artist" : "ZUN/arr.みょん",
       "comment" : "微縦連,物量",
-      "level" : "23",
+      "level" : "24",
       "lr2_bmsid" : 264093,
       "md5" : "e61f34c0546717add1bd6a7aaf139a0f",
       "name_diff" : "差分",
