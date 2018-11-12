@@ -66,6 +66,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02206"
    },
    {
+      "artist" : "sa10",
+      "comment" : "高速乱打,ディレイ",
+      "level" : "12",
+      "lr2_bmsid" : 267761,
+      "md5" : "2507096c0e2020deaa62e07a6f45028c",
+      "name_diff" : "差分",
+      "title" : "Magus Logos [C4A]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=45&event=102",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02348"
+   },
+   {
       "artist" : "篠螺悠那",
       "comment" : "stella st0,同時押し気味の乱打,高TOTAL(0.32%)",
       "level" : "20",
@@ -154,6 +165,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01709"
    },
    {
+      "artist" : "sa10",
+      "comment" : "微縦連,高速乱打,ディレイ",
+      "level" : "25",
+      "lr2_bmsid" : 267763,
+      "md5" : "5816d74bdc44817234640dbbdb1784e4",
+      "name_diff" : "差分",
+      "title" : "Magus Logos [stardust]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=45&event=102",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02348"
+   },
+   {
       "artist" : "篠螺悠那",
       "comment" : "皿複合,ラスト殺し,高TOTAL(0.31%)",
       "level" : "16",
@@ -198,6 +220,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02204"
    },
    {
+      "artist" : "sa10",
+      "comment" : "微縦連,高速乱打,ディレイ",
+      "level" : "22",
+      "lr2_bmsid" : 267762,
+      "md5" : "61ab1f8adbe61611895954855a3f78a3",
+      "name_diff" : "差分",
+      "title" : "Magus Logos [master]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=45&event=102",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02348"
+   },
+   {
       "artist" : "篠螺悠那",
       "comment" : "同時押し気味の乱打,ディレイ,ラスト殺し,高TOTAL(0.3%)",
       "level" : "22",
@@ -232,7 +265,7 @@
    },
    {
       "artist" : "R*uLuru",
-      "comment" : "中速、高速乱打",
+      "comment" : "中速,高速乱打",
       "level" : "2",
       "lr2_bmsid" : 264763,
       "md5" : "797ded0efc357dea2f4cae56536ebd3b",
@@ -342,7 +375,7 @@
    },
    {
       "artist" : "エターナルコスモ斎藤",
-      "comment" : "高速乱打、同時押し",
+      "comment" : "高速乱打,同時押し",
       "level" : "20",
       "lr2_bmsid" : 264848,
       "md5" : "ac7563cd5e067287e1a0a25cbc0b0987",
@@ -397,7 +430,7 @@
    },
    {
       "artist" : "xelloscope",
-      "comment" : "微縦連、中速乱打",
+      "comment" : "微縦連,中速乱打",
       "level" : "11",
       "lr2_bmsid" : 264279,
       "md5" : "bbd516bcb709093999702faa857ff306",
@@ -431,7 +464,7 @@
    {
       "artist" : "remixed celas",
       "comment" : "ズレ乱打,ややラス殺し",
-      "level" : "13",
+      "level" : "14",
       "lr2_bmsid" : 264536,
       "md5" : "bda3ef14d781cfa2c9e4458ff2ba3ea4",
       "name_diff" : "差分",
@@ -584,7 +617,7 @@
    },
    {
       "artist" : "エターナルコスモ斎藤",
-      "comment" : "高速乱打、同時押し",
+      "comment" : "高速乱打,同時押し",
       "level" : "2",
       "lr2_bmsid" : 264847,
       "md5" : "f36d0f1522c505b515ad3a0da2e68e0d",
