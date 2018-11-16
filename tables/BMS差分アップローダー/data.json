@@ -2565,6 +2565,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01337"
    },
    {
+      "adddate" : "2018/11/17 01:55",
+      "artist" : "AlbatRos / obj.ATOM",
+      "comment" : "皿",
+      "folder" : "2018/11",
+      "genre" : "Big Beat",
+      "keys" : 7,
+      "level" : "2018/11",
+      "lr2_bmsid" : "",
+      "md5" : "0f458dd7ebcdef45131dd967f36b2403",
+      "org_level" : null,
+      "title" : "Bloody Sky[INSANE]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02377"
+   },
+   {
       "adddate" : "2018/05/13 19:12",
       "artist" : "しらいし obj: misty.ls04",
       "comment" : "物量、NORMAL判定、TOTAL値340(0.17%/note)",
@@ -26670,6 +26685,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02182"
    },
    {
+      "adddate" : "2018/11/17 02:26",
+      "artist" : "eicateve hrchem[illust] TOHRU MiTSUHASHi[movie] И[obj]",
+      "comment" : "物量、縦連",
+      "folder" : "2018/11",
+      "genre" : "Her Requiem",
+      "keys" : 7,
+      "level" : "2018/11",
+      "lr2_bmsid" : "",
+      "md5" : "a6d65584233b608b12e79db27a0cd851",
+      "org_level" : null,
+      "title" : "R.I.P. [sorry]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02378"
+   },
+   {
       "adddate" : "2018/11/05 14:05",
       "artist" : "立秋 feat.ちょこ obj:dj hamu",
       "comment" : "縦連、乱打",
@@ -27643,6 +27673,21 @@
       "title" : "ha＠ppy s＠mmer v＠c＠tion!![unha＠ppy s＠mmer v＠c＠tion!!]",
       "url" : "",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01744"
+   },
+   {
+      "adddate" : "2018/11/16 10:48",
+      "artist" : "Hbk Akazawa / Yamajet obj:.ctc",
+      "comment" : "連打複合",
+      "folder" : "2018/11",
+      "genre" : "April foon",
+      "keys" : 7,
+      "level" : "2018/11",
+      "lr2_bmsid" : "268079",
+      "md5" : "ad5bd0fa5cfd351eaecc92dcdd3969ca",
+      "org_level" : null,
+      "title" : "I will (rock you)",
+      "url" : "http://www.yamajet.com/music/list.html",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02375"
    },
    {
       "adddate" : "2017/11/23 21:00",
@@ -31065,6 +31110,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01777"
    },
    {
+      "adddate" : "2018/11/17 01:37",
+      "artist" : "ねこみりん scolded by 小宮真央 Movie:むらしん obj:七海千秋",
+      "comment" : "乱打、トリル、中殺",
+      "folder" : "2018/11",
+      "genre" : "CREATOR DISTRESS",
+      "keys" : 7,
+      "level" : "2018/11",
+      "lr2_bmsid" : "268115",
+      "md5" : "bffb19888ee064851afa21a28477075e",
+      "org_level" : null,
+      "title" : "timeleeeess!!! -Hope-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=396&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02376"
+   },
+   {
       "adddate" : "2017/02/05 17:37",
       "artist" : "zen / obj:京都306",
       "comment" : "同色配置、同時押し、微縦連、低TOTAL、NORMAL判定",
@@ -32846,8 +32906,23 @@
       "md5" : "cbf9a0c55abbd83aab1e3d04b51efbaf",
       "org_level" : null,
       "title" : "Re:End of a Dream [Dreaming of square]",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=543&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02323"
+   },
+   {
+      "adddate" : "2018/11/17 01:37",
+      "artist" : "ねこみりん scolded by 小宮真央 Movie:むらしん obj:七海千秋",
+      "comment" : "乱打、トリル、中殺",
+      "folder" : "2018/11",
+      "genre" : "CREATOR DISTRESS",
+      "keys" : 7,
+      "level" : "2018/11",
+      "lr2_bmsid" : "268118",
+      "md5" : "cc08ffc46f7ab454d024cf2ddf645e61",
+      "org_level" : null,
+      "title" : "timeleeeess!!! -Despair-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=396&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02376"
    },
    {
       "adddate" : "2017/04/22 22:55",
@@ -40438,6 +40513,21 @@
       "title" : "Black Lotus [NONSTOP BOFU2016 002H]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=138&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00231"
+   },
+   {
+      "adddate" : "2018/11/16 07:35",
+      "artist" : "星の祈り手 BGI：軌跡の紡ぎ手 /obj：monaka",
+      "comment" : "同時押し、乱打",
+      "folder" : "2018/11",
+      "genre" : "Star Trail",
+      "keys" : "7",
+      "level" : "2018/11",
+      "lr2_bmsid" : "268082",
+      "md5" : "fc1f90e561d6a4f161ccb169319338ec",
+      "org_level" : null,
+      "title" : "Pray of ShootingStar -Destination-",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02374"
    },
    {
       "adddate" : "2018/10/20 18:22",
