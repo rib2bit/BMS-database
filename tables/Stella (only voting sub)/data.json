@@ -1,19 +1,5 @@
 [
    {
-      "artist" : "Kinato",
-      "level" : "0",
-      "md5" : "0662edd19b430266883c92a0345e54ba",
-      "proposer" : "LUXURY♪",
-      "sha256" : "ac3169d0da3787d2cf6bb7f7dc9a15436ebf59f451c5cd3a08d3366deeda0f26",
-      "submission" : 755,
-      "title" : "T.S : Terminal Strike [GOD]",
-      "url" : "http://www.geocities.jp/bmsetc/",
-      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 7
-   },
-   {
       "artist" : "daiji&sa10 / obj：mitsuba",
       "comment" : "ONION YANGPARING",
       "level" : "0",
@@ -27,6 +13,19 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 4
+   },
+   {
+      "artist" : "horoscope / selene.",
+      "level" : "3",
+      "md5" : "0ec589043f9527e1290b8cdcce1d8d71",
+      "proposer" : "파이어",
+      "submission" : 772,
+      "title" : "Leonids -Eclipse-",
+      "url" : "http://nekokan.dyndns.info/~pmcc/pmcc2/index.html",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01725",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "38k/obj：双六",
@@ -55,7 +54,7 @@
       "url_diff" : "https://dl.dropboxusercontent.com/s/brslnt79i94r89w/tententen.zip",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "Ester mov : mi / powered by cymbidium / selene.",
@@ -73,21 +72,6 @@
       "voteYes" : 2
    },
    {
-      "artist" : "椎名まゆり obj.will_",
-      "comment" : "星0",
-      "level" : "3",
-      "md5" : "33ae8b607ac074ce464eef1278e46bf8",
-      "proposer" : "qtp13",
-      "sha256" : "db71a0ee89bb2770ba1543f192c675385897e356bc461d5ce7128ffc158f073b",
-      "submission" : 751,
-      "title" : "星屑アポトーシス [WILLTHER]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=324&event=83",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02240",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 6
-   },
-   {
       "artist" : "TetraElemental / Ds",
       "level" : "9",
       "md5" : "344dc70a14e735d7c425f3277cf896e9",
@@ -97,8 +81,8 @@
       "title" : "Ultimate Weapon [超越究極幻想]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=91",
       "url_diff" : "https://www.dropbox.com/s/twskvbowsajbmoy/7_ffDx.bms?dl=0",
-      "voteNo" : 0,
-      "votePercent" : 0,
+      "voteNo" : 1,
+      "votePercent" : "0.00",
       "voteYes" : 0
    },
    {
@@ -116,21 +100,6 @@
       "voteYes" : 0
    },
    {
-      "artist" : "onoken / obj. hplaner",
-      "level" : "3",
-      "md5" : "38268274d560fbd4d421fdf9eaeea39d",
-      "proposer" : "파이어",
-      "proposerLr2id" : 7290,
-      "sha256" : "a370e70978f1c93495382f25b9790d3a867f12fb46a758a0b633189aba5b7a05",
-      "submission" : 743,
-      "title" : "lataia [good posture]",
-      "url" : "http://web.archive.org/web/20070111193502/www107.sakura.ne.jp/~onoken/htmls/bms.html",
-      "url_diff" : "http://www.hyper-laner.com/sabun.html",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 4
-   },
-   {
       "artist" : "UnknownX (ZUN Remixed by rider obj:Unknown37E)",
       "level" : "11",
       "md5" : "3d69ee79e514d9805dd4f3b64d7990a0",
@@ -145,18 +114,31 @@
       "voteYes" : 1
    },
    {
-      "artist" : "Aliesrite* (Ym1024 feat. lamie*) obj.鰐",
+      "artist" : "Flat:nique obj:MineC24",
+      "comment" : "You are an idiot!",
       "level" : "1",
-      "md5" : "62657099eab2c1f0337e250c1f7cfdb0",
-      "proposer" : "파이어",
-      "sha256" : "4e7340578cbe21453a4256a60d88b68c60ba9d55070015651726c9a3850ff37e",
-      "submission" : 748,
-      "title" : "Juliet [Wander]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=461&event=110",
-      "url_diff" : "http://gnqg.rosx.net/upload/",
+      "md5" : "58b076f3855dcfe1ff7c8ebfdf0bbaa2",
+      "proposer" : "MineC24",
+      "submission" : 773,
+      "title" : "loligazou.zip [Hitomi.la]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=120",
+      "url_diff" : "https://www.dropbox.com/s/x6djrdeww5qgv10/99_egs.bms?dl=0",
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 6
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "Silentroom × mommy × Nate / selene.",
+      "level" : "3",
+      "md5" : "61fad6b61eb8491ff85248baf4470b03",
+      "proposer" : "こめっと",
+      "submission" : 768,
+      "title" : "Implexrough -Genocide-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=365&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01568",
+      "voteNo" : 1,
+      "votePercent" : "50.00",
+      "voteYes" : 1
    },
    {
       "artist" : "void feat. コツキミヤ , Gt. えば / obj:秘密 BGA : Photonskyto",
@@ -170,7 +152,7 @@
       "url_diff" : "http://www.geocities.jp/hihihi4442/hakkyou.html",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "はがね / bga:白助 obj:秘密",
@@ -185,6 +167,34 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 1
+   },
+   {
+      "artist" : "LeaF / obj:Monsta",
+      "comment" : "randa",
+      "level" : "7",
+      "md5" : "6e4ecc69bdef0ed46450b4f1d0773b96",
+      "proposer" : "Razuurene",
+      "submission" : 770,
+      "title" : "Paraclete [Ascension]",
+      "url" : "http://nonona.iptime.org/BMS_Library/Paraclete%20%5bSACRED%20ART%5d.rar",
+      "url_diff" : "http://3228monsta.web.fc2.com/paraclete.zip",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "UraL vs LiaN BGA:ujina Obj:SANY",
+      "comment" : "微縦連・乱打・ズレ　総合譜面",
+      "level" : "3",
+      "md5" : "767999b4af9bf3e467d1c7d1308eb3e8",
+      "proposer" : "リアン",
+      "submission" : 774,
+      "title" : "Non-singularity [Abnormal]",
+      "url" : "http://www.dropbox.com/s/ojuxjj281775flw/Non-singularity_fix.zip?dl=1",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01571",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "onoken obj: qtp13",
@@ -209,7 +219,7 @@
       "sha256" : "a9444d8bbbe2da17aecdde21235f5a1ec2460c5d690f1415d7e1816111dfcc64",
       "submission" : 767,
       "title" : "auf Wiedersehen",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=67&event=83",
+      "url" : "https://dropbox.bms.ms/u/106449495/aufwiedersehen.zip",
       "url_diff" : "http://gnqg.rosx.net/upload/",
       "voteNo" : 0,
       "votePercent" : 0,
@@ -228,7 +238,7 @@
       "url_diff" : "https://1drv.ms/x/s!Aoi5esJwIYCChk0BTx_U1KkswzSf",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "ROKINA BGI:REI-K / OBJ:夢瑠",
@@ -243,22 +253,6 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
-   },
-   {
-      "artist" : "beatMARIO object by Rian",
-      "comment" : "ALIEN WORLD++",
-      "level" : "3",
-      "md5" : "c5c9d1f4021f0dd14e152d6d0ec63528",
-      "proposer" : "MEES-♬",
-      "proposerLr2id" : 39693,
-      "sha256" : "ec76faa060fa7498e8159bfd3a58a502ce7cd332d50dc7f59a5e4efd6c5553c8",
-      "submission" : 739,
-      "title" : "Destined Marionette -Imagine Breaker-",
-      "url" : "http://cool-create.cc/bms/btm_mario.html",
-      "url_diff" : "https://www.dropbox.com/s/k2t5s8wixk13cp4/mario-ex.bme?dl=0",
-      "voteNo" : 1,
-      "votePercent" : "83.33",
-      "voteYes" : 5
    },
    {
       "artist" : "sukuramu42 Illust:恋々/ obj:numuto",
@@ -300,25 +294,22 @@
       "title" : "Icicle Stinger [Valanga]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=100",
       "url_diff" : "http://www.dropbox.com/s/h001dyaska858ml/10_icicle-triforce.bme?dl=0",
-      "voteNo" : 0,
-      "votePercent" : 0,
+      "voteNo" : 1,
+      "votePercent" : "0.00",
       "voteYes" : 0
    },
    {
-      "artist" : "campanellina / obj:muscleMEN",
-      "comment" : "物量",
+      "artist" : "sasakure.UK / obj:DDX",
       "level" : "1",
-      "md5" : "ecd9bd3277721b826f9e361b564c279a",
-      "proposer" : "otoshi.b",
-      "proposerLr2id" : 87474,
-      "sha256" : "bbeb435755d8be91758e7969053c8681026986d3154349ffb67ded98342919dc",
-      "submission" : 745,
-      "title" : "月と狼と砂糖菓子 [Lunatic]",
-      "url" : "http://toymusical.net/",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01974",
+      "md5" : "d7072472f308c89eb055d8704db76663",
+      "proposer" : "파이어",
+      "submission" : 771,
+      "title" : "+i m a z i n e x o+ [Limit Edition]",
+      "url" : "http://web.archive.org/web/20070727154611/http://sasakure.bms.ms/framemusic.htm",
+      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up1067.zip",
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 7
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "Team:SASAKURATION obj:C4",
@@ -350,17 +341,16 @@
       "voteYes" : 0
    },
    {
-      "artist" : "裏 吉 川 / obj: 赤羽天使",
-      "level" : "0",
-      "md5" : "f93192c89db4b6acacad74dc3623d3d6",
-      "proposer" : "LUXURY♪",
-      "sha256" : "3bb2c2b45850f286c08a95d41248fcc474b5384e22bfc0acd3ed1f33b6132d4a",
-      "submission" : 753,
-      "title" : "A c i - L - go to H E A V E N",
-      "url" : "http://malie.noor.jp/",
-      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up2823.rar",
-      "voteNo" : 3,
-      "votePercent" : "0.00",
-      "voteYes" : 0
+      "artist" : "nmk feat.橘花音 Guitar:はらたま BGA:わっふゑ / selene.",
+      "level" : "1",
+      "md5" : "fc269db1ba717f4f49398edad3f941c4",
+      "proposer" : "파이어",
+      "submission" : 769,
+      "title" : "永劫綺譚の純潔葬花 -Yellow Lily-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=202&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02264",
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    }
 ]

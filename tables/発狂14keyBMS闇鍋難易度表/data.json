@@ -987,7 +987,7 @@
       "title" : "rainy beauty DENIM"
    },
    {
-      "artist" : "SHIKI/fity(obj:A-4) *FLIP R.MIRROR",
+      "artist" : "SHIKI/fity(obj:A-4) *R.MIRROR or FLIP R.MIRROR",
       "comment" : "Trance core",
       "level" : "10",
       "md5" : "062d85c63eae694cac70bdffd0501a69",
@@ -3199,7 +3199,7 @@
       "title" : "ZANAC [TITLE - MAIN THEME] (BMS Edition)DOUBLE ANOTHER"
    },
    {
-      "artist" : "ルゼ / obj:lichtr *FLIP LR.MIRROR",
+      "artist" : "ルゼ / obj:lichtr *R.MIR or FLIP LR.MIR",
       "comment" : "PSYTEC",
       "level" : "7",
       "md5" : "14e358527f6a9364489e619cc1cac86d",
@@ -4139,7 +4139,7 @@
    {
       "artist" : "SOLVALOU obj:肴",
       "comment" : "xevious",
-      "level" : "9",
+      "level" : "8",
       "md5" : "1a8ef27f6d6a977af128cbab5de78445",
       "title" : "ゼビウス嫌い [14key]"
    },
@@ -5777,7 +5777,7 @@
    {
       "artist" : "beatMARIO OBJ : QUART  *AVERAGE",
       "comment" : "Oriental Euro",
-      "level" : "9",
+      "level" : "7",
       "md5" : "257dcec754131aa5ba3fd9ece1513418",
       "title" : "Welcome Mr.E-R [DPQ]"
    },
@@ -7861,7 +7861,7 @@
       "title" : "Papyrus [EX14]"
    },
    {
-      "artist" : "SUPER STAR 健人-TAKEHITO- / obj:lichtr *R.MIRROR",
+      "artist" : "SUPER STAR 健人-TAKEHITO- / obj:lichtr",
       "comment" : "ONLY ONE TRANCE",
       "level" : "7",
       "md5" : "33b0234e397d2b83ea5f32a35e216eec",
@@ -11125,7 +11125,7 @@
    {
       "artist" : "hurirai BGA:hrchem obj:Yosk!",
       "comment" : "Starburst",
-      "level" : "10",
+      "level" : "9",
       "md5" : "4a0cdfb39d32ff4437c2b2a9387d6753",
       "title" : "Andromeda [DP Another]"
    },
@@ -25501,7 +25501,7 @@
       "title" : "rainy beauty"
    },
    {
-      "artist" : "BMS: Nego_tiator / Movie: Fiz obj:nBel",
+      "artist" : "BMS: Nego_tiator / Movie: Fiz obj:nBel *正規 or R.MIRROR",
       "comment" : "Lyrical D'n'B",
       "level" : "★6",
       "md5" : "a3ea38289398fc8112aeff2d7a6c7b4c",
@@ -27239,7 +27239,7 @@
    {
       "artist" : "たっかー /@PEN *FLIP",
       "comment" : "typing [Realforce]",
-      "level" : "7",
+      "level" : "?",
       "md5" : "af09f042737f06b857ddab5e158d689b",
       "title" : "ｶﾁｬｶﾁｬｶﾁｬ……ｯﾀｰﾝ!!"
    },
@@ -29001,7 +29001,7 @@
       "title" : "Oceanfront City [14keys BlackAnother]"
    },
    {
-      "artist" : "Ym1024 Movie : highluin / obj:lichtr",
+      "artist" : "Ym1024 Movie : highluin / obj:lichtr  *FLIP L.MIR",
       "comment" : "Euphoric Trance",
       "level" : "8",
       "md5" : "b9e92ce664581a276df762f156b67647",
@@ -30051,7 +30051,7 @@
       "title" : "Faith. [DP HYPER]"
    },
    {
-      "artist" : "vorbis obj:azurite *R.MIRROR",
+      "artist" : "vorbis obj:azurite *R.MIRROR or FLIP",
       "comment" : "Death Hyper Techno Mission of Juliana's Tokyo",
       "level" : "7",
       "md5" : "c0435afb47dc989146ea3ac2a56578f6",
@@ -30485,9 +30485,9 @@
       "title" : "絶望と破壊のソネタ  (KAMIKAZE8)"
    },
    {
-      "artist" : "F.F.Chopin remixed by sfjjjjjj",
+      "artist" : "F.F.Chopin remixed by sfjjjjjj *FLIP L.MIRROR R.RANDOM",
       "comment" : "FM-MA2",
-      "level" : "7",
+      "level" : "4",
       "md5" : "c3351e4370035e52177f2993c7da7fc0",
       "title" : "革命のエチュード"
    },
@@ -34650,7 +34650,7 @@
       "title" : "KRAKEN [DPA]"
    },
    {
-      "artist" : "ridis  obj ; N",
+      "artist" : "ridis  obj ; N *正規 or L.MIRROR",
       "comment" : "intelligence",
       "level" : "★5",
       "md5" : "e05216f33674d459fc7164a1d138a333",
