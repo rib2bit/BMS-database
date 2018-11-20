@@ -6611,7 +6611,7 @@
       "md5" : "28cdea0800cd82cc545dde6b1ef06a52",
       "org_level" : null,
       "title" : "GAMEBOY [ANOTHER other]",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=389&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02200"
    },
    {
@@ -9328,6 +9328,21 @@
       "title" : "Jack o' Frost [King Frost]",
       "url" : "",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01719"
+   },
+   {
+      "adddate" : "2018/11/20 09:06",
+      "artist" : "eicateve hrchem[illust] TOHRU MiTSUHASHi[movie] w[object]",
+      "comment" : "",
+      "folder" : "2018/11",
+      "genre" : "Her Requiem",
+      "keys" : "7",
+      "level" : "2018/11",
+      "lr2_bmsid" : "268238",
+      "md5" : "3a5f2fe6fc40ca6451e94ea52836c353",
+      "org_level" : null,
+      "title" : "R.I.P. [W]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=123&num=339",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02399"
    },
    {
       "adddate" : "2018/02/04 03:58",
@@ -14895,6 +14910,36 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00623"
    },
    {
+      "adddate" : "2018/11/20 09:06",
+      "artist" : "eicateve hrchem[illust] TOHRU MiTSUHASHi[movie] w[object]",
+      "comment" : "",
+      "folder" : "2018/11",
+      "genre" : "Her Requiem",
+      "keys" : "7",
+      "level" : "2018/11",
+      "lr2_bmsid" : "268237",
+      "md5" : "5c3a57ced21622c67a47c51182ab432b",
+      "org_level" : null,
+      "title" : "R.I.P. [LN-W]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=123&num=339",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02399"
+   },
+   {
+      "adddate" : "2018/11/20 09:04",
+      "artist" : "eicateve hrchem[illust] TOHRU MiTSUHASHi[movie] w[object]",
+      "comment" : "LN",
+      "folder" : "2018/11",
+      "genre" : "Her Requiem",
+      "keys" : "7",
+      "level" : "2018/11",
+      "lr2_bmsid" : "268237",
+      "md5" : "5c3a57ced21622c67a47c51182ab432b",
+      "org_level" : null,
+      "title" : "R.I.P. [LN-W]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=123&num=339",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02398"
+   },
+   {
       "adddate" : "2017/10/13 22:42",
       "artist" : "Silentroom × iimo / O",
       "comment" : "BPM222",
@@ -17396,7 +17441,7 @@
       "md5" : "6c0d37102eddd177de86a304b95c647a",
       "org_level" : null,
       "title" : "バーチャルセラピー [物量セラピー]",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=167&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02362"
    },
    {
@@ -23730,6 +23775,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02227"
    },
    {
+      "adddate" : "2018/11/20 05:42",
+      "artist" : "U2 Remixed by rider うぃるば",
+      "comment" : "5個、6個押し有り16分乱打、微縦連",
+      "folder" : "2018/11",
+      "genre" : "MAKINA",
+      "keys" : 7,
+      "level" : "2018/11",
+      "lr2_bmsid" : "268236",
+      "md5" : "93f7168f2f59f17e820b33ee9986a937",
+      "org_level" : null,
+      "title" : "Missing Banquet [WILLTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=65",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02397"
+   },
+   {
       "adddate" : "2017/06/17 19:48",
       "artist" : "mitssi feat. SeeU obj:goe Movie: Sabhwa",
       "comment" : "ディレイ",
@@ -26730,6 +26790,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00604"
    },
    {
+      "adddate" : "2018/11/21 00:00",
+      "artist" : "LeaF Movie:Optie&Fiz",
+      "comment" : "",
+      "folder" : "2018/11",
+      "genre" : "PHANTASMA",
+      "keys" : 7,
+      "level" : "2018/11",
+      "lr2_bmsid" : "",
+      "md5" : "a540c995e5a4cc114ee93db84ecd0d8d",
+      "org_level" : null,
+      "title" : "MARENOL -IrrationaL-",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02407"
+   },
+   {
       "adddate" : "2017/06/02 19:35",
       "artist" : "Iron Maiden Strength / obj:O BGA / Seagle Asakura",
       "comment" : "超高速物量",
@@ -28155,6 +28230,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01401"
    },
    {
+      "adddate" : "2018/11/20 23:51",
+      "artist" : "fether obj.quad",
+      "comment" : "物量",
+      "folder" : "2018/11",
+      "genre" : "kirby pop",
+      "keys" : 7,
+      "level" : "2018/11",
+      "lr2_bmsid" : "",
+      "md5" : "ae9e44807107d6098993e08505c9fa4b",
+      "org_level" : null,
+      "title" : "☆ twinklesky ☆ [MANIAC]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02406"
+   },
+   {
       "adddate" : "2018/06/11 18:01",
       "artist" : "KaKi BGA:1B obj.Restia",
       "comment" : "乱打,地力,FILES01823修正（譜面一部変形）",
@@ -29250,6 +29340,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00880"
    },
    {
+      "adddate" : "2018/11/20 20:34",
+      "artist" : "痛男次郎 差分：ふねん",
+      "comment" : "ラス殺し　皿絡み　正規譜面推奨　乱打",
+      "folder" : "2018/11",
+      "genre" : "英國硬核",
+      "keys" : 7,
+      "level" : "2018/11",
+      "lr2_bmsid" : "268087",
+      "md5" : "b3e9eeafa1cf692aeb60e1786aff1458",
+      "org_level" : null,
+      "title" : "自強號 (ふねん)",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02400"
+   },
+   {
       "adddate" : "2017/01/13 18:58",
       "artist" : "q/stol obj:vanity",
       "comment" : "延々と皿複合　（以前に皿ろだにupしたものと同じです）",
@@ -29623,6 +29728,21 @@
       "title" : "Snowdrop-Galanthus-",
       "url" : "",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00510"
+   },
+   {
+      "adddate" : "2018/11/20 23:15",
+      "artist" : "MALVA. BGA : 焼き鳥　Illustration : しえろ。+ 萬田 / obj:SUZUKAZEΛ",
+      "comment" : "同時押し,ズレ,皿複合",
+      "folder" : "2018/11",
+      "genre" : "ALCHEMIST -V-(Neo Pagan Folk)",
+      "keys" : 7,
+      "level" : "2018/11",
+      "lr2_bmsid" : "268261",
+      "md5" : "b5d81351d5d4f462685fedad36e193d0",
+      "org_level" : null,
+      "title" : "Trane [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02404"
    },
    {
       "adddate" : "2017/10/13 20:00",
@@ -35265,6 +35385,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01098"
    },
    {
+      "adddate" : "2018/11/20 22:21",
+      "artist" : "music:すてらべえ/BGA:hopkins obj : Phosphorus",
+      "comment" : "bpm260",
+      "folder" : "2018/11",
+      "genre" : "Breakcore/Cutbreak",
+      "keys" : 7,
+      "level" : "2018/11",
+      "lr2_bmsid" : "264090",
+      "md5" : "d7f1230979fe3ed7490fd1dc5378a906",
+      "org_level" : null,
+      "title" : "Upside-down",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02402"
+   },
+   {
       "adddate" : "2017/08/23 02:17",
       "artist" : "YAN*TS",
       "comment" : "冥穴の加速地帯風に",
@@ -35745,6 +35880,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01439"
    },
    {
+      "adddate" : "2018/11/21 00:54",
+      "artist" : "Widowmaker",
+      "comment" : "ズレ、同時押し、ソフラン",
+      "folder" : "2018/11",
+      "genre" : "Ballet",
+      "keys" : 7,
+      "level" : "2018/11",
+      "lr2_bmsid" : "268286",
+      "md5" : "dc482fd951d57ff4e8c73f43b755b250",
+      "org_level" : null,
+      "title" : "Giselle [Etude]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=262&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02408"
+   },
+   {
       "adddate" : "2017/01/05 03:20",
       "artist" : "黒皇帝 Movie: 6XeNoN9",
       "comment" : "ラス殺し, 物量",
@@ -35893,6 +36043,21 @@
       "title" : "Vesta [Olbers]",
       "url" : "",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00183"
+   },
+   {
+      "adddate" : "2018/11/20 22:24",
+      "artist" : "loz / obj : pH",
+      "comment" : "高速縦連",
+      "folder" : "2018/11",
+      "genre" : "HARD ELECTROPOP",
+      "keys" : 7,
+      "level" : "2018/11",
+      "lr2_bmsid" : "265170",
+      "md5" : "dd99415b3297f6cafb5fc541259f3e2c",
+      "org_level" : null,
+      "title" : "Loony Princess -Nevertheless-",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02403"
    },
    {
       "adddate" : "2018/05/22 16:07",
@@ -36463,6 +36628,21 @@
       "title" : "caim time[hgpA]",
       "url" : "",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00411"
+   },
+   {
+      "adddate" : "2018/11/20 23:29",
+      "artist" : "SAMBA MASTER 佐藤 -SATOH- Remixed by Yosk! / obj.ATOM",
+      "comment" : "皿複合・乱打・縦連",
+      "folder" : "2018/11",
+      "genre" : "ゆったり系ティンクルポップ",
+      "keys" : 7,
+      "level" : "2018/11",
+      "lr2_bmsid" : "",
+      "md5" : "e198727c8cdd4ae2152a638da34135d1",
+      "org_level" : null,
+      "title" : "☆ウィンドサンバランド☆ -INSANE-",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02405"
    },
    {
       "adddate" : "2018/07/24 23:32",
