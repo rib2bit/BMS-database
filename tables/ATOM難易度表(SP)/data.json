@@ -37,6 +37,19 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/44river.zip"
    },
    {
+      "artist" : "AlbatRos / obj.ATOM",
+      "comment" : "皿",
+      "level" : "1",
+      "lr2_bmsid" : "0",
+      "md5" : "0f458dd7ebcdef45131dd967f36b2403",
+      "name_diff" : "DL",
+      "name_pack" : "BOF2010",
+      "reg_date" : "2018-11-23",
+      "title" : "Bloody Sky [INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=56&amp;event=65",
+      "url_diff" : "http://onzonium.at-ninja.jp/sabun/Bloody Sky.zip"
+   },
+   {
       "artist" : "赤碕 翔",
       "comment" : "重乱打・ラス殺し",
       "level" : "13",
@@ -51,7 +64,7 @@
    },
    {
       "artist" : "zen",
-      "comment" : "皿複合・BPM変化",
+      "comment" : "前半難・皿複合・BPM変化",
       "level" : "0",
       "lr2_bmsid" : "0",
       "md5" : "1156202f7de6fb8959bd9e81b2f61825",
@@ -113,6 +126,19 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/theme of maia.zip"
    },
    {
+      "artist" : "SAMBA MASTER 佐藤 -SATOH- Remixed by Yosk!",
+      "comment" : "乱打・皿・縦連",
+      "level" : "10",
+      "lr2_bmsid" : "0",
+      "md5" : "34113cb0762930da0bab5778450ce47b",
+      "name_diff" : "DL",
+      "name_pack" : "G2R2018",
+      "reg_date" : "2018-11-23",
+      "title" : "☆ウィンドサンバランド☆ -INSANE-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=13&amp;event=123",
+      "url_diff" : "http://onzonium.at-ninja.jp/sabun/☆ウィンドサンバランド☆.zip"
+   },
+   {
       "artist" : "nausiuk",
       "comment" : "☆7<br><br>皿・皿複合・縦連",
       "level" : "-1",
@@ -128,7 +154,7 @@
    {
       "artist" : "xra",
       "comment" : "リズム難・HARD判定<br><br>原曲名：megalopa",
-      "level" : "1",
+      "level" : "3",
       "lr2_bmsid" : "0",
       "md5" : "46ec0b5265dcc6132583f6446fa0c20b",
       "name_diff" : "DL",
@@ -215,19 +241,6 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/Love's Rebirth '06.zip"
    },
    {
-      "artist" : "Pipz_key*tone",
-      "comment" : "☆9<br><br>皿複合",
-      "level" : "-1",
-      "lr2_bmsid" : "0",
-      "md5" : "5f72e77564dc32462b4bd64dca904713",
-      "name_diff" : "DL",
-      "name_pack" : "BOF2004",
-      "reg_date" : "2016-06-27",
-      "title" : "Tea and Drops. [ANOTHER]",
-      "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/Tea and Drops.zip"
-   },
-   {
       "artist" : "YAMD",
       "comment" : "☆10<br><br>乱打",
       "level" : "-1",
@@ -293,7 +306,7 @@
    },
    {
       "artist" : "菊田研究所/lactate",
-      "comment" : "階段",
+      "comment" : "乱打・階段",
       "level" : "9",
       "lr2_bmsid" : "0",
       "md5" : "6cd425736a7e382bc7f8c5b5745f6091",
@@ -306,7 +319,7 @@
    },
    {
       "artist" : "Kyuu/gsaer",
-      "comment" : "乱打・左右対称",
+      "comment" : "乱打",
       "level" : "2",
       "lr2_bmsid" : "0",
       "md5" : "6d2d15c822afc2a6167c3807fd01da21",
@@ -331,7 +344,7 @@
    {
       "artist" : "Gun-SEKI",
       "comment" : "皿複合・デニム",
-      "level" : "15",
+      "level" : "17",
       "lr2_bmsid" : "0",
       "md5" : "7f6dc0b133b337c57d16cfd9cc8091ed",
       "name_diff" : "DL",
@@ -376,19 +389,6 @@
       "title" : "HIGH-ENERGY [INSANE]",
       "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/HIGH-ENERGY.zip"
-   },
-   {
-      "artist" : "Pipz_key*tone",
-      "comment" : "皿複合",
-      "level" : "0",
-      "lr2_bmsid" : "0",
-      "md5" : "9017c21994011e85ea4b0d88ae4b22f9",
-      "name_diff" : "DL",
-      "name_pack" : "BOF2004",
-      "reg_date" : "2016-06-27",
-      "title" : "Tea and Drops. [INSANE]",
-      "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/Tea and Drops.zip"
    },
    {
       "artist" : "Est",
@@ -466,8 +466,8 @@
    },
    {
       "artist" : "菊田研究所/lactate",
-      "comment" : "階段・皿",
-      "level" : "21",
+      "comment" : "階段・皿・ラス殺し",
+      "level" : "20",
       "lr2_bmsid" : "0",
       "md5" : "bca9b6fa44fa08272332eebca69f307f",
       "name_diff" : "DL",
@@ -543,7 +543,7 @@
    },
    {
       "artist" : "Gun-SEKI",
-      "comment" : "局所難",
+      "comment" : "皿・局所難",
       "level" : "2",
       "lr2_bmsid" : "0",
       "md5" : "cd5c6f97fed6929cc5f28217c80f641e",
@@ -619,6 +619,18 @@
       "title" : "Dawn of ancient bay [Gale a Moment]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=88",
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/Dawn of ancient bay.zip"
+   },
+   {
+      "artist" : "scytheleg",
+      "comment" : "☆11<br><br>LN",
+      "level" : "-1",
+      "lr2_bmsid" : "0",
+      "md5" : "f5cd57f449cdaccce69031f51284dacd",
+      "name_diff" : "DL",
+      "reg_date" : "2018-11-23",
+      "title" : "the Rough Ocean -INSANE-",
+      "url" : "http://scytheleg.sakura.ne.jp/",
+      "url_diff" : "http://onzonium.at-ninja.jp/sabun/the Rough Ocean.zip"
    },
    {
       "artist" : "野球君",
