@@ -96,8 +96,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=138&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02304",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "UnknownX (ZUN Remixed by rider obj:Unknown37E)",
@@ -238,7 +238,7 @@
       "url_diff" : "https://1drv.ms/x/s!Aoi5esJwIYCChk0BTx_U1KkswzSf",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "ROKINA BGI:REI-K / OBJ:夢瑠",
@@ -308,8 +308,8 @@
       "url" : "http://web.archive.org/web/20070727154611/http://sasakure.bms.ms/framemusic.htm",
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up1067.zip",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "Team:SASAKURATION obj:C4",
