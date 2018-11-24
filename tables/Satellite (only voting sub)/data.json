@@ -5,13 +5,14 @@
       "level" : "7",
       "md5" : "0749104be4e059e275928ea5c463f36d",
       "proposer" : "ZEUS",
+      "sha256" : "2962ea5aa98be9cb7cfa97bfe437bffaeb331917c4d478cd18dbae39c41852fe",
       "submission" : 143,
       "title" : "Funny Funky Freaky [HARD+]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=225&event=96",
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 10
+      "voteYes" : 11
    },
    {
       "artist" : "mommy",
@@ -19,19 +20,21 @@
       "level" : "0",
       "md5" : "07baa34abf34131ee20ab40b70354037",
       "proposer" : "Haze*",
+      "sha256" : "206b7c1b30d4c12805f0c4cb2ce8ce0ece18b40ef2531221e0faa09cf660c3d1",
       "submission" : 144,
       "title" : "Precious!!! [7key,Another]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=357&event=110",
       "url_diff" : "",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 21
+      "voteYes" : 22
    },
    {
       "artist" : "litmus* / obj.7zs",
       "level" : "9",
       "md5" : "08cd57615b032334aea711bff8392254",
       "proposer" : "こめっと",
+      "sha256" : "b85c6dc055d1b9c3319c1f311686750144077fc0fc13ca25b2a7864fe6affd01",
       "submission" : 145,
       "title" : "All is fair in Rage [Toasty Fatality]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=104",
@@ -46,12 +49,13 @@
       "level" : "4",
       "md5" : "09a53abb1e8ef781291f16d2debcc9d2",
       "proposer" : "MineC24",
+      "sha256" : "4c539ebe2f5a8ab955e8232247efb7534cd092d92699157e7a3cee5e2a00c8da",
       "submission" : 153,
       "title" : "loves honey, crazy apple. [wasted]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=44",
       "url_diff" : "https://www.dropbox.com/s/1bm78fwhtsfir62/lhca_mi.bms?dl=0",
-      "voteNo" : 7,
-      "votePercent" : "30.00",
+      "voteNo" : 8,
+      "votePercent" : "27.27",
       "voteYes" : 3
    },
    {
@@ -60,13 +64,14 @@
       "level" : "3",
       "md5" : "0b1b155fe41684cab37abaca57f7894e",
       "proposer" : "qtp13",
+      "sha256" : "ba2d5ed5284e42c7b366977eda608e0294e57f25d17b4babc2739b2d95abe72f",
       "submission" : 168,
       "title" : "Demagogie [Hetzerei]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=43&event=108",
       "url_diff" : "http://swamelo.web.fc2.com/_demagogie_hetzerei.bme",
       "voteNo" : 1,
-      "votePercent" : "91.67",
-      "voteYes" : 11
+      "votePercent" : "92.86",
+      "voteYes" : 13
    },
    {
       "artist" : "stereoberry/zero img teritory/obj:shion",
@@ -74,26 +79,28 @@
       "level" : "4",
       "md5" : "0dad43bc6edddcc93d4c6f18ec777469",
       "proposer" : "スノート",
+      "sha256" : "c46728bc4dd365764cfd353e70b14153d197425f3f324e659201b7a0b1f500d7",
       "submission" : 149,
       "title" : "ametsuchi [SP EXTRA]",
       "url" : "http://stereoberry.sakura.tv/index.html",
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
       "voteNo" : 2,
-      "votePercent" : "77.78",
-      "voteYes" : 7
+      "votePercent" : "80.00",
+      "voteYes" : 8
    },
    {
       "artist" : "ZUN remixed by LeaF / obj:けろささ Movie:Optie",
       "level" : "11",
       "md5" : "0fdfa48d94bf63953661e8ebb0658dd8",
       "proposer" : "selene.",
+      "sha256" : "c3a9cf7ee8269614d6af4f0ef9d3da7dc7e9f301a6b878ae5ba714746f463f0a",
       "submission" : 142,
       "title" : "Wizdomiot [Kerother]",
       "url" : "http://leafbms.web.fc2.com/song.html",
       "url_diff" : "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html",
       "voteNo" : 3,
-      "votePercent" : "70.00",
-      "voteYes" : 7
+      "votePercent" : "72.73",
+      "voteYes" : 8
    },
    {
       "artist" : "哀愁マニア / obj.siokaze",
@@ -101,13 +108,14 @@
       "level" : "7",
       "md5" : "16b56701b2f846875a26dda621a132dd",
       "proposer" : "双六",
+      "sha256" : "7c55b1bdd37c70d62660396a69faa0d840a2423c9b597e9f6726b1178eb017d8",
       "submission" : 169,
       "title" : "the lost dedicated [nostalgia]",
       "url" : "http://onedrive.live.com/?cid=EDC72D529484CBCB&id=EDC72D529484CBCB!212",
       "url_diff" : "http://siokazebms.web.fc2.com/",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 11
+      "voteYes" : 12
    },
    {
       "artist" : "Rethisly BGA:るっかるか / obj:monaka",
@@ -115,25 +123,27 @@
       "level" : "4",
       "md5" : "1950f0e6809f704ac5ec63969ae24f9f",
       "proposer" : "C4",
+      "sha256" : "8ee0ac735f9a78335908c77607961ba0fec81a3edafe7879df48c014290a7d87",
       "submission" : 161,
       "title" : "Amethyst Moon -Pure White Crystal-",
       "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/9/",
       "url_diff" : "https://ux.getuploader.com/monaka_sabun_2/download/164",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
+      "voteYes" : 11
    },
    {
       "artist" : "zun/さ",
       "level" : "7",
       "md5" : "222f24744711abaca445689a9d5d8ae1",
       "proposer" : "파이어",
+      "sha256" : "838af86c3a35174a2ad7c7d9ab813670c916bc762c2983c58b155bbd41721e93",
       "submission" : 163,
       "title" : "感情の摩天楼 ～ Cosmic Mind (NORMAL)",
       "url" : "http://nekokan.dyndns.info/~lobsak/genocide/archive.html",
       "url_diff" : "http://sabosabun.tank.jp/",
-      "voteNo" : 6,
-      "votePercent" : "25.00",
+      "voteNo" : 8,
+      "votePercent" : "20.00",
       "voteYes" : 2
    },
    {
@@ -142,13 +152,14 @@
       "level" : "2",
       "md5" : "3b48a96876e3c65f9598a7ae9d95e6ba",
       "proposer" : "KIYOM99",
+      "sha256" : "463f50b25c49bd2a9b4e4eaa5d432dff01a8dd809f6b88449afce9be954fff72",
       "submission" : 141,
       "title" : "Central DELAY [BEGINNER]",
       "url" : "http://nothing.sh/~manbow/event/event.cgi?action=More_def&num=23&event=60",
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up2698.zip",
-      "voteNo" : 4,
-      "votePercent" : "71.43",
-      "voteYes" : 10
+      "voteNo" : 5,
+      "votePercent" : "68.75",
+      "voteYes" : 11
    },
    {
       "artist" : "椎名まゆり / obj:Monsta",
@@ -156,6 +167,7 @@
       "level" : "8",
       "md5" : "4191102b46752138740949f43ba6a3f5",
       "proposer" : "qtp13",
+      "sha256" : "2736a8a4caae82e7dd6eba09e7ce032834ae529f9390aba97080be325e61d815",
       "submission" : 165,
       "title" : "星屑アポトーシス [Monsther+]",
       "url" : "https://www.dropbox.com/s/8k9jv25hpd9u42n/%E6%98%9F%E5%B1%91%E3%82%A2%E3%83%9D%E3%83%88%E3%83%BC%E3%82%B7%E3%82%B9.zip?dl=0",
@@ -171,6 +183,7 @@
       "md5" : "42b597e0fc9d2ad51909f774275464ae",
       "proposer" : "スノート",
       "proposerLr2id" : 86393,
+      "sha256" : "ce3cc0d5fb4acd3924f7b2d7508bb47b02a49986a079bd747df15452e8d439a8",
       "submission" : 137,
       "title" : "EXILE -NEMESIS-",
       "url" : "http://malie.noor.jp/",
@@ -185,26 +198,28 @@
       "level" : "1",
       "md5" : "46340426b571b819debe96a6739bd88b",
       "proposer" : "qtp13",
+      "sha256" : "6118ebb5399ab5bad273bcdfb534df6bcfa3b2b2d8a77e03ebcec7e6b0f1a7db",
       "submission" : 170,
       "title" : "ドキドキ☆ココロ☆フレーバー (Lemon beads Hands-Up bootleg) [Le Jardin Ensoleile]",
       "url" : "http://yaruki0.sakura.ne.jp/event/A1_6th/impression.cgi?no=13",
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 14
+      "voteYes" : 16
    },
    {
       "artist" : "Sound piercer & Sobrem",
       "level" : "7",
       "md5" : "49cb4664ae8b5ca5ab355ed892875ed1",
       "proposer" : "Haze*",
+      "sha256" : "d370be9c3470fbb5ee83743c6260911e352422871979dd32a34aec86fcfe5549",
       "submission" : 166,
       "title" : "ロスト：ユートピアと真理と純粋の極彩世界 [SP ANOTHER]",
       "url" : "https://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=70&order=reg&odtype=a",
       "url_diff" : "",
       "voteNo" : 1,
-      "votePercent" : "92.86",
-      "voteYes" : 13
+      "votePercent" : "93.33",
+      "voteYes" : 14
    },
    {
       "artist" : "しらいし / 32 / obj:firi.",
@@ -212,12 +227,13 @@
       "level" : "10",
       "md5" : "540ad15cb16c6a7f4e5f5e3613135bfc",
       "proposer" : "w2w2",
+      "sha256" : "79903429a469171136ed813f8a759d9e8dddb5bb113868570dc1de4ad91796c6",
       "submission" : 152,
       "title" : "超絶速鍵練習曲第一番「銀世界」",
       "url" : "https://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21208",
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up4076.zip",
-      "voteNo" : 6,
-      "votePercent" : "40.00",
+      "voteNo" : 7,
+      "votePercent" : "36.36",
       "voteYes" : 4
    },
    {
@@ -226,12 +242,13 @@
       "level" : "5",
       "md5" : "54b5c1308567fd9d175482abada00fa7",
       "proposer" : "MineC24",
+      "sha256" : "05cb0eb9ec7a77212cafbe187c484657bc96825ac8bece4d6883dffd48c30635",
       "submission" : 139,
       "title" : "地獄の業火で焼肉大会！？ [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=110",
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
-      "voteNo" : 3,
-      "votePercent" : "75.00",
+      "voteNo" : 4,
+      "votePercent" : "69.23",
       "voteYes" : 9
    },
    {
@@ -240,13 +257,14 @@
       "level" : "10",
       "md5" : "59446f34a621f4566692dcb2cebadefa",
       "proposer" : "こめっと",
+      "sha256" : "f757291b96b739187116deacebc2f82a46e8cef40c2d0d6ecc325c5c160ed986",
       "submission" : 133,
       "title" : "T'Suramic [SP RUNOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=505&event=110",
       "url_diff" : "http://kspinbms.web.fc2.com/insane.html",
       "voteNo" : 1,
-      "votePercent" : "88.89",
-      "voteYes" : 8
+      "votePercent" : "90.00",
+      "voteYes" : 9
    },
    {
       "artist" : "LeaF Movie:Optie / obj:SUZUKAZEΛ",
@@ -254,13 +272,14 @@
       "level" : "5",
       "md5" : "6be2b837d15a10983c6b26248a6b75a9",
       "proposer" : "ZEUS",
+      "sha256" : "2c0f4fecda9ff7e098c04400948cd4a772bcd0e6baee1856ede03aa2176ec5c2",
       "submission" : 138,
       "title" : "もぺもぺ [ZOI-SC]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=219&event=116",
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNo" : 5,
-      "votePercent" : "66.67",
-      "voteYes" : 10
+      "votePercent" : "68.75",
+      "voteYes" : 11
    },
    {
       "artist" : "Ym1024 feat. lamie* Movie : highluin / obj:BAECON",
@@ -268,13 +287,14 @@
       "level" : "1",
       "md5" : "6e6b8fcc58523f177e532938b87bf8f4",
       "proposer" : "ZEUS",
+      "sha256" : "ecf87c542d8d33ecbc6f300b5319bb4c38702c3fad531d3f8b370f8dc0be3f93",
       "submission" : 140,
       "title" : "rePrayer [7key EX]",
       "url" : "http://yellowmapleleaf.com/",
       "url_diff" : "http://akred.web.fc2.com/baecon/rePrayer_7-10_EX.bme",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 16
+      "voteYes" : 18
    },
    {
       "artist" : "MIDI:mozell BMS:Geek",
@@ -282,26 +302,28 @@
       "level" : "4",
       "md5" : "7959bf2189b1c16849d1cb4f0c819bfb",
       "proposer" : "C4",
+      "sha256" : "181677fdd2408ba3c0652d28970465014a744a7d45ce045dc13ba0905c8aa3c3",
       "submission" : 146,
       "title" : "バンバード ～Piano Version～ [sunny]",
       "url" : "http://ux.getuploader.com/BMS_share/",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00754",
       "voteNo" : 2,
-      "votePercent" : "85.71",
-      "voteYes" : 12
+      "votePercent" : "87.50",
+      "voteYes" : 14
    },
    {
       "artist" : "chocolate max/さ-flm",
       "level" : "3",
       "md5" : "7a789d79d6179b253c9b762ba44487b9",
       "proposer" : "파이어",
+      "sha256" : "da137bae39d2913a09beacc1a069068cf8e01d3111d86ed7b7ef7cd93c8c5e80",
       "submission" : 159,
       "title" : "＊CinnamoN＊",
       "url" : "http://web.archive.org/web/20070817081433/http://sasakure.bms.ms/bms/cinnamon.zip",
-      "url_diff" : "",
-      "voteNo" : 3,
-      "votePercent" : "75.00",
-      "voteYes" : 9
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01272",
+      "voteNo" : 4,
+      "votePercent" : "71.43",
+      "voteYes" : 10
    },
    {
       "artist" : "RiraN / obj.7zs",
@@ -309,13 +331,14 @@
       "level" : "3",
       "md5" : "7d6532887254b85e0b79c587f71e6706",
       "proposer" : "monaka",
+      "sha256" : "6cedb2d3990ef9f2e0a8fed99ebfdbefc1104b9957109be26feb5c200a6c804e",
       "submission" : 154,
       "title" : "Unshakable [Spiral Horn]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=192&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/",
       "voteNo" : 5,
-      "votePercent" : "70.59",
-      "voteYes" : 12
+      "votePercent" : "73.68",
+      "voteYes" : 14
    },
    {
       "artist" : "Yu^ta",
@@ -323,13 +346,14 @@
       "level" : "5",
       "md5" : "85c0986764c694d970873d72d028dfda",
       "proposer" : "sagoo",
+      "sha256" : "646267e1678bc8e09cb95dc8a193017d53f8b5d850eb6b3f9d6176e2137715e3",
       "submission" : 155,
       "title" : "CLOUDY PARK [Crepuscular Ray]",
       "url" : "http://yuinore.net/2017/02/smc-package/",
       "url_diff" : "",
       "voteNo" : 1,
-      "votePercent" : "88.89",
-      "voteYes" : 8
+      "votePercent" : "90.00",
+      "voteYes" : 9
    },
    {
       "artist" : "Negentropy / obj:AMERIA Movie:Vogeln",
@@ -337,12 +361,13 @@
       "level" : "5",
       "md5" : "88e7d0747983b331e35a264719c41e67",
       "proposer" : "C4",
+      "sha256" : "d41380a6b19daf44f78c8073310286f5d3969ac7d072d757a25d6b28f9a27a5a",
       "submission" : 150,
       "title" : "ouroVoros [SP AMETHER-A]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=383&event=116",
       "url_diff" : "http://ameria3141.web.fc2.com/bmssabun.html",
-      "voteNo" : 3,
-      "votePercent" : "72.73",
+      "voteNo" : 4,
+      "votePercent" : "66.67",
       "voteYes" : 8
    },
    {
@@ -351,13 +376,14 @@
       "level" : "2",
       "md5" : "91dc7d0c5d3ccf39804fcac66bf2424c",
       "proposer" : "MineC24",
+      "sha256" : "6775c621b4ae6ced181bf60437417446c27b097b41eae3d02c7e249a3e3630f9",
       "submission" : 160,
       "title" : "Anzu no Kakkoi Ongaku [SP EXTRA]",
       "url" : "http://www.dropbox.com/s/xxirwf100ifbaef/anzu.zip?dl=1",
       "url_diff" : "http://www.dropbox.com/s/wchlsyqyf9a5qd3/anzu_spe.bms?dl=0",
-      "voteNo" : 4,
-      "votePercent" : "63.64",
-      "voteYes" : 7
+      "voteNo" : 5,
+      "votePercent" : "64.29",
+      "voteYes" : 9
    },
    {
       "artist" : "2X / obj:bw3",
@@ -365,13 +391,14 @@
       "level" : "4",
       "md5" : "a1e87a31918c2285a7258d09b4b8aceb",
       "proposer" : "KIYOM99",
+      "sha256" : "77e9bc056b40963a38b198d933532335df2920aa1cb3e7c9fd09a4cce29f895b",
       "submission" : 134,
       "title" : "TEN [Ryether]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=74",
       "url_diff" : "http://blackwheel3.web.fc2.com/sabun.htm",
-      "voteNo" : 3,
-      "votePercent" : "75.00",
-      "voteYes" : 9
+      "voteNo" : 4,
+      "votePercent" : "71.43",
+      "voteYes" : 10
    },
    {
       "artist" : "ああああ / obj:lime",
@@ -379,13 +406,14 @@
       "level" : "4",
       "md5" : "a59c03e4f7ba52e93c1bac00b9044f0a",
       "proposer" : "AAAAA",
+      "sha256" : "84417728b0edd13f1b77b35a3f4031c5e7efdf159b2f203630247e7cffac9958",
       "submission" : 156,
       "title" : "マージナル＊フロンティア [Maple forest]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=430&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00459",
-      "voteNo" : 5,
-      "votePercent" : "44.44",
-      "voteYes" : 4
+      "voteNo" : 7,
+      "votePercent" : "41.67",
+      "voteYes" : 5
    },
    {
       "artist" : "void / tes obj:monaka",
@@ -393,13 +421,14 @@
       "level" : "6",
       "md5" : "ab84c7f922e034182a7e1edac1148433",
       "proposer" : "nono22",
+      "sha256" : "caa302b122e1afb592116604dee7d36f493a4babeae00317491fa56daa68d084",
       "submission" : 148,
       "title" : "reverieland [7KEYS EXTRA]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=120",
       "url_diff" : "https://ux.getuploader.com/monaka_sabun_2/download/155",
       "voteNo" : 2,
-      "votePercent" : "77.78",
-      "voteYes" : 7
+      "votePercent" : "81.82",
+      "voteYes" : 9
    },
    {
       "artist" : "guna / obj. hplaner",
@@ -407,6 +436,7 @@
       "level" : "9",
       "md5" : "acfdf1b27737d248ff4a7419927838fc",
       "proposer" : "こめっと",
+      "sha256" : "c449bc3fbfc23d067b3468ba49f92e1f2a21bc2c94e5bcfe8511bc0e376fddbb",
       "submission" : 135,
       "title" : "雪月夜鐘 [まだまだ走れます]",
       "url" : "http://aquaseeds.net/archives/rickytick_bell_hq.rar",
@@ -421,13 +451,14 @@
       "level" : "10",
       "md5" : "ad6d4631747d7aa03530a5db4b9120c7",
       "proposer" : "BAECON",
+      "sha256" : "bde4c91f99cbcb0968af128f51696d40e380063d976150a24d6f7438edb12ec8",
       "submission" : 167,
       "title" : "Bloody Scarlet Nightmare [Li]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=102",
       "url_diff" : "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html",
       "voteNo" : 2,
-      "votePercent" : "75.00",
-      "voteYes" : 6
+      "votePercent" : "77.78",
+      "voteYes" : 7
    },
    {
       "artist" : "38k / obj:NASA",
@@ -435,13 +466,14 @@
       "level" : "3",
       "md5" : "b096eb7be1ff27a5c5fa52abd272d421",
       "proposer" : "なさ式",
+      "sha256" : "3e1d72f3439dfaabacb471d1b8e322d4bc7aa862a87f4ee4a823bc67db85ad57",
       "submission" : 162,
       "title" : "虫 [Insecta]",
       "url" : "http://www.geocities.jp/rf_mirai/",
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
       "voteNo" : 1,
-      "votePercent" : "92.86",
-      "voteYes" : 13
+      "votePercent" : "93.33",
+      "voteYes" : 14
    },
    {
       "artist" : "enxel vs D.J.Nero obj:HNNK",
@@ -449,6 +481,7 @@
       "level" : "8",
       "md5" : "b43131e9629cb9a403b9d68cac794a0e",
       "proposer" : "nono22",
+      "sha256" : "580658e8b1dd14969da2f97775da5091bf02db9c3c19186a844456d0c472f75a",
       "submission" : 158,
       "title" : "Misdirection [Black children]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=425&event=88",
@@ -462,13 +495,14 @@
       "level" : "10",
       "md5" : "b53162a6ed6659406cae48612e943faf",
       "proposer" : "파이어",
+      "sha256" : "8bb38247d45d854aa6fb5b6b07ae7ea5af2a54aff06f38ed6be642408d6a4d78",
       "submission" : 157,
       "title" : "7SP:雪の少女-MorningDash!Mix- [EXTREME]",
       "url" : "http://web.archive.org/web/20070107083252/http://yoshinoya.dnsalias.com:8888/knm/2005_n_snowgarl.lzh",
       "url_diff" : "http://absolute.pv.land.to/Anotherbms.html",
       "voteNo" : 1,
-      "votePercent" : "87.50",
-      "voteYes" : 7
+      "votePercent" : "90.00",
+      "voteYes" : 9
    },
    {
       "artist" : "Darkist/obj:YAN*TS vs C4",
@@ -476,13 +510,14 @@
       "level" : "0",
       "md5" : "c80b46aad4650d02933ca4af53a0b010",
       "proposer" : "monaka",
+      "sha256" : "87be870762fb0ed832dc5ccf842ce33e8019564d35e904ec3d4a497663546c20",
       "submission" : 147,
       "title" : "Blood Castle -Bloody-",
       "url" : "http://www.dropbox.com/s/0kz7y0osqskqozk/%5BLR2%20Ranking%20FIXED%5DBlood%20Castle.zip",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01939",
       "voteNo" : 1,
-      "votePercent" : "92.31",
-      "voteYes" : 12
+      "votePercent" : "92.86",
+      "voteYes" : 13
    },
    {
       "artist" : "ラスとルークと奈那樹",
@@ -490,6 +525,7 @@
       "level" : "7",
       "md5" : "cfaa1f297853a71273fe9e337b9fb2f5",
       "proposer" : "turtle",
+      "sha256" : "43861b604d174743131ad9399b04462262f1e7e3252334110391fda95eced5b7",
       "submission" : 132,
       "title" : "ASTRO [NANATHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=240&event=65",
@@ -503,13 +539,14 @@
       "level" : "8",
       "md5" : "d6df89a6cdd857ac7d4ef68e616e55f8",
       "proposer" : "selene.",
+      "sha256" : "788270e016c4a09f957a5da7f90179de66087533409a8bfd960bd57cab76003b",
       "submission" : 151,
       "title" : "Fantasy (-ω-)",
       "url" : "http://www.dropbox.com/s/dfr9k18083pjd5s/fantasy.ogg.zip",
       "url_diff" : "http://sabosabun.tank.jp/",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 12
+      "voteYes" : 13
    },
    {
       "artist" : "DG LIFE@EXAM.S/BGA.HEART CREATE // obj:arnain",
@@ -517,6 +554,7 @@
       "level" : "8",
       "md5" : "e115470e6564e18d22b19272cf74e175",
       "proposer" : "Kraken.G",
+      "sha256" : "f44848861f4205679c6571b9c2dbde4b1dfaab0ebe306928b1e80b7a426c50bf",
       "submission" : 131,
       "title" : "Sonic speed in the sky [crystal]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=71",
@@ -531,13 +569,14 @@
       "level" : "4",
       "md5" : "eb9439bd4d6e1f8af4bcf25cfb6b175d",
       "proposer" : "なさ式",
+      "sha256" : "01afaaef3f4e41acba21d7e1d318dadc90953cd2763cad3cd4fd0d2ed939eb6e",
       "submission" : 164,
       "title" : "DESPERATE DEATHPARADE [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=154&event=116",
       "url_diff" : "",
-      "voteNo" : 4,
-      "votePercent" : "63.64",
-      "voteYes" : 7
+      "voteNo" : 6,
+      "votePercent" : "57.14",
+      "voteYes" : 8
    },
    {
       "artist" : "be5moti / うまるつふり obj:Fender",
@@ -545,12 +584,13 @@
       "level" : "7",
       "md5" : "ed2bf0415324f3903c64f44ae0b22f7c",
       "proposer" : "selene.",
+      "sha256" : "cfbe1e2fa9c74306db2bea67eaf00447169588bb922a70f7b19313d7a8f7cc20",
       "submission" : 136,
       "title" : "Trahison [F]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=63&event=102",
       "url_diff" : "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html",
       "voteNo" : 5,
-      "votePercent" : "54.55",
-      "voteYes" : 6
+      "votePercent" : "64.29",
+      "voteYes" : 9
    }
 ]

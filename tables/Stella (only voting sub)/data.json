@@ -12,20 +12,21 @@
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up2027.rar",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "horoscope / selene.",
       "level" : "3",
       "md5" : "0ec589043f9527e1290b8cdcce1d8d71",
       "proposer" : "파이어",
+      "sha256" : "b84d640b8180787db8d74dd9815d4183f28ce65ca9c582345c1dc6ba1aaf6e54",
       "submission" : 772,
       "title" : "Leonids -Eclipse-",
       "url" : "http://nekokan.dyndns.info/~pmcc/pmcc2/index.html",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01725",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "38k/obj：双六",
@@ -119,12 +120,13 @@
       "level" : "1",
       "md5" : "58b076f3855dcfe1ff7c8ebfdf0bbaa2",
       "proposer" : "MineC24",
+      "sha256" : "dcfc93ddbee5fc697cf2f62cf3c3d34107547b787b3b8f7997c2b46e3d790868",
       "submission" : 773,
       "title" : "loligazou.zip [Hitomi.la]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=120",
       "url_diff" : "https://www.dropbox.com/s/x6djrdeww5qgv10/99_egs.bms?dl=0",
-      "voteNo" : 0,
-      "votePercent" : 0,
+      "voteNo" : 1,
+      "votePercent" : "0.00",
       "voteYes" : 0
    },
    {
@@ -132,13 +134,14 @@
       "level" : "3",
       "md5" : "61fad6b61eb8491ff85248baf4470b03",
       "proposer" : "こめっと",
+      "sha256" : "921d0ff21f15b39482084e63246ef9e1d588bdcd636a09cd7b7d36e3d0d3b418",
       "submission" : 768,
       "title" : "Implexrough -Genocide-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=365&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01568",
       "voteNo" : 1,
-      "votePercent" : "50.00",
-      "voteYes" : 1
+      "votePercent" : "66.67",
+      "voteYes" : 2
    },
    {
       "artist" : "void feat. コツキミヤ , Gt. えば / obj:秘密 BGA : Photonskyto",
@@ -174,6 +177,7 @@
       "level" : "7",
       "md5" : "6e4ecc69bdef0ed46450b4f1d0773b96",
       "proposer" : "Razuurene",
+      "sha256" : "dcc54d0bc3d3de26064dca99af15877829dcacd7bc37477634f4fc1360a747be",
       "submission" : 770,
       "title" : "Paraclete [Ascension]",
       "url" : "http://nonona.iptime.org/BMS_Library/Paraclete%20%5bSACRED%20ART%5d.rar",
@@ -188,13 +192,14 @@
       "level" : "3",
       "md5" : "767999b4af9bf3e467d1c7d1308eb3e8",
       "proposer" : "リアン",
+      "sha256" : "07d43738e4b591116524d6e8506765c5c324808c29092d4e8ec715ab2573a738",
       "submission" : 774,
       "title" : "Non-singularity [Abnormal]",
       "url" : "http://www.dropbox.com/s/ojuxjj281775flw/Non-singularity_fix.zip?dl=1",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01571",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "onoken obj: qtp13",
@@ -251,8 +256,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=103",
       "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "sukuramu42 Illust:恋々/ obj:numuto",
@@ -281,8 +286,8 @@
       "url" : "http://shiki2.sakura.ne.jp/bms.shtml",
       "url_diff" : "http://www.ribbit.xyz/bms/tables/bmsuploader.html",
       "voteNo" : 1,
-      "votePercent" : "80.00",
-      "voteYes" : 4
+      "votePercent" : "83.33",
+      "voteYes" : 5
    },
    {
       "artist" : "ROKINA Illust:出前 / Obj.Triforce",
@@ -294,7 +299,7 @@
       "title" : "Icicle Stinger [Valanga]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=100",
       "url_diff" : "http://www.dropbox.com/s/h001dyaska858ml/10_icicle-triforce.bme?dl=0",
-      "voteNo" : 1,
+      "voteNo" : 2,
       "votePercent" : "0.00",
       "voteYes" : 0
    },
@@ -303,13 +308,14 @@
       "level" : "1",
       "md5" : "d7072472f308c89eb055d8704db76663",
       "proposer" : "파이어",
+      "sha256" : "80343c703b63ef48c7a9c9025aa3154e88026b93bfd09b2f217ceb88b11d2943",
       "submission" : 771,
       "title" : "+i m a z i n e x o+ [Limit Edition]",
       "url" : "http://web.archive.org/web/20070727154611/http://sasakure.bms.ms/framemusic.htm",
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up1067.zip",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "Team:SASAKURATION obj:C4",
@@ -345,12 +351,13 @@
       "level" : "1",
       "md5" : "fc269db1ba717f4f49398edad3f941c4",
       "proposer" : "파이어",
+      "sha256" : "761b23c2d7a3310d647b66395c9cf4e3a350d8b60256675d6df69659378fe44e",
       "submission" : 769,
       "title" : "永劫綺譚の純潔葬花 -Yellow Lily-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=202&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02264",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    }
 ]
