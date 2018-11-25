@@ -725,6 +725,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "ridis /obj. laner",
+      "level" : "1",
+      "md5" : "1066a4dd2a935ef76487ad2970b83025",
+      "proposer" : "파이어",
+      "sha256" : "af5196c7e661c6ea21e9a43b352512644c8e66a85024b4d158383f2c77fc4568",
+      "submission" : 775,
+      "title" : "Rigel [laner]",
+      "url" : "https://onedrive.live.com/?authkey=%21AJleBqQEnxtF%2DuQ&id=B34BD1F8ACE93FD7%21138&cid=B34BD1F8ACE93FD7",
+      "url_diff" : "http://www.hyper-laner.com/sabun.html",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "翡乃イスカ / obj : LindBlum彡☆",
       "level" : "8",
       "md5" : "11906c4d8afcb377c7b7a0a611a6011a",
@@ -4743,7 +4757,7 @@
    },
    {
       "artist" : "void feat. コツキミヤ , Gt. えば / obj:秘密 BGA : Photonskyto",
-      "level" : "6",
+      "level" : "7",
       "md5" : "641e70eb12f9e0f1a3a3f1b4361c5ee9",
       "proposer" : "LUXURY♪",
       "sha256" : "9f333ce8df4530b6e9e4f2c9c602923320c8f5addfac317d6f6f8eda2bb51e90",
@@ -5737,6 +5751,20 @@
       "title" : "Qualia [情け無用]",
       "url" : "http://blog.livedoor.jp/junk_life5/archives/1970644.html",
       "url_diff" : "http://hakkanbms.web.fc2.com/"
+   },
+   {
+      "artist" : "しらいし/さ",
+      "level" : "0",
+      "md5" : "7c566134ca0e091e4c60f26c140cffa8",
+      "proposer" : "파이어",
+      "sha256" : "7429a680c3123753c02d5d92ad194f5bd39d7426b4ca4f16f24da3bff65d0132",
+      "submission" : 779,
+      "title" : "硬核機動 [EX]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=106&event=83",
+      "url_diff" : "http://sabosabun.tank.jp/",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "SHIKI / 真紅",
@@ -6868,6 +6896,20 @@
       "title" : "AVALON -Genocide-",
       "url" : "https://mega.nz/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01754",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "HOUJIROU/さ",
+      "level" : "1",
+      "md5" : "96a9c4d3238d82b057cefb31c564fc7f",
+      "proposer" : "파이어",
+      "sha256" : "ef7c3df69a59a2f28899334935fe7fbc4f10b088009fce3eb03fa7d1593340dc",
+      "submission" : 777,
+      "title" : "☆Traveling Sunstar☆　 [EX]",
+      "url" : "http://web.archive.org/web/20160328151138/http://page.freett.com/takacyan930/takacyan930index.htm",
+      "url_diff" : "http://sabosabun.tank.jp/",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -8173,6 +8215,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "remixed celas feat.ARU/さ",
+      "level" : "1",
+      "md5" : "b61a8bcfc8f6595c42c6c003cd208cf5",
+      "proposer" : "こめっと",
+      "sha256" : "00339d7b9fc732b21bf0c439f816566100f6c72734ce204820eac18bd57b5c50",
+      "submission" : 778,
+      "title" : "BlythE:ExtenD [SABOTHER]",
+      "url" : "http://oblivion.dip.jp/creation/index.htm",
+      "url_diff" : "http://sabosabun.tank.jp/",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "モリモリあつし / Ds",
       "comment" : "PUPA",
       "level" : "4",
@@ -9309,7 +9365,7 @@
    {
       "artist" : "SHIKI / obj:DDX",
       "comment" : "HAPPY",
-      "level" : "0",
+      "level" : "2",
       "md5" : "d012f9fbe125aa49e48755ea4fbbb1db",
       "proposer" : "LUXURY♪",
       "sha256" : "b2b6952d111b66202955094cbb366b6cc4c07c11fe0413f03644c9ef740c7730",
@@ -9824,6 +9880,21 @@
       "title" : "Polymorphism [MUTATION]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00489",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "Le Dos-on arranged by s-don illust : jubeated / obj.hex",
+      "comment" : "全押し、微縦連",
+      "level" : "4",
+      "md5" : "d95899dec9e80a8814c3009120926db0",
+      "proposer" : "こめっと",
+      "sha256" : "b1d599335033fa435d4480ecee9a7f1e93c09f550d3fa2b1ac4de731201ea4c2",
+      "submission" : 776,
+      "title" : "Howling the Nightmare (bms edit) [Pentagon]",
+      "url" : "https://drive.google.com/uc?export=download&id=1LUaxsOA1SIlLgysyhvo5Wv47k6FH9OCX",
+      "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
