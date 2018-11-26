@@ -28,34 +28,19 @@
       "voteYes" : 0
    },
    {
-      "artist" : "2X obj.hex",
-      "comment" : "手動ディレイ",
-      "level" : "3",
-      "md5" : "201d63bb3bb44abd0e71d251574e3c0d",
-      "proposer" : "スノート",
-      "sha256" : "41098e9325e3040c7f0249e8e75b30ce560615345833e747219dde422dcb62c5",
-      "submission" : 756,
-      "title" : "TENTEN",
-      "url" : "http://dl.dropbox.com/s/esdofbda23knp9w/TEN.zip?dl=1",
-      "url_diff" : "https://dl.dropboxusercontent.com/s/brslnt79i94r89w/tententen.zip",
+      "artist" : "CELLON. / obj.7zs BGA : lysnA",
+      "comment" : "00334 st0~1 縦連、同時押し",
+      "level" : "0",
+      "md5" : "513a3d5f613632ce688627a31a636756",
+      "proposer" : "qtp13",
+      "sha256" : "2dfa93be25c6739f740a6c7afd4f76d4171d3b0b9ce5c2a7ea7f5d8f8fddb0d1",
+      "submission" : 780,
+      "title" : "Virtual mode [Lucid Dreaming]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=398&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/",
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 5
-   },
-   {
-      "artist" : "Ester mov : mi / powered by cymbidium / selene.",
-      "comment" : "物量",
-      "level" : "2",
-      "md5" : "2d2b7f8fcfbaac57e2619baab85944fb",
-      "proposer" : "こめっと",
-      "sha256" : "e16250d20ca0ebb8798953b8111538c0eff482cd122a3f5209d9f713dceadc69",
-      "submission" : 746,
-      "title" : "Dizzolve -Genocide-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=56&event=116",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02202",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "Flat:nique obj:MineC24",
@@ -87,18 +72,18 @@
       "voteYes" : 2
    },
    {
-      "artist" : "はがね / bga:白助 obj:秘密",
-      "level" : "4",
-      "md5" : "68c7f76d2c4480f52b94afd0eb60013a",
-      "proposer" : "파이어",
-      "sha256" : "b617107d8fd0d92af20bfcb4a1d15bf26e7e5e4490100fd294f05fb4bb3cbd50",
-      "submission" : 747,
-      "title" : "Mirage Imitation [To the Aerosphere]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=101",
-      "url_diff" : "http://www.geocities.jp/yjsnpi_kitanai_kusai_unko/BOB2015/BOB2015_k_4_3_1.html",
+      "artist" : "ZUN remix by 44teru-k / obj:Monsta",
+      "level" : "3",
+      "md5" : "6b2c39cbde20afa9422305a12f0de451",
+      "proposer" : "MEES-♬",
+      "sha256" : "0cc137cac696714ae13a99820465e9a38a3281bbf664186a9b72086536426dfe",
+      "submission" : 782,
+      "title" : "感情の摩天楼～PandoraBox [HELL]",
+      "url" : "http://skydrive.live.com/?cid=FD93B4F2CB8CD95F&id=FD93B4F2CB8CD95F%21105",
+      "url_diff" : "http://3228monsta.web.fc2.com/",
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 3
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "LeaF / obj:Monsta",
@@ -141,22 +126,23 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=106&event=83",
       "url_diff" : "http://sabosabun.tank.jp/",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
-      "artist" : "onoken obj: qtp13",
-      "level" : "1",
-      "md5" : "7f1623b119446641b90ed9ac88396566",
+      "artist" : "Hermit / obj:Monsta",
+      "comment" : "物量と連打",
+      "level" : "2",
+      "md5" : "8bcd4ae8622a1d54957488025921286c",
       "proposer" : "qtp13",
-      "sha256" : "a219f4db0372d641ee8e5334b15fddd6767e8e8f92121683e0e6ac9888157f68",
-      "submission" : 757,
-      "title" : "P8107 -Paramount-",
-      "url" : "http://web.archive.org/web/20070111193502/www107.sakura.ne.jp/~onoken/htmls/bms.html",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02247",
+      "sha256" : "93d9efc7b730e5ddfd836c27816b7d660c7b358d8f24fe01744522632cca86a3",
+      "submission" : 781,
+      "title" : "Hypnos -Monsther-",
+      "url" : "http://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9!111",
+      "url_diff" : "http://3228monsta.web.fc2.com/",
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 4
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "HOUJIROU/さ",
@@ -171,21 +157,6 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
-   },
-   {
-      "artist" : "wa. / obj. Limite",
-      "comment" : "複合連打、二重縦連、ラス殺し",
-      "level" : "4",
-      "md5" : "b3d6e72449ffaf9bbf3f6688aa966dee",
-      "proposer" : "LimiteKNJ",
-      "sha256" : "3e551a647a0d87554ea2003dabc3244e9d2b0f683a3365648cfdff58aec65d1a",
-      "submission" : 752,
-      "title" : "事象の地平 [終わっていない事件]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=320&event=88",
-      "url_diff" : "https://1drv.ms/x/s!Aoi5esJwIYCChk0BTx_U1KkswzSf",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 4
    },
    {
       "artist" : "remixed celas feat.ARU/さ",
@@ -258,21 +229,6 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
-   },
-   {
-      "artist" : "Team:SASAKURATION obj:C4",
-      "comment" : "ひたすら中速乱打",
-      "level" : "1",
-      "md5" : "f09e9464ff30610c02a258e2230aa998",
-      "proposer" : "C4",
-      "sha256" : "ac8053c825e9bdf9a0d6dde2394ae3627045f95f1bef5978643be2508ced3767",
-      "submission" : 750,
-      "title" : "エピトゥリカの祀 [cprac-hard]",
-      "url" : "http://web.archive.org/web/20120415195317/http://sasakure.bms.ms/bof2008/epitorica_mq.rar",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02128",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 4
    },
    {
       "artist" : "Magic Mash Man / New Genuine Magicial Girl / obj:Paz_L / reobj:Ds",

@@ -3971,6 +3971,21 @@
       "voteYes" : 0
    },
    {
+      "artist" : "CELLON. / obj.7zs BGA : lysnA",
+      "comment" : "00334 st0~1 縦連、同時押し",
+      "level" : "0",
+      "md5" : "513a3d5f613632ce688627a31a636756",
+      "proposer" : "qtp13",
+      "sha256" : "2dfa93be25c6739f740a6c7afd4f76d4171d3b0b9ce5c2a7ea7f5d8f8fddb0d1",
+      "submission" : 780,
+      "title" : "Virtual mode [Lucid Dreaming]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=398&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "ROKINA あ",
       "comment" : "T R U E E N D",
       "level" : "3",
@@ -5058,6 +5073,20 @@
       "title" : "Dstorv [Other]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=212&event=96",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00559"
+   },
+   {
+      "artist" : "ZUN remix by 44teru-k / obj:Monsta",
+      "level" : "3",
+      "md5" : "6b2c39cbde20afa9422305a12f0de451",
+      "proposer" : "MEES-♬",
+      "sha256" : "0cc137cac696714ae13a99820465e9a38a3281bbf664186a9b72086536426dfe",
+      "submission" : 782,
+      "title" : "感情の摩天楼～PandoraBox [HELL]",
+      "url" : "http://skydrive.live.com/?cid=FD93B4F2CB8CD95F&id=FD93B4F2CB8CD95F%21105",
+      "url_diff" : "http://3228monsta.web.fc2.com/",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "髭姫 feat.しゆ＆橘花音＆えみゅう。 LYRICS：やんばるん BGA：髭姫 Arr.Milk_tya obj：BAECON",
@@ -6389,6 +6418,21 @@
       "title" : "煉獄-Priestess",
       "url" : "http://www.dropbox.com/s/t0tcsnl0z29uaho/%E7%85%89%E7%8D%84-Priestess.zip?dl=0",
       "url_diff" : "",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "Hermit / obj:Monsta",
+      "comment" : "物量と連打",
+      "level" : "2",
+      "md5" : "8bcd4ae8622a1d54957488025921286c",
+      "proposer" : "qtp13",
+      "sha256" : "93d9efc7b730e5ddfd836c27816b7d660c7b358d8f24fe01744522632cca86a3",
+      "submission" : 781,
+      "title" : "Hypnos -Monsther-",
+      "url" : "http://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9!111",
+      "url_diff" : "http://3228monsta.web.fc2.com/",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
