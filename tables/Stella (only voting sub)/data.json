@@ -159,6 +159,21 @@
       "voteYes" : 0
    },
    {
+      "artist" : "syatten + 140 obj:Icyc1e",
+      "comment" : "kachifushi",
+      "level" : "0",
+      "md5" : "ac1ee1dc099f597643ae175c394d6faa",
+      "proposer" : "LUXURY♪",
+      "sha256" : "e95b0d025b7ec4c4f42a53c56a5db479302215661ff418a3dc922085cf8f69a4",
+      "submission" : 786,
+      "title" : "Evangelize (Radio Edit) (Icyther)",
+      "url" : "http://www.dropbox.com/sh/xrr3fvlhagzsmm2/AAC0HdK_kps6UCKtDFTCkpJea/bms/Evangelize%20(Radio%20Edit).rar?dl=0",
+      "url_diff" : "https://ux.getuploader.com/Icyc1e_by_bms/index/date/desc/2",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "remixed celas feat.ARU/さ",
       "level" : "1",
       "md5" : "b61a8bcfc8f6595c42c6c003cd208cf5",
@@ -184,7 +199,21 @@
       "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
+   },
+   {
+      "artist" : "裏 吉 川 / obj:DDX, loxe1234",
+      "level" : "5",
+      "md5" : "c4a9a9cb65e09aab60870d68e19b5e8b",
+      "proposer" : "LUXURY♪",
+      "sha256" : "72f265555f543dcd264aaed30af126b7961eb66b9fdf3505807742530b5bcf4c",
+      "submission" : 784,
+      "title" : "A c i - L - Limit Edition+",
+      "url" : "http://malie.noor.jp/",
+      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up0357.zip",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "sukuramu42 Illust:恋々/ obj:numuto",
@@ -200,6 +229,21 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 3
+   },
+   {
+      "artist" : "STR ALL STARS / obj : 0samil0",
+      "comment" : "サンバランドみたいな",
+      "level" : "2",
+      "md5" : "d1424c88e6ddc31fd60ecf4b102e88d8",
+      "proposer" : "qtp13",
+      "sha256" : "3f8dcd95704deef65bb4958116d8e106b70ed29c4ab59fb1653f675e539cfa26",
+      "submission" : 783,
+      "title" : "CHAIN REACTION -LAST BOSS-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=352&event=83",
+      "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "sasakure.UK / obj:DDX",
@@ -242,6 +286,6 @@
       "url_diff" : "http://www.geocities.jp/dsks5456/hyou.html",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    }
 ]
