@@ -24,6 +24,20 @@
       "url" : "https://onedrive.live.com/?authkey=%21AJleBqQEnxtF%2DuQ&id=B34BD1F8ACE93FD7%21138&cid=B34BD1F8ACE93FD7",
       "url_diff" : "http://www.hyper-laner.com/sabun.html",
       "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 1
+   },
+   {
+      "artist" : "Lime / Mega",
+      "level" : "1",
+      "md5" : "1c72dd3095f58c181a4a686858eec87b",
+      "proposer" : "파이어",
+      "sha256" : "d887dc9a64e086d69988d1af2b6c2a553ab77880a7fe87cc067dd5127b4915d0",
+      "submission" : 787,
+      "title" : "Stargazer [Simultaneous]",
+      "url" : "http://kanki2.net/bms.html",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01982",
+      "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
    },
@@ -38,22 +52,7 @@
       "title" : "Virtual mode [Lucid Dreaming]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=398&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/",
-      "voteNo" : 2,
-      "votePercent" : "0.00",
-      "voteYes" : 0
-   },
-   {
-      "artist" : "Flat:nique obj:MineC24",
-      "comment" : "You are an idiot!",
-      "level" : "1",
-      "md5" : "58b076f3855dcfe1ff7c8ebfdf0bbaa2",
-      "proposer" : "MineC24",
-      "sha256" : "dcfc93ddbee5fc697cf2f62cf3c3d34107547b787b3b8f7997c2b46e3d790868",
-      "submission" : 773,
-      "title" : "loligazou.zip [Hitomi.la]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=120",
-      "url_diff" : "https://www.dropbox.com/s/x6djrdeww5qgv10/99_egs.bms?dl=0",
-      "voteNo" : 1,
+      "voteNo" : 4,
       "votePercent" : "0.00",
       "voteYes" : 0
    },
@@ -70,6 +69,20 @@
       "voteNo" : 1,
       "votePercent" : "66.67",
       "voteYes" : 2
+   },
+   {
+      "artist" : "guna / hyperlaner",
+      "level" : "1",
+      "md5" : "646e08761457d990d3c4d21b6e875b45",
+      "proposer" : "파이어",
+      "sha256" : "f6911ea0266ed40238fb78d4872e7ebf02bba556d5f0662b0c76a698baacc572",
+      "submission" : 789,
+      "title" : "Lamellibrachia [laner]",
+      "url" : "http://aquaseeds.net/archives/tentax_guna_lamellibrachia_HQ.rar",
+      "url_diff" : "http://www.hyper-laner.com/sabun.html",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "ZUN remix by 44teru-k / obj:Monsta",
@@ -113,7 +126,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01571",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "しらいし/さ",
@@ -188,20 +201,6 @@
       "voteYes" : 1
    },
    {
-      "artist" : "ROKINA BGI:REI-K / OBJ:夢瑠",
-      "level" : "1",
-      "md5" : "b9a6a2c114565f1e225d6cfbc1dcc900",
-      "proposer" : "파이어",
-      "sha256" : "29e20b2744249ead3cd2a1522c162136072046d9ab4a58eb4bed88006fc95420",
-      "submission" : 761,
-      "title" : "Reinforced Soul [yumether]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=103",
-      "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
-   },
-   {
       "artist" : "裏 吉 川 / obj:DDX, loxe1234",
       "level" : "5",
       "md5" : "c4a9a9cb65e09aab60870d68e19b5e8b",
@@ -213,22 +212,7 @@
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up0357.zip",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
-   },
-   {
-      "artist" : "sukuramu42 Illust:恋々/ obj:numuto",
-      "comment" : "連打複合",
-      "level" : "7",
-      "md5" : "c77f0fcb2e448529a386deff770d6f34",
-      "proposer" : "BAECON",
-      "sha256" : "401810d639422c30c816280079159f552c076aadf035bc3206cf55abea6b7e0e",
-      "submission" : 760,
-      "title" : "Exploring the blue sky [Heaven]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=101",
-      "url_diff" : "https://ux.getuploader.com/numuther/download/15",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 3
    },
    {
       "artist" : "STR ALL STARS / obj : 0samil0",
@@ -244,6 +228,21 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 2
+   },
+   {
+      "artist" : "HOUJIROU / ob： :peten4",
+      "comment" : "Moral",
+      "level" : "2",
+      "md5" : "d27f4262b2532c2ad4310d8de9d42ffa",
+      "proposer" : "LUXURY♪",
+      "sha256" : "0ecc2cb410be40cdb872a8648806977f9c98af23f89d84f0f2c914ec333a8eea",
+      "submission" : 790,
+      "title" : "Fastraffic [Moral Hazard'K12']",
+      "url" : "http://houjirou.at-ninja.jp/",
+      "url_diff" : "http://blueberrystreams4u.web.fc2.com/hbms.html",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "sasakure.UK / obj:DDX",
@@ -271,21 +270,21 @@
       "url" : "https://drive.google.com/uc?export=download&id=1LUaxsOA1SIlLgysyhvo5Wv47k6FH9OCX",
       "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
-      "artist" : "Magic Mash Man / New Genuine Magicial Girl / obj:Paz_L / reobj:Ds",
-      "level" : "2",
-      "md5" : "f53473139123a2436570f8d443bc8068",
-      "proposer" : "LUXURY♪",
-      "sha256" : "f1dd0fc2237e5efe99cd09b0a0fb9f8b3093c00e4c2e4f08b9d912fedb750505",
-      "submission" : 763,
-      "title" : "AXION [EX]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=67",
-      "url_diff" : "http://www.geocities.jp/dsks5456/hyou.html",
+      "artist" : "uma obj:kinoko",
+      "level" : "0",
+      "md5" : "f6eff5cce175bdad4f7eec7815d2d23b",
+      "proposer" : "파이어",
+      "sha256" : "2e2bb2242f7a779a7fce25c14dbcb8b5c0eb0d4da561f0faaf990277a808b12b",
+      "submission" : 788,
+      "title" : "Angel Wing [LEGEND]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=123&event=96",
+      "url_diff" : "http://absolute.pv.land.to/uploader/src/up5695.zip",
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 4
+      "votePercent" : 0,
+      "voteYes" : 0
    }
 ]

@@ -1266,6 +1266,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Lime / Mega",
+      "level" : "1",
+      "md5" : "1c72dd3095f58c181a4a686858eec87b",
+      "proposer" : "파이어",
+      "sha256" : "d887dc9a64e086d69988d1af2b6c2a553ab77880a7fe87cc067dd5127b4915d0",
+      "submission" : 787,
+      "title" : "Stargazer [Simultaneous]",
+      "url" : "http://kanki2.net/bms.html",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01982",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "Yu^ta /差分 赤い人",
       "level" : "3",
       "md5" : "1cb91a4319dce2d1c0971557bbccbddd",
@@ -4811,6 +4825,20 @@
       "title" : "VEIN - Phantom Punisher [AWOKEN]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=175&event=116",
       "url_diff" : "",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "guna / hyperlaner",
+      "level" : "1",
+      "md5" : "646e08761457d990d3c4d21b6e875b45",
+      "proposer" : "파이어",
+      "sha256" : "f6911ea0266ed40238fb78d4872e7ebf02bba556d5f0662b0c76a698baacc572",
+      "submission" : 789,
+      "title" : "Lamellibrachia [laner]",
+      "url" : "http://aquaseeds.net/archives/tentax_guna_lamellibrachia_HQ.rar",
+      "url_diff" : "http://www.hyper-laner.com/sabun.html",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -9659,6 +9687,21 @@
       "voteYes" : 0
    },
    {
+      "artist" : "HOUJIROU / ob： :peten4",
+      "comment" : "Moral",
+      "level" : "2",
+      "md5" : "d27f4262b2532c2ad4310d8de9d42ffa",
+      "proposer" : "LUXURY♪",
+      "sha256" : "0ecc2cb410be40cdb872a8648806977f9c98af23f89d84f0f2c914ec333a8eea",
+      "submission" : 790,
+      "title" : "Fastraffic [Moral Hazard'K12']",
+      "url" : "http://houjirou.at-ninja.jp/",
+      "url_diff" : "http://blueberrystreams4u.web.fc2.com/hbms.html",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "TOMA obj.XYZ",
       "comment" : "1:2:3:4:5:6:7:8",
       "level" : "0",
@@ -11153,6 +11196,20 @@
       "title" : "Air revolution -LEFT-",
       "url" : "http://www.is-m.jp/bms/song/em19.html",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02041",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "uma obj:kinoko",
+      "level" : "0",
+      "md5" : "f6eff5cce175bdad4f7eec7815d2d23b",
+      "proposer" : "파이어",
+      "sha256" : "2e2bb2242f7a779a7fce25c14dbcb8b5c0eb0d4da561f0faaf990277a808b12b",
+      "submission" : 788,
+      "title" : "Angel Wing [LEGEND]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=123&event=96",
+      "url_diff" : "http://absolute.pv.land.to/uploader/src/up5695.zip",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
