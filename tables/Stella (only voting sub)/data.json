@@ -38,8 +38,8 @@
       "url" : "http://kanki2.net/bms.html",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01982",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "CELLON. / obj.7zs BGA : lysnA",
@@ -81,8 +81,8 @@
       "url" : "http://aquaseeds.net/archives/tentax_guna_lamellibrachia_HQ.rar",
       "url_diff" : "http://www.hyper-laner.com/sabun.html",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "ZUN remix by 44teru-k / obj:Monsta",
@@ -285,6 +285,6 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up5695.zip",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    }
 ]
