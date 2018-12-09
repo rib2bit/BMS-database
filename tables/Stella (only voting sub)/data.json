@@ -1,19 +1,5 @@
 [
    {
-      "artist" : "horoscope / selene.",
-      "level" : "3",
-      "md5" : "0ec589043f9527e1290b8cdcce1d8d71",
-      "proposer" : "파이어",
-      "sha256" : "b84d640b8180787db8d74dd9815d4183f28ce65ca9c582345c1dc6ba1aaf6e54",
-      "submission" : 772,
-      "title" : "Leonids -Eclipse-",
-      "url" : "http://nekokan.dyndns.info/~pmcc/pmcc2/index.html",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01725",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 3
-   },
-   {
       "artist" : "ridis /obj. laner",
       "level" : "1",
       "md5" : "1066a4dd2a935ef76487ad2970b83025",
@@ -39,36 +25,50 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01982",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
-   },
-   {
-      "artist" : "CELLON. / obj.7zs BGA : lysnA",
-      "comment" : "00334 st0~1 縦連、同時押し",
-      "level" : "0",
-      "md5" : "513a3d5f613632ce688627a31a636756",
-      "proposer" : "qtp13",
-      "sha256" : "2dfa93be25c6739f740a6c7afd4f76d4171d3b0b9ce5c2a7ea7f5d8f8fddb0d1",
-      "submission" : 780,
-      "title" : "Virtual mode [Lucid Dreaming]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=398&event=110",
-      "url_diff" : "http://gnqg.rosx.net/upload/",
-      "voteNo" : 4,
-      "votePercent" : "0.00",
-      "voteYes" : 0
-   },
-   {
-      "artist" : "Silentroom × mommy × Nate / selene.",
-      "level" : "3",
-      "md5" : "61fad6b61eb8491ff85248baf4470b03",
-      "proposer" : "こめっと",
-      "sha256" : "921d0ff21f15b39482084e63246ef9e1d588bdcd636a09cd7b7d36e3d0d3b418",
-      "submission" : 768,
-      "title" : "Implexrough -Genocide-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=365&event=116",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01568",
-      "voteNo" : 1,
-      "votePercent" : "75.00",
       "voteYes" : 3
+   },
+   {
+      "artist" : "ROKINA BGA:アカツキユウ",
+      "level" : "3",
+      "md5" : "237e643cf3bdc90367cbec3c634fcfdd",
+      "proposer" : "Rb_Drache",
+      "sha256" : "2ee83556ed048253e10eb50be835ae4a76f1a121ce0186902d7d8a7dd81674d9",
+      "submission" : 801,
+      "title" : "Holyvenger [MASTER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=123",
+      "url_diff" : "",
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
+      "artist" : "otoshi.b Movie:Arishima_Caprico / obj.mute",
+      "level" : "4",
+      "md5" : "2b5c45cbbe5ce2539c8548d5d523e11f",
+      "proposer" : "こめっと",
+      "sha256" : "21b6d12c67797ffbdf1d3b9cc41a8ade6203e2e52e4d92ed121bc167980ca69a",
+      "submission" : 795,
+      "title" : "Absolute Future [Infinity]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=18&event=123",
+      "url_diff" : "",
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 4
+   },
+   {
+      "artist" : "tkqn14 mov : Ju_E obj: qtp13",
+      "comment" : "st5~6?",
+      "level" : "6",
+      "md5" : "56b38da7cbbf93202f5f72f2a6dd0fd0",
+      "proposer" : "MineC24",
+      "sha256" : "68646b3e9365bb9ff760354657bb468e4c008e266c1704b5a71f276beef620c3",
+      "submission" : 797,
+      "title" : "GASOLiNE BURST [BURST]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=192&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02351",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "guna / hyperlaner",
@@ -99,48 +99,63 @@
       "voteYes" : 2
    },
    {
-      "artist" : "LeaF / obj:Monsta",
-      "comment" : "randa",
-      "level" : "7",
-      "md5" : "6e4ecc69bdef0ed46450b4f1d0773b96",
-      "proposer" : "Razuurene",
-      "sha256" : "dcc54d0bc3d3de26064dca99af15877829dcacd7bc37477634f4fc1360a747be",
-      "submission" : 770,
-      "title" : "Paraclete [Ascension]",
-      "url" : "http://nonona.iptime.org/BMS_Library/Paraclete%20%5bSACRED%20ART%5d.rar",
-      "url_diff" : "http://3228monsta.web.fc2.com/paraclete.zip",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 3
-   },
-   {
-      "artist" : "UraL vs LiaN BGA:ujina Obj:SANY",
-      "comment" : "微縦連・乱打・ズレ　総合譜面",
-      "level" : "3",
-      "md5" : "767999b4af9bf3e467d1c7d1308eb3e8",
-      "proposer" : "リアン",
-      "sha256" : "07d43738e4b591116524d6e8506765c5c324808c29092d4e8ec715ab2573a738",
-      "submission" : 774,
-      "title" : "Non-singularity [Abnormal]",
-      "url" : "http://www.dropbox.com/s/ojuxjj281775flw/Non-singularity_fix.zip?dl=1",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01571",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 6
-   },
-   {
-      "artist" : "しらいし/さ",
+      "artist" : "Lime / A",
+      "comment" : "物量、 連打 、同時押し",
       "level" : "0",
-      "md5" : "7c566134ca0e091e4c60f26c140cffa8",
-      "proposer" : "파이어",
-      "sha256" : "7429a680c3123753c02d5d92ad194f5bd39d7426b4ca4f16f24da3bff65d0132",
-      "submission" : 779,
-      "title" : "硬核機動 [EX]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=106&event=83",
-      "url_diff" : "http://sabosabun.tank.jp/",
-      "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 3
+      "md5" : "6c375e76f7432d6251c183704ebca1c7",
+      "proposer" : "ZEUS",
+      "sha256" : "03949d1b8687939d8cfee6a9372c64fc3eb0788bc01b0ee05f19bf64ed180aff",
+      "submission" : 799,
+      "title" : "Replica [侵蝕]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=417&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02414",
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 1
+   },
+   {
+      "artist" : "立秋 feat.ちょこ / obj:七海千秋",
+      "comment" : "puyopuyo",
+      "level" : "2",
+      "md5" : "6cca64f56cc571e7be47d89f9c09f604",
+      "proposer" : "qtp13",
+      "sha256" : "fcc93f8547554fcd2663065f7f6de5987594e8d9b5b18360a8243c282420cfc2",
+      "submission" : 791,
+      "title" : "プナイプナイせんそう -LAST BOSS-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=104&event=123",
+      "url_diff" : "https://www.dropbox.com/s/w6ub9701nstjryq/_punaipunai2_SPnanami03.bms?dl=0",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "黒皇帝 Movie: SquidMaker",
+      "comment" : "前半同時押し、後半乱打。曲3分半",
+      "level" : "0",
+      "md5" : "7e30e90244d41f431d0b8fb75fdd0583",
+      "proposer" : "Rb_Drache",
+      "sha256" : "9a38cd31a4e379da379827b44c6bde363659e5ae3c8a154192872d0e397893db",
+      "submission" : 804,
+      "title" : "Neurotoxicity [INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=191&event=123",
+      "url_diff" : "",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "MisomyL obj. φ",
+      "level" : "5",
+      "md5" : "86df34816407e605e82a8371a00536e6",
+      "proposer" : "phi",
+      "sha256" : "ad385d62cdc283b723b2a7131caf203b44fa89384fcf4be7deb4c1d477a1ec08",
+      "submission" : 793,
+      "title" : "Amnehilesie [ φ ]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=362&event=123",
+      "url_diff" : "https://app.box.com/s/k08et0vdmdxpayjs4sw9zruuuuaxo3mz",
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "Hermit / obj:Monsta",
@@ -169,6 +184,21 @@
       "url_diff" : "http://sabosabun.tank.jp/",
       "voteNo" : 0,
       "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
+      "artist" : "ああああ [Lyrics：あゆむ]  [Vocal：seaside-metro]  [BGA：TOYCAT] / A",
+      "comment" : "神曲",
+      "level" : "1",
+      "md5" : "9dc7ff845fd555cba93a243b99e04429",
+      "proposer" : "BAECON",
+      "sha256" : "0bbb990b58402933f142af87d55ed07c2159b7be176de935a96c9848a3e69e7b",
+      "submission" : 798,
+      "title" : "rainbow [Black & White]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=300&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02315",
+      "voteNo" : 0,
+      "votePercent" : "100.00",
       "voteYes" : 1
    },
    {
@@ -183,8 +213,8 @@
       "url" : "http://www.dropbox.com/sh/xrr3fvlhagzsmm2/AAC0HdK_kps6UCKtDFTCkpJea/bms/Evangelize%20(Radio%20Edit).rar?dl=0",
       "url_diff" : "https://ux.getuploader.com/Icyc1e_by_bms/index/date/desc/2",
       "voteNo" : 1,
-      "votePercent" : "50.00",
-      "voteYes" : 1
+      "votePercent" : "66.67",
+      "voteYes" : 2
    },
    {
       "artist" : "remixed celas feat.ARU/さ",
@@ -201,6 +231,36 @@
       "voteYes" : 2
    },
    {
+      "artist" : "sak feat.みゅい Movie: げ～むばか Illust: 球根 obj: BAECON",
+      "comment" : "Desperate never ends",
+      "level" : "6",
+      "md5" : "bda605e76d263c8fd5d62ab4c5dfc3e1",
+      "proposer" : "qtp13",
+      "sha256" : "5797878471e58f98a5dec8e168efc0e9fa40ab96d6700319b5cd03bf774dcc6a",
+      "submission" : 794,
+      "title" : "Unleashed World [INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=123",
+      "url_diff" : "",
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 6
+   },
+   {
+      "artist" : "SAMBA MASTER 佐藤 -SATOH- Remixed by Yosk!",
+      "comment" : "✌ ('ω') ✌",
+      "level" : "3",
+      "md5" : "c346c9a4a4c017d8d99e3d9529810837",
+      "proposer" : "qtp13",
+      "sha256" : "767fbebf80b1d0d5f9b0ef38022f503ee2d2fad7532da26c1325c53513a82593",
+      "submission" : 792,
+      "title" : "☆ウィンドサンバランド☆ -LAST BOSS-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=123",
+      "url_diff" : "",
+      "voteNo" : 1,
+      "votePercent" : "0.00",
+      "voteYes" : 0
+   },
+   {
       "artist" : "裏 吉 川 / obj:DDX, loxe1234",
       "level" : "5",
       "md5" : "c4a9a9cb65e09aab60870d68e19b5e8b",
@@ -215,6 +275,21 @@
       "voteYes" : 4
    },
    {
+      "artist" : "xixuezique BGA : 空読無 白眼",
+      "comment" : "ophthalmomyiasis",
+      "level" : "4",
+      "md5" : "c52eb8595741d5a6e90d1dee9db4cc28",
+      "proposer" : "MineC24",
+      "sha256" : "1586cbb04e7175c2c576f23305b3e9aa7f9d16ef36314522f55f8ddca42b3968",
+      "submission" : 796,
+      "title" : "ophthalmomyiasis [SP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=38&event=123",
+      "url_diff" : "",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "STR ALL STARS / obj : 0samil0",
       "comment" : "サンバランドみたいな",
       "level" : "2",
@@ -227,7 +302,7 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "HOUJIROU / ob： :peten4",
@@ -241,22 +316,8 @@
       "url" : "http://houjirou.at-ninja.jp/",
       "url_diff" : "http://blueberrystreams4u.web.fc2.com/hbms.html",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
-      "artist" : "sasakure.UK / obj:DDX",
-      "level" : "1",
-      "md5" : "d7072472f308c89eb055d8704db76663",
-      "proposer" : "파이어",
-      "sha256" : "80343c703b63ef48c7a9c9025aa3154e88026b93bfd09b2f217ceb88b11d2943",
-      "submission" : 771,
-      "title" : "+i m a z i n e x o+ [Limit Edition]",
-      "url" : "http://web.archive.org/web/20070727154611/http://sasakure.bms.ms/framemusic.htm",
-      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up1067.zip",
-      "voteNo" : 1,
-      "votePercent" : "66.67",
-      "voteYes" : 2
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "Le Dos-on arranged by s-don illust : jubeated / obj.hex",
@@ -274,6 +335,35 @@
       "voteYes" : 1
    },
    {
+      "artist" : "Se-U-Ra obj.hex",
+      "level" : "2",
+      "md5" : "e2165305b700604467c33cad3e489f71",
+      "proposer" : "こめっと",
+      "sha256" : "2e20512fda133bc7a4e22b3bbe1f5651de0dcccda750746fdbfb0257771ed592",
+      "submission" : 800,
+      "title" : "QSHELL -拒色のシェルル- [Hexagon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=147&event=123",
+      "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html",
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 3
+   },
+   {
+      "artist" : "Kankitsu feat. Salita / obj. Tristan97",
+      "comment" : "~st2-3(?)",
+      "level" : "2",
+      "md5" : "e327309eb3aaf0257b4bb8515059946b",
+      "proposer" : "Tristan97",
+      "sha256" : "b47a6eef82265fe488ad2e41dc73217901020d5986f54adce692fdf5f01fdf46",
+      "submission" : 803,
+      "title" : "僕が見た世界 [Finale]",
+      "url" : "http://docs.google.com/uc?id=1NQ9WTDXaJu6K1JWHzELo2sQr1Zuz6TuI&export=download",
+      "url_diff" : "https://drive.google.com/open?id=18HTrQkH8RK4m0ReWZ5OBg2Egg0QBYjLQ",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "uma obj:kinoko",
       "level" : "0",
       "md5" : "f6eff5cce175bdad4f7eec7815d2d23b",
@@ -283,8 +373,8 @@
       "title" : "Angel Wing [LEGEND]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=123&event=96",
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up5695.zip",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNo" : 1,
+      "votePercent" : "80.00",
       "voteYes" : 4
    }
 ]

@@ -631,7 +631,7 @@
    },
    {
       "artist" : "horoscope / selene.",
-      "level" : "3",
+      "level" : "4",
       "md5" : "0ec589043f9527e1290b8cdcce1d8d71",
       "proposer" : "파이어",
       "sha256" : "b84d640b8180787db8d74dd9815d4183f28ce65ca9c582345c1dc6ba1aaf6e54",
@@ -1520,6 +1520,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "ROKINA BGA:アカツキユウ",
+      "level" : "3",
+      "md5" : "237e643cf3bdc90367cbec3c634fcfdd",
+      "proposer" : "Rb_Drache",
+      "sha256" : "2ee83556ed048253e10eb50be835ae4a76f1a121ce0186902d7d8a7dd81674d9",
+      "submission" : 801,
+      "title" : "Holyvenger [MASTER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=123",
+      "url_diff" : "",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "CELLON. / U BGA by 出前",
       "comment" : "(p^o^)p",
       "level" : "8",
@@ -1906,6 +1920,20 @@
       "title" : "I Want You (USAMIMIX) -GODS-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=84",
       "url_diff" : "http://www.geocities.jp/dsks5456/bms/iwantyou.zip",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "otoshi.b Movie:Arishima_Caprico / obj.mute",
+      "level" : "4",
+      "md5" : "2b5c45cbbe5ce2539c8548d5d523e11f",
+      "proposer" : "こめっと",
+      "sha256" : "21b6d12c67797ffbdf1d3b9cc41a8ade6203e2e52e4d92ed121bc167980ca69a",
+      "submission" : 795,
+      "title" : "Absolute Future [Infinity]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=18&event=123",
+      "url_diff" : "",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -4201,6 +4229,21 @@
       "voteYes" : 0
    },
    {
+      "artist" : "tkqn14 mov : Ju_E obj: qtp13",
+      "comment" : "st5~6?",
+      "level" : "6",
+      "md5" : "56b38da7cbbf93202f5f72f2a6dd0fd0",
+      "proposer" : "MineC24",
+      "sha256" : "68646b3e9365bb9ff760354657bb468e4c008e266c1704b5a71f276beef620c3",
+      "submission" : 797,
+      "title" : "GASOLiNE BURST [BURST]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=192&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02351",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "ridis / obj. hplaner",
       "comment" : "ガチ押し、前半難",
       "level" : "5",
@@ -5147,6 +5190,21 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Lime / A",
+      "comment" : "物量、 連打 、同時押し",
+      "level" : "0",
+      "md5" : "6c375e76f7432d6251c183704ebca1c7",
+      "proposer" : "ZEUS",
+      "sha256" : "03949d1b8687939d8cfee6a9372c64fc3eb0788bc01b0ee05f19bf64ed180aff",
+      "submission" : 799,
+      "title" : "Replica [侵蝕]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=417&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02414",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "yassu feat. ちな Movie:Milk_tya / Illust:おまる氏 / obj.uio",
       "comment" : "微連打複合",
       "level" : "3",
@@ -5187,6 +5245,21 @@
       "title" : "Hot Heart is Sprinting Love~!! [宇宙を超越した愛]",
       "url" : "http://k-bms.com/party_pabat/party2015.jsp?board_num=15&num=61&order=reg&odtype=a",
       "url_diff" : "https://www.dropbox.com/s/q42f2n2u7tgc5vv/koiJIlju_S%20P%20A%20C%20E.zip?dl=0",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "立秋 feat.ちょこ / obj:七海千秋",
+      "comment" : "puyopuyo",
+      "level" : "2",
+      "md5" : "6cca64f56cc571e7be47d89f9c09f604",
+      "proposer" : "qtp13",
+      "sha256" : "fcc93f8547554fcd2663065f7f6de5987594e8d9b5b18360a8243c282420cfc2",
+      "submission" : 791,
+      "title" : "プナイプナイせんそう -LAST BOSS-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=104&event=123",
+      "url_diff" : "https://www.dropbox.com/s/w6ub9701nstjryq/_punaipunai2_SPnanami03.bms?dl=0",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -5811,7 +5884,7 @@
    },
    {
       "artist" : "しらいし/さ",
-      "level" : "0",
+      "level" : "1",
       "md5" : "7c566134ca0e091e4c60f26c140cffa8",
       "proposer" : "파이어",
       "sha256" : "7429a680c3123753c02d5d92ad194f5bd39d7426b4ca4f16f24da3bff65d0132",
@@ -5866,6 +5939,21 @@
       "title" : "BRILLIANT STAR ～煌星の雫～ [SUPERNOVA]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=62&event=96",
       "url_diff" : "http://www.dropbox.com/s/5lz7rxj7nvw64j0/B_STAR_17%287Supernova%29.zip?dl=0"
+   },
+   {
+      "artist" : "黒皇帝 Movie: SquidMaker",
+      "comment" : "前半同時押し、後半乱打。曲3分半",
+      "level" : "0",
+      "md5" : "7e30e90244d41f431d0b8fb75fdd0583",
+      "proposer" : "Rb_Drache",
+      "sha256" : "9a38cd31a4e379da379827b44c6bde363659e5ae3c8a154192872d0e397893db",
+      "submission" : 804,
+      "title" : "Neurotoxicity [INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=191&event=123",
+      "url_diff" : "",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "MALVA. obj : BAECON",
@@ -6206,6 +6294,20 @@
       "title" : "BABYLON [HARDEST]",
       "url" : "http://shiki2.sakura.ne.jp/fohs.html",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/babylon-HARDEST.bme",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "MisomyL obj. φ",
+      "level" : "5",
+      "md5" : "86df34816407e605e82a8371a00536e6",
+      "proposer" : "phi",
+      "sha256" : "ad385d62cdc283b723b2a7131caf203b44fa89384fcf4be7deb4c1d477a1ec08",
+      "submission" : 793,
+      "title" : "Amnehilesie [ φ ]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=362&event=123",
+      "url_diff" : "https://app.box.com/s/k08et0vdmdxpayjs4sw9zruuuuaxo3mz",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -7176,6 +7278,21 @@
       "title" : "Happy☆mooN (MAXIMUM)",
       "url" : "http://sound.jp/lobsak/bms.html",
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up2202.zip",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "ああああ [Lyrics：あゆむ]  [Vocal：seaside-metro]  [BGA：TOYCAT] / A",
+      "comment" : "神曲",
+      "level" : "1",
+      "md5" : "9dc7ff845fd555cba93a243b99e04429",
+      "proposer" : "BAECON",
+      "sha256" : "0bbb990b58402933f142af87d55ed07c2159b7be176de935a96c9848a3e69e7b",
+      "submission" : 798,
+      "title" : "rainbow [Black & White]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=300&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02315",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -8725,6 +8842,21 @@
       "voteYes" : 0
    },
    {
+      "artist" : "sak feat.みゅい Movie: げ～むばか Illust: 球根 obj: BAECON",
+      "comment" : "Desperate never ends",
+      "level" : "6",
+      "md5" : "bda605e76d263c8fd5d62ab4c5dfc3e1",
+      "proposer" : "qtp13",
+      "sha256" : "5797878471e58f98a5dec8e168efc0e9fa40ab96d6700319b5cd03bf774dcc6a",
+      "submission" : 794,
+      "title" : "Unleashed World [INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=123",
+      "url_diff" : "",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "Crimsona / obj:夢瑠",
       "comment" : "微縦連乱打 ガチ押し",
       "level" : "7",
@@ -8967,6 +9099,21 @@
       "voteYes" : 0
    },
    {
+      "artist" : "SAMBA MASTER 佐藤 -SATOH- Remixed by Yosk!",
+      "comment" : "✌ ('ω') ✌",
+      "level" : "3",
+      "md5" : "c346c9a4a4c017d8d99e3d9529810837",
+      "proposer" : "qtp13",
+      "sha256" : "767fbebf80b1d0d5f9b0ef38022f503ee2d2fad7532da26c1325c53513a82593",
+      "submission" : 792,
+      "title" : "☆ウィンドサンバランド☆ -LAST BOSS-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=123",
+      "url_diff" : "",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "xi / air",
       "comment" : "",
       "level" : "7",
@@ -9018,6 +9165,21 @@
       "title" : "Pursuit Of Outer Space [Meteor]",
       "url" : "http://www5f.biglobe.ne.jp/~careless/",
       "url_diff" : "http://chack3sabun.web.fc2.com/",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "xixuezique BGA : 空読無 白眼",
+      "comment" : "ophthalmomyiasis",
+      "level" : "4",
+      "md5" : "c52eb8595741d5a6e90d1dee9db4cc28",
+      "proposer" : "MineC24",
+      "sha256" : "1586cbb04e7175c2c576f23305b3e9aa7f9d16ef36314522f55f8ddca42b3968",
+      "submission" : 796,
+      "title" : "ophthalmomyiasis [SP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=38&event=123",
+      "url_diff" : "",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -9926,6 +10088,21 @@
       "voteYes" : 0
    },
    {
+      "artist" : "MisomyL /obj. Tristan97",
+      "comment" : "230bpm Chordstream",
+      "level" : "1",
+      "md5" : "d53d0f15cf8822c30f965f6414bda9c1",
+      "proposer" : "Tristan97",
+      "sha256" : "016ae01cd09f21e9e34490f6b73ead49257315fee6031dcf5bfde9fcbab70427",
+      "submission" : 802,
+      "title" : "Amnehilesie [Tragheit]",
+      "url" : "https://drive.google.com/file/d/1gDntOHay_V16d7D1sf4v1d-0hQpnhwJW/view?usp=sharing",
+      "url_diff" : "https://drive.google.com/open?id=1J6UKjAxQWmsPm1GBH2yJGvXRzfItZHwn",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "オカ研",
       "comment" : "",
       "level" : "0",
@@ -10351,6 +10528,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Se-U-Ra obj.hex",
+      "level" : "2",
+      "md5" : "e2165305b700604467c33cad3e489f71",
+      "proposer" : "こめっと",
+      "sha256" : "2e20512fda133bc7a4e22b3bbe1f5651de0dcccda750746fdbfb0257771ed592",
+      "submission" : 800,
+      "title" : "QSHELL -拒色のシェルル- [Hexagon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=147&event=123",
+      "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "guna with チーム・キュッキュ / obj. laner",
       "comment" : "認識力系ガチ押し",
       "level" : "3",
@@ -10394,6 +10585,21 @@
       "title" : "ゴリ姫",
       "url" : "http://llllllllllll.sakura.ne.jp/djtakuan/",
       "url_diff" : "http://akred.web.fc2.com/baecon/gorihime.bms",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "Kankitsu feat. Salita / obj. Tristan97",
+      "comment" : "~st2-3(?)",
+      "level" : "2",
+      "md5" : "e327309eb3aaf0257b4bb8515059946b",
+      "proposer" : "Tristan97",
+      "sha256" : "b47a6eef82265fe488ad2e41dc73217901020d5986f54adce692fdf5f01fdf46",
+      "submission" : 803,
+      "title" : "僕が見た世界 [Finale]",
+      "url" : "http://docs.google.com/uc?id=1NQ9WTDXaJu6K1JWHzELo2sQr1Zuz6TuI&export=download",
+      "url_diff" : "https://drive.google.com/open?id=18HTrQkH8RK4m0ReWZ5OBg2Egg0QBYjLQ",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
