@@ -1,7 +1,7 @@
 [
    {
       "artist" : "II-L",
-      "comment" : "高TOTAL",
+      "comment" : "高TOTAL,☆8相当",
       "level" : "-2",
       "lr2_bmsid" : 238803,
       "md5" : "01f4fe77b555ffb70c30f1b5cd98044b",
@@ -55,6 +55,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02113"
    },
    {
+      "artist" : "TaW",
+      "comment" : "物量,中速乱打",
+      "level" : "10",
+      "lr2_bmsid" : 266385,
+      "md5" : "1681407e8d4714b29932a8df84c1c0f3",
+      "name_diff" : "",
+      "title" : "baryon [しよも]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=79&event=123",
+      "url_diff" : ""
+   },
+   {
       "artist" : "keyc",
       "comment" : "同時押し,高速物量",
       "level" : "24",
@@ -77,6 +88,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02348"
    },
    {
+      "artist" : "1/8",
+      "comment" : "物量,低速,高TOTAL,前半難,高速乱打",
+      "level" : "99",
+      "lr2_bmsid" : 267094,
+      "md5" : "27c9d9cedf2c3a287f24c412841c6f9c",
+      "name_diff" : "",
+      "title" : "自由電子レーザー [KATAMARI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=195&event=123",
+      "url_diff" : ""
+   },
+   {
       "artist" : "篠螺悠那",
       "comment" : "stella st0,同時押し気味の乱打,高TOTAL(0.32%)",
       "level" : "20",
@@ -86,6 +108,17 @@
       "title" : "物怪舞踏 [土蜘蛛]",
       "url" : "http://tsubu.ath.cx/~electrogic/bms/mononoke.rar",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01973"
+   },
+   {
+      "artist" : "qfeileadh feat. レゾナンスもえこ",
+      "comment" : "中速乱打,高速乱打,局所発狂",
+      "level" : "2",
+      "lr2_bmsid" : 268429,
+      "md5" : "38fec065ecdd091c073d5e9d3855196e",
+      "name_diff" : "",
+      "title" : "サカサマの空に在ったのは [SP INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=123",
+      "url_diff" : ""
    },
    {
       "artist" : "w_tre",
@@ -108,6 +141,16 @@
       "title" : "V804N [SP ANOTHER]",
       "url" : "http://www.mediafire.com/file/18wnwxx50a83drz/V804N.zip",
       "url_diff" : ""
+   },
+   {
+      "artist" : "Kurisu",
+      "comment" : "これでもかというくらいﾎﾟ(全押し)ができる",
+      "level" : "99",
+      "md5" : "46d1750cd43d113d034e02fee67d2ea3",
+      "name_diff" : "差分",
+      "title" : "Magic piano [ポ(全押し)]",
+      "url" : "https://www.dropbox.com/s/6mejb54lvggnull/mp.rar?dl=0",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02512"
    },
    {
       "artist" : "kurenaissance",
@@ -198,6 +241,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02119"
    },
    {
+      "artist" : "暮狛 (movie : くわぎう)",
+      "comment" : "物量,前半難,高速乱打,高TOTAL,ランダム分岐",
+      "level" : "17",
+      "lr2_bmsid" : 266801,
+      "md5" : "59cecd5ff719d4dbff1d5db7896073f8",
+      "name_diff" : "",
+      "title" : "【Freak《Show】Down》 [The Late Late Show]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=166&event=123",
+      "url_diff" : ""
+   },
+   {
       "artist" : "plastic feat.サキト",
       "comment" : "ディレイ",
       "level" : "7",
@@ -242,6 +296,16 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01973"
    },
    {
+      "artist" : "Kurisu",
+      "comment" : "ﾎﾟﾎﾟﾎﾟﾎﾟﾎﾟﾎﾟ(ディレイ)",
+      "level" : "22",
+      "md5" : "70e2f9ac7cb689563b99f7be1967dcaf",
+      "name_diff" : "差分",
+      "title" : "Magic piano [ポ(ディレイ)]",
+      "url" : "https://www.dropbox.com/s/6mejb54lvggnull/mp.rar?dl=0",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02512"
+   },
+   {
       "artist" : "xelloscope",
       "comment" : "微縦連,中速乱打,低TOTAL(0.18%)",
       "level" : "1",
@@ -273,6 +337,17 @@
       "title" : "Alitatrieb [Madness]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=121",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02188"
+   },
+   {
+      "artist" : "STS-88 (a.k.a. 九八式旋回機関銃&NASA)",
+      "comment" : "物量,低速,微縦連,ラスト殺し",
+      "level" : "16",
+      "lr2_bmsid" : 267304,
+      "md5" : "7da9469313e7d12e8ef54f2c101e181b",
+      "name_diff" : "",
+      "title" : "Halo [C4-Initial]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=251&event=123",
+      "url_diff" : ""
    },
    {
       "artist" : "篠螺悠那",
@@ -331,8 +406,8 @@
    },
    {
       "artist" : "cybermiso",
-      "comment" : "低TOTAL,縦連",
-      "level" : "24",
+      "comment" : "癖サブ¿¡28,低TOTAL,縦連",
+      "level" : "23",
       "lr2_bmsid" : 265156,
       "md5" : "99fcdc3f3180626636fefeabe3f1f069",
       "name_diff" : "差分",
@@ -363,6 +438,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02108"
    },
    {
+      "artist" : "qfeileadh feat. レゾナンスもえこ",
+      "comment" : "中速乱打,高速乱打,ガチ押し,やや低TOTAL",
+      "level" : "24",
+      "lr2_bmsid" : 268485,
+      "md5" : "a2284b403d90fdf8c055dab688838079",
+      "name_diff" : "",
+      "title" : "サカサマの空に在ったのは [SP PUDDLE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=123",
+      "url_diff" : ""
+   },
+   {
       "artist" : "ルゼ",
       "comment" : "微縦連,高TOTAL(0.42%)",
       "level" : "2",
@@ -374,9 +460,20 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02093"
    },
    {
+      "artist" : "qfeileadh feat. レゾナンスもえこ",
+      "comment" : "中速乱打,高速乱打,微縦連",
+      "level" : "15",
+      "lr2_bmsid" : 268293,
+      "md5" : "a9e52da28747098fcc9f9a72a14b8a32",
+      "name_diff" : "",
+      "title" : "サカサマの空に在ったのは [SP XANADU]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=123",
+      "url_diff" : ""
+   },
+   {
       "artist" : "エターナルコスモ斎藤",
       "comment" : "高速乱打,同時押し",
-      "level" : "20",
+      "level" : "18",
       "lr2_bmsid" : 264848,
       "md5" : "ac7563cd5e067287e1a0a25cbc0b0987",
       "name_diff" : "差分",
@@ -474,7 +571,7 @@
    },
    {
       "artist" : "II-L",
-      "comment" : "LN,同時押し,低速,高TOTAL",
+      "comment" : "LN,同時押し,低速,高TOTAL,☆11相当",
       "level" : "0",
       "lr2_bmsid" : 238799,
       "md5" : "bf643c4c34252d4dce1a735411c03aef",
@@ -495,9 +592,20 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02130"
    },
    {
+      "artist" : "kniz",
+      "comment" : "長尺(4分弱),中速乱打,超低TOTAL",
+      "level" : "8",
+      "lr2_bmsid" : 268275,
+      "md5" : "c5bff76d669d76fd6da4680f495c9125",
+      "name_diff" : "",
+      "title" : "Rise To Fall (Original Mix) [しよふ]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=114&event=123",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Darkist",
-      "comment" : "前半LN,主に乱打",
-      "level" : "1",
+      "comment" : "前半LN,主に乱打,☆12相当",
+      "level" : "0",
       "lr2_bmsid" : 263079,
       "md5" : "c80b46aad4650d02933ca4af53a0b010",
       "name_diff" : "差分",
@@ -537,6 +645,17 @@
       "title" : "furioso melodia [dec]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=66",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01884"
+   },
+   {
+      "artist" : "HillStream",
+      "comment" : "中速乱打,☆9相当",
+      "level" : "-2",
+      "lr2_bmsid" : 267591,
+      "md5" : "d66c16867a0369449af104515a2f9c5d",
+      "name_diff" : "",
+      "title" : "Matterinic [SP HYPER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=203&event=123",
+      "url_diff" : ""
    },
    {
       "artist" : "kawasaki under ground",
@@ -627,6 +746,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02192"
    },
    {
+      "artist" : "qfeileadh feat. レゾナンスもえこ",
+      "comment" : "☆2相当",
+      "level" : "-4",
+      "lr2_bmsid" : 268251,
+      "md5" : "f64de31e9e7abdb3ab0b2e18a4924070",
+      "name_diff" : "",
+      "title" : "サカサマの空に在ったのは [SP BEGINNER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=123",
+      "url_diff" : ""
+   },
+   {
       "artist" : "ZUN/arr.みょん",
       "comment" : "高速皿,◎16くらい",
       "level" : "99",
@@ -669,6 +799,17 @@
       "title" : "スピカ [Khambalia]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=121",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02144"
+   },
+   {
+      "artist" : "HillStream",
+      "comment" : "中速乱打,超局所超発狂",
+      "level" : "5",
+      "lr2_bmsid" : 267593,
+      "md5" : "fbf37719423b029bebd3475b81889f9d",
+      "name_diff" : "",
+      "title" : "Matterinic [SP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=203&event=123",
+      "url_diff" : ""
    },
    {
       "artist" : "keyc",

@@ -11,7 +11,7 @@
       "url_diff" : "http://www.hyper-laner.com/sabun.html",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "Lime / Mega",
@@ -39,7 +39,7 @@
       "url_diff" : "",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "otoshi.b Movie:Arishima_Caprico / obj.mute",
@@ -53,7 +53,7 @@
       "url_diff" : "",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 6
    },
    {
       "artist" : "tkqn14 mov : Ju_E obj: qtp13",
@@ -67,8 +67,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=192&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02351",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "guna / hyperlaner",
@@ -82,7 +82,7 @@
       "url_diff" : "http://www.hyper-laner.com/sabun.html",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "ZUN remix by 44teru-k / obj:Monsta",
@@ -95,8 +95,8 @@
       "url" : "http://skydrive.live.com/?cid=FD93B4F2CB8CD95F&id=FD93B4F2CB8CD95F%21105",
       "url_diff" : "http://3228monsta.web.fc2.com/",
       "voteNo" : 1,
-      "votePercent" : "66.67",
-      "voteYes" : 2
+      "votePercent" : "75.00",
+      "voteYes" : 3
    },
    {
       "artist" : "Lime / A",
@@ -111,7 +111,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02414",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 4
    },
    {
       "artist" : "立秋 feat.ちょこ / obj:七海千秋",
@@ -125,8 +125,23 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=104&event=123",
       "url_diff" : "https://www.dropbox.com/s/w6ub9701nstjryq/_punaipunai2_SPnanami03.bms?dl=0",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
+      "artist" : "橘花音 かなえゆめ composed by nmk obj:VINYL",
+      "comment" : "えれなちゃんの妹です(マジで可愛い)",
+      "level" : "5",
+      "md5" : "79628a2eaf42b73f58f53bb76064d975",
+      "proposer" : "MEES-♬",
+      "sha256" : "c516516601c89bb139f778bb8a6fdf738dceff88e85c720dca2462c58d55a679",
+      "submission" : 808,
+      "title" : "図書室のエルザ [EXTRA]",
+      "url" : "http://tosyosituno-elsa.tumblr.com/",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01955",
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "黒皇帝 Movie: SquidMaker",
@@ -139,8 +154,8 @@
       "title" : "Neurotoxicity [INSANE]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=191&event=123",
       "url_diff" : "",
-      "voteNo" : 0,
-      "votePercent" : 0,
+      "voteNo" : 3,
+      "votePercent" : "0.00",
       "voteYes" : 0
    },
    {
@@ -153,9 +168,9 @@
       "title" : "Amnehilesie [ φ ]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=362&event=123",
       "url_diff" : "https://app.box.com/s/k08et0vdmdxpayjs4sw9zruuuuaxo3mz",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteNo" : 1,
+      "votePercent" : "66.67",
+      "voteYes" : 2
    },
    {
       "artist" : "Hermit / obj:Monsta",
@@ -170,7 +185,7 @@
       "url_diff" : "http://3228monsta.web.fc2.com/",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "HOUJIROU/さ",
@@ -199,7 +214,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02315",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 3
    },
    {
       "artist" : "syatten + 140 obj:Icyc1e",
@@ -213,8 +228,22 @@
       "url" : "http://www.dropbox.com/sh/xrr3fvlhagzsmm2/AAC0HdK_kps6UCKtDFTCkpJea/bms/Evangelize%20(Radio%20Edit).rar?dl=0",
       "url_diff" : "https://ux.getuploader.com/Icyc1e_by_bms/index/date/desc/2",
       "voteNo" : 1,
-      "votePercent" : "66.67",
-      "voteYes" : 2
+      "votePercent" : "80.00",
+      "voteYes" : 4
+   },
+   {
+      "artist" : "LeaF Movie:Optie&Fiz/obj:赤い人",
+      "level" : "3",
+      "md5" : "ac206b2a1f8d63da94660078855977ab",
+      "proposer" : "파이어",
+      "sha256" : "723cdea3aa70ecb0bd891393c518563dfd7b004e3ca97847c55554b88a677513",
+      "submission" : 807,
+      "title" : "MARENOL [INFERNO]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=370&event=123",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/MARENOL_INFERNO.bms",
+      "voteNo" : 1,
+      "votePercent" : "75.00",
+      "voteYes" : 3
    },
    {
       "artist" : "remixed celas feat.ARU/さ",
@@ -228,7 +257,7 @@
       "url_diff" : "http://sabosabun.tank.jp/",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "sak feat.みゅい Movie: げ～むばか Illust: 球根 obj: BAECON",
@@ -243,7 +272,7 @@
       "url_diff" : "",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 8
    },
    {
       "artist" : "SAMBA MASTER 佐藤 -SATOH- Remixed by Yosk!",
@@ -256,9 +285,9 @@
       "title" : "☆ウィンドサンバランド☆ -LAST BOSS-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=123",
       "url_diff" : "",
-      "voteNo" : 1,
-      "votePercent" : "0.00",
-      "voteYes" : 0
+      "voteNo" : 2,
+      "votePercent" : "50.00",
+      "voteYes" : 2
    },
    {
       "artist" : "裏 吉 川 / obj:DDX, loxe1234",
@@ -285,8 +314,8 @@
       "title" : "ophthalmomyiasis [SP ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=38&event=123",
       "url_diff" : "",
-      "voteNo" : 0,
-      "votePercent" : 0,
+      "voteNo" : 2,
+      "votePercent" : "0.00",
       "voteYes" : 0
    },
    {
@@ -360,8 +389,22 @@
       "url" : "http://docs.google.com/uc?id=1NQ9WTDXaJu6K1JWHzELo2sQr1Zuz6TuI&export=download",
       "url_diff" : "https://drive.google.com/open?id=18HTrQkH8RK4m0ReWZ5OBg2Egg0QBYjLQ",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 3
+   },
+   {
+      "artist" : "ETIA. feat. Jenga Movie: わっふゑ obj : BAECON",
+      "level" : "1",
+      "md5" : "e603d5a395da06aff896c0a47e8db6c4",
+      "proposer" : "파이어",
+      "sha256" : "7f9fc038f2113d550a3e9fb5b696e2c2ae08a9f734fa2e51ee9730d88bad76d2",
+      "submission" : 806,
+      "title" : "On And On!! [Initiator]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=123",
+      "url_diff" : "http://akred.web.fc2.com/baecon/1380-Initiator.bme",
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "uma obj:kinoko",
@@ -376,5 +419,20 @@
       "voteNo" : 1,
       "votePercent" : "80.00",
       "voteYes" : 4
+   },
+   {
+      "artist" : "Is-m // あまね（COOL&CREATE） BGA:sveki hamalu / obj.hex",
+      "comment" : "たのしい体力譜面",
+      "level" : "3",
+      "md5" : "fa8ef27697bd34adccb3862ac0a99d69",
+      "proposer" : "こめっと",
+      "sha256" : "6186f68a6da3c6d2526b8066b8e5d5763ae90b1b1949df056dfda3d1506a802b",
+      "submission" : 805,
+      "title" : "虹夜パレッド [Pentagon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=388&event=123",
+      "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html",
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    }
 ]
