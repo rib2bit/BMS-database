@@ -1594,6 +1594,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Sakamiya feat.mirina img:十恵",
+      "level" : "1",
+      "md5" : "252bcf5a72f440bcedd74e65350b1ca2",
+      "proposer" : "파이어",
+      "sha256" : "2a9586f69b6b4db9b878b734217282f4888cf5a7f071aa62664ef1a556716d33",
+      "submission" : 814,
+      "title" : "A-chasing-Y [Madness]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=50&event=104",
+      "url_diff" : "",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "超究極ウルトラアルティメットゴリラ愛花(改)(＾＾) BGA : 室谷",
       "comment" : "ガチ押し",
       "level" : "7",
@@ -1752,6 +1766,20 @@
       "title" : "殺戮の真千年女王 [DELAYMASTER]",
       "url" : "http://www43.tok2.com/home/melodina/bmr.cgi",
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "sasakure.UK/さ",
+      "level" : "1",
+      "md5" : "284ddd098db5be298c828fefcdd648e5",
+      "proposer" : "파이어",
+      "sha256" : "a7f601b152bd8d8365097fb8739be0ce701848fbd755145807e3168db1d8beb6",
+      "submission" : 815,
+      "title" : "Pangaea [EX]",
+      "url" : "http://web.archive.org/web/20070817081529/http://sasakure.bms.ms/bms/pangaea.rar",
+      "url_diff" : "http://sabosabun.tank.jp/sabun/pangaea%20sabun.zip",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -2347,6 +2375,21 @@
       "voteYes" : 0
    },
    {
+      "artist" : "xi / selene. 鑓田(alpha complex)",
+      "comment" : "st8~9",
+      "level" : "9",
+      "md5" : "33394c8183eb40426403566d03ef0e5a",
+      "proposer" : "qtp13",
+      "sha256" : "35c5378057574a3b9ff8150074f48b72b8ea1ef64bb38c7437f728ed60d9bc4c",
+      "submission" : 812,
+      "title" : "Bad Elixir -Ragnarok-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=316&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02387",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "SHALE BGA : Can.D-mtmrw / mikasa",
       "comment" : "超ガチ押し",
       "level" : "8",
@@ -2684,6 +2727,20 @@
       "title" : "MIGHTY OBSTACLE",
       "url" : "http://web.archive.org/web/20090416225824/http://homepage3.nifty.com/halm-berte/exc",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02023",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "菊田研究所/lactate [Obj.nitsuR]",
+      "level" : "4",
+      "md5" : "3971e087607ba0228d3a41648fa81a3f",
+      "proposer" : "파이어",
+      "sha256" : "545e1b266210b6d003a5a81c5dc1c5c2bef3a614ddac6b1551a815fbd521d544",
+      "submission" : 813,
+      "title" : "Free Hand zero [Finger]",
+      "url" : "http://web.archive.org/web/20051006002133/http://bof.nothing.sh:8080/file/kikuta-lactate-freehand_zero.zip",
+      "url_diff" : "https://www.dropbox.com/s/ylrqjfyraszo2l6/freehandz_Finger.bme?dl=0",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -4231,7 +4288,7 @@
    {
       "artist" : "tkqn14 mov : Ju_E obj: qtp13",
       "comment" : "st5~6?",
-      "level" : "6",
+      "level" : "5",
       "md5" : "56b38da7cbbf93202f5f72f2a6dd0fd0",
       "proposer" : "MineC24",
       "sha256" : "68646b3e9365bb9ff760354657bb468e4c008e266c1704b5a71f276beef620c3",
@@ -4449,6 +4506,21 @@
       "title" : "The Lady Is A Trump [LAST RESORT]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=61",
       "url_diff" : "http://3228monsta.web.fc2.com/trump.zip",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "nmk feat.橘花音 BGA:わっふゑ / obj : Lapis vs BAECON",
+      "comment" : "連打ー",
+      "level" : "8",
+      "md5" : "5cabdb40c68323c6b567ec0507f4804e",
+      "proposer" : "MineC24",
+      "sha256" : "d4fcb5afc4766d9c42933f50bf2745986a064787cd6ec244da3bc214b1fb1199",
+      "submission" : 817,
+      "title" : "Electric Emotion [Extreme Enthusiasm]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=181&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -6370,6 +6442,21 @@
       "voteYes" : 0
    },
    {
+      "artist" : "KAH BGA:自動車 原付/illust:手鞠鈴 / obj : BAECON vs sak",
+      "comment" : "sense 2018",
+      "level" : "8",
+      "md5" : "8831259aca1ae9d7fb7452db361043a4",
+      "proposer" : "qtp13",
+      "sha256" : "1f83e048ebd341214f235b6609f8ce9c45def2ef774db057fe6b251483204041",
+      "submission" : 818,
+      "title" : "energy trixxx [Sense 2018]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=72&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02381",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "Mastermind(xi+nora2r) / obj : LindBlum iimo",
       "comment" : "ごまかし系",
       "level" : "9",
@@ -6395,6 +6482,20 @@
       "title" : "地獄の業火で焼肉大会！？ [Barbecue]",
       "url" : "https://www.dropbox.com/s/tgpqzezd82cphbk/g59yakiniku_Sakamiya_HQogg.zip?dl=1",
       "url_diff" : "https://www.dropbox.com/s/exuv0qntza73w7b/_g59_ego.bms?dl=0",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "sak feat.みゅい obj.mute",
+      "level" : "3",
+      "md5" : "89a788ea8806be7351295c155a5988af",
+      "proposer" : "こめっと",
+      "sha256" : "c7883df8e7dfd634fd213c4a95a5aec9e2d33c0bfa0c4b597acdeacdbd9492be",
+      "submission" : 811,
+      "title" : "Unleashed World [terminus]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02539",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -6711,6 +6812,20 @@
       "title" : "Bangin' Dumpin' Rumble Bomber [OVERHEAT-]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=186&event=104",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00074"
+   },
+   {
+      "artist" : "DJ TAKUAN 及び 白羽美依 / Note:PULSE",
+      "level" : "2",
+      "md5" : "8db4e47c14e4f64c0a938807f33fff3b",
+      "proposer" : "MEES-♬",
+      "sha256" : "5e8e081266f782862dc80d658aad6ee4603ab63ea558461805e65da5ee213450",
+      "submission" : 819,
+      "title" : "HAPPY☆LUCKY☆BABY -たぴおか-",
+      "url" : "https://www.dropbox.com/s/dtm9bubdl9spi8b/HAPPY%E2%98%86LUCKY%E2%98%86BABY.zip?dl=0　",
+      "url_diff" : "http://www.geocities.jp/hihihi4442/onigiri.html",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "ROKINA BGA:REI-K / obj:LAPIS",
@@ -7478,6 +7593,21 @@
       "voteYes" : 0
    },
    {
+      "artist" : "qfeileadh feat. レゾナンスもえこ / obj:C4 Movie : 浪漫映像制作倶楽部",
+      "comment" : "ガチ押し",
+      "level" : "3",
+      "md5" : "a2284b403d90fdf8c055dab688838079",
+      "proposer" : "こめっと",
+      "sha256" : "ef06fa937b498e958589b51edc08deeec1429082c1a976e442dca7635669caad",
+      "submission" : 809,
+      "title" : "サカサマの空に在ったのは [SP PUDDLE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=123",
+      "url_diff" : "",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "2TORI/^o^",
       "comment" : "高速物量",
       "level" : "5",
@@ -7955,7 +8085,7 @@
    {
       "artist" : "syatten + 140 obj:Icyc1e",
       "comment" : "kachifushi",
-      "level" : "0",
+      "level" : "1",
       "md5" : "ac1ee1dc099f597643ae175c394d6faa",
       "proposer" : "LUXURY♪",
       "sha256" : "e95b0d025b7ec4c4f42a53c56a5db479302215661ff418a3dc922085cf8f69a4",
@@ -8263,6 +8393,21 @@
       "title" : "ハニエルのうた [EXTRA]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=120",
       "url_diff" : "",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "ふぃるまーち！（CV：ちょこ＆藍月なくる＆山田じぇみ子） MV: うまるつふり ＆ 自動車 原付 / obj:七海千秋",
+      "comment" : "sl8強化版",
+      "level" : "0",
+      "md5" : "b2e0a5d984b39b9a17451000ead86071",
+      "proposer" : "MineC24",
+      "sha256" : "a4a7f14a2ead6861abd72b664dc9da0371ea2cd6ef902d104819dea3ec0054dc",
+      "submission" : 816,
+      "title" : "バーチャルセラピー [超物量セラピー]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=167&event=123",
+      "url_diff" : "https://www.dropbox.com/s/gabn6vryv9s76ms/_fillmarch_spnanami01.bms?dl=0",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -8740,7 +8885,7 @@
    {
       "artist" : "猫蟹丸(obj.WAS)",
       "comment" : "地力",
-      "level" : "2",
+      "level" : "3",
       "md5" : "bb1f191526ff2ae97fdf274ca33873b8",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,
@@ -10341,6 +10486,21 @@
       "title" : "Emptiness [GOD]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=397&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01291",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "薄荷堂 龍 obj.hex",
+      "comment" : "乱打的物量",
+      "level" : "2",
+      "md5" : "dab23f9ac043c210b9192fb9e5e13f1b",
+      "proposer" : "こめっと",
+      "sha256" : "e35866c17d6cb63cdfd22553ce7d99455e32663e0c1b96281b2ffa51ade9e14e",
+      "submission" : 810,
+      "title" : "薄雲 [六角形的]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=303&event=123",
+      "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0

@@ -1028,6 +1028,21 @@
       "url_diff" : ""
    },
    {
+      "artist" : "LeaF Movie:Optie&amp;Fiz/obj:赤い人",
+      "comment" : "",
+      "eval" : 0,
+      "level" : "3",
+      "md5" : "2824e64edffe62b4b380338e64c44044",
+      "name_diff" : "右クリックで保存",
+      "name_pack" : null,
+      "state" : 1,
+      "tag" : null,
+      "title" : "MARENOL [HARD]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=370&amp;event=123",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/MARENOL_HARD.bms",
+      "url_pack" : null
+   },
+   {
       "artist" : "cromo",
       "comment" : "",
       "level" : "19",
@@ -2285,6 +2300,21 @@
       "title" : "Heterochromia Iridis [HARDEST]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=43&event=85",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/Heterochromaia-HARDESTf.bms",
+      "url_pack" : null
+   },
+   {
+      "artist" : "LeaF Movie:Optie&amp;Fiz/obj:赤い人",
+      "comment" : "",
+      "eval" : 0,
+      "level" : "14",
+      "md5" : "6273dd7ff6f719b5267b67a2826b69bd",
+      "name_diff" : "右クリックで保存",
+      "name_pack" : null,
+      "state" : 1,
+      "tag" : null,
+      "title" : "MARENOL [HARDEST]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=370&amp;event=123",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/MARENOL_HARDEST.bms",
       "url_pack" : null
    },
    {
