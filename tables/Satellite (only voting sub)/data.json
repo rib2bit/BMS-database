@@ -4,6 +4,7 @@
       "level" : "9",
       "md5" : "03c6c655edd150ab3058db08a75e98ea",
       "proposer" : "Lapis",
+      "proposerLr2id" : 35410,
       "sha256" : "574a372b4553acc05197633a687a3bef9c6baa5a4ee912eeec3c82c5a30e63d7",
       "submission" : 333,
       "title" : "Gecko [Ruff-Ruff]",
@@ -11,7 +12,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02302",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 9
    },
    {
       "artist" : "wigen_ / Note:薄杏",
@@ -19,6 +20,7 @@
       "level" : "2",
       "md5" : "175243192b0e570c0694a16186e5dc3e",
       "proposer" : "Mayuzumy",
+      "proposerLr2id" : 88804,
       "sha256" : "3c7c5f4665fe3aec40263f6be140fc2131825cd6eb378109608d9e9d82037ace",
       "submission" : 335,
       "title" : "Ring Ring Ring ☆ Let's H! [M@STER]",
@@ -26,13 +28,14 @@
       "url_diff" : "http://lalha.web.fc2.com/",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
+      "voteYes" : 10
    },
    {
       "artist" : "かゆき",
       "level" : "1",
       "md5" : "1ffb42c741af167beccd7b4352daec39",
       "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
       "sha256" : "f5fd1aa2399ed0c5a8cb467d80e0ad32a94d9dd40ac2e8e78e7b2a7632541965",
       "submission" : 309,
       "title" : "last:wish (Another)",
@@ -40,7 +43,7 @@
       "url_diff" : "",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 10
    },
    {
       "artist" : "69 de 74",
@@ -48,6 +51,7 @@
       "level" : "1",
       "md5" : "326516db79007abb6717d31fbceeb2b7",
       "proposer" : "selene.",
+      "proposerLr2id" : 84521,
       "sha256" : "b37d6ebc7495f890d9ff6968eeb8f11fe459db827157e4947883ae57dec14367",
       "submission" : 318,
       "title" : "Little Guardian [ANOTHER]",
@@ -55,7 +59,7 @@
       "url_diff" : "",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 12
+      "voteYes" : 15
    },
    {
       "artist" : "WHITEFISTS / 制限",
@@ -63,20 +67,22 @@
       "level" : "7",
       "md5" : "336e9a2e6d55e6a1ab452507361c368a",
       "proposer" : "LimiteKNJ",
+      "proposerLr2id" : 58418,
       "sha256" : "f5bce04c4bd383c0d70d4d4e994af7b3593cb16a68eae51af989a1c4a87244d3",
       "submission" : 329,
       "title" : "VECTOR",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=424&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02488",
-      "voteNo" : 2,
-      "votePercent" : "75.00",
-      "voteYes" : 6
+      "voteNo" : 3,
+      "votePercent" : "70.00",
+      "voteYes" : 7
    },
    {
       "artist" : "NeLiME / TofaKim / 制限",
       "level" : "2",
       "md5" : "4359c3462350276d78e196a2935c65aa",
       "proposer" : "LimiteKNJ",
+      "proposerLr2id" : 58418,
       "sha256" : "ea38c2cc004c654532d4bfa9efd010c099ec3b99d344d0c757cf583bc6797848",
       "submission" : 337,
       "title" : "LIGHT OF HARMONY",
@@ -84,7 +90,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02367",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
+      "voteYes" : 11
    },
    {
       "artist" : "itao ziro / obj:iidxnico",
@@ -92,14 +98,15 @@
       "level" : "0",
       "md5" : "47e1f3bb5e361c319d0f5cf9176b2af9",
       "proposer" : "iidxnico",
+      "proposerLr2id" : 134586,
       "sha256" : "43c6a60b12865dc9acc6dc27c078c8271f48d8333788e283aae5bd510fb9e789",
       "submission" : 305,
       "title" : "tze chiang -Satellite-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=395&event=88",
       "url_diff" : "https://drive.google.com/file/d/1P_gomnBHC3ri_mAKYK7fsC09DpQgGrUY/view?usp=sharing",
-      "voteNo" : 14,
-      "votePercent" : "39.13",
-      "voteYes" : 9
+      "voteNo" : 23,
+      "votePercent" : "25.81",
+      "voteYes" : 8
    },
    {
       "artist" : "Polymath9 obj: Frozen Fog",
@@ -107,14 +114,15 @@
       "level" : "0",
       "md5" : "5493f9a488c8d3ae64742b74770d9fa3",
       "proposer" : "ww",
+      "proposerLr2id" : 147642,
       "sha256" : "cde08eaeaa5cfdd64874c542d2109bdcb1935a03a3ac0bfb02b1164728923d55",
       "submission" : 343,
       "title" : "Dirge in Magenta [SP ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=332&event=123",
       "url_diff" : "",
       "voteNo" : 2,
-      "votePercent" : "84.62",
-      "voteYes" : 11
+      "votePercent" : "86.67",
+      "voteYes" : 13
    },
    {
       "artist" : "fether / FLR",
@@ -122,13 +130,14 @@
       "level" : "0",
       "md5" : "56877586a8fcb9c18016a3b757a5f571",
       "proposer" : "Niflheimr137",
+      "proposerLr2id" : 113809,
       "sha256" : "056021b0fc666c0a4ca505d6419bcdcd11fe74436b53c1340790917d0dabd69e",
       "submission" : 313,
       "title" : "ピアノ協奏曲第１番\"蠍火\"（なんでも吸い込むピンク色のための）",
       "url" : "https://fether.exblog.jp/#BMS_fether",
       "url_diff" : "",
-      "voteNo" : 15,
-      "votePercent" : "6.25",
+      "voteNo" : 18,
+      "votePercent" : "5.26",
       "voteYes" : 1
    },
    {
@@ -137,20 +146,22 @@
       "level" : "1",
       "md5" : "689a2b8f998abcca07f8c9a2726b7cf1",
       "proposer" : "Lennon",
+      "proposerLr2id" : 90678,
       "sha256" : "700688495d4115c024fb750a59a718ac2e4dfdee5a0d963686c8895a6f97d153",
       "submission" : 311,
       "title" : "MANHATTAN [sweet Vermut]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=108&event=104",
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up7200.zip",
-      "voteNo" : 3,
-      "votePercent" : "66.67",
-      "voteYes" : 6
+      "voteNo" : 5,
+      "votePercent" : "58.33",
+      "voteYes" : 7
    },
    {
       "artist" : "litmus* mov : Can.D -mtmrw / obj : krg",
       "level" : "2",
       "md5" : "73bc86c28a635ff3897cf19044c62e97",
       "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
       "sha256" : "0a2f3471fcbe53ba1d496c7d81a58de7efbdf8b4ccff50f939d4326fd6b50b70",
       "submission" : 306,
       "title" : "The NightScape [Insane]",
@@ -158,7 +169,7 @@
       "url_diff" : "",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 10
+      "voteYes" : 11
    },
    {
       "artist" : "Linne X SCTL Visualized by Keiyuu & RED-FOX / obj.Restia",
@@ -166,14 +177,15 @@
       "level" : "2",
       "md5" : "74a413115f131ff756e64a74d17eb3da",
       "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
       "sha256" : "ffaf5a5b392b8b636882fe1f68fdf509c9944b8e2a8e7c1d5e153401f8ae5c6c",
       "submission" : 312,
       "title" : "WHIRLWIND [ABNORMAL]",
       "url" : "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=43&order=reg&odtype=a",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 12
+      "voteNo" : 1,
+      "votePercent" : "93.33",
+      "voteYes" : 14
    },
    {
       "artist" : "おみー obj:れもんるり",
@@ -181,14 +193,15 @@
       "level" : "1",
       "md5" : "77dd6afb7bfb291774fbdcf5aa0db282",
       "proposer" : "ちひろ",
+      "proposerLr2id" : 147410,
       "sha256" : "ef46c028b64d469c7d19172e955cb58ca2c7e6572c71baecdb12cca4289ccd68",
       "submission" : 332,
       "title" : "Shooting Silver Bullet [ANOTHER]",
       "url" : "http://www.dropbox.com/s/qeyem0s6cd801ug/ShootingSilverBullet_ogg.zip?dl=1",
       "url_diff" : "",
       "voteNo" : 1,
-      "votePercent" : "92.86",
-      "voteYes" : 13
+      "votePercent" : "93.75",
+      "voteYes" : 15
    },
    {
       "artist" : "otokaz/obj:夢瑠",
@@ -196,40 +209,43 @@
       "level" : "4",
       "md5" : "7a7ef296e6725c244884a513819918d8",
       "proposer" : "Mayuzumy",
+      "proposerLr2id" : 88804,
       "sha256" : "f0fd4fa9668d4f81735e781b50af2efe2dc0ee69eab06a5fd0a01fe64aa174d9",
       "submission" : 326,
       "title" : "聖戦ものがたり [yumether]",
       "url" : "http://kbwnk.net/data/oto11_fekp_mq.rar",
       "url_diff" : "http://yumerusabun.web.fc2.com/nue_hakkyou.html",
-      "voteNo" : 1,
-      "votePercent" : "85.71",
-      "voteYes" : 6
+      "voteNo" : 2,
+      "votePercent" : "81.82",
+      "voteYes" : 9
    },
    {
       "artist" : "polysha/ 差分 赤い人",
       "level" : "10",
       "md5" : "7e32af584080fb9965bbf497947de99f",
       "proposer" : "こめっと",
+      "proposerLr2id" : 80964,
       "sha256" : "7f0224a6b0022dfc9998f30f22d4065d784b04c9b482219db14a91bf730363f7",
       "submission" : 307,
       "title" : "It's \"alice\" dream [HARDEST]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=18&event=92",
       "url_diff" : "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html",
       "voteNo" : 1,
-      "votePercent" : "87.50",
-      "voteYes" : 7
+      "votePercent" : "90.91",
+      "voteYes" : 10
    },
    {
       "artist" : "TetraElemental / obj:chack vs 秘密",
       "level" : "12",
       "md5" : "841014193905814ed2007b4d92e7695f",
       "proposer" : "''",
+      "proposerLr2id" : 86456,
       "sha256" : "3104bbba294fe39e63ffe00edd35ccaad18d4023256b33d33e6e3b6b42d59804",
       "submission" : 324,
       "title" : "Ultimate Weapon [Ultimate]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=91",
       "url_diff" : "http://www.geocities.jp/hihihi4442/",
-      "voteNo" : 6,
+      "voteNo" : 10,
       "votePercent" : "0.00",
       "voteYes" : 0
    },
@@ -239,6 +255,7 @@
       "level" : "4",
       "md5" : "8a07fa5f322f8628b14ca4db50c465e0",
       "proposer" : "ww",
+      "proposerLr2id" : 147642,
       "sha256" : "334094a40509437ad1f425f897c164056f666c906d2960d95acb1355ded41b9b",
       "submission" : 341,
       "title" : "Hecatoncheir",
@@ -246,7 +263,7 @@
       "url_diff" : "",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
+      "voteYes" : 12
    },
    {
       "artist" : "HASEKO feat.setuna BGA:わっふゑ / selene.",
@@ -254,6 +271,7 @@
       "level" : "1",
       "md5" : "9747b4925b06dfcdb9bceda47825fa89",
       "proposer" : "jhfdlkjd",
+      "proposerLr2id" : 116710,
       "sha256" : "d861e34940a1b32359ef7bc6142a5935fda20df4431b185178a071f44d6d05fe",
       "submission" : 325,
       "title" : "JUDGEMENT ARROWS -Luna-",
@@ -261,7 +279,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01203",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 10
+      "voteYes" : 13
    },
    {
       "artist" : "MisomyL",
@@ -269,6 +287,7 @@
       "level" : "11",
       "md5" : "9ee580c4d5fc5ee6bdf61e4e366a1975",
       "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
       "sha256" : "022b148f7bd8f468b82c85fece80d8416ef00c359cacd061dc82122dda587d7d",
       "submission" : 310,
       "title" : "Amnehilesie [Etude]",
@@ -276,13 +295,14 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02527",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 9
    },
    {
       "artist" : "SOMON",
       "level" : "0",
       "md5" : "a63a3509dfb7a89c9ed9a1fcba07af87",
       "proposer" : "monaka",
+      "proposerLr2id" : 93763,
       "sha256" : "11d7215681d70544478a02348f3787ee1c427867447db12a404903a234c7ab5b",
       "submission" : 317,
       "title" : "-終天- [BLACK ANOTHER]",
@@ -290,7 +310,7 @@
       "url_diff" : "",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 16
+      "voteYes" : 19
    },
    {
       "artist" : "Polymath9 obj: FrozenFog",
@@ -298,6 +318,7 @@
       "level" : "1",
       "md5" : "a71d7a046c6c200dd99800f8dc5655ab",
       "proposer" : "椒図",
+      "proposerLr2id" : 124809,
       "sha256" : "cb93ca63acb633713cca2e3796b92a8aa36c7e373543f8b8f19d281d5a9ac813",
       "submission" : 315,
       "title" : "Coastline Fantasy [SP Another]",
@@ -305,27 +326,29 @@
       "url_diff" : "",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 11
    },
    {
       "artist" : "RYO/obj:980円の人+",
       "level" : "7",
       "md5" : "a77e4f26d901983f7ec9075e25cd2b0d",
       "proposer" : "파이어",
+      "proposerLr2id" : 7290,
       "sha256" : "8e46f54ca37e7cc5688cd06fee291aa6c8506fc65672cb9a3213dc5a97d5eba9",
       "submission" : 330,
       "title" : "Sky is the Limit [BlackMax]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=287&event=83",
       "url_diff" : "http://p.tl/Yk4s",
       "voteNo" : 1,
-      "votePercent" : "85.71",
-      "voteYes" : 6
+      "votePercent" : "88.89",
+      "voteYes" : 8
    },
    {
       "artist" : "HOLY SAMBA MASTER 佐藤 -SATOH-",
       "level" : "5",
       "md5" : "ace350ad036de70db59adae9e93386fa",
       "proposer" : "monaka",
+      "proposerLr2id" : 93763,
       "sha256" : "c4ed7d521760012dd37fd2d7ccd58842c95a8bf3bf354c29d16a36cbfdb57b2c",
       "submission" : 334,
       "title" : "ホーリーサンバランド [White Another]",
@@ -333,7 +356,7 @@
       "url_diff" : "",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 11
+      "voteYes" : 14
    },
    {
       "artist" : "Mr.Faine feat. Sabjorn, 新山元気",
@@ -341,6 +364,7 @@
       "level" : "1",
       "md5" : "b1b87a8d8895f3823631c2443eef8c08",
       "proposer" : "ww",
+      "proposerLr2id" : 147642,
       "sha256" : "e170352d0bcbded500a020c1338ccfd5a825721507fbe5850cd091b7fc846756",
       "submission" : 344,
       "title" : "ハロウィン・ナイト [another]",
@@ -348,13 +372,14 @@
       "url_diff" : "",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 12
+      "voteYes" : 14
    },
    {
       "artist" : "きゃと composed by TiS /  差分 赤い人 CinerariaStudio",
       "level" : "1",
       "md5" : "b328e36d0b6c5d4d4d6ff6da78601446",
       "proposer" : "파이어",
+      "proposerLr2id" : 7290,
       "sha256" : "30abd4360d931464a8c0dcb429a5ed9a4a743312dd568b794bd9e1a08db36a86",
       "submission" : 319,
       "title" : "FORBIDDEN APPLE [HARD]",
@@ -362,7 +387,7 @@
       "url_diff" : "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 10
+      "voteYes" : 13
    },
    {
       "artist" : "Ym1024 feat. lamie* / obj: かに Movie : Milk_tya / 恋々",
@@ -370,20 +395,22 @@
       "level" : "1",
       "md5" : "c14fa03695eb0d8372414d85bb083fc1",
       "proposer" : "かに",
+      "proposerLr2id" : 115381,
       "sha256" : "79b60e1cd4f9c853753ce2ebc0f9e435cf7849cb07f475cb28438b6482ddf99b",
       "submission" : 308,
       "title" : "holy night celebration [White Christmas]",
       "url" : "http://yellowmapleleaf.com/",
       "url_diff" : "https://puu.sh/CeQrx.zip",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 13
+      "voteNo" : 1,
+      "votePercent" : "93.75",
+      "voteYes" : 15
    },
    {
       "artist" : "にっすぃー obj:SUZUKAZEΛ",
       "level" : "6",
       "md5" : "cbad68665993c552b9f5d30a5af3ea19",
       "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
       "sha256" : "442ea0860f69e118b60dd4f745dc2204db40e48fbb5b893a3eb1cd19cc170787",
       "submission" : 316,
       "title" : "dimension wanderer [ZOI]",
@@ -391,21 +418,22 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 10
    },
    {
       "artist" : "Umiai obj:SUZUKAZEΛ",
       "level" : "4",
       "md5" : "d08e1a937c5080104daa29c79c407075",
       "proposer" : "椒図",
+      "proposerLr2id" : 124809,
       "sha256" : "45595b41a8dacdca79c7441d8335356f0e9f99fc66e5356858e1895cd465309d",
       "submission" : 331,
       "title" : "End Point [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=103&event=110",
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNo" : 1,
-      "votePercent" : "83.33",
-      "voteYes" : 5
+      "votePercent" : "88.89",
+      "voteYes" : 8
    },
    {
       "artist" : "紅蓮月影 BGA:A-ZERO Project / obj:Fender",
@@ -413,14 +441,15 @@
       "level" : "9",
       "md5" : "d7f000e155172ab880f7be09769124cb",
       "proposer" : "selene.",
+      "proposerLr2id" : 84521,
       "sha256" : "b9d9ee03882512e4306159717956334abe586f3d2110ebff798c989669ef151a",
       "submission" : 327,
       "title" : "Andro [F]",
       "url" : "http://www.luzeria.net/music/75_Andro_ogg.rar",
       "url_diff" : "http://swamelo.web.fc2.com/0f_andro_fffff.bme",
-      "voteNo" : 1,
-      "votePercent" : "85.71",
-      "voteYes" : 6
+      "voteNo" : 4,
+      "votePercent" : "63.64",
+      "voteYes" : 7
    },
    {
       "artist" : "mommy",
@@ -428,6 +457,7 @@
       "level" : "6",
       "md5" : "e02a5812ab0b14ad5336384ae6e56ac5",
       "proposer" : "Mayuzumy",
+      "proposerLr2id" : 88804,
       "sha256" : "0c6071ab36939b60827e901504aa7912061e9620ddc7660e7a8c6c7fbd4beb69",
       "submission" : 321,
       "title" : "Lace Queen [7key,Sabother]",
@@ -435,21 +465,22 @@
       "url_diff" : "http://sabosabun.tank.jp/",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 9
    },
    {
       "artist" : "nonomori feat. SAKO obj:monaka",
       "level" : "1",
       "md5" : "e0a137b41ab90eda71d54b3e098a04ea",
       "proposer" : "Lapis",
+      "proposerLr2id" : 35410,
       "sha256" : "55c660e973775dd6886e08ec928f9df2ba450372807a88178bf82b264d8e9c93",
       "submission" : 328,
       "title" : "JOKER GAME [ANOTHER+]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=110&event=123",
       "url_diff" : "https://ux.getuploader.com/monaka_sabun_2/download/177",
-      "voteNo" : 1,
-      "votePercent" : "90.91",
-      "voteYes" : 10
+      "voteNo" : 2,
+      "votePercent" : "85.71",
+      "voteYes" : 12
    },
    {
       "artist" : "Meisolate obj:Sar",
@@ -457,14 +488,15 @@
       "level" : "0",
       "md5" : "e316daca1e2482da42cf69f935a37a41",
       "proposer" : "Lennon",
+      "proposerLr2id" : 90678,
       "sha256" : "941f84a21e12f9245842a9d76785967c6ccb45b5677691c6b5f538a846b8fea6",
       "submission" : 323,
       "title" : "Afterwhile [Twilight]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=48&event=108",
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 13
+      "voteNo" : 1,
+      "votePercent" : "94.12",
+      "voteYes" : 16
    },
    {
       "artist" : "ginkiha あ",
@@ -472,14 +504,15 @@
       "level" : "5",
       "md5" : "e38b9f0a8f66d25966207f24f7b030f5",
       "proposer" : "SUZUKAZEΛ",
+      "proposerLr2id" : 111239,
       "sha256" : "97594450691341139346828afb1a8d2d48a76a287309b3cb46d46d3d378b5e67",
       "submission" : 342,
       "title" : "Fading Star -Canopus-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=397&event=83",
       "url_diff" : "http://drowsy.hannnari.com/index.html",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteNo" : 1,
+      "votePercent" : "91.67",
+      "voteYes" : 11
    },
    {
       "artist" : "Lipschitz",
@@ -487,14 +520,15 @@
       "level" : "7",
       "md5" : "e440c73f7a74122f3e99d9c017339cf2",
       "proposer" : "selene.",
+      "proposerLr2id" : 84521,
       "sha256" : "61965cef9934384f2ec7f79f116e824f03b2ef1a2c70a07d95499ca3b351097a",
       "submission" : 320,
       "title" : "exists Uniquely [INSANE]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=88",
       "url_diff" : "",
       "voteNo" : 2,
-      "votePercent" : "77.78",
-      "voteYes" : 7
+      "votePercent" : "83.33",
+      "voteYes" : 10
    },
    {
       "artist" : "Is-m BGA:ハマドメハマル",
@@ -502,28 +536,30 @@
       "level" : "2",
       "md5" : "e7d5a04c48d7eca8c174f86cd9d56990",
       "proposer" : "monaka",
+      "proposerLr2id" : 93763,
       "sha256" : "8e12f4e4d9ea86df8d3e0bdb9afae76ccf1d1b03928f4451322834f6de35890c",
       "submission" : 322,
       "title" : "Anti Function -SP HYPER-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=120",
       "url_diff" : "",
-      "voteNo" : 3,
-      "votePercent" : "75.00",
-      "voteYes" : 9
+      "voteNo" : 4,
+      "votePercent" : "73.33",
+      "voteYes" : 11
    },
    {
       "artist" : "Darkist / obj:いい靴",
       "level" : "3",
       "md5" : "e93472059879412277ac8b4f4a05fe61",
       "proposer" : "파이어",
+      "proposerLr2id" : 7290,
       "sha256" : "ef5b8e22b815d9761a3389589a30ac118ad2d7db7b39c7b29556ccead9137e09",
       "submission" : 338,
       "title" : "Blood Castle -Ether-",
       "url" : "http://www.dropbox.com/s/wu3k34y76u87g2g/blood%20castle.zip?dl=1",
       "url_diff" : "http://eboots.ashigaru.jp/",
       "voteNo" : 1,
-      "votePercent" : "88.89",
-      "voteYes" : 8
+      "votePercent" : "91.67",
+      "voteYes" : 11
    },
    {
       "artist" : "KA-KU feat.春歌ナナ",
@@ -531,14 +567,15 @@
       "level" : "10",
       "md5" : "ed2ed05899fc1cddc0f3c45a030da778",
       "proposer" : "はしたかさん",
+      "proposerLr2id" : 120169,
       "sha256" : "bc8942266a70601e87412f026eee676872811292ec1afdc0e8cb09b361f159a9",
       "submission" : 340,
       "title" : "ハートマークとエンドロール [Coeur]",
       "url" : "https://www.dropbox.com/s/q42c7lcoj5mmxbx/haert_and_end.zip?dl=0",
       "url_diff" : "",
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteNo" : 1,
+      "votePercent" : "90.00",
+      "voteYes" : 9
    },
    {
       "artist" : "Is-m // あまね（COOL&CREATE） BGA:sveki hamalu / A",
@@ -546,6 +583,7 @@
       "level" : "12",
       "md5" : "f983507496eba4f6566aaea7e566f0e9",
       "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
       "sha256" : "c168c68a2f6746ef592b149549d216a05310c4c57303640d899b2987f75ca40f",
       "submission" : 314,
       "title" : "虹夜パレッド",
@@ -553,7 +591,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02429",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 10
    },
    {
       "artist" : "LeaF Movie:Optie&Fiz",
@@ -561,13 +599,14 @@
       "level" : "9",
       "md5" : "fcf9492aec9196fe7802aba45f38d8a0",
       "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
       "sha256" : "c050339936daf830d405a4092bd6961fa75ba8a8d5e60161ec5d9943c6662472",
       "submission" : 339,
       "title" : "MARENOL [INSANE]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=370&event=123",
       "url_diff" : "",
-      "voteNo" : 3,
-      "votePercent" : "70.00",
-      "voteYes" : 7
+      "voteNo" : 5,
+      "votePercent" : "61.54",
+      "voteYes" : 8
    }
 ]
