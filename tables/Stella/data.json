@@ -150,7 +150,7 @@
    },
    {
       "artist" : "Kinato",
-      "level" : "0",
+      "level" : "1",
       "md5" : "0662edd19b430266883c92a0345e54ba",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,
@@ -749,6 +749,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02104"
    },
    {
+      "artist" : "Lime / Mega",
+      "level" : "2",
+      "md5" : "1c72dd3095f58c181a4a686858eec87b",
+      "proposer" : "파이어",
+      "sha256" : "d887dc9a64e086d69988d1af2b6c2a553ab77880a7fe87cc067dd5127b4915d0",
+      "submission" : 787,
+      "title" : "Stargazer [Simultaneous]",
+      "url" : "http://kanki2.net/bms.html",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01982"
+   },
+   {
       "artist" : "Yu^ta /差分 赤い人",
       "level" : "3",
       "md5" : "1cb91a4319dce2d1c0971557bbccbddd",
@@ -770,18 +781,6 @@
       "title" : "YAKUI (おに)",
       "url" : "https://docs.google.com/uc?export=download&id=0B8Buw0z19S9DU0hUQnJTWE5vRzA",
       "url_diff" : "http://kanki2.net/bme.html"
-   },
-   {
-      "artist" : "ブースター / obj. hplaner",
-      "level" : "0",
-      "md5" : "1d7a8c995ba28203d49e570426e7c662",
-      "proposer" : "파이어",
-      "proposerLr2id" : 7290,
-      "sha256" : "41479623c564f6bad01a32f51e1e889fcf42af5511f774181899fa40166b4f7c",
-      "submission" : 515,
-      "title" : "tightrope city [taxy]",
-      "url" : "http://aquaseeds.net/",
-      "url_diff" : "http://www.hyper-laner.com/sabun.html"
    },
    {
       "artist" : "Queen P.A.L. VJ KINTA / obj.7zs",
@@ -1312,7 +1311,7 @@
    {
       "artist" : "kbwnk max / obj:uet",
       "comment" : "★★4 SLOW",
-      "level" : "0",
+      "level" : "1",
       "md5" : "3066bfbccd42c053189ab544ef9d5f55",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,
@@ -2933,7 +2932,7 @@
    },
    {
       "artist" : "void feat. コツキミヤ , Gt. えば / obj:秘密 BGA : Photonskyto",
-      "level" : "7",
+      "level" : "8",
       "md5" : "641e70eb12f9e0f1a3a3f1b4361c5ee9",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,
@@ -3150,6 +3149,18 @@
       "title" : "Hot Heart is Sprinting Love~!! [宇宙を超越した愛]",
       "url" : "http://k-bms.com/party_pabat/party2015.jsp?board_num=15&num=61&order=reg&odtype=a",
       "url_diff" : "https://www.dropbox.com/s/q42f2n2u7tgc5vv/koiJIlju_S%20P%20A%20C%20E.zip?dl=0"
+   },
+   {
+      "artist" : "立秋 feat.ちょこ / obj:七海千秋",
+      "comment" : "puyopuyo",
+      "level" : "2",
+      "md5" : "6cca64f56cc571e7be47d89f9c09f604",
+      "proposer" : "qtp13",
+      "sha256" : "fcc93f8547554fcd2663065f7f6de5987594e8d9b5b18360a8243c282420cfc2",
+      "submission" : 791,
+      "title" : "プナイプナイせんそう -LAST BOSS-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=104&event=123",
+      "url_diff" : "https://www.dropbox.com/s/w6ub9701nstjryq/_punaipunai2_SPnanami03.bms?dl=0"
    },
    {
       "artist" : "toby fox Remixed by uet BGI : morph",
@@ -4117,18 +4128,6 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00985"
    },
    {
-      "artist" : "maki / obj.hplaner",
-      "comment" : "subconsciousness -KILL-",
-      "level" : "0",
-      "md5" : "8ee7fc1c67826e7437e07b5e1f92d601",
-      "proposer" : "ZEUS",
-      "sha256" : "3bee85623dc80cfc401c8b94939e19ed7155abf0692dca901eedf5579b682cba",
-      "submission" : 300,
-      "title" : "stairway to the universe [laner]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=50&event=96",
-      "url_diff" : "http://www.hyper-laner.com/sabun/sttu_7l.bme"
-   },
-   {
       "artist" : "vorbis / obj:夢瑠",
       "comment" : "微連打複合系",
       "level" : "3",
@@ -4366,7 +4365,7 @@
    {
       "artist" : "Is-m BGA:Y.A.B.tutidama / obj:nullest",
       "comment" : "SAVE",
-      "level" : "0",
+      "level" : "1",
       "md5" : "98235538f28e0be71bcd18a221a4c5a3",
       "proposer" : "こめっと",
       "proposerLr2id" : 80964,
@@ -5079,6 +5078,18 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
    },
    {
+      "artist" : "ふぃるまーち！（CV：ちょこ＆藍月なくる＆山田じぇみ子） MV: うまるつふり ＆ 自動車 原付 / obj:七海千秋",
+      "comment" : "sl8強化版",
+      "level" : "0",
+      "md5" : "b2e0a5d984b39b9a17451000ead86071",
+      "proposer" : "MineC24",
+      "sha256" : "a4a7f14a2ead6861abd72b664dc9da0371ea2cd6ef902d104819dea3ec0054dc",
+      "submission" : 816,
+      "title" : "バーチャルセラピー [超物量セラピー]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=167&event=123",
+      "url_diff" : "https://www.dropbox.com/s/gabn6vryv9s76ms/_fillmarch_spnanami01.bms?dl=0"
+   },
+   {
       "artist" : "wa. / 百舌谷 obj. B_K",
       "comment" : "",
       "level" : "2",
@@ -5151,18 +5162,6 @@
       "title" : "失望Choco (・∀・)",
       "url" : "http://cerebralmuddystream.nekokan.dyndns.info/betoo/?mode=datail&no=106",
       "url_diff" : "http://sabosabun.tank.jp/"
-   },
-   {
-      "artist" : "BMS: Nego_tiator / Movie: Fiz OBJ : ランダマイザ",
-      "comment" : "夢...あるいは在りし日の...",
-      "level" : "0",
-      "md5" : "b57e7f1bdca974cd00379e3d1cf84504",
-      "proposer" : "LUXURY",
-      "sha256" : "1149012de7db3d7c5d1e867616cd437e650a4314dcab84f08bce2526141272f1",
-      "submission" : 243,
-      "title" : "夢/あるいは在りし日の ［usual days'］",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=116",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01135"
    },
    {
       "artist" : "witch's slave / obj:sak",
@@ -5585,17 +5584,16 @@
       "url_diff" : "http://chack3sabun.web.fc2.com/"
    },
    {
-      "artist" : "beatMARIO object by Rian",
-      "comment" : "ALIEN WORLD++",
-      "level" : "4",
-      "md5" : "c5c9d1f4021f0dd14e152d6d0ec63528",
-      "proposer" : "MEES-♬",
-      "proposerLr2id" : 39693,
-      "sha256" : "ec76faa060fa7498e8159bfd3a58a502ce7cd332d50dc7f59a5e4efd6c5553c8",
-      "submission" : 739,
-      "title" : "Destined Marionette -Imagine Breaker-",
-      "url" : "http://cool-create.cc/bms/btm_mario.html",
-      "url_diff" : "https://www.dropbox.com/s/k2t5s8wixk13cp4/mario-ex.bme?dl=0"
+      "artist" : "xixuezique BGA : 空読無 白眼",
+      "comment" : "ophthalmomyiasis",
+      "level" : "3",
+      "md5" : "c52eb8595741d5a6e90d1dee9db4cc28",
+      "proposer" : "MineC24",
+      "sha256" : "1586cbb04e7175c2c576f23305b3e9aa7f9d16ef36314522f55f8ddca42b3968",
+      "submission" : 796,
+      "title" : "ophthalmomyiasis [SP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=38&event=123",
+      "url_diff" : ""
    },
    {
       "artist" : "polysha remixed by tcheb / mov : murotani obj:Criyajuh",
@@ -5658,18 +5656,6 @@
       "title" : "denebora (EX)",
       "url" : "http://estish.nobody.jp/",
       "url_diff" : "http://sabosabun.tank.jp/"
-   },
-   {
-      "artist" : "11.Soccer Team",
-      "comment" : "サビ前２回停止あり",
-      "level" : "0",
-      "md5" : "c7f384d33fd08da0fda97112354a834c",
-      "proposer" : "阿蘇",
-      "sha256" : "4db002099cdf389df64e85e80ea280767ab48b44408cc5a8f58138fa4219df87",
-      "submission" : 208,
-      "title" : "ドキッ！けふぃーとひ・み・つｖのサッカータイム☆☆ニャホニャホしても、いいんですよ･･･？　 ～KEFIFAワールドカップ編 We love 汚滝健太郎～",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=600&event=110",
-      "url_diff" : ""
    },
    {
       "artist" : "sak Movie:猫太郎",
@@ -6291,6 +6277,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01291"
    },
    {
+      "artist" : "薄荷堂 龍 obj.hex",
+      "comment" : "乱打的物量",
+      "level" : "2",
+      "md5" : "dab23f9ac043c210b9192fb9e5e13f1b",
+      "proposer" : "こめっと",
+      "sha256" : "e35866c17d6cb63cdfd22553ce7d99455e32663e0c1b96281b2ffa51ade9e14e",
+      "submission" : 810,
+      "title" : "薄雲 [六角形的]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=303&event=123",
+      "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html"
+   },
+   {
       "artist" : "るいまる obj : BAECON",
       "comment" : "連打  皿",
       "level" : "2",
@@ -6574,6 +6572,17 @@
       "title" : "Celestial Axes  -Ragnarok-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=119",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02181"
+   },
+   {
+      "artist" : "ETIA. feat. Jenga Movie: わっふゑ obj : BAECON",
+      "level" : "1",
+      "md5" : "e603d5a395da06aff896c0a47e8db6c4",
+      "proposer" : "파이어",
+      "sha256" : "7f9fc038f2113d550a3e9fb5b696e2c2ae08a9f734fa2e51ee9730d88bad76d2",
+      "submission" : 806,
+      "title" : "On And On!! [Initiator]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=123",
+      "url_diff" : "http://akred.web.fc2.com/baecon/1380-Initiator.bme"
    },
    {
       "artist" : "fether obj : BAECON vs sak",
