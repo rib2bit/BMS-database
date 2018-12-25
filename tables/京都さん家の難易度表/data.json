@@ -364,19 +364,6 @@
       "video2" : "Cu_qb5wIS1k"
    },
    {
-      "artist" : "Music : Lunatic Sounds / BGA : Photonskyto",
-      "comment" : "青い",
-      "level" : "9",
-      "md5" : "8f80cd8cd1b23b9d4dd2556f3156a0ab",
-      "name_diff" : "差分",
-      "state" : "",
-      "title" : "DataErr0r [AM09]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=104",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00067",
-      "video1" : "",
-      "video2" : "s0OqtwQmInI"
-   },
-   {
       "artist" : "うまるつふり BGA:出前",
       "comment" : "地力",
       "level" : "23",
@@ -609,6 +596,19 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01927",
       "video1" : "",
       "video2" : ""
+   },
+   {
+      "artist" : "Music : Lunatic Sounds / BGA : Photonskyto",
+      "comment" : "青い",
+      "level" : "9",
+      "md5" : "ca7bebfb88e4888ac60fc1f4aac7a18a",
+      "name_diff" : "差分",
+      "state" : "",
+      "title" : "DataErr0r [AM09]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=104",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00067",
+      "video1" : "",
+      "video2" : "s0OqtwQmInI"
    },
    {
       "artist" : "Nakaith",
