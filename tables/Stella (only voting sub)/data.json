@@ -43,8 +43,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=362&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02513",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "Sakamiya feat.mirina img:十恵",
@@ -59,7 +59,7 @@
       "url_diff" : "",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "Soba Yamamori obj.hex",
@@ -106,7 +106,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02387",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "菊田研究所/lactate [Obj.nitsuR]",
@@ -214,8 +214,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=116",
       "url_diff" : "https://mega.nz/#F!hbBSkQII!8i6kzQpfZ7oeMj_xws56kA",
       "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 3
+      "votePercent" : "80.00",
+      "voteYes" : 4
    },
    {
       "artist" : "The Lovers / obj:七海千秋",
@@ -230,8 +230,8 @@
       "url" : "http://tm2.toymusical.net/download.html",
       "url_diff" : "https://www.dropbox.com/s/5m87yphv4rvmkwe/2d_nanami02.bms?dl=0",
       "voteNo" : 1,
-      "votePercent" : "0.00",
-      "voteYes" : 0
+      "votePercent" : "50.00",
+      "voteYes" : 1
    },
    {
       "artist" : "qfeileadh feat. レゾナンスもえこ / obj:C4 Movie : 浪漫映像制作倶楽部",
@@ -279,7 +279,7 @@
       "url_diff" : "http://akred.web.fc2.com/baecon/_yourname_taki_skyfall.bms",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "MALVA. BGA : 焼き鳥　Illustration : しえろ。+ 萬田 / selene.",
