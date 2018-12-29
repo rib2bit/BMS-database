@@ -13,7 +13,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02575",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "sak feat.みゅい Movie: げ～むばか Illust: 球根 / selene.",
@@ -27,8 +27,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02346",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "MisomyL obj. muscleMEN",
@@ -44,7 +44,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02513",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 3
    },
    {
       "artist" : "Sakamiya feat.mirina img:十恵",
@@ -74,8 +74,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=285&event=123",
       "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html",
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "sasakure.UK/さ",
@@ -119,9 +119,9 @@
       "title" : "Free Hand zero [Finger]",
       "url" : "http://web.archive.org/web/20051006002133/http://bof.nothing.sh:8080/file/kikuta-lactate-freehand_zero.zip",
       "url_diff" : "https://www.dropbox.com/s/ylrqjfyraszo2l6/freehandz_Finger.bme?dl=0",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "voteNo" : 1,
+      "votePercent" : "50.00",
+      "voteYes" : 1
    },
    {
       "artist" : "Iriss-Frantzz / MEES_",
@@ -137,7 +137,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02579",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "nmk feat.橘花音 BGA:わっふゑ / obj : Lapis vs BAECON",
@@ -151,8 +151,8 @@
       "title" : "Electric Emotion [Extreme Enthusiasm]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=181&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?",
-      "voteNo" : 1,
-      "votePercent" : "50.00",
+      "voteNo" : 2,
+      "votePercent" : "33.33",
       "voteYes" : 1
    },
    {
@@ -168,8 +168,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=72&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02381",
       "voteNo" : 1,
-      "votePercent" : "0.00",
-      "voteYes" : 0
+      "votePercent" : "50.00",
+      "voteYes" : 1
    },
    {
       "artist" : "sak feat.みゅい obj.mute",
@@ -213,9 +213,9 @@
       "title" : "Luna Express 2032 [銀河鉄道999]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=116",
       "url_diff" : "https://mega.nz/#F!hbBSkQII!8i6kzQpfZ7oeMj_xws56kA",
-      "voteNo" : 1,
-      "votePercent" : "80.00",
-      "voteYes" : 4
+      "voteNo" : 2,
+      "votePercent" : "71.43",
+      "voteYes" : 5
    },
    {
       "artist" : "The Lovers / obj:七海千秋",
@@ -263,7 +263,7 @@
       "url_diff" : "https://drive.google.com/open?id=1nuNmrK5syjUcX06YI2pwg-EW51MniHz5",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "立花 瀧 obj : BAECON",
@@ -295,7 +295,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02419",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "Silentroom \\0",
@@ -311,6 +311,6 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02516",
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 6
    }
 ]
