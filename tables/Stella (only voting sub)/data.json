@@ -105,9 +105,10 @@
       "title" : "Free Hand zero [Finger]",
       "url" : "http://web.archive.org/web/20051006002133/http://bof.nothing.sh:8080/file/kikuta-lactate-freehand_zero.zip",
       "url_diff" : "https://www.dropbox.com/s/ylrqjfyraszo2l6/freehandz_Finger.bme?dl=0",
+      "voteNeutral" : 0,
       "voteNo" : 1,
-      "votePercent" : "50.00",
-      "voteYes" : 1
+      "votePercent" : "66.67",
+      "voteYes" : 2
    },
    {
       "artist" : "ろうて obj.hex",
@@ -123,8 +124,8 @@
       "url_diff" : "https://www.dropbox.com/s/3hx5gdbkmd4k2wc/fantoccini_Hex.bme?dl=0",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "Iriss-Frantzz / MEES_",
@@ -157,7 +158,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
+   },
+   {
+      "artist" : "TetraElemental obj:Omino",
+      "comment" : "",
+      "level" : "9",
+      "md5" : "8468acd84e4c525064f1fa15ea945e0e",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "29d05e2423c2a26fbbce9879e9d25b88b0796c54d22cce8a05784e56bc9f568a",
+      "submission" : 836,
+      "title" : "Ultimate Weapon [Other]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=91",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02576",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "KAH BGA:自動車 原付/illust:手鞠鈴 / obj : BAECON vs sak",
@@ -237,7 +255,7 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02563",
       "voteNeutral" : 0,
-      "voteNo" : 1,
+      "voteNo" : 2,
       "votePercent" : "0.00",
       "voteYes" : 0
    },

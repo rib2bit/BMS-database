@@ -12,9 +12,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=108",
       "url_diff" : "",
       "voteNeutral" : 0,
-      "voteNo" : 1,
-      "votePercent" : "50.00",
-      "voteYes" : 1
+      "voteNo" : 2,
+      "votePercent" : "66.67",
+      "voteYes" : 4
    },
    {
       "artist" : "The Lovers / obj:あーさん",
@@ -45,9 +45,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=284&event=104",
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "voteNo" : 1,
+      "votePercent" : "75.00",
+      "voteYes" : 3
    },
    {
       "artist" : "nora2r feat. カラフル・サウンズ・ポート iimo / B_K",
@@ -63,7 +63,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 5
    },
    {
       "artist" : "ginkiha",
@@ -76,10 +76,10 @@
       "title" : "Oriens",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=214&event=83",
       "url_diff" : "",
-      "voteNeutral" : 1,
-      "voteNo" : 0,
-      "votePercent" : "75.00",
-      "voteYes" : 1
+      "voteNeutral" : 2,
+      "voteNo" : 1,
+      "votePercent" : "71.43",
+      "voteYes" : 4
    },
    {
       "artist" : "かたぎり BGI:mst / obj:NASA",
@@ -94,9 +94,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=108&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02582",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteNo" : 3,
+      "votePercent" : "40.00",
+      "voteYes" : 2
    },
    {
       "artist" : "ねこみりん feat.小宮真央 Movie:むらしん / obj:SUZUKAZEΛ",
@@ -109,10 +109,10 @@
       "title" : "魔法少女になるしかねぇ [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=430&event=116",
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "50.00",
-      "voteYes" : 1
+      "votePercent" : "70.00",
+      "voteYes" : 3
    },
    {
       "artist" : "ろうて / ちゃっく",
@@ -126,10 +126,10 @@
       "title" : "アリスの空虚で愉快な人形劇",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=102",
       "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "62.50",
+      "voteYes" : 2
    },
    {
       "artist" : "紅蓮月影 / OREN-G",
@@ -143,9 +143,10 @@
       "title" : "marginated [MUST DIE]",
       "url" : "http://tm2.toymusical.net/",
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "50.00",
+      "voteYes" : 1
    },
    {
       "artist" : "HaL feat. riri obj:れもんるり",
@@ -161,8 +162,8 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 4
    },
    {
       "artist" : "kagerow / いいくつ",
@@ -178,8 +179,8 @@
       "url_diff" : "http://eboots.ashigaru.jp/",
       "voteNeutral" : 0,
       "voteNo" : 1,
-      "votePercent" : "0.00",
-      "voteYes" : 0
+      "votePercent" : "75.00",
+      "voteYes" : 3
    },
    {
       "artist" : "Ym1024 obj:SUZUKAZEΛ",
@@ -193,10 +194,10 @@
       "title" : "Asgard [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=99&event=115",
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "votePercent" : "91.67",
+      "voteYes" : 5
    },
    {
       "artist" : "Tanchiky",
@@ -210,10 +211,10 @@
       "title" : "ENERGY SYNERGY MATRIX",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=484&event=116",
       "url_diff" : "",
-      "voteNeutral" : 1,
+      "voteNeutral" : 2,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 4
+      "votePercent" : "88.89",
+      "voteYes" : 7
    },
    {
       "artist" : "ken ;bgaparty / obj:kinoko",
@@ -227,9 +228,10 @@
       "title" : "night starter [DARK NIGHT]",
       "url" : "http://www.pixellife.x0.to/event/revival/",
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
+      "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "ginkiha",
@@ -243,10 +245,10 @@
       "title" : "The End of Yggdrasil",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=84",
       "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 1,
-      "votePercent" : "50.00",
-      "voteYes" : 1
+      "voteNeutral" : 1,
+      "voteNo" : 2,
+      "votePercent" : "58.33",
+      "voteYes" : 3
    },
    {
       "artist" : "Process 2.3.1 vs Y-Itoh obj:Fender vs siokaze",
@@ -260,7 +262,7 @@
       "title" : "Le Specimen d'un Papillon [FS]",
       "url" : "http://onedrive.live.com/?cid=8919591A03E5E127&id=8919591A03E5E127!169",
       "url_diff" : "http://fenderbms.web.fc2.com/",
-      "voteNeutral" : 1,
+      "voteNeutral" : 2,
       "voteNo" : 0,
       "votePercent" : "50.00",
       "voteYes" : 0
@@ -279,8 +281,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02427",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 2
+      "votePercent" : "92.86",
+      "voteYes" : 6
    },
    {
       "artist" : "R*uLuru / obj:C4 + monaka BGA:自動車 原付",
@@ -293,10 +295,10 @@
       "title" : "Alitatrieb [Madness]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=121",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02188",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 1
+      "votePercent" : "91.67",
+      "voteYes" : 5
    },
    {
       "artist" : "otoshi.b Movie:Arishima_Caprico",
@@ -313,7 +315,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 5
    },
    {
       "artist" : "くるぶっこちゃん BGA : geniway / obj:SUZUKAZEΛ",
@@ -328,9 +330,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=354&event=110",
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteNo" : 1,
+      "votePercent" : "66.67",
+      "voteYes" : 2
    },
    {
       "artist" : "orangentle / deadblue238 obj:Fender",
@@ -345,9 +347,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=389&event=83",
       "url_diff" : "http://www.dropbox.com/s/8zz9jrdcgit3duk/HAELEQUINEEEFFF.rar?dl=0",
       "voteNeutral" : 0,
-      "voteNo" : 1,
-      "votePercent" : "0.00",
-      "voteYes" : 0
+      "voteNo" : 4,
+      "votePercent" : "20.00",
+      "voteYes" : 1
    },
    {
       "artist" : "music:litmus* / bms: :Poin7less movie:directed by litmus* / obj.#",
@@ -362,9 +364,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02379",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "voteNo" : 1,
+      "votePercent" : "66.67",
+      "voteYes" : 2
    },
    {
       "artist" : "CELLON. / obj:nov",
@@ -379,9 +381,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=83",
       "url_diff" : "http://www.geocities.jp/yjsnpi_kitanai_kusai_unko/BOB2015/BOB2015_k_1_1_7.html",
       "voteNeutral" : 0,
-      "voteNo" : 1,
-      "votePercent" : "0.00",
-      "voteYes" : 0
+      "voteNo" : 2,
+      "votePercent" : "33.33",
+      "voteYes" : 1
    },
    {
       "artist" : "ROKINA on schwarzekugel BGA:アカツキユウ / ImageIllust:あひゅりむ / 差分　赤い人",
@@ -397,7 +399,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 5
    },
    {
       "artist" : "立秋 feat.ちょこ /obj:赤い人",
@@ -413,8 +415,8 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/_punaipunai2_HARD.bms",
       "voteNeutral" : 0,
       "voteNo" : 1,
-      "votePercent" : "66.67",
-      "voteYes" : 2
+      "votePercent" : "87.50",
+      "voteYes" : 7
    },
    {
       "artist" : "⑮ BGA:えらる",
@@ -431,7 +433,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 7
    },
    {
       "artist" : "TiS feat. maho (Cineraria Studio) / U",
@@ -447,8 +449,8 @@
       "url_diff" : "http://www.geocities.jp/yjsnpi_kitanai_kusai_unko/index.html",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "50.00",
-      "voteYes" : 0
+      "votePercent" : "87.50",
+      "voteYes" : 3
    },
    {
       "artist" : "Kuwagata",
@@ -461,10 +463,10 @@
       "title" : "Charlotte, [Yakther]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=217&event=110",
       "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 1,
-      "votePercent" : "50.00",
-      "voteYes" : 1
+      "voteNeutral" : 2,
+      "voteNo" : 2,
+      "votePercent" : "57.14",
+      "voteYes" : 3
    },
    {
       "artist" : "しもやけ obj:monaka",
@@ -481,7 +483,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 5
    },
    {
       "artist" : "dust.c / obj:Takeshita",
@@ -496,8 +498,8 @@
       "url" : "http://www1.axfc.net/u/3152231.rar",
       "url_diff" : "https://www.dropbox.com/s/7r8dz88jkebfuzq/sabun_takeshita.zip?dl=0",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNo" : 2,
+      "votePercent" : "50.00",
       "voteYes" : 2
    },
    {
@@ -515,7 +517,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "Sakamiya feat.mirina img:なのたろ",
@@ -531,8 +533,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "75.00",
-      "voteYes" : 1
+      "votePercent" : "93.75",
+      "voteYes" : 7
    },
    {
       "artist" : "Silentroom × iimo",
@@ -548,8 +550,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 1,
-      "votePercent" : "0.00",
-      "voteYes" : 0
+      "votePercent" : "83.33",
+      "voteYes" : 5
    },
    {
       "artist" : "イヴ",
@@ -562,10 +564,10 @@
       "title" : "絵空事の世界と私 [Another]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=381&event=83",
       "url_diff" : "",
-      "voteNeutral" : 2,
-      "voteNo" : 0,
-      "votePercent" : "66.67",
-      "voteYes" : 1
+      "voteNeutral" : 3,
+      "voteNo" : 1,
+      "votePercent" : "68.75",
+      "voteYes" : 4
    },
    {
       "artist" : "Freezer feat. 妃苺 obj: F.ananassa",
@@ -579,9 +581,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=116 ",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00998",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteNo" : 1,
+      "votePercent" : "87.50",
+      "voteYes" : 7
    },
    {
       "artist" : "kinaphar vs dim. / obj:Lennon",
@@ -598,7 +600,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "翡乃イスカ",
@@ -612,9 +614,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=387&event=123",
       "url_diff" : "",
       "voteNeutral" : 0,
-      "voteNo" : 1,
-      "votePercent" : "0.00",
-      "voteYes" : 0
+      "voteNo" : 3,
+      "votePercent" : "25.00",
+      "voteYes" : 1
    },
    {
       "artist" : "ああああ [Lyrics：あゆむ]  [Vocal：seaside-metro]  [BGA：TOYCAT]/obj:赤い人",
@@ -628,10 +630,10 @@
       "title" : "rainbow [HARDEST]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=300&event=123",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/rainbowHARDEST.bms",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 1
+      "votePercent" : "83.33",
+      "voteYes" : 2
    },
    {
       "artist" : "roop Obj.Triforce",
@@ -647,8 +649,8 @@
       "url_diff" : "http://www.dropbox.com/s/w158rk0qjsppla7/roop_chatblanc_triforce.bms?dl=1",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "50.00",
-      "voteYes" : 0
+      "votePercent" : "90.00",
+      "voteYes" : 4
    },
    {
       "artist" : "9RAN BGI:Ymkzn. / obj:SUZUKAZEΛ",
@@ -665,7 +667,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "ZUN/arr.みょん / iimode-do / かげきち / ALICE* / eiki",
@@ -679,10 +681,10 @@
       "title" : "Plastic Mind -狂気の餡蜜師-",
       "url" : "http://onedrive.live.com/?cid=FC95A680740CA8C9&id=FC95A680740CA8C9!201",
       "url_diff" : "http://skydrive.live.com/?cid=6D4BF06AB079B758&id=6D4BF06AB079B758!177#cid=6D4BF06AB079B758&id=6D4BF06AB079B758!190",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "voteNeutral" : 1,
+      "voteNo" : 3,
+      "votePercent" : "41.67",
+      "voteYes" : 2
    },
    {
       "artist" : "Mastermind(xi+nora2r) iimo / Notes:薄杏",
@@ -696,10 +698,10 @@
       "title" : "Dreadnought [Bravery]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=410&event=104",
       "url_diff" : "http://lalha.web.fc2.com",
-      "voteNeutral" : 0,
+      "voteNeutral" : 2,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "votePercent" : "85.71",
+      "voteYes" : 5
    },
    {
       "artist" : "あきやまうに obj.A",
@@ -714,8 +716,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=102",
       "url_diff" : "http://www.dropbox.com/s/1fcphqzg80xn7uu/_odoru-spKF.zip?dl=0",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "voteNo" : 1,
+      "votePercent" : "66.67",
+      "voteYes" : 2
    }
 ]
