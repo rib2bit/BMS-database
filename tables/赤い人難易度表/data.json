@@ -22,7 +22,7 @@
       "md5" : "0080eadf956738164b20a1cd8cffafc1",
       "name_diff" : "右クリックで保存",
       "name_pack" : null,
-      "state" : 1,
+      "state" : 0,
       "tag" : null,
       "title" : "プナイプナイせんそう [INFERNO]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=104&amp;event=123",
@@ -374,13 +374,18 @@
    {
       "artist" : ":くっちー",
       "comment" : "",
+      "eval" : 0,
       "level" : "18",
       "lr2_bmsid" : 124379,
       "md5" : "0cdc24443d10e50d6a6e5f395988c4de",
       "name_diff" : "右クリック保存",
+      "name_pack" : null,
+      "state" : 0,
+      "tag" : null,
       "title" : "Satori 〜3rd EyEs [DELAYBEGINNER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=53&event=60",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/_satori_delaybeginner.bms"
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/_satori_delaybeginner.bms",
+      "url_pack" : null
    },
    {
       "artist" : "ねこみりん",
@@ -818,13 +823,18 @@
    {
       "artist" : "世紀末ニート",
       "comment" : "▼22",
+      "eval" : 0,
       "level" : "22",
       "lr2_bmsid" : 119696,
       "md5" : "1fd4c852c23ab526a4bd42c23d986fa0",
       "name_diff" : "右クリック保存",
+      "name_pack" : null,
+      "state" : 0,
+      "tag" : null,
       "title" : "機械で勃く127本の生殖器のための狂想曲DT-072 [INFELNO]",
       "url" : "http://www.nicovideo.jp/watch/sm10825150",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/DT-72-spINFELNO.bml"
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/DT-72-spINFELNO.bml",
+      "url_pack" : null
    },
    {
       "artist" : "wa. / 百舌谷 /obj:赤い人",
@@ -1035,7 +1045,7 @@
       "md5" : "2824e64edffe62b4b380338e64c44044",
       "name_diff" : "右クリックで保存",
       "name_pack" : null,
-      "state" : 1,
+      "state" : 0,
       "tag" : null,
       "title" : "MARENOL [HARD]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=370&amp;event=123",
@@ -1869,7 +1879,7 @@
       "md5" : "53a2b45a9b67dddabbd7a44300f3249a",
       "name_diff" : "右クリックで保存",
       "name_pack" : null,
-      "state" : 1,
+      "state" : 0,
       "tag" : null,
       "title" : "On And On!! [HARD]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=6&amp;event=123",
@@ -2036,13 +2046,18 @@
    {
       "artist" : "void ",
       "comment" : "",
+      "eval" : 0,
       "level" : "14",
       "lr2_bmsid" : 144055,
       "md5" : "57890d3e571cabff66d9f028241a14f0",
       "name_diff" : "右クリック保存",
+      "name_pack" : null,
+      "state" : 0,
+      "tag" : null,
       "title" : "Valedict [HARDEST]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=355&event=83",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/Valedict-HARDEST.bme"
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/Valedict-HARDEST.bme",
+      "url_pack" : null
    },
    {
       "artist" : "8284",
@@ -2310,7 +2325,7 @@
       "md5" : "6273dd7ff6f719b5267b67a2826b69bd",
       "name_diff" : "右クリックで保存",
       "name_pack" : null,
-      "state" : 1,
+      "state" : 0,
       "tag" : null,
       "title" : "MARENOL [HARDEST]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=370&amp;event=123",
@@ -2394,7 +2409,7 @@
       "md5" : "65db8c0d857cb6ef770ce50b31a8f9d2",
       "name_diff" : "右クリックで保存",
       "name_pack" : null,
-      "state" : 1,
+      "state" : 0,
       "tag" : null,
       "title" : "温泉大作戦 [HARD]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=226&amp;event=123",
@@ -2409,7 +2424,7 @@
       "md5" : "66bf8efbe5f6e4760d48538167079c8f",
       "name_diff" : "右クリックで保存",
       "name_pack" : null,
-      "state" : 1,
+      "state" : 0,
       "tag" : null,
       "title" : "Stray Toy's Adventure!! [HARD]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=341&amp;event=123",
@@ -2610,13 +2625,33 @@
    {
       "artist" : "髭姫 feat.しゆ＆橘花音",
       "comment" : "",
+      "eval" : 0,
       "level" : "23",
       "lr2_bmsid" : 170272,
       "md5" : "73a1144b713e3b0482d15dea84a5ab78",
       "name_diff" : "右クリック保存",
+      "name_pack" : null,
+      "state" : 0,
+      "tag" : null,
       "title" : "しぇる☆どっきんぐ 〜だめ！このままじゃ溢れちゃう！〜 [INFERNO]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=106&event=88",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/sd-INFERNO.bms"
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/sd-INFERNO.bms",
+      "url_pack" : null
+   },
+   {
+      "artist" : "Sakamiya feat.前野 mov:hx/obj:赤い人",
+      "comment" : "",
+      "eval" : 0,
+      "level" : "11",
+      "md5" : "73cf122e78dec318136399c71936cc58",
+      "name_diff" : "右クリックで保存",
+      "name_pack" : null,
+      "state" : 1,
+      "tag" : null,
+      "title" : "翼の折れた天使たちのレクイエム [HARDEST]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=3&amp;event=123",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/requiem_HARDEST.bms",
+      "url_pack" : null
    },
    {
       "artist" : "69 de 74 BGA : EViL/obj:赤い人",
@@ -2747,13 +2782,18 @@
    {
       "artist" : "ふー&たーな",
       "comment" : "",
+      "eval" : 0,
       "level" : "2",
       "lr2_bmsid" : 176197,
       "md5" : "7ca9066f38ddfa459fc603842ff10eeb",
       "name_diff" : "右クリック保存",
+      "name_pack" : null,
+      "state" : 0,
+      "tag" : null,
       "title" : "せかいのつくりかた [HARD]",
       "url" : "http://skydrive.live.com/?cid=EC550A4504DCD741&id=EC550A4504DCD741%21122#cid=EC550A4504DCD741&id=EC550A4504DCD741%21224",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/world-HARDf.bms"
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/world-HARDf.bms",
+      "url_pack" : null
    },
    {
       "artist" : "yassu ",
@@ -2916,13 +2956,18 @@
    {
       "artist" : "<a href='http://web.archive.org/web/20070727154611/http://sasakure.bms.ms/framemusic.htm '>sasakure.UK</a>",
       "comment" : "",
+      "eval" : 0,
       "level" : "2",
       "lr2_bmsid" : 122225,
       "md5" : "84593ab9e6105a43f51270cc1bebe2f1",
       "name_diff" : "右クリック保存",
+      "name_pack" : null,
+      "state" : 0,
+      "tag" : null,
       "title" : "★SweeT DiscoverY★",
       "url" : "",
-      "url_diff" : "http://akred.web.fc2.com/sweetdiscovery.bme"
+      "url_diff" : "http://akred.web.fc2.com/sweetdiscovery.bme",
+      "url_pack" : null
    },
    {
       "artist" : "ふらんどーる・すかーれっと(495さい)",
@@ -3023,7 +3068,7 @@
       "md5" : "87f4bdeda2791196264bdbb1a588e6b2",
       "name_diff" : "右クリックで保存",
       "name_pack" : null,
-      "state" : 1,
+      "state" : 0,
       "tag" : null,
       "title" : "Never Escape [HARDEST]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=274&amp;event=123",
@@ -3070,13 +3115,18 @@
    {
       "artist" : "BACO feat. るぜ",
       "comment" : "★13",
+      "eval" : 0,
       "level" : "13",
       "lr2_bmsid" : 144894,
       "md5" : "8b71de41395ff4f802b4e6fa7d92f9c0",
       "name_diff" : "右クリック保存",
+      "name_pack" : null,
+      "state" : 0,
+      "tag" : null,
       "title" : "白と臙脂のオモチャバコ [DELAY]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=207&event=83",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/whitelolita-DELAY.bme"
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/whitelolita-DELAY.bme",
+      "url_pack" : null
    },
    {
       "artist" : "暁美ほむら",
@@ -3097,13 +3147,18 @@
    {
       "artist" : ":wa.",
       "comment" : "",
+      "eval" : 0,
       "level" : "22",
       "lr2_bmsid" : 176201,
       "md5" : "8d6f3e6777e969f87071b3951454c567",
       "name_diff" : "右クリック保存",
+      "name_pack" : null,
+      "state" : 0,
+      "tag" : null,
       "title" : "モリオンの姫 [INFERNO]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=60",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/_morion_INFERNOf.bme"
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/_morion_INFERNOf.bme",
+      "url_pack" : null
    },
    {
       "artist" : "kbwnk max ",
@@ -3323,7 +3378,7 @@
       "md5" : "98ef42b0d059ae00e976b811870d9126",
       "name_diff" : "右クリックで保存",
       "name_pack" : null,
-      "state" : 1,
+      "state" : 0,
       "tag" : null,
       "title" : "rainbow [HARD]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=300&amp;event=123",
@@ -3760,7 +3815,7 @@
       "md5" : "a98ff1c9d7ffac9cb333b7278306bbb4",
       "name_diff" : "右クリックで保存",
       "name_pack" : null,
-      "state" : 1,
+      "state" : 0,
       "tag" : null,
       "title" : "プナイプナイせんそう [HARD]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=104&amp;event=123",
@@ -3828,13 +3883,18 @@
    {
       "artist" : "TiS underground",
       "comment" : "",
+      "eval" : 0,
       "level" : "17",
       "lr2_bmsid" : 120482,
       "md5" : "aacf9b59d5ac09d4dc555f5abb683221",
       "name_diff" : "右クリック保存",
+      "name_pack" : null,
+      "state" : 0,
+      "tag" : null,
       "title" : "XROSS DIMENSION [HARDEST]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=75",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/xrossdimension_HARDEST.bms"
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/xrossdimension_HARDEST.bms",
+      "url_pack" : null
    },
    {
       "artist" : "daisan ",
@@ -3917,7 +3977,7 @@
       "md5" : "ac206b2a1f8d63da94660078855977ab",
       "name_diff" : "右クリックで保存",
       "name_pack" : null,
-      "state" : 1,
+      "state" : 0,
       "tag" : null,
       "title" : "MARENOL [INFERNO]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=370&amp;event=123",
@@ -4205,7 +4265,7 @@
       "md5" : "b7dff18d9aeac74702940455e90a6555",
       "name_diff" : "右クリック保存",
       "name_pack" : null,
-      "state" : 2,
+      "state" : 0,
       "tag" : null,
       "title" : "アイーシャの剣-Forcing breakthrough-ＡＮＯＴＨＥＲ＋",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=174&event=74",
@@ -4560,13 +4620,18 @@
    {
       "artist" : "P4koo",
       "comment" : " ",
+      "eval" : 0,
       "level" : "22",
       "lr2_bmsid" : 125282,
       "md5" : "c6eb5b3ca17643f8c3c8ebc68c31ea55",
       "name_diff" : "右クリック保存",
+      "name_pack" : null,
+      "state" : 0,
+      "tag" : null,
       "title" : "Electric Icicles!! [INFELNO]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=66&event=71",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/icicle-INFELNO.bms"
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/icicle-INFELNO.bms",
+      "url_pack" : null
    },
    {
       "artist" : "TAK",
@@ -4699,13 +4764,18 @@
    {
       "artist" : "w_tre",
       "comment" : "",
+      "eval" : 0,
       "level" : "24",
       "lr2_bmsid" : 116532,
       "md5" : "ce29cc499ae42934788b55150668028a",
       "name_diff" : "右クリック保存",
+      "name_pack" : null,
+      "state" : 0,
+      "tag" : null,
       "title" : "煉獄-Purgatorium- [死ぬがよい]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=172&event=74",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/rengokuDEATH.bme"
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/rengokuDEATH.bme",
+      "url_pack" : null
    },
    {
       "artist" : "Luxion ",
@@ -4756,6 +4826,21 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/melody-express_shout.bme"
    },
    {
+      "artist" : "Sakamiya feat.前野 mov:hx/obj:赤い人",
+      "comment" : "",
+      "eval" : 0,
+      "level" : "1",
+      "md5" : "d05b069006aae6989ccb5ab4fafe9982",
+      "name_diff" : "右クリックで保存",
+      "name_pack" : null,
+      "state" : 1,
+      "tag" : null,
+      "title" : "翼の折れた天使たちのレクイエム [HARD]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=3&amp;event=123",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/requiem_HARD.bms",
+      "url_pack" : null
+   },
+   {
       "artist" : "Arranged by Y.W",
       "comment" : "▼22",
       "eval" : 0,
@@ -4790,13 +4875,18 @@
    {
       "artist" : "Est feat. 都築きせの",
       "comment" : "",
+      "eval" : 0,
       "level" : "5",
       "lr2_bmsid" : 163961,
       "md5" : "d0be89fd082966836d5d7ea4f89880b8",
       "name_diff" : "右クリック保存",
+      "name_pack" : null,
+      "state" : 0,
+      "tag" : null,
       "title" : "Re: Hyper SuperExpress [HARD]",
       "url" : "https://skydrive.live.com/?cid=EC550A4504DCD741&id=EC550A4504DCD741%21224",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/ReHyperSuperExpress-HARD.bms"
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/ReHyperSuperExpress-HARD.bms",
+      "url_pack" : null
    },
    {
       "artist" : "ねこみりん feat.小宮真央",
@@ -4844,7 +4934,7 @@
       "md5" : "d20a263deebaf93ab3c76850c2c50f81",
       "name_diff" : "右クリック保存",
       "name_pack" : null,
-      "state" : 2,
+      "state" : 0,
       "tag" : null,
       "title" : "幸なる旋律-the solitary melody- [INFERNO]",
       "url" : "http://skydrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9!111",
@@ -5181,7 +5271,7 @@
       "md5" : "dd875b50d2eabd169af37f61ec9d0be7",
       "name_diff" : "右クリックで保存",
       "name_pack" : null,
-      "state" : 1,
+      "state" : 0,
       "tag" : null,
       "title" : "プナイプナイせんそう [HARDEST]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=104&amp;event=123",
@@ -5211,7 +5301,7 @@
       "md5" : "dfa7a9706059297fc7bbc1b14c884372",
       "name_diff" : "右クリックで保存",
       "name_pack" : null,
-      "state" : 1,
+      "state" : 0,
       "tag" : null,
       "title" : "rainbow [HARDEST]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=300&amp;event=123",
@@ -5352,7 +5442,7 @@
       "md5" : "e488b404d6f5da84ea1ce98f9ac4572b",
       "name_diff" : "右クリック保存",
       "name_pack" : null,
-      "state" : 2,
+      "state" : 0,
       "tag" : null,
       "title" : "Shade of Gloria [INFERNO]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=82&event=88",
@@ -5493,7 +5583,7 @@
       "md5" : "ea6d579306a3d2c7ddb36d1922212bc0",
       "name_diff" : "右クリックで保存",
       "name_pack" : null,
-      "state" : 1,
+      "state" : 0,
       "tag" : null,
       "title" : "Stray Toy's Adventure!! [HARDEST]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=341&amp;event=123",
@@ -5920,13 +6010,18 @@
    {
       "artist" : "ねこみりん feat.みゆ",
       "comment" : "▼05",
+      "eval" : 0,
       "level" : "5",
       "lr2_bmsid" : 141763,
       "md5" : "fbb94ec3b1da64dc1f7bb7bd17e72a12",
       "name_diff" : "右クリック保存",
+      "name_pack" : null,
+      "state" : 0,
+      "tag" : null,
       "title" : "宇宙のMI'Sキッチン [HARD]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=139&event=83",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/death_cokking-HARD.bme"
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/death_cokking-HARD.bme",
+      "url_pack" : null
    },
    {
       "artist" : " CrYmson ",
