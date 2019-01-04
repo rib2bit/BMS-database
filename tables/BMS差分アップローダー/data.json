@@ -705,6 +705,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01943"
    },
    {
+      "adddate" : "2019/01/04 21:36",
+      "artist" : "黒皇帝 Movie: Cirkass / HS-FIX MIN",
+      "comment" : "皿、連打、HS-FIX MIN",
+      "folder" : "2019/01",
+      "genre" : "ART BREAKS",
+      "keys" : "7",
+      "level" : "2019/01",
+      "lr2_bmsid" : "269911",
+      "md5" : "02ee843aaff79ad00bbb68fe8006584c",
+      "org_level" : null,
+      "title" : "Astar [Bellman-Ford]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=176&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02619"
+   },
+   {
       "adddate" : "2017/01/30 17:51",
       "artist" : "shimizushi BGA : vol-t & a.a / obj : monaka",
       "comment" : "乱打",
@@ -14085,6 +14100,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00275"
    },
    {
+      "adddate" : "2019/01/04 22:53",
+      "artist" : "削除 feat. Nikki Simmons / obj:七海千秋 Movie:Radiosity&yoshimo",
+      "comment" : "地力、2596のファイルが間違っていた。",
+      "folder" : "2019/01",
+      "genre" : "BEAM",
+      "keys" : "7",
+      "level" : "2019/01",
+      "lr2_bmsid" : "269702",
+      "md5" : "508caa088da8d50603cfe1389585b0af",
+      "org_level" : null,
+      "title" : "Destr0yer -Last Song-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02620"
+   },
+   {
       "adddate" : "2018/12/28 22:35",
       "artist" : "削除 feat. Nikki Simmons / obj:七海千秋 Movie:Radiosity&yoshimo",
       "comment" : "物量、1234567LNある",
@@ -25661,7 +25691,7 @@
       "md5" : "93e5f0b1ef845bcc3456b0b409860845",
       "org_level" : null,
       "title" : "After The Rain [MANIAC]",
-      "url" : "",
+      "url" : "http://www1.axfc.net/uploader/so/2870281",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01951"
    },
    {
@@ -26681,7 +26711,7 @@
       "md5" : "98c9303878240de1c56295f8f6e8c6af",
       "org_level" : null,
       "title" : "auf Wiedersehen",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=67&event=83",
+      "url" : "https://dropbox.bms.ms/u/106449495/aufwiedersehen.zip",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01259"
    },
    {
@@ -37213,6 +37243,21 @@
       "title" : "夢/あるいは在りし日の [LN Existence]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01553"
+   },
+   {
+      "adddate" : "2019/01/04 08:35",
+      "artist" : "隣の庭は青い(庭師+Aoi) obj.Lapis",
+      "comment" : "2613の修正版",
+      "folder" : "2019/01",
+      "genre" : "HYBRID CORE",
+      "keys" : 7,
+      "level" : "2019/01",
+      "lr2_bmsid" : "269902",
+      "md5" : "d2442cb1be9bb439fa49564a8f4548f7",
+      "org_level" : null,
+      "title" : "Polacro [Hypothetical]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=123&num=295",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02618"
    },
    {
       "adddate" : "2018/09/02 17:32",
