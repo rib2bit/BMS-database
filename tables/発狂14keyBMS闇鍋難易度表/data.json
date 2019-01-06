@@ -2863,6 +2863,13 @@
       "title" : "Believe (14lines-ahya)"
    },
    {
+      "artist" : "knot / iimode-do obj:ucc",
+      "comment" : "Techno",
+      "level" : "2",
+      "md5" : "12638e7ee87fb9b0bd794a82be61c6d7",
+      "title" : "analog sky [H14]"
+   },
+   {
       "artist" : "onoken / R-G / srof",
       "comment" : "NOSTAL EURO (14LINE ANOTHER)",
       "level" : "7",
@@ -4774,7 +4781,7 @@
       "title" : "Titania [LN14]"
    },
    {
-      "artist" : "Shiraishi obj:hoi2",
+      "artist" : "Shiraishi obj:hoi2  *LR.RANDOM",
       "comment" : "Hardcore",
       "level" : "★5",
       "md5" : "1e970a6ec27945a3be715ee64fe03e06",
@@ -5833,7 +5840,7 @@
    {
       "artist" : "knot / iimode-do obj:ucc *R.MIRROR",
       "comment" : "Techno",
-      "level" : "5",
+      "level" : "7",
       "md5" : "25870865639df9f8f057e7057fc3d1bf",
       "title" : "analog sky [EX14]"
    },
@@ -7553,7 +7560,7 @@
       "title" : "Rabbits [DP ANOTHER]"
    },
    {
-      "artist" : "Arranged by Y.W",
+      "artist" : "Arranged by Y.W *L.MIR or L.MIR R.RAN",
       "comment" : "HAPPY SYMPHONY /// 14KEYS CATASTROPHE LN",
       "level" : "★6",
       "md5" : "311e7143764ca5997aa07c210eb83bea",
@@ -12845,6 +12852,13 @@
       "title" : "景色の境界 -DP Shigeru Another-"
    },
    {
+      "artist" : "編曲:ようか　BMS:双空 *FLIP L.MIR R.RAN",
+      "comment" : "東方妖々夢　piano solo",
+      "level" : "9",
+      "md5" : "54c533874387846779add7eaf72d310f",
+      "title" : "幽雅に咲かせ、黒染の桜～Border of life"
+   },
+   {
       "artist" : "remixed celas feat.ARU / obj : lemon_aided *LR.MIRROR",
       "comment" : "trance hi-speed",
       "level" : "7",
@@ -15584,7 +15598,7 @@
    {
       "artist" : "puru twk. sound piercer (feat.Hee Bun.D) obj:Dr.K",
       "comment" : "Freeform / Gabber",
-      "level" : "★5",
+      "level" : "★6",
       "md5" : "65adabbe450b2b42ff0cb4a7705a7769",
       "title" : "Toki (Sound piercer's Timesucker Remix) [DP EXTRA]"
    },
@@ -16767,7 +16781,7 @@
    {
       "artist" : "er *R.MIRROR",
       "comment" : "TRANCY FLOWPOP",
-      "level" : "★5",
+      "level" : "★6",
       "md5" : "6d75cd4d23bcd8b15992bf66bf05d529",
       "title" : "STAR STREAM  [INSANE14]"
    },
@@ -18200,7 +18214,7 @@
       "title" : "風仁雷仁 (DP Master)"
    },
    {
-      "artist" : "polysha mov.zue-row / obj:コトネとしずくちゃん  *L.MIR R.RAN",
+      "artist" : "polysha mov.zue-row / obj:コトネとしずくちゃん  *L.MIR",
       "comment" : "TRANCE",
       "level" : "★6",
       "md5" : "75d4d7993c5608a92d42bd6a6803310b",
@@ -19248,6 +19262,13 @@
       "level" : "9",
       "md5" : "7c1e1c75df15a5b499f9dcedc71b955c",
       "title" : "MIGHTY OBSTACLE"
+   },
+   {
+      "artist" : "P4koo Obj. KENIN*",
+      "comment" : "Remix",
+      "level" : "6",
+      "md5" : "7c237629ce3c30155c018cd12a3b7aff",
+      "title" : "The Heroine Appears. DP Another"
    },
    {
       "artist" : "GEMA / obj:lichtr",
@@ -21355,6 +21376,13 @@
       "level" : "8",
       "md5" : "89639898fb0dc00a003f6824f076e940",
       "title" : "Akasagarbha -dp insane-"
+   },
+   {
+      "artist" : "LUNE/双空",
+      "comment" : "Organo",
+      "level" : "?",
+      "md5" : "8969a5a32b511c4dd1cd9ae14c8a50d3",
+      "title" : "梓 Another（long m ver）"
    },
    {
       "artist" : "paraoka *FLIP R.MIR or FLIP R.RAN",
@@ -29764,9 +29792,9 @@
       "title" : "いじわるプリンセス [DP INSANE]"
    },
    {
-      "artist" : "knot / iimode-do obj:ucc *L.MIRROR",
+      "artist" : "knot / iimode-do obj:ucc *FLIP",
       "comment" : "Techno",
-      "level" : "3",
+      "level" : "4",
       "md5" : "bd4af65cbb2efae5c70aa22f1f82558f",
       "title" : "analog sky [A14]"
    },
@@ -30385,6 +30413,13 @@
       "level" : "10",
       "md5" : "c0e42d76d5710c088165d1f270ae670f",
       "title" : "すばらきしこのせかい [縦連打14]"
+   },
+   {
+      "artist" : "双闇",
+      "comment" : "piano solo",
+      "level" : "3",
+      "md5" : "c0f4e5cc257ee3f4b8cd6667e2253387",
+      "title" : "追憶の雨"
    },
    {
       "artist" : "Is-m BGA:murotani",
@@ -31498,6 +31533,13 @@
       "level" : "★4",
       "md5" : "c8b933dd56ad8c8a16287f7b01ec1229",
       "title" : "Satori ～3rd EyEs (bms edit) [ふつう]"
+   },
+   {
+      "artist" : "LUNE",
+      "comment" : "Chocolate Pop",
+      "level" : "2",
+      "md5" : "c8b9c3ef381aef2a36ea2c2590c0ebe3",
+      "title" : "おもいでづくり -DP-"
    },
    {
       "artist" : "siromaru obj@PEN",
@@ -32865,9 +32907,9 @@
       "title" : "pp-hunk [CH14]"
    },
    {
-      "artist" : "knot / iimode-do Notes: pico*",
+      "artist" : "knot / iimode-do Notes: pico*  *FLIP",
       "comment" : "Techno",
-      "level" : "4",
+      "level" : "2",
       "md5" : "d2422fa3fe0ddff8e5b943d8b126ee78",
       "title" : "analog sky [mono]"
    },
@@ -36183,6 +36225,13 @@
       "title" : "La notti bianche [LNEX14修正前版]"
    },
    {
+      "artist" : "双闇 *FLIP R.MIRROR",
+      "comment" : "piano solo",
+      "level" : "?",
+      "md5" : "e9652f856a1a9961b8ce28d84e8a71be",
+      "title" : "septic septet -hand fear-"
+   },
+   {
       "artist" : "SM-NX",
       "comment" : "MAINSTREAM HARDCORE",
       "level" : "10",
@@ -36771,6 +36820,13 @@
       "title" : "Fairy tale [ＭｉｒａｃｌｅVersion]"
    },
    {
+      "artist" : "双闇 *AVERAGE LR.RAN",
+      "comment" : "piano solo",
+      "level" : "?",
+      "md5" : "ecb5548800b237827cc825496ff51660",
+      "title" : "『７』の傾斜"
+   },
+   {
       "artist" : "kiu13 *FLIP",
       "comment" : "DRUM'N BASS",
       "level" : "5",
@@ -37219,7 +37275,7 @@
       "title" : "Amusing Colorful Pudding. (DP sweet)"
    },
    {
-      "artist" : "なおきち",
+      "artist" : "なおきち *正規 or FLIP LR.MIR",
       "comment" : "Classic(その道のプロ)",
       "level" : "★5",
       "md5" : "eed3fb9c0419d6f7d4e0fc87e73f7434",
@@ -39464,6 +39520,13 @@
       "level" : "6",
       "md5" : "fda43a94d30807e7931f087de19adb19",
       "title" : "To you (ｳﾊｿ｡ｰﾔ) (14 another)"
+   },
+   {
+      "artist" : "LUNE",
+      "comment" : "gigue",
+      "level" : "2",
+      "md5" : "fdf1830a46aea46ef53953f93926a971",
+      "title" : "終人形　～尽～ -14key Another-"
    },
    {
       "artist" : "m108/Notes:天乃桜音々 BGA:メツヤ Illust:flap",
