@@ -3255,6 +3255,13 @@
       "title" : "織姫 [雨天]"
    },
    {
+      "artist" : "DJ TECHNORCH Remixed by tpa:pbr / obj:LD",
+      "comment" : "FREEFORM HARDCORE",
+      "level" : "4",
+      "md5" : "1500c5bb65e49fa3ff72e39483c94145",
+      "title" : "Gothic System -C.H.S_NRG Mix- [14KEYS A]"
+   },
+   {
       "artist" : "Ujico* / To7 obj:Love & Pain",
       "comment" : "Fantasic Fusion",
       "level" : "8",
@@ -3402,11 +3409,11 @@
       "title" : "梅雨の黒い黄昏 (14keys Maniac)"
    },
    {
-      "artist" : "kei_iwata *FLIP",
+      "artist" : "kei_iwata",
       "comment" : "House",
       "level" : "2",
       "md5" : "15c7f0074050981661167ddb68d390e5",
-      "title" : "Stay beside me (Another14)"
+      "title" : "Stay beside me  (Another14)"
    },
    {
       "artist" : "Team:SASAKURATION/BMSSP *SUD+",
@@ -3414,6 +3421,13 @@
       "level" : "10",
       "md5" : "15d71138988ace814837b86bbb6fce30",
       "title" : "AVALON [14]WASEDA"
+   },
+   {
+      "artist" : "Forte Escape remixed by gmtn./obj:epics- visualized by light motion *57  *R.MIR",
+      "comment" : "TRANCE",
+      "level" : "2",
+      "md5" : "15ee795033d2f5847f2db04e9adee2de",
+      "title" : "Artificial Integrity (gmtn. remix)  -14another-"
    },
    {
       "artist" : "金獅子 Remixed by Hate *FLIP L.MIR or LR.RAN",
@@ -31577,6 +31591,13 @@
       "title" : "Justitia (DP CHALLENGER+)"
    },
    {
+      "artist" : "Koji M",
+      "comment" : "EUROBEAT",
+      "level" : "3",
+      "md5" : "c917fdb0c5c51b9539d32611fd895fbd",
+      "title" : "2nd Anniversary [ANOTHER14]"
+   },
+   {
       "artist" : "悠然 / obj 穂海",
       "comment" : "HAPPY HARD CORE",
       "level" : "4",
@@ -32748,7 +32769,7 @@
    {
       "artist" : "篠螺悠那 OBJ : KLOC  *正規 or FLIP LR.MIR",
       "comment" : "fantasia",
-      "level" : "★4",
+      "level" : "★5",
       "md5" : "d0f35c8d3614332cb53eeaf83bbba6cf",
       "title" : "物怪舞踏 [百鬼夜行]"
    },
@@ -39443,6 +39464,13 @@
       "level" : "10",
       "md5" : "fd25ef62b4d13e156d280959e91a7bb0",
       "title" : "Lonely Cat [DP Cat fog]"
+   },
+   {
+      "artist" : "ESTi arranged by Quillah *MAXBPM+80->0",
+      "comment" : "Breakcore",
+      "level" : "10",
+      "md5" : "fd2cf0fc3230306f1346514d132686f1",
+      "title" : "NO SIN FOR ME  (DA)"
    },
    {
       "artist" : "Rocky obj:killer TOMATO *FLIP R.MIRROR",

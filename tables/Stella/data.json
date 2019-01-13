@@ -39,6 +39,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02181"
    },
    {
+      "artist" : "HOUJIROU obj:Omino",
+      "comment" : "st7~8?",
+      "level" : "8",
+      "md5" : "02580b5c353eac65db38470fee32bd4f",
+      "proposer" : "こめっと",
+      "sha256" : "09ca3c2b352dda20162fcff0f1557ee6c3d1cca69ac104974442d9ac1a2e8249",
+      "submission" : 829,
+      "title" : "Buuuuuuurstraffic [Other]",
+      "url" : "https://dropbox.bms.ms/u/107522853/bms/%5BMaple_brit%27S%5DBuuuuuuurstraffic-HOUJIROU.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02575"
+   },
+   {
       "artist" : "flicknote vocals: MindaRyn / obj: sak",
       "comment" : "停止あり",
       "level" : "9",
@@ -53,7 +65,7 @@
    {
       "artist" : "corok-Bb",
       "comment" : "BPM200の皿付き同時押し",
-      "level" : "4",
+      "level" : "3",
       "md5" : "040e60aa93b5541a64a931c8c25f401c",
       "proposer" : "桜ノ宮苺香",
       "proposerLr2id" : 61713,
@@ -796,6 +808,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/"
    },
    {
+      "artist" : "MisomyL obj. muscleMEN",
+      "comment" : "st7-8 超高速",
+      "level" : "6",
+      "md5" : "1f42eaefa1141ac6613f8bc57480578a",
+      "proposer" : "ZEUS",
+      "sha256" : "19510dfee78a7eb477dafcd367a871436f09960271e1cc080b2cf2533a0c6fa1",
+      "submission" : 823,
+      "title" : "Amnehilesie [DESPERATE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=362&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02513"
+   },
+   {
       "artist" : "Lime / inukoro",
       "comment" : "高速",
       "level" : "5",
@@ -952,6 +976,17 @@
       "title" : "Illusion of Mind [kerother]",
       "url" : "http://k-bms.com/party_pabat/party2014.jsp?board_num=11&num=24&order=reg&odtype=a",
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up5227.rar"
+   },
+   {
+      "artist" : "Sakamiya feat.mirina img:十恵",
+      "level" : "1",
+      "md5" : "252bcf5a72f440bcedd74e65350b1ca2",
+      "proposer" : "파이어",
+      "sha256" : "2a9586f69b6b4db9b878b734217282f4888cf5a7f071aa62664ef1a556716d33",
+      "submission" : 814,
+      "title" : "A-chasing-Y [Madness]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=50&event=104",
+      "url_diff" : ""
    },
    {
       "artist" : "超究極ウルトラアルティメットゴリラ愛花(改)(＾＾) BGA : 室谷",
@@ -2133,6 +2168,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01400"
    },
    {
+      "artist" : "ろうて obj.hex",
+      "comment" : "st1~2 ガチ押しと物量",
+      "level" : "2",
+      "md5" : "450ac5435f537aba33ddc34dc06a7404",
+      "proposer" : "qtp13",
+      "sha256" : "a9fc325143693ca7dbf9dcd6307c50eb3bb7386325c0ea4e084582464b8653a3",
+      "submission" : 834,
+      "title" : "アリスの空虚で愉快な人形劇 [Hexagon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=102",
+      "url_diff" : "https://www.dropbox.com/s/3hx5gdbkmd4k2wc/fantoccini_Hex.bme?dl=0"
+   },
+   {
       "artist" : "Ym1024 feat. lamie*　/obj:Leva BGA : Mentalstock",
       "comment" : "st4~5 ガチ押し",
       "level" : "5",
@@ -3165,7 +3212,7 @@
    {
       "artist" : "立秋 feat.ちょこ / obj:七海千秋",
       "comment" : "puyopuyo",
-      "level" : "2",
+      "level" : "1",
       "md5" : "6cca64f56cc571e7be47d89f9c09f604",
       "proposer" : "qtp13",
       "sha256" : "fcc93f8547554fcd2663065f7f6de5987594e8d9b5b18360a8243c282420cfc2",
@@ -3520,6 +3567,17 @@
       "url_diff" : "http://www.geocities.jp/dsks5456/index.html"
    },
    {
+      "artist" : "otoshi.b Movie:Arishima_Caprico / obj.mute",
+      "level" : "1",
+      "md5" : "792b8daa37dea9193a0e3d92ecc6da75",
+      "proposer" : "こめっと",
+      "sha256" : "cad8e63c420ea853183d55cfa675ccc68f773c0fc82dcefa23168e576252e837",
+      "submission" : 831,
+      "title" : "Absolute Future [Fortunately]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=18&event=123",
+      "url_diff" : ""
+   },
+   {
       "artist" : "kanoryo/obj:赤い人",
       "comment" : "同時押し",
       "level" : "2",
@@ -3743,7 +3801,7 @@
    {
       "artist" : "髭姫 feat. えみゅう。 LYRICS：やんばるん BGA：Milk_tya ILLUST：UNOQLO obj：もさ子",
       "comment" : "ガチ押しとズレの…",
-      "level" : "6",
+      "level" : "5",
       "md5" : "83589087b6c8e6a79998be146b2a24de",
       "proposer" : "qtp13",
       "sha256" : "a8e93ce20ead1fb176ec721a039cbe504d2ab5550456bfcf78ce1f7788ae842d",
@@ -3786,6 +3844,18 @@
       "title" : "図書室のえれな",
       "url" : "http://tosyosituno-elsa.tumblr.com/",
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up5894.rar"
+   },
+   {
+      "artist" : "TetraElemental obj:Omino",
+      "comment" : "",
+      "level" : "9",
+      "md5" : "8468acd84e4c525064f1fa15ea945e0e",
+      "proposer" : "LUXURY♪",
+      "sha256" : "29d05e2423c2a26fbbce9879e9d25b88b0796c54d22cce8a05784e56bc9f568a",
+      "submission" : 836,
+      "title" : "Ultimate Weapon [Other]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=91",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02576"
    },
    {
       "artist" : "kanone obj.OXYGEN",
@@ -4310,6 +4380,18 @@
       "title" : "あなた [Delay32]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=382&event=83",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi"
+   },
+   {
+      "artist" : "Sakamiya feat.小宮真央 mov:わっふゑ img:hrchem",
+      "comment" : "st0~1?",
+      "level" : "0",
+      "md5" : "949001cff5b3401543134964395782f8",
+      "proposer" : "MineC24",
+      "sha256" : "6546ef3b4b247ebc690217a1e235be30c6f51909d89360a7c67deb7a0e974917",
+      "submission" : 822,
+      "title" : "Luna Express 2032 [銀河鉄道999]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=116",
+      "url_diff" : "https://mega.nz/#F!hbBSkQII!8i6kzQpfZ7oeMj_xws56kA"
    },
    {
       "artist" : "SHIKI // BGA:あかくらげ & M.H / selene.",
@@ -5805,6 +5887,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01908"
    },
    {
+      "artist" : "Qga / obj. Tristan97",
+      "comment" : "very easy on easy gauge.... ~st0-1?",
+      "level" : "0",
+      "md5" : "cbcf5a8b7c7b92f5af53f4702286872d",
+      "proposer" : "Tristan97",
+      "sha256" : "276f64485df3a742082f4c7650e7b2170775a7b6c55c2e7a45508cdead2c078b",
+      "submission" : 827,
+      "title" : "CyberGarden -Digital Butterfly-",
+      "url" : "https://www.dropbox.com/s/58ne74c49kw1vb7/Cybergarden.zip?dl=1",
+      "url_diff" : "https://drive.google.com/open?id=1nuNmrK5syjUcX06YI2pwg-EW51MniHz5"
+   },
+   {
       "artist" : "ROKINA / Illust:出前 obj:selene. vs 1/8",
       "comment" : "hayaaaaaaai",
       "level" : "9",
@@ -6999,6 +7093,18 @@
       "title" : "禁忌と緋色幻想 -The Primary Plasm- [OVERKILL]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=118",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01502"
+   },
+   {
+      "artist" : "Freezer feat. 妃苺 obj:MiracleOnsen",
+      "comment" : "st2~3?",
+      "level" : "3",
+      "md5" : "f5114077ded4168d255c7f0e24ff21f1",
+      "proposer" : "MineC24",
+      "sha256" : "89a724454a98aaf13d635a2ffb1380925cbe25789fb78adfb62c827a5554ba7c",
+      "submission" : 832,
+      "title" : "温泉大作戦 [温泉卵]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=226&event=123",
+      "url_diff" : "https://mega.nz/#F!hbBSkQII!8i6kzQpfZ7oeMj_xws56kA"
    },
    {
       "artist" : "NIKITA / obj:BAECON",

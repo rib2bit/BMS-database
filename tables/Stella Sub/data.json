@@ -81,7 +81,7 @@
    {
       "artist" : "HOUJIROU obj:Omino",
       "comment" : "st7~8?",
-      "level" : "7",
+      "level" : "8",
       "md5" : "02580b5c353eac65db38470fee32bd4f",
       "proposer" : "こめっと",
       "proposerLr2id" : 80964,
@@ -128,7 +128,7 @@
    {
       "artist" : "corok-Bb",
       "comment" : "BPM200の皿付き同時押し",
-      "level" : "4",
+      "level" : "3",
       "md5" : "040e60aa93b5541a64a931c8c25f401c",
       "proposer" : "桜ノ宮苺香",
       "proposerLr2id" : 61713,
@@ -2965,6 +2965,23 @@
       "voteYes" : 0
    },
    {
+      "artist" : "tarolabo // obj:.ctc",
+      "comment" : "chaos",
+      "level" : "1",
+      "md5" : "3b073741055654a2bcf0fb925489c869",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "df7f0eee2fa893dfc0e03ea35d7a8751388b0bd0a20489cd5d56e37f9dc2ab2d",
+      "submission" : 839,
+      "title" : "Gynandromorph [7key:白黒モザイク:濃いめ]",
+      "url" : "http://www.mediafire.com/file/44680p3uf7dab41/Gynandromorph.zip",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00548",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "sa10 obj : LindBlum",
       "comment" : "ディレイ混じりの乱打",
       "level" : "8",
@@ -3594,7 +3611,7 @@
    {
       "artist" : "ろうて obj.hex",
       "comment" : "st1~2 ガチ押しと物量",
-      "level" : "1",
+      "level" : "2",
       "md5" : "450ac5435f537aba33ddc34dc06a7404",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -4136,6 +4153,23 @@
       "url_diff" : "https://www.dropbox.com/s/qahirn7hrznofjg/Cosmogazer_%20cluster%20of%20galaxies.zip?dl=0"
    },
    {
+      "artist" : "削除 feat. Nikki Simmons / obj:七海千秋 Movie:Radiosity&yoshimo",
+      "comment" : "BEAM",
+      "level" : "2",
+      "md5" : "508caa088da8d50603cfe1389585b0af",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "a4515925232199c7d19df35fd5c3795ad7f8f06574e2acbf06b5d2d10cc3f504",
+      "submission" : 841,
+      "title" : "Destr0yer -Last Song-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=123",
+      "url_diff" : "https://www.dropbox.com/s/5j4b3rf051derut/7nanami02.bml?dl=0",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "Linne X SCTL / obj;N Visualized by Keiyuu & RED-FOX",
       "comment" : "ガチ押し",
       "level" : "9",
@@ -4385,6 +4419,23 @@
       "voteYes" : 0
    },
    {
+      "artist" : "An obj:Omino",
+      "comment" : "st4~5 The spectrum of destiny",
+      "level" : "4",
+      "md5" : "575a09f7bd5d6e22f91e01fdff83ff38",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "a9b4e3b956c537c2c6f20a076975aa96d6a3f3dc01ab417c3309a9587e85196f",
+      "submission" : 837,
+      "title" : "TearVid [Other]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=117&event=74",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "ridis / obj. hplaner",
       "comment" : "ガチ押し、前半難",
       "level" : "5",
@@ -4510,7 +4561,7 @@
    {
       "artist" : "Iriss-Frantzz / MEES_",
       "comment" : "連打",
-      "level" : "5",
+      "level" : "6",
       "md5" : "5a05feff25c78726de3aa0c1d09a86b9",
       "proposer" : "MEES-♬",
       "proposerLr2id" : 39693,
@@ -5433,7 +5484,7 @@
    {
       "artist" : "立秋 feat.ちょこ / obj:七海千秋",
       "comment" : "puyopuyo",
-      "level" : "2",
+      "level" : "1",
       "md5" : "6cca64f56cc571e7be47d89f9c09f604",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -5545,6 +5596,23 @@
       "title" : "Misty DASH ! [7KEYS RuNRuN-EX]",
       "url" : "http://nekokan.dyndns.info/~anonymous/bms/kody/mistydash_bga3-ogg.zip",
       "url_diff" : "http://2nd.geocities.jp/yoshi_65c816/was/list.html",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "3034 obj.xert*",
+      "comment" : "Another+よりむつかしい",
+      "level" : "8",
+      "md5" : "6ec59bf7008a6698d4b2bcd7db71e184",
+      "proposer" : "KIYOM99",
+      "proposerLr2id" : 128003,
+      "sha256" : "3e01a00a461377ca6c923ed2e2750af3876877a787b4ebd440b63b879eb096a4",
+      "submission" : 843,
+      "title" : "NS22 [Pwnable]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=214&event=74",
+      "url_diff" : "http://extr.tistory.com/179",
+      "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -5971,7 +6039,7 @@
    },
    {
       "artist" : "otoshi.b Movie:Arishima_Caprico / obj.mute",
-      "level" : "2",
+      "level" : "1",
       "md5" : "792b8daa37dea9193a0e3d92ecc6da75",
       "proposer" : "こめっと",
       "proposerLr2id" : 80964,
@@ -6342,7 +6410,7 @@
    {
       "artist" : "髭姫 feat. えみゅう。 LYRICS：やんばるん BGA：Milk_tya ILLUST：UNOQLO obj：もさ子",
       "comment" : "ガチ押しとズレの…",
-      "level" : "6",
+      "level" : "5",
       "md5" : "83589087b6c8e6a79998be146b2a24de",
       "proposer" : "qtp13",
       "sha256" : "a8e93ce20ead1fb176ec721a039cbe504d2ab5550456bfcf78ce1f7788ae842d",
@@ -6791,7 +6859,7 @@
    },
    {
       "artist" : "nmk / わっふゑ obj: qtp13",
-      "level" : "7",
+      "level" : "6",
       "md5" : "8b80f903e5130379f658863cbd568186",
       "proposer" : "파이어",
       "proposerLr2id" : 7290,
@@ -7156,6 +7224,23 @@
       "title" : "axs (-------)",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=40&event=17",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00772",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "+45 / obj: white train",
+      "comment" : "sl12~st0 respect for Aci-L-GOD",
+      "level" : "0",
+      "md5" : "91b0a169e6cde78b058fda8a404240a0",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "afa8331c98cad7b387997c8d87e1ad5969055495b2afb054d18847b79ef551d9",
+      "submission" : 842,
+      "title" : "B e l i - R - G O D",
+      "url" : "https://mega.nz/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA!ENcwFKTA",
+      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up4725.rar",
+      "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -10838,7 +10923,7 @@
    {
       "artist" : "MALVA. BGA : 焼き鳥　Illustration : しえろ。+ 萬田 / selene.",
       "comment" : "ガチ押し",
-      "level" : "8",
+      "level" : "7",
       "md5" : "dd79321fa52676ddf9e8f169aaecbe88",
       "proposer" : "こめっと",
       "proposerLr2id" : 80964,
@@ -11048,6 +11133,23 @@
       "title" : "白狼",
       "url" : "https://wumalutsufuri.wixsite.com/wumalutsufuri/bms",
       "url_diff" : "",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "Caerula obj:Omino",
+      "comment" : "DELAAAAY",
+      "level" : "6",
+      "md5" : "e304ab14c7108c907b664592a5f7efdc",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "61b19e1077ed7b4f911ef51514100941f5c744a80b3be251cd1b61782c71af5e",
+      "submission" : 840,
+      "title" : "ブラーブルー [Other]",
+      "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/12/",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02578",
+      "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -12293,6 +12395,23 @@
       "title" : "BlythE:ExtenD [MUST DIE]",
       "url" : "https://web.archive.org/web/20160808001644/http://creation-records.info:80/bms/blythe_r_ogg.rar",
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up1959.zip",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "Junk obj:Omino",
+      "comment" : "KACHIFUSHI",
+      "level" : "7",
+      "md5" : "fdb9d7d8eaca594231dda88b539253cb",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "b5efc5ee8f5cd07d54d25075b53be23a718932199c8ff3c33133e91206f36f21",
+      "submission" : 838,
+      "title" : "Life is PIANO [Other]",
+      "url" : "http://www.junk-channel.com/junk_g2r2018_ogg.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02606",
+      "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
