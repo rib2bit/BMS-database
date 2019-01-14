@@ -11,10 +11,10 @@
       "title" : "村 [村 of a Bitch]",
       "url" : "http://qstol.sakura.ne.jp/kanji/bms_detail.php?id=16",
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up7155.zip",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "75.00",
+      "voteYes" : 1
    },
    {
       "artist" : "tokiru_iwata",
@@ -27,7 +27,7 @@
       "title" : "moor [SP INSANE]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=51&event=123",
       "url_diff" : "",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 1,
       "votePercent" : "50.00",
       "voteYes" : 1
@@ -62,8 +62,8 @@
       "url_diff" : "https://ux.getuploader.com/monaka_sabun_2/download/178",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "Lime / 温泉の力 obj:saaa",
@@ -79,8 +79,8 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up5448.zip",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "Yu^ta obj.Lapis",
@@ -96,8 +96,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "75.00",
-      "voteYes" : 1
+      "votePercent" : "83.33",
+      "voteYes" : 2
    },
    {
       "artist" : "影虎。",
@@ -110,10 +110,10 @@
       "title" : "Reimei [Futabather]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=123&num=333",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02564",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "83.33",
+      "voteYes" : 2
    },
    {
       "artist" : "gmtn. mov:solidstock respect for 姫沙羅",
@@ -130,7 +130,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 4
    },
    {
       "artist" : "るり / A",
@@ -146,8 +146,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/ ",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "Venstant BGA : nanairo&flap  Obj :賽銭箱",
@@ -183,6 +183,23 @@
       "voteYes" : 1
    },
    {
+      "artist" : "Irish Kappa BGA: Rinser obj:れもんるり",
+      "comment" : "高速軸",
+      "level" : "11",
+      "md5" : "4f86c4d20af4d619f9fbe693db0c0d30",
+      "proposer" : "桜ノ宮苺香",
+      "proposerLr2id" : 61713,
+      "sha256" : "bc2c1fe763198d8fd3999d54c15f602957bab14967f4c8d2113673805abbfe99",
+      "submission" : 515,
+      "title" : "Death Opera [The Phantom]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=137&event=104",
+      "url_diff" : "http://absolute.pv.land.to/bof/src/up0927.zip",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
       "artist" : "xelloscope / obj:Monsta",
       "level" : "4",
       "md5" : "5f8458521d749bd7bf3c3df6a64e0ae7",
@@ -193,10 +210,10 @@
       "title" : "Apollo [Monsther]",
       "url" : "http://www.luzeria.net/?p=387",
       "url_diff" : "http://3228monsta.web.fc2.com/",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "75.00",
+      "voteYes" : 4
    },
    {
       "artist" : "P4koo/Thekara",
@@ -212,8 +229,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 1,
-      "votePercent" : "0.00",
-      "voteYes" : 0
+      "votePercent" : "83.33",
+      "voteYes" : 5
    },
    {
       "artist" : "Glome /差分　赤い人",
@@ -229,8 +246,8 @@
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up2434.rar",
       "voteNeutral" : 0,
       "voteNo" : 1,
-      "votePercent" : "0.00",
-      "voteYes" : 0
+      "votePercent" : "50.00",
+      "voteYes" : 1
    },
    {
       "artist" : "tarolabo / obj:Nitrix",
@@ -264,7 +281,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "keyc / obj.ejl6",
@@ -278,10 +295,10 @@
       "title" : "blue traces [Capture]",
       "url" : "https://onedrive.live.com/?cid=F881BCC298BA2E47&id=F881BCC298BA2E47!104",
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "0.00",
-      "voteYes" : 0
+      "votePercent" : "62.50",
+      "voteYes" : 2
    },
    {
       "artist" : "NONE",
@@ -298,7 +315,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 4
    },
    {
       "artist" : "litmus* + Sound Souler mov : Khronetic",
@@ -314,8 +331,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 2,
-      "votePercent" : "66.67",
-      "voteYes" : 4
+      "votePercent" : "75.00",
+      "voteYes" : 6
    },
    {
       "artist" : "ag obj.screw",
@@ -328,10 +345,10 @@
       "title" : "Right Back",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=139&event=88",
       "url_diff" : "http://iidxscrew.blog.fc2.com/blog-entry-1.html",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 1
+      "votePercent" : "87.50",
+      "voteYes" : 3
    },
    {
       "artist" : "Sakamiya feat.toz img:ぬけみち Lyrics:uoru obj:SUZUKAZEΛ",
@@ -345,10 +362,10 @@
       "title" : "空 [ZOI]",
       "url" : "http://dipathos.web.fc2.com/BMS.html",
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "75.00",
+      "voteYes" : 1
    },
    {
       "artist" : "黄泉路テヂーモ / obj : LindBlum BGA:鑓田",
@@ -361,10 +378,10 @@
       "title" : "エーデルワイス [Linther]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=95",
       "url_diff" : "http://onedrive.live.com/redir?resid=6A58DD88BD7062C4!210&authkey=!AGZePJr_LRrydzg&ithint=folder%2czip",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 1
+      "votePercent" : "83.33",
+      "voteYes" : 2
    },
    {
       "artist" : "roop × Mentalstock / selene.",
@@ -380,7 +397,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "siqlo BGA:Karekitsune obj:sitoras",
@@ -413,8 +430,8 @@
       "url_diff" : "https://dl.dropbox.com/s/6l9lweyi4u98x0l/lapis_the_heavens_remix-%5BMAX%5D.zip",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "fen/obj:BOKKI",
@@ -431,7 +448,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "shimizushi illust:a.a / obj:monaka",
@@ -447,8 +464,8 @@
       "url_diff" : "https://ux.getuploader.com/monaka_sabun_2/download/157",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "Junk BGA : YARITA / obj:あると vs りこぴー",
@@ -463,25 +480,8 @@
       "url" : "https://www.axfc.net/u/3933668.zip",
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 1
-   },
-   {
-      "artist" : "corok-Bb obj. BK",
-      "comment" : "",
-      "level" : "5",
-      "md5" : "bf50b63ea7bce6272ca71a76bce39826",
-      "proposer" : "_sr",
-      "proposerLr2id" : 103940,
-      "sha256" : "f01032d8deba1c8f25d2d3a3983f246614070a75b1cb22a98937883680c5fb64",
-      "submission" : 510,
-      "title" : "Signager -HONGKONG EXPRESS-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=121",
-      "url_diff" : "http://beatkim.web.fc2.com/",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNo" : 1,
+      "votePercent" : "66.67",
       "voteYes" : 2
    },
    {
@@ -495,9 +495,9 @@
       "title" : "Reso*nyan*ce Fever [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=566&event=110",
       "url_diff" : "",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : 0,
+      "votePercent" : "50.00",
       "voteYes" : 0
    },
    {
@@ -528,10 +528,10 @@
       "title" : "NS18 [ANOTHER+]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=61",
       "url_diff" : "http://siokazebms.web.fc2.com/",
-      "voteNeutral" : 1,
+      "voteNeutral" : 3,
       "voteNo" : 0,
-      "votePercent" : "75.00",
-      "voteYes" : 1
+      "votePercent" : "78.57",
+      "voteYes" : 4
    },
    {
       "artist" : "Aota2. / ALESSA / obj:仙人掌の人",
@@ -547,8 +547,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "ETIA. feat. Jenga Movie: HDLV/obj:赤い人",
@@ -562,10 +562,10 @@
       "title" : "IKAROS [HARD]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=110",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/IKAROS_HARD.bme",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "66.67",
-      "voteYes" : 2
+      "votePercent" : "75.00",
+      "voteYes" : 4
    },
    {
       "artist" : "-RYO- / obj:秘密",
@@ -614,7 +614,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
    },
    {
       "artist" : "corok-Bb",
@@ -628,10 +628,10 @@
       "title" : "Signager (Another)",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=121",
       "url_diff" : "",
-      "voteNeutral" : 0,
+      "voteNeutral" : 2,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 1
+      "votePercent" : "75.00",
+      "voteYes" : 2
    },
    {
       "artist" : "puru twk. sound piercer (feat.Hee Bun.D) obj by s.p.jakko+",
@@ -647,7 +647,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 6
    },
    {
       "artist" : "Hayata# obj. BK",
@@ -662,7 +662,7 @@
       "url_diff" : "http://beatkim.web.fc2.com/insane.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    }
 ]

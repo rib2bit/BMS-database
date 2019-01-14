@@ -50,6 +50,23 @@
       "voteYes" : 0
    },
    {
+      "artist" : "eicateve hrchem[illust] TOHRU MiTSUHASHi[movie] И[object]",
+      "comment" : "おはよー",
+      "level" : "1",
+      "md5" : "3c7f1156f4dbf59839fc7675d891210b",
+      "proposer" : "MEES-♬",
+      "proposerLr2id" : 39693,
+      "sha256" : "7f8a728de7328c5a5febc1742cea816489a7c7a602c449a94a4a2df95cae4486",
+      "submission" : 845,
+      "title" : "R.I.P.",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=339&event=123",
+      "url_diff" : "https://mega.nz/#F!hbBSkQII!8i6kzQpfZ7oeMj_xws56kA",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "削除 feat. Nikki Simmons / obj:七海千秋 Movie:Radiosity&yoshimo",
       "comment" : "BEAM",
       "level" : "2",
@@ -61,6 +78,23 @@
       "title" : "Destr0yer -Last Song-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=123",
       "url_diff" : "https://www.dropbox.com/s/5j4b3rf051derut/7nanami02.bml?dl=0",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "Kinato / Ds",
+      "comment" : "[WARNING!!] EXTRA BOSS [WARNING!!]",
+      "level" : "8",
+      "md5" : "5096962c8426f96f51608c0aba78ca7d",
+      "proposer" : "MEES-♬",
+      "proposerLr2id" : 39693,
+      "sha256" : "2757f5356fe156f8c10eb112c9b9e357614a6c49f6a570d5a5ea850ab769cd14",
+      "submission" : 844,
+      "title" : "P.S : Plasma Strike - EXTRA BOSS -",
+      "url" : "http://1drv.ms/1KYCL0P",
+      "url_diff" : "http://sagena.harisen.jp/bms/psex.zip",
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
@@ -216,6 +250,6 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 2
    }
 ]

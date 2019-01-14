@@ -34,8 +34,8 @@
    },
    {
       "artist" : "cybermiso",
-      "comment" : "癖コレ!?14,皿,◎5くらい",
-      "level" : "9",
+      "comment" : "皿,癖コレ!?15,◎5くらい",
+      "level" : "10",
       "lr2_bmsid" : 233897,
       "md5" : "0c8bfeb96ff37f3eb555645f7bbdf26e",
       "name_diff" : "差分",
@@ -89,7 +89,7 @@
    },
    {
       "artist" : "1/8",
-      "comment" : "物量,低速,高TOTAL,前半難,高速乱打",
+      "comment" : "物量,低速,高TOTAL,前半難,高速乱打,ノマゲは★22くらい",
       "level" : "99",
       "lr2_bmsid" : 267094,
       "md5" : "27c9d9cedf2c3a287f24c412841c6f9c",
@@ -100,7 +100,7 @@
    },
    {
       "artist" : "篠螺悠那",
-      "comment" : "stella st0,同時押し気味の乱打,高TOTAL(0.32%)",
+      "comment" : "同時押し気味の乱打,高TOTAL(0.32%),stella st0",
       "level" : "20",
       "lr2_bmsid" : 263198,
       "md5" : "32f1a933bfad5ebcee1e753c08aad451",
@@ -111,7 +111,7 @@
    },
    {
       "artist" : "qfeileadh feat. レゾナンスもえこ",
-      "comment" : "中速乱打,高速乱打,局所発狂",
+      "comment" : "中速乱打,高速乱打,局所発狂,第2通常難易度▽12",
       "level" : "2",
       "lr2_bmsid" : 268429,
       "md5" : "38fec065ecdd091c073d5e9d3855196e",
@@ -122,8 +122,8 @@
    },
    {
       "artist" : "w_tre",
-      "comment" : "第2発狂難易度▼3,24分",
-      "level" : "3",
+      "comment" : "24分,第2発狂難易度▼2",
+      "level" : "2",
       "lr2_bmsid" : 262902,
       "md5" : "3a2759c3528c7ce0d9bf9539b2ddc479",
       "name_diff" : "差分",
@@ -133,7 +133,7 @@
    },
    {
       "artist" : "II-L",
-      "comment" : "癖サブ¿¡19,LN,低速,微縦連",
+      "comment" : "LN,低速,微縦連,癖サブ¿¡19",
       "level" : "14",
       "lr2_bmsid" : 238801,
       "md5" : "45c888c25e26aa338cb3215e4ff0b94a",
@@ -187,7 +187,7 @@
    },
    {
       "artist" : "Yosk!",
-      "comment" : "第2発狂難易度▼23,ズレ乱打,局所発狂",
+      "comment" : "ズレ乱打,局所発狂,第2発狂難易度▼23",
       "level" : "23",
       "lr2_bmsid" : 264157,
       "md5" : "579d9957eb63cbaf2b0471b82d343347",
@@ -231,7 +231,7 @@
    },
    {
       "artist" : "Yosk!",
-      "comment" : "第2発狂難易度▼9,ズレ乱打",
+      "comment" : "ズレ乱打,第2発狂難易度▼9",
       "level" : "9",
       "lr2_bmsid" : 264156,
       "md5" : "5911f25b95bc04e7177cda6acc23da55",
@@ -243,7 +243,7 @@
    {
       "artist" : "暮狛 (movie : くわぎう)",
       "comment" : "物量,前半難,高速乱打,高TOTAL,ランダム分岐",
-      "level" : "17",
+      "level" : "15",
       "lr2_bmsid" : 266801,
       "md5" : "59cecd5ff719d4dbff1d5db7896073f8",
       "name_diff" : "",
@@ -253,7 +253,7 @@
    },
    {
       "artist" : "plastic feat.サキト",
-      "comment" : "ディレイ",
+      "comment" : "ディレイ,satellite sl4",
       "level" : "7",
       "lr2_bmsid" : 263615,
       "md5" : "5cd3a41e8f017eb4164c6bded198ddc9",
@@ -329,7 +329,7 @@
    },
    {
       "artist" : "R*uLuru",
-      "comment" : "中速,高速乱打",
+      "comment" : "中速,高速乱打,satellite sl1",
       "level" : "2",
       "lr2_bmsid" : 264763,
       "md5" : "797ded0efc357dea2f4cae56536ebd3b",
@@ -406,7 +406,7 @@
    },
    {
       "artist" : "cybermiso",
-      "comment" : "癖サブ¿¡28,低TOTAL,縦連",
+      "comment" : "低TOTAL,縦連,癖サブ¿¡28",
       "level" : "23",
       "lr2_bmsid" : 265156,
       "md5" : "99fcdc3f3180626636fefeabe3f1f069",
@@ -417,8 +417,8 @@
    },
    {
       "artist" : "R*uLuru",
-      "comment" : "中速、高速乱打",
-      "level" : "14",
+      "comment" : "中速、高速乱打,satellite sl8",
+      "level" : "13",
       "lr2_bmsid" : 264764,
       "md5" : "9a4f793c19d3f7b27187bf50b858e95d",
       "name_diff" : "差分",
@@ -439,7 +439,7 @@
    },
    {
       "artist" : "qfeileadh feat. レゾナンスもえこ",
-      "comment" : "中速乱打,高速乱打,ガチ押し,やや低TOTAL",
+      "comment" : "中速乱打,高速乱打,ガチ押し,やや低TOTAL,第2発狂難易度▼24,stella st3",
       "level" : "24",
       "lr2_bmsid" : 268485,
       "md5" : "a2284b403d90fdf8c055dab688838079",
@@ -461,7 +461,7 @@
    },
    {
       "artist" : "qfeileadh feat. レゾナンスもえこ",
-      "comment" : "中速乱打,高速乱打,微縦連",
+      "comment" : "中速乱打,高速乱打,微縦連,第2発狂難易度▼15",
       "level" : "15",
       "lr2_bmsid" : 268293,
       "md5" : "a9e52da28747098fcc9f9a72a14b8a32",
@@ -549,8 +549,8 @@
    },
    {
       "artist" : "qfeileadh",
-      "comment" : "乱打",
-      "level" : "7",
+      "comment" : "乱打,satellite sl3",
+      "level" : "5",
       "lr2_bmsid" : 264436,
       "md5" : "bc6b095f7f03cf5f23b887062fbce81b",
       "name_diff" : "差分",
@@ -604,7 +604,7 @@
    },
    {
       "artist" : "Darkist",
-      "comment" : "前半LN,主に乱打,☆12相当",
+      "comment" : "前半LN,主に乱打,☆12相当,satellite sl0",
       "level" : "0",
       "lr2_bmsid" : 263079,
       "md5" : "c80b46aad4650d02933ca4af53a0b010",
@@ -616,7 +616,7 @@
    {
       "artist" : "w_tre",
       "comment" : "縦連,ズレ系譜面,",
-      "level" : "17",
+      "level" : "16",
       "lr2_bmsid" : 263852,
       "md5" : "c82740dcd8b68d55022502a6ea0dae8a",
       "name_diff" : "差分",
@@ -626,8 +626,8 @@
    },
    {
       "artist" : "痛男次郎",
-      "comment" : "高速乱打",
-      "level" : "13",
+      "comment" : "高速乱打,satellite sl8",
+      "level" : "14",
       "lr2_bmsid" : 264353,
       "md5" : "cc5abe2098468dda9baa63eeb7c39f31",
       "name_diff" : "差分",
@@ -670,7 +670,7 @@
    },
    {
       "artist" : "eicateve",
-      "comment" : "癖コレ!?20,縦連,超低TOTAL(0.06%,71TOTAL)",
+      "comment" : "縦連,超低TOTAL(0.06%,71TOTAL),癖コレ!?20",
       "level" : "15",
       "lr2_bmsid" : 262752,
       "md5" : "d9244464e77b79f7c550929d560da8e9",
@@ -692,7 +692,7 @@
    },
    {
       "artist" : "Caerula",
-      "comment" : "高速乱打,終盤難,ラスト回復",
+      "comment" : "高速乱打,終盤難,ラスト回復,satellite sl1",
       "level" : "1",
       "lr2_bmsid" : 264262,
       "md5" : "e7fd7f0663aed3b7aa8c3422ee389d69",
@@ -747,7 +747,7 @@
    },
    {
       "artist" : "qfeileadh feat. レゾナンスもえこ",
-      "comment" : "☆2相当",
+      "comment" : "第2通常難易度▽2",
       "level" : "-4",
       "lr2_bmsid" : 268251,
       "md5" : "f64de31e9e7abdb3ab0b2e18a4924070",
@@ -780,7 +780,7 @@
    },
    {
       "artist" : "LeaF",
-      "comment" : "ソフラン,HARD判定,高TOTAL(0.5%)",
+      "comment" : "ソフラン,HARD判定,高TOTAL(0.5%),癖サブ¿¡7",
       "level" : "99",
       "lr2_bmsid" : 264225,
       "md5" : "f9794feca1a8b7901b870fc14004c09e",
@@ -803,7 +803,7 @@
    {
       "artist" : "HillStream",
       "comment" : "中速乱打,超局所超発狂",
-      "level" : "5",
+      "level" : "4",
       "lr2_bmsid" : 267593,
       "md5" : "fbf37719423b029bebd3475b81889f9d",
       "name_diff" : "",
