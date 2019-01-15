@@ -255,7 +255,7 @@
    },
    {
       "artist" : "litmus* / obj.7zs",
-      "level" : "9",
+      "level" : "10",
       "md5" : "08cd57615b032334aea711bff8392254",
       "proposer" : "こめっと",
       "proposerLr2id" : 80964,
@@ -3247,6 +3247,23 @@
       "title" : "MANHATTAN [sweet Vermut]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=108&event=104",
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up7200.zip",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "かたぎり illust:YuleOz",
+      "comment" : "BGA ver",
+      "level" : "5",
+      "md5" : "68a1b7d61286124391cba6e8cb4c2c74",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "427837e1312c9f9b4850fc1697888877807ed1ff6491ffcd8aed1f84508c4f42",
+      "submission" : 516,
+      "title" : "Reso*nyan*ce Fever [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=566&event=110",
+      "url_diff" : "",
+      "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
