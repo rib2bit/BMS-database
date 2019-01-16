@@ -78,9 +78,9 @@
       "title" : "Destr0yer -Last Song-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=123",
       "url_diff" : "https://www.dropbox.com/s/5j4b3rf051derut/7nanami02.bml?dl=0",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : 0,
+      "votePercent" : "50.00",
       "voteYes" : 0
    },
    {
@@ -199,7 +199,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "MALVA. BGA : 焼き鳥　Illustration : しえろ。+ 萬田 / selene.",
@@ -232,8 +232,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02578",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 1
    },
    {
       "artist" : "Junk obj:Omino",
@@ -250,6 +250,6 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    }
 ]
