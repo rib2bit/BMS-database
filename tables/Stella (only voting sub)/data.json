@@ -33,6 +33,23 @@
       "voteYes" : 5
    },
    {
+      "artist" : "さかみりな img:おまる氏 notes:おさら",
+      "comment" : "皿ー",
+      "level" : "4",
+      "md5" : "29af1dd88c026f4f7fa03c3f571669eb",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "7867918605ebddee51efd9d4fc4956638b716a3cb57841a75c262c5e23e6883b",
+      "submission" : 849,
+      "title" : "もーにんぐ☆えくすたしー！ (はぴがばみっくす) -やばいばる-",
+      "url" : "http://colosseo.nekokan.dyndns.info/c04_shuffle3/detail/view/26/",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "tarolabo // obj:.ctc",
       "comment" : "chaos",
       "level" : "1",
@@ -44,10 +61,10 @@
       "title" : "Gynandromorph [7key:白黒モザイク:濃いめ]",
       "url" : "http://www.mediafire.com/file/44680p3uf7dab41/Gynandromorph.zip",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00548",
-      "voteNeutral" : 2,
+      "voteNeutral" : 3,
       "voteNo" : 1,
-      "votePercent" : "50.00",
-      "voteYes" : 1
+      "votePercent" : "58.33",
+      "voteYes" : 2
    },
    {
       "artist" : "eicateve hrchem[illust] TOHRU MiTSUHASHi[movie] И[object]",
@@ -63,8 +80,25 @@
       "url_diff" : "https://mega.nz/#F!hbBSkQII!8i6kzQpfZ7oeMj_xws56kA",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "75.00",
-      "voteYes" : 1
+      "votePercent" : "87.50",
+      "voteYes" : 3
+   },
+   {
+      "artist" : "H2SO4/DiodeP/Polymath9 feat. Mo obj:.ctc",
+      "comment" : "c-t-c",
+      "level" : "1",
+      "md5" : "454d2e6762491f09893e0e6c605e115a",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "1a93fd5ef2b0acc66eef8cb3f5123a7e48b1985664cd84870b68754ad1d0819b",
+      "submission" : 847,
+      "title" : "C.T.C. [c.t.c.]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=451&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01345",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "削除 feat. Nikki Simmons / obj:七海千秋 Movie:Radiosity&yoshimo",
@@ -78,7 +112,7 @@
       "title" : "Destr0yer -Last Song-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=123",
       "url_diff" : "https://www.dropbox.com/s/5j4b3rf051derut/7nanami02.bml?dl=0",
-      "voteNeutral" : 2,
+      "voteNeutral" : 3,
       "voteNo" : 0,
       "votePercent" : "50.00",
       "voteYes" : 0
@@ -115,7 +149,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 1
+      "voteYes" : 3
+   },
+   {
+      "artist" : "-45 / obj;Nemes",
+      "comment" : "皿絡み乱打",
+      "level" : "2",
+      "md5" : "5f8a3aa8d06b1f5541f398e92ab8ca4f",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "cb5412419c0e88f5c1d772d7c4dab50ed5b3c42eecfe0d12d5655ca79c5f3233",
+      "submission" : 846,
+      "title" : "EXILE -MORTAL-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=184&event=65",
+      "url_diff" : "http://absolute.pv.land.to/uploader/all.html?1293856849",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "3034 obj.xert*",
@@ -151,6 +202,23 @@
       "voteYes" : 1
    },
    {
+      "artist" : "Kuwagata / obj:MineC24",
+      "comment" : "delay",
+      "level" : "0",
+      "md5" : "8fd27ddc06bc5e0b84c64aba6c7b4a7e",
+      "proposer" : "KIYOM99",
+      "proposerLr2id" : 128003,
+      "sha256" : "122eac07eb88520b8904673713dd0111bfa8ae95bc38d5be66e08153e0a87495",
+      "submission" : 850,
+      "title" : "シグナルほっぴんぐ [Delay]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=190&event=116",
+      "url_diff" : "https://www.dropbox.com/s/im3h8pb6tj0uup6/_00_kuwagata_signal_%5Bdel%5D.bms?dl=0",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "+45 / obj: white train",
       "comment" : "sl12~st0 respect for Aci-L-GOD",
       "level" : "0",
@@ -165,7 +233,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
+   },
+   {
+      "artist" : "RiraN movie : Irelriser",
+      "comment" : "2~3?",
+      "level" : "3",
+      "md5" : "96c017e393898a99000ecbd2c3ae80ac",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "1f86806a3d86aa49aeea8c1bbec62ede552780a6deec45a43c8380f761cd15da",
+      "submission" : 848,
+      "title" : "Unshakable -Zen-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=110&num=192",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00791",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "The Lovers / obj:七海千秋",
@@ -199,7 +284,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 9
    },
    {
       "artist" : "MALVA. BGA : 焼き鳥　Illustration : しえろ。+ 萬田 / selene.",
@@ -233,7 +318,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "Junk obj:Omino",
