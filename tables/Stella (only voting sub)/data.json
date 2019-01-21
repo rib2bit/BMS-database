@@ -45,9 +45,9 @@
       "url" : "http://colosseo.nekokan.dyndns.info/c04_shuffle3/detail/view/26/",
       "url_diff" : "",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "voteNo" : 1,
+      "votePercent" : "50.00",
+      "voteYes" : 1
    },
    {
       "artist" : "tarolabo // obj:.ctc",
@@ -95,10 +95,10 @@
       "title" : "C.T.C. [c.t.c.]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=451&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01345",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "75.00",
+      "voteYes" : 1
    },
    {
       "artist" : "削除 feat. Nikki Simmons / obj:七海千秋 Movie:Radiosity&yoshimo",
@@ -114,8 +114,8 @@
       "url_diff" : "https://www.dropbox.com/s/5j4b3rf051derut/7nanami02.bml?dl=0",
       "voteNeutral" : 3,
       "voteNo" : 0,
-      "votePercent" : "50.00",
-      "voteYes" : 0
+      "votePercent" : "62.50",
+      "voteYes" : 1
    },
    {
       "artist" : "Kinato / Ds",
@@ -215,8 +215,8 @@
       "url_diff" : "https://www.dropbox.com/s/im3h8pb6tj0uup6/_00_kuwagata_signal_%5Bdel%5D.bms?dl=0",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "+45 / obj: white train",
