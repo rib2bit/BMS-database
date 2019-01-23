@@ -31,7 +31,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "wa. / obj:Lennon",
@@ -64,7 +64,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "鉄飯 obj.screw",
@@ -130,7 +130,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 10
    },
    {
       "artist" : "黒皇帝 / obj.Ovnize Movie: 6XeNoN9",
@@ -147,7 +147,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
    },
    {
       "artist" : "P.E. remixed by gmtn. / obj:Monsta visualized by light motion *57",
@@ -162,8 +162,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=78",
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up2731.zip",
       "voteNeutral" : 0,
-      "voteNo" : 2,
-      "votePercent" : "60.00",
+      "voteNo" : 4,
+      "votePercent" : "42.86",
       "voteYes" : 3
    },
    {
@@ -195,9 +195,9 @@
       "title" : "RiZE UP [sLUNATiC]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=50&event=78",
       "url_diff" : "http://www.geocities.jp/yjsnpi_kitanai_kusai_unko/BOB2015/BOB2015_k_3_1_3.html",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "62.50",
       "voteYes" : 2
    },
    {
@@ -214,8 +214,8 @@
       "url_diff" : "http://absolute.pv.land.to/bof/src/up0966.zip",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "86.36",
-      "voteYes" : 9
+      "votePercent" : "87.50",
+      "voteYes" : 10
    },
    {
       "artist" : "er obj:LAPIS + K-SPIN",
@@ -229,10 +229,10 @@
       "title" : "N - flat waves - [Lucid]",
       "url" : "https://dropbox.bms.ms/u/28765267/er_N.zip",
       "url_diff" : "http://kspinbms.web.fc2.com/insane.html",
-      "voteNeutral" : 1,
+      "voteNeutral" : 2,
       "voteNo" : 1,
-      "votePercent" : "70.00",
-      "voteYes" : 3
+      "votePercent" : "71.43",
+      "voteYes" : 4
    },
    {
       "artist" : "P4koo obj.B_K",
@@ -278,10 +278,10 @@
       "title" : "Blooming [7key Spring]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=91",
       "url_diff" : "",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 3
+      "votePercent" : "78.57",
+      "voteYes" : 5
    },
    {
       "artist" : "Sakamiya feat.小宮真央 mov:わっふゑ img:hrchem obj: qtp13",
@@ -297,8 +297,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01387",
       "voteNeutral" : 0,
       "voteNo" : 2,
-      "votePercent" : "50.00",
-      "voteYes" : 2
+      "votePercent" : "60.00",
+      "voteYes" : 3
    },
    {
       "artist" : "譜蘭師須古・坐比栄流・feat.西川寅吉 obj:SUZUKAZEΛ",
@@ -314,8 +314,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 3,
       "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 9
+      "votePercent" : "88.46",
+      "voteYes" : 10
    },
    {
       "artist" : "ccgc",
@@ -329,10 +329,10 @@
       "title" : "satellite -EARTH-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=93",
       "url_diff" : "http://sabosabun.tank.jp/",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "votePercent" : "90.00",
+      "voteYes" : 4
    },
    {
       "artist" : "HARD RENAISSAMBA MASTER 佐藤 -SATOH- / obj:sagoo",
@@ -348,8 +348,8 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 3
+      "votePercent" : "90.00",
+      "voteYes" : 4
    },
    {
       "artist" : "ETIA. feat.Jenga/ 差分 赤い人 deadblue238 / 篠乃ちよ",
@@ -363,9 +363,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=7&event=83",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/say_a_vengeance-HARDEST.bme",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteNo" : 1,
+      "votePercent" : "83.33",
+      "voteYes" : 5
    },
    {
       "artist" : "Aliesrite* (Ym1024 feat. lamie*) obj : BAECON",
@@ -397,8 +397,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=115&event=123",
       "url_diff" : "",
       "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "75.00",
+      "voteNo" : 2,
+      "votePercent" : "64.29",
       "voteYes" : 4
    },
    {
@@ -449,8 +449,8 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "81.25",
-      "voteYes" : 6
+      "votePercent" : "83.33",
+      "voteYes" : 7
    },
    {
       "artist" : "フォ㍊ Obj.Triforce",
@@ -480,9 +480,9 @@
       "title" : "-+　 -EX-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=88",
       "url_diff" : "http://sabosabun.tank.jp/",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "91.67",
       "voteYes" : 5
    },
    {
@@ -498,8 +498,8 @@
       "url" : "https://drive.google.com/open?id=1zrLndEChstF2ga51v_Dm55q-ULfWS3c2",
       "url_diff" : "http://www.dropbox.com/s/vfee0sc8qetygg2/_12_halcyon_rb_7omega.bme",
       "voteNeutral" : 2,
-      "voteNo" : 3,
-      "votePercent" : "33.33",
+      "voteNo" : 5,
+      "votePercent" : "25.00",
       "voteYes" : 1
    },
    {
@@ -531,8 +531,8 @@
       "url" : "https://mega.nz/#F!IP4iTAyI!jkwvNbkccH-EUATbGI4SWg!EfZVWbxT",
       "url_diff" : "http://www.geocities.jp/hihihi4442/sandwich.html",
       "voteNeutral" : 0,
-      "voteNo" : 4,
-      "votePercent" : "50.00",
+      "voteNo" : 5,
+      "votePercent" : "44.44",
       "voteYes" : 4
    },
    {
@@ -549,8 +549,8 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 4
+      "votePercent" : "91.67",
+      "voteYes" : 5
    },
    {
       "artist" : "ARForest bga : inukoro / obj : BK",
@@ -564,8 +564,8 @@
       "url" : "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=16&order=reg&odtype=a",
       "url_diff" : "http://beatkim.web.fc2.com/",
       "voteNeutral" : 0,
-      "voteNo" : 1,
-      "votePercent" : "80.00",
+      "voteNo" : 2,
+      "votePercent" : "66.67",
       "voteYes" : 4
    },
    {
@@ -581,8 +581,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=65",
       "url_diff" : "https://www.dropbox.com/s/qq7uwkrdyzl7xpd/Guiding_Star_SPpolaris.bms?dl=0",
       "voteNeutral" : 1,
-      "voteNo" : 0,
-      "votePercent" : "83.33",
+      "voteNo" : 1,
+      "votePercent" : "62.50",
       "voteYes" : 2
    },
    {
@@ -615,7 +615,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 7
    },
    {
       "artist" : "corok-Bb obj:SUZUKAZEΛ",
@@ -648,8 +648,8 @@
       "url_diff" : "http://iroirokiba.web.fc2.com/bms.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "78.57",
-      "voteYes" : 5
+      "votePercent" : "83.33",
+      "voteYes" : 7
    },
    {
       "artist" : "+ / movie:sgvc",
@@ -666,6 +666,6 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 7
    }
 ]

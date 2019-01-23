@@ -44,7 +44,7 @@
       "title" : "もーにんぐ☆えくすたしー！ (はぴがばみっくす) -やばいばる-",
       "url" : "http://colosseo.nekokan.dyndns.info/c04_shuffle3/detail/view/26/",
       "url_diff" : "",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 1,
       "votePercent" : "50.00",
       "voteYes" : 1
@@ -163,10 +163,10 @@
       "title" : "EXILE -MORTAL-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=184&event=65",
       "url_diff" : "http://absolute.pv.land.to/uploader/all.html?1293856849",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "83.33",
+      "voteYes" : 2
    },
    {
       "artist" : "3034 obj.xert*",
@@ -180,9 +180,9 @@
       "title" : "NS22 [Pwnable]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=214&event=74",
       "url_diff" : "http://extr.tistory.com/179",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : 0,
+      "votePercent" : "50.00",
       "voteYes" : 0
    },
    {
@@ -213,9 +213,9 @@
       "title" : "シグナルほっぴんぐ [Delay]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=190&event=116",
       "url_diff" : "https://www.dropbox.com/s/im3h8pb6tj0uup6/_00_kuwagata_signal_%5Bdel%5D.bms?dl=0",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "87.50",
       "voteYes" : 3
    },
    {
@@ -301,7 +301,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "Caerula obj:Omino",
@@ -318,7 +318,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "Junk obj:Omino",
@@ -335,6 +335,6 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    }
 ]
