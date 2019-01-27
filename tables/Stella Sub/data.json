@@ -203,7 +203,7 @@
    },
    {
       "artist" : "がむつ氏 + けえ氏/さ (a.k.a. witch's slave)",
-      "level" : "0",
+      "level" : "1",
       "md5" : "058166279df278ff728ff04067a83aa3",
       "proposer" : "파이어",
       "proposerLr2id" : 7290,
@@ -2242,6 +2242,23 @@
       "voteYes" : 0
    },
    {
+      "artist" : "kohaxy / obj:Rian",
+      "comment" : "中速連打複合、皿複合",
+      "level" : "5",
+      "md5" : "2ddf93339d130c3993c5d2567b33c8ba",
+      "proposer" : "BAECON",
+      "proposerLr2id" : 46122,
+      "sha256" : "1c172010ed6223f222030a44f6c3034a3759a399025ccf28a613bc7e1e1d7522",
+      "submission" : 854,
+      "title" : "Function Generator (Overflow)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=172&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "ねこみみ魔法使い for 地獄谷ふるる / obj:Criyajuh",
       "comment" : "微連打 ラス殺し",
       "level" : "9",
@@ -3340,6 +3357,23 @@
       "voteYes" : 0
    },
    {
+      "artist" : "源屋feat.ユスラ obj:trainer",
+      "comment" : "フィジカル",
+      "level" : "0",
+      "md5" : "407c8e043a446c9dc99fc1ca97eb2fb5",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "438d308d441d44f3772bb77802d451b4f5c0f7c1052020cf0cb4a5a3efb1270c",
+      "submission" : 852,
+      "title" : "Magical Love Words [フィジカル横認識]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=86&event=36",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02657",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "ああああ",
       "comment" : "Dead Ending",
       "level" : "4",
@@ -3863,6 +3897,22 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Chitose / obj:Rian",
+      "level" : "1",
+      "md5" : "496cbb0d0f6b3b7287fb360944124e85",
+      "proposer" : "MEES-♬",
+      "proposerLr2id" : 39693,
+      "sha256" : "9ab50bfe2a5bf1c8e586c5605cdf0f4e0618cf0896059e88232dc7563b364c07",
+      "submission" : 860,
+      "title" : "Hazy moon [雷雨]",
+      "url" : "http://yaruki0.sakura.ne.jp/event/ondanyugi5/impression.cgi?no=6",
+      "url_diff" : "https://drive.google.com/open?id=1u1NTkaIfkAalc4F3a-0xiw9bCj1muBg_",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "sa10/さ",
       "comment" : "ディレイ寄りのズレガチ押し",
       "level" : "7",
@@ -4223,7 +4273,7 @@
    {
       "artist" : "Kinato / Ds",
       "comment" : "[WARNING!!] EXTRA BOSS [WARNING!!]",
-      "level" : "8",
+      "level" : "9",
       "md5" : "5096962c8426f96f51608c0aba78ca7d",
       "proposer" : "MEES-♬",
       "proposerLr2id" : 39693,
@@ -4358,6 +4408,23 @@
       "title" : "Vorota Collapse [Fatality]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=436&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01380",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "しらいし / 32 / obj:firi.",
+      "comment" : "delay",
+      "level" : "0",
+      "md5" : "540ad15cb16c6a7f4e5f5e3613135bfc",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "79903429a469171136ed813f8a759d9e8dddb5bb113868570dc1de4ad91796c6",
+      "submission" : 855,
+      "title" : "超絶速鍵練習曲第一番「銀世界」",
+      "url" : "https://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21208",
+      "url_diff" : "http://absolute.pv.land.to/uploader/src/up4076.zip",
+      "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -4590,7 +4657,7 @@
    {
       "artist" : "void feat. Hiroko / obj:発汗BMS",
       "comment" : "",
-      "level" : "5",
+      "level" : "6",
       "md5" : "5942a74d562881300f246d904a73cf9e",
       "proposer" : "sepe",
       "sha256" : "b4a121d003dc544f6839b9e6b3a9a081af3d5ae1316782ed3b28b2d81deea62e",
@@ -5626,6 +5693,22 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Silentroom × iimo / selene.",
+      "level" : "0",
+      "md5" : "6dd9acd5c37cc98299b3dc48ef18ce84",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "c8b50335450ec660f885a005d279a085d05be4d658dd5c4dfc10faa983deb60b",
+      "submission" : 851,
+      "title" : "Finixe -Eclipse-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=349&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01312",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "Blue-J / obj. Tristan97",
       "comment" : "",
       "level" : "6",
@@ -6396,6 +6479,23 @@
       "title" : "Say A Vengeance [No_more]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=7&event=83",
       "url_diff" : "http://www.geocities.jp/yjsnpi_kitanai_kusai_unko/index.html",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "フロン / ラズベリル / obj : lemon_aided",
+      "comment" : "MARATHON",
+      "level" : "7",
+      "md5" : "819a5580904dc0146995b52f12619517",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "1354b2dfec453ef1dd472f16a67a5a5af51fdb624f3b7d7dd08cec535701ee09",
+      "submission" : 857,
+      "title" : "Love & Justice [Hand Crusher]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=227&event=65",
+      "url_diff" : "http://www.dropbox.com/s/ob3mnzf94bptw8d/Love%26Justice_sabun.zip",
+      "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -7195,6 +7295,23 @@
       "voteYes" : 0
    },
    {
+      "artist" : "哀愁マニア",
+      "comment" : "★★5",
+      "level" : "8",
+      "md5" : "8f2a82e4f1f3e299c5d761a4c673b9ae",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "2aa29ab3928732c5ab19ba2f5edd5e510739b09dfd610a11dbc8f5b2c6fc8033",
+      "submission" : 858,
+      "title" : "the lost dedicated [life]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=89&event=65",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "vorbis / obj:夢瑠",
       "comment" : "微連打複合系",
       "level" : "3",
@@ -7899,7 +8016,7 @@
    {
       "artist" : "さかみりと img:しぐれぷに子 obj:球根",
       "comment" : "00914",
-      "level" : "7",
+      "level" : "8",
       "md5" : "9f6765080cc37cb4dcd30e96c25dc262",
       "proposer" : "LUXURY",
       "sha256" : "d82a7ee2a0ca1d8bbeb1c7705d2c298d401fa1eb4f38576bf95914a722de7042",
@@ -10009,6 +10126,23 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Team:SASAKURATION  /  Goten",
+      "comment" : "???????",
+      "level" : "9",
+      "md5" : "ca0d671f6888bb05962a3574dc8aac77",
+      "proposer" : "MEES-♬",
+      "proposerLr2id" : 39693,
+      "sha256" : "45d2196a7fe4be19f0165c72c0ab1d98e21d5970fac7751a39f75f9327007107",
+      "submission" : 859,
+      "title" : "aballava (???????)",
+      "url" : "http://onedrive.live.com/?cid=43C7447B3E45559B&id=43C7447B3E45559B%21105",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "uet vs Neun_jack / mov:Roaring Flame / obj:Monsta",
       "comment" : "E X T R A ",
       "level" : "8",
@@ -10591,6 +10725,22 @@
       "title" : "SERIOUS ERROR [INSANE]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=266&event=110",
       "url_diff" : "",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "Music:しらいし/ 差分　赤い人",
+      "level" : "8",
+      "md5" : "d354c9cc5f4ee407d0e377e25fcbb126",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "46c731ddad3f73539c4bfc42a7280bbdcca30e49dc2e780fc2bd32832beff732",
+      "submission" : 853,
+      "title" : "Moon-gate [DELAYMASTER+]",
+      "url" : "http://www.geocities.jp/musicmakeman/sabun.html",
+      "url_diff" : "http://akred.web.fc2.com/ak-red-new.html",
+      "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -11651,6 +11801,23 @@
       "voteYes" : 0
    },
    {
+      "artist" : "orangentle / deadblue238/さ",
+      "comment" : "物量",
+      "level" : "4",
+      "md5" : "ec2f71d78f73e243dfeebd88a535704d",
+      "proposer" : "BAECON",
+      "proposerLr2id" : 46122,
+      "sha256" : "e72bf49b1504f79128a375d5ea62742b6f49911f1051a320981c7348383db3dd",
+      "submission" : 856,
+      "title" : "HAELEQUIN (・∀・)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=389&event=83",
+      "url_diff" : "http://sabosabun.tank.jp/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "あるさん / obj. Tristan97",
       "comment" : "Please Enjoy!",
       "level" : "3",
@@ -12395,6 +12562,23 @@
       "voteYes" : 0
    },
    {
+      "artist" : "LV.4/http://d.hatena.ne.jp/xki/",
+      "comment" : "カリスマ",
+      "level" : "4",
+      "md5" : "fb7a747a5115a4a4739397d17ccb26bb",
+      "proposer" : "otoshi.b",
+      "proposerLr2id" : 87474,
+      "sha256" : "dedea3856ae3925d73991f73a7df32635e800b7501c4aea466e80398fa716896",
+      "submission" : 861,
+      "title" : "Angel dust -Abyss-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=36",
+      "url_diff" : "http://d.hatena.ne.jp/xki/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "EBIMAYO",
       "comment" : "高速",
       "level" : "5",
@@ -12521,7 +12705,7 @@
    {
       "artist" : "Junk obj:Omino",
       "comment" : "KACHIFUSHI",
-      "level" : "7",
+      "level" : "8",
       "md5" : "fdb9d7d8eaca594231dda88b539253cb",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,

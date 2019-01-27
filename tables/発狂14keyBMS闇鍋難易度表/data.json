@@ -623,7 +623,7 @@
       "title" : "Aleph-0 [ENTER]"
    },
    {
-      "artist" : "Chitose / obj:kuro (Movie:zue-row)",
+      "artist" : "Chitose / obj:kuro (Movie:zue-row)  *LR.RAN",
       "comment" : "Art Progressive Fusion",
       "level" : "★5",
       "md5" : "03c2d647ba044238e256bc6e53927f38",
@@ -2849,6 +2849,13 @@
       "title" : "G3 Expert (DP)"
    },
    {
+      "artist" : "猫蟹丸 [obj:mymt]",
+      "comment" : "Piano Rush",
+      "level" : "1",
+      "md5" : "124720203bf238c8a731afe9e5d33b3c",
+      "title" : "日溜りの街－あ！－ [マシンガン]"
+   },
+   {
       "artist" : "はがね / bga:白助 / object:全白",
       "comment" : "Progressive",
       "level" : "4",
@@ -4823,7 +4830,7 @@
       "title" : "幽霊楽団(Prismriver's Dancefloor Style) [14keys Prismriver]"
    },
    {
-      "artist" : "Is-m / obj:Hersh Vo.　あまね（COOL&CREATE） BGA:iimo  *MAXBPM FLIP",
+      "artist" : "Is-m / obj:Hersh Vo.　あまね（COOL&CREATE） BGA:iimo  *MAXBPM L.MIR",
       "comment" : "ETERNAL",
       "level" : "★5",
       "md5" : "1ed77eed505b85aff747d33b68ad4550",
@@ -17236,7 +17243,7 @@
    {
       "artist" : "3034/obj:hamburger Anomie / IllusionRain  *AVE 0->-20",
       "comment" : "EXTREME TECHNO",
-      "level" : "★7",
+      "level" : "★6",
       "md5" : "704dcc734eb152884b4c0e2a576766a0",
       "title" : "NS18 [delta]"
    },
@@ -27559,7 +27566,7 @@
       "title" : "super esc [MANIAC]"
    },
    {
-      "artist" : "System SFM obj:ucc",
+      "artist" : "System SFM obj:ucc *正規 or FLIP L.MIR",
       "comment" : "TRANCE",
       "level" : "★6",
       "md5" : "af9a9ece85b278ae38131dcb1cbd7b82",
@@ -32347,6 +32354,13 @@
       "title" : "Yugan Diver -PENDULUMs- 【12.5】"
    },
    {
+      "artist" : "猫蟹丸 [obj:mymt]",
+      "comment" : "Piano Rush",
+      "level" : "9",
+      "md5" : "cd9a26e835b8850e71b7f45b00311c66",
+      "title" : "日溜りの街－あ！－ [マシンガン+]"
+   },
+   {
       "artist" : "Black hoodと亡霊ルゼによる夢の共演　obj:shyBlasters(LA＆N)",
       "comment" : "nantyattekuno[セリーヌ]",
       "level" : "?",
@@ -32660,6 +32674,13 @@
       "level" : "5",
       "md5" : "d06fdb6b500818662f2054e0cbc47533",
       "title" : "A D D i c T i O N 4 5 0 0 0 0 0 [ D P H ]"
+   },
+   {
+      "artist" : "futonbound [obj:MGN]",
+      "comment" : "HAPPY HARDCORE",
+      "level" : "8",
+      "md5" : "d07d5352ec2431474b7e48820ce14744",
+      "title" : "Sugary Drive [DP Sugarless]"
    },
    {
       "artist" : "かゆき/obj:epics- *L.MIRROR",

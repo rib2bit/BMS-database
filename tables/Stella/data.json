@@ -125,7 +125,7 @@
    },
    {
       "artist" : "がむつ氏 + けえ氏/さ (a.k.a. witch's slave)",
-      "level" : "0",
+      "level" : "1",
       "md5" : "058166279df278ff728ff04067a83aa3",
       "proposer" : "파이어",
       "proposerLr2id" : 7290,
@@ -499,6 +499,17 @@
       "title" : "踊る水飛沫",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=102",
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html"
+   },
+   {
+      "artist" : "sak feat.みゅい Movie: げ～むばか Illust: 球根 / selene.",
+      "level" : "9",
+      "md5" : "12fd96153a125b9a587fe58e1305e557",
+      "proposer" : "こめっと",
+      "sha256" : "ff058755444c1ef561b895ec22f41b8c6ea2283d73ca8097ee923d6ce586bd38",
+      "submission" : 820,
+      "title" : "Unleashed World -Ragnarok-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02346"
    },
    {
       "artist" : "sak respect for Arata Iiyoshi Movie:Optie Illust:とざくろ/obj:赤い人",
@@ -999,6 +1010,18 @@
       "title" : "gorillante [お疲れさまでした]",
       "url" : "http://electro-planet.net/loveplus/",
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html"
+   },
+   {
+      "artist" : "Soba Yamamori obj.hex",
+      "comment" : "32分混じり物量",
+      "level" : "5",
+      "md5" : "26790f4cd7ffda85c52b63e5ed24da4f",
+      "proposer" : "mono",
+      "sha256" : "c3a15cec06c1dd18210b9e0f894c8dd77b5d5c84b76ce6a05c1e8611c5171512",
+      "submission" : 824,
+      "title" : "SYNTHETICS [Hexagon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=285&event=123",
+      "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html"
    },
    {
       "artist" : "yuki.s/obj:飛脚",
@@ -2676,7 +2699,7 @@
    {
       "artist" : "void feat. Hiroko / obj:発汗BMS",
       "comment" : "",
-      "level" : "5",
+      "level" : "6",
       "md5" : "5942a74d562881300f246d904a73cf9e",
       "proposer" : "sepe",
       "sha256" : "b4a121d003dc544f6839b9e6b3a9a081af3d5ae1316782ed3b28b2d81deea62e",
@@ -3257,6 +3280,17 @@
       "title" : "ロリキート",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=264&event=96",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02033\t"
+   },
+   {
+      "artist" : "Silentroom × iimo / selene.",
+      "level" : "0",
+      "md5" : "6dd9acd5c37cc98299b3dc48ef18ce84",
+      "proposer" : "LUXURY♪",
+      "sha256" : "c8b50335450ec660f885a005d279a085d05be4d658dd5c4dfc10faa983deb60b",
+      "submission" : 851,
+      "title" : "Finixe -Eclipse-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=349&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01312"
    },
    {
       "artist" : "Blue-J / obj. Tristan97",
@@ -4319,6 +4353,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00772"
    },
    {
+      "artist" : "+45 / obj: white train",
+      "comment" : "sl12~st0 respect for Aci-L-GOD",
+      "level" : "0",
+      "md5" : "91b0a169e6cde78b058fda8a404240a0",
+      "proposer" : "qtp13",
+      "sha256" : "afa8331c98cad7b387997c8d87e1ad5969055495b2afb054d18847b79ef551d9",
+      "submission" : 842,
+      "title" : "B e l i - R - G O D",
+      "url" : "https://mega.nz/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA!ENcwFKTA",
+      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up4725.rar"
+   },
+   {
       "artist" : "Lime / obj: Beatnoob",
       "comment" : "アビス+",
       "level" : "7",
@@ -4606,7 +4652,7 @@
    {
       "artist" : "さかみりと img:しぐれぷに子 obj:球根",
       "comment" : "00914",
-      "level" : "7",
+      "level" : "8",
       "md5" : "9f6765080cc37cb4dcd30e96c25dc262",
       "proposer" : "LUXURY",
       "sha256" : "d82a7ee2a0ca1d8bbeb1c7705d2c298d401fa1eb4f38576bf95914a722de7042",
@@ -6221,6 +6267,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/"
    },
    {
+      "artist" : "立花 瀧 obj : BAECON",
+      "comment" : "24分、32分乱打、ガチ押し",
+      "level" : "2",
+      "md5" : "d3ececb1cdbe03562229610960d132d6",
+      "proposer" : "BAECON",
+      "sha256" : "174058c63868c8390388969e5f7386224cda35adc5bf3aad7198e86f3ba49d23",
+      "submission" : 830,
+      "title" : "ある星降る夜空の下 [skyfall]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=345&event=116",
+      "url_diff" : "http://akred.web.fc2.com/baecon/_yourname_taki_skyfall.bms"
+   },
+   {
       "artist" : "LaValse obj: qtp13",
       "comment" : "Tiro finale+Central delay st0~1kanaa",
       "level" : "1",
@@ -6466,6 +6524,18 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
    },
    {
+      "artist" : "MALVA. BGA : 焼き鳥　Illustration : しえろ。+ 萬田 / selene.",
+      "comment" : "ガチ押し",
+      "level" : "7",
+      "md5" : "dd79321fa52676ddf9e8f169aaecbe88",
+      "proposer" : "こめっと",
+      "sha256" : "535d1898066aec4743b23a9e5a3d8ba69be0a3641c91e75ff163b9418d1dec34",
+      "submission" : 826,
+      "title" : "Trane -Ragnarok-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02419"
+   },
+   {
       "artist" : "ルゼ / selene.",
       "comment" : "楽しい物量！",
       "level" : "1",
@@ -6589,6 +6659,18 @@
       "title" : "白狼",
       "url" : "https://wumalutsufuri.wixsite.com/wumalutsufuri/bms",
       "url_diff" : ""
+   },
+   {
+      "artist" : "Caerula obj:Omino",
+      "comment" : "DELAAAAY",
+      "level" : "6",
+      "md5" : "e304ab14c7108c907b664592a5f7efdc",
+      "proposer" : "LUXURY♪",
+      "sha256" : "61b19e1077ed7b4f911ef51514100941f5c744a80b3be251cd1b61782c71af5e",
+      "submission" : 840,
+      "title" : "ブラーブルー [Other]",
+      "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/12/",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02578"
    },
    {
       "artist" : "DJ TAKUAN 及び 佐倉アヤキ 　及　び obj:BAECON",
@@ -7349,6 +7431,18 @@
       "title" : "PEACE BREAKER [LIMIT BREAKER]",
       "url" : "http://www.geocities.jp/bmsetc/",
       "url_diff" : "https://www.dropbox.com/s/dub20k3eplfpmd1/_pb_LB.bme?dl=0"
+   },
+   {
+      "artist" : "Junk obj:Omino",
+      "comment" : "KACHIFUSHI",
+      "level" : "8",
+      "md5" : "fdb9d7d8eaca594231dda88b539253cb",
+      "proposer" : "LUXURY♪",
+      "sha256" : "b5efc5ee8f5cd07d54d25075b53be23a718932199c8ff3c33133e91206f36f21",
+      "submission" : 838,
+      "title" : "Life is PIANO [Other]",
+      "url" : "http://www.junk-channel.com/junk_g2r2018_ogg.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02606"
    },
    {
       "artist" : "uma vs. モリモリあつし obj.#",
