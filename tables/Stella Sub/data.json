@@ -1485,6 +1485,22 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Remixed by MSMcorp. obj.hex",
+      "level" : "3",
+      "md5" : "213b2fc20e511e330bcaad89a5459408",
+      "proposer" : "こめっと",
+      "proposerLr2id" : 80964,
+      "sha256" : "29774f28a353f3e97e70b0bc2a4c2b8d8c27af3b31a77d3d2593d19fb3afa361",
+      "submission" : 862,
+      "title" : "カラクリ屋敷(インドネシア地方版) [Hexagon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=107",
+      "url_diff" : "https://dl.dropboxusercontent.com/s/b5mgobkzd2ht5yc/%E2%98%85%E2%98%852%20%E3%82%AB%E3%83%A9%E3%82%AF%E3%83%AA%E5%B1%8B%E6%95%B7%28%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2%E5%9C%B0%E6%96%B9%E7%89%88%29%20%5BHexagon%5D.zip",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "NIKITA / misokabocha obj:ランダマイザ",
       "comment" : "up5662, 地力",
       "level" : "3",

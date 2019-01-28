@@ -13,8 +13,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "sd5y / obj:OK@GE U.Celsius",
@@ -29,8 +29,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=75",
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNo" : 2,
+      "votePercent" : "50.00",
       "voteYes" : 2
    },
    {
@@ -47,8 +47,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "orangentle / deadblue238 obj:BAECON vs ラピス",
@@ -61,10 +61,10 @@
       "title" : "HAELEQUIN [PENDUAL]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=389&event=83",
       "url_diff" : "http://ux.getuploader.com/bms___sabun/download/105/HAELEQUIN%E3%80%80%E5%B7%AE%E5%88%86.zip",
-      "voteNeutral" : 0,
+      "voteNeutral" : 2,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "66.67",
+      "voteYes" : 1
    },
    {
       "artist" : "くっちー / obj:BAECON",
@@ -78,9 +78,9 @@
       "url" : "http://tohotodan3.iza-yoi.net/start/hall/toho3hall1.html",
       "url_diff" : "http://www.geocities.jp/hihihi4442/sandwich.html",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "voteNo" : 1,
+      "votePercent" : "50.00",
+      "voteYes" : 1
    },
    {
       "artist" : "-45/わなな・BANI / obj:発汗BMS",
@@ -97,7 +97,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 5
    },
    {
       "artist" : "TARXO mov : Dynamite.Roll",
@@ -111,6 +111,23 @@
       "title" : "Thermal Expansion [Another]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=30&event=96",
       "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
+      "artist" : "S.S.H / utakichi / obj:sarada BGA:HAYA",
+      "comment" : "fast",
+      "level" : "11",
+      "md5" : "26747a6f48df4775474efe85950c1ce0",
+      "proposer" : "ctc",
+      "proposerLr2id" : 31401,
+      "sha256" : "8ec36e20fbceef59d5a34b347284bc8e0e290fab31d99424e18dc088674391dd",
+      "submission" : 584,
+      "title" : "The Decisive Battle [DECISIVE DEATH]",
+      "url" : "http://web.archive.org/web/20040318045919/http://www.linkclub.or.jp/~yutaki3/ym_FF6_TDB.rar",
+      "url_diff" : "http://srdbms.otodo.net/",
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
@@ -128,10 +145,10 @@
       "title" : "Last Battle-T260G- [H7]",
       "url" : "http://www46.tok2.com/home2/gyaondjaho/g_T260G.rar",
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
-      "voteNeutral" : 1,
+      "voteNeutral" : 2,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 2
+      "votePercent" : "80.00",
+      "voteYes" : 3
    },
    {
       "artist" : "uma vs. モリモリあつし obj.Lapis",
@@ -145,10 +162,10 @@
       "title" : "Re:End of a Dream [Re:LAPITHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=543&event=110",
       "url_diff" : "http://lapisbms.web.fc2.com/",
-      "voteNeutral" : 1,
+      "voteNeutral" : 2,
       "voteNo" : 0,
       "votePercent" : "83.33",
-      "voteYes" : 2
+      "voteYes" : 4
    },
    {
       "artist" : "ETIA. feat.Jenga / obj:BAECON deadblue238 / 篠乃ちよ",
@@ -161,6 +178,74 @@
       "title" : "Say A Vengeance [EXTRA]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=7&event=83",
       "url_diff" : "http://akred.web.fc2.com/baecon/Vengeance-EX.bme",
+      "voteNeutral" : 1,
+      "voteNo" : 0,
+      "votePercent" : "75.00",
+      "voteYes" : 1
+   },
+   {
+      "artist" : "有賀 澪 BGA:しらたき Illust:Cleome obj:伊佐奈 瑠璃",
+      "comment" : "sl0~1",
+      "level" : "0",
+      "md5" : "4ac1550af87950886c13c6332ea54e0a",
+      "proposer" : "SEUNGHO_LEE",
+      "proposerLr2id" : 126460,
+      "sha256" : "294a93862867c90e07e3adde2dcfeb11ce00f9f174015e99aab0c5919fe4a940",
+      "submission" : 585,
+      "title" : "Defeat awaken battle ship (SP ANOTHER)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=112",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 4
+   },
+   {
+      "artist" : "nmk feat.かなえゆめ BGA:SIGMA/ASTE Illust:かぜっと",
+      "comment" : "低速物量",
+      "level" : "0",
+      "md5" : "4f24b7ffca9baf218b6daf3f5e363938",
+      "proposer" : "ちひろ",
+      "proposerLr2id" : 147410,
+      "sha256" : "c83b4c4bf9eda9456d12fa9e9f409db68006992b3a1a683b20b7337305bf3465",
+      "submission" : 588,
+      "title" : "東風谷早苗が悲しい顔をする理由。",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=48&event=118",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
+      "artist" : "Sakamiya feat.a-m img:おさら notes:BAECON",
+      "comment" : "",
+      "level" : "9",
+      "md5" : "549ec0735b3a463dbc308399bef83cf3",
+      "proposer" : "selene.",
+      "proposerLr2id" : 84521,
+      "sha256" : "c4b69313952c63f5e1d690b66db8fe3e93014fcfd6855e26aaa8a308bd165696",
+      "submission" : 589,
+      "title" : "Schwoeren of tears [Restraint]",
+      "url" : "http://yaruki0.sakura.ne.jp/event/A1_6th/impression.cgi?no=10",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "Airylic / obj:sagoo",
+      "comment" : "★22弱体版",
+      "level" : "9",
+      "md5" : "5cd9c8bd6e70aa8a3daa85f94a3a46ab",
+      "proposer" : "selene.",
+      "proposerLr2id" : 84521,
+      "sha256" : "71c44f6944eb001a0e5c0b66c9db105766951e626c64bce91e16831dd53e4aa1",
+      "submission" : 590,
+      "title" : "Tears of the Sunrise [sagINSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=104",
+      "url_diff" : "https://onedrive.live.com/redir?resid=A972E7D14DCFAF93!110&authkey=!ADuXxYDZsf_L-I8&ithint=folder%2czip",
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
@@ -179,8 +264,8 @@
       "url_diff" : "",
       "voteNeutral" : 3,
       "voteNo" : 1,
-      "votePercent" : "79.17",
-      "voteYes" : 8
+      "votePercent" : "80.77",
+      "voteYes" : 9
    },
    {
       "artist" : "Mystinia /差分　赤い人",
@@ -194,9 +279,9 @@
       "url" : "http://skydrive.live.com/?cid=EC550A4504DCD741&id=EC550A4504DCD741%21224",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/She_Esper-HARD.bme",
       "voteNeutral" : 1,
-      "voteNo" : 0,
-      "votePercent" : "75.00",
-      "voteYes" : 1
+      "voteNo" : 1,
+      "votePercent" : "62.50",
+      "voteYes" : 2
    },
    {
       "artist" : "HARD RENAISSAMBA MASTER 佐藤 -SATOH- / obj:sagoo",
@@ -227,9 +312,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=103",
       "url_diff" : "http://lalha.web.fc2.com/",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteNo" : 1,
+      "votePercent" : "75.00",
+      "voteYes" : 3
    },
    {
       "artist" : "Team:SASAKURATION obj:C4",
@@ -245,7 +330,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
    },
    {
       "artist" : "wa. vs celas vs 44teru-k Notes:OREN-G",
@@ -261,8 +346,8 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "maki (original:watson)/さ",
@@ -296,7 +381,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
+   },
+   {
+      "artist" : "nmk feat.℃ｉｅｌ /差分　赤い人",
+      "comment" : " ",
+      "level" : "2",
+      "md5" : "b12910cdfc2a7838662775b55ded48fb",
+      "proposer" : "CATHERINE",
+      "proposerLr2id" : 119448,
+      "sha256" : "acb9e357b5c12328bb217b23342b806fab9b7d81fb18ccf03685029464a7cb79",
+      "submission" : 591,
+      "title" : "紅月夜想　～Scarlet Nocturne～ [HARD]",
+      "url" : "http://yaruki0.sakura.ne.jp/event/ondanyugi4/impression.cgi?no=27",
+      "url_diff" : "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "Is-m // あまね（COOL&CREATE） BGA:sveki hamalu",
@@ -309,10 +411,10 @@
       "title" : "虹夜パレッド -SP ANOTHER-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=388&event=123",
       "url_diff" : "",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 5
+      "votePercent" : "94.44",
+      "voteYes" : 8
    },
    {
       "artist" : "dust.c / obj:みっと",
@@ -326,6 +428,22 @@
       "title" : "My Hardcore [Difficult]",
       "url" : "http://www.dropbox.com/s/j57om8jhew33ulh/My%20Hardcore.zip",
       "url_diff" : "http://zzssccaxd.wix.com/bmsabun",
+      "voteNeutral" : 1,
+      "voteNo" : 0,
+      "votePercent" : "83.33",
+      "voteYes" : 2
+   },
+   {
+      "artist" : "HOUJIROU a.k.a 2000Notes党首",
+      "level" : "3",
+      "md5" : "c86939d03711c8361a9298133bf768ae",
+      "proposer" : "nono22",
+      "proposerLr2id" : 122934,
+      "sha256" : "6975921890e844ed4d5137f63cf39dc1f60144396ff78ea68f7d798ba48c4dbc",
+      "submission" : 587,
+      "title" : "H∀TE [ANOTHER 2000Notes]",
+      "url" : "https://venue.bmssearch.net/3/50",
+      "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
@@ -343,9 +461,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=268&event=104",
       "url_diff" : "https://ux.getuploader.com/monaka_sabun_2/download/180",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "voteNo" : 1,
+      "votePercent" : "66.67",
+      "voteYes" : 2
    },
    {
       "artist" : "ARForest bga : inukoro / obj : BK",
@@ -375,10 +493,10 @@
       "title" : "* Crow Solace * [85%]",
       "url" : "https://dropbox.bms.ms/u/1235551/bms/crow_solace.zip",
       "url_diff" : "https://www.axfc.net/u/3879181",
-      "voteNeutral" : 1,
-      "voteNo" : 4,
-      "votePercent" : "25.00",
-      "voteYes" : 1
+      "voteNeutral" : 2,
+      "voteNo" : 5,
+      "votePercent" : "33.33",
+      "voteYes" : 2
    },
    {
       "artist" : "巴マミとキュゥべえ　/差分　赤い人",
@@ -394,8 +512,8 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/tirotiromaster.bme",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "ETIA. feat. Jenga Movie: HDLV/obj:赤い人",
@@ -409,26 +527,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=110",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/IKAROS_INFERNO.bme",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
-      "artist" : "remixed celas // obj:Lemuria",
-      "comment" : "中盤高密度",
-      "level" : "7",
-      "md5" : "d905e1926d71f210b71691cfa620cae4",
-      "proposer" : "Mayuzumy",
-      "proposerLr2id" : 88804,
-      "sha256" : "0b325d7c3bc57674cd8dee77ef2020df8f09dbbb248667f43440bd37f268914e",
-      "submission" : 568,
-      "title" : "NO, Thank You! -nrg mix- [ANOTHER]",
-      "url" : "https://web.archive.org/web/20160529153208/http://creation-records.info/bms.htm",
-      "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 1,
+      "voteNo" : 2,
       "votePercent" : "50.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "Nardis OBJ : ランダマイザ",
@@ -443,8 +544,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=56&event=104",
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNo" : 2,
+      "votePercent" : "50.00",
       "voteYes" : 2
    },
    {
@@ -461,8 +562,8 @@
       "url_diff" : "http://goo.gl/nPil0B",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "LiA",
@@ -476,10 +577,27 @@
       "title" : "君の記憶、風の唄 -LiALIZE-",
       "url" : "https://www.dropbox.com/s/bbnwpyh23dpf6ns/%5BLiA%5DKAZENOUTA-ogg.rar?dl=0",
       "url_diff" : "",
+      "voteNeutral" : 1,
+      "voteNo" : 0,
+      "votePercent" : "90.00",
+      "voteYes" : 4
+   },
+   {
+      "artist" : "nmk feat.橘花音 Obj:nytou BGA:わっふゑ",
+      "comment" : "階段",
+      "level" : "9",
+      "md5" : "f95cab5685b9cfd259266b073cb747c9",
+      "proposer" : "KIYOM99",
+      "proposerLr2id" : 128003,
+      "sha256" : "3da695864eb59b5c35e91f5eae1fca0a5251aafd94c6a1ce7f58151e42f13c90",
+      "submission" : 586,
+      "title" : "Electric Emotion [EMOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=181&event=123",
+      "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "Sakamiya feat.遊左 未 img:moyura",
@@ -495,7 +613,7 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    }
 ]
