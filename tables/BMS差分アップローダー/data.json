@@ -3150,6 +3150,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01555"
    },
    {
+      "adddate" : "2019/01/29 23:21",
+      "artist" : "立秋 feat.ちょこ/obj:wak",
+      "comment" : "同時押し、皿複合、ガチ押し、声ネタ、文字押し　sl6~7を意識しました",
+      "folder" : "2019/01",
+      "genre" : "プナイプナイWAR",
+      "keys" : 7,
+      "level" : "2019/01",
+      "lr2_bmsid" : "270429",
+      "md5" : "1068a2b249a5eaf9e4da927445b5ee82",
+      "org_level" : null,
+      "title" : "プナイプナイせんそう[LITTLE DAEMON]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02681"
+   },
+   {
       "adddate" : "2016/12/27 23:35",
       "artist" : "kozato obj : BAECON",
       "comment" : "2連打、32分など",
@@ -8216,7 +8231,7 @@
       "md5" : "2ddf93339d130c3993c5d2567b33c8ba",
       "org_level" : null,
       "title" : "Function Generator (Overflow)",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=172&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02482"
    },
    {
@@ -27913,6 +27928,21 @@
       "title" : "Grayed Out -Antifront-[Shelther]",
       "url" : "",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02027"
+   },
+   {
+      "adddate" : "2019/01/29 23:47",
+      "artist" : "立秋 feat.ちょこ/obj:wak",
+      "comment" : "2681のTOTAL変更",
+      "folder" : "2019/01",
+      "genre" : "プナイプナイWAR",
+      "keys" : 7,
+      "level" : "2019/01",
+      "lr2_bmsid" : "270434",
+      "md5" : "9d70d0f80d97d0143f86dec260216f8b",
+      "org_level" : null,
+      "title" : "プナイプナイせんそう[LITTLE DAEMON]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=104&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02682"
    },
    {
       "adddate" : "2016/12/14 23:16",
