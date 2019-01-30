@@ -3867,6 +3867,22 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Se-U-Ra obj.swa",
+      "level" : "1",
+      "md5" : "481f353fa2626391130030ee623f3a7b",
+      "proposer" : "こめっと",
+      "proposerLr2id" : 80964,
+      "sha256" : "0f413a1d9d47618f5172c59b9e37830246f02375033002ab84feb6ada464b923",
+      "submission" : 863,
+      "title" : "QSHELL (QPython)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=147&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02472",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "はがね obj:sak",
       "comment" : "ディレイ",
       "level" : "7",
