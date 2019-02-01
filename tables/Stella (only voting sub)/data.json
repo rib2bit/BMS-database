@@ -81,7 +81,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 5
    },
    {
       "artist" : "H2SO4/DiodeP/Polymath9 feat. Mo obj:.ctc",
@@ -163,8 +163,8 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up4076.zip",
       "voteNeutral" : 0,
       "voteNo" : 2,
-      "votePercent" : "50.00",
-      "voteYes" : 2
+      "votePercent" : "60.00",
+      "voteYes" : 3
    },
    {
       "artist" : "An obj:Omino",
@@ -264,8 +264,8 @@
       "url_diff" : "https://www.dropbox.com/s/im3h8pb6tj0uup6/_00_kuwagata_signal_%5Bdel%5D.bms?dl=0",
       "voteNeutral" : 2,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 4
+      "votePercent" : "85.71",
+      "voteYes" : 5
    },
    {
       "artist" : "RiraN movie : Irelriser",
@@ -312,10 +312,10 @@
       "title" : "Moon-gate [DELAYMASTER+]",
       "url" : "http://www.geocities.jp/musicmakeman/sabun.html",
       "url_diff" : "http://akred.web.fc2.com/ak-red-new.html",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "87.50",
+      "voteYes" : 3
    },
    {
       "artist" : "orangentle / deadblue238/さ",
@@ -346,9 +346,9 @@
       "title" : "Angel dust -Abyss-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=36",
       "url_diff" : "http://d.hatena.ne.jp/xki/",
-      "voteNeutral" : 1,
-      "voteNo" : 2,
-      "votePercent" : "64.29",
+      "voteNeutral" : 2,
+      "voteNo" : 3,
+      "votePercent" : "55.56",
       "voteYes" : 4
    }
 ]
