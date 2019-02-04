@@ -29,8 +29,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=91&event=123",
       "url_diff" : "",
       "voteNeutral" : 2,
-      "voteNo" : 0,
-      "votePercent" : "66.67",
+      "voteNo" : 1,
+      "votePercent" : "50.00",
       "voteYes" : 1
    },
    {
@@ -46,8 +46,8 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/twinkle_white_7-B_snow.bme",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "Junk obj:trainer",
@@ -63,8 +63,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02646",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "TARXO mov : Dynamite.Roll",
@@ -97,7 +97,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "140/fth + Est obj:SANY",
@@ -130,8 +130,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "w_tre obj:C4 Lyrics by Sing_fUA",
@@ -145,6 +145,22 @@
       "title" : "FIONA [Sog]",
       "url" : "http://nekokan.dyndns.info/~lobsak/genocide/grade.html",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01907",
+      "voteNeutral" : 1,
+      "voteNo" : 0,
+      "votePercent" : "87.50",
+      "voteYes" : 3
+   },
+   {
+      "artist" : "Lime / inukoro",
+      "level" : "2",
+      "md5" : "431bce1dce0c5c293dacc09c79e86b9b",
+      "proposer" : "Barite",
+      "proposerLr2id" : 139302,
+      "sha256" : "3c49c0abd8a1280ea88afb359db0e683b83d97665df5808897511988b5fd087f",
+      "submission" : 625,
+      "title" : "Chronomia [ANOTHER7]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=550&event=110",
+      "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
@@ -161,6 +177,23 @@
       "title" : "Romancecar (Kukan Junkyu Edit) [Nemesis]",
       "url" : "http://www.yamajet.com/music/list.html",
       "url_diff" : "http://www.dropbox.com/s/cau6aatpeiwvq7a/romancecar_Ne.bms?dl=0",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
+      "artist" : "imario",
+      "comment" : "ノーマル判定、微縦連複合乱打",
+      "level" : "8",
+      "md5" : "4cc2c2ecc2bc384b0e8e4628c8fa208d",
+      "proposer" : "姫川友紀",
+      "proposerLr2id" : 125835,
+      "sha256" : "b688404d5049378800c0e3057ba066736cec91341084d47622644e9350a26674",
+      "submission" : 626,
+      "title" : "Tribute [Black Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=79",
+      "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
@@ -181,7 +214,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "bouncin' b / obj.ovnz",
@@ -197,8 +230,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02690",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "音樂：佐倉翔一　譜面：七海拓哉 映像：山越矜介　原画：春見琴音",
@@ -231,8 +264,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "75.00",
-      "voteYes" : 1
+      "votePercent" : "83.33",
+      "voteYes" : 2
    },
    {
       "artist" : "Is-m/steelyvibe BGA:q/stol",
@@ -245,10 +278,10 @@
       "title" : "Fanciful False -SP ANOTHER-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=116",
       "url_diff" : "",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "votePercent" : "87.50",
+      "voteYes" : 3
    },
    {
       "artist" : "SOMON obj:SUZUKAZEΛ",
@@ -264,8 +297,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "dj Extrose with Miku Hatsune obj: qtp13",
@@ -319,6 +352,23 @@
       "voteYes" : 2
    },
    {
+      "artist" : "竜。 feat.結月ゆかり obj:紲星あかり",
+      "comment" : "ありがとう",
+      "level" : "1",
+      "md5" : "9dd56ca71a0561a368ee819e719fac9b",
+      "proposer" : "MEES-♬",
+      "proposerLr2id" : 39693,
+      "sha256" : "fe5acd7977eb941d3306bd2eab2a2295830346f4d4d46770dde63e539b129f82",
+      "submission" : 627,
+      "title" : "あのね、涙は。 [月と星]",
+      "url" : "https://bmssearch.net/bms?id=6234",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01935",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "Nizikawa feat. nayuta Movie: Air /obj:赤い人",
       "comment" : "sl7~8",
       "level" : "7",
@@ -331,9 +381,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=29&event=110",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/Babel-HARDEST.bme",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "voteNo" : 1,
+      "votePercent" : "66.67",
+      "voteYes" : 2
    },
    {
       "artist" : "Qga obj:Fender",
@@ -348,9 +398,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=299&event=104",
       "url_diff" : "http://fenderbms.web.fc2.com/",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "voteNo" : 1,
+      "votePercent" : "66.67",
+      "voteYes" : 2
    },
    {
       "artist" : "qfeileadh feat. レゾナンスもえこ / obj:C4 Movie : 浪漫映像制作倶楽部",
@@ -364,9 +414,9 @@
       "title" : "サカサマの空に在ったのは [SP XANADU]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=123",
       "url_diff" : "",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "87.50",
       "voteYes" : 3
    },
    {
@@ -381,10 +431,10 @@
       "title" : "Aeventyr [HARDEST]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=289&event=83",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/Aventyr-HARDEST.bme",
-      "voteNeutral" : 0,
+      "voteNeutral" : 2,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "66.67",
+      "voteYes" : 1
    },
    {
       "artist" : "KB_Ondin / Tamago&WHO obj: CSM*",
@@ -398,9 +448,9 @@
       "url" : "https://drive.google.com/open?id=1udhgfNl15lIiFRtNqJFTHMCg_lbayEMk",
       "url_diff" : "",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteNo" : 1,
+      "votePercent" : "75.00",
+      "voteYes" : 3
    },
    {
       "artist" : "SHIKI / obj.rat",
@@ -414,9 +464,9 @@
       "title" : "Metatron [rather]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=146&event=104",
       "url_diff" : "http://rattoto10.web.fc2.com/",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "62.50",
       "voteYes" : 2
    },
    {
@@ -499,9 +549,9 @@
       "url" : "http://www1.axfc.net/u/3689628/bms",
       "url_diff" : "",
       "voteNeutral" : 0,
-      "voteNo" : 1,
-      "votePercent" : "66.67",
-      "voteYes" : 2
+      "voteNo" : 2,
+      "votePercent" : "60.00",
+      "voteYes" : 3
    },
    {
       "artist" : "ARForest bga : inukoro / obj : BK",
@@ -516,8 +566,8 @@
       "url_diff" : "http://beatkim.web.fc2.com/",
       "voteNeutral" : 1,
       "voteNo" : 2,
-      "votePercent" : "75.00",
-      "voteYes" : 7
+      "votePercent" : "77.27",
+      "voteYes" : 8
    },
    {
       "artist" : "69 de 74 BGI:MUSH.T",
@@ -531,9 +581,9 @@
       "title" : "Holy Wind [ULTIMATE]",
       "url" : "https://venue.bmssearch.net/ippaitukuru2019/15",
       "url_diff" : "",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "83.33",
       "voteYes" : 2
    },
    {
@@ -582,10 +632,10 @@
       "title" : "Chase Mission [INSANE]",
       "url" : "https://venue.bmssearch.net/ippaitukuru2019/28",
       "url_diff" : "",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "75.00",
+      "voteYes" : 1
    },
    {
       "artist" : "S-10duck-TL12XD feat. re_you Illustration by Neru&Keiyuu / obj.七海千秋",
@@ -617,6 +667,6 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    }
 ]
