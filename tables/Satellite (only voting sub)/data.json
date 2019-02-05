@@ -28,10 +28,10 @@
       "title" : "cryout [7K Another]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=91&event=123",
       "url_diff" : "",
-      "voteNeutral" : 2,
+      "voteNeutral" : 3,
       "voteNo" : 1,
-      "votePercent" : "50.00",
-      "voteYes" : 1
+      "votePercent" : "64.29",
+      "voteYes" : 3
    },
    {
       "artist" : "Aliesrite* (Ym1024 feat. lamie*) obj : BAECON",
@@ -47,7 +47,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "Junk obj:trainer",
@@ -85,18 +85,19 @@
    },
    {
       "artist" : "魔界都市ニイガタ（黄泉路テヂーモ×dawn-system×かゆき） BGA:自動車原付 / obj:黄泉路テヂーモ",
+      "comment" : "Fix ver.",
       "level" : "1",
-      "md5" : "298b4d497f5386f103277801a19c8aa6",
-      "proposer" : "musier",
-      "proposerLr2id" : 113893,
-      "sha256" : "03a68050cf86b3e27eed027282c4c9b067949b089211e64af69c230a63fa5cf5",
-      "submission" : 617,
+      "md5" : "258ca0e977962fa63301bba1ac91864f",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "5eabeda57a1d8fe902ace827c08652e4f09d7bf7356848b5f674b0adb50d667d",
+      "submission" : 628,
       "title" : "浮世絵横丁",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=482&event=116",
       "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "70.00",
       "voteYes" : 3
    },
    {
@@ -128,9 +129,9 @@
       "title" : "Raspberry Memories [SP BLACK ANOTHER]",
       "url" : "https://venue.bmssearch.net/ippaitukuru2019/39",
       "url_diff" : "",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "83.33",
       "voteYes" : 2
    },
    {
@@ -146,9 +147,9 @@
       "url" : "http://nekokan.dyndns.info/~lobsak/genocide/grade.html",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01907",
       "voteNeutral" : 1,
-      "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 3
+      "voteNo" : 1,
+      "votePercent" : "81.25",
+      "voteYes" : 6
    },
    {
       "artist" : "Lime / inukoro",
@@ -161,10 +162,10 @@
       "title" : "Chronomia [ANOTHER7]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=550&event=110",
       "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "62.50",
+      "voteYes" : 2
    },
    {
       "artist" : "jet:tones / Obj.Triforce",
@@ -192,12 +193,12 @@
       "sha256" : "b688404d5049378800c0e3057ba066736cec91341084d47622644e9350a26674",
       "submission" : 626,
       "title" : "Tribute [Black Another]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=79",
+      "url" : "https://dropbox.bms.ms/u/84148289/tribute_ogg_.zip",
       "url_diff" : "",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "voteNo" : 1,
+      "votePercent" : "50.00",
+      "voteYes" : 1
    },
    {
       "artist" : "qfeileadh BGA: SELDO",
@@ -214,7 +215,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 6
    },
    {
       "artist" : "bouncin' b / obj.ovnz",
@@ -229,8 +230,8 @@
       "url" : "http://heckscaper.com/bms/index.html",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02690",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNo" : 1,
+      "votePercent" : "66.67",
       "voteYes" : 2
    },
    {
@@ -247,8 +248,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "punchhh",
@@ -262,9 +263,9 @@
       "title" : "route #50",
       "url" : "https://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=73&order=reg&odtype=a",
       "url_diff" : "",
-      "voteNeutral" : 1,
-      "voteNo" : 0,
-      "votePercent" : "83.33",
+      "voteNeutral" : 2,
+      "voteNo" : 1,
+      "votePercent" : "60.00",
       "voteYes" : 2
    },
    {
@@ -279,8 +280,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=116",
       "url_diff" : "",
       "voteNeutral" : 1,
-      "voteNo" : 0,
-      "votePercent" : "87.50",
+      "voteNo" : 1,
+      "votePercent" : "70.00",
       "voteYes" : 3
    },
    {
@@ -298,7 +299,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
    },
    {
       "artist" : "dj Extrose with Miku Hatsune obj: qtp13",
@@ -312,10 +313,10 @@
       "title" : "Synthesizer M.H. [消失]",
       "url" : "http://music.geocities.jp/beat_vocaloids/",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02609",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "75.00",
+      "voteYes" : 1
    },
    {
       "artist" : "idzuchi takl feat. TEA",
@@ -331,8 +332,8 @@
       "url_diff" : "https://drive.google.com/open?id=1UditZQwydvQ3SfGtynoFGyXvBtGI1WMJ",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "立秋 feat.ちょこ/obj:wak",
@@ -349,7 +350,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "竜。 feat.結月ゆかり obj:紲星あかり",
@@ -365,8 +366,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01935",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "Nizikawa feat. nayuta Movie: Air /obj:赤い人",
@@ -382,8 +383,8 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/Babel-HARDEST.bme",
       "voteNeutral" : 0,
       "voteNo" : 1,
-      "votePercent" : "66.67",
-      "voteYes" : 2
+      "votePercent" : "75.00",
+      "voteYes" : 3
    },
    {
       "artist" : "Qga obj:Fender",
@@ -433,8 +434,8 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/Aventyr-HARDEST.bme",
       "voteNeutral" : 2,
       "voteNo" : 0,
-      "votePercent" : "66.67",
-      "voteYes" : 1
+      "votePercent" : "75.00",
+      "voteYes" : 2
    },
    {
       "artist" : "KB_Ondin / Tamago&WHO obj: CSM*",
@@ -447,10 +448,10 @@
       "title" : "Chit-Chat [7Key Another]",
       "url" : "https://drive.google.com/open?id=1udhgfNl15lIiFRtNqJFTHMCg_lbayEMk",
       "url_diff" : "",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 1,
       "votePercent" : "75.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "SHIKI / obj.rat",
@@ -465,8 +466,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=146&event=104",
       "url_diff" : "http://rattoto10.web.fc2.com/",
       "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "62.50",
+      "voteNo" : 2,
+      "votePercent" : "50.00",
       "voteYes" : 2
    },
    {
@@ -481,10 +482,10 @@
       "title" : "和鸞 [紅翼鳥]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=111&event=104",
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "75.00",
+      "voteYes" : 1
    },
    {
       "artist" : "dust.c / obj:みっと",
@@ -648,10 +649,10 @@
       "title" : "JK★REVOLUTION!!!!!! -Hope-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=356&event=116",
       "url_diff" : "https://www.dropbox.com/s/j992l1azoy58w20/JR_nanami02.bms?dl=0",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "75.00",
+      "voteYes" : 1
    },
    {
       "artist" : "Enritsu movie 横尾太にゃ / obj Aztolfo",
@@ -667,6 +668,6 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 6
    }
 ]

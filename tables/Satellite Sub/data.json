@@ -1374,6 +1374,23 @@
       "voteYes" : 0
    },
    {
+      "artist" : "魔界都市ニイガタ（黄泉路テヂーモ×dawn-system×かゆき） BGA:自動車原付 / obj:黄泉路テヂーモ",
+      "comment" : "Fix ver.",
+      "level" : "1",
+      "md5" : "258ca0e977962fa63301bba1ac91864f",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "5eabeda57a1d8fe902ace827c08652e4f09d7bf7356848b5f674b0adb50d667d",
+      "submission" : 628,
+      "title" : "浮世絵横丁",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=482&event=116",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "S.S.H / utakichi / obj:sarada BGA:HAYA",
       "comment" : "fast",
       "level" : "10",
@@ -2864,7 +2881,7 @@
       "sha256" : "b688404d5049378800c0e3057ba066736cec91341084d47622644e9350a26674",
       "submission" : 626,
       "title" : "Tribute [Black Another]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=79",
+      "url" : "https://dropbox.bms.ms/u/84148289/tribute_ogg_.zip",
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
