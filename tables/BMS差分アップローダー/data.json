@@ -12315,6 +12315,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01804"
    },
    {
+      "adddate" : "2019/02/07 20:39",
+      "artist" : "fkRadish / Dr.A",
+      "comment" : "ガチ押し、皿複合",
+      "folder" : "2019/02",
+      "genre" : "Progressive Breaks",
+      "keys" : 7,
+      "level" : "2019/02",
+      "lr2_bmsid" : "",
+      "md5" : "445c5c1e41bd4a138714d3a3f794235e",
+      "org_level" : null,
+      "title" : "OceanFloors[EXTRA]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02714"
+   },
+   {
       "adddate" : "2018/11/18 10:07",
       "artist" : "Riku obj:SUZUKAZEΛ",
       "comment" : "同時押し,皿,微縦連,Normal判定,低トータル,BGI同梱",
@@ -26546,7 +26561,7 @@
       "md5" : "948f11fa12f4ec69c271666406eeeb0d",
       "org_level" : null,
       "title" : "Howlin' Pumpkin [Trick or Treat]",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=140&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02628"
    },
    {
@@ -27491,7 +27506,7 @@
       "md5" : "98c568e320cdd191392a1dd6b17acbfd",
       "org_level" : null,
       "title" : "Chronomia [Chronograph]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=110&num=550",
+      "url" : "",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02654"
    },
    {
@@ -32040,6 +32055,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01984"
    },
    {
+      "adddate" : "2019/02/08 01:09",
+      "artist" : "Lime / inukoro / И",
+      "comment" : "02654、02663の修正版",
+      "folder" : "2019/02",
+      "genre" : "Dramatical",
+      "keys" : "7",
+      "level" : "2019/02",
+      "lr2_bmsid" : "270728",
+      "md5" : "b109c5eb30e9f04780f84d2fc3a9d538",
+      "org_level" : null,
+      "title" : "Chronomia [Chronograph]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=110&num=550",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02715"
+   },
+   {
       "adddate" : "2016/12/24 00:25",
       "artist" : "DARKSIDE APPROACH (scytheleg vs Kucchi) obj:sak",
       "comment" : "総合譜面(連皿、同時押し、重発狂、ディレイ、微縦連)",
@@ -36358,6 +36388,21 @@
       "title" : "Pokemon battle imaging - No.3",
       "url" : "",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00989"
+   },
+   {
+      "adddate" : "2019/02/08 01:09",
+      "artist" : "Lime / inukoro",
+      "comment" : "02654、02663の修正版",
+      "folder" : "2019/02",
+      "genre" : "Dramatical",
+      "keys" : "7",
+      "level" : "2019/02",
+      "lr2_bmsid" : "270729",
+      "md5" : "c7676c5707b7080d651339bc8a054451",
+      "org_level" : null,
+      "title" : "Chronomia [И]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=110&num=550",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02715"
    },
    {
       "adddate" : "2018/09/01 23:28",
@@ -40815,6 +40860,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01546"
    },
    {
+      "adddate" : "2019/02/07 19:03",
+      "artist" : "FALL feat. yufu_sekka obj：ありえす",
+      "comment" : "同時押し",
+      "folder" : "2019/02",
+      "genre" : "Techno Pop",
+      "keys" : 7,
+      "level" : "2019/02",
+      "lr2_bmsid" : "",
+      "md5" : "e0cb3bf0374089f7d72c85b19aceb197",
+      "org_level" : null,
+      "title" : "Holy Prayer",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02713"
+   },
+   {
       "adddate" : "2018/05/19 03:30",
       "artist" : "SOTUI vs NIKITA / obj：MF",
       "comment" : "軸 トータル低め",
@@ -41336,7 +41396,7 @@
       "md5" : "e3634afc9ffcb49f1772bfc8dbf77096",
       "org_level" : null,
       "title" : "SYNTHETICS [CYBERTIC ETUDE]",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=285&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02685"
    },
    {
