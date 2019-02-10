@@ -1014,7 +1014,7 @@
    {
       "artist" : "Soba Yamamori obj.hex",
       "comment" : "32分混じり物量",
-      "level" : "5",
+      "level" : "6",
       "md5" : "26790f4cd7ffda85c52b63e5ed24da4f",
       "proposer" : "mono",
       "sha256" : "c3a15cec06c1dd18210b9e0f894c8dd77b5d5c84b76ce6a05c1e8611c5171512",
@@ -1823,6 +1823,18 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
    },
    {
+      "artist" : "eicateve hrchem[illust] TOHRU MiTSUHASHi[movie] И[object]",
+      "comment" : "おはよー",
+      "level" : "1",
+      "md5" : "3c7f1156f4dbf59839fc7675d891210b",
+      "proposer" : "MEES-♬",
+      "sha256" : "7f8a728de7328c5a5febc1742cea816489a7c7a602c449a94a4a2df95cae4486",
+      "submission" : 845,
+      "title" : "R.I.P.",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=339&event=123",
+      "url_diff" : "https://mega.nz/#F!hbBSkQII!8i6kzQpfZ7oeMj_xws56kA"
+   },
+   {
       "artist" : "psi obj:Luft",
       "comment" : "",
       "level" : "8",
@@ -1980,6 +1992,18 @@
       "title" : "腹腹時計",
       "url" : "https://onedrive.live.com/?id=863934608D908CD0%21142&cid=863934608D908CD0",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00978"
+   },
+   {
+      "artist" : "源屋feat.ユスラ obj:trainer",
+      "comment" : "フィジカル",
+      "level" : "0",
+      "md5" : "407c8e043a446c9dc99fc1ca97eb2fb5",
+      "proposer" : "MineC24",
+      "sha256" : "438d308d441d44f3772bb77802d451b4f5c0f7c1052020cf0cb4a5a3efb1270c",
+      "submission" : 852,
+      "title" : "Magical Love Words [フィジカル横認識]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=86&event=36",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02657"
    },
    {
       "artist" : "ああああ",
@@ -2316,6 +2340,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/"
    },
    {
+      "artist" : "Chitose / obj:Rian",
+      "level" : "1",
+      "md5" : "496cbb0d0f6b3b7287fb360944124e85",
+      "proposer" : "MEES-♬",
+      "sha256" : "9ab50bfe2a5bf1c8e586c5605cdf0f4e0618cf0896059e88232dc7563b364c07",
+      "submission" : 860,
+      "title" : "Hazy moon [雷雨]",
+      "url" : "http://yaruki0.sakura.ne.jp/event/ondanyugi5/impression.cgi?no=6",
+      "url_diff" : "https://drive.google.com/open?id=1u1NTkaIfkAalc4F3a-0xiw9bCj1muBg_"
+   },
+   {
       "artist" : "sa10/さ",
       "comment" : "ディレイ寄りのズレガチ押し",
       "level" : "7",
@@ -2583,6 +2618,18 @@
       "title" : "Vorota Collapse [Fatality]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=436&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01380"
+   },
+   {
+      "artist" : "しらいし / 32 / obj:firi.",
+      "comment" : "delay",
+      "level" : "0",
+      "md5" : "540ad15cb16c6a7f4e5f5e3613135bfc",
+      "proposer" : "MineC24",
+      "sha256" : "79903429a469171136ed813f8a759d9e8dddb5bb113868570dc1de4ad91796c6",
+      "submission" : 855,
+      "title" : "超絶速鍵練習曲第一番「銀世界」",
+      "url" : "https://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21208",
+      "url_diff" : "http://absolute.pv.land.to/uploader/src/up4076.zip"
    },
    {
       "artist" : "Yu^ta / obj:Monsta",
@@ -4255,6 +4302,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00985"
    },
    {
+      "artist" : "哀愁マニア",
+      "comment" : "★★5",
+      "level" : "8",
+      "md5" : "8f2a82e4f1f3e299c5d761a4c673b9ae",
+      "proposer" : "LUXURY♪",
+      "sha256" : "2aa29ab3928732c5ab19ba2f5edd5e510739b09dfd610a11dbc8f5b2c6fc8033",
+      "submission" : 858,
+      "title" : "the lost dedicated [life]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=89&event=65",
+      "url_diff" : ""
+   },
+   {
       "artist" : "vorbis / obj:夢瑠",
       "comment" : "微連打複合系",
       "level" : "3",
@@ -4289,6 +4348,18 @@
       "title" : "Suffruti [SILENCER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=60&event=104",
       "url_diff" : "http://www.geocities.jp/yjsnpi_kitanai_kusai_unko/index.html"
+   },
+   {
+      "artist" : "Kuwagata / obj:MineC24",
+      "comment" : "delay",
+      "level" : "0",
+      "md5" : "8fd27ddc06bc5e0b84c64aba6c7b4a7e",
+      "proposer" : "KIYOM99",
+      "sha256" : "122eac07eb88520b8904673713dd0111bfa8ae95bc38d5be66e08153e0a87495",
+      "submission" : 850,
+      "title" : "シグナルほっぴんぐ [Delay]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=190&event=116",
+      "url_diff" : "https://www.dropbox.com/s/im3h8pb6tj0uup6/_00_kuwagata_signal_%5Bdel%5D.bms?dl=0"
    },
    {
       "artist" : "keyc obj:mfmf",
@@ -4355,7 +4426,7 @@
    {
       "artist" : "+45 / obj: white train",
       "comment" : "sl12~st0 respect for Aci-L-GOD",
-      "level" : "0",
+      "level" : "1",
       "md5" : "91b0a169e6cde78b058fda8a404240a0",
       "proposer" : "qtp13",
       "sha256" : "afa8331c98cad7b387997c8d87e1ad5969055495b2afb054d18847b79ef551d9",
@@ -4428,18 +4499,6 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi"
    },
    {
-      "artist" : "Sakamiya feat.小宮真央 mov:わっふゑ img:hrchem",
-      "comment" : "st0~1?",
-      "level" : "0",
-      "md5" : "949001cff5b3401543134964395782f8",
-      "proposer" : "MineC24",
-      "sha256" : "6546ef3b4b247ebc690217a1e235be30c6f51909d89360a7c67deb7a0e974917",
-      "submission" : 822,
-      "title" : "Luna Express 2032 [銀河鉄道999]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=116",
-      "url_diff" : "https://mega.nz/#F!hbBSkQII!8i6kzQpfZ7oeMj_xws56kA"
-   },
-   {
       "artist" : "SHIKI // BGA:あかくらげ & M.H / selene.",
       "comment" : "物量",
       "level" : "3",
@@ -4499,6 +4558,18 @@
       "title" : "AVALON -Genocide-",
       "url" : "https://mega.nz/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01754"
+   },
+   {
+      "artist" : "RiraN movie : Irelriser",
+      "comment" : "2~3?",
+      "level" : "3",
+      "md5" : "96c017e393898a99000ecbd2c3ae80ac",
+      "proposer" : "MineC24",
+      "sha256" : "1f86806a3d86aa49aeea8c1bbec62ede552780a6deec45a43c8380f761cd15da",
+      "submission" : 848,
+      "title" : "Unshakable -Zen-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=110&num=192",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00791"
    },
    {
       "artist" : "9RAN/obj:ゆうりん",
@@ -5896,6 +5967,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01935"
    },
    {
+      "artist" : "Team:SASAKURATION  /  Goten",
+      "comment" : "???????",
+      "level" : "9",
+      "md5" : "ca0d671f6888bb05962a3574dc8aac77",
+      "proposer" : "MEES-♬",
+      "sha256" : "45d2196a7fe4be19f0165c72c0ab1d98e21d5970fac7751a39f75f9327007107",
+      "submission" : 859,
+      "title" : "aballava (???????)",
+      "url" : "http://onedrive.live.com/?cid=43C7447B3E45559B&id=43C7447B3E45559B%21105",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
+   },
+   {
       "artist" : "ZUN remixed by LeaF Movie:Optie",
       "comment" : "楽しい",
       "level" : "0",
@@ -6154,19 +6237,6 @@
       "url_diff" : "http://www.hyper-laner.com/sabun.html"
    },
    {
-      "artist" : "TOMA obj.XYZ",
-      "comment" : "1:2:3:4:5:6:7:8",
-      "level" : "0",
-      "md5" : "d27f59651d786b69cf53f8f81668a4c9",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "8f66ba7ca92957a299fd86ca39239a0bdb0d86188ff442f89bc8d5057a881884",
-      "submission" : 669,
-      "title" : "DANCE & (wish me a) MERRY CHRISTMAS!",
-      "url" : "http://tm2.toymusical.net/download.html",
-      "url_diff" : "http://xyzzz.net/objxyz.php"
-   },
-   {
       "artist" : "ATM / obj. by 、",
       "comment" : "",
       "level" : "5",
@@ -6226,6 +6296,17 @@
       "title" : "SERIOUS ERROR [INSANE]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=266&event=110",
       "url_diff" : ""
+   },
+   {
+      "artist" : "Music:しらいし/ 差分　赤い人",
+      "level" : "8",
+      "md5" : "d354c9cc5f4ee407d0e377e25fcbb126",
+      "proposer" : "파이어",
+      "sha256" : "46c731ddad3f73539c4bfc42a7280bbdcca30e49dc2e780fc2bd32832beff732",
+      "submission" : 853,
+      "title" : "Moon-gate [DELAYMASTER+]",
+      "url" : "http://www.geocities.jp/musicmakeman/sabun.html",
+      "url_diff" : "http://akred.web.fc2.com/ak-red-new.html"
    },
    {
       "artist" : "beatMARIO / obj:muscleMEN",
@@ -6953,6 +7034,18 @@
       "title" : "Fly up to : the Sky [HEAVEN]",
       "url" : "https://www.dropbox.com/s/qxf8j53t87cw6ac/yuta_smcpack_s_flyup.zip?dl=0",
       "url_diff" : ""
+   },
+   {
+      "artist" : "orangentle / deadblue238/さ",
+      "comment" : "物量",
+      "level" : "4",
+      "md5" : "ec2f71d78f73e243dfeebd88a535704d",
+      "proposer" : "BAECON",
+      "sha256" : "e72bf49b1504f79128a375d5ea62742b6f49911f1051a320981c7348383db3dd",
+      "submission" : 856,
+      "title" : "HAELEQUIN (・∀・)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=389&event=83",
+      "url_diff" : "http://sabosabun.tank.jp/"
    },
    {
       "artist" : "あるさん / obj. Tristan97",
