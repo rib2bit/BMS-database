@@ -1,5 +1,22 @@
 [
    {
+      "artist" : "sound piercer (mov : EMSH) obj.subomi",
+      "comment" : " ",
+      "level" : "0",
+      "md5" : "060cd782f7c35c2b0f4f31f6e190ad2c",
+      "proposer" : "CATHERINE",
+      "proposerLr2id" : 119448,
+      "sha256" : "db17ecc12a240a4bec7146fc5c2ea0bd8902e9b04f7834cb74a2b92d34fc96f9",
+      "submission" : 661,
+      "title" : "君の色に染まる [幸せの約束]",
+      "url" : "http://k-bms.com/party_pabat/party2015.jsp?board_num=15&num=54&order=reg&odtype=a",
+      "url_diff" : "https://drive.google.com/file/d/1_8OSHy1NSOZXspCM36mHSqwZZnTY2lu0/view",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 4
+   },
+   {
       "artist" : "wa. vs ETIA./さ deadblue238",
       "comment" : "修正後",
       "level" : "7",
@@ -14,7 +31,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 5
    },
    {
       "artist" : "Larimar Movie : Hauynite obj : selene.",
@@ -29,8 +46,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "ARForest bga: inukoro, obj: SARYN",
@@ -46,8 +63,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "Sakamiya feat.A.Dokuga img:HalHAL Lyrics:uoru",
@@ -62,8 +79,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "Ast/obj:shelcis",
@@ -78,9 +95,9 @@
       "url" : "https://mega.nz/#F!u9kiBYqA!WCY46Y8LUWAUUtFduG5bwA",
       "url_diff" : "http://gnqg.rosx.net/upload/?pg=50",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "voteNo" : 1,
+      "votePercent" : "50.00",
+      "voteYes" : 1
    },
    {
       "artist" : "Freezer feat. 妃苺 obj : BAECON vs Lapis",
@@ -95,8 +112,24 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/onsen_meijin.bms",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 3
+   },
+   {
+      "artist" : "maki / obj:MineC24",
+      "level" : "0",
+      "md5" : "271a8286f788ba1849aa0d2ae24a2df9",
+      "proposer" : "monaka",
+      "proposerLr2id" : 93763,
+      "sha256" : "5282e0bff3465beb3f10e78646b501908753a1becc3af53013923b61d427bc54",
+      "submission" : 663,
+      "title" : "ice valley \"beyond the searoad\" [EXTRA]",
+      "url" : "http://web.archive.org/web/20140811132139/http://aquaseeds.net/archives/bof2011_maki_icevalley_ogg.rar",
+      "url_diff" : "https://www.dropbox.com/s/ry3htedviqexvf0/icevalley_7e.bms?dl=0",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "hugepulse obj.rat vs NASA",
@@ -113,7 +146,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
    },
    {
       "artist" : "EXCITECH / obj:みっと",
@@ -129,8 +162,24 @@
       "url_diff" : "http://zzssccaxd.wix.com/bmsabun",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 3
+   },
+   {
+      "artist" : "GNMD / mov: litmus* obj. BK",
+      "level" : "4",
+      "md5" : "32eacd8032ca8155a1cc80e39753aabb",
+      "proposer" : "''",
+      "proposerLr2id" : 86456,
+      "sha256" : "1219a1f601d5c0ef10d71994434675ce1934f5ada7b46156992d2214d2bbde6e",
+      "submission" : 662,
+      "title" : "Pusha Plucka!! -SWAGGER-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=110",
+      "url_diff" : "http://beatkim.web.fc2.com/insane.html",
+      "voteNeutral" : 1,
+      "voteNo" : 0,
+      "votePercent" : "83.33",
+      "voteYes" : 2
    },
    {
       "artist" : "LV.4 obj:fendou",
@@ -143,10 +192,10 @@
       "title" : "Angel dust [F]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=36",
       "url_diff" : "https://drive.google.com/open?id=1xDW3nRalF03r13oM09RQBE_-n8VauZZU",
-      "voteNeutral" : 1,
+      "voteNeutral" : 2,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 2
+      "votePercent" : "85.71",
+      "voteYes" : 5
    },
    {
       "artist" : "qfeileadh feat. レゾナンスもえこ / obj:C4 Movie : 浪漫映像制作倶楽部",
@@ -162,8 +211,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 6
    },
    {
       "artist" : "ルゼ ☆ えみゅう。 ☆ 石王マサト, obj.SeunghoLee",
@@ -177,10 +226,10 @@
       "title" : "運命論 ~notte stellata~",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=205&event=88",
       "url_diff" : "http://gnqg.rosx.net/upload/",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 1,
       "votePercent" : "75.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "kozato / obj:C4",
@@ -195,9 +244,9 @@
       "url" : "http://pwsl.sakura.ne.jp/?page_id=7",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02694",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteNo" : 1,
+      "votePercent" : "85.71",
+      "voteYes" : 6
    },
    {
       "artist" : "6yen / G / 、/さ",
@@ -211,10 +260,10 @@
       "title" : "Cynic (THE hyper)",
       "url" : "http://web.archive.org/web/20060621033302/http://www.commonsense.nu/songs/cynic.zip",
       "url_diff" : "http://sabosabun.tank.jp/",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "votePercent" : "87.50",
+      "voteYes" : 3
    },
    {
       "artist" : "あとぅす Movie:TM",
@@ -231,7 +280,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
    },
    {
       "artist" : "Arranged by Y.W bga:kotomi obj. ejl6",
@@ -245,8 +294,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=74",
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNo" : 1,
+      "votePercent" : "66.67",
       "voteYes" : 2
    },
    {
@@ -261,10 +310,10 @@
       "title" : "Infomorph [INSANE]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=116",
       "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "62.50",
+      "voteYes" : 2
    },
    {
       "artist" : "punchhh",
@@ -284,6 +333,23 @@
       "voteYes" : 6
    },
    {
+      "artist" : "cranky / 29",
+      "comment" : "ohh↘↗↗↗↗↗↗↗↗↗↗↘↘↘↘↘",
+      "level" : "0",
+      "md5" : "7cd26764cc381188d3c8505fcdaf6b3f",
+      "proposer" : "Star*",
+      "proposerLr2id" : 90733,
+      "sha256" : "5bc67bc68cb5b37280a9d0be522a0341d41ccd68b1f6fffc52a176d82af45e7d",
+      "submission" : 660,
+      "title" : "Dear sexxx DanCer [29Another]",
+      "url" : "http://bit.ly/1oZARmY",
+      "url_diff" : "http://nick.xxxxxxxx.jp/",
+      "voteNeutral" : 3,
+      "voteNo" : 1,
+      "votePercent" : "50.00",
+      "voteYes" : 1
+   },
+   {
       "artist" : "Cosine BGA:うまうや、Kaoru Miyazaki / obj:SUZUKAZEΛ",
       "level" : "4",
       "md5" : "8360ac814b3f9ffc0f6813b0601dec7c",
@@ -296,8 +362,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 4
    },
    {
       "artist" : "sinku* / BGI:作者文",
@@ -347,8 +413,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "KaKi",
@@ -363,8 +429,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "Micelle",
@@ -379,9 +445,9 @@
       "url" : "https://venue.bmssearch.net/ippaitukuru2019/7",
       "url_diff" : "",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "voteNo" : 1,
+      "votePercent" : "75.00",
+      "voteYes" : 3
    },
    {
       "artist" : "Ujico*/obj:_jakko",
@@ -395,10 +461,10 @@
       "title" : "Seed [Another+]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=86",
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up3536.lzh",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "83.33",
+      "voteYes" : 2
    },
    {
       "artist" : "dawn-system Vo: もちこまめ / BGA: うまるつふり＆わっふゑ / A",
@@ -413,9 +479,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=61&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00045",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "voteNo" : 1,
+      "votePercent" : "66.67",
+      "voteYes" : 2
    },
    {
       "artist" : "POSI-TRON!/obj:wak",
@@ -430,9 +496,26 @@
       "url" : "https://onedrive.live.com/?cid=FC95A680740CA8C9&id=FC95A680740CA8C9%21224&parId=FC95A680740CA8C9%21111&o=OneUp",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02686",
       "voteNeutral" : 0,
+      "voteNo" : 1,
+      "votePercent" : "80.00",
+      "voteYes" : 4
+   },
+   {
+      "artist" : "void / Gt. HAKKYOU-KUN nokir / selene.",
+      "comment" : "10か11",
+      "level" : "10",
+      "md5" : "bdbd153af0d75088b5418c705bd69f84",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "f64078f2f756075e336fa5b00425ef813761e0d36ee4b2351bc68697227a2c6e",
+      "submission" : 664,
+      "title" : "Never Escape -Eclipse-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=274&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02600",
+      "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "dust.c / obj:みっと",
@@ -448,8 +531,8 @@
       "url_diff" : "http://zzssccaxd.wix.com/bmsabun",
       "voteNeutral" : 3,
       "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 6
+      "votePercent" : "77.27",
+      "voteYes" : 7
    },
    {
       "artist" : "HOUJIROU a.k.a 2000Notes党首",
@@ -464,8 +547,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 2,
-      "votePercent" : "79.17",
-      "voteYes" : 9
+      "votePercent" : "80.77",
+      "voteYes" : 10
    },
    {
       "artist" : "秋山 澪 / obj:夢瑠",
@@ -480,9 +563,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=44&event=65",
       "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
       "voteNeutral" : 0,
-      "voteNo" : 4,
-      "votePercent" : "55.56",
-      "voteYes" : 5
+      "voteNo" : 6,
+      "votePercent" : "60.00",
+      "voteYes" : 9
    },
    {
       "artist" : "TOMA obj.XYZ",
@@ -515,8 +598,25 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 3
+   },
+   {
+      "artist" : "ZUN Remixed by Star*",
+      "comment" : "同捆谱面",
+      "level" : "1",
+      "md5" : "f2e571f7a792563d73622f33c85f6498",
+      "proposer" : "Fendou",
+      "proposerLr2id" : 128388,
+      "sha256" : "2d7da9f88425cb2fb83b00cd47ca2418d8b64924165b946c041ed7f9576ee08e",
+      "submission" : 659,
+      "title" : "Innocent Blossom [SP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=118",
+      "url_diff" : "",
+      "voteNeutral" : 1,
+      "voteNo" : 0,
+      "votePercent" : "83.33",
+      "voteYes" : 2
    },
    {
       "artist" : "ZUN / BMS:average BGA:のりろー",
@@ -529,9 +629,9 @@
       "title" : "Romantic Children [SP ANOTHER2]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=73&event=102",
       "url_diff" : "",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "83.33",
+      "voteYes" : 2
    }
 ]

@@ -13,8 +13,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02709",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "Remixed by MSMcorp. obj.hex",
@@ -146,9 +146,9 @@
       "url" : "http://leucine.web.fc2.com/",
       "url_diff" : "http://sabosabun.tank.jp/",
       "voteNeutral" : 0,
-      "voteNo" : 3,
-      "votePercent" : "50.00",
-      "voteYes" : 3
+      "voteNo" : 6,
+      "votePercent" : "40.00",
+      "voteYes" : 4
    },
    {
       "artist" : "Silentroom × iimo / selene.",
@@ -179,9 +179,9 @@
       "url" : "http://web.archive.org/web/20051118202018/http://www.remarkablesense.org/~shiki/air.exe",
       "url_diff" : "http://absolute.pv.land.to/Anotherbms.html",
       "voteNeutral" : 1,
-      "voteNo" : 9,
-      "votePercent" : "63.46",
-      "voteYes" : 16
+      "voteNo" : 12,
+      "votePercent" : "60.94",
+      "voteYes" : 19
    },
    {
       "artist" : "フロン / ラズベリル / obj : lemon_aided",
@@ -212,10 +212,10 @@
       "title" : "天空の城ヴェリエル -requiescat in pace-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=156&event=83",
       "url_diff" : "http://drowsy.hannnari.com/index.html",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "75.00",
+      "voteYes" : 1
    },
    {
       "artist" : "remixed celas / obj : cieu",
@@ -229,8 +229,8 @@
       "url" : "https://web.archive.org/web/20161022231551/http://creation-records.info/bms/seeker_r_ogg.rar",
       "url_diff" : "http://cieu.web.fc2.com/",
       "voteNeutral" : 0,
-      "voteNo" : 3,
-      "votePercent" : "25.00",
+      "voteNo" : 5,
+      "votePercent" : "16.67",
       "voteYes" : 1
    },
    {
@@ -264,7 +264,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "sasakure.UK obj:Monsta",
@@ -297,8 +297,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/?pg=50",
       "voteNeutral" : 0,
       "voteNo" : 1,
-      "votePercent" : "50.00",
-      "voteYes" : 1
+      "votePercent" : "75.00",
+      "voteYes" : 3
    },
    {
       "artist" : "MisomyL obj:selene.",
