@@ -94,10 +94,10 @@
       "title" : "Creamy Sugary OVERDRIVE!!! [Futabather]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=26&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02704",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "75.00",
+      "voteYes" : 1
    },
    {
       "artist" : "qfeileadh BGA: SELDO",
@@ -114,7 +114,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
    },
    {
       "artist" : "-45 / obj;Nemes",
@@ -147,8 +147,8 @@
       "url_diff" : "http://sabosabun.tank.jp/",
       "voteNeutral" : 0,
       "voteNo" : 6,
-      "votePercent" : "40.00",
-      "voteYes" : 4
+      "votePercent" : "53.85",
+      "voteYes" : 7
    },
    {
       "artist" : "Silentroom × iimo / selene.",
@@ -178,10 +178,10 @@
       "title" : "Air -GOD-",
       "url" : "http://web.archive.org/web/20051118202018/http://www.remarkablesense.org/~shiki/air.exe",
       "url_diff" : "http://absolute.pv.land.to/Anotherbms.html",
-      "voteNeutral" : 1,
-      "voteNo" : 12,
-      "votePercent" : "60.94",
-      "voteYes" : 19
+      "voteNeutral" : 2,
+      "voteNo" : 14,
+      "votePercent" : "61.54",
+      "voteYes" : 23
    },
    {
       "artist" : "フロン / ラズベリル / obj : lemon_aided",
@@ -197,8 +197,8 @@
       "url_diff" : "http://www.dropbox.com/s/ob3mnzf94bptw8d/Love%26Justice_sabun.zip",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 2
+      "votePercent" : "87.50",
+      "voteYes" : 3
    },
    {
       "artist" : "うえつ氏 あ氏",
@@ -216,6 +216,23 @@
       "voteNo" : 0,
       "votePercent" : "75.00",
       "voteYes" : 1
+   },
+   {
+      "artist" : "tanacoro/BGA:musao,wars,M.Takezaki / selene.",
+      "comment" : "乱打",
+      "level" : "2",
+      "md5" : "987521b0e5e93f2cb833e447445a2db8",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "afffe991a3adcaca6fe144ee96b5ef66a6f6abf8c562eb6caa8f2c44a5caac10",
+      "submission" : 876,
+      "title" : "Dark Sky -Bloody-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=104",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01462",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "remixed celas / obj : cieu",
@@ -296,9 +313,9 @@
       "url" : "http://nekokan.dyndns.info/~pupuly/bms/view.cgi?id=87",
       "url_diff" : "http://gnqg.rosx.net/upload/?pg=50",
       "voteNeutral" : 0,
-      "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 3
+      "voteNo" : 2,
+      "votePercent" : "66.67",
+      "voteYes" : 4
    },
    {
       "artist" : "MisomyL obj:selene.",

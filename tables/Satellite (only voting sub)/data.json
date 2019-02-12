@@ -14,7 +14,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 7
+   },
+   {
+      "artist" : "にょろも",
+      "comment" : "同梱譜面",
+      "level" : "2",
+      "md5" : "06ae6230b1718c24abeab651eac92fe8",
+      "proposer" : "Whip",
+      "proposerLr2id" : 145504,
+      "sha256" : "7a837d3ff68d154b4925d946612b68bb4b47628bd75501b3cf27f4c5be0ec6b9",
+      "submission" : 665,
+      "title" : "指先忍者 bravery_99.9%",
+      "url" : "https://venue.bmssearch.net/ippaitukuru2019/12",
+      "url_diff" : "",
+      "voteNeutral" : 1,
+      "voteNo" : 0,
+      "votePercent" : "87.50",
+      "voteYes" : 3
    },
    {
       "artist" : "wa. vs ETIA./さ deadblue238",
@@ -29,9 +46,9 @@
       "url" : "http://3t1a.net/bms/Akasagarbha_ogg.rar",
       "url_diff" : "http://sabosabun.tank.jp/",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteNo" : 1,
+      "votePercent" : "88.89",
+      "voteYes" : 8
    },
    {
       "artist" : "Larimar Movie : Hauynite obj : selene.",
@@ -45,9 +62,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteNo" : 1,
+      "votePercent" : "75.00",
+      "voteYes" : 3
    },
    {
       "artist" : "ARForest bga: inukoro, obj: SARYN",
@@ -62,9 +79,25 @@
       "url" : "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=16&order=reg&odtype=a",
       "url_diff" : "",
       "voteNeutral" : 0,
+      "voteNo" : 2,
+      "votePercent" : "71.43",
+      "voteYes" : 5
+   },
+   {
+      "artist" : "Yunosuke obj.Lapis playing R6S",
+      "level" : "1",
+      "md5" : "1656187531c03dd7b4edcfb90de75e32",
+      "proposer" : "Lapis",
+      "proposerLr2id" : 35410,
+      "sha256" : "1c948c205f34922eb998177e72d2ff7a022ee46793128631efab0aa8573330bc",
+      "submission" : 667,
+      "title" : "GLAZ [OTs-03]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=123&num=286",
+      "url_diff" : "http://lapisbms.xyz",
+      "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 2
    },
    {
       "artist" : "Sakamiya feat.A.Dokuga img:HalHAL Lyrics:uoru",
@@ -80,7 +113,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
    },
    {
       "artist" : "Ast/obj:shelcis",
@@ -94,10 +127,10 @@
       "title" : "Labyrintos [Shelther]",
       "url" : "https://mega.nz/#F!u9kiBYqA!WCY46Y8LUWAUUtFduG5bwA",
       "url_diff" : "http://gnqg.rosx.net/upload/?pg=50",
-      "voteNeutral" : 0,
-      "voteNo" : 1,
+      "voteNeutral" : 1,
+      "voteNo" : 2,
       "votePercent" : "50.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "Freezer feat. 妃苺 obj : BAECON vs Lapis",
@@ -111,9 +144,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=123&num=226",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/onsen_meijin.bms",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteNo" : 1,
+      "votePercent" : "80.00",
+      "voteYes" : 4
    },
    {
       "artist" : "maki / obj:MineC24",
@@ -129,7 +162,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 8
    },
    {
       "artist" : "hugepulse obj.rat vs NASA",
@@ -146,7 +179,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 6
    },
    {
       "artist" : "EXCITECH / obj:みっと",
@@ -163,7 +196,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 5
    },
    {
       "artist" : "GNMD / mov: litmus* obj. BK",
@@ -178,8 +211,8 @@
       "url_diff" : "http://beatkim.web.fc2.com/insane.html",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 2
+      "votePercent" : "90.00",
+      "voteYes" : 4
    },
    {
       "artist" : "LV.4 obj:fendou",
@@ -193,9 +226,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=36",
       "url_diff" : "https://drive.google.com/open?id=1xDW3nRalF03r13oM09RQBE_-n8VauZZU",
       "voteNeutral" : 2,
-      "voteNo" : 0,
-      "votePercent" : "85.71",
-      "voteYes" : 5
+      "voteNo" : 2,
+      "votePercent" : "72.73",
+      "voteYes" : 7
    },
    {
       "artist" : "qfeileadh feat. レゾナンスもえこ / obj:C4 Movie : 浪漫映像制作倶楽部",
@@ -212,7 +245,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 8
    },
    {
       "artist" : "ルゼ ☆ えみゅう。 ☆ 石王マサト, obj.SeunghoLee",
@@ -228,8 +261,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 4
+      "votePercent" : "83.33",
+      "voteYes" : 7
    },
    {
       "artist" : "kozato / obj:C4",
@@ -243,10 +276,10 @@
       "title" : "四十五年ノ雪桜 [Blossoms]",
       "url" : "http://pwsl.sakura.ne.jp/?page_id=7",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02694",
-      "voteNeutral" : 0,
-      "voteNo" : 1,
-      "votePercent" : "85.71",
-      "voteYes" : 6
+      "voteNeutral" : 1,
+      "voteNo" : 2,
+      "votePercent" : "77.27",
+      "voteYes" : 8
    },
    {
       "artist" : "6yen / G / 、/さ",
@@ -261,9 +294,9 @@
       "url" : "http://web.archive.org/web/20060621033302/http://www.commonsense.nu/songs/cynic.zip",
       "url_diff" : "http://sabosabun.tank.jp/",
       "voteNeutral" : 1,
-      "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 3
+      "voteNo" : 1,
+      "votePercent" : "81.25",
+      "voteYes" : 6
    },
    {
       "artist" : "あとぅす Movie:TM",
@@ -280,7 +313,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "Arranged by Y.W bga:kotomi obj. ejl6",
@@ -293,10 +326,10 @@
       "title" : "闘気に満ちた草原",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=74",
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
-      "voteNeutral" : 0,
-      "voteNo" : 1,
-      "votePercent" : "66.67",
-      "voteYes" : 2
+      "voteNeutral" : 1,
+      "voteNo" : 2,
+      "votePercent" : "64.29",
+      "voteYes" : 4
    },
    {
       "artist" : "ETIA. feat. Jenga Movie: vol-t",
@@ -311,8 +344,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=116",
       "url_diff" : "",
       "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "62.50",
+      "voteNo" : 2,
+      "votePercent" : "50.00",
       "voteYes" : 2
    },
    {
@@ -333,6 +366,23 @@
       "voteYes" : 6
    },
    {
+      "artist" : "er",
+      "comment" : "辛ゲー",
+      "level" : "3",
+      "md5" : "77e544e4a44e6e026030fad20f385a5f",
+      "proposer" : "71066",
+      "proposerLr2id" : 71066,
+      "sha256" : "eeef01f8b1dc05de8cca3829d174cc14ba6cb5b2b88a233c0ce611f4f9652b8c",
+      "submission" : 666,
+      "title" : "ハイパーミラクルシューティングスター [Futabather]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=137&event=88",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01878",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "62.50",
+      "voteYes" : 2
+   },
+   {
       "artist" : "cranky / 29",
       "comment" : "ohh↘↗↗↗↗↗↗↗↗↗↗↘↘↘↘↘",
       "level" : "0",
@@ -345,9 +395,9 @@
       "url" : "http://bit.ly/1oZARmY",
       "url_diff" : "http://nick.xxxxxxxx.jp/",
       "voteNeutral" : 3,
-      "voteNo" : 1,
-      "votePercent" : "50.00",
-      "voteYes" : 1
+      "voteNo" : 2,
+      "votePercent" : "56.25",
+      "voteYes" : 3
    },
    {
       "artist" : "Cosine BGA:うまうや、Kaoru Miyazaki / obj:SUZUKAZEΛ",
@@ -363,7 +413,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "sinku* / BGI:作者文",
@@ -379,8 +429,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 4
    },
    {
       "artist" : "Sakamiya feat.小宮真央 mov:わっふゑ img:hrchem",
@@ -400,6 +450,23 @@
       "voteYes" : 0
    },
    {
+      "artist" : "AIV feat.Yossy/S obj:goe",
+      "comment" : "物量,皿複合。中盤に密度が低めの低速あり",
+      "level" : "7",
+      "md5" : "a0a6198fba3f1354c9279a190b81ba48",
+      "proposer" : "Rche_Lincle",
+      "proposerMinirid" : "7dbee6d9-d9e8-4a2f-abfe-91d69cb42542",
+      "sha256" : "a2068e7ebacd4dbe13edd007307c4157980e0651c803c270d23a74ec6bc80166",
+      "submission" : 668,
+      "title" : "Shade of Stars [★]",
+      "url" : "http://web.archive.org/web/20070204004039/http://www.ismusic.ne.jp/yossy/music_data/bms/aiv_shade.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
       "artist" : "おみー obj:isasana",
       "comment" : "sl4~5 ラス殺し",
       "level" : "4",
@@ -414,7 +481,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
    },
    {
       "artist" : "KaKi",
@@ -430,7 +497,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 6
    },
    {
       "artist" : "Micelle",
@@ -444,10 +511,10 @@
       "title" : "Sarllah [PLATTER]",
       "url" : "https://venue.bmssearch.net/ippaitukuru2019/7",
       "url_diff" : "",
-      "voteNeutral" : 0,
+      "voteNeutral" : 2,
       "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 3
+      "votePercent" : "71.43",
+      "voteYes" : 4
    },
    {
       "artist" : "Ujico*/obj:_jakko",
@@ -463,8 +530,8 @@
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up3536.lzh",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 2
+      "votePercent" : "90.00",
+      "voteYes" : 4
    },
    {
       "artist" : "dawn-system Vo: もちこまめ / BGA: うまるつふり＆わっふゑ / A",
@@ -480,8 +547,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00045",
       "voteNeutral" : 0,
       "voteNo" : 1,
-      "votePercent" : "66.67",
-      "voteYes" : 2
+      "votePercent" : "75.00",
+      "voteYes" : 3
    },
    {
       "artist" : "POSI-TRON!/obj:wak",
@@ -495,9 +562,9 @@
       "title" : "Ruriko FINAL [neutral]",
       "url" : "https://onedrive.live.com/?cid=FC95A680740CA8C9&id=FC95A680740CA8C9%21224&parId=FC95A680740CA8C9%21111&o=OneUp",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02686",
-      "voteNeutral" : 0,
+      "voteNeutral" : 2,
       "voteNo" : 1,
-      "votePercent" : "80.00",
+      "votePercent" : "71.43",
       "voteYes" : 4
    },
    {
@@ -513,9 +580,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=274&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02600",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "voteNo" : 1,
+      "votePercent" : "75.00",
+      "voteYes" : 3
    },
    {
       "artist" : "dust.c / obj:みっと",
@@ -562,9 +629,9 @@
       "title" : "水晶世界 ～Fracture～ [yumether]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=44&event=65",
       "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
-      "voteNeutral" : 0,
-      "voteNo" : 6,
-      "votePercent" : "60.00",
+      "voteNeutral" : 1,
+      "voteNo" : 8,
+      "votePercent" : "52.78",
       "voteYes" : 9
    },
    {
@@ -596,10 +663,10 @@
       "title" : "Disorder -ANOTHER-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=123",
       "url_diff" : "",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 3
+      "votePercent" : "90.00",
+      "voteYes" : 4
    },
    {
       "artist" : "ZUN Remixed by Star*",
@@ -615,8 +682,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 2
+      "votePercent" : "91.67",
+      "voteYes" : 5
    },
    {
       "artist" : "ZUN / BMS:average BGA:のりろー",
@@ -629,9 +696,9 @@
       "title" : "Romantic Children [SP ANOTHER2]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=73&event=102",
       "url_diff" : "",
-      "voteNeutral" : 1,
+      "voteNeutral" : 2,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 2
+      "votePercent" : "85.71",
+      "voteYes" : 5
    }
 ]

@@ -7877,6 +7877,23 @@
       "voteYes" : 0
    },
    {
+      "artist" : "tanacoro/BGA:musao,wars,M.Takezaki / selene.",
+      "comment" : "乱打",
+      "level" : "2",
+      "md5" : "987521b0e5e93f2cb833e447445a2db8",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "afffe991a3adcaca6fe144ee96b5ef66a6f6abf8c562eb6caa8f2c44a5caac10",
+      "submission" : 876,
+      "title" : "Dark Sky -Bloody-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=104",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01462",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "adamthix / obj:Monsta",
       "comment" : "",
       "level" : "10",

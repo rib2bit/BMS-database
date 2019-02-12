@@ -229,6 +229,17 @@
       "voteYes" : 0
    },
    {
+      "artist" : "にょろも",
+      "comment" : "同梱譜面",
+      "level" : "2",
+      "md5" : "06ae6230b1718c24abeab651eac92fe8",
+      "sha256" : "7a837d3ff68d154b4925d946612b68bb4b47628bd75501b3cf27f4c5be0ec6b9",
+      "submission" : 665,
+      "title" : "指先忍者 bravery_99.9%",
+      "url" : "https://venue.bmssearch.net/ippaitukuru2019/12",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Ester mov : mi / obj:SUZUKAZEΛ powered by cymbidium",
       "comment" : "MIN-FIX",
       "level" : "6",
@@ -865,6 +876,22 @@
       "title" : "Altros [ANOTHER]",
       "url" : "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=16&order=reg&odtype=a",
       "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "Yunosuke obj.Lapis playing R6S",
+      "level" : "1",
+      "md5" : "1656187531c03dd7b4edcfb90de75e32",
+      "proposer" : "Lapis",
+      "proposerLr2id" : 35410,
+      "sha256" : "1c948c205f34922eb998177e72d2ff7a022ee46793128631efab0aa8573330bc",
+      "submission" : 667,
+      "title" : "GLAZ [OTs-03]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=123&num=286",
+      "url_diff" : "http://lapisbms.xyz",
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
@@ -4791,6 +4818,23 @@
       "voteYes" : 0
    },
    {
+      "artist" : "er",
+      "comment" : "辛ゲー",
+      "level" : "3",
+      "md5" : "77e544e4a44e6e026030fad20f385a5f",
+      "proposer" : "71066",
+      "proposerLr2id" : 71066,
+      "sha256" : "eeef01f8b1dc05de8cca3829d174cc14ba6cb5b2b88a233c0ce611f4f9652b8c",
+      "submission" : 666,
+      "title" : "ハイパーミラクルシューティングスター [Futabather]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=137&event=88",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01878",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "Is-m/steelyvibe BGA:q/stol",
       "level" : "2",
       "md5" : "77ef2e610f5a9b7927528ff783539289",
@@ -6431,6 +6475,23 @@
       "title" : "Lonely Cat [雨模様]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=48&event=110",
       "url_diff" : "http://ux.getuploader.com/monaka_sabun_2/download/96/Lonely+Cat.zip",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "AIV feat.Yossy/S obj:goe",
+      "comment" : "物量,皿複合。中盤に密度が低めの低速あり",
+      "level" : "7",
+      "md5" : "a0a6198fba3f1354c9279a190b81ba48",
+      "proposer" : "Rche_Lincle",
+      "proposerMinirid" : "7dbee6d9-d9e8-4a2f-abfe-91d69cb42542",
+      "sha256" : "a2068e7ebacd4dbe13edd007307c4157980e0651c803c270d23a74ec6bc80166",
+      "submission" : 668,
+      "title" : "Shade of Stars [★]",
+      "url" : "http://web.archive.org/web/20070204004039/http://www.ismusic.ne.jp/yossy/music_data/bms/aiv_shade.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi",
+      "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
