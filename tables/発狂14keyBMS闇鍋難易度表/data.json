@@ -2142,9 +2142,9 @@
       "title" : "compressed eyes -side A-"
    },
    {
-      "artist" : "8284 / Obj:ゆ～兎",
+      "artist" : "8284 / Obj:ゆ～兎 *FLIP LR.MIRROR",
       "comment" : "CYBER ENERGETIC TRANCE",
-      "level" : "6",
+      "level" : "7",
       "md5" : "0d0d9db6e6a6a9e2c5cbbefe15a9c6b0",
       "title" : "Central Nucleus [DP INSANE]"
    },
@@ -3796,7 +3796,7 @@
    {
       "artist" : "uma vs. モリモリあつし",
       "comment" : "Hard Renaissance",
-      "level" : "★6",
+      "level" : "★5",
       "md5" : "1869dbdd99498596675db23e44f7ae19",
       "title" : "Re:End of a Dream [DPA]"
    },
@@ -9800,9 +9800,9 @@
       "title" : "RESISTANCE FOR RESISTANCE [ANOTHER14]"
    },
    {
-      "artist" : "ルゼ / obj:lichtr",
+      "artist" : "ルゼ / obj:lichtr *FLIP R.MIRROR",
       "comment" : "PSYTEC",
-      "level" : "4",
+      "level" : "2",
       "md5" : "4048a3558376356aac6a51ebc5ced9a1",
       "title" : "3.14"
    },
@@ -19460,6 +19460,13 @@
       "title" : "BOUNCE THE TECH [Freedom]"
    },
    {
+      "artist" : "er / obj:C4",
+      "comment" : "TECHNO",
+      "level" : "8",
+      "md5" : "7d10ea80186253b5e40ec143b43d653f",
+      "title" : "new earth [14k Second generation]"
+   },
+   {
       "artist" : "cittan* feat. YUNA obj:けろりん *R.MIRROR",
       "comment" : "ENERGETIC TRANCE",
       "level" : "1",
@@ -21210,7 +21217,7 @@
       "title" : "ピアノ協奏曲第１番\"蠍火\"（なんでも詰め込む神域譜面のための）"
    },
    {
-      "artist" : "s-don / 篠乃ちよ obj : mbp",
+      "artist" : "s-don / 篠乃ちよ obj : mbp  *FLIP LR.MIR",
       "comment" : "Tech Dance",
       "level" : "★5",
       "md5" : "8809260b0514461ca925bdb4cbad3328",
@@ -26012,7 +26019,7 @@
       "title" : "アズール <DP ABNORMAL>"
    },
    {
-      "artist" : "AKITO obj:nBel *FLIP",
+      "artist" : "AKITO obj:nBel *FLIP LR.MIRROR",
       "comment" : "JP-SPIRITUAL POP",
       "level" : "★6",
       "md5" : "a56107dcfda617b0da5b11a5ef38f140",
@@ -34431,6 +34438,13 @@
       "level" : "★8",
       "md5" : "dc159f7dc6989a80b946abfcdb92b56a",
       "title" : "KIRBY-CHAN'D CANYON [DP]"
+   },
+   {
+      "artist" : "RANDO: / obj:C4 *MAXBPM+20",
+      "comment" : "Alternative rock",
+      "level" : "★5",
+      "md5" : "dc16a13ec66d6fd931e5a7ac9426f733",
+      "title" : "MEKKHALA [DP ANOTHER]"
    },
    {
       "artist" : "ZUN / nmk / NA2KI(CrossGear) / obj@PEN",

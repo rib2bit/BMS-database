@@ -14,7 +14,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "Remixed by MSMcorp. obj.hex",
@@ -29,8 +29,8 @@
       "url_diff" : "https://dl.dropboxusercontent.com/s/b5mgobkzd2ht5yc/%E2%98%85%E2%98%852%20%E3%82%AB%E3%83%A9%E3%82%AF%E3%83%AA%E5%B1%8B%E6%95%B7%28%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2%E5%9C%B0%E6%96%B9%E7%89%88%29%20%5BHexagon%5D.zip",
       "voteNeutral" : 0,
       "voteNo" : 1,
-      "votePercent" : "80.00",
-      "voteYes" : 4
+      "votePercent" : "83.33",
+      "voteYes" : 5
    },
    {
       "artist" : "kohaxy / obj:Rian",
@@ -46,8 +46,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 4
+      "votePercent" : "91.67",
+      "voteYes" : 5
    },
    {
       "artist" : "H2SO4/DiodeP/Polymath9 feat. Mo obj:.ctc",
@@ -94,10 +94,10 @@
       "title" : "Creamy Sugary OVERDRIVE!!! [Futabather]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=26&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02704",
-      "voteNeutral" : 1,
+      "voteNeutral" : 2,
       "voteNo" : 0,
       "votePercent" : "75.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "qfeileadh BGA: SELDO",
@@ -114,7 +114,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "-45 / obj;Nemes",
@@ -146,25 +146,9 @@
       "url" : "http://leucine.web.fc2.com/",
       "url_diff" : "http://sabosabun.tank.jp/",
       "voteNeutral" : 0,
-      "voteNo" : 7,
-      "votePercent" : "56.25",
+      "voteNo" : 9,
+      "votePercent" : "50.00",
       "voteYes" : 9
-   },
-   {
-      "artist" : "Silentroom × iimo / selene.",
-      "level" : "0",
-      "md5" : "6dd9acd5c37cc98299b3dc48ef18ce84",
-      "proposer" : "LUXURY♪",
-      "proposerLr2id" : 23110,
-      "sha256" : "c8b50335450ec660f885a005d279a085d05be4d658dd5c4dfc10faa983deb60b",
-      "submission" : 851,
-      "title" : "Finixe -Eclipse-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=349&event=116",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01312",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
    },
    {
       "artist" : "SHIKI / black train",
@@ -179,9 +163,9 @@
       "url" : "http://web.archive.org/web/20051118202018/http://www.remarkablesense.org/~shiki/air.exe",
       "url_diff" : "http://absolute.pv.land.to/Anotherbms.html",
       "voteNeutral" : 2,
-      "voteNo" : 14,
-      "votePercent" : "63.41",
-      "voteYes" : 25
+      "voteNo" : 15,
+      "votePercent" : "62.79",
+      "voteYes" : 26
    },
    {
       "artist" : "フロン / ラズベリル / obj : lemon_aided",
@@ -197,8 +181,8 @@
       "url_diff" : "http://www.dropbox.com/s/ob3mnzf94bptw8d/Love%26Justice_sabun.zip",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 3
+      "votePercent" : "90.00",
+      "voteYes" : 4
    },
    {
       "artist" : "うえつ氏 あ氏",
@@ -213,8 +197,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=156&event=83",
       "url_diff" : "http://drowsy.hannnari.com/index.html",
       "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "50.00",
+      "voteNo" : 2,
+      "votePercent" : "37.50",
       "voteYes" : 1
    },
    {
@@ -232,7 +216,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "remixed celas / obj : cieu",
@@ -297,8 +281,8 @@
       "url_diff" : "http://3228monsta.web.fc2.com/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "HEXAHEDRA / obj：shelcis",
@@ -313,9 +297,9 @@
       "url" : "http://nekokan.dyndns.info/~pupuly/bms/view.cgi?id=87",
       "url_diff" : "http://gnqg.rosx.net/upload/?pg=50",
       "voteNeutral" : 0,
-      "voteNo" : 3,
-      "votePercent" : "57.14",
-      "voteYes" : 4
+      "voteNo" : 4,
+      "votePercent" : "55.56",
+      "voteYes" : 5
    },
    {
       "artist" : "MisomyL obj:selene.",
