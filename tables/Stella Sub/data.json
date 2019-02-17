@@ -1271,6 +1271,23 @@
       "voteYes" : 0
    },
    {
+      "artist" : "ATEMAK/さ/otoshi.b",
+      "comment" : "st4~5",
+      "level" : "4",
+      "md5" : "1a477f8c6c7ae8ac41ff44d24afc4e10",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "bfd769180268d07eb3ca10fd11f9c444c54ec414054a288da01a9cc7223ae2ae",
+      "submission" : 878,
+      "title" : "ロッカー -Ex+-",
+      "url" : "http://leucine.web.fc2.com/",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02209",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "BTB Mov : mzet :-p & OLB",
       "comment" : "物量",
       "level" : "1",

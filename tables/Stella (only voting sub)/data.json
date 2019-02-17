@@ -1,5 +1,22 @@
 [
    {
+      "artist" : "ATEMAK/さ/otoshi.b",
+      "comment" : "st4~5",
+      "level" : "4",
+      "md5" : "1a477f8c6c7ae8ac41ff44d24afc4e10",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "bfd769180268d07eb3ca10fd11f9c444c54ec414054a288da01a9cc7223ae2ae",
+      "submission" : 878,
+      "title" : "ロッカー -Ex+-",
+      "url" : "http://leucine.web.fc2.com/",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02209",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
       "artist" : "XEOEXE / selene.",
       "comment" : "ゴリラ",
       "level" : "5",
@@ -61,9 +78,9 @@
       "title" : "C.T.C. [c.t.c.]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=451&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01345",
-      "voteNeutral" : 2,
+      "voteNeutral" : 3,
       "voteNo" : 0,
-      "votePercent" : "83.33",
+      "votePercent" : "78.57",
       "voteYes" : 4
    },
    {
@@ -80,7 +97,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "BTB MOVIE : miyota",
@@ -145,10 +162,10 @@
       "title" : "ロッカー -Ex-",
       "url" : "http://leucine.web.fc2.com/",
       "url_diff" : "http://sabosabun.tank.jp/",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 9,
-      "votePercent" : "50.00",
-      "voteYes" : 9
+      "votePercent" : "52.50",
+      "voteYes" : 10
    },
    {
       "artist" : "SHIKI / black train",
@@ -164,8 +181,8 @@
       "url_diff" : "http://absolute.pv.land.to/Anotherbms.html",
       "voteNeutral" : 2,
       "voteNo" : 15,
-      "votePercent" : "62.79",
-      "voteYes" : 26
+      "votePercent" : "63.64",
+      "voteYes" : 27
    },
    {
       "artist" : "フロン / ラズベリル / obj : lemon_aided",
@@ -280,8 +297,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=146&event=60",
       "url_diff" : "http://3228monsta.web.fc2.com/",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNo" : 1,
+      "votePercent" : "66.67",
       "voteYes" : 2
    },
    {
