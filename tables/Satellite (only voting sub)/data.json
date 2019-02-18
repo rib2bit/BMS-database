@@ -11,9 +11,9 @@
       "url" : "http://right-stick.sub.jp/",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/_you_level4.bme",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "voteNo" : 1,
+      "votePercent" : "66.67",
+      "voteYes" : 2
    },
    {
       "artist" : "にょろも",
@@ -44,10 +44,10 @@
       "title" : "サクライロフワリ (INUther)",
       "url" : "http://csport.me/",
       "url_diff" : "http://onedrive.live.com/redir?resid=556B497B89BD736D%21156",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "votePercent" : "87.50",
+      "voteYes" : 3
    },
    {
       "artist" : "Lian",
@@ -80,8 +80,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "11. House Team",
@@ -98,7 +98,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 5
    },
    {
       "artist" : "Yunosuke obj.Lapis playing R6S",
@@ -133,6 +133,23 @@
       "voteYes" : 7
    },
    {
+      "artist" : "suki / movie:t / obj:NASA",
+      "comment" : "ズレ、同時押し",
+      "level" : "3",
+      "md5" : "1c7b5cd5c32ff6ff9253ea612fbd0a8a",
+      "proposer" : "なさ式",
+      "proposerLr2id" : 108918,
+      "sha256" : "3528ed864f7248c40291947fbcfd2a9ae2c9f7208a649fb35219d980ac198de6",
+      "submission" : 698,
+      "title" : "テーマソング [NASATHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=108",
+      "url_diff" : "http://nasashiki.web.fc2.com/hakkyoi.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
       "artist" : "2TORI / obj:numuto",
       "comment" : "artistic",
       "level" : "8",
@@ -146,8 +163,8 @@
       "url_diff" : "https://ux.getuploader.com/numuther/download/11",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "Yu^ta",
@@ -180,8 +197,8 @@
       "url_diff" : "http://www.dropbox.com/s/qt7oes50azysxtj/pain_continues_c.zip?dl=0",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "vorbis / obj:marquee",
@@ -213,8 +230,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02246",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "IZ Nit Feat. CH Wit obj:SANY",
@@ -230,8 +247,8 @@
       "url_diff" : "https://drive.google.com/file/d/1b1muN6_GBq9aMdMuUl8975DIeUVk09j-/view",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "Chitose/仙人掌の人",
@@ -263,8 +280,25 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01472",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
+      "artist" : "Nardis BGA: 鑓田 (alpha complex) OBJ: swa",
+      "comment" : "LNあり",
+      "level" : "4",
+      "md5" : "7c71a716ac4059867275b7bd721b4a0b",
+      "proposer" : "rat",
+      "proposerLr2id" : 83454,
+      "sha256" : "72dcfdc281d0dc62474e28ee8da01ad796a596139bcca23ac8ab02acd001a7eb",
+      "submission" : 691,
+      "title" : "Cosmo Memory [sLunatic]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=397&event=110",
+      "url_diff" : "http://swamelo.web.fc2.com/_cosmomemory_spsl.bml",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "AIV feat.Yossy/S obj:goe",
@@ -314,8 +348,24 @@
       "url_diff" : "http://gnqg.rosx.net/upload/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 3
+   },
+   {
+      "artist" : "Silentroom × mommy × Nate obj:SUZUKAZEΛ",
+      "level" : "4",
+      "md5" : "a8d0d8c6b908bcee1de0da23c21dd75d",
+      "proposer" : "Star*",
+      "proposerLr2id" : 90733,
+      "sha256" : "85ae815e1b5415c375f690e7d2dd63ed2fc8d2f5d6a1d4171d93e872b3fa9110",
+      "submission" : 694,
+      "title" : "Implexrough [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=365&event=116",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+      "voteNeutral" : 0,
+      "voteNo" : 1,
+      "votePercent" : "66.67",
+      "voteYes" : 2
    },
    {
       "artist" : "Flat:nique (mov:びびらぜ obj:SANY)",
@@ -330,8 +380,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "Blue-J",
@@ -345,10 +395,27 @@
       "title" : "FULL COMBO Pt.2 [FULL COMBO]",
       "url" : "https://drive.google.com/file/d/1g7vCOVyYhFJVEUeA2EjzadyuBKLmmrnQ/view?usp=sharing",
       "url_diff" : "",
+      "voteNeutral" : 1,
+      "voteNo" : 0,
+      "votePercent" : "83.33",
+      "voteYes" : 2
+   },
+   {
+      "artist" : "nmk / わっふゑ / selene.",
+      "comment" : "速い",
+      "level" : "9",
+      "md5" : "b188cbde1a1582b563ec3d48bb7deca8",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "87224a528088349c88155a74eec01af7ea8a990d341bbc0d86d1c5c1ef5a6cb6",
+      "submission" : 699,
+      "title" : "Celestial Axes  -Luna-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=119",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02181",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "NASA",
@@ -365,7 +432,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
+   },
+   {
+      "artist" : "Y.W obj:monaka",
+      "comment" : "24分階段",
+      "level" : "4",
+      "md5" : "b4d37a0db1fc780754dea0bd47508a68",
+      "proposer" : "monaka",
+      "proposerLr2id" : 93763,
+      "sha256" : "e42677a102e4fae9804bced45f84cdeaa34c208e8f80ab26dee23d8f1c09215c",
+      "submission" : 693,
+      "title" : "Ruined field -ZERO-",
+      "url" : "https://twitter.com/pme_yw/status/969925541452120064",
+      "url_diff" : "https://ux.getuploader.com/monaka_sabun_2/download/148",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "ZUN remixed by LeaF Movie:Optie / obj:monaka",
@@ -385,6 +469,40 @@
       "voteYes" : 2
    },
    {
+      "artist" : "er",
+      "comment" : "中速乱打色々",
+      "level" : "6",
+      "md5" : "bc7740b18e16b6a427c9e6527da29597",
+      "proposer" : "C4",
+      "proposerLr2id" : 120385,
+      "sha256" : "ff674447b4ebb5457a6e6df6c5305ea04859b0e4009d3da9d33939cbec83d8e6",
+      "submission" : 692,
+      "title" : "new earth [INSANE7]",
+      "url" : "https://dropbox.bms.ms/u/28765267/er_new-earth.zip",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
+      "artist" : "ああああ / in 幻の世界",
+      "comment" : "適度なソフラン",
+      "level" : "1",
+      "md5" : "bcbdac0287dc4adad7e0103eb5120c46",
+      "proposer" : "monaka",
+      "proposerLr2id" : 93763,
+      "sha256" : "478c162b16f8ac949de38b1ab6dcf86224a3dfddfb908af5edc2aac36048d425",
+      "submission" : 696,
+      "title" : "マージナル＊フロンティア [魔法世界へようこそ]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=430&event=110",
+      "url_diff" : "https://1drv.ms/x/s!Aoi5esJwIYCChk0BTx_U1KkswzSf",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
       "artist" : "LeaF Movie:Optie&Fiz",
       "comment" : "BGA OFFならSAFE",
       "level" : "5",
@@ -398,7 +516,24 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 1,
-      "votePercent" : "66.67",
+      "votePercent" : "75.00",
+      "voteYes" : 3
+   },
+   {
+      "artist" : "Tima obj.すいかいの譜面工房",
+      "comment" : "跳ねリズム、ガチ押し",
+      "level" : "4",
+      "md5" : "c56c046eb75eee143e825ac045208f5a",
+      "proposer" : "rat",
+      "proposerLr2id" : 83454,
+      "sha256" : "71e1ee735ac5fb36384cf2046507d741d7b63da3bb5846fc8e0890ac4d142bcd",
+      "submission" : 695,
+      "title" : "Kanon's Fantasia -Flower Forest- [ver.翠]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=141&event=74",
+      "url_diff" : "https://bmscharteditorsgroup.wixsite.com/initialatoz",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
       "voteYes" : 2
    },
    {
@@ -415,8 +550,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02738",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 5
    },
    {
       "artist" : "哀愁マニア",
@@ -430,10 +565,10 @@
       "title" : "the lost dedicated (another)",
       "url" : "https://onedrive.live.com/?id=EDC72D529484CBCB%21212&cid=EDC72D529484CBCB",
       "url_diff" : "",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "87.50",
+      "voteYes" : 3
    },
    {
       "artist" : "HyuN",
@@ -463,6 +598,23 @@
       "title" : "Memoria-Recollection- -追想の夜明け-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=102",
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up5669.zip",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
+      "artist" : "LSD / obj:K-SPIN",
+      "comment" : "GENOCIDE★5 微縦連、ディレイ入門",
+      "level" : "3",
+      "md5" : "eb4944ba424cd3f220b368fdaec14cd3",
+      "proposer" : "なさ式",
+      "proposerLr2id" : 108918,
+      "sha256" : "2492bfa9d0b090cef2b23b84e171397c6183dee9e1a22c54621dd3801172afd4",
+      "submission" : 697,
+      "title" : "square and breaks -collapse-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=307&event=104",
+      "url_diff" : "http://kspinbms.web.fc2.com/insane.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
