@@ -10,10 +10,10 @@
       "title" : "ピアノ連弾的「You」～ひぐらしのなく頃に～ [ LEVEL 4 ]",
       "url" : "http://right-stick.sub.jp/",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/_you_level4.bme",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "66.67",
-      "voteYes" : 2
+      "votePercent" : "75.00",
+      "voteYes" : 4
    },
    {
       "artist" : "にょろも",
@@ -46,8 +46,8 @@
       "url_diff" : "http://onedrive.live.com/redir?resid=556B497B89BD736D%21156",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 3
+      "votePercent" : "92.86",
+      "voteYes" : 6
    },
    {
       "artist" : "Lian",
@@ -63,8 +63,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 1,
-      "votePercent" : "50.00",
-      "voteYes" : 1
+      "votePercent" : "80.00",
+      "voteYes" : 4
    },
    {
       "artist" : "ZUN(Arr.髭姫) / obj:如月結 VOCAL:しゆ LYRICS：ドラホス BGA：とみー",
@@ -81,7 +81,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "11. House Team",
@@ -96,9 +96,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=319&event=116",
       "url_diff" : "",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteNo" : 1,
+      "votePercent" : "88.89",
+      "voteYes" : 8
    },
    {
       "artist" : "Yunosuke obj.Lapis playing R6S",
@@ -128,9 +128,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=258&event=110",
       "url_diff" : "",
       "voteNeutral" : 3,
-      "voteNo" : 1,
-      "votePercent" : "77.27",
-      "voteYes" : 7
+      "voteNo" : 2,
+      "votePercent" : "73.08",
+      "voteYes" : 8
    },
    {
       "artist" : "suki / movie:t / obj:NASA",
@@ -145,8 +145,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=108",
       "url_diff" : "http://nasashiki.web.fc2.com/hakkyoi.html",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNo" : 2,
+      "votePercent" : "50.00",
       "voteYes" : 2
    },
    {
@@ -164,7 +164,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
    },
    {
       "artist" : "Yu^ta",
@@ -180,8 +180,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 4
    },
    {
       "artist" : "q/stol / obj. Cloudy Boy",
@@ -196,9 +196,25 @@
       "url" : "https://drive.google.com/file/d/1IFdCGHHWPDzo9p7Cf3Tf4REHpPeLEeJX/view?usp=sharing",
       "url_diff" : "http://www.dropbox.com/s/qt7oes50azysxtj/pain_continues_c.zip?dl=0",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteNo" : 1,
+      "votePercent" : "83.33",
+      "voteYes" : 5
+   },
+   {
+      "artist" : "Kuwagata feat.つゆり花鈴 / obj:七海千秋",
+      "level" : "11",
+      "md5" : "357beb12b713403ee21ac243146c8247",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "9a04497898e2d1b6255b54ff3f816560d9b34bf0f6e9c5f4fce94df6d5f9ac74",
+      "submission" : 702,
+      "title" : "夢の地図と僕らの旅 -To The Future-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=287&event=123",
+      "url_diff" : "https://www.dropbox.com/s/kj0c6zt2zq7ebhm/chizutabi_nanami01.bms?dl=0",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "70.00",
+      "voteYes" : 3
    },
    {
       "artist" : "vorbis / obj:marquee",
@@ -214,8 +230,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 4
    },
    {
       "artist" : "canonball mukai obj:1008",
@@ -229,8 +245,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=123&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02246",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNo" : 1,
+      "votePercent" : "66.67",
       "voteYes" : 2
    },
    {
@@ -248,7 +264,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
+   },
+   {
+      "artist" : "ねこみみ魔法使い movie : Y.A.B.tutidama / obj : BUUFAA",
+      "comment" : "ハネ、階段",
+      "level" : "0",
+      "md5" : "53b47b074b03b421e1ee29cf5db4e6de",
+      "proposer" : "jhfdlkjd",
+      "proposerLr2id" : 116710,
+      "sha256" : "a96fff27a4bb5259e6f216a2ddd4a7195b76a62824956eebe44ec5503529efb8",
+      "submission" : 700,
+      "title" : "ひらりゆらり水鏡 -another-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=467&event=116",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 4
    },
    {
       "artist" : "Chitose/仙人掌の人",
@@ -263,8 +296,8 @@
       "url_diff" : "http://sabosabun.tank.jp/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 5
    },
    {
       "artist" : "かゆき/obj.sitoras",
@@ -281,7 +314,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "Nardis BGA: 鑓田 (alpha complex) OBJ: swa",
@@ -298,7 +331,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 6
    },
    {
       "artist" : "AIV feat.Yossy/S obj:goe",
@@ -364,8 +397,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 1,
-      "votePercent" : "66.67",
-      "voteYes" : 2
+      "votePercent" : "83.33",
+      "voteYes" : 5
    },
    {
       "artist" : "Flat:nique (mov:びびらぜ obj:SANY)",
@@ -379,9 +412,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=121",
       "url_diff" : "",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteNo" : 2,
+      "votePercent" : "66.67",
+      "voteYes" : 4
    },
    {
       "artist" : "Blue-J",
@@ -397,8 +430,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 2
+      "votePercent" : "90.00",
+      "voteYes" : 4
    },
    {
       "artist" : "nmk / わっふゑ / selene.",
@@ -414,8 +447,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02181",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 4
    },
    {
       "artist" : "NASA",
@@ -430,9 +463,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=116",
       "url_diff" : "",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteNo" : 1,
+      "votePercent" : "87.50",
+      "voteYes" : 7
    },
    {
       "artist" : "Y.W obj:monaka",
@@ -463,10 +496,10 @@
       "title" : "Calamity Fortune [MASTER]",
       "url" : "http://leafbms.web.fc2.com/song.html",
       "url_diff" : "https://ux.getuploader.com/monaka_sabun_2/download/181",
-      "voteNeutral" : 0,
+      "voteNeutral" : 2,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "votePercent" : "85.71",
+      "voteYes" : 5
    },
    {
       "artist" : "er",
@@ -480,10 +513,10 @@
       "title" : "new earth [INSANE7]",
       "url" : "https://dropbox.bms.ms/u/28765267/er_new-earth.zip",
       "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteNeutral" : 1,
+      "voteNo" : 2,
+      "votePercent" : "58.33",
+      "voteYes" : 3
    },
    {
       "artist" : "ああああ / in 幻の世界",
@@ -500,7 +533,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "LeaF Movie:Optie&Fiz",
@@ -515,9 +548,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=370&event=123",
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
-      "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 3
+      "voteNo" : 5,
+      "votePercent" : "44.44",
+      "voteYes" : 4
    },
    {
       "artist" : "Tima obj.すいかいの譜面工房",
@@ -532,9 +565,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=141&event=74",
       "url_diff" : "https://bmscharteditorsgroup.wixsite.com/initialatoz",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteNo" : 1,
+      "votePercent" : "75.00",
+      "voteYes" : 3
    },
    {
       "artist" : "痛男次郎 obj:bmstube",
@@ -551,7 +584,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 8
+   },
+   {
+      "artist" : "white crystal / selene.",
+      "comment" : "センシゴ",
+      "level" : "11",
+      "md5" : "dcf1fce006eae6ec81bf14a31ae1d57f",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "2a175382dad87fc50e17b4755cff701221954955d376358299c5021237e15fcf",
+      "submission" : 701,
+      "title" : "sensitive -GOD-",
+      "url" : "http://web.archive.org/web/20070218160503/http://sazanka.sakura.ne.jp/~2tdm/bms.htm",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00968",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "哀愁マニア",
@@ -566,9 +616,9 @@
       "url" : "https://onedrive.live.com/?id=EDC72D529484CBCB%21212&cid=EDC72D529484CBCB",
       "url_diff" : "",
       "voteNeutral" : 1,
-      "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 3
+      "voteNo" : 2,
+      "votePercent" : "75.00",
+      "voteYes" : 7
    },
    {
       "artist" : "HyuN",
@@ -599,8 +649,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=102",
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up5669.zip",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNo" : 1,
+      "votePercent" : "66.67",
       "voteYes" : 2
    },
    {
@@ -615,9 +665,9 @@
       "title" : "square and breaks -collapse-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=307&event=104",
       "url_diff" : "http://kspinbms.web.fc2.com/insane.html",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "90.00",
+      "voteYes" : 4
    }
 ]
