@@ -828,6 +828,27 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2019/02/19",
+      "artist" : "2TORI",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "0876eb1d0cb0e0cdd774596103885fd1",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "f6d65bda271e1a6cf50fde151b479c97",
+      "org_md5s" : [
+         "f6d65bda271e1a6cf50fde151b479c97",
+         "42b532927eccb605351e637e105aa3a6",
+         "9039591ed65d1ad6658bdb41bb4b3c24",
+         "0876eb1d0cb0e0cdd774596103885fd1"
+      ],
+      "title" : "飛燕草[DP hututher]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2018/01/07",
       "artist" : "taqumi vs DG-P BGA:deadblue238 / Obj:ゆ～兎",
       "comment" : "",
@@ -1113,30 +1134,6 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2019/01/19",
-      "artist" : "しらいし obj: misty.ls04",
-      "comment" : "",
-      "folder" : "★01-02",
-      "level" : "★01-02",
-      "lr2_bmsid" : null,
-      "md5" : "0b6e9b3ad6bdb344c58958d046156c9b",
-      "name_diff" : null,
-      "org_level" : 12,
-      "org_md5" : "c2c7fefcb173bfe809eda28dcde8ca18",
-      "org_md5s" : [
-         "c2c7fefcb173bfe809eda28dcde8ca18",
-         "27b7d6b26286ace8aa48ad1f24b007e1",
-         "cf1ee3d106be57dc2002f80368b2fca8",
-         "0b6e9b3ad6bdb344c58958d046156c9b",
-         "323b75f925963be5f90c5045ca7df899",
-         "11bec24de08723338e50ff0aff77603a",
-         "d551d9d558c08cab964ee41687a74fb8"
-      ],
-      "title" : "Crystalized [DP ANOTHER]",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
       "adddate" : "2018/01/14",
       "artist" : "siromaru",
       "comment" : "",
@@ -1382,11 +1379,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2019/01/20",
+      "adddate" : "2019/02/16",
       "artist" : "zest:rave / Obj:ゆ～兎",
       "comment" : "",
-      "folder" : "★10",
-      "level" : "★10",
+      "folder" : "★09",
+      "level" : "★09",
       "lr2_bmsid" : null,
       "md5" : "0e05593e0b01c2fa57281cc42c22cdb0",
       "name_diff" : null,
@@ -2441,8 +2438,8 @@
       "adddate" : "2019/01/20",
       "artist" : "しーけー obj:kuro",
       "comment" : "",
-      "folder" : "★11",
-      "level" : "★11",
+      "folder" : "★★",
+      "level" : "★★",
       "lr2_bmsid" : null,
       "md5" : "194415f4b46378f70da27ffe3fc138df",
       "name_diff" : null,
@@ -2528,8 +2525,8 @@
       "adddate" : "2019/01/20",
       "artist" : "D.J.Nero / obj:Louis",
       "comment" : "",
-      "folder" : "★11",
-      "level" : "★11",
+      "folder" : "★★",
+      "level" : "★★",
       "lr2_bmsid" : null,
       "md5" : "1a0efa73bcc7deb3890ce969642c855b",
       "name_diff" : null,
@@ -2814,8 +2811,8 @@
       "adddate" : "2019/01/20",
       "artist" : "Ino",
       "comment" : "",
-      "folder" : "★11",
-      "level" : "★11",
+      "folder" : "★★",
+      "level" : "★★",
       "lr2_bmsid" : null,
       "md5" : "1c460237a0ebec55346765f35ba898b9",
       "name_diff" : null,
@@ -3754,6 +3751,28 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2019/02/14",
+      "artist" : "Junk obj;noix",
+      "comment" : "",
+      "folder" : "うんち",
+      "level" : "うんち",
+      "lr2_bmsid" : null,
+      "md5" : "24c3b0d208964670bb28a75f6550bba5",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "4023045d9134dfc47e953bc430e5ef07",
+      "org_md5s" : [
+         "4023045d9134dfc47e953bc430e5ef07",
+         "db5bcb35e9c53cfb81b6f16af7bc45ee",
+         "d0c6b296a1a69e937e33fad0134f46cc",
+         "bb91cef81d13b8d1146b0dbfeb4450f8",
+         "24c3b0d208964670bb28a75f6550bba5"
+      ],
+      "title" : "Life is PIANO -14GenesisBeginning-",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2019/01/19",
       "artist" : "Junk obj;noix",
       "comment" : "",
@@ -4268,8 +4287,8 @@
       "adddate" : "2019/01/20",
       "artist" : "Omnipotenx/obj:epics-",
       "comment" : "",
-      "folder" : "★11",
-      "level" : "★11",
+      "folder" : "★★",
+      "level" : "★★",
       "lr2_bmsid" : null,
       "md5" : "2a4b3f8cfba4f837a492ca399963fc4d",
       "name_diff" : null,
@@ -5297,6 +5316,26 @@
          "c07125de4ed7fbe7cb066cc41e50e51e"
       ],
       "title" : "Papyrus [EX14]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2019/02/19",
+      "artist" : "高嶺　愛花",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "33f91a46b7532039f7e812bf1d39ef0d",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "cbd60a8731f4b4b40d08cdce4bac0249",
+      "org_md5s" : [
+         "cbd60a8731f4b4b40d08cdce4bac0249",
+         "9362e43b03b4f2db9c1899a4dbd03d79",
+         "33f91a46b7532039f7e812bf1d39ef0d"
+      ],
+      "title" : "Aihana(Radio Edit) [DP hututher]",
       "url" : "",
       "url_diff" : ""
    },
@@ -7820,8 +7859,8 @@
       "adddate" : "2019/01/20",
       "artist" : "sasakure.UK obj:ucc",
       "comment" : "",
-      "folder" : "★11",
-      "level" : "★11",
+      "folder" : "★★",
+      "level" : "★★",
       "lr2_bmsid" : null,
       "md5" : "47d9c2e9f75c83f24e46cf4bdffb4eea",
       "name_diff" : null,
@@ -7916,11 +7955,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2019/01/19",
+      "adddate" : "2019/02/14",
       "artist" : "mo_no_chrome:obj.KEH obj.:KEH",
       "comment" : "",
-      "folder" : "★07",
-      "level" : "★07",
+      "folder" : "★08",
+      "level" : "★08",
       "lr2_bmsid" : null,
       "md5" : "48863d33fd23412956dac60ecd402d15",
       "name_diff" : null,
@@ -8827,11 +8866,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2019/01/20",
+      "adddate" : "2019/02/16",
       "artist" : "π/3 BGA:Optie ",
       "comment" : "",
-      "folder" : "★10",
-      "level" : "★10",
+      "folder" : "★09",
+      "level" : "★09",
       "lr2_bmsid" : null,
       "md5" : "530f686ed1a60ccd0a29e484a7f5e355",
       "name_diff" : null,
@@ -9281,27 +9320,6 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/29",
-      "artist" : "tcheb / 出前 / obj:alt",
-      "comment" : "",
-      "folder" : "★05-06",
-      "level" : "★05-06",
-      "lr2_bmsid" : null,
-      "md5" : "56d362024e483b7d2951515582e3db6b",
-      "name_diff" : null,
-      "org_level" : 4,
-      "org_md5" : "4ff51358145f7ec12e1ce947e1b0efed",
-      "org_md5s" : [
-         "4ff51358145f7ec12e1ce947e1b0efed",
-         "6fdaa95681cdb3cff6a3c4d28408c4ba",
-         "054fac462e63dfa1d1afed78b2b9d8d4",
-         "56d362024e483b7d2951515582e3db6b"
-      ],
-      "title" : "C. H. C. [D. H. C.]",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
       "adddate" : "2018/09/20",
       "artist" : "luzebzk(from 300club)",
       "comment" : "",
@@ -9555,11 +9573,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2019/01/20",
+      "adddate" : "2019/02/16",
       "artist" : "anubasu-anubasu BGA by 出前 / obj:Lilium",
       "comment" : "",
-      "folder" : "★10",
-      "level" : "★10",
+      "folder" : "★09",
+      "level" : "★09",
       "lr2_bmsid" : null,
       "md5" : "581dfb81c885d9b7b6ea868bf3524a47",
       "name_diff" : null,
@@ -11734,6 +11752,32 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2019/02/15",
+      "artist" : "Ploutonendou",
+      "comment" : "",
+      "folder" : "☆11",
+      "level" : "☆11",
+      "lr2_bmsid" : null,
+      "md5" : "67cfabf3bce8075a9d74b3d088e7fabb",
+      "name_diff" : null,
+      "org_level" : 11,
+      "org_md5" : "a3382aa9ec36b81e7a1f10a78ff0d305",
+      "org_md5s" : [
+         "a3382aa9ec36b81e7a1f10a78ff0d305",
+         "5abb1dd25a28930a9e714b2f659d41b6",
+         "51425e02c918e0658cda1e3a1400d5cc",
+         "67cfabf3bce8075a9d74b3d088e7fabb",
+         "6d683d50053850c564fce4aff9e6c221",
+         "21247e2dc86381fd7591fd73a4f0881b",
+         "e8bd9b33cda07cfa47d669b962543fde",
+         "411e454adda8a081ea1fddf54ab08eee",
+         "4ea0dfe835cea5072f7587c36706ba9e"
+      ],
+      "title" : "Pebble [14keys Another]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2019/01/19",
       "artist" : "-45 obj: misty.ls04",
       "comment" : "",
@@ -12709,6 +12753,32 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2019/02/15",
+      "artist" : "Arctures",
+      "comment" : "",
+      "folder" : "★07",
+      "level" : "★07",
+      "lr2_bmsid" : null,
+      "md5" : "6f52fdc7c61fd16f02353288c111d6ab",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "6f52fdc7c61fd16f02353288c111d6ab",
+      "org_md5s" : [
+         "6f52fdc7c61fd16f02353288c111d6ab",
+         "04b24d1c86e93bb4a1a681a2f9fd15ba",
+         "098587d8e768c66e8466cebb4cb2c94d",
+         "5e209a394388394f70635091ea160e35",
+         "5274cc6fde26587cb3038902e5c3a65b",
+         "61368856a9aa04b311c3c8ffd2188bea",
+         "7576b156dc98abd8056205135e844427",
+         "51f0fc5605841c65180c1f657b47647d",
+         "b9099921ad3d422aed008de8bf8e6dcc"
+      ],
+      "title" : "Preta [14K Another]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2018/09/29",
       "artist" : "裏 吉 川 / obj:二代目IIDX16",
       "comment" : "",
@@ -13018,11 +13088,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2019/01/20",
+      "adddate" : "2019/02/16",
       "artist" : "美竹 蘭 / 謎のスーツの集団",
       "comment" : "",
-      "folder" : "★10",
-      "level" : "★10",
+      "folder" : "★09",
+      "level" : "★09",
       "lr2_bmsid" : null,
       "md5" : "7229d764bac8218285f15c2d1cb81000",
       "name_diff" : null,
@@ -13688,6 +13758,29 @@
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "白黒神楽煩悩七百七十七ツ之法則 [七七七]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2019/02/14",
+      "artist" : "Cream P.P.",
+      "comment" : "",
+      "folder" : "★08",
+      "level" : "★08",
+      "lr2_bmsid" : null,
+      "md5" : "785b37113b168a7f977a86368dbaab24",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "cc54123a89014f9a0d8e5cf09577106a",
+      "org_md5s" : [
+         "cc54123a89014f9a0d8e5cf09577106a",
+         "30ca588d3c0660a416899dfba803eb70",
+         "29f71f19ed02436e7e5e8e535474b9e0",
+         "e93deb170d503025d4e414eb47060e05",
+         "532127fa1c2a7cafbb47b4b7b0305799",
+         "785b37113b168a7f977a86368dbaab24"
+      ],
+      "title" : "I've Been Waiting For You [DP ANOTHER]",
       "url" : "",
       "url_diff" : ""
    },
@@ -14494,6 +14587,29 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2019/02/15",
+      "artist" : "Sound piercer",
+      "comment" : "",
+      "folder" : "★01-02",
+      "level" : "★01-02",
+      "lr2_bmsid" : null,
+      "md5" : "7e141962a678223203cf24e4d105a4c4",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "a3abd8c5070bc54352a28b6636ce8947",
+      "org_md5s" : [
+         "a3abd8c5070bc54352a28b6636ce8947",
+         "40dc05d1407815d57bdc9df1fb3bdadb",
+         "4cb487c3cbdffe41cb9fa1afa6643b77",
+         "aabffcca7fd7b66002df8ab8b35c210a",
+         "b97167237ce39a873aed5341766a6d23",
+         "7e141962a678223203cf24e4d105a4c4"
+      ],
+      "title" : "Pourqaa [DP ANOTHER]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2018/09/20",
       "artist" : "tarolabo /// obj:ムギ五級 reobj:あずさ",
       "comment" : "",
@@ -14723,6 +14839,30 @@
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "Wizdomiot [DP INSANE]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2019/02/14",
+      "artist" : "Blue-J",
+      "comment" : "",
+      "folder" : "うんち",
+      "level" : "うんち",
+      "lr2_bmsid" : null,
+      "md5" : "80a6073a8bdfb1d60b3389077417741a",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "80a6073a8bdfb1d60b3389077417741a",
+      "org_md5s" : [
+         "80a6073a8bdfb1d60b3389077417741a",
+         "50dd96cfc6b1daddcfe1201d5e3b4063",
+         "5e85f712d29cccac6b96e9ad419653af",
+         "ee06d9603028a4bdab2ea829be8f3e56",
+         "fd5a18ed81517d3c069ce4f2c07f1e1e",
+         "c3248316467d0f216d7900f5222fbf8b",
+         "ca2eab99dce5932d8880b5a6a0a8998d"
+      ],
+      "title" : "OLD RESPECTS [DP ANOTHER]",
       "url" : "",
       "url_diff" : ""
    },
@@ -15543,6 +15683,25 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2019/02/14",
+      "artist" : "EUROBE Sound Team”謎の揚力” and setuna obj.shirahu",
+      "comment" : "",
+      "folder" : "★07",
+      "level" : "★07",
+      "lr2_bmsid" : null,
+      "md5" : "86e7e3252fb66509a9bed5233e6af469",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "4f5f92e0df329120edc79e315a6e154d",
+      "org_md5s" : [
+         "4f5f92e0df329120edc79e315a6e154d",
+         "86e7e3252fb66509a9bed5233e6af469"
+      ],
+      "title" : "KANPAI!!!　(ソフドリ)",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2019/01/19",
       "artist" : "EUROBE Sound Team”謎の揚力” and setuna obj.shirahu",
       "comment" : "",
@@ -15617,8 +15776,8 @@
       "adddate" : "2019/01/20",
       "artist" : "Eiserne Jungfrau / obj. Bluvel Movie: GAMEBAKA",
       "comment" : "",
-      "folder" : "★11",
-      "level" : "★11",
+      "folder" : "★★",
+      "level" : "★★",
       "lr2_bmsid" : null,
       "md5" : "87804bc761e2691301cd73c8e26beadd",
       "name_diff" : null,
@@ -17223,6 +17382,33 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2019/02/16",
+      "artist" : "polysha mov.zue-row / obj:MGN",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "98421619204d13bc6c643fec3590a972",
+      "name_diff" : null,
+      "org_level" : 0,
+      "org_md5" : "954fdbc53ffb9dd6844f741654fbf885",
+      "org_md5s" : [
+         "954fdbc53ffb9dd6844f741654fbf885",
+         "6dbf56981018048d7ebb3be324a4ec75",
+         "a049b2e6d39645c53ddcc1c2139feb26",
+         "75d4d7993c5608a92d42bd6a6803310b",
+         "772f779383925f968a3e8be1a1906a00",
+         "367960e2a16acc69fc9b4543f746d136",
+         "9f7d6e5e97a347c54f5dc8f469997c78",
+         "e61fa94978c57cc730f85d2ca0a62eb2",
+         "56cf6e8ea38bcb1c30a5798b200dc091",
+         "98421619204d13bc6c643fec3590a972"
+      ],
+      "title" : "Castor(BMS edit) [DP twins]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2018/03/10",
       "artist" : "Yosk!",
       "comment" : "",
@@ -17478,11 +17664,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2018/09/20",
+      "adddate" : "2019/02/16",
       "artist" : "Arctures obj: Telperion",
       "comment" : "",
-      "folder" : "★09",
-      "level" : "★09",
+      "folder" : "★★",
+      "level" : "★★",
       "lr2_bmsid" : null,
       "md5" : "9ad62b3394bc77c7064fdbc1fb48770c",
       "name_diff" : null,
@@ -17912,7 +18098,7 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2019/01/20",
+      "adddate" : "2019/02/16",
       "artist" : "STS-88 (a.k.a. 九八式旋回機関銃&NASA) mov:ヨダス田中&くわぎう / obj:alt",
       "comment" : "",
       "folder" : "★10",
@@ -18010,11 +18196,11 @@
       "url_diff" : ""
    },
    {
-      "adddate" : "2019/01/20",
+      "adddate" : "2019/02/16",
       "artist" : "ルゼ obj : Yamajet",
       "comment" : "",
-      "folder" : "★10",
-      "level" : "★10",
+      "folder" : "★09",
+      "level" : "★09",
       "lr2_bmsid" : null,
       "md5" : "a16edade818b7fc1ebbcf39df5d7af0b",
       "name_diff" : null,
@@ -19720,6 +19906,32 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2019/02/14",
+      "artist" : "ei",
+      "comment" : "",
+      "folder" : "★09",
+      "level" : "★09",
+      "lr2_bmsid" : null,
+      "md5" : "ae0a0b389f2445e5a918d7b5633aadc8",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "4b774899332941629ffc0bd96af1680a",
+      "org_md5s" : [
+         "4b774899332941629ffc0bd96af1680a",
+         "ac081cb542f8877af15b88ff34e289d1",
+         "ae0a0b389f2445e5a918d7b5633aadc8",
+         "4e19c264786fc1d741a7c84cdf62735f",
+         "234ff245f8cc9630661ff6b15761c5e1",
+         "ef6e548e1d398906c24cb40b0594a6ce",
+         "ba0c1503af8e184b060796bf62bc51dd",
+         "72886c2e4d70e67675532453b485d045",
+         "440719027113d78393a6580c0f64fd41"
+      ],
+      "title" : "LampLight[DP INSANE]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2018/09/20",
       "artist" : "ZUN remixed by LeaF Movie:Optie / obj:綾",
       "comment" : "",
@@ -21407,6 +21619,28 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2019/02/15",
+      "artist" : "潮音きつね",
+      "comment" : "",
+      "folder" : "うんち",
+      "level" : "うんち",
+      "lr2_bmsid" : null,
+      "md5" : "bbf40632fd0f5e4fa71085435802ee29",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "bbf40632fd0f5e4fa71085435802ee29",
+      "org_md5s" : [
+         "bbf40632fd0f5e4fa71085435802ee29",
+         "9bc89994efad5c98146df24f647c8eb6",
+         "36b62fc546788b0e462a7df7cb203f65",
+         "b3ded5aad68c4bce6e1768fc0863d2b3",
+         "ef00c5fb8aede528ffc316d570493d8e"
+      ],
+      "title" : "Pineapple_as_πИ3ЛP^2.13",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2019/01/19",
       "artist" : "ダークサンバマスター佐藤 -SATOH- / obj.LetsOTL",
       "comment" : "",
@@ -21651,6 +21885,27 @@
       "org_md5" : "",
       "org_md5s" : [],
       "title" : "FIONA [Enjoy]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2019/02/19",
+      "artist" : "Y-ItoO / obj:sagoo",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "bdad2d3beee8b9fa4ed3b9f476a0f48b",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "23dc2481d8a95baa304343953d06e181",
+      "org_md5s" : [
+         "23dc2481d8a95baa304343953d06e181",
+         "e8b4c2eb75d62e771bb3deabe4888049",
+         "fbccec522777d60ec5f8509cd631e42b",
+         "bdad2d3beee8b9fa4ed3b9f476a0f48b"
+      ],
+      "title" : "Searching for friends (astropolis rockin' house mix) [DP-sagINSANE]",
       "url" : "",
       "url_diff" : ""
    },
@@ -22095,6 +22350,27 @@
          "7bc73b88650dc922ce5390e554c2cc7a"
       ],
       "title" : "cryout [14K Another]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2019/02/19",
+      "artist" : "museo / obj.LetsOTL",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "c07a516897a2764573cbcecbfd30a230",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "5d51c10b19f48cba74fbdbe690ad9efb",
+      "org_md5s" : [
+         "5d51c10b19f48cba74fbdbe690ad9efb",
+         "afed770e0e38275b67feb4658829248a",
+         "8897d73d338f1022b56510db0dc79abe",
+         "c07a516897a2764573cbcecbfd30a230"
+      ],
+      "title" : "twinkle★candy☆memories [DP]",
       "url" : "",
       "url_diff" : ""
    },
@@ -25082,6 +25358,31 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2019/02/14",
+      "artist" : "EmoCo. / 玲架 obj. Onedict",
+      "comment" : "",
+      "folder" : "★03-04",
+      "level" : "★03-04",
+      "lr2_bmsid" : null,
+      "md5" : "dac9501eb6e44e30a8ef7c08ab857e1d",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "c213fe9adbad615bea7ff413f381a2cb",
+      "org_md5s" : [
+         "c213fe9adbad615bea7ff413f381a2cb",
+         "32240ef56432206660feb51017d7185d",
+         "42ec3e46fa946af3650b83036886ef60",
+         "2921407eb7da296d3611186430d63c91",
+         "5dc7f4e0e0317ab5ea8ea3bdd5f83dbd",
+         "1dae20a833b19a4e1856a95c97fe82b6",
+         "a1c8ede6eb74ea3b4b721a2f50115210",
+         "dac9501eb6e44e30a8ef7c08ab857e1d"
+      ],
+      "title" : "This Club is not 4 U [DP ANOTHER]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2018/09/29",
       "artist" : "Tima obj:けろりん",
       "comment" : "",
@@ -26000,6 +26301,28 @@
          "e290da167d98621f9467a3e4c7837afe"
       ],
       "title" : "Dream Rocket* [Colors*]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2019/02/19",
+      "artist" : "ああああ [Lyrics：あゆむ]  [Vocal：seaside-metro]  [BGA：TOYCAT]  [Obj：LetsOTL]",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "e2edf260dcc761e258f1d2fda3380b19",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "a40af0bc31c2324abca47fb93a6c38dc",
+      "org_md5s" : [
+         "a40af0bc31c2324abca47fb93a6c38dc",
+         "b3a890263f88b63a9e081c24a365b3be",
+         "bc47184fabfb0447174031b2cbcfd0ed",
+         "9bb83199ff6966603dc2a9bd567b348a",
+         "e2edf260dcc761e258f1d2fda3380b19"
+      ],
+      "title" : "rainbow [DP]",
       "url" : "",
       "url_diff" : ""
    },
@@ -28424,6 +28747,29 @@
       "url_diff" : ""
    },
    {
+      "adddate" : "2019/02/16",
+      "artist" : "ROKINA Illust:あひゅりむ // obj:MGN",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "f9ef109acdd4e44ed45199a78708285e",
+      "name_diff" : null,
+      "org_level" : 0,
+      "org_md5" : "d9fd4b72b3779e80dff88cbd3935776b",
+      "org_md5s" : [
+         "d9fd4b72b3779e80dff88cbd3935776b",
+         "4ec06c82e1cdd75854f2448bcfc5c5c3",
+         "e0fc6dc521cf9336353241460db58904",
+         "7dd019cb65d39cb71d94f84e64936cc4",
+         "6d2293f5b3c248a00094169c1f10f2b6",
+         "f9ef109acdd4e44ed45199a78708285e"
+      ],
+      "title" : "La Tierra de Majestad [DouBLe DoWNeR]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2018/09/20",
       "artist" : "knot (obj:k)",
       "comment" : "",
@@ -28551,6 +28897,27 @@
          "fad47cac797653a3c3dbdf3719d14ba7"
       ],
       "title" : "Fading Star -D_ster-",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "adddate" : "2019/02/19",
+      "artist" : "立秋 feat.ちょこ / obj.LetsOTL",
+      "comment" : "",
+      "folder" : "候補",
+      "level" : "候補",
+      "lr2_bmsid" : null,
+      "md5" : "fb1c0f40e2c422a6fca807d0b16ce551",
+      "name_diff" : null,
+      "org_level" : 12,
+      "org_md5" : "e92a248bd8131fcc94dcd81cf0a0bdd1",
+      "org_md5s" : [
+         "e92a248bd8131fcc94dcd81cf0a0bdd1",
+         "f02de6848342a188df93e5286bf47280",
+         "0b221b320dcffe58740b7a6f904a7ee5",
+         "fb1c0f40e2c422a6fca807d0b16ce551"
+      ],
+      "title" : "プナイプナイせんそう [DP せん]",
       "url" : "",
       "url_diff" : ""
    },
