@@ -361,6 +361,23 @@
       "voteYes" : 0
    },
    {
+      "artist" : "DJ Saw-Low / obj:秘密 vs BAECON",
+      "comment" : "★★5; 天皇賞",
+      "level" : "7",
+      "md5" : "090b2cb30e402750c8f8a895ed3108e4",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "38248ea3afa15821bb1a849e88cb8b404fcf508be2a5642c66ab0bb8d6617a82",
+      "submission" : 880,
+      "title" : "uMa [天皇賞]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=63&event=93",
+      "url_diff" : "http://joka193.blog.fc2.com/blog-entry-99.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "anubasu-anubasu / obj.7zs",
       "comment" : "同時押し、ちょっと低速",
       "level" : "0",
@@ -643,6 +660,23 @@
       "title" : "にじいろクレヨン [GOD]",
       "url" : "http://kagerow.net",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01814",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "綾地寧々 obj.Infinite Melodia",
+      "comment" : "無音ノーツ多め",
+      "level" : "1",
+      "md5" : "0ebe1afbe14c578a694184390d318dfe",
+      "proposer" : "OXYGEN",
+      "proposerLr2id" : 133294,
+      "sha256" : "9d07759e7effb139fb6c749ece24ca933cd7d0e189f165eb8a837039552fff3c",
+      "submission" : 881,
+      "title" : "START-RESTART -O2therEX-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=334&event=123",
+      "url_diff" : "https://bmscharteditorsgroup.wixsite.com/initialatoz",
+      "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -945,6 +979,23 @@
       "title" : "MA.DA.KA.NA. MAKAIWARS (いくらマスター)",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=140&event=83",
       "url_diff" : "http://www.geocities.jp/hihihi4442/onigiri.html"
+   },
+   {
+      "artist" : "azu / po",
+      "comment" : "st7 downgrade",
+      "level" : "3",
+      "md5" : "1570202b5ea4c4d2fcd0d85185a095e9",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "565bf7d3b8dcf71f1cfcdde30d6a9ac00e93da9bd734c1b6e11c7acae504b2b5",
+      "submission" : 883,
+      "title" : "Alicia Story [po]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=71",
+      "url_diff" : "http://rareheror.web.fc2.com/po.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "guna / obj. laner",
@@ -3392,23 +3443,6 @@
       "voteYes" : 0
    },
    {
-      "artist" : "源屋feat.ユスラ obj:trainer",
-      "comment" : "フィジカル",
-      "level" : "0",
-      "md5" : "407c8e043a446c9dc99fc1ca97eb2fb5",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "438d308d441d44f3772bb77802d451b4f5c0f7c1052020cf0cb4a5a3efb1270c",
-      "submission" : 852,
-      "title" : "Magical Love Words [フィジカル横認識]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=86&event=36",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02657",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
       "artist" : "ああああ",
       "comment" : "Dead Ending",
       "level" : "4",
@@ -4639,7 +4673,7 @@
    {
       "artist" : "BTB MOVIE : miyota",
       "comment" : "3~4?",
-      "level" : "4",
+      "level" : "3",
       "md5" : "578afc43dedbc3d8995564d43709e7d7",
       "proposer" : "MineC24",
       "proposerLr2id" : 84597,
@@ -4914,7 +4948,7 @@
    {
       "artist" : "qfeileadh BGA: SELDO",
       "comment" : "st0~1 st3サカサマみたいな",
-      "level" : "0",
+      "level" : "1",
       "md5" : "5d0c727823b1cbea3e738958acafb687",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -7816,7 +7850,7 @@
    {
       "artist" : "RiraN movie : Irelriser",
       "comment" : "2~3?",
-      "level" : "3",
+      "level" : "2",
       "md5" : "96c017e393898a99000ecbd2c3ae80ac",
       "proposer" : "MineC24",
       "proposerLr2id" : 84597,
@@ -8038,6 +8072,23 @@
       "title" : "Fant      asy [うるせ～～～！！！！！！]",
       "url" : "http://www.dropbox.com/s/dfr9k18083pjd5s/fantasy.ogg.zip",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01624",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "Larimar Movie : Hauynite / obj : Omino",
+      "comment" : "kachifushi",
+      "level" : "6",
+      "md5" : "9ac398d3e963c9338d3d0c8005bd097b",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "0b6f9f315b708eaf61c1d4f431d7c30b76583b38c4a6743d012ffceb3dfdc861",
+      "submission" : 882,
+      "title" : "overtrue [Other]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02716",
+      "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -9074,6 +9125,23 @@
       "title" : "0xFFF [HYPER DIMENSION]",
       "url" : "https://onedrive.live.com/?id=A0C4279F1B037701%21468&cid=A0C4279F1B037701",
       "url_diff" : "http://onmacodayo.web.fc2.com/0728/000-0xfff_O.bms",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "Irish Kappa / selene. BGA: Rinser",
+      "comment" : "地力",
+      "level" : "1",
+      "md5" : "b35a6c8517799d3ff783275d7720a6a1",
+      "proposer" : "OXYGEN",
+      "proposerLr2id" : 133294,
+      "sha256" : "563c87352a365f2e2407b2cd76e5d3040a77d5fa022a9b56e4cd1d0d3a3e446f",
+      "submission" : 879,
+      "title" : "Death Opera -Eclipse-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=137&event=104",
+      "url_diff" : "https://bmscharteditorsgroup.wixsite.com/initialatoz",
+      "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -10251,6 +10319,23 @@
       "voteYes" : 0
    },
    {
+      "artist" : "SP-# obj:C4+七海千秋",
+      "comment" : "2~3?",
+      "level" : "3",
+      "md5" : "ca490a947d45147ffea27c63f5ae1665",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "951088e1b3781b60eb24a89eb8600a2068d632261a31ec945ef95a89deb30e0c",
+      "submission" : 884,
+      "title" : "corneal -Corrupted Nature-",
+      "url" : "http://nonona.iptime.org/BMS_Library/corneal%20%5bbreakcore%5d.rar",
+      "url_diff" : "https://www.dropbox.com/s/klemzsy7h0ja4nd/%5BSP%20C4%2Bnanami%5D.bms?dl=0",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "ZUN remixed by LeaF Movie:Optie",
       "comment" : "楽しい",
       "level" : "0",
@@ -10823,7 +10908,7 @@
    },
    {
       "artist" : "Music:しらいし/ 差分　赤い人",
-      "level" : "8",
+      "level" : "9",
       "md5" : "d354c9cc5f4ee407d0e377e25fcbb126",
       "proposer" : "파이어",
       "proposerLr2id" : 7290,
