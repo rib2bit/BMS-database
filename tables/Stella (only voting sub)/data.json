@@ -30,8 +30,8 @@
       "url_diff" : "https://bmscharteditorsgroup.wixsite.com/initialatoz",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "azu / po",
@@ -85,6 +85,23 @@
       "voteYes" : 4
    },
    {
+      "artist" : "牧野 // 前頭葉",
+      "comment" : "ディレイ",
+      "level" : "0",
+      "md5" : "4789c9dbcd0fc509370a4adec3640849",
+      "proposer" : "rat",
+      "proposerLr2id" : 83454,
+      "sha256" : "91518defe892082588dc6a93098af487c27586d541acddf1f72818b3fb3bb2e0",
+      "submission" : 885,
+      "title" : "fushigichan -32分音符ちゃんと不思議なディレイ-",
+      "url" : "https://dropbox.bms.ms/u/64302289/makino_fushigichan.rar",
+      "url_diff" : "https://www.dropbox.com/s/60j3w3uftzqdb8s/_fushigichan_fushigidelay.bms?dl=0",
+      "voteNeutral" : 1,
+      "voteNo" : 0,
+      "votePercent" : "75.00",
+      "voteYes" : 1
+   },
+   {
       "artist" : "BTB MOVIE : miyota",
       "comment" : "3~4?",
       "level" : "3",
@@ -117,6 +134,40 @@
       "voteNo" : 0,
       "votePercent" : "91.67",
       "voteYes" : 5
+   },
+   {
+      "artist" : "eicateve むらしん[mv] 為宙しなこ[pic]",
+      "comment" : "ガチ押し",
+      "level" : "4",
+      "md5" : "6793497bce032406f506c2066805adf9",
+      "proposer" : "APRICOT",
+      "proposerLr2id" : 109350,
+      "sha256" : "e7e493908322b90d41154cfb275dfb0ea395bcaf13d03c5cb6887b415ab56ead",
+      "submission" : 887,
+      "title" : "Vorota Collapse [GOD]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=436&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "しーけー obj:七海千秋",
+      "comment" : "ガチ押し",
+      "level" : "1",
+      "md5" : "7efd0cb03da8a2e1a4daf76dbcf5f142",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "ff9000319bbc9adce88039474947f1c754f6381617d520c8a1902b48641603c9",
+      "submission" : 886,
+      "title" : "アトロポスと最果の探求者 -Despair & Hope-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=246&event=123",
+      "url_diff" : "https://www.dropbox.com/s/el188z1ifbhtx0n/_atropos_nanami01.bms?dl=0",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "tanacoro/BGA:musao,wars,M.Takezaki / selene.",
@@ -166,8 +217,8 @@
       "url_diff" : "https://bmscharteditorsgroup.wixsite.com/initialatoz",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "SP-# obj:C4+七海千秋",
@@ -183,8 +234,8 @@
       "url_diff" : "https://www.dropbox.com/s/klemzsy7h0ja4nd/%5BSP%20C4%2Bnanami%5D.bms?dl=0",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "吟世かいな obj: 8posai",
