@@ -1928,6 +1928,23 @@
       "voteYes" : 0
    },
    {
+      "artist" : "はがね / obj:O",
+      "comment" : "軸、物量",
+      "level" : "8",
+      "md5" : "28689db862df9559dac34717a22a0ea3",
+      "proposer" : "homare",
+      "proposerLr2id" : 79434,
+      "sha256" : "bb99313a4e37e47b26dede989bccdb2eb651dacd2e5d16273388be3b4fb16e05",
+      "submission" : 888,
+      "title" : "Fusionik [Meteorswarm]",
+      "url" : "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=68",
+      "url_diff" : "http://onmacodayo.web.fc2.com/ondajoy.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "-45/わなな・BANI / obj:発汗BMS",
       "comment" : "フルマラソン",
       "level" : "3",

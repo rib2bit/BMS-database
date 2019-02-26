@@ -85,6 +85,23 @@
       "voteYes" : 4
    },
    {
+      "artist" : "はがね / obj:O",
+      "comment" : "軸、物量",
+      "level" : "8",
+      "md5" : "28689db862df9559dac34717a22a0ea3",
+      "proposer" : "homare",
+      "proposerLr2id" : 79434,
+      "sha256" : "bb99313a4e37e47b26dede989bccdb2eb651dacd2e5d16273388be3b4fb16e05",
+      "submission" : 888,
+      "title" : "Fusionik [Meteorswarm]",
+      "url" : "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=68",
+      "url_diff" : "http://onmacodayo.web.fc2.com/ondajoy.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "牧野 // 前頭葉",
       "comment" : "ディレイ",
       "level" : "0",
@@ -96,10 +113,10 @@
       "title" : "fushigichan -32分音符ちゃんと不思議なディレイ-",
       "url" : "https://dropbox.bms.ms/u/64302289/makino_fushigichan.rar",
       "url_diff" : "https://www.dropbox.com/s/60j3w3uftzqdb8s/_fushigichan_fushigidelay.bms?dl=0",
-      "voteNeutral" : 1,
+      "voteNeutral" : 2,
       "voteNo" : 0,
       "votePercent" : "75.00",
-      "voteYes" : 1
+      "voteYes" : 2
    },
    {
       "artist" : "BTB MOVIE : miyota",
@@ -218,7 +235,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
    },
    {
       "artist" : "SP-# obj:C4+七海千秋",
@@ -235,7 +252,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "吟世かいな obj: 8posai",
