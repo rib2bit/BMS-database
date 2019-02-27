@@ -13,8 +13,25 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "50.00",
-      "voteYes" : 1
+      "votePercent" : "62.50",
+      "voteYes" : 2
+   },
+   {
+      "artist" : "天音 / BGA:Johnny obj:小宮千尋大好き差分協会",
+      "comment" : "乱打 sl4~5",
+      "level" : "4",
+      "md5" : "0957a43c8b830d1930c29bee63fc1a14",
+      "proposer" : "nono22",
+      "proposerLr2id" : 122934,
+      "sha256" : "a54b6a8eb9339951f60353ca56b4ab20614e43f74787e07d511c308f8eb7a6c5",
+      "submission" : 735,
+      "title" : "u gotta party [Viva La Vida!]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=179&event=83",
+      "url_diff" : "http://beatkim.web.fc2.com",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "Hendrex / obj: Lennon",
@@ -28,10 +45,27 @@
       "title" : "lightsphere -ほしをみるひと-",
       "url" : "http://uploader.bms.ms/data/bof2009/fixesaraven/hendrex-lightsphere.zip",
       "url_diff" : "https://bmscharteditorsgroup.wixsite.com/initialatoz",
-      "voteNeutral" : 3,
+      "voteNeutral" : 4,
       "voteNo" : 0,
-      "votePercent" : "81.25",
+      "votePercent" : "77.78",
       "voteYes" : 5
+   },
+   {
+      "artist" : "ルゼ / obj:Lennon",
+      "comment" : "▼17 皿複合、微縦連、ラスト微回復",
+      "level" : "11",
+      "md5" : "166c4a11b18268d2b39a7ac88a1bcc74",
+      "proposer" : "姫川友紀",
+      "proposerLr2id" : 125835,
+      "sha256" : "08f477d43e9969e10d6640a9503299565eae5c8a7437adcb6d237a954e6cdc5a",
+      "submission" : 736,
+      "title" : "Titanomaquia [ZEUS]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=330&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00065",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "Sakamiya feat.A.Dokuga img:HalHAL Lyrics:uoru",
@@ -79,8 +113,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02774",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "70.00",
-      "voteYes" : 3
+      "votePercent" : "75.00",
+      "voteYes" : 4
    },
    {
       "artist" : "sa10/さ",
@@ -94,10 +128,10 @@
       "title" : "Drop! [SABOTHER]",
       "url" : "http://sound.jp/lobsak/bms.html",
       "url_diff" : "http://sabosabun.tank.jp/",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "78.57",
+      "voteYes" : 5
    },
    {
       "artist" : "Alicia* / BGA:Fleeting Lovely/ 差分 赤い人",
@@ -113,8 +147,8 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/Beatrix-HARDEST_f.bms",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "93.75",
-      "voteYes" : 7
+      "votePercent" : "94.44",
+      "voteYes" : 8
    },
    {
       "artist" : "SHIKI / obj:BAECON",
@@ -165,7 +199,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "LUNEの右手と悠里おねぇちゃんの左脚 /差分　赤い人",
@@ -213,8 +247,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=433&event=116",
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
-      "voteNo" : 1,
-      "votePercent" : "80.00",
+      "voteNo" : 2,
+      "votePercent" : "66.67",
       "voteYes" : 4
    },
    {
@@ -247,8 +281,8 @@
       "url_diff" : "http://uetnosubarashikikusosabun.web.fc2.com/index.html",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 5
+      "votePercent" : "93.75",
+      "voteYes" : 7
    },
    {
       "artist" : "sa10/差分 赤い人",
@@ -277,12 +311,29 @@
       "sha256" : "209091e42c5c85b348a7f059a960ebafb0e8e3ec2eefb722a164ed5406d51d93",
       "submission" : 719,
       "title" : "Don't be Afraid [Cheer up!]",
-      "url" : "http://nonona.iptime.org/BMS_Library/Don%27t%20be%20Afraid%20%5bDance%20Pop%5d.rar",
+      "url" : "https://onedrive.live.com/?cid=863934608D908CD0&id=863934608D908CD0%21105",
       "url_diff" : "https://www.dropbox.com/s/kxruiaa8thnkfb5/dontbeafraid_egs01.bme?dl=0",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "62.50",
-      "voteYes" : 2
+      "votePercent" : "70.00",
+      "voteYes" : 3
+   },
+   {
+      "artist" : "カラフル・サウンズ・ポート/mov:むらしん / selene.",
+      "comment" : "物量乱打, 高速階段",
+      "level" : "7",
+      "md5" : "8b46b0745658c595d343091a40dbda81",
+      "proposer" : "nono22",
+      "proposerLr2id" : 122934,
+      "sha256" : "3e7065a9b3d91c432b9d060647d07379f088c772016e1ceedf4503059c3cd56b",
+      "submission" : 737,
+      "title" : "聖戦の輪舞 -Luna-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=515&event=110",
+      "url_diff" : "http://bmsselene.web.fc2.com/index.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "Music : Lunatic Sounds / BGA : Photonskyto",
@@ -315,7 +366,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
+      "voteYes" : 10
    },
    {
       "artist" : "SP-#",
@@ -331,8 +382,8 @@
       "url_diff" : "",
       "voteNeutral" : 3,
       "voteNo" : 1,
-      "votePercent" : "58.33",
-      "voteYes" : 2
+      "votePercent" : "72.22",
+      "voteYes" : 5
    },
    {
       "artist" : "山蝙蝠ホールディングス movie : Y.A.B.tudidama / obj:NASA",
@@ -348,8 +399,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/",
       "voteNeutral" : 2,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 8
+      "votePercent" : "90.91",
+      "voteYes" : 9
    },
    {
       "artist" : "Yu^ta Obj.Triforce",
@@ -381,8 +432,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 5
+      "votePercent" : "92.86",
+      "voteYes" : 6
    },
    {
       "artist" : "Gun-SEKI feat.那珂 / U",
@@ -398,8 +449,8 @@
       "url_diff" : "http://www.geocities.jp/yjsnpi_kitanai_kusai_unko/index.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 4
+      "votePercent" : "81.25",
+      "voteYes" : 6
    },
    {
       "artist" : "Maestro Zbigniew Obj.Triforce",
@@ -469,6 +520,23 @@
       "voteYes" : 9
    },
    {
+      "artist" : "Ark-Z  Illustration by 春雨 / obj:BAECON",
+      "comment" : "トリル等",
+      "level" : "7",
+      "md5" : "c00300d042dd1c5b145f02106c81cb20",
+      "proposer" : "matsu",
+      "proposerLr2id" : 127851,
+      "sha256" : "6a65a59e00c3cef7edb15bebd0e5bf9e1d67c1fdfd4e408db0a30f4e7cce1891",
+      "submission" : 734,
+      "title" : "Singing of Night birds [SKY]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=37&event=92",
+      "url_diff" : "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
       "artist" : "LeaF",
       "comment" : "皿地帯無理でもクリア可能",
       "level" : "0",
@@ -481,8 +549,8 @@
       "url" : "http://colosseo.nekokan.dyndns.info/c04_shuffle3/detail/view/50/",
       "url_diff" : "",
       "voteNeutral" : 2,
-      "voteNo" : 6,
-      "votePercent" : "30.00",
+      "voteNo" : 7,
+      "votePercent" : "27.27",
       "voteYes" : 2
    },
    {
@@ -499,8 +567,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01098",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 3
+      "votePercent" : "90.00",
+      "voteYes" : 4
    },
    {
       "artist" : "shimizushi illust:a.a / obj:DJ.END",
@@ -549,8 +617,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=387&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02745",
       "voteNeutral" : 2,
-      "voteNo" : 2,
-      "votePercent" : "50.00",
+      "voteNo" : 3,
+      "votePercent" : "42.86",
       "voteYes" : 2
    },
    {
@@ -566,8 +634,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=307&event=104",
       "url_diff" : "http://kspinbms.web.fc2.com/insane.html",
       "voteNeutral" : 4,
-      "voteNo" : 3,
-      "votePercent" : "66.67",
+      "voteNo" : 4,
+      "votePercent" : "62.50",
       "voteYes" : 8
    },
    {
