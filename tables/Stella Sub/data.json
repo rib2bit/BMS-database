@@ -8178,6 +8178,23 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Ice Plumes obj.hex",
+      "comment" : "wow",
+      "level" : "1",
+      "md5" : "9dbe683eadf8d92a525bab680b0b4228",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "804c8962493e5d7531f1d0791784499b4bf4587583cc6eb4ab1251d0f69255aa",
+      "submission" : 890,
+      "title" : "壊廊 [Pentagon]",
+      "url" : "https://venue.bmssearch.net/ippaitukuru2019",
+      "url_diff" : "https://dl.dropboxusercontent.com/s/uazhoqec0i9vc50/%E2%98%85%E2%98%851%20%E2%98%85%E2%98%853%20%E5%A3%8A%E5%BB%8A%20%5BPentagon%5D%20%5BHexagon%5D.zip",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "ああああ [Lyrics：あゆむ]  [Vocal：seaside-metro]  [BGA：TOYCAT] / A",
       "comment" : "神曲",
       "level" : "1",
@@ -9712,6 +9729,23 @@
       "title" : "squartatrice -GOD-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=99&event=74",
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up2510.zip",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "ZUN/arr.みょん / iimode-do / かげきち / obj:C4",
+      "comment" : "微縦連の絡む乱打…はどうでしょう？",
+      "level" : "8",
+      "md5" : "bbfb7717ccb42799b8d78bbab877d292",
+      "proposer" : "C4",
+      "proposerLr2id" : 120385,
+      "sha256" : "870733045673b2f799a813bbafd9710e7347232f5aaf87be9c25523f1ab32eb7",
+      "submission" : 889,
+      "title" : "Plastic Mind [Sacrifice]",
+      "url" : "http://onedrive.live.com/?cid=FC95A680740CA8C9&id=FC95A680740CA8C9%21201",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02010",
+      "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0

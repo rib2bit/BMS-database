@@ -3435,6 +3435,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02341"
    },
    {
+      "adddate" : "2019/03/01 02:50",
+      "artist" : "隣の庭は青い(庭師+Aoi) / obj: Lennon",
+      "comment" : "LN複合、乱打",
+      "folder" : "2019/03",
+      "genre" : "HYBRID CORE",
+      "keys" : 7,
+      "level" : "2019/03",
+      "lr2_bmsid" : "271346",
+      "md5" : "117c22b8a9156fcbb13535c0fd2edd88",
+      "org_level" : null,
+      "title" : "Polacro[Polaris]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=295&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02797"
+   },
+   {
       "adddate" : "2018/12/21 17:04",
       "artist" : "おみー obj:monaka",
       "comment" : "皿複合、乱打",
@@ -8426,7 +8441,7 @@
       "md5" : "2d05d3617b22c018386ae5589213c2bd",
       "org_level" : null,
       "title" : "NS18 [7key kc]",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=61",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02768"
    },
    {
@@ -13481,7 +13496,7 @@
       "md5" : "481f353fa2626391130030ee623f3a7b",
       "org_level" : null,
       "title" : "QSHELL -拒色のシェルル- (QPython)",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=147&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02472"
    },
    {
@@ -15461,7 +15476,7 @@
       "md5" : "5285af4db0c2cb8175e120c2b59afd83",
       "org_level" : null,
       "title" : "東方音弾遊戯7 [増弾遊戯7]",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=102",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02771"
    },
    {
@@ -15836,7 +15851,7 @@
       "md5" : "54086535fd0f10a9b22654cb45b26320",
       "org_level" : null,
       "title" : "泡沫夢幻 [ex]",
-      "url" : "",
+      "url" : "http://yaruki0.sakura.ne.jp/event/A1_6th/impression.cgi?no=25",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02765"
    },
    {
@@ -16348,6 +16363,21 @@
       "title" : "+84 [にゃむてる(り)]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=100&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01830"
+   },
+   {
+      "adddate" : "2019/02/28 15:52",
+      "artist" : "ル? VS dawn-system BGA:A-ZERO Project",
+      "comment" : "物量, ソフラン (HS-AVGおすすめ)",
+      "folder" : "2019/02",
+      "genre" : "CODENAME",
+      "keys" : "7",
+      "level" : "2019/02",
+      "lr2_bmsid" : "271302",
+      "md5" : "574e2609c5bd4543afe16ecb405eb2f0",
+      "org_level" : null,
+      "title" : "Masquerade Wars [Futabather]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02796"
    },
    {
       "adddate" : "2018/03/01 00:56",
@@ -18746,7 +18776,7 @@
       "md5" : "6443d7230d6b9768e6135f5865d1516c",
       "org_level" : null,
       "title" : "NS18 [7key kc-]",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=61",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02768"
    },
    {
@@ -47878,6 +47908,21 @@
       "title" : "AVALON [にゃむてる]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=110&event=54",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01993"
+   },
+   {
+      "adddate" : "2019/02/28 09:30",
+      "artist" : "Silentroom",
+      "comment" : "びっくり系糞譜面(HS-AVG推奨)",
+      "folder" : "2019/02",
+      "genre" : "MOTION",
+      "keys" : "7",
+      "level" : "2019/02",
+      "lr2_bmsid" : "271303",
+      "md5" : "fff316b310b9481d49929f588d86bba8",
+      "org_level" : null,
+      "title" : "NULCTRL [!=nil]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02795"
    },
    {
       "adddate" : "2018/10/29 16:50",
