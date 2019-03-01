@@ -900,6 +900,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01091"
    },
    {
+      "adddate" : "2019/03/01 14:41",
+      "artist" : "花代 / あーや Obj.Triforce",
+      "comment" : "発狂、ラスト",
+      "folder" : "2019/03",
+      "genre" : "RED FIVECOST",
+      "keys" : 7,
+      "level" : "2019/03",
+      "lr2_bmsid" : "271370",
+      "md5" : "03b145bd0a0a36605eaf41cb63130052",
+      "org_level" : null,
+      "title" : "Bang Bang [DEVIL]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=413&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02800"
+   },
+   {
       "adddate" : "2018/01/08 19:23",
       "artist" : "Dolphin Movie: はづく / obj:SUZUKAZEΛ",
       "comment" : "同時押し,微縦連,ズレ",
@@ -17426,7 +17441,7 @@
       "md5" : "5c9b1c725915055760d1656269da1c51",
       "org_level" : null,
       "title" : "Απομνημονευμαι [μνημοσυνο]",
-      "url" : "",
+      "url" : "http://qstol.info/BMS/Apomnhmoneumai.zip",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02772"
    },
    {
@@ -19320,6 +19335,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01575"
    },
    {
+      "adddate" : "2019/03/01 14:43",
+      "artist" : "VeetaCrush Obj.Triforce",
+      "comment" : "高速乱打",
+      "folder" : "2019/03",
+      "genre" : "ARTCORE",
+      "keys" : 7,
+      "level" : "2019/03",
+      "lr2_bmsid" : "271368",
+      "md5" : "67a511c6f1feed687a4865866cd4655b",
+      "org_level" : null,
+      "title" : "Sterelogue [Vengeance]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=294&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02801"
+   },
+   {
       "adddate" : "2019/02/11 22:21",
       "artist" : "obj:C4 + monaka bms:暮狛 / mov:くわぎう",
       "comment" : "同時押し、高速階段",
@@ -20323,6 +20353,21 @@
       "title" : "Dessert Moments [Phycho-killer]",
       "url" : "",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01924"
+   },
+   {
+      "adddate" : "2019/03/01 05:31",
+      "artist" : "ikaruga_nex / obj:c",
+      "comment" : "連皿複合+皿複合,物量,ガチ押し,縦連+微縦連",
+      "folder" : "2019/03",
+      "genre" : "Freeform",
+      "keys" : "7",
+      "level" : "2019/03",
+      "lr2_bmsid" : "271361",
+      "md5" : "6d055df303855650534bcd0795274fbf",
+      "org_level" : null,
+      "title" : "ReviXy[null]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02798"
    },
    {
       "adddate" : "2018/06/12 02:41",
@@ -28796,7 +28841,7 @@
       "md5" : "9ac398d3e963c9338d3d0c8005bd097b",
       "org_level" : null,
       "title" : "overtrue [Other]",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02716"
    },
    {
@@ -32685,6 +32730,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00787"
    },
    {
+      "adddate" : "2019/03/01 23:11",
+      "artist" : "Reku Mochizuki obj:SUZUKAZEΛ",
+      "comment" : "同時押し,LN,皿複合",
+      "folder" : "2019/03",
+      "genre" : "Ultimate Hardcore",
+      "keys" : 7,
+      "level" : "2019/03",
+      "lr2_bmsid" : "271410",
+      "md5" : "af091353a4f5a242b6135c720e9eec41",
+      "org_level" : null,
+      "title" : "Phynalvent [ZOI]",
+      "url" : "https://k-bms.com/party_pabat/party2019.jsp?board_num=19&num=1&order=reg&odtype=a",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02802"
+   },
+   {
       "adddate" : "2019/02/23 10:06",
       "artist" : "PAMCYL feat. Io Fukami/obj:おぷゆきな",
       "comment" : "32分階段と二重階段、たぶん乱推奨",
@@ -33103,6 +33163,21 @@
       "title" : "Pure White † Crimson Coffin -Raganrok-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01139"
+   },
+   {
+      "adddate" : "2019/03/01 12:51",
+      "artist" : "ルゼ VS dawn-system BGA:A-ZERO Project",
+      "comment" : "物量, ソフラン (HS-AVGおすすめ) 2796の文字化け修正版",
+      "folder" : "2019/03",
+      "genre" : "CODENAME",
+      "keys" : 7,
+      "level" : "2019/03",
+      "lr2_bmsid" : "271365",
+      "md5" : "b0f601f90a0187a78d3bdb1dc768da5f",
+      "org_level" : null,
+      "title" : "Masquerade Wars [Futabather]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02799"
    },
    {
       "adddate" : "2018/08/19 17:23",
