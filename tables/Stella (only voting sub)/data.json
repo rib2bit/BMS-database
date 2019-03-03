@@ -12,8 +12,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=63&event=93",
       "url_diff" : "http://joka193.blog.fc2.com/blog-entry-99.html",
       "voteNeutral" : 0,
-      "voteNo" : 1,
-      "votePercent" : "66.67",
+      "voteNo" : 2,
+      "votePercent" : "50.00",
       "voteYes" : 2
    },
    {
@@ -28,10 +28,10 @@
       "title" : "START-RESTART -O2therEX-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=334&event=123",
       "url_diff" : "https://bmscharteditorsgroup.wixsite.com/initialatoz",
-      "voteNeutral" : 1,
+      "voteNeutral" : 2,
       "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 5
+      "votePercent" : "87.50",
+      "voteYes" : 6
    },
    {
       "artist" : "azu / po",
@@ -45,9 +45,9 @@
       "title" : "Alicia Story [po]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=71",
       "url_diff" : "http://rareheror.web.fc2.com/po.html",
-      "voteNeutral" : 1,
+      "voteNeutral" : 2,
       "voteNo" : 0,
-      "votePercent" : "83.33",
+      "votePercent" : "75.00",
       "voteYes" : 2
    },
    {
@@ -65,7 +65,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "XEOEXE / selene.",
@@ -81,8 +81,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02709",
       "voteNeutral" : 0,
       "voteNo" : 1,
-      "votePercent" : "80.00",
-      "voteYes" : 4
+      "votePercent" : "83.33",
+      "voteYes" : 5
    },
    {
       "artist" : "はがね / obj:O",
@@ -96,6 +96,22 @@
       "title" : "Fusionik [Meteorswarm]",
       "url" : "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=68",
       "url_diff" : "http://onmacodayo.web.fc2.com/ondajoy.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 4
+   },
+   {
+      "artist" : "Caerula",
+      "level" : "0",
+      "md5" : "384ffda3d50ad39fe47e14e48efe977e",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "c78cc00d3ec20f14f8d0fbfe475e479c24a304b447507683bd3c4028ecce4f29",
+      "submission" : 891,
+      "title" : "ブラーブルー [Etude]",
+      "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/12/",
+      "url_diff" : "https://sites.google.com/site/ibmssabun/",
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
@@ -115,8 +131,8 @@
       "url_diff" : "https://www.dropbox.com/s/60j3w3uftzqdb8s/_fushigichan_fushigidelay.bms?dl=0",
       "voteNeutral" : 3,
       "voteNo" : 2,
-      "votePercent" : "65.00",
-      "voteYes" : 5
+      "votePercent" : "68.18",
+      "voteYes" : 6
    },
    {
       "artist" : "BTB MOVIE : miyota",
@@ -130,9 +146,9 @@
       "title" : "Creamy Sugary OVERDRIVE!!! [Futabather]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=26&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02704",
-      "voteNeutral" : 3,
+      "voteNeutral" : 4,
       "voteNo" : 0,
-      "votePercent" : "70.00",
+      "votePercent" : "66.67",
       "voteYes" : 2
    },
    {
@@ -181,9 +197,9 @@
       "title" : "Dark Sky -Bloody-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=104",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01462",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "83.33",
+      "votePercent" : "78.57",
       "voteYes" : 5
    },
    {
@@ -201,7 +217,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 5
    },
    {
       "artist" : "Ice Plumes obj.hex",
@@ -217,8 +233,8 @@
       "url_diff" : "https://dl.dropboxusercontent.com/s/uazhoqec0i9vc50/%E2%98%85%E2%98%851%20%E2%98%85%E2%98%853%20%E5%A3%8A%E5%BB%8A%20%5BPentagon%5D%20%5BHexagon%5D.zip",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "Irish Kappa / selene. BGA: Rinser",
@@ -235,7 +251,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 10
    },
    {
       "artist" : "ZUN/arr.みょん / iimode-do / かげきち / obj:C4",
@@ -251,8 +267,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02010",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "75.00",
-      "voteYes" : 1
+      "votePercent" : "83.33",
+      "voteYes" : 2
    },
    {
       "artist" : "SP-# obj:C4+七海千秋",
@@ -269,7 +285,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "吟世かいな obj: 8posai",
@@ -302,7 +318,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "sasakure.UK obj:Monsta",
@@ -316,9 +332,9 @@
       "title" : "Jack-the-Ripper◆ [Monsther]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=146&event=60",
       "url_diff" : "http://3228monsta.web.fc2.com/",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "75.00",
+      "votePercent" : "70.00",
       "voteYes" : 3
    }
 ]

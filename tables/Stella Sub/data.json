@@ -2813,6 +2813,22 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Caerula",
+      "level" : "0",
+      "md5" : "384ffda3d50ad39fe47e14e48efe977e",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "c78cc00d3ec20f14f8d0fbfe475e479c24a304b447507683bd3c4028ecce4f29",
+      "submission" : 891,
+      "title" : "ブラーブルー [Etude]",
+      "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/12/",
+      "url_diff" : "https://sites.google.com/site/ibmssabun/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "EXCITECH obj:Omino",
       "comment" : "00191",
       "level" : "7",
