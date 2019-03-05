@@ -1,5 +1,21 @@
 [
    {
+      "artist" : "sound piercer feat.Ritsu mov : kkkfff2 & G-2000",
+      "level" : "4",
+      "md5" : "0169686bd3883f1196f4dd7a4af48f36",
+      "proposer" : "DK",
+      "proposerLr2id" : 46697,
+      "sha256" : "c5eaf83ca6a91442f3e3ed9074f825dc524c79a3a5a3c1dec0e3932f3cf6a0cc",
+      "submission" : 773,
+      "title" : "愛と煩悩と輪廻と常識の極彩世界 [SP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=204&event=88",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 3
+   },
+   {
       "artist" : "Puru obj:Fendou",
       "comment" : "微縦連、乱打、同時押。BGA fixed.",
       "level" : "2",
@@ -12,9 +28,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=490&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02818",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteNo" : 1,
+      "votePercent" : "75.00",
+      "voteYes" : 3
    },
    {
       "artist" : "うまるつふり",
@@ -29,8 +45,8 @@
       "url" : "https://wumalutsufuri.wixsite.com/wumalutsufuri/bms",
       "url_diff" : "",
       "voteNeutral" : 3,
-      "voteNo" : 1,
-      "votePercent" : "72.22",
+      "voteNo" : 2,
+      "votePercent" : "65.00",
       "voteYes" : 5
    },
    {
@@ -64,8 +80,8 @@
       "url_diff" : "http://yuinore.net/2017/02/smc-package/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "KaKi",
@@ -97,9 +113,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=141&event=65",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?mode=find&word=%E7%B5%82%E4%B8%96%E3%81%AE%E3%83%AA%E3%82%B3%E3%83%AA%E3%82%B9+%E3%81%8B%E3%81%AB",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteNo" : 2,
+      "votePercent" : "66.67",
+      "voteYes" : 4
    },
    {
       "artist" : "源屋feat.ユスラ obj:trainer",
@@ -130,9 +146,9 @@
       "title" : "Hyper Fiber World Spectrum [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=59&event=110",
       "url_diff" : "",
-      "voteNeutral" : 1,
-      "voteNo" : 0,
-      "votePercent" : "87.50",
+      "voteNeutral" : 2,
+      "voteNo" : 1,
+      "votePercent" : "66.67",
       "voteYes" : 3
    },
    {
@@ -150,7 +166,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
    },
    {
       "artist" : "kurenaissance/obj:颯 vs C4",
@@ -183,8 +199,8 @@
       "url_diff" : "http://siokazebms.web.fc2.com/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 4
    },
    {
       "artist" : "Soba Yamamori / И",
@@ -200,7 +216,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 6
    },
    {
       "artist" : "LeaF / Movie:猫太郎 obj:Fender vs siokaze",
@@ -215,9 +231,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=237&event=83",
       "url_diff" : "http://fenderbms.web.fc2.com/",
       "voteNeutral" : 1,
-      "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 3
+      "voteNo" : 1,
+      "votePercent" : "75.00",
+      "voteYes" : 4
    },
    {
       "artist" : "mossari feat.TEA obj:SUZUKAZEΛ",
@@ -247,10 +263,10 @@
       "title" : "図書室のエルザ [Fairytale]",
       "url" : "http://tosyosituno-elsa.tumblr.com/",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02337",
-      "voteNeutral" : 1,
-      "voteNo" : 2,
-      "votePercent" : "58.33",
-      "voteYes" : 3
+      "voteNeutral" : 2,
+      "voteNo" : 3,
+      "votePercent" : "55.56",
+      "voteYes" : 4
    },
    {
       "artist" : "EBIMAYO obj:SUZUKAZEΛ",
@@ -282,8 +298,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01164",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 2
+      "votePercent" : "87.50",
+      "voteYes" : 3
    },
    {
       "artist" : "wigen_ / obj.siokaze",
@@ -315,9 +331,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02804",
       "voteNeutral" : 2,
-      "voteNo" : 0,
-      "votePercent" : "80.00",
-      "voteYes" : 3
+      "voteNo" : 1,
+      "votePercent" : "71.43",
+      "voteYes" : 4
    },
    {
       "artist" : "⑮ BGA:えらる",
@@ -382,9 +398,9 @@
       "title" : "少女監獄ヴァンパイアフィリア -ANOTHER-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=359&event=110",
       "url_diff" : "",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "83.33",
       "voteYes" : 2
    },
    {
@@ -401,7 +417,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "LeaF Movie:To7",
@@ -432,9 +448,9 @@
       "title" : "Y [yumether]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=172&event=96",
       "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "83.33",
       "voteYes" : 2
    },
    {
@@ -450,9 +466,9 @@
       "url" : "http://web.archive.org/web/20100302060553/http://homepage3.nifty.com/karihamo/ys_Rosa.zip",
       "url_diff" : "http://sabosabun.tank.jp/",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "voteNo" : 1,
+      "votePercent" : "66.67",
+      "voteYes" : 2
    },
    {
       "artist" : "daisan feat. えみゅう。 / zue-row / 差分 赤い人",
@@ -517,8 +533,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=115",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/Tragedia_HARD.bms",
       "voteNeutral" : 1,
-      "voteNo" : 0,
-      "votePercent" : "87.50",
+      "voteNo" : 1,
+      "votePercent" : "70.00",
       "voteYes" : 3
    },
    {
@@ -533,10 +549,10 @@
       "title" : "Journey to the ∞BIT World [Celeritas]",
       "url" : "https://bmssearch.net/venue/detail?event=vfpq02&id=11",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01389",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "75.00",
+      "voteYes" : 1
    },
    {
       "artist" : "44teru-k remixed wa. / 差分 赤い人",
@@ -552,8 +568,8 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/amaryllis_HARDEST.bms",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "梅干茶漬け/obj:赤い人",
@@ -569,8 +585,8 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/_StrayToysAdventure-HARDEST.bms",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "sukuramu42 Illust:恋々 / obj:LIEF",
