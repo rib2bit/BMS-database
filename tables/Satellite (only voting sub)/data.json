@@ -13,7 +13,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 5
    },
    {
       "artist" : "Puru obj:Fendou",
@@ -29,8 +29,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02818",
       "voteNeutral" : 0,
       "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 3
+      "votePercent" : "80.00",
+      "voteYes" : 4
    },
    {
       "artist" : "うまるつふり",
@@ -64,7 +64,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 5
    },
    {
       "artist" : "Yu^ta",
@@ -96,8 +96,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=115",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00712",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNo" : 1,
+      "votePercent" : "66.67",
       "voteYes" : 2
    },
    {
@@ -147,8 +147,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=59&event=110",
       "url_diff" : "",
       "voteNeutral" : 2,
-      "voteNo" : 1,
-      "votePercent" : "66.67",
+      "voteNo" : 2,
+      "votePercent" : "57.14",
       "voteYes" : 3
    },
    {
@@ -181,8 +181,8 @@
       "url" : "http://web.archive.org/web/20140726074203/http://kurenaissance.web6.jp/bms/livedam.rar",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02048",
       "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "70.00",
+      "voteNo" : 2,
+      "votePercent" : "58.33",
       "voteYes" : 3
    },
    {
@@ -281,8 +281,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 2,
       "voteNo" : 0,
-      "votePercent" : "80.00",
-      "voteYes" : 3
+      "votePercent" : "83.33",
+      "voteYes" : 4
    },
    {
       "artist" : "srask obj: qtp13",
@@ -332,8 +332,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02804",
       "voteNeutral" : 2,
       "voteNo" : 1,
-      "votePercent" : "71.43",
-      "voteYes" : 4
+      "votePercent" : "77.78",
+      "voteYes" : 6
    },
    {
       "artist" : "⑮ BGA:えらる",
@@ -350,7 +350,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "xarva / obj:LeaF",
@@ -382,8 +382,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=131&event=116",
       "url_diff" : "",
       "voteNeutral" : 0,
-      "voteNo" : 1,
-      "votePercent" : "66.67",
+      "voteNo" : 2,
+      "votePercent" : "50.00",
       "voteYes" : 2
    },
    {
@@ -400,8 +400,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 2
+      "votePercent" : "90.00",
+      "voteYes" : 4
    },
    {
       "artist" : "どうぶつビスケッツ×PPP と セルリアン",
@@ -417,7 +417,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 7
    },
    {
       "artist" : "LeaF Movie:To7",
@@ -433,8 +433,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 1,
-      "votePercent" : "83.33",
-      "voteYes" : 5
+      "votePercent" : "85.71",
+      "voteYes" : 6
    },
    {
       "artist" : "ヲルバ＝田中・ヴァニラ / obj:夢瑠",
@@ -448,10 +448,27 @@
       "title" : "Y [yumether]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=172&event=96",
       "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
-      "voteNeutral" : 1,
+      "voteNeutral" : 2,
       "voteNo" : 0,
       "votePercent" : "83.33",
-      "voteYes" : 2
+      "voteYes" : 4
+   },
+   {
+      "artist" : "SHIKI / air",
+      "comment" : "sl6~sl7下",
+      "level" : "7",
+      "md5" : "b6b60ac9d20a1ffd1fd51795e3037bf4",
+      "proposer" : "Mayuzumy",
+      "proposerLr2id" : 88804,
+      "sha256" : "7ed40b247f74622f47b6a91bbb1672c1e176a57cb95075f2a3144be78a1ceeb5",
+      "submission" : 774,
+      "title" : "Chariot -Miyabi style- [EX]",
+      "url" : "http://shiki2.sakura.ne.jp/",
+      "url_diff" : "https://drive.google.com/file/d/1zl4FcOYvwu-E3msB5DGHpn1s4-G9QyjF/view?usp=sharing",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 4
    },
    {
       "artist" : "SB_YUNE feat. 初音ミク/さ",
@@ -483,8 +500,8 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/ddd_HARD.bme",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 2
+      "votePercent" : "91.67",
+      "voteYes" : 5
    },
    {
       "artist" : "momo★yama,erotic server,Initial-P,pinky brass man,JUMPERS (全部桃山)/obj:La*2℃",
@@ -501,7 +518,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
    },
    {
       "artist" : "ケットシー /obj:スノート",
@@ -515,9 +532,9 @@
       "title" : "アレア→イデア [Snother]",
       "url" : "https://docs.google.com/uc?export=download&id=0B7qCw4hNijr4aW54OWZUbnU2Slk",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02589",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "83.33",
       "voteYes" : 2
    },
    {
@@ -534,8 +551,8 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/Tragedia_HARD.bms",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "70.00",
-      "voteYes" : 3
+      "votePercent" : "75.00",
+      "voteYes" : 4
    },
    {
       "artist" : "otoshi.b obj:mute",
@@ -569,7 +586,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "梅干茶漬け/obj:赤い人",
@@ -586,7 +603,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "sukuramu42 Illust:恋々 / obj:LIEF",
@@ -601,8 +618,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=101",
       "url_diff" : "https://obju.web.fc2.com/BOB2015/BOB2015_k_2_3_E.html",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNo" : 3,
+      "votePercent" : "40.00",
       "voteYes" : 2
    },
    {
@@ -620,6 +637,6 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    }
 ]
