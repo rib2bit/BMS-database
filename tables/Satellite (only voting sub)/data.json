@@ -13,7 +13,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "Puru obj:Fendou",
@@ -27,10 +27,10 @@
       "title" : "Grimheart [Heartbeat]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=490&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02818",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "80.00",
-      "voteYes" : 4
+      "votePercent" : "81.25",
+      "voteYes" : 6
    },
    {
       "artist" : "うまるつふり",
@@ -64,7 +64,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "Yu^ta",
@@ -81,7 +81,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
+   },
+   {
+      "artist" : "Lubinn / obj.siokaze",
+      "comment" : "ガチ押し、ディレイ",
+      "level" : "4",
+      "md5" : "35e9b7c25bf77a239c7aa4160d79336f",
+      "proposer" : "monaka",
+      "proposerLr2id" : 93763,
+      "sha256" : "fcfcd3c3600c91e846a18429d55159e7f4d9366344376c9f915110647ec040aa",
+      "submission" : 775,
+      "title" : "夜明けの少女たち [Delay]",
+      "url" : "http://dl.dropbox.com/s/0rae7necmvt7q7b/%E5%A4%9C%E6%98%8E%E3%81%91%E3%81%AE%E5%B0%91%E5%A5%B3%E3%81%9F%E3%81%A1.zip?dl=0",
+      "url_diff" : "http://siokazebms.web.fc2.com/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "KaKi",
@@ -148,8 +165,8 @@
       "url_diff" : "",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "57.14",
-      "voteYes" : 3
+      "votePercent" : "70.00",
+      "voteYes" : 6
    },
    {
       "artist" : "knot",
@@ -163,9 +180,9 @@
       "title" : "sincere smile",
       "url" : "http://www.dropbox.com/s/qm0hrz0lzsgoq6c/knot%20%5BTechno%20pop%5D%20sincere%20smile.zip?dl=0",
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up1545.zip",
-      "voteNeutral" : 0,
+      "voteNeutral" : 2,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "83.33",
       "voteYes" : 4
    },
    {
@@ -182,8 +199,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02048",
       "voteNeutral" : 1,
       "voteNo" : 2,
-      "votePercent" : "58.33",
-      "voteYes" : 3
+      "votePercent" : "64.29",
+      "voteYes" : 4
    },
    {
       "artist" : "NS-Factory / obj.siokaze",
@@ -200,7 +217,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "Soba Yamamori / И",
@@ -216,7 +233,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "LeaF / Movie:猫太郎 obj:Fender vs siokaze",
@@ -232,8 +249,8 @@
       "url_diff" : "http://fenderbms.web.fc2.com/",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 4
+      "votePercent" : "78.57",
+      "voteYes" : 5
    },
    {
       "artist" : "mossari feat.TEA obj:SUZUKAZEΛ",
@@ -246,9 +263,9 @@
       "title" : "隣町の蜃気楼 [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=433&event=116",
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
-      "voteNeutral" : 2,
-      "voteNo" : 2,
-      "votePercent" : "70.00",
+      "voteNeutral" : 3,
+      "voteNo" : 3,
+      "votePercent" : "62.50",
       "voteYes" : 6
    },
    {
@@ -265,8 +282,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02337",
       "voteNeutral" : 2,
       "voteNo" : 3,
-      "votePercent" : "55.56",
-      "voteYes" : 4
+      "votePercent" : "60.00",
+      "voteYes" : 5
    },
    {
       "artist" : "EBIMAYO obj:SUZUKAZEΛ",
@@ -281,8 +298,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 2,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 4
+      "votePercent" : "85.71",
+      "voteYes" : 5
    },
    {
       "artist" : "srask obj: qtp13",
@@ -298,8 +315,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01164",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 3
+      "votePercent" : "90.00",
+      "voteYes" : 4
    },
    {
       "artist" : "wigen_ / obj.siokaze",
@@ -313,10 +330,10 @@
       "title" : "Loli Plaza (pms edit) [MANIAQ]",
       "url" : "http://sunaneko.iptime.org/BMS_Library/Loli%20Plaza%20%5bHouse%20pop%5d.rar",
       "url_diff" : "http://siokazebms.web.fc2.com/",
-      "voteNeutral" : 1,
+      "voteNeutral" : 2,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 2
+      "votePercent" : "80.00",
+      "voteYes" : 3
    },
    {
       "artist" : "ETIA. feat. Jenga Movie: わっふゑ obj:YOURI",
@@ -332,8 +349,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02804",
       "voteNeutral" : 2,
       "voteNo" : 1,
-      "votePercent" : "77.78",
-      "voteYes" : 6
+      "votePercent" : "81.82",
+      "voteYes" : 8
    },
    {
       "artist" : "⑮ BGA:えらる",
@@ -350,7 +367,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 6
    },
    {
       "artist" : "xarva / obj:LeaF",
@@ -364,9 +381,9 @@
       "title" : "Forty-Four [INSANE]",
       "url" : "https://dropbox.bms.ms/u/59626843/xrv_44.rar",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01766",
-      "voteNeutral" : 1,
+      "voteNeutral" : 2,
       "voteNo" : 0,
-      "votePercent" : "75.00",
+      "votePercent" : "66.67",
       "voteYes" : 1
    },
    {
@@ -381,9 +398,9 @@
       "title" : "Everybody Pumc Kin Jump! [MirrorAlice]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=131&event=116",
       "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 2,
-      "votePercent" : "50.00",
+      "voteNeutral" : 2,
+      "voteNo" : 3,
+      "votePercent" : "42.86",
       "voteYes" : 2
    },
    {
@@ -398,10 +415,10 @@
       "title" : "少女監獄ヴァンパイアフィリア -ANOTHER-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=359&event=110",
       "url_diff" : "",
-      "voteNeutral" : 1,
+      "voteNeutral" : 2,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 4
+      "votePercent" : "85.71",
+      "voteYes" : 5
    },
    {
       "artist" : "どうぶつビスケッツ×PPP と セルリアン",
@@ -433,8 +450,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 1,
-      "votePercent" : "85.71",
-      "voteYes" : 6
+      "votePercent" : "88.89",
+      "voteYes" : 8
    },
    {
       "artist" : "ヲルバ＝田中・ヴァニラ / obj:夢瑠",
@@ -450,8 +467,8 @@
       "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
       "voteNeutral" : 2,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 4
+      "votePercent" : "85.71",
+      "voteYes" : 5
    },
    {
       "artist" : "SHIKI / air",
@@ -468,7 +485,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "SB_YUNE feat. 初音ミク/さ",
@@ -484,8 +501,8 @@
       "url_diff" : "http://sabosabun.tank.jp/",
       "voteNeutral" : 0,
       "voteNo" : 1,
-      "votePercent" : "66.67",
-      "voteYes" : 2
+      "votePercent" : "75.00",
+      "voteYes" : 3
    },
    {
       "artist" : "daisan feat. えみゅう。 / zue-row / 差分 赤い人",
@@ -498,10 +515,10 @@
       "title" : "Dance Doll Dream [HARD]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=30&event=98",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/ddd_HARD.bme",
-      "voteNeutral" : 1,
+      "voteNeutral" : 2,
       "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 5
+      "votePercent" : "87.50",
+      "voteYes" : 6
    },
    {
       "artist" : "momo★yama,erotic server,Initial-P,pinky brass man,JUMPERS (全部桃山)/obj:La*2℃",
@@ -518,7 +535,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "ケットシー /obj:スノート",
@@ -534,8 +551,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02589",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 2
+      "votePercent" : "87.50",
+      "voteYes" : 3
    },
    {
       "artist" : "Chicala Lpis (mov:Spring Sky)/obj:赤い人",
@@ -551,8 +568,8 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/Tragedia_HARD.bms",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 4
+      "votePercent" : "78.57",
+      "voteYes" : 5
    },
    {
       "artist" : "otoshi.b obj:mute",
@@ -568,8 +585,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01389",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "75.00",
-      "voteYes" : 1
+      "votePercent" : "83.33",
+      "voteYes" : 2
    },
    {
       "artist" : "44teru-k remixed wa. / 差分 赤い人",
@@ -586,7 +603,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "梅干茶漬け/obj:赤い人",
@@ -637,6 +654,6 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 5
    }
 ]
