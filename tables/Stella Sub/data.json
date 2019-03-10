@@ -393,6 +393,23 @@
       "voteYes" : 0
    },
    {
+      "artist" : "美樹さやか vs. 美樹さやか (fw. 美樹さやか) BGA ： 美樹さやか",
+      "comment" : "物量",
+      "level" : "1",
+      "md5" : "093528a97ffd1b755a9ffbe8a483c218",
+      "proposer" : "airisu",
+      "proposerLr2id" : 121104,
+      "sha256" : "3928078cba47cb2cfcf759b7cb9ea687861981f274d2bf1a6a3dafd412840b07",
+      "submission" : 897,
+      "title" : "squartatrice",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=99&event=74",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02819",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "Ester obj:sharo mov : mi",
       "comment" : "総合譜面",
       "level" : "4",
@@ -557,6 +574,23 @@
       "title" : "NS18 [Plus]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=61",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00440"
+   },
+   {
+      "artist" : "SOMON obj.hex",
+      "comment" : "st5~6 total+",
+      "level" : "5",
+      "md5" : "0c5a038e9fedb4c799051da04b3925d0",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "84f76ee231e66c57808e10e87b2b0fd89400616365dbe8f9e494e90c1b28c8bc",
+      "submission" : 898,
+      "title" : "-雪月花- [Hexagon]",
+      "url" : "https://venue.bmssearch.net/ippaitukuru2019/51",
+      "url_diff" : "https://dl.dropboxusercontent.com/s/xwiu3epmae5el0t/%E2%98%85%E2%98%855%20-%E9%9B%AA%E6%9C%88%E8%8A%B1-%20%5BHexagon%5D.zip",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "ROKINA/obj:仙人掌の人",
@@ -1354,6 +1388,23 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Is-m // あまね（COOL&CREATE） BGA:sveki hamalu / obj.hex",
+      "comment" : "Pentagon upgrade",
+      "level" : "4",
+      "md5" : "1b1b4ccac295b1369af50edc300d0042",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "639cba0ea725cf26d8befc39ed9ffd9527b6f5300dc02265f89e03e324f1c958",
+      "submission" : 896,
+      "title" : "虹夜パレッド [Hexagon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=388&event=123",
+      "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "削除 / selene.",
       "comment" : "ディレイ",
       "level" : "7",
@@ -1930,7 +1981,7 @@
    {
       "artist" : "はがね / obj:O",
       "comment" : "軸、物量",
-      "level" : "8",
+      "level" : "7",
       "md5" : "28689db862df9559dac34717a22a0ea3",
       "proposer" : "homare",
       "proposerLr2id" : 79434,
@@ -3924,7 +3975,7 @@
    {
       "artist" : "牧野 // 前頭葉",
       "comment" : "ディレイ",
-      "level" : "0",
+      "level" : "1",
       "md5" : "4789c9dbcd0fc509370a4adec3640849",
       "proposer" : "rat",
       "proposerLr2id" : 83454,
@@ -5085,6 +5136,22 @@
       "url_diff" : "http://moriosabun.digi2.jp/"
    },
    {
+      "artist" : "orangentle / deadblue238 / obj:夢瑠",
+      "level" : "0",
+      "md5" : "5f4eac4c5f1db4e86b43f846bf6476f4",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "5b77463826247ec3c23dc62712204cdae52ba7ef6611908b1993227fad4249bc",
+      "submission" : 894,
+      "title" : "HAELEQUIN -aletheia-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=389&event=83",
+      "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "-45 / obj;Nemes",
       "comment" : "皿絡み乱打",
       "level" : "2",
@@ -5724,6 +5791,23 @@
       "title" : "感情の摩天楼～PandoraBox [HELL]",
       "url" : "http://skydrive.live.com/?cid=FD93B4F2CB8CD95F&id=FD93B4F2CB8CD95F%21105",
       "url_diff" : "http://3228monsta.web.fc2.com/",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "sun3 vs EXCALIpUR / BGA:Johnny obj.Infinite Melodia(OXYGEN)",
+      "comment" : "皿複合多め",
+      "level" : "0",
+      "md5" : "6b6c179da64c4b5d9b321bffc7f25c20",
+      "proposer" : "OXYGEN",
+      "proposerLr2id" : 133294,
+      "sha256" : "85ec546af3540201458461c66a97ae9396291762f07c0d73072fff323ca08363",
+      "submission" : 900,
+      "title" : "Cross breed -Frozen Blaze-",
+      "url" : "https://mega.nz/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA",
+      "url_diff" : "https://drive.google.com/drive/folders/0B4chFHpe-ae4UG9zMDlwcGZiM0U",
+      "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -6646,7 +6730,7 @@
    {
       "artist" : "しーけー obj:七海千秋",
       "comment" : "ガチ押し",
-      "level" : "1",
+      "level" : "0",
       "md5" : "7efd0cb03da8a2e1a4daf76dbcf5f142",
       "proposer" : "MineC24",
       "proposerLr2id" : 84597,
@@ -7261,6 +7345,23 @@
       "title" : "Nhelv -Ragnarok-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=386&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01999",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "dj sept-em obj:VINYL",
+      "comment" : "lastkill kachifushi",
+      "level" : "4",
+      "md5" : "8ac6b285c4d9ca7f712698f086728b62",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "1d95d29b5a38fd3266a04940ff3347246a033b724300651b609959cf1cefaac3",
+      "submission" : 895,
+      "title" : "Dynamo [Feeling]",
+      "url" : "http://www.scn-net.ne.jp/~estine/",
+      "url_diff" : "https://vinylhouse.web.fc2.com/index.html",
+      "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -8178,6 +8279,23 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Ark-Z  Illustration by 春雨 obj.Infinite Melodia",
+      "comment" : "ハードきつめ？",
+      "level" : "4",
+      "md5" : "9c158fd410f9dd3464d3506bd9f562dd",
+      "proposer" : "OXYGEN",
+      "proposerLr2id" : 133294,
+      "sha256" : "482419050818958748a34344fccadd368572d4202a0cc364d95de2501b317b91",
+      "submission" : 901,
+      "title" : "Singing of Night birds -Night...more...-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=37&event=92",
+      "url_diff" : "https://drive.google.com/drive/folders/0B4chFHpe-ae4UG9zMDlwcGZiM0U",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "daiji+lobsak",
       "comment" : "ラストは少し重い",
       "level" : "5",
@@ -8329,6 +8447,23 @@
       "title" : "sola [Other]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=44&event=92",
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
+   },
+   {
+      "artist" : "しらいし / obj.siokaze",
+      "comment" : "乱打",
+      "level" : "0",
+      "md5" : "a0df14af3ed8e26892023daae2572c52",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "a3131589257381f186d90b3345de66fe0abc164c436c797aed61ede175a124d0",
+      "submission" : 899,
+      "title" : "硬核機動 [Maniac]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=106&event=83",
+      "url_diff" : "http://siokazebms.web.fc2.com/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "LiA",
@@ -8914,6 +9049,23 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Cres/*8284* obj:monaka",
+      "comment" : "ディレイ",
+      "level" : "0",
+      "md5" : "acb066266ebc83d9dae23f1009497fe3",
+      "proposer" : "AXION",
+      "proposerLr2id" : 37523,
+      "sha256" : "84c9a5166a427f275a24fc03828cd8db70e81743e65c019e60bff26ccc81fda9",
+      "submission" : 902,
+      "title" : "End Time A⇒Side [Deadly End]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=81&event=36",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02844",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "源屋",
       "comment" : "TOTAL 99 皿複合",
       "level" : "5",
@@ -9078,6 +9230,23 @@
       "title" : "GOODTEK [下]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=83&event=104",
       "url_diff" : "http://www.geocities.jp/dsks5456/bms/goodtek.zip",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "ヲルバ＝田中・ヴァニラ / obj:夢瑠",
+      "comment" : "sl12",
+      "level" : "0",
+      "md5" : "aff8a5db8910bfeb24966931a4cfacdf",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "fa5804e9cddeee504f2f829105da2a7287c16c0464f1ecade77a9ba31ea38c0b",
+      "submission" : 893,
+      "title" : "Y [yumether]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=172&event=96",
+      "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
+      "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -9385,7 +9554,7 @@
    {
       "artist" : "Syatten / obj:BAECON",
       "comment" : "limit",
-      "level" : "0",
+      "level" : "1",
       "md5" : "b60ee5d99b0b2dd1990ba96a329fbf8d",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,
@@ -10406,7 +10575,7 @@
    {
       "artist" : "Team:SASAKURATION  /  Goten",
       "comment" : "???????",
-      "level" : "9",
+      "level" : "8",
       "md5" : "ca0d671f6888bb05962a3574dc8aac77",
       "proposer" : "MEES-♬",
       "proposerLr2id" : 39693,
@@ -11130,6 +11299,23 @@
       "title" : "marine snow",
       "url" : "http://web.archive.org/web/20060215101559/http://bof.nothing.sh/bof2005/LaValse_marinesnow.rar",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00564",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "ETIA. feat. Jenga Movie: HDLV/obj:赤い人",
+      "comment" : "sl12",
+      "level" : "0",
+      "md5" : "d489604cd5e1859b7b11318e2a19ca54",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "a5e79ea3a79071b188b7f4e135510cf2678849008c8aecee0e251f7adec40858",
+      "submission" : 892,
+      "title" : "IKAROS [INFERNO]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=110",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/IKAROS_INFERNO.bme",
+      "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
