@@ -12086,7 +12086,7 @@
       "md5" : "40332a570fe97c487da227a7bdcf28a2",
       "org_level" : null,
       "title" : "新たなる決意 -黎明-",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=24&event=104",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02813"
    },
    {
@@ -16076,7 +16076,7 @@
       "md5" : "53e731c94d944142fd59dea998ea9a13",
       "org_level" : null,
       "title" : "linear umbra [SP-EXTRA]",
-      "url" : "",
+      "url" : "http://neoarre.aquz.biz/510",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02816"
    },
    {
@@ -17625,6 +17625,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02398"
    },
    {
+      "adddate" : "2019/03/11 10:18",
+      "artist" : "LeaF Movie:Optie&Fiz",
+      "comment" : "ネタ譜面 (HSFIX-MINBPMおすすめ)",
+      "folder" : "2019/03",
+      "genre" : "PHANTASMA",
+      "keys" : 7,
+      "level" : "2019/03",
+      "lr2_bmsid" : "271824",
+      "md5" : "5c48281a0e302125422c73a5f03f3848",
+      "org_level" : null,
+      "title" : "MARENOL [NIGHTMARE]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02850"
+   },
+   {
       "adddate" : "2017/10/13 22:42",
       "artist" : "Silentroom × iimo / O",
       "comment" : "BPM222",
@@ -17863,6 +17878,21 @@
       "title" : "撃墜-HELL AIR FORCE- [mildelay]",
       "url" : "",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02235"
+   },
+   {
+      "adddate" : "2019/03/11 22:07",
+      "artist" : "ripeL mov : Haight / obj:SUZUKAZEΛ",
+      "comment" : "同時押し,ガチ押し,階段,微縦連,[音切り修正ファイル入り]",
+      "folder" : "2019/03",
+      "genre" : "RENNAISCENCE HARDCORE",
+      "keys" : 7,
+      "level" : "2019/03",
+      "lr2_bmsid" : "271840",
+      "md5" : "5d79eace654b500f696ba9068f229887",
+      "org_level" : null,
+      "title" : "Ascellity [ZOI]",
+      "url" : "https://k-bms.com/party_pabat/party2019.jsp?board_num=19&num=67&order=reg&odtype=a",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02852"
    },
    {
       "adddate" : "2016/12/02 21:29",
@@ -46725,6 +46755,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02208"
    },
    {
+      "adddate" : "2019/03/12 00:59",
+      "artist" : "nixx (remix : Spelunker）",
+      "comment" : "02847修正版 微局所発狂、トリル、皿複合",
+      "folder" : "2019/03",
+      "genre" : "TECHNO/Nu-NRG",
+      "keys" : 7,
+      "level" : "2019/03",
+      "lr2_bmsid" : "",
+      "md5" : "f42725ddf681c5e70554720299f9207b",
+      "org_level" : null,
+      "title" : "phuture (SLK-recycle-mix) [73another]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02853"
+   },
+   {
       "adddate" : "2018/07/20 21:12",
       "artist" : "Silentroom × 駿 / selene.",
       "comment" : "↓の曲名表記ミス修正　譜面は同じものです",
@@ -47218,6 +47263,21 @@
       "title" : "Greenwich in the Sky -HT mix- [String Theory]",
       "url" : "http://web.archive.org/web/20140921042451/http://timetorain.web.fc2.com/BMS/Greenwich_in_the_Sky_ogg.zip",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00491"
+   },
+   {
+      "adddate" : "2019/03/11 17:16",
+      "artist" : "削除 obj 任意",
+      "comment" : "9BUTTONS to 7KEYS",
+      "folder" : "2019/03",
+      "genre" : "fantasy / 9to7",
+      "keys" : 7,
+      "level" : "2019/03",
+      "lr2_bmsid" : "",
+      "md5" : "f6b5a88564e28c32fb476d02399f71f2",
+      "org_level" : null,
+      "title" : "Altale",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02851"
    },
    {
       "adddate" : "2018/07/29 09:45",
