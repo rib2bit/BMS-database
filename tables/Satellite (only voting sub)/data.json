@@ -13,8 +13,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 2
+      "votePercent" : "90.00",
+      "voteYes" : 4
    },
    {
       "artist" : "Team:SASAKURATION obj:C4",
@@ -30,8 +30,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02128",
       "voteNeutral" : 0,
       "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 3
+      "votePercent" : "83.33",
+      "voteYes" : 5
    },
    {
       "artist" : "Xacla a.k.a. fen / iimode-do / obj: pw",
@@ -46,8 +46,8 @@
       "url_diff" : "http://www.geocities.jp/bmsetc/hokan/deepblue_pw.rar",
       "voteNeutral" : 0,
       "voteNo" : 1,
-      "votePercent" : "66.67",
-      "voteYes" : 2
+      "votePercent" : "80.00",
+      "voteYes" : 4
    },
    {
       "artist" : "NIKITA / misokabocha",
@@ -61,9 +61,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=96",
       "url_diff" : "",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteNo" : 3,
+      "votePercent" : "62.50",
+      "voteYes" : 5
    },
    {
       "artist" : "Omnipotenx /差分　赤い人",
@@ -80,7 +80,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "m108 BGA:メツヤ Illust:flap Notes:夢瑠",
@@ -95,9 +95,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=116",
       "url_diff" : "",
       "voteNeutral" : 0,
-      "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 3
+      "voteNo" : 2,
+      "votePercent" : "71.43",
+      "voteYes" : 5
    },
    {
       "artist" : "Ark-Z  Illustration by 春雨 / obj:夢瑠",
@@ -130,7 +130,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 6
    },
    {
       "artist" : "椎名まゆり / obj:Monsta",
@@ -146,8 +146,8 @@
       "url_diff" : "http://3228monsta.web.fc2.com/",
       "voteNeutral" : 0,
       "voteNo" : 1,
-      "votePercent" : "66.67",
-      "voteYes" : 2
+      "votePercent" : "83.33",
+      "voteYes" : 5
    },
    {
       "artist" : "ume(obj.WAS)",
@@ -163,7 +163,24 @@
       "url_diff" : "http://2nd.geocities.jp/yoshi_65c816/was/list.html",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "83.33",
+      "votePercent" : "87.50",
+      "voteYes" : 3
+   },
+   {
+      "artist" : "ATEMAK obj:Lyco",
+      "comment" : "適度に回復がある高速乱打",
+      "level" : "8",
+      "md5" : "6c1e25a1acd843d4b4908546bbc4f86c",
+      "proposer" : "桜ノ宮苺香",
+      "proposerLr2id" : 61713,
+      "sha256" : "5f9ea4abe560b8980a2471bbdc4fe9bc550616ffcf4341a7ce1075fd6180922b",
+      "submission" : 808,
+      "title" : "ロッカー -Unlock-",
+      "url" : "http://leucine.web.fc2.com/",
+      "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
       "voteYes" : 2
    },
    {
@@ -213,9 +230,9 @@
       "url" : "http://web.archive.org/web/20130926201424/http://big.freett.com/nitrix/ntr_kbp2011_ogg_fix2.rar",
       "url_diff" : "http://sdrv.ms/14x6GY4",
       "voteNeutral" : 0,
-      "voteNo" : 4,
-      "votePercent" : "20.00",
-      "voteYes" : 1
+      "voteNo" : 5,
+      "votePercent" : "37.50",
+      "voteYes" : 3
    },
    {
       "artist" : "54cm",
@@ -231,8 +248,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 3
+      "votePercent" : "92.86",
+      "voteYes" : 6
    },
    {
       "artist" : "Se-U-Ra obj:SUZUKAZEΛ",
@@ -246,10 +263,10 @@
       "title" : "QSHELL －拒色のシェルル－ [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=147&event=123",
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
-      "voteNeutral" : 1,
+      "voteNeutral" : 2,
       "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 3
+      "votePercent" : "83.33",
+      "voteYes" : 4
    },
    {
       "artist" : "Sakamiya feat.mirina img:circussion",
@@ -264,9 +281,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=106",
       "url_diff" : "",
       "voteNeutral" : 1,
-      "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 2
+      "voteNo" : 1,
+      "votePercent" : "78.57",
+      "voteYes" : 5
    },
    {
       "artist" : "orangentle / deadblue238/さ",
@@ -298,9 +315,9 @@
       "url" : "http://www1.axfc.net/u/3487519",
       "url_diff" : "",
       "voteNeutral" : 2,
-      "voteNo" : 0,
-      "votePercent" : "66.67",
-      "voteYes" : 1
+      "voteNo" : 1,
+      "votePercent" : "60.00",
+      "voteYes" : 2
    },
    {
       "artist" : "黄泉路テヂーモ BGA:鑓田",
@@ -314,10 +331,10 @@
       "title" : "エーデルワイス [SP ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=95",
       "url_diff" : "",
-      "voteNeutral" : 2,
+      "voteNeutral" : 4,
       "voteNo" : 0,
-      "votePercent" : "80.00",
-      "voteYes" : 3
+      "votePercent" : "75.00",
+      "voteYes" : 4
    },
    {
       "artist" : "牛頭馬頭 / BGI: うまるつふり 土蜘蛛 vs 空亡",
@@ -349,8 +366,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02540",
       "voteNeutral" : 0,
       "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 3
+      "votePercent" : "85.71",
+      "voteYes" : 6
    },
    {
       "artist" : "maki / obj : apricot",
@@ -365,9 +382,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=50&event=96",
       "url_diff" : "http://absolute.pv.land.to/bof/src/up0659.zip",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteNo" : 1,
+      "votePercent" : "83.33",
+      "voteYes" : 5
    },
    {
       "artist" : "syzfonics / obj:Azel",
@@ -382,9 +399,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=45&event=85",
       "url_diff" : "",
       "voteNeutral" : 1,
-      "voteNo" : 2,
-      "votePercent" : "37.50",
-      "voteYes" : 1
+      "voteNo" : 3,
+      "votePercent" : "41.67",
+      "voteYes" : 2
    },
    {
       "artist" : "NIKITA / misokabocha",
@@ -399,9 +416,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=93",
       "url_diff" : "",
       "voteNeutral" : 1,
-      "voteNo" : 1,
+      "voteNo" : 2,
       "votePercent" : "75.00",
-      "voteYes" : 4
+      "voteYes" : 7
    },
    {
       "artist" : "sky_delta obj:Fender",
@@ -418,7 +435,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 9
    },
    {
       "artist" : "sound piercer x ginkiha (mov : 1B)",
@@ -432,9 +449,9 @@
       "url" : "http://k-bms.com/party_pabat/party2014.jsp?board_num=11&num=46",
       "url_diff" : "",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteNo" : 1,
+      "votePercent" : "85.71",
+      "voteYes" : 6
    },
    {
       "artist" : "mommy",
@@ -450,8 +467,8 @@
       "url_diff" : "http://sabosabun.tank.jp/",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 4
+      "votePercent" : "78.57",
+      "voteYes" : 5
    },
    {
       "artist" : "EBIMAYO obj.B_K / 柏駅東口から徒歩10分",
@@ -466,9 +483,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=64&event=110",
       "url_diff" : "http://beatkim.web.fc2.com/",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteNo" : 1,
+      "votePercent" : "83.33",
+      "voteYes" : 5
    },
    {
       "artist" : "Soba Yamamori",
@@ -482,10 +499,10 @@
       "title" : "SYNTHETICS",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=285&event=123",
       "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 2,
-      "votePercent" : "60.00",
-      "voteYes" : 3
+      "voteNeutral" : 1,
+      "voteNo" : 3,
+      "votePercent" : "56.25",
+      "voteYes" : 4
    },
    {
       "artist" : "Cutos / selene.",
@@ -501,7 +518,7 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 2
+      "votePercent" : "90.00",
+      "voteYes" : 4
    }
 ]
