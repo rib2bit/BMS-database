@@ -13,8 +13,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "92.86",
-      "voteYes" : 6
+      "votePercent" : "93.75",
+      "voteYes" : 7
    },
    {
       "artist" : "Team:SASAKURATION obj:C4",
@@ -62,8 +62,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 3,
-      "votePercent" : "70.83",
-      "voteYes" : 8
+      "votePercent" : "73.08",
+      "voteYes" : 9
    },
    {
       "artist" : "Omnipotenx /差分　赤い人",
@@ -80,7 +80,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "m108 BGA:メツヤ Illust:flap Notes:夢瑠",
@@ -112,8 +112,8 @@
       "url_diff" : "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 4
+      "votePercent" : "91.67",
+      "voteYes" : 5
    },
    {
       "artist" : "Yu^ta feat. みずにんじん / obj:Cure p7",
@@ -163,7 +163,24 @@
       "url_diff" : "http://2nd.geocities.jp/yoshi_65c816/was/list.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "70.00",
+      "votePercent" : "75.00",
+      "voteYes" : 4
+   },
+   {
+      "artist" : "ak+q/obj:凩",
+      "comment" : "階段　皿複合　中盤同時押し",
+      "level" : "3",
+      "md5" : "673e40ee0ee4af8130dcbf885d3a9648",
+      "proposer" : "りゅー.",
+      "proposerMinirid" : "2eaf9886-51c3-4b4d-94a4-a7a5495480eb",
+      "sha256" : "a4042a74cddfc86ebea7516c4b72f633e9249161a6d586f2e50a157a43e93e64",
+      "submission" : 812,
+      "title" : "Excelsia -00-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=116&num=200",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01527",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
       "voteYes" : 3
    },
    {
@@ -180,8 +197,8 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "70.00",
-      "voteYes" : 3
+      "votePercent" : "78.57",
+      "voteYes" : 5
    },
    {
       "artist" : "wint obj.Infinite Melodia (OXYGEN)",
@@ -196,8 +213,8 @@
       "url" : "https://onedrive.live.com/?cid=863934608D908CD0&id=863934608D908CD0!105",
       "url_diff" : "https://drive.google.com/drive/folders/0B4chFHpe-ae4UG9zMDlwcGZiM0U",
       "voteNeutral" : 1,
-      "voteNo" : 0,
-      "votePercent" : "87.50",
+      "voteNo" : 1,
+      "votePercent" : "70.00",
       "voteYes" : 3
    },
    {
@@ -214,8 +231,8 @@
       "url_diff" : "http://sabosabun.tank.jp/",
       "voteNeutral" : 0,
       "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 3
+      "votePercent" : "80.00",
+      "voteYes" : 4
    },
    {
       "artist" : "Nitrix obj by sound piercer",
@@ -299,8 +316,8 @@
       "url_diff" : "http://sabosabun.tank.jp/",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 3
+      "votePercent" : "90.00",
+      "voteYes" : 4
    },
    {
       "artist" : "REX",
@@ -333,8 +350,8 @@
       "url_diff" : "",
       "voteNeutral" : 4,
       "voteNo" : 0,
-      "votePercent" : "80.00",
-      "voteYes" : 6
+      "votePercent" : "81.82",
+      "voteYes" : 7
    },
    {
       "artist" : "牛頭馬頭 / BGI: うまるつふり 土蜘蛛 vs 空亡",
@@ -366,8 +383,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02540",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "83.33",
-      "voteYes" : 7
+      "votePercent" : "85.00",
+      "voteYes" : 8
    },
    {
       "artist" : "maki / obj : apricot",
@@ -385,6 +402,23 @@
       "voteNo" : 1,
       "votePercent" : "88.89",
       "voteYes" : 8
+   },
+   {
+      "artist" : "puru twk. sound piercer (feat.Hee Bun.D) obj by 秘密",
+      "comment" : "",
+      "level" : "12",
+      "md5" : "a63cbb13f4cd9efe32ed88255fbe84d7",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "ab490026e27208ca5974c2550340fd9aa3ba6c2cfafdebaec9012e63c995c55d",
+      "submission" : 811,
+      "title" : "Toki (Sound piercer's Timesucker Remix) [SP INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=115&event=93",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 1,
+      "votePercent" : "50.00",
+      "voteYes" : 1
    },
    {
       "artist" : "syzfonics / obj:Azel",
@@ -415,10 +449,10 @@
       "title" : "夢、幻。 [7_another]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=93",
       "url_diff" : "",
-      "voteNeutral" : 2,
+      "voteNeutral" : 3,
       "voteNo" : 2,
       "votePercent" : "75.00",
-      "voteYes" : 8
+      "voteYes" : 9
    },
    {
       "artist" : "sky_delta obj:Fender",
@@ -435,7 +469,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 13
+      "voteYes" : 14
    },
    {
       "artist" : "sound piercer x ginkiha (mov : 1B)",
@@ -448,10 +482,27 @@
       "title" : "BLAZE YOUR SOUL [SP ANOTHER]",
       "url" : "http://k-bms.com/party_pabat/party2014.jsp?board_num=11&num=46",
       "url_diff" : "",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "90.00",
+      "votePercent" : "86.36",
       "voteYes" : 9
+   },
+   {
+      "artist" : "Is-m BGA:Y.A.B.tutidama / obj:nullest",
+      "comment" : "sl7の上位譜面？",
+      "level" : "10",
+      "md5" : "c9cee7883f1ddd5cf6a1188e8e607a50",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "fd60e7ff1e5d6d80d485b8e92d425995fafb49e60d74bc4001153ebbcc3ce6a2",
+      "submission" : 810,
+      "title" : "SAVE The World -starlight,more Colors- [You've Come Far...]",
+      "url" : "http://www.is-m.jp/bms/song/em42.html",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02060",
+      "voteNeutral" : 1,
+      "voteNo" : 0,
+      "votePercent" : "83.33",
+      "voteYes" : 2
    },
    {
       "artist" : "うえつ氏 / obj:わき氏",
@@ -465,10 +516,10 @@
       "title" : "天空の城ヴェリエル [HYPER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=156&event=83",
       "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 4,
-      "votePercent" : "42.86",
-      "voteYes" : 3
+      "voteNeutral" : 1,
+      "voteNo" : 5,
+      "votePercent" : "45.00",
+      "voteYes" : 4
    },
    {
       "artist" : "mommy",
@@ -516,9 +567,9 @@
       "title" : "SYNTHETICS",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=285&event=123",
       "url_diff" : "",
-      "voteNeutral" : 2,
+      "voteNeutral" : 3,
       "voteNo" : 3,
-      "votePercent" : "63.64",
+      "votePercent" : "62.50",
       "voteYes" : 6
    },
    {
@@ -535,7 +586,7 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 5
+      "votePercent" : "93.75",
+      "voteYes" : 7
    }
 ]
