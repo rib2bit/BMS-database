@@ -13,8 +13,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02819",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 4
+      "votePercent" : "78.57",
+      "voteYes" : 5
    },
    {
       "artist" : "xarva & iimo/obj:uet Remixed by Atomic Sphere",
@@ -30,8 +30,8 @@
       "url_diff" : "http://uetnosubarashikikusosabun.web.fc2.com/index.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "SOMON obj.hex",
@@ -64,8 +64,8 @@
       "url_diff" : "http://rareheror.web.fc2.com/po.html",
       "voteNeutral" : 3,
       "voteNo" : 0,
-      "votePercent" : "75.00",
-      "voteYes" : 3
+      "votePercent" : "78.57",
+      "voteYes" : 4
    },
    {
       "artist" : "Is-m // あまね（COOL&CREATE） BGA:sveki hamalu / obj.hex",
@@ -116,7 +116,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "orangentle / deadblue238 / obj:夢瑠",
@@ -130,9 +130,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=389&event=83",
       "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
       "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "78.57",
-      "voteYes" : 5
+      "voteNo" : 2,
+      "votePercent" : "72.22",
+      "voteYes" : 6
    },
    {
       "artist" : "sun3 vs EXCALIpUR / BGA:Johnny obj.Infinite Melodia(OXYGEN)",
@@ -148,8 +148,8 @@
       "url_diff" : "https://drive.google.com/drive/folders/0B4chFHpe-ae4UG9zMDlwcGZiM0U",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 4
+      "votePercent" : "78.57",
+      "voteYes" : 5
    },
    {
       "artist" : "dj sept-em obj:VINYL",
@@ -200,7 +200,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 8
    },
    {
       "artist" : "しらいし / obj.siokaze",
@@ -215,9 +215,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=106&event=83",
       "url_diff" : "http://siokazebms.web.fc2.com/",
       "voteNeutral" : 0,
-      "voteNo" : 1,
-      "votePercent" : "80.00",
-      "voteYes" : 4
+      "voteNo" : 2,
+      "votePercent" : "75.00",
+      "voteYes" : 6
    },
    {
       "artist" : "Cres/*8284* obj:monaka",
@@ -231,9 +231,9 @@
       "title" : "End Time A⇒Side [Deadly End]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=81&event=36",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02844",
-      "voteNeutral" : 1,
-      "voteNo" : 0,
-      "votePercent" : "91.67",
+      "voteNeutral" : 2,
+      "voteNo" : 1,
+      "votePercent" : "75.00",
       "voteYes" : 5
    },
    {
@@ -250,8 +250,8 @@
       "url_diff" : "http://sabosabun.tank.jp/",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 2
+      "votePercent" : "91.67",
+      "voteYes" : 5
    },
    {
       "artist" : "m108 BGA:メツヤ Illust:flap obj : BAECON",
@@ -285,7 +285,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "SP-# obj:C4+七海千秋",
@@ -301,8 +301,25 @@
       "url_diff" : "https://www.dropbox.com/s/klemzsy7h0ja4nd/%5BSP%20C4%2Bnanami%5D.bms?dl=0",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "81.25",
-      "voteYes" : 6
+      "votePercent" : "83.33",
+      "voteYes" : 7
+   },
+   {
+      "artist" : "Frums obj.#",
+      "comment" : "縦連複合　中盤減速無し",
+      "level" : "10",
+      "md5" : "e32d6f0baa997f091407d066d531af7b",
+      "proposer" : "otoshi.b",
+      "proposerLr2id" : 87474,
+      "sha256" : "4646f8ec7adf20a05e76bf695a9c0213daef1fd7edf1bb9867af5ddbfcd8fd13",
+      "submission" : 910,
+      "title" : "theyaremanycolors [#]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=116&num=257",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02719",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "tarolabo/さ",

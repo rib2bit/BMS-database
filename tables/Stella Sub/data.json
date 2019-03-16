@@ -12056,6 +12056,23 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Frums obj.#",
+      "comment" : "縦連複合　中盤減速無し",
+      "level" : "10",
+      "md5" : "e32d6f0baa997f091407d066d531af7b",
+      "proposer" : "otoshi.b",
+      "proposerLr2id" : 87474,
+      "sha256" : "4646f8ec7adf20a05e76bf695a9c0213daef1fd7edf1bb9867af5ddbfcd8fd13",
+      "submission" : 910,
+      "title" : "theyaremanycolors [#]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=116&num=257",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02719",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "NS-Factory obj.hex",
       "comment" : "微連打物量",
       "level" : "4",
