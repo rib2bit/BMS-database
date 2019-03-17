@@ -873,6 +873,23 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Lime / 温泉の力 obj:saaa",
+      "comment" : "from Satellite",
+      "level" : "0",
+      "md5" : "11e6fd2beba2a24713f81c37fc6a9c53",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "a70c6aa7627725486df5d0561d17d2e42d597a8dd523d5fa0cff6bf2fd2b590e",
+      "submission" : 911,
+      "title" : "Harmony [PACIFISM]",
+      "url" : "https://dropbox.bms.ms/u/59509271/bof2014/BM/_lime_harmony_ogg.zip",
+      "url_diff" : "http://absolute.pv.land.to/uploader/src/up5448.zip",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "wa. vs ETIA. /deadblue238/obj:沈黙の長 ユルト",
       "comment" : "物量と少しLN",
       "level" : "2",
@@ -11861,6 +11878,23 @@
       "title" : "before... [Delay]",
       "url" : "http://sound.jp/brilliantharmony/",
       "url_diff" : "http://www.dropbox.com/s/st7mj0uo2hturyj/before%5Bdd%5D.bme?dl=1",
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "otoshi.b obj:mute",
+      "comment" : "from Satellite",
+      "level" : "0",
+      "md5" : "df5b7926081c2a40bc79bf2d62200a62",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "0344db312741925b56154ef2fbed0af89f5bc4d89d1e371db398df942471bac3",
+      "submission" : 912,
+      "title" : "Journey to the ∞BIT World [Celeritas]",
+      "url" : "https://venue.bmssearch.net/vfpq02/11",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01389",
+      "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
