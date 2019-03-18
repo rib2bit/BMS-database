@@ -10,10 +10,10 @@
       "title" : "Black Lair [ANOTHER]",
       "url" : "http://wayback.archive.org/web/20131206203702/http://sakuzyo.net/sakuzyo_black_lair_ogg.zip",
       "url_diff" : "",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "votePercent" : "92.86",
+      "voteYes" : 6
    },
    {
       "artist" : "Sound Souler mov:Eicar Shigino/Illust:Keshiks/obj:SUZUKAZEΛ vs litmus*",
@@ -30,7 +30,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
+      "voteYes" : 13
    },
    {
       "artist" : "69 de 74 / obj:C4 vs 天真",
@@ -47,7 +47,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
+   },
+   {
+      "artist" : "corok-Bb",
+      "comment" : "乱打、皿",
+      "level" : "0",
+      "md5" : "442d9026f218255ba6ec41661364ce8f",
+      "proposer" : "STANK!",
+      "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
+      "sha256" : "b64b663f0b597b927a56f9d053d0f64caed55aa7b3787ff4146f8ea8010eacf2",
+      "submission" : 844,
+      "title" : "Fatal Function (ANOTHER)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=144&event=123",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "Forte Escape, Remixed by SCTL Illustration by Keiyuu, obj: Rabbit House",
@@ -61,10 +78,10 @@
       "title" : "End of the Moonlight -Game Trance Mix- [7K MX Style]",
       "url" : "http://k-bms.com/party_pabat/party2016.jsp?board_num=16&num=7&order=reg&odtype=a",
       "url_diff" : "",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "87.50",
+      "voteYes" : 3
    },
    {
       "artist" : "RearDawn / obj:980円の人 BGA:zue-row",
@@ -80,8 +97,8 @@
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up4274.zip",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "Nankumo (BGA：HYOUTAN) obj:秘密 vs krg",
@@ -97,8 +114,8 @@
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/bof/src/up0957.zip",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 4
    },
    {
       "artist" : "punchhh",
@@ -114,8 +131,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 5
    },
    {
       "artist" : "polysha movie:Optie / obj:BAECON",
@@ -128,6 +145,23 @@
       "submission" : 832,
       "title" : "Endkraft -END-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=55&event=96",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 4
+   },
+   {
+      "artist" : "sak respect for Arata Iiyoshi Movie:Optie Illust:とざくろ",
+      "comment" : "曲とBGAが良過ぎる 地力譜面です",
+      "level" : "8",
+      "md5" : "619515c2766c42131f5a390c259a243a",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "3978b976a9f2eef24653fae40a07940e0c9810d80e8a76765011bf4cb6a04310",
+      "submission" : 840,
+      "title" : "Reason of being [EXTRA]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=107",
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
@@ -148,8 +182,75 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01527",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "86.36",
-      "voteYes" : 9
+      "votePercent" : "88.46",
+      "voteYes" : 11
+   },
+   {
+      "artist" : "LeaF/さ",
+      "comment" : "★21弱体版",
+      "level" : "10",
+      "md5" : "780f8f98480b46643f34b59e91355586",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "88c68725f0a3e435dd334755ac293f1f329cd006e23fcff27c48de3a87f7a29d",
+      "submission" : 841,
+      "title" : "失望Choco (-ω-)",
+      "url" : "http://cerebralmuddystream.nekokan.dyndns.info/betoo/?mode=datail&no=106",
+      "url_diff" : "http://sabosabun.tank.jp/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "KA-KU",
+      "level" : "5",
+      "md5" : "7e18f7763e6ff8b09bf3280bde1fa22b",
+      "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
+      "sha256" : "6a863bc412f3bee51e61bf6197c7be2e439c74634debfab439768d7ba58907a8",
+      "submission" : 839,
+      "title" : "茜の旅人 [twilight]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=238&event=123",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "kinaphar",
+      "comment" : "物量、皿同時押し、LN",
+      "level" : "0",
+      "md5" : "87090edb5ff8c32c20635f500db5d98c",
+      "proposer" : "STANK!",
+      "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
+      "sha256" : "9f6d5e0ab46fee00c076ed5033e5ef55e769dbac6ddb5967bfed64186879b647",
+      "submission" : 842,
+      "title" : "PANIC RACE!",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=86&event=121",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "Is-m // あまね（COOL&CREATE） BGA:sveki hamalu /obj:monaka",
+      "comment" : "G2R2018",
+      "level" : "6",
+      "md5" : "8bac3ecaf59be63bef0d8bcd0ded05ff",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "a7503f303c71a92384f346d9ee0676f1f3141ad8458f19ebd31897141d256ccf",
+      "submission" : 845,
+      "title" : "虹夜パレッド -Rainbow-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=388&event=123",
+      "url_diff" : "https://ux.getuploader.com/monaka_sabun_2/download/173",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "FOLiACETATE",
@@ -162,10 +263,10 @@
       "title" : "Heterochromia Iridis [ANOTHER]",
       "url" : "http://leafbms.web.fc2.com/",
       "url_diff" : "",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "votePercent" : "90.00",
+      "voteYes" : 4
    },
    {
       "artist" : "8-Run-A / obj:ELIGOS",
@@ -179,10 +280,10 @@
       "title" : "Run Away [ELITHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=144&event=96",
       "url_diff" : "http://onedrive.live.com/?cid=61A880DFE4F9DE2D&id=61A880DFE4F9DE2D%21105",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "75.00",
+      "voteYes" : 1
    },
    {
       "artist" : "Remixed by votomu obj:れもんるり",
@@ -198,8 +299,8 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 6
    },
    {
       "artist" : "Se-U-Ra obj:SUZUKAZEΛ",
@@ -215,8 +316,25 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "83.33",
-      "voteYes" : 7
+      "votePercent" : "86.36",
+      "voteYes" : 9
+   },
+   {
+      "artist" : "NGTMT",
+      "comment" : "微縦連",
+      "level" : "2",
+      "md5" : "b33eba5c086f41ab89b78207f3b301b9",
+      "proposer" : "kaguya",
+      "proposerLr2id" : 81614,
+      "sha256" : "f9e7254c7869678e1647d0d08e38149217710b17211053349ec4a39c5c570718",
+      "submission" : 843,
+      "title" : "N-Flux -ANOTHER-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=241&event=123",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "q/stol obj:vanity",
@@ -230,10 +348,10 @@
       "title" : "GIN TONIC FLAVOR [◎MANIAC]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=203&event=88",
       "url_diff" : "http://absolute.pv.land.to/turntable/src/up0094.zip",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "50.00",
+      "voteYes" : 1
    },
    {
       "artist" : "Sakamiya feat.A.Dokuga img:HalHAL Lyrics:uoru notes:ELIGOS",
@@ -247,10 +365,10 @@
       "title" : "Epic Bellum -universum- [Stardust]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=258&event=110",
       "url_diff" : "",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "83.33",
+      "voteYes" : 2
    },
    {
       "artist" : "daisan/ 差分 赤い人",
@@ -266,8 +384,8 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/ParallelWorld-HARDEST.bme",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 5
    },
    {
       "artist" : "Is-m BGA:Y.A.B.tutidama / obj:nullest",
@@ -283,8 +401,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02060",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "81.25",
-      "voteYes" : 6
+      "votePercent" : "83.33",
+      "voteYes" : 7
    },
    {
       "artist" : "Star*",
@@ -300,8 +418,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "100.00",
+      "voteYes" : 7
    },
    {
       "artist" : "xi iimo",
@@ -316,9 +434,9 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=211&event=96",
       "url_diff" : "",
       "voteNeutral" : 1,
-      "voteNo" : 0,
-      "votePercent" : "75.00",
-      "voteYes" : 1
+      "voteNo" : 2,
+      "votePercent" : "50.00",
+      "voteYes" : 2
    },
    {
       "artist" : "CELLON. obj.LAPIS",
@@ -334,7 +452,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 5
    },
    {
       "artist" : "urimu/obj:るっくん Movie:RAIDEN",
@@ -348,10 +466,10 @@
       "title" : "Bicolor Spirit [EXHARD]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=92",
       "url_diff" : "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "83.33",
+      "voteYes" : 2
    },
    {
       "artist" : "くっちー / selene.",
@@ -365,10 +483,10 @@
       "title" : "locked girl@Scarlet-Devils Palace -Luna-",
       "url" : "http://wayback.archive.org/web/20150723062313/http://page.freett.com/ykyk00/",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02809",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
+      "votePercent" : "90.00",
+      "voteYes" : 4
    },
    {
       "artist" : "ああああ BGA:アアアア / obj by sound piercer",
@@ -382,9 +500,26 @@
       "title" : "lifework [SP-RX ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=174&event=65",
       "url_diff" : "http://1drv.ms/1r9qKLR",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "70.00",
+      "voteYes" : 3
+   },
+   {
+      "artist" : "A.I.TOYS obj:firi",
+      "comment" : "階段ディレイ、曲変更あり",
+      "level" : "2",
+      "md5" : "fe8301f2d87b4a2cfa525234ee01607d",
+      "proposer" : "resair",
+      "proposerLr2id" : 115377,
+      "sha256" : "b95a3772b9e0fadd497a3dc1ae085fb1e3f3ca328b86a3b49a2cf59785b0bcf9",
+      "submission" : 838,
+      "title" : "compressed eyes -ANOTHER-",
+      "url" : "http://onedrive.live.com/?id=FC95A680740CA8C9!111&cid=FC95A680740CA8C9#id=FC95A680740CA8C9%21137&cid=FC95A680740CA8C9",
+      "url_diff" : "http://absolute.pv.land.to/uploader/src/up3480.zip",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNo" : 1,
+      "votePercent" : "75.00",
       "voteYes" : 3
    },
    {
@@ -399,9 +534,9 @@
       "title" : ")-@1くvz@",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=339&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02248",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "83.33",
       "voteYes" : 2
    }
 ]
