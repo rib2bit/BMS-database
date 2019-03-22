@@ -12,8 +12,8 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up4749.zip",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "92.86",
-      "voteYes" : 6
+      "votePercent" : "93.75",
+      "voteYes" : 7
    },
    {
       "artist" : "削除 feat. void / 浪漫映像制作倶楽部 / obj : xi",
@@ -26,9 +26,9 @@
       "title" : "Black Lair [ANOTHER]",
       "url" : "http://wayback.archive.org/web/20131206203702/http://sakuzyo.net/sakuzyo_black_lair_ogg.zip",
       "url_diff" : "",
-      "voteNeutral" : 1,
+      "voteNeutral" : 2,
       "voteNo" : 0,
-      "votePercent" : "95.83",
+      "votePercent" : "92.31",
       "voteYes" : 11
    },
    {
@@ -46,7 +46,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 13
+      "voteYes" : 15
    },
    {
       "artist" : "Yu^ta feat. みずにんじん",
@@ -65,6 +65,23 @@
       "voteYes" : 8
    },
    {
+      "artist" : "keyc",
+      "comment" : "sl3〜4 結構総合力で面白い譜面",
+      "level" : "3",
+      "md5" : "3530f52f62545d8405f062966270e0ca",
+      "proposer" : "C4",
+      "proposerLr2id" : 120385,
+      "sha256" : "2793b8a432efd27c9c0a678e510be2710383d9755bcdd897e8ca9ace1e72320c",
+      "submission" : 852,
+      "title" : "Forceful Beat [B]",
+      "url" : "http://www001.upp.so-net.ne.jp/keyc/",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
       "artist" : "69 de 74 / obj:C4 vs 天真",
       "comment" : "総合力",
       "level" : "10",
@@ -78,8 +95,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02813",
       "voteNeutral" : 2,
       "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 5
+      "votePercent" : "77.78",
+      "voteYes" : 6
    },
    {
       "artist" : "corok-Bb",
@@ -95,8 +112,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 5
+      "votePercent" : "93.75",
+      "voteYes" : 7
    },
    {
       "artist" : "Forte Escape, Remixed by SCTL Illustration by Keiyuu, obj: Rabbit House",
@@ -112,8 +129,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 5
+      "votePercent" : "93.75",
+      "voteYes" : 7
    },
    {
       "artist" : "RearDawn / obj:980円の人 BGA:zue-row",
@@ -130,7 +147,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 8
    },
    {
       "artist" : "Nankumo (BGA：HYOUTAN) obj:秘密 vs krg",
@@ -146,8 +163,8 @@
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/bof/src/up0957.zip",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 5
+      "votePercent" : "93.75",
+      "voteYes" : 7
    },
    {
       "artist" : "punchhh",
@@ -164,7 +181,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
+      "voteYes" : 10
    },
    {
       "artist" : "polysha movie:Optie / obj:BAECON",
@@ -181,7 +198,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 9
    },
    {
       "artist" : "AKITO / obj.siokaze",
@@ -198,7 +215,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "sak respect for Arata Iiyoshi Movie:Optie Illust:とざくろ",
@@ -214,8 +231,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "92.86",
-      "voteYes" : 6
+      "votePercent" : "93.75",
+      "voteYes" : 7
    },
    {
       "artist" : "ak+q/obj:凩",
@@ -231,8 +248,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01527",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "89.29",
-      "voteYes" : 12
+      "votePercent" : "90.00",
+      "voteYes" : 13
    },
    {
       "artist" : "69 de 74 BGA : EViL/obj:赤い人",
@@ -266,7 +283,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 10
    },
    {
       "artist" : "KA-KU",
@@ -282,7 +299,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 9
+   },
+   {
+      "artist" : "篠螺悠那　obj:C4",
+      "comment" : "st0の下位譜面 TOTAL高めの同時押し,乱打系譜面",
+      "level" : "2",
+      "md5" : "7fd04d17a9bedafa089337890f92a5ab",
+      "proposer" : "C4",
+      "proposerLr2id" : 120385,
+      "sha256" : "9c694fa5f08fc9447c3404f8797f9c517710a4b426fcef2ec11f2717bfc86c76",
+      "submission" : 853,
+      "title" : "物怪舞踏 [座敷童子]",
+      "url" : "http://tsubu.ath.cx/~electrogic/bms/mononoke.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01973",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "kinaphar",
@@ -298,8 +332,8 @@
       "url_diff" : "",
       "voteNeutral" : 2,
       "voteNo" : 1,
-      "votePercent" : "71.43",
-      "voteYes" : 4
+      "votePercent" : "77.78",
+      "voteYes" : 6
    },
    {
       "artist" : "Is-m // あまね（COOL&CREATE） BGA:sveki hamalu /obj:monaka",
@@ -315,8 +349,8 @@
       "url_diff" : "https://ux.getuploader.com/monaka_sabun_2/download/173",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "81.25",
-      "voteYes" : 6
+      "votePercent" : "83.33",
+      "voteYes" : 7
    },
    {
       "artist" : "FOLiACETATE",
@@ -329,9 +363,9 @@
       "title" : "Heterochromia Iridis [ANOTHER]",
       "url" : "http://leafbms.web.fc2.com/",
       "url_diff" : "",
-      "voteNeutral" : 1,
+      "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "68.75",
+      "votePercent" : "66.67",
       "voteYes" : 5
    },
    {
@@ -348,7 +382,24 @@
       "url_diff" : "http://onedrive.live.com/?cid=61A880DFE4F9DE2D&id=61A880DFE4F9DE2D%21105",
       "voteNeutral" : 2,
       "voteNo" : 1,
-      "votePercent" : "60.00",
+      "votePercent" : "66.67",
+      "voteYes" : 3
+   },
+   {
+      "artist" : "ZUN remixed by翡乃イスカ",
+      "comment" : "",
+      "level" : "6",
+      "md5" : "9bee0af5aaf2437b0dd78597aea46651",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "ef1e1247a533c67069ec4df90f5591bde1fd3a286cec248c330ff2334869d72a",
+      "submission" : 851,
+      "title" : "Bloody Scarlet Nightmare [Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=102",
+      "url_diff" : "",
+      "voteNeutral" : 1,
+      "voteNo" : 0,
+      "votePercent" : "83.33",
       "voteYes" : 2
    },
    {
@@ -365,8 +416,8 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
       "voteNeutral" : 0,
       "voteNo" : 1,
-      "votePercent" : "90.00",
-      "voteYes" : 9
+      "votePercent" : "90.91",
+      "voteYes" : 10
    },
    {
       "artist" : "Se-U-Ra obj:SUZUKAZEΛ",
@@ -380,9 +431,9 @@
       "title" : "写儀の少女Lix [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=89&event=116",
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
-      "voteNeutral" : 2,
+      "voteNeutral" : 3,
       "voteNo" : 1,
-      "votePercent" : "85.71",
+      "votePercent" : "83.33",
       "voteYes" : 11
    },
    {
@@ -399,8 +450,8 @@
       "url_diff" : "",
       "voteNeutral" : 2,
       "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 5
+      "votePercent" : "77.78",
+      "voteYes" : 6
    },
    {
       "artist" : "q/stol obj:vanity",
@@ -415,8 +466,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=203&event=88",
       "url_diff" : "http://absolute.pv.land.to/turntable/src/up0094.zip",
       "voteNeutral" : 1,
-      "voteNo" : 3,
-      "votePercent" : "50.00",
+      "voteNo" : 4,
+      "votePercent" : "43.75",
       "voteYes" : 3
    },
    {
@@ -433,8 +484,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 5
+      "votePercent" : "92.86",
+      "voteYes" : 6
    },
    {
       "artist" : "daisan/ 差分 赤い人",
@@ -451,7 +502,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
    },
    {
       "artist" : "Is-m BGA:Y.A.B.tutidama / obj:nullest",
@@ -467,8 +518,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02060",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "85.00",
-      "voteYes" : 8
+      "votePercent" : "86.36",
+      "voteYes" : 9
    },
    {
       "artist" : "Star*",
@@ -485,7 +536,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
+      "voteYes" : 11
    },
    {
       "artist" : "xi iimo",
@@ -501,8 +552,8 @@
       "url_diff" : "",
       "voteNeutral" : 2,
       "voteNo" : 3,
-      "votePercent" : "60.00",
-      "voteYes" : 5
+      "votePercent" : "63.64",
+      "voteYes" : 6
    },
    {
       "artist" : "CELLON. obj.LAPIS",
@@ -517,8 +568,8 @@
       "url_diff" : "http://lapisbms.web.fc2.com/",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "83.33",
-      "voteYes" : 7
+      "votePercent" : "86.36",
+      "voteYes" : 9
    },
    {
       "artist" : "urimu/obj:るっくん Movie:RAIDEN",
@@ -534,8 +585,8 @@
       "url_diff" : "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html",
       "voteNeutral" : 3,
       "voteNo" : 1,
-      "votePercent" : "64.29",
-      "voteYes" : 3
+      "votePercent" : "72.22",
+      "voteYes" : 5
    },
    {
       "artist" : "くっちー / selene.",
@@ -568,8 +619,8 @@
       "url_diff" : "http://1drv.ms/1r9qKLR",
       "voteNeutral" : 1,
       "voteNo" : 3,
-      "votePercent" : "56.25",
-      "voteYes" : 4
+      "votePercent" : "61.11",
+      "voteYes" : 5
    },
    {
       "artist" : "loz",
@@ -584,8 +635,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 1,
-      "votePercent" : "50.00",
-      "voteYes" : 1
+      "votePercent" : "80.00",
+      "voteYes" : 4
    },
    {
       "artist" : "A.I.TOYS obj:firi",
@@ -599,9 +650,9 @@
       "title" : "compressed eyes -ANOTHER-",
       "url" : "http://onedrive.live.com/?id=FC95A680740CA8C9!111&cid=FC95A680740CA8C9#id=FC95A680740CA8C9%21137&cid=FC95A680740CA8C9",
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up3480.zip",
-      "voteNeutral" : 0,
+      "voteNeutral" : 1,
       "voteNo" : 3,
-      "votePercent" : "66.67",
+      "votePercent" : "65.00",
       "voteYes" : 6
    },
    {
@@ -617,8 +668,8 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=339&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02248",
       "voteNeutral" : 1,
-      "voteNo" : 2,
-      "votePercent" : "58.33",
+      "voteNo" : 4,
+      "votePercent" : "43.75",
       "voteYes" : 3
    }
 ]
