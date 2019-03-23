@@ -81,7 +81,7 @@
    },
    {
       "artist" : "onoken",
-      "comment" : "連打4",
+      "comment" : "連打",
       "level" : "29",
       "md5" : "055993da9d6541382be314edd7eee50f",
       "name_diff" : "BAECON",
@@ -310,16 +310,6 @@
       "url_diff" : ""
    },
    {
-      "artist" : "ノクティス・江口・チェラム",
-      "comment" : "隣接階段",
-      "level" : "30",
-      "md5" : "16e3a4a9890414bd2963c9b016c4615a",
-      "name_diff" : "morio",
-      "title" : "ヒメタイプ -Finale-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=96",
-      "url_diff" : "https://ux.getuploader.com/sinmoriosabun/download/86/%E3%83%92%E3%83%A1%E3%82%BF%E3%82%A4%E3%83%97.zip"
-   },
-   {
       "artist" : "er",
       "comment" : "低トータル",
       "level" : "14",
@@ -328,16 +318,6 @@
       "title" : "ハイパーミラクルシューティングスター [FULLCOMBO CHALLENGE]",
       "url" : "https://dropbox.bms.ms/u/28765267/er_HMSS.zip",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01878"
-   },
-   {
-      "artist" : "猫の人 / fz / sumomo",
-      "comment" : "低トータル低速皿複合",
-      "level" : "20",
-      "md5" : "17f7575090072c6f6570fda9c7ccc1fb",
-      "name_diff" : "29",
-      "title" : "空飛ぶニワトリ (original mix) (#？肉？)",
-      "url" : "http://web.archive.org/web/20070115175057/http://big.freett.com/nekonohito/ne_niwa2.zip",
-      "url_diff" : "http://nick.xxxxxxxx.jp/"
    },
    {
       "artist" : "nmk",
@@ -358,16 +338,6 @@
       "title" : "○○バスタースパーク [7KEYS ANOTHER]",
       "url" : "https://web.archive.org/web/20150909063701/http://www3.pf-x.net:80/~boxism-8500/bms/OO_busterspark_OGG.rar",
       "url_diff" : ""
-   },
-   {
-      "artist" : "Frums",
-      "comment" : "ギミック",
-      "level" : "21",
-      "md5" : "19bf553d39895771b768e53f4b22696a",
-      "name_diff" : "1/8",
-      "title" : "theyaremanycolors [Transparent⇔reD]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=257&event=116",
-      "url_diff" : "http://rattoto10.blog.fc2.com/blog-entry-3.html"
    },
    {
       "artist" : "ルゼ",
@@ -750,16 +720,6 @@
       "url_diff" : "http://drive.google.com/open?id=0B6gzvhYqRdovfl9iMEJTVzNGR05OemRVbE5xdUpOQk5mRXJFNHhqNjZqS2xDZHNFR3ZIa0k&authuser=0"
    },
    {
-      "artist" : "Personative feat. MC. NOREAJ BGA : Photonskyto",
-      "comment" : "ソフランとLN",
-      "level" : "20",
-      "md5" : "3392efe074f1a293933ee961b377d428",
-      "name_diff" : "ctc",
-      "title" : "The Question [SP Abusive]",
-      "url" : "http://mournfinale.com/question/bms.html",
-      "url_diff" : "http://rattoto10.blog.fc2.com/blog-entry-2.html"
-   },
-   {
       "artist" : "scytheleg & ルゼ",
       "comment" : "加速する連打",
       "level" : "31",
@@ -790,19 +750,19 @@
       "url_diff" : ""
    },
    {
-      "artist" : "メスクラ (エヴァたん＆メコたん)",
-      "comment" : "低トータルソフラン縦連",
-      "level" : "28",
-      "md5" : "34ef021066ca17f8014bd6bc0973453d",
+      "artist" : "Silentroom",
+      "comment" : "停止",
+      "level" : "2",
+      "md5" : "34d21d81e1956a37dcc9bdce800b8972",
       "name_diff" : "",
-      "title" : "アズール リミックス &lt;MANIAC&gt;",
-      "url" : "https://onedrive.live.com/?id=A9875A9A2CB76D0C%21338&cid=A9875A9A2CB76D0C",
+      "title" : "NULCTRL [EOT]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=261&event=123",
       "url_diff" : ""
    },
    {
       "artist" : "s-don / BGA : scytheleg obj : SioN",
       "comment" : "ラス殺し",
-      "level" : "24",
+      "level" : "20",
       "md5" : "3545de1119dc2d2223d2d59b9c0d877e",
       "name_diff" : "",
       "title" : "Adamantite [SP Standby]",
@@ -920,16 +880,6 @@
       "url_diff" : ""
    },
    {
-      "artist" : "syatten + 140",
-      "comment" : "縦連打と皿",
-      "level" : "18",
-      "md5" : "3a380c69c7294e5a4ffdef65872fce5d",
-      "name_diff" : "29",
-      "title" : "Evangelize (120000000 Edit) [縦連打と皿譜面愛してる]",
-      "url" : "http://www.dropbox.com/sh/xrr3fvlhagzsmm2/AAC0HdK_kps6UCKtDFTCkpJea/bms/Evangelize%20(Radio%20Edit).rar?dl=0",
-      "url_diff" : "http://nick.xxxxxxxx.jp/"
-   },
-   {
       "artist" : "ABE3",
       "comment" : "ソフランとLN",
       "level" : "31",
@@ -1020,26 +970,6 @@
       "url_diff" : ""
    },
    {
-      "artist" : "cube",
-      "comment" : "ベリハLN皿低トータル",
-      "level" : "8",
-      "md5" : "3df95fea7ab404a38ac55954cc5bf48e",
-      "name_diff" : "38k",
-      "title" : "Life [DEATH]",
-      "url" : "https://web.archive.org/web/20060215060552/http://www.diverse.jp:80/dbhtml/download.html",
-      "url_diff" : "http://www.geocities.jp/rf_mirai/bms/edit/index.html"
-   },
-   {
-      "artist" : "ABE3",
-      "comment" : "同色同時押し",
-      "level" : "29",
-      "md5" : "3e0f749d8790232e78f010a5cf67f2c3",
-      "name_diff" : "BAECON",
-      "title" : "ENTANGLEMENT -SHOW TiME-",
-      "url" : "https://web.archive.org/web/20170210092941/http://abeyuta27272.sakura.ne.jp/",
-      "url_diff" : "http://www.geocities.jp/hihihi4442/sandwich.html"
-   },
-   {
       "artist" : "Ark-Z",
       "comment" : "ギミック(要スペック)",
       "level" : "5",
@@ -1067,6 +997,16 @@
       "name_diff" : "",
       "title" : "ほのぼの神社 [恋符「マスタースパーク」]",
       "url" : "http://kanki2.net/bms.html",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "縦連打に奇異なるよろこびをもたらすもの / 全ての時間、全ての空間に隣接する球体群",
+      "comment" : "ギミック",
+      "level" : "4",
+      "md5" : "40c4bbfbb3d3df3b089d32b445b0c2fa",
+      "name_diff" : "",
+      "title" : "IoAV&quot;inf&quot;A Θ hgVoA",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=328&event=123",
       "url_diff" : ""
    },
    {
@@ -1098,16 +1038,6 @@
       "title" : "STAGER [Stella Killer]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=356&event=88",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01975"
-   },
-   {
-      "artist" : "s-don / jubeated",
-      "comment" : "ベリハ縦連",
-      "level" : "27",
-      "md5" : "42cb7634845e8f02349887bf43566327",
-      "name_diff" : "",
-      "title" : "WATER STOP DOTx4 [Merry Christmas, Mr. Musaeus]",
-      "url" : "https://dropbox.bms.ms/u/33464123/%5Bshibusawa%5D%5Bs-don%5DWATER_STOP_DOTx4.zip",
-      "url_diff" : ""
    },
    {
       "artist" : "ルゼ / bug-light",
@@ -1148,6 +1078,16 @@
       "title" : "Lolita Scaffold [rather]",
       "url" : "http://archive.org/download/BMS_G2R2014/23.7z",
       "url_diff" : "http://rattoto10.web.fc2.com/"
+   },
+   {
+      "artist" : "うまるつふり obj:NASA",
+      "comment" : "連打",
+      "level" : "17",
+      "md5" : "45bdef32e3feee71091d21219c08e6c6",
+      "name_diff" : "",
+      "title" : "天海原～あまみはら～ [飛翔]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=123",
+      "url_diff" : ""
    },
    {
       "artist" : "Laur",
@@ -1247,16 +1187,6 @@
       "name_diff" : "",
       "title" : "【Freak《Show】Down》 [SOFT LANDING PARADISE]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=166&event=123",
-      "url_diff" : ""
-   },
-   {
-      "artist" : "singo",
-      "comment" : "軸と餡蜜",
-      "level" : "8",
-      "md5" : "4e68fe27c102a821f7318173eec66199",
-      "name_diff" : "",
-      "title" : "#0182 -ANOTHER-",
-      "url" : "http://72mo471.web.fc2.com/bms.htm",
       "url_diff" : ""
    },
    {
@@ -1440,26 +1370,6 @@
       "url_diff" : ""
    },
    {
-      "artist" : "AYhaz obj : ぷらとにっくと魚の子",
-      "comment" : "ソフラン",
-      "level" : "13",
-      "md5" : "57c918720319134af19cf4ee6afe4020",
-      "name_diff" : "",
-      "title" : "16000$ MATRYOSHKA DOLL -рыбы-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=120",
-      "url_diff" : ""
-   },
-   {
-      "artist" : "s-don / kkkfff2",
-      "comment" : "低トータルベリハ連打",
-      "level" : "25",
-      "md5" : "592217d4f1b3e41065fe94d663424cc9",
-      "name_diff" : "hi-low",
-      "title" : "Meteor a Splash down (Meteor Lights rmx.)",
-      "url" : "https://dropbox.bms.ms/u/33464123/%5Bs-don%5DMeteor%20Lights.zip",
-      "url_diff" : "http://nextreflection.net/dsgbdg01.html"
-   },
-   {
       "artist" : "遠山明孝 Spiarda/obj ∀lteness",
       "comment" : "局所発狂",
       "level" : "29",
@@ -1467,16 +1377,6 @@
       "name_diff" : "",
       "title" : "The Carnivorous Carnival",
       "url" : "http://www1.axfc.net/uploader/Si/so/132122&key=bms",
-      "url_diff" : ""
-   },
-   {
-      "artist" : "Is-m BGA:ハマドメハマル",
-      "comment" : "皿縦連",
-      "level" : "23",
-      "md5" : "5ae0afb8bcd94330254bd16612150fb8",
-      "name_diff" : "",
-      "title" : "Anti Function -SP ANOTHER-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=120",
       "url_diff" : ""
    },
    {
@@ -1610,16 +1510,6 @@
       "url_diff" : ""
    },
    {
-      "artist" : "spinai",
-      "comment" : "低トータルハード判定ソフラン",
-      "level" : "23",
-      "md5" : "61ff3b62881a3ea53d95f319b1def440",
-      "name_diff" : "Books",
-      "title" : "Till the End of infinity -the sage-",
-      "url" : "https://drive.google.com/open?id=0B_VdbhiBVQ1Yd28tQTUxZzVrMmc",
-      "url_diff" : "http://rattoto10.blog.fc2.com/blog-entry-3.html"
-   },
-   {
       "artist" : "EBIMAYO 柏駅東口から徒歩10分",
       "comment" : "低速と局所難",
       "level" : "24",
@@ -1652,7 +1542,7 @@
    {
       "artist" : "1/8 BGI:morph",
       "comment" : "ソフラン",
-      "level" : "29",
+      "level" : "30",
       "md5" : "63ef2d71cf1bf6723fbfed650cc358f5",
       "name_diff" : "",
       "title" : "自由電子レーザー [A]",
@@ -1890,16 +1780,6 @@
       "url_diff" : "http://fantasicnotes.net/"
    },
    {
-      "artist" : "准",
-      "comment" : "ベリハ判定LN複合",
-      "level" : "20",
-      "md5" : "7139d4234ad7a525c9ac81feefa0c4d7",
-      "name_diff" : "",
-      "title" : "Encoragement",
-      "url" : "https://nekokan.dyndns.info/file/mirror/ceena-bms/%5bBMS%5d%5bPACK%5d%20THE%20BMS%20OF%20FIGHTERS%202012%20-Ein%20neuer%20Heiliger%20Krieg-/Team%20Wahhei.zip",
-      "url_diff" : ""
-   },
-   {
       "artist" : "篠螺悠那",
       "comment" : "ソフラン",
       "level" : "18",
@@ -1908,6 +1788,16 @@
       "title" : "Demystify Burst [BOOST]",
       "url" : "https://web.archive.org/web/20110911074510/http://tsubu.ath.cx/~ssry/",
       "url_diff" : "https://paraphrohn.hateblo.jp/"
+   },
+   {
+      "artist" : "混沌の彼方より出ずるもの / 歪みと重みに悶える祈りの存在",
+      "comment" : "わしゃわしゃ",
+      "level" : "19",
+      "md5" : "721917143843faf4182fbc0c82710ac9",
+      "name_diff" : "",
+      "title" : "ZHRO",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=331&event=123",
+      "url_diff" : ""
    },
    {
       "artist" : "sun3",
@@ -1948,26 +1838,6 @@
       "title" : "★LittlE KenshoEn★",
       "url" : "http://necoco.2-d.jp/13_bms.html",
       "url_diff" : "http://nick.xxxxxxxx.jp/"
-   },
-   {
-      "artist" : "TRIAL",
-      "comment" : "ズレベリハ",
-      "level" : "30",
-      "md5" : "7500afb126a1ab5416c85bd0fa96c303",
-      "name_diff" : "rat",
-      "title" : "Stimulant Lollipop [rather]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=302&event=116",
-      "url_diff" : "http://rattoto10.web.fc2.com/"
-   },
-   {
-      "artist" : "Super Retro Brothers",
-      "comment" : "ハード判定トリルラス殺し",
-      "level" : "23",
-      "md5" : "75753aa1fbbe367adb9814939c28f8bc",
-      "name_diff" : "",
-      "title" : "Famicom sweet memories",
-      "url" : "http://www.luzeria.net/?p=387",
-      "url_diff" : ""
    },
    {
       "artist" : "AOiRO_Manbow",
@@ -2140,6 +2010,16 @@
       "url_diff" : ""
    },
    {
+      "artist" : "LU",
+      "comment" : "LN皿",
+      "level" : "10",
+      "md5" : "80a7dba8e848b89b40a95fc0d1c6cc7e",
+      "name_diff" : "",
+      "title" : "eu糞ria/melan譜面ria",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=59&event=78",
+      "url_diff" : ""
+   },
+   {
       "artist" : "P4koo (Vocal : ToRuCHi) Illust:DeadAct",
       "comment" : "局所難",
       "level" : "25",
@@ -2232,7 +2112,7 @@
    {
       "artist" : "tanacoro",
       "comment" : "階段",
-      "level" : "17",
+      "level" : "16",
       "md5" : "88cd091903c4eb18c20ccc01d42b5b50",
       "name_diff" : "翠廻",
       "title" : "ひもＱ",
@@ -2260,6 +2140,16 @@
       "url_diff" : ""
    },
    {
+      "artist" : "corok-Bb",
+      "comment" : "LN皿",
+      "level" : "24",
+      "md5" : "8997b04a5190584b091b5bcb87aa1294",
+      "name_diff" : "rat",
+      "title" : "Signager [rather]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=121",
+      "url_diff" : "http://rattoto10.web.fc2.com/bms/sabun.html"
+   },
+   {
       "artist" : "paraoka // bga. ALEX",
       "comment" : "長尺ゲシュタルト崩壊",
       "level" : "1",
@@ -2267,6 +2157,16 @@
       "name_diff" : "",
       "title" : "[-kirisame]",
       "url" : "http://www1.axfc.net/u/3633462?key=bms",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "Team ZUMMER BGA / S-BLUE",
+      "comment" : "ソフランと連打とラス殺し",
+      "level" : "31",
+      "md5" : "8a5b8ee56b11d9692d98596e3f6894ac",
+      "name_diff" : "",
+      "title" : "復活の歌 &lt;SP ZUMMER&gt;",
+      "url" : "https://nekokan.dyndns.info/file/mirror/ceena-bms/%5bBMS%5d%5bPACK%5d%20THE%20BMS%20OF%20FIGHTERS%202012%20-Ein%20neuer%20Heiliger%20Krieg-/%e9%bb%92%e3%81%ae%e7%aa%93%e5%8f%a3.zip",
       "url_diff" : ""
    },
    {
@@ -2312,7 +2212,7 @@
    {
       "artist" : "牛頭馬頭 / BGI: うまるつふり obj:馬頭",
       "comment" : "局所難",
-      "level" : "23",
+      "level" : "18",
       "md5" : "8cfb6d735f1feb08b0a46dc2837466d5",
       "name_diff" : "",
       "title" : "シタガエルハユウキイデタツハカクリヨカミヨニマツルハ [7key 馬頭SP METHER]",
@@ -2518,6 +2418,16 @@
       "title" : "ctcmix [HS-AVE推奨]",
       "url" : "https://t.co/kIKd9oHQpL?amp=1",
       "url_diff" : ""
+   },
+   {
+      "artist" : "sound piercer / kkkfff2",
+      "comment" : "ソフラン",
+      "level" : "12",
+      "md5" : "99f7826ad8d974f82813d2887554b9f4",
+      "name_diff" : "LTFE♪",
+      "title" : "点、線、面、立体 [SP CLOCKWORK]",
+      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=1&num=49",
+      "url_diff" : "http://1drv.ms/NiBdoR"
    },
    {
       "artist" : "cybermiso(illust:jubeated)",
@@ -2920,13 +2830,13 @@
       "url_diff" : "http://rattoto10.blog.fc2.com/blog-entry-3.html"
    },
    {
-      "artist" : "takdrive",
-      "comment" : "ソフラン",
-      "level" : "8",
-      "md5" : "b0bcbec1b5899c3fb4495186f126be5c",
+      "artist" : "Yamajet remixed by asketischemonchedeszen",
+      "comment" : "ベリハ低トータル",
+      "level" : "13",
+      "md5" : "b0cdb9e90e338218cfd3f051479ecf99",
       "name_diff" : "",
-      "title" : "ザオラル",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=185&event=123",
+      "title" : "edge (syugyo remix)",
+      "url" : "https://ndk.nekokan.dyndns.info/ndkbms_001/",
       "url_diff" : ""
    },
    {
@@ -3120,16 +3030,6 @@
       "url_diff" : ""
    },
    {
-      "artist" : "uet (mov:いかお)",
-      "comment" : "皿と局所難",
-      "level" : "24",
-      "md5" : "bbf9cffab66f0f1af19dd0f8f8f1d6d5",
-      "name_diff" : "",
-      "title" : "Batrachotoxin (BGA ON)",
-      "url" : "https://dropbox.bms.ms/u/60346274/bms/yadoku_ogg.rar",
-      "url_diff" : ""
-   },
-   {
       "artist" : "KAH",
       "comment" : "低速",
       "level" : "29",
@@ -3217,26 +3117,6 @@
       "name_diff" : "",
       "title" : "オバケだあああぁああぁあぁあああ！！！！！",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=112&event=93",
-      "url_diff" : ""
-   },
-   {
-      "artist" : "Yamajet",
-      "comment" : "総合力",
-      "level" : "10",
-      "md5" : "c0a590a6d71b85dc7721a7a4798f48b1",
-      "name_diff" : "",
-      "title" : "Exothermic (Overheat Remix) [SP ANOTHER]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=48&event=96",
-      "url_diff" : ""
-   },
-   {
-      "artist" : "Qyubey Vizualization : anonym / Pattern : Q_X",
-      "comment" : "ソフラン連打",
-      "level" : "3",
-      "md5" : "c1bf5f3b16f3bb300f42d134df4f8d4b",
-      "name_diff" : "",
-      "title" : "Evanescence [Moonlight]",
-      "url" : "http://k-bms.com/party_pabat/party2018.jsp?board_num=18&num=46&order=reg&odtype=a",
       "url_diff" : ""
    },
    {
@@ -3390,6 +3270,16 @@
       "url_diff" : ""
    },
    {
+      "artist" : "uet obj:rat",
+      "comment" : "ソフラン後半難",
+      "level" : "23",
+      "md5" : "c94b9e88f89ce3cbab0e18c81df2b523",
+      "name_diff" : "",
+      "title" : "Deadly Encounter : Jabberwock [SP ANOTHER]",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "artist" : "RainDrops OBJ:*RYU*",
       "comment" : "停止",
       "level" : "12",
@@ -3540,6 +3430,16 @@
       "url_diff" : "http://rattoto10.blog.fc2.com/blog-entry-2.html"
    },
    {
+      "artist" : "obj:NASA bms:暮狛 / mov:くわぎう",
+      "comment" : "ギミック",
+      "level" : "12",
+      "md5" : "d2023e8b20df810b5f4e8e841a4d598c",
+      "name_diff" : "",
+      "title" : "【Freak《Show】Down》 [Car(toon] Works)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=166&event=123",
+      "url_diff" : ""
+   },
+   {
       "artist" : "keyc",
       "comment" : "無理縦連",
       "level" : "26",
@@ -3560,19 +3460,19 @@
       "url_diff" : ""
    },
    {
-      "artist" : "珊瑚と海月",
-      "comment" : "ギミック",
-      "level" : "11",
-      "md5" : "d411f91e63598f7f0558e116bba96171",
+      "artist" : "M.H",
+      "comment" : "★★5",
+      "level" : "31",
+      "md5" : "d3468d02f926501c2724520774091c9f",
       "name_diff" : "",
-      "title" : "パブロペトリの泡影 -海底の記憶-",
-      "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/29/",
+      "title" : "★★5mix",
+      "url" : "https://onedrive.live.com/?authkey=%21AJ17ys92CLtaMXU&id=F96A04961A81D0E1%21105&cid=F96A04961A81D0E1",
       "url_diff" : ""
    },
    {
       "artist" : "wa. remixed celas BGA:TOHRU MiTSUHASHi",
       "comment" : "皿",
-      "level" : "20",
+      "level" : "22",
       "md5" : "d4365714bafd9cbf8aa3a6d9f2c26f52",
       "name_diff" : "JEYSON",
       "title" : "銀の風 [FRIDAY]",
@@ -3648,16 +3548,6 @@
       "title" : "Sphagnum squarrosum -Polluted-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=62",
       "url_diff" : "http://leucine.web.fc2.com/"
-   },
-   {
-      "artist" : "Is-m BGA:140/fth",
-      "comment" : "特殊系ギミック",
-      "level" : "23",
-      "md5" : "d87f1b2a7436a13b4203c8269a5ce82a",
-      "name_diff" : "東京243",
-      "title" : "reflective moment -新宿-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=119&event=110",
-      "url_diff" : "http://rattoto10.blog.fc2.com/blog-entry-3.html"
    },
    {
       "artist" : "er",
@@ -3800,6 +3690,16 @@
       "url_diff" : ""
    },
    {
+      "artist" : "utubo",
+      "comment" : "ソフランと配置難",
+      "level" : "18",
+      "md5" : "e36992529f68da6ef63e34b0045fc279",
+      "name_diff" : "翠廻 vs NASA",
+      "title" : "deg w∧v chu doc [s∧N check]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=204&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02717"
+   },
+   {
       "artist" : "siqlo feat. Norico BGA:nokir / obj:DJ.END",
       "comment" : "低トータルソフラン",
       "level" : "17",
@@ -3838,16 +3738,6 @@
       "title" : "DELTA BARYON [WIRED ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=54&event=115",
       "url_diff" : ""
-   },
-   {
-      "artist" : "ROKINA Illust:出前",
-      "comment" : "速い軸",
-      "level" : "26",
-      "md5" : "e8c1ac386359900585ed2aadf13fd2ff",
-      "name_diff" : "JGh",
-      "title" : "Icicle Stinger (oдo)",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=100",
-      "url_diff" : "http://www.mediafire.com/?b9vwi6widmomh58"
    },
    {
       "artist" : "eye burn Reading: 冬乃桜",
@@ -3917,6 +3807,16 @@
       "name_diff" : "",
       "title" : "Radicality [Hyper]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=402&event=116",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "其方の願いを叶えるもの / 記憶の果ての太古からありしもの",
+      "comment" : "ラス殺し",
+      "level" : "29",
+      "md5" : "ef0506b20dc1d0ca09a58b3a0ab05198",
+      "name_diff" : "",
+      "title" : "zbljojlv",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=329&event=123",
       "url_diff" : ""
    },
    {
@@ -4080,16 +3980,6 @@
       "url_diff" : "http://rattoto10.blog.fc2.com/blog-entry-3.html"
    },
    {
-      "artist" : "TOMA",
-      "comment" : "連打",
-      "level" : "25",
-      "md5" : "f67888570855a65214e098d65f32b43e",
-      "name_diff" : "1/8",
-      "title" : "パペットガール -Lunatic-",
-      "url" : "https://onedrive.live.com/?cid=F61C1F8825F0CF46&id=F61C1F8825F0CF46%21159",
-      "url_diff" : "http://oneeighth.web.fc2.com/"
-   },
-   {
       "artist" : "genesik / Roaring Flame",
       "comment" : "ソフラン",
       "level" : "9",
@@ -4198,6 +4088,16 @@
       "title" : "Showguts (又吉)",
       "url" : "https://web.archive.org/web/20160614094331/http://ninjaactionteam.sakura.ne.jp/sakuhin_bms.html",
       "url_diff" : "http://nick.xxxxxxxx.jp/"
+   },
+   {
+      "artist" : "D",
+      "comment" : "連打",
+      "level" : "27",
+      "md5" : "ff5ea123f7d90cd220ceb2e1b7e295fb",
+      "name_diff" : "",
+      "title" : "MANIERA (FOOLISH)",
+      "url" : "http://wayback.archive.org/web/20151116234018fw_/http://abeyuta27272.sakura.ne.jp/bms.html",
+      "url_diff" : ""
    },
    {
       "artist" : "taqumi / BGA:highluin / Illust:七曲じゃん",

@@ -1,5 +1,355 @@
 {
+   "course" : [
+      [
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "d155cc5be3a35f53ac6bbd3a588f00e2",
+               "dde1bd845591afa33c1d235f4a702cb9",
+               "defa193c90328e6fe6662196884267f6",
+               "e112521611d1443c5f2601e4248bc989"
+            ],
+            "name" : "オマージュBMS段位認定（仮）初段",
+            "trophy" : [
+               {
+                  "missrate" : 7.5,
+                  "name" : "bronzemedal",
+                  "scorerate" : 0
+               },
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "cc2f42d7dde2e37e77b509eb83599fa9",
+               "f9d6288482cbe569dfa6e21cd091aab7",
+               "b6af3b6d99ac4d76f60a283b4dc1d548",
+               "d8341212ce3c05755c8760d297cc74be"
+            ],
+            "name" : "オマージュBMS段位認定（仮）二段",
+            "trophy" : [
+               {
+                  "missrate" : 7.5,
+                  "name" : "bronzemedal",
+                  "scorerate" : 0
+               },
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "a48767247e3f4282be36a6773153bc27",
+               "75353d95984f1a45008f0073c52209f6",
+               "7f0cadf9ae84b689c2c8da34fb8822a4",
+               "87bd90446b01fc344f6e17e38e5312ab"
+            ],
+            "name" : "オマージュBMS段位認定（仮）三段",
+            "trophy" : [
+               {
+                  "missrate" : 7.5,
+                  "name" : "bronzemedal",
+                  "scorerate" : 0
+               },
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "54e825934d4e75a13b4966f95332f6c5",
+               "53469460897e5a31cdbe10b08bb18a6a",
+               "97e192275ca1f8295caf2d7db8145049",
+               "df5cb22e33e972bbc06f1d310692c2bb"
+            ],
+            "name" : "オマージュBMS段位認定（仮）四段",
+            "trophy" : [
+               {
+                  "missrate" : 7.5,
+                  "name" : "bronzemedal",
+                  "scorerate" : 0
+               },
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "d489a65981d5866fb88d5d88cea6e02c",
+               "7840088a8bc9ce7615db152726cb25c2",
+               "5c244a8a0cf320ba641b9a89c0d4a247",
+               "8eb47afe4049e880b6960e481538c214"
+            ],
+            "name" : "オマージュBMS段位認定（仮）五段",
+            "trophy" : [
+               {
+                  "missrate" : 7.5,
+                  "name" : "bronzemedal",
+                  "scorerate" : 0
+               },
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "dc170d1fa980f7cb741d9b4f9c523fa4",
+               "b92ac48ea18ce31a6b5d0e9265b97c35",
+               "9f675b2c27c20c67328e2b6d96a6e3d1",
+               "1b4b76ca46cf589a8469662ccac78fe6"
+            ],
+            "name" : "オマージュBMS段位認定（仮）六段",
+            "trophy" : [
+               {
+                  "missrate" : 7.5,
+                  "name" : "bronzemedal",
+                  "scorerate" : 0
+               },
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "97edb5c7b58d13bdd34d2d30a488246e",
+               "be30b4d5fbcff00649ba40f56c696cf7",
+               "0b463b53ca832a491a58c15d50d1f805",
+               "6dce57b4ff3ccb17cd6dc591c2ecfba2"
+            ],
+            "name" : "オマージュBMS段位認定（仮）七段",
+            "trophy" : [
+               {
+                  "missrate" : 7.5,
+                  "name" : "bronzemedal",
+                  "scorerate" : 0
+               },
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "edc2f4466abdfbcc3930e65d2148bdd6",
+               "3942c1fa1a8d2c35e323ba8b5bbc81a8",
+               "a58ce512cfddb9a278e6393562fa8176",
+               "656b2c1ee09970e9c85be27bf38eb931"
+            ],
+            "name" : "オマージュBMS段位認定（仮）八段",
+            "trophy" : [
+               {
+                  "missrate" : 7.5,
+                  "name" : "bronzemedal",
+                  "scorerate" : 0
+               },
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "bd83205795ba760f2e7fadd72c8d77b4",
+               "b2625b7ab013c02236cbe67fc0c643a9",
+               "84f2120fc206686dfc62bc66a247b357",
+               "0faf4b49a2df979e8c79b461de69c0fc"
+            ],
+            "name" : "オマージュBMS段位認定（仮）九段",
+            "trophy" : [
+               {
+                  "missrate" : 7.5,
+                  "name" : "bronzemedal",
+                  "scorerate" : 0
+               },
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "4be8fa8be648efd80c0e492fc7406562",
+               "ffd04d9f27f004b1145060abefdcc2e2",
+               "19cf48e4b28ea36e99620a8d49f1a2eb",
+               "c30af6acf0b841694baac02293de95d1"
+            ],
+            "name" : "オマージュBMS段位認定（仮）十段",
+            "trophy" : [
+               {
+                  "missrate" : 7.5,
+                  "name" : "bronzemedal",
+                  "scorerate" : 0
+               },
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2"
+            ],
+            "md5" : [
+               "265df479e229c4883713585d597e3937",
+               "dd4cbd32b19e2629d7cd1dad61750aea",
+               "1493561db49fc93ac0be36ee6da773b5",
+               "298dfc72c6e9bbaabc047576f1e1579d"
+            ],
+            "name" : "オマージュBMS段位認定（仮）皆伝",
+            "trophy" : [
+               {
+                  "missrate" : 7.5,
+                  "name" : "bronzemedal",
+                  "scorerate" : 0
+               },
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         }
+      ]
+   ],
    "data_url" : "data.json",
+   "level_order" : [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "?"
+   ],
    "name" : "オマージュBMS難易度表",
    "original_url" : "http://iidxtool.kasacontent.com/homage/table.php",
    "symbol" : "∽"

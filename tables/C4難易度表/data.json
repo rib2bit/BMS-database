@@ -5,14 +5,25 @@
       "level" : "-2",
       "lr2_bmsid" : 238803,
       "md5" : "01f4fe77b555ffb70c30f1b5cd98044b",
-      "name_diff" : "",
+      "name_diff" : "同梱譜面",
       "title" : "V804N [SP NORMAL]",
       "url" : "http://www.mediafire.com/file/18wnwxx50a83drz/V804N.zip",
       "url_diff" : ""
    },
    {
+      "artist" : "qfeileadh",
+      "comment" : "ズレ譜面主体,ちょっとガチ押し",
+      "level" : "25",
+      "lr2_bmsid" : 271579,
+      "md5" : "0778b9e2cd606daab91314b314066733",
+      "name_diff" : "同梱譜面",
+      "title" : "whither [douvenonsnousquesommesnousouallonsnous]",
+      "url" : "https://k-bms.com/party_pabat/party2019.jsp?board_num=19&num=59&order=reg&odtype=a",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Team:SASAKURATION",
-      "comment" : "中速乱打",
+      "comment" : "中速乱打,satellite sl6",
       "level" : "10",
       "lr2_bmsid" : 264223,
       "md5" : "0a17d3157cec38aa5e02a00fea432e6c",
@@ -71,7 +82,7 @@
       "level" : "9",
       "lr2_bmsid" : 266385,
       "md5" : "1681407e8d4714b29932a8df84c1c0f3",
-      "name_diff" : "",
+      "name_diff" : "同梱譜面",
       "title" : "baryon [しよも]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=79&event=123",
       "url_diff" : ""
@@ -90,7 +101,7 @@
    {
       "artist" : "scytheleg",
       "comment" : "12分ガチ押し",
-      "level" : "19",
+      "level" : "20",
       "lr2_bmsid" : 271667,
       "md5" : "1a88dbaab087f59f7526ee9502ff04da",
       "name_diff" : "差分",
@@ -108,6 +119,17 @@
       "title" : "Revenger [7retuned]",
       "url" : "http://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02206"
+   },
+   {
+      "artist" : "uet",
+      "comment" : "高速乱打,LN,☆10相当",
+      "level" : "-1",
+      "lr2_bmsid" : 272029,
+      "md5" : "1ff98700eb7c5e6ddf2ae010f2310c94",
+      "name_diff" : "同梱譜面",
+      "title" : "Anarchist [SP HYPER]",
+      "url" : "http://beatmaniauet.sakura.ne.jp/BMS/uet_Anarchist_ogg.zip",
+      "url_diff" : ""
    },
    {
       "artist" : "sa10",
@@ -137,7 +159,7 @@
       "level" : "99",
       "lr2_bmsid" : 267094,
       "md5" : "27c9d9cedf2c3a287f24c412841c6f9c",
-      "name_diff" : "",
+      "name_diff" : "同梱譜面",
       "title" : "自由電子レーザー [KATAMARI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=195&event=123",
       "url_diff" : ""
@@ -192,7 +214,7 @@
       "level" : "1",
       "lr2_bmsid" : 268429,
       "md5" : "38fec065ecdd091c073d5e9d3855196e",
-      "name_diff" : "",
+      "name_diff" : "同梱譜面",
       "title" : "サカサマの空に在ったのは [SP INSANE]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=123",
       "url_diff" : ""
@@ -209,6 +231,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01907"
    },
    {
+      "artist" : "uet",
+      "comment" : "高速乱打,ズレ押し,LN",
+      "level" : "20",
+      "lr2_bmsid" : 272027,
+      "md5" : "3d052fad63621775580e943c97fb3d25",
+      "name_diff" : "同梱譜面(C4 + rat)",
+      "title" : "Anarchist [Libertarian]",
+      "url" : "http://beatmaniauet.sakura.ne.jp/BMS/uet_Anarchist_ogg.zip",
+      "url_diff" : ""
+   },
+   {
       "artist" : "69 de 74",
       "comment" : "総合力",
       "level" : "15",
@@ -220,12 +253,23 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02813"
    },
    {
+      "artist" : "Reku Mochizuki",
+      "comment" : "同時押し,乱打",
+      "level" : "4",
+      "lr2_bmsid" : 272094,
+      "md5" : "419723373edcfa46b8437a45226fbcc1",
+      "name_diff" : "差分(C4 vs selene.)",
+      "title" : "Phynalvent [offensive]",
+      "url" : "https://k-bms.com/party_pabat/party2019.jsp?board_num=19&num=1&order=reg&odtype=a",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02869"
+   },
+   {
       "artist" : "II-L",
       "comment" : "LN,低速,微縦連,癖サブ¿¡19",
       "level" : "14",
       "lr2_bmsid" : 238801,
       "md5" : "45c888c25e26aa338cb3215e4ff0b94a",
-      "name_diff" : "",
+      "name_diff" : "同梱譜面",
       "title" : "V804N [SP ANOTHER]",
       "url" : "http://www.mediafire.com/file/18wnwxx50a83drz/V804N.zip",
       "url_diff" : ""
@@ -242,7 +286,7 @@
    },
    {
       "artist" : "kurenaissance",
-      "comment" : "皿複合,前半難気味",
+      "comment" : "皿複合,前半難気味,satellite sl5",
       "level" : "8",
       "lr2_bmsid" : 263592,
       "md5" : "499020bcbac1e7ad0e728b9ddb281f9c",
@@ -287,7 +331,7 @@
    {
       "artist" : "wigen",
       "comment" : "同時押し,乱打,ラス殺し",
-      "level" : "10",
+      "level" : "9",
       "lr2_bmsid" : 271584,
       "md5" : "53e731c94d944142fd59dea998ea9a13",
       "name_diff" : "差分",
@@ -351,12 +395,23 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02119"
    },
    {
+      "artist" : "uet",
+      "comment" : "高速乱打,ズレ押し,LN,satellite sl7",
+      "level" : "11",
+      "lr2_bmsid" : 272026,
+      "md5" : "59b73736f163c916d6dcd6657e5ea866",
+      "name_diff" : "同梱譜面(rat + C4)",
+      "title" : "Anarchist [Autonomism]",
+      "url" : "http://beatmaniauet.sakura.ne.jp/BMS/uet_Anarchist_ogg.zip",
+      "url_diff" : ""
+   },
+   {
       "artist" : "暮狛 (movie : くわぎう)",
       "comment" : "物量,前半難,高速乱打,高TOTAL,ランダム分岐",
       "level" : "15",
       "lr2_bmsid" : 266801,
       "md5" : "59cecd5ff719d4dbff1d5db7896073f8",
-      "name_diff" : "",
+      "name_diff" : "同梱譜面",
       "title" : "【Freak《Show】Down》 [The Late Late Show]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=166&event=123",
       "url_diff" : ""
@@ -397,7 +452,7 @@
    {
       "artist" : "3034 Anomie",
       "comment" : "高速,加速,停止",
-      "level" : "4",
+      "level" : "5",
       "lr2_bmsid" : 271053,
       "md5" : "6443d7230d6b9768e6135f5865d1516c",
       "name_diff" : "差分",
@@ -433,7 +488,7 @@
       "level" : "8",
       "lr2_bmsid" : 269412,
       "md5" : "6dd348ede4553976e3a9c5be497eae5f",
-      "name_diff" : "",
+      "name_diff" : "同梱譜面",
       "title" : "帝都の夜 -Battle on Night City Highway- [SP ANOTHER]",
       "url" : "https://venue.bmssearch.net/ippaitukuru2019",
       "url_diff" : ""
@@ -487,7 +542,7 @@
       "level" : "16",
       "lr2_bmsid" : 267304,
       "md5" : "7da9469313e7d12e8ef54f2c101e181b",
-      "name_diff" : "",
+      "name_diff" : "同梱譜面",
       "title" : "Halo [C4-Initial]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=251&event=123",
       "url_diff" : ""
@@ -520,7 +575,7 @@
       "level" : "16",
       "lr2_bmsid" : 257663,
       "md5" : "8911975294266ce82d78346896ecfa3e",
-      "name_diff" : "",
+      "name_diff" : "同梱譜面",
       "title" : "カリオストロの穿孔 [KHRYSOS]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=310&event=116",
       "url_diff" : ""
@@ -535,6 +590,17 @@
       "title" : "Plastic Mind [Sppa]",
       "url" : "http://onedrive.live.com/?cid=FC95A680740CA8C9&id=FC95A680740CA8C9%21201",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02121"
+   },
+   {
+      "artist" : "sasakure.UK",
+      "comment" : "HARD判定,縦連,ratさんの譜面リスペクト",
+      "level" : "16",
+      "lr2_bmsid" : 271809,
+      "md5" : "90cf554c8ce99821b78548cae1eda0d3",
+      "name_diff" : "差分(C4 + 颯)",
+      "title" : "Merry Christmas Mr.rat",
+      "url" : "https://drive.google.com/open?id=0B7qCw4hNijr4M3NXZWNhQTFCOFU",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02845"
    },
    {
       "artist" : "er",
@@ -604,11 +670,11 @@
    },
    {
       "artist" : "qfeileadh feat. レゾナンスもえこ",
-      "comment" : "中速乱打,高速乱打,ガチ押し,やや低TOTAL,第2発狂難易度▼24,stella st3",
+      "comment" : "中速乱打,高速乱打,ガチ押し,低TOTAL(0.13%),第2発狂難易度▼24,stella st3",
       "level" : "24",
       "lr2_bmsid" : 268485,
       "md5" : "a2284b403d90fdf8c055dab688838079",
-      "name_diff" : "",
+      "name_diff" : "同梱譜面",
       "title" : "サカサマの空に在ったのは [SP PUDDLE]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=123",
       "url_diff" : ""
@@ -637,11 +703,11 @@
    },
    {
       "artist" : "qfeileadh feat. レゾナンスもえこ",
-      "comment" : "中速乱打,高速乱打,微縦連,第2発狂難易度▼15,satellite sl10",
-      "level" : "17",
+      "comment" : "中速乱打,高速乱打,微縦連,第2発狂難易度▼16,satellite sl10",
+      "level" : "16",
       "lr2_bmsid" : 268293,
       "md5" : "a9e52da28747098fcc9f9a72a14b8a32",
-      "name_diff" : "",
+      "name_diff" : "同梱譜面",
       "title" : "サカサマの空に在ったのは [SP XANADU]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=123",
       "url_diff" : ""
@@ -714,7 +780,7 @@
    },
    {
       "artist" : "ZUN/arr.みょん",
-      "comment" : "微縦連,物量",
+      "comment" : "微縦連,物量,stella st8",
       "level" : "25",
       "lr2_bmsid" : 263356,
       "md5" : "bbfb7717ccb42799b8d78bbab877d292",
@@ -751,9 +817,20 @@
       "level" : "0",
       "lr2_bmsid" : 238799,
       "md5" : "bf643c4c34252d4dce1a735411c03aef",
-      "name_diff" : "",
+      "name_diff" : "同梱譜面",
       "title" : "V804N [SP HYPER]",
       "url" : "http://www.mediafire.com/file/18wnwxx50a83drz/V804N.zip",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "uet",
+      "comment" : "高速乱打,LN,ズレ押し,後半難,高TOTAL(0.39%)",
+      "level" : "3",
+      "lr2_bmsid" : 272030,
+      "md5" : "c07d669cbae53d14c80fe46d2beb28fd",
+      "name_diff" : "同梱譜面",
+      "title" : "Anarchist [SP ANOTHER]",
+      "url" : "http://beatmaniauet.sakura.ne.jp/BMS/uet_Anarchist_ogg.zip",
       "url_diff" : ""
    },
    {
@@ -773,7 +850,7 @@
       "level" : "5",
       "lr2_bmsid" : 268275,
       "md5" : "c5bff76d669d76fd6da4680f495c9125",
-      "name_diff" : "",
+      "name_diff" : "同梱譜面",
       "title" : "Rise To Fall (Original Mix) [しよふ]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=114&event=123",
       "url_diff" : ""
@@ -861,7 +938,7 @@
       "level" : "-2",
       "lr2_bmsid" : 267591,
       "md5" : "d66c16867a0369449af104515a2f9c5d",
-      "name_diff" : "",
+      "name_diff" : "同梱譜面",
       "title" : "Matterinic [SP HYPER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=203&event=123",
       "url_diff" : ""
@@ -887,6 +964,17 @@
       "title" : "Gun to Childhead [determine]",
       "url" : "http://atsp.bms.ms/",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01872"
+   },
+   {
+      "artist" : "uet",
+      "comment" : "交互押し,LN,☆6相当",
+      "level" : "-3",
+      "lr2_bmsid" : 272028,
+      "md5" : "e563190551f031b7196b4f90d8193130",
+      "name_diff" : "同梱譜面",
+      "title" : "Anarchist [SP NORMAL]",
+      "url" : "http://beatmaniauet.sakura.ne.jp/BMS/uet_Anarchist_ogg.zip",
+      "url_diff" : ""
    },
    {
       "artist" : "ZUN/arr.みょん",
@@ -993,7 +1081,7 @@
       "level" : "-4",
       "lr2_bmsid" : 268251,
       "md5" : "f64de31e9e7abdb3ab0b2e18a4924070",
-      "name_diff" : "",
+      "name_diff" : "同梱譜面",
       "title" : "サカサマの空に在ったのは [SP BEGINNER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=123",
       "url_diff" : ""
@@ -1059,7 +1147,7 @@
       "level" : "4",
       "lr2_bmsid" : 267593,
       "md5" : "fbf37719423b029bebd3475b81889f9d",
-      "name_diff" : "",
+      "name_diff" : "同梱譜面",
       "title" : "Matterinic [SP ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=203&event=123",
       "url_diff" : ""
