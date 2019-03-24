@@ -7681,7 +7681,7 @@
    {
       "artist" : "STPstate *FLIP",
       "comment" : "Simple Trance",
-      "level" : "1",
+      "level" : "2",
       "md5" : "30c9a4a820af518861761dc89dcbd4e0",
       "title" : "Alpha-Centauri [Another]"
    },
@@ -30821,7 +30821,7 @@
       "title" : "Electro Wanderer [Another14]"
    },
    {
-      "artist" : "Professor S obj:ucc *LR.MIRROR",
+      "artist" : "Professor S obj:ucc *L.MIR or LR.MIR",
       "comment" : "TEKNO",
       "level" : "★4",
       "md5" : "c14519724728826c93dfd2256f9faaee",
