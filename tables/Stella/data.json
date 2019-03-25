@@ -41,7 +41,7 @@
    {
       "artist" : "HOUJIROU obj:Omino",
       "comment" : "st7~8?",
-      "level" : "8",
+      "level" : "9",
       "md5" : "02580b5c353eac65db38470fee32bd4f",
       "proposer" : "こめっと",
       "sha256" : "09ca3c2b352dda20162fcff0f1557ee6c3d1cca69ac104974442d9ac1a2e8249",
@@ -234,6 +234,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/"
    },
    {
+      "artist" : "美樹さやか vs. 美樹さやか (fw. 美樹さやか) BGA ： 美樹さやか",
+      "comment" : "物量",
+      "level" : "1",
+      "md5" : "093528a97ffd1b755a9ffbe8a483c218",
+      "proposer" : "airisu",
+      "sha256" : "3928078cba47cb2cfcf759b7cb9ea687861981f274d2bf1a6a3dafd412840b07",
+      "submission" : 897,
+      "title" : "squartatrice",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=99&event=74",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02819"
+   },
+   {
       "artist" : "Ester obj:sharo mov : mi",
       "comment" : "総合譜面",
       "level" : "4",
@@ -293,6 +305,18 @@
       "title" : "NS18 [Plus]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=61",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00440"
+   },
+   {
+      "artist" : "SOMON obj.hex",
+      "comment" : "st5~6 total+",
+      "level" : "6",
+      "md5" : "0c5a038e9fedb4c799051da04b3925d0",
+      "proposer" : "qtp13",
+      "sha256" : "84f76ee231e66c57808e10e87b2b0fd89400616365dbe8f9e494e90c1b28c8bc",
+      "submission" : 898,
+      "title" : "-雪月花- [Hexagon]",
+      "url" : "https://venue.bmssearch.net/ippaitukuru2019/51",
+      "url_diff" : "https://dl.dropboxusercontent.com/s/xwiu3epmae5el0t/%E2%98%85%E2%98%855%20-%E9%9B%AA%E6%9C%88%E8%8A%B1-%20%5BHexagon%5D.zip"
    },
    {
       "artist" : "ROKINA/obj:仙人掌の人",
@@ -573,6 +597,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/"
    },
    {
+      "artist" : "azu / po",
+      "comment" : "st7 downgrade",
+      "level" : "3",
+      "md5" : "1570202b5ea4c4d2fcd0d85185a095e9",
+      "proposer" : "LUXURY♪",
+      "sha256" : "565bf7d3b8dcf71f1cfcdde30d6a9ac00e93da9bd734c1b6e11c7acae504b2b5",
+      "submission" : 883,
+      "title" : "Alicia Story [po]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=71",
+      "url_diff" : "http://rareheror.web.fc2.com/po.html"
+   },
+   {
       "artist" : "guna / obj. laner",
       "comment" : "kachifushi",
       "level" : "4",
@@ -795,6 +831,18 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up4834.zip"
    },
    {
+      "artist" : "Is-m // あまね（COOL&CREATE） BGA:sveki hamalu / obj.hex",
+      "comment" : "Pentagon upgrade",
+      "level" : "4",
+      "md5" : "1b1b4ccac295b1369af50edc300d0042",
+      "proposer" : "LUXURY♪",
+      "sha256" : "639cba0ea725cf26d8befc39ed9ffd9527b6f5300dc02265f89e03e324f1c958",
+      "submission" : 896,
+      "title" : "虹夜パレッド [Hexagon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=388&event=123",
+      "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html"
+   },
+   {
       "artist" : "削除 / selene.",
       "comment" : "ディレイ",
       "level" : "7",
@@ -877,6 +925,18 @@
       "title" : "Chronomia [Ecstacy]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=550&event=110",
       "url_diff" : "http://onmacodayo.web.fc2.com/ondajoy.html"
+   },
+   {
+      "artist" : "2X obj.hex",
+      "comment" : "手動ディレイ",
+      "level" : "3",
+      "md5" : "201d63bb3bb44abd0e71d251574e3c0d",
+      "proposer" : "スノート",
+      "sha256" : "41098e9325e3040c7f0249e8e75b30ce560615345833e747219dde422dcb62c5",
+      "submission" : 756,
+      "title" : "TENTEN",
+      "url" : "http://dl.dropbox.com/s/esdofbda23knp9w/TEN.zip?dl=1",
+      "url_diff" : "https://dl.dropboxusercontent.com/s/brslnt79i94r89w/tententen.zip"
    },
    {
       "artist" : "wa. / 百舌谷 obj:Omino",
@@ -2493,6 +2553,18 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up4358.zip"
    },
    {
+      "artist" : "じぽたん MIDI : 猫姫 差分:わふわふ",
+      "comment" : "連打複合、ディレイ",
+      "level" : "6",
+      "md5" : "4c75dba922510d566b65005480678041",
+      "proposer" : "BAECON",
+      "sha256" : "49b31efb11478995eac0cfff17d0b875acd901c40284781b34e691b1f30a77b4",
+      "submission" : 905,
+      "title" : "ピアノ連弾的「You」～ひぐらしのなく頃に～ [雛見沢大災害]",
+      "url" : "http://right-stick.sub.jp/",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02759"
+   },
+   {
       "artist" : "ルゼ obj : BAECON vs Lapis",
       "comment" : "皿絡み微連打物量",
       "level" : "4",
@@ -2627,6 +2699,18 @@
       "url_diff" : "https://www.dropbox.com/s/qahirn7hrznofjg/Cosmogazer_%20cluster%20of%20galaxies.zip?dl=0"
    },
    {
+      "artist" : "削除 feat. Nikki Simmons / obj:七海千秋 Movie:Radiosity&yoshimo",
+      "comment" : "BEAM",
+      "level" : "1",
+      "md5" : "508caa088da8d50603cfe1389585b0af",
+      "proposer" : "MineC24",
+      "sha256" : "a4515925232199c7d19df35fd5c3795ad7f8f06574e2acbf06b5d2d10cc3f504",
+      "submission" : 841,
+      "title" : "Destr0yer -Last Song-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=123",
+      "url_diff" : "https://www.dropbox.com/s/5j4b3rf051derut/7nanami02.bml?dl=0"
+   },
+   {
       "artist" : "Linne X SCTL / obj;N Visualized by Keiyuu & RED-FOX",
       "comment" : "ガチ押し",
       "level" : "9",
@@ -2651,6 +2735,18 @@
       "title" : "TURNDOWN [Hexagon]",
       "url" : "https://dropbox.bms.ms/u/63612044/TURNDOWN_bms.rar",
       "url_diff" : "http://bms.hexlataia.xyz/"
+   },
+   {
+      "artist" : "Sakamiya obj.hex",
+      "comment" : "高速物量",
+      "level" : "7",
+      "md5" : "5267eb8a7dde7bced341bd0e261d4008",
+      "proposer" : "airisu",
+      "sha256" : "cacb2f6d8087a7aab9a9d6d15c2cd0ceee71e8dcc8505e1b5e1c57f98fb19554",
+      "submission" : 909,
+      "title" : "Valkyrie Revolutia [Super Hexagon]",
+      "url" : "https://dl.dropboxusercontent.com/s/089dnr0szei2z7d/ValkyrieRevolutia_sakamiya.zip",
+      "url_diff" : "https://dl.dropboxusercontent.com/s/hxi8nsfh9oq68gd/%E2%98%85%E2%98%852%20%E2%98%85%E2%98%855%20Valkyrie%20Revolutia%20%5BHexagon%5D%20%2B%20%5BSuper%20Hexagon%5D.zip"
    },
    {
       "artist" : "マピ子 obj.hex",
@@ -2969,6 +3065,17 @@
       "title" : "Chronomia [Presea]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=550&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00542"
+   },
+   {
+      "artist" : "orangentle / deadblue238 / obj:夢瑠",
+      "level" : "0",
+      "md5" : "5f4eac4c5f1db4e86b43f846bf6476f4",
+      "proposer" : "椒図",
+      "sha256" : "5b77463826247ec3c23dc62712204cdae52ba7ef6611908b1993227fad4249bc",
+      "submission" : 894,
+      "title" : "HAELEQUIN -aletheia-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=389&event=83",
+      "url_diff" : "http://yumerusabun.web.fc2.com/nue.html"
    },
    {
       "artist" : "NIKITA / Optie / O",
@@ -3323,6 +3430,18 @@
       "title" : "Dstorv [Other]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=212&event=96",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00559"
+   },
+   {
+      "artist" : "sun3 vs EXCALIpUR / BGA:Johnny obj.Infinite Melodia(OXYGEN)",
+      "comment" : "皿複合多め",
+      "level" : "0",
+      "md5" : "6b6c179da64c4b5d9b321bffc7f25c20",
+      "proposer" : "OXYGEN",
+      "sha256" : "85ec546af3540201458461c66a97ae9396291762f07c0d73072fff323ca08363",
+      "submission" : 900,
+      "title" : "Cross breed -Frozen Blaze-",
+      "url" : "https://mega.nz/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA",
+      "url_diff" : "https://drive.google.com/drive/folders/0B4chFHpe-ae4UG9zMDlwcGZiM0U"
    },
    {
       "artist" : "髭姫 feat.しゆ＆橘花音＆えみゅう。 LYRICS：やんばるん BGA：髭姫 Arr.Milk_tya obj：BAECON",
@@ -3939,7 +4058,7 @@
    {
       "artist" : "フロン / ラズベリル / obj : lemon_aided",
       "comment" : "MARATHON",
-      "level" : "7",
+      "level" : "6",
       "md5" : "819a5580904dc0146995b52f12619517",
       "proposer" : "LUXURY♪",
       "sha256" : "1354b2dfec453ef1dd472f16a67a5a5af51fdb624f3b7d7dd08cec535701ee09",
@@ -4420,6 +4539,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00985"
    },
    {
+      "artist" : "maki / obj.hplaner",
+      "comment" : "subconsciousness -KILL-",
+      "level" : "0",
+      "md5" : "8ee7fc1c67826e7437e07b5e1f92d601",
+      "proposer" : "ZEUS",
+      "sha256" : "3bee85623dc80cfc401c8b94939e19ed7155abf0692dca901eedf5579b682cba",
+      "submission" : 300,
+      "title" : "stairway to the universe [laner]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=50&event=96",
+      "url_diff" : "http://www.hyper-laner.com/sabun/sttu_7l.bme"
+   },
+   {
       "artist" : "哀愁マニア",
       "comment" : "★★5",
       "level" : "8",
@@ -4801,6 +4932,18 @@
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up2202.zip"
    },
    {
+      "artist" : "Ice Plumes obj.hex",
+      "comment" : "wow",
+      "level" : "1",
+      "md5" : "9dbe683eadf8d92a525bab680b0b4228",
+      "proposer" : "qtp13",
+      "sha256" : "804c8962493e5d7531f1d0791784499b4bf4587583cc6eb4ab1251d0f69255aa",
+      "submission" : 890,
+      "title" : "壊廊 [Pentagon]",
+      "url" : "https://venue.bmssearch.net/ippaitukuru2019",
+      "url_diff" : "https://dl.dropboxusercontent.com/s/uazhoqec0i9vc50/%E2%98%85%E2%98%851%20%E2%98%85%E2%98%853%20%E5%A3%8A%E5%BB%8A%20%5BPentagon%5D%20%5BHexagon%5D.zip"
+   },
+   {
       "artist" : "ああああ [Lyrics：あゆむ]  [Vocal：seaside-metro]  [BGA：TOYCAT] / A",
       "comment" : "神曲",
       "level" : "1",
@@ -4898,6 +5041,18 @@
       "title" : "sola [Other]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=44&event=92",
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
+   },
+   {
+      "artist" : "しらいし / obj.siokaze",
+      "comment" : "乱打",
+      "level" : "0",
+      "md5" : "a0df14af3ed8e26892023daae2572c52",
+      "proposer" : "椒図",
+      "sha256" : "a3131589257381f186d90b3345de66fe0abc164c436c797aed61ede175a124d0",
+      "submission" : 899,
+      "title" : "硬核機動 [Maniac]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=106&event=83",
+      "url_diff" : "http://siokazebms.web.fc2.com/"
    },
    {
       "artist" : "LiA",
@@ -5269,6 +5424,18 @@
       "url_diff" : "https://ux.getuploader.com/Icyc1e_by_bms/index/date/desc/2"
    },
    {
+      "artist" : "Cres/*8284* obj:monaka",
+      "comment" : "ディレイ",
+      "level" : "0",
+      "md5" : "acb066266ebc83d9dae23f1009497fe3",
+      "proposer" : "AXION",
+      "sha256" : "84c9a5166a427f275a24fc03828cd8db70e81743e65c019e60bff26ccc81fda9",
+      "submission" : 902,
+      "title" : "End Time A⇒Side [Deadly End]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=81&event=36",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02844"
+   },
+   {
       "artist" : "m108/さ BGA : 砂糖天麩羅 / シキイチル",
       "comment" : "物量",
       "level" : "2",
@@ -5502,6 +5669,18 @@
       "url_diff" : "http://beatkim.web.fc2.com/"
    },
    {
+      "artist" : "uet (mov:いかお)",
+      "comment" : "徐々に難しくなる、高速",
+      "level" : "0",
+      "md5" : "b3d5d615f66d891f2a14e11fbe306297",
+      "proposer" : "スノート",
+      "sha256" : "ade540a0a7ed238bc5b5c11939a66542f358fd3b4ec0ec5fe058f940a9c34eed",
+      "submission" : 903,
+      "title" : "Batrachotoxin -ADVANCED-",
+      "url" : "https://dropbox.bms.ms/u/60346274/bms/yadoku_ogg.rar",
+      "url_diff" : "http://sabosabun.tank.jp/"
+   },
+   {
       "artist" : "犬 obj:ほまれ",
       "comment" : "",
       "level" : "5",
@@ -5660,18 +5839,6 @@
       "title" : "The World of Cyber [ANCIENT]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=96",
       "url_diff" : "http://l-bms.space/1st/download.html"
-   },
-   {
-      "artist" : "ZUN(Arr.sun3) / 差分　赤い人",
-      "level" : "0",
-      "md5" : "b903a2579e150c6687bbe2530a60fa80",
-      "proposer" : "LUXURY♪",
-      "proposerLr2id" : 23110,
-      "sha256" : "c0a71472cd07994e391369d061e9726ed0d3253a48ae703f141978140bb33aaa",
-      "submission" : 610,
-      "title" : "風塵少女-Wind Rush- [INFELNO]",
-      "url" : "https://onedrive.live.com/?id=578814ACC2BD5A74%21140&cid=578814ACC2BD5A74",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/windrush-INFELNO.bme"
    },
    {
       "artist" : "bj.HaLo / obj:夢瑠",
@@ -6155,6 +6322,18 @@
       "title" : "aballava (???????)",
       "url" : "http://onedrive.live.com/?cid=43C7447B3E45559B&id=43C7447B3E45559B%21105",
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
+   },
+   {
+      "artist" : "SP-# obj:C4+七海千秋",
+      "comment" : "2~3?",
+      "level" : "3",
+      "md5" : "ca490a947d45147ffea27c63f5ae1665",
+      "proposer" : "MineC24",
+      "sha256" : "951088e1b3781b60eb24a89eb8600a2068d632261a31ec945ef95a89deb30e0c",
+      "submission" : 884,
+      "title" : "corneal -Corrupted Nature-",
+      "url" : "http://nonona.iptime.org/BMS_Library/corneal%20%5bbreakcore%5d.rar",
+      "url_diff" : "https://www.dropbox.com/s/klemzsy7h0ja4nd/%5BSP%20C4%2Bnanami%5D.bms?dl=0"
    },
    {
       "artist" : "ZUN remixed by LeaF Movie:Optie",
@@ -6982,6 +7161,18 @@
       "url_diff" : "https://drive.google.com/open?id=18HTrQkH8RK4m0ReWZ5OBg2Egg0QBYjLQ"
    },
    {
+      "artist" : "Frums obj.#",
+      "comment" : "縦連複合　中盤減速無し",
+      "level" : "10",
+      "md5" : "e32d6f0baa997f091407d066d531af7b",
+      "proposer" : "otoshi.b",
+      "sha256" : "4646f8ec7adf20a05e76bf695a9c0213daef1fd7edf1bb9867af5ddbfcd8fd13",
+      "submission" : 910,
+      "title" : "theyaremanycolors [#]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=116&num=257",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02719"
+   },
+   {
       "artist" : "NS-Factory obj.hex",
       "comment" : "微連打物量",
       "level" : "4",
@@ -7137,6 +7328,18 @@
       "title" : "Modern Times -Charles Chaplin-",
       "url" : "https://drive.google.com/open?id=0B7qCw4hNijr4ZGdUUUJKMTNJZ2M",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01257"
+   },
+   {
+      "artist" : "tarolabo/さ",
+      "comment" : "st1強化版",
+      "level" : "10",
+      "md5" : "e721802b0a2eaed03f92765a081c39df",
+      "proposer" : "MineC24",
+      "sha256" : "7a56d222cb5bee48b2660fcd39cdb3398b47688c9884fbd0766dc36abf100ebf",
+      "submission" : 908,
+      "title" : "Fireball [EX]",
+      "url" : "http://ofuton.tk/tarolabo/",
+      "url_diff" : "http://sabosabun.tank.jp/"
    },
    {
       "artist" : "紅蓮月影 BGA:A-ZERO Project/obj:仙人掌の人",

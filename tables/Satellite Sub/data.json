@@ -370,7 +370,7 @@
    },
    {
       "artist" : "Aliesrite* (Ym1024 feat. lamie*) obj : BAECON",
-      "level" : "2",
+      "level" : "1",
       "md5" : "07584f43a50e661ac3f8c1319d68e3d7",
       "proposer" : "こめっと",
       "proposerLr2id" : 80964,
@@ -383,6 +383,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "tkqn14",
+      "comment" : "皿・ＬＮ",
+      "level" : "11",
+      "md5" : "076100931ea4dd6dcd3ddbc555ecee90",
+      "proposer" : "なつ",
+      "proposerLr2id" : 65517,
+      "sha256" : "738ed92616972173b824ee4d193b961170ac6dcfacfb091b90384ec87c1ee537",
+      "submission" : 879,
+      "title" : "Sugar｡ﾙBlaster",
+      "url" : "https://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=45&order=reg&odtype=a",
+      "url_diff" : ""
    },
    {
       "artist" : "Getty vs. DJ DiA BGA:わっふゑ vs. でこちんハンマー / selene.",
@@ -763,6 +776,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "吟世かいな obj: 8posai edit by qtp13",
+      "comment" : "extra-",
+      "level" : "10",
+      "md5" : "0cedbb3103940c91383b35587e35f010",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "0f260fab16f12dc5dd7fd9b121fecaad5da50ce699fc778c19e0b7ee86ab4eee",
+      "submission" : 868,
+      "title" : "Raspberry Memories [BARCADIA]",
+      "url" : "https://venue.bmssearch.net/ippaitukuru2019/39",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02721"
+   },
+   {
       "artist" : "tokiru_iwata",
       "level" : "3",
       "md5" : "0d0e24fcdf1230233a49cce31f1dae0f",
@@ -1081,6 +1107,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "ROKINA/obj:M BGA:アカツキユウ",
+      "comment" : "G2R2018、高速階段",
+      "level" : "3",
+      "md5" : "15fb3fc2ddca301ce59cc18da4814916",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "a4adaa271517c756970116405da735cf613ce0a46b34a578c5d550f9925c261d",
+      "submission" : 857,
+      "title" : "Holyvenger [Judgement]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02349"
    },
    {
       "artist" : "Silentroom × 駿 obj:Eb2",
@@ -1659,6 +1698,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "BOKKEN GREEN+PURPLE BOKKEN VIOLET / BOKKEN PRUSSIAN(obj:kaguya)",
+      "comment" : "高トータル、ズレ乱打、ノーマル判定　中盤連皿あり(ハード難?)",
+      "level" : "1",
+      "md5" : "1e81c3ea63e8761da65ac9bc2b0bca79",
+      "proposer" : "姫川友紀",
+      "proposerLr2id" : 125835,
+      "sha256" : "295e89e4d6cf5bc4949d57ff767456ba5fee463fe1dd080c549c8ec3568d5490",
+      "submission" : 877,
+      "title" : "Bの悲劇 [Kの惨劇]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=108&event=65",
+      "url_diff" : "https://bmscharteditorsgroup.wixsite.com/initialatoz"
+   },
+   {
       "artist" : "Omnipotenx /差分　赤い人",
       "comment" : "ANOTHERとBREAKERの中間的な",
       "level" : "10",
@@ -1786,6 +1838,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "HARD RENAISSAMBA MASTER 佐藤 -SATOH- obj.JoeT",
+      "comment" : "双階段 乱打 复合皿",
+      "level" : "9",
+      "md5" : "216063bc06f7c34b03e8932d54b67dce",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "e2927761b6729709475fa9cf4e5f69a8ca3befcd8e7a50c65305542004a4f3b7",
+      "submission" : 870,
+      "title" : "ハードルネッサンバ [ANOTHER BOSS]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=409&event=104",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02875"
    },
    {
       "artist" : "zun/さ",
@@ -1917,6 +1982,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "うまるつふり obj.sitoras",
+      "comment" : "高速総合力",
+      "level" : "11",
+      "md5" : "25fa6f793b02c300e1430864903fbb0b",
+      "proposer" : "selene.",
+      "proposerLr2id" : 84521,
+      "sha256" : "2ff3e617140ce02a332186870403cd788f6ed2f677ececc1e9dc645f08ab1ac2",
+      "submission" : 859,
+      "title" : "天海原～あまみはら～ 【天穹】",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02782"
+   },
+   {
       "artist" : "S.S.H / utakichi / obj:sarada BGA:HAYA",
       "comment" : "fast",
       "level" : "10",
@@ -1932,6 +2010,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "MisomyL",
+      "comment" : "Fix ver.",
+      "level" : "11",
+      "md5" : "267fbf20e2f0d04e64525b0dbee0f789",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "a969286bcba203591a48d3f652c1481f3d04027cafc37800598d4e095686f5eb",
+      "submission" : 881,
+      "title" : "Amnehilesie [Etude]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=362&event=123",
+      "url_diff" : "https://sites.google.com/site/ibmssabun/"
    },
    {
       "artist" : "Se-U-Ra obj:SUZUKAZEΛ",
@@ -2892,6 +2983,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Pinky/さ",
+      "comment" : "▼15、皿複合",
+      "level" : "8",
+      "md5" : "38e6b7ec1c58c74f1425d356cd1b295b",
+      "proposer" : "aa",
+      "proposerLr2id" : 138185,
+      "sha256" : "7637a953f278ad7cf2fae88f09f6b1dfce972e9c21bb7ec25324f5234d8d0ab3",
+      "submission" : 856,
+      "title" : "妹軍団襲来 (あなざー)",
+      "url" : "http://web.archive.org/web/20010616011606/www.angel.ne.jp/~pink/bms/sisterbm.lzh",
+      "url_diff" : "http://sabosabun.tank.jp/"
+   },
+   {
       "artist" : "qfeileadh feat. レゾナンスもえこ / obj:C4 Movie : 浪漫映像制作倶楽部",
       "comment" : "乱打と高速",
       "level" : "1",
@@ -3201,6 +3305,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "ccgc",
+      "comment" : "11~12? satellite",
+      "level" : "11",
+      "md5" : "408673987d3c9ce60610db5c51b9117e",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "9dcd0234e6965b8f6d1a137ba89de41212bf5b940e0123685a4bbf3f745541f3",
+      "submission" : 865,
+      "title" : "satellite -MOON-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=93",
+      "url_diff" : "http://sabosabun.tank.jp/"
    },
    {
       "artist" : "黒皇帝 / obj.Ovnize Movie: 6XeNoN9",
@@ -3527,6 +3644,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "LeaF Movie:Optie / obj:LTFE♪",
+      "comment" : "乱打?",
+      "level" : "7",
+      "md5" : "465d418e371077e71c08ebcfc1200e1d",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "5f251ed64368f08d5be12e74ec761a638318e9112f3788fcbc7ea75ce768be93",
+      "submission" : 873,
+      "title" : "Evanescent [Realitat]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=96&event=93",
+      "url_diff" : "http://1drv.ms/1kE1jlU"
+   },
+   {
       "artist" : "はがね obj. 0samil0 vs Lapis",
       "comment" : "皿複合,中速階段",
       "level" : "6",
@@ -3687,6 +3817,18 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "鹿目まどか /差分　赤い人 佐倉杏子",
+      "level" : "8",
+      "md5" : "4971f11e2d0c0831f8ef83054ed843e4",
+      "proposer" : "鷺沢文香",
+      "proposerLr2id" : 133436,
+      "sha256" : "4b7748db20933079f0947d0efc68a3007a413112a528ecaa9a7125df5024149a",
+      "submission" : 860,
+      "title" : "円環の理 [HARDEST]",
+      "url" : "http://3t1a.net/bms/madoka_kaname_ogg.zip ",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/_7keys3HARDESTf.bms"
    },
    {
       "artist" : "kurenaissance/obj:颯 vs C4",
@@ -5088,7 +5230,7 @@
    {
       "artist" : "void Momomi Aoyama / obj: ランダマイザ",
       "comment" : "乱打",
-      "level" : "8",
+      "level" : "9",
       "md5" : "602cc5ef40df734beb381fb348e75b83",
       "proposer" : "SEUNGHO_LEE",
       "proposerLr2id" : 126460,
@@ -5101,6 +5243,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "lazward BGA:ましろ / obj.siokaze",
+      "comment" : "高速乱打",
+      "level" : "11",
+      "md5" : "60369a31c8b59f441cd3a404708bb788",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "3ebab7719695b031508b1da3114979a065c1009a7ece19bdb094e3d898f62251",
+      "submission" : 871,
+      "title" : "Re*incarnacion [MANIAQ]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=121&event=96",
+      "url_diff" : "http://www.geocities.jp/yjsnpi_kitanai_kusai_unko/BOB2015/BOB2015_k_3_1_4.html"
    },
    {
       "artist" : "カラフル・サウンズ・ポート/さ",
@@ -6131,7 +6286,7 @@
    {
       "artist" : "tanacoro/BGA:musao,wars,M.Takezaki obj:krg",
       "comment" : "高速階段, 二重乱打",
-      "level" : "8",
+      "level" : "9",
       "md5" : "7715a81444846a4e456e21c8cc783db0",
       "proposer" : "nono22",
       "proposerLr2id" : 122934,
@@ -6213,7 +6368,7 @@
    {
       "artist" : "LeaF/さ",
       "comment" : "★21弱体版",
-      "level" : "10",
+      "level" : "11",
       "md5" : "780f8f98480b46643f34b59e91355586",
       "proposer" : "氷城つるぎ",
       "proposerLr2id" : 151185,
@@ -6585,6 +6740,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "P1",
+      "comment" : "乱打、皿絡み",
+      "level" : "2",
+      "md5" : "7d28ad5b1249d3e9536da0060fbffd25",
+      "proposer" : "STANK!",
+      "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
+      "sha256" : "2a6d88903b12e4d078a4a5d3d782f790407573eb9dbb273759c731eb2bce9904",
+      "submission" : 874,
+      "title" : "異想天",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=196&event=123",
+      "url_diff" : ""
+   },
+   {
       "artist" : "RiraN / obj.7zs",
       "comment" : "同時押し、縦連",
       "level" : "3",
@@ -6616,6 +6784,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "たこやき",
+      "comment" : "BOFU2017、乱打",
+      "level" : "0",
+      "md5" : "7dc1ce71ebc9a231aafb0dd35cae237f",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "090447c2cd74073dfa3843d6abd5f35d4f1d5da719bb815c0ceca42d56156c38",
+      "submission" : 872,
+      "title" : "Fortress [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=247&event=116",
+      "url_diff" : ""
    },
    {
       "artist" : "KA-KU",
@@ -6728,6 +6909,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Artifact obj:SANY",
+      "comment" : "ガチ押し",
+      "level" : "7",
+      "md5" : "80819ea2ff7dfb3ee0264a5f74e70b97",
+      "proposer" : "SANY",
+      "proposerLr2id" : 128405,
+      "sha256" : "55b91e64063bcf65e31ccee0ab00130ea579f37632d8f39c1495b1b094c6a46c",
+      "submission" : 875,
+      "title" : "水の螺旋 [TOWER]",
+      "url" : "http://tz-kt-lc.tumblr.com/",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02890"
    },
    {
       "artist" : "cranky /obj:980円の人",
@@ -7480,21 +7674,6 @@
       "voteYes" : 0
    },
    {
-      "artist" : "maki / obj.hplaner",
-      "level" : "12",
-      "md5" : "8ee7fc1c67826e7437e07b5e1f92d601",
-      "proposer" : "LUXURY♪",
-      "proposerLr2id" : 23110,
-      "sha256" : "3bee85623dc80cfc401c8b94939e19ed7155abf0692dca901eedf5579b682cba",
-      "submission" : 388,
-      "title" : "stairway to the universe [laner]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=50&event=96",
-      "url_diff" : "http://www.hyper-laner.com/sabun/sttu_7l.bme",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
       "artist" : "sinku* / BGI:作者文",
       "comment" : "物量",
       "level" : "12",
@@ -8049,6 +8228,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "[IX] / BGA : EMSH obj.XYZ",
+      "comment" : "同梱譜面",
+      "level" : "0",
+      "md5" : "9b5adcbad4a88bfef450f6bcc487d259",
+      "proposer" : "DK",
+      "proposerLr2id" : 46697,
+      "sha256" : "304d76736d4ac9193f5765cb83889036af2164484f9aba42d5df19952e164983",
+      "submission" : 880,
+      "title" : "Crystalline White",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=96",
+      "url_diff" : ""
+   },
+   {
       "artist" : "@gra_pha",
       "comment" : "乱打",
       "level" : "3",
@@ -8508,7 +8700,7 @@
    },
    {
       "artist" : "黄泉路テヂーモ / obj : LindBlum BGA:鑓田",
-      "level" : "8",
+      "level" : "7",
       "md5" : "a4b248ad36c2a21040c3678b199cc07a",
       "proposer" : "KIYOM99",
       "proposerLr2id" : 128003,
@@ -8554,6 +8746,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "削除 obj:LAPIS",
+      "comment" : "ズレ",
+      "level" : "4",
+      "md5" : "a5ff700022943d49f34614cc181087f2",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "183dc5fe59bb886aeed9945cb3c2d9d57de53f68eec099f108e7fcd5c97b17b8",
+      "submission" : 866,
+      "title" : "Altale [the story]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=150&event=96",
+      "url_diff" : "http://lapisbms.web.fc2.com/"
    },
    {
       "artist" : "SOMON",
@@ -9016,6 +9221,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "DJ LATI BGA : EMSH / Obj. B_K vs Z_N",
+      "comment" : "同梱譜面",
+      "level" : "1",
+      "md5" : "ac4d92b85c08feef7f0aacfaf3858bb5",
+      "proposer" : "DK",
+      "proposerLr2id" : 46697,
+      "sha256" : "e378b3c56f1c193b81db3229672104ccec04afc3e55f734d64edab861be16445",
+      "submission" : 878,
+      "title" : "The World of Cyber [SP INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=96",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Se-U-Ra obj:SUZUKAZEΛ",
       "comment" : "BOFU2017 同時押し+α",
       "level" : "5",
@@ -9309,6 +9527,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Flat:nique Dolls Orchestra Illustration : まど / selene.",
+      "comment" : "物量、体力",
+      "level" : "12",
+      "md5" : "b142278d297ff2a5988b4e33687a24ab",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "bc775fbb6833d381b4d8712282c20ad90413687633d26669cd87590b56a96eaa",
+      "submission" : 869,
+      "title" : "Pure White † Crimson Coffin -Luna-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01139"
    },
    {
       "artist" : "フォ㍊ Obj.Triforce",
@@ -9617,7 +9848,7 @@
    {
       "artist" : "q/stol obj:vanity",
       "comment" : "皿",
-      "level" : "12",
+      "level" : "11",
       "md5" : "b3f37c27e035e67948694c5d2f6e132b",
       "proposer" : "なつ",
       "proposerLr2id" : 65517,
@@ -9986,6 +10217,23 @@
       "voteYes" : 0
    },
    {
+      "artist" : "ZUN(Arr.sun3) / 差分　赤い人",
+      "comment" : "from Satellite",
+      "level" : "12",
+      "md5" : "b903a2579e150c6687bbe2530a60fa80",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "c0a71472cd07994e391369d061e9726ed0d3253a48ae703f141978140bb33aaa",
+      "submission" : 854,
+      "title" : "風塵少女-Wind Rush- [INFELNO]",
+      "url" : "https://onedrive.live.com/?id=578814ACC2BD5A74%21140&cid=578814ACC2BD5A74",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/windrush-INFELNO.bme",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
       "artist" : "shimizushi illust:a.a / obj:monaka",
       "comment" : "中速物量乱打",
       "level" : "3",
@@ -10266,7 +10514,7 @@
    {
       "artist" : "Sakamiya feat.A.Dokuga img:HalHAL Lyrics:uoru notes:ELIGOS",
       "comment" : "同梱、乱打",
-      "level" : "8",
+      "level" : "9",
       "md5" : "bcb25c89f7d006eec25a4f8436f65218",
       "proposer" : "resair",
       "proposerLr2id" : 115377,
@@ -10690,6 +10938,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "itaojirou / obj.OXYGEN",
+      "comment" : "皿多いけど地力の範疇？",
+      "level" : "3",
+      "md5" : "c26bae73f146ea538b8a52966e68c36a",
+      "proposer" : "OXYGEN",
+      "proposerLr2id" : 133294,
+      "sha256" : "a9285b0d5a5ffc2a2da31fc49028be3ecea4b47be171f363707d32fe02ed4156",
+      "submission" : 863,
+      "title" : "Chinese Tea -Re:O2ther-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=92",
+      "url_diff" : "https://drive.google.com/drive/folders/0B4chFHpe-ae4UG9zMDlwcGZiM0U"
+   },
+   {
       "artist" : "しらいし obj.sennko",
       "comment" : "GENO★20の弱体化版",
       "level" : "9",
@@ -10753,6 +11014,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Clotho feat.Salita obj:Magical Girl \"Alisa\"",
+      "comment" : "乱打、高速階段",
+      "level" : "1",
+      "md5" : "c34c4fd1d26168568b79565ffbe4a1b9",
+      "proposer" : "monaka",
+      "proposerLr2id" : 93763,
+      "sha256" : "8f16dd599a88ea34aad004959669d1933d8859f8878414c5ed2d080cc9cb1a38",
+      "submission" : 864,
+      "title" : "Signal Stars [Radiance Ark]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=348&event=104",
+      "url_diff" : "http://ux.getuploader.com/monaka_sabun_2/download/84/%5BRe_Resolutions+-+Signal+Stars%5DMGA.zip"
    },
    {
       "artist" : "Linne X SCTL Visualized by Keiyuu & RED-FOX / obj:monaka",
@@ -11097,6 +11371,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Δ→Low obj:1/8",
+      "comment" : "",
+      "level" : "7",
+      "md5" : "c9dd107007f60eb4064686f647d3333a",
+      "proposer" : "姫川友紀",
+      "proposerLr2id" : 125835,
+      "sha256" : "d28d2128732c48c17b7ec4d74ee6bcff0c21018e39d3f98dd0998fdbf4ac6c61",
+      "submission" : 876,
+      "title" : "demonic juggernauts [Out of control]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=156&event=110",
+      "url_diff" : "http://oneeighth.web.fc2.com/patterns.html"
+   },
+   {
       "artist" : "白銀楽団 / 制限",
       "level" : "1",
       "md5" : "ca0365a718019d0eac675dee02ee0264",
@@ -11384,6 +11671,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "TRIAL / obj:C4 BGA:KinCraft",
+      "comment" : "開幕に連皿がありますが鍵盤はほとんどなくリズムも簡単なので地力譜面だと思います",
+      "level" : "11",
+      "md5" : "d10869eb8dfad12297f8894d1cfd0715",
+      "proposer" : "OXYGEN",
+      "proposerLr2id" : 133294,
+      "sha256" : "153cb49fd4e8ffc6706f52b7b2f2372f0bb60dce36b68d6128e5ef0227e76ec0",
+      "submission" : 867,
+      "title" : "G-SHOCK [C4A]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=155&event=123",
+      "url_diff" : "https://bmscharteditorsgroup.wixsite.com/initialatoz"
+   },
+   {
       "artist" : "巴マミとキュゥべえ　/差分　赤い人",
       "comment" : "★★1（笑）",
       "level" : "12",
@@ -11399,6 +11699,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "橘花音 かなえゆめ composed by nmk /obj:wak",
+      "comment" : "Fix ver.",
+      "level" : 9,
+      "md5" : "d1b6dc2b846b5f08a0a457f29f81bb09",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "182d2577f92fe469d462031c912d8832a1b68d53252a9aa3336dd176a924ed26",
+      "submission" : 882,
+      "title" : "図書室のエルザ [Fairytale]",
+      "url" : "http://tosyosituno-elsa.tumblr.com/",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02874"
    },
    {
       "artist" : "xi iimo",
@@ -11519,7 +11832,7 @@
    {
       "artist" : "Yu^ta",
       "comment" : "sl0～1",
-      "level" : "1",
+      "level" : "0",
       "md5" : "d46e8490a06f725bf67e33af6835c347",
       "proposer" : "selene.",
       "proposerLr2id" : 84521,
@@ -12068,6 +12381,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "BMS:9-zen",
+      "comment" : "乱打と縦連 曲短め",
+      "level" : "2",
+      "md5" : "dd99eb9db5294be6a407f0c14916c6e0",
+      "proposer" : "Mayuzumy",
+      "proposerLr2id" : 88804,
+      "sha256" : "12b81cdc483880597eded1bd96d1c2a976cd6f56b2c4f02baacf7934c21eae48",
+      "submission" : 855,
+      "title" : "ウエライド：草 [Another]",
+      "url" : "http://urx.blue/4Hmw",
+      "url_diff" : ""
+   },
+   {
       "artist" : "猫蟹丸 / obj: black train",
       "comment" : "RANDOM is so \"乱打MAX\"",
       "level" : "1",
@@ -12345,7 +12671,7 @@
    {
       "artist" : "44teru-k remixed wa. / 差分 赤い人",
       "comment" : "微纵连 乱打",
-      "level" : "8",
+      "level" : "10",
       "md5" : "e2cc2a2fbc4fb4a62536e499d5ab0890",
       "proposer" : "椒図",
       "proposerLr2id" : 124809,
@@ -13058,6 +13384,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "風鈴奏 obj: qtp13",
+      "comment" : "11～12?　ズレ物量",
+      "level" : "11",
+      "md5" : "ee1fdf2d26ac45732edb8ed7c7db065d",
+      "proposer" : "selene.",
+      "proposerLr2id" : 84521,
+      "sha256" : "c766f31fa0376b0b3a2e3d531f3752e8131adc9e5ba7b9c9956481a3474740e2",
+      "submission" : 861,
+      "title" : "Rhadamanthys [7A]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=100",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02485"
+   },
+   {
       "artist" : "KAH BGA:自動車 原付 / illust:手鞠鈴 / obj:SUZUKAZEΛ",
       "comment" : "5~6?皿ある",
       "level" : "5",
@@ -13105,6 +13444,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Nota / obj:Kennifh BGI:雪椿",
+      "comment" : "BOFU2017、ラス殺し＋回復",
+      "level" : "3",
+      "md5" : "f02c2f2d2c436647b7773e08c13b2c82",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "913dce0ef2fed214853b01346195dd14887e8423244c07e5758e25cbfd924d3f",
+      "submission" : 862,
+      "title" : "Ice Festival",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=421&event=116",
+      "url_diff" : ""
    },
    {
       "artist" : "sukuramu42 Illust:恋々 / obj:LIEF",
@@ -13401,6 +13753,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "GYAON/obj:wak",
+      "comment" : "微縦連まじりの乱打",
+      "level" : "1",
+      "md5" : "f7cbdb32ad4c3c2e296980a733eed4fa",
+      "proposer" : "鷺沢文香",
+      "proposerLr2id" : 133436,
+      "sha256" : "bc27e83cf5635ed3864b132cf95dc0c641434b7b1461fa28d912bba72f047c10",
+      "submission" : 858,
+      "title" : "Last Battle-T260G- [Emilia]",
+      "url" : "http://web.archive.org/web/20140204192232/http://www46.tok2.com/home2/gyaondjaho/g_T260G.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02757"
    },
    {
       "artist" : "sukuramu42 BGI:恋々 / obj:SUZUKAZEΛ",
