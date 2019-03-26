@@ -81,7 +81,7 @@
    {
       "artist" : "HOUJIROU obj:Omino",
       "comment" : "st7~8?",
-      "level" : "8",
+      "level" : "9",
       "md5" : "02580b5c353eac65db38470fee32bd4f",
       "proposer" : "こめっと",
       "proposerLr2id" : 80964,
@@ -595,7 +595,7 @@
    {
       "artist" : "SOMON obj.hex",
       "comment" : "st5~6 total+",
-      "level" : "5",
+      "level" : "6",
       "md5" : "0c5a038e9fedb4c799051da04b3925d0",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -1457,7 +1457,7 @@
    {
       "artist" : "xi / obj:Monsta",
       "comment" : "重発狂、ディレイ",
-      "level" : 9,
+      "level" : "9",
       "md5" : "1c08cf21845bf409451368d83dd2a86f",
       "proposer" : "BAECON",
       "proposerLr2id" : 46122,
@@ -3360,6 +3360,19 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00522"
    },
    {
+      "artist" : "uet / obj:C4 + rat",
+      "comment" : "乱打",
+      "level" : "1",
+      "md5" : "3d052fad63621775580e943c97fb3d25",
+      "proposer" : "uet",
+      "proposerLr2id" : 11452,
+      "sha256" : "d832d4e74d122541bf751f17fea1e66df3ef867c989d4fe85da97d70a95d9f42",
+      "submission" : 919,
+      "title" : "Anarchist [Libertarian]",
+      "url" : "http://beatmaniauet.sakura.ne.jp/BMS/uet_Anarchist_ogg.zip",
+      "url_diff" : ""
+   },
+   {
       "artist" : "鳩 / obj:muscleMEN",
       "comment" : "体力系",
       "level" : "1",
@@ -4506,7 +4519,7 @@
    {
       "artist" : "削除 feat. Nikki Simmons / obj:七海千秋 Movie:Radiosity&yoshimo",
       "comment" : "BEAM",
-      "level" : "2",
+      "level" : "1",
       "md5" : "508caa088da8d50603cfe1389585b0af",
       "proposer" : "MineC24",
       "proposerLr2id" : 84597,
@@ -5146,7 +5159,7 @@
    },
    {
       "artist" : "sasakure.∩K/ 差分 赤い人",
-      "level" : 1,
+      "level" : "1",
       "md5" : "5d4c998f6b5742612478572b53327140",
       "proposer" : "椒図",
       "proposerLr2id" : 124809,
@@ -5490,7 +5503,7 @@
    {
       "artist" : "Cres / obj:v",
       "comment" : "Will I go to the heaven...?",
-      "level" : 7,
+      "level" : "7",
       "md5" : "634cf05fd32e38a968b9aa08cce47a15",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -6913,7 +6926,7 @@
    {
       "artist" : "フロン / ラズベリル / obj : lemon_aided",
       "comment" : "MARATHON",
-      "level" : "7",
+      "level" : "6",
       "md5" : "819a5580904dc0146995b52f12619517",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,
@@ -7741,6 +7754,18 @@
       "voteYes" : 0
    },
    {
+      "artist" : "maki / obj.hplaner",
+      "comment" : "subconsciousness -KILL-",
+      "level" : "0",
+      "md5" : "8ee7fc1c67826e7437e07b5e1f92d601",
+      "proposer" : "ZEUS",
+      "sha256" : "3bee85623dc80cfc401c8b94939e19ed7155abf0692dca901eedf5579b682cba",
+      "submission" : 300,
+      "title" : "stairway to the universe [laner]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=50&event=96",
+      "url_diff" : "http://www.hyper-laner.com/sabun/sttu_7l.bme"
+   },
+   {
       "artist" : "哀愁マニア",
       "comment" : "★★5",
       "level" : "8",
@@ -7790,7 +7815,7 @@
    {
       "artist" : "Gun-SEKI feat.那珂 / U / Ds",
       "comment" : "体力",
-      "level" : 5,
+      "level" : "5",
       "md5" : "8fc760ff3230fb4e18beb8b060cb5f0c",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -9872,21 +9897,6 @@
       "voteYes" : 0
    },
    {
-      "artist" : "ZUN(Arr.sun3) / 差分　赤い人",
-      "level" : "0",
-      "md5" : "b903a2579e150c6687bbe2530a60fa80",
-      "proposer" : "LUXURY♪",
-      "proposerLr2id" : 23110,
-      "sha256" : "c0a71472cd07994e391369d061e9726ed0d3253a48ae703f141978140bb33aaa",
-      "submission" : 610,
-      "title" : "風塵少女-Wind Rush- [INFELNO]",
-      "url" : "https://onedrive.live.com/?id=578814ACC2BD5A74%21140&cid=578814ACC2BD5A74",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/windrush-INFELNO.bme",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
       "artist" : "Est /obj:月門",
       "comment" : "RAGNALOS",
       "level" : "1",
@@ -9920,7 +9930,7 @@
    {
       "artist" : "loz",
       "comment" : "乱打",
-      "level" : 0,
+      "level" : "0",
       "md5" : "b9cb4940e97c8d067827bd28d3081556",
       "proposer" : "椒図",
       "proposerLr2id" : 124809,
@@ -11489,7 +11499,7 @@
    {
       "artist" : "ノクティス・江口・チェラム Obj:И",
       "comment" : "物量",
-      "level" : 1,
+      "level" : "1",
       "md5" : "d4737419b6ca7ba430048e356e1f9f93",
       "proposer" : "MineC24",
       "proposerLr2id" : 84597,

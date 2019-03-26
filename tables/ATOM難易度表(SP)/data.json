@@ -13,18 +13,6 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/∟○ω○Θ＜俺がＢＭＳに降臨だ！！！！.zip"
    },
    {
-      "artist" : "金ラメタキシード",
-      "comment" : "トリル・LN・局所難・軸",
-      "level" : "7",
-      "lr2_bmsid" : "0",
-      "md5" : "069c27f9241a2ced41736fab408bebd0",
-      "name_diff" : "DL",
-      "reg_date" : "2016-05-29",
-      "title" : "決戦！サルーイン -Final Battle with Saruin- [God Hand]",
-      "url" : "http://lucifer.pussycat.jp/BMS/L_Saruin.zip",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/決戦！サルーイン -Final Battle with Saruin-.zip"
-   },
-   {
       "artist" : "-45",
       "comment" : "デニム",
       "level" : "18",
@@ -37,9 +25,9 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/44river.zip"
    },
    {
-      "artist" : "AlbatRos / obj.ATOM",
+      "artist" : "AlbatRos",
       "comment" : "皿",
-      "level" : "1",
+      "level" : "？",
       "lr2_bmsid" : "0",
       "md5" : "0f458dd7ebcdef45131dd967f36b2403",
       "name_diff" : "DL",
@@ -78,7 +66,7 @@
    {
       "artist" : "犬田 (a.k.a. dazla)",
       "comment" : "同時押し・皿複合<br><br>キー音ほぼ全部",
-      "level" : "7",
+      "level" : "9",
       "lr2_bmsid" : "0",
       "md5" : "119cd5e7f0ac8f011b329c26402a9a48",
       "name_diff" : "DL",
@@ -128,7 +116,7 @@
    {
       "artist" : "SAMBA MASTER 佐藤 -SATOH- Remixed by Yosk!",
       "comment" : "乱打・皿・縦連",
-      "level" : "10",
+      "level" : "11",
       "lr2_bmsid" : "0",
       "md5" : "34113cb0762930da0bab5778450ce47b",
       "name_diff" : "DL",
@@ -150,6 +138,18 @@
       "title" : "green big apple [ANOTHER]",
       "url" : "http://www.likeside.net/event/suika_crash/",
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/green big apple.zip"
+   },
+   {
+      "artist" : "skns / obj.onzonium",
+      "comment" : "☆11<br><br>乱打・皿　音源追加あり<br><br>差分企画「Initial A to Z 2019 -26 songs-」参加作品<br>onzonium名義で参加",
+      "level" : "-1",
+      "lr2_bmsid" : "0",
+      "md5" : "46584933b70a60c4c5efe31c3f2a6746",
+      "name_diff" : "差分企画ページへ",
+      "reg_date" : "2019-03-22",
+      "title" : "H-E [INSANE]",
+      "url" : "",
+      "url_diff" : "https://bmscharteditorsgroup.wixsite.com/initialatoz"
    },
    {
       "artist" : "xra",
@@ -191,7 +191,7 @@
    {
       "artist" : "Professor S",
       "comment" : "局所難・トリル",
-      "level" : "1",
+      "level" : "2",
       "lr2_bmsid" : "0",
       "md5" : "56c5a3ca2832ee12460372a9d52508d4",
       "name_diff" : "DL",
@@ -241,32 +241,6 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/Love's Rebirth '06.zip"
    },
    {
-      "artist" : "YAMD",
-      "comment" : "☆10<br><br>乱打",
-      "level" : "-1",
-      "lr2_bmsid" : "0",
-      "md5" : "5ff5a641d2325515541eb5bf31191b1f",
-      "name_diff" : "DL",
-      "name_pack" : "BOF2004",
-      "reg_date" : "2016-10-10",
-      "title" : "fragments [ANOTHER]",
-      "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/fragments.zip"
-   },
-   {
-      "artist" : "YAMD",
-      "comment" : "重乱打・軸・BPM変化",
-      "level" : "17",
-      "lr2_bmsid" : "0",
-      "md5" : "61913fe9ebd7c42a75d75eaf9cd08f4d",
-      "name_diff" : "DL",
-      "name_pack" : "BOF2004",
-      "reg_date" : "2016-10-10",
-      "title" : "fragments [BRUTAL]",
-      "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/fragments.zip"
-   },
-   {
       "artist" : "赤碕 翔",
       "comment" : "ラス殺し・縦連",
       "level" : "7",
@@ -307,7 +281,7 @@
    {
       "artist" : "菊田研究所/lactate",
       "comment" : "乱打・階段",
-      "level" : "9",
+      "level" : "10",
       "lr2_bmsid" : "0",
       "md5" : "6cd425736a7e382bc7f8c5b5745f6091",
       "name_diff" : "DL",
@@ -330,6 +304,18 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/Genocidal Guardians.zip"
    },
    {
+      "artist" : "nemumi",
+      "comment" : "二重階段・対称",
+      "level" : "2",
+      "lr2_bmsid" : "0",
+      "md5" : "71836ca9f1118b7a958cb5ad60ed0764",
+      "name_diff" : "DL",
+      "reg_date" : "2019-03-26",
+      "title" : "mandarinduck [INSANE]",
+      "url" : "https://drive.google.com/open?id=0B5Mz_Wr7usEFOTE5MV9lNExaVzg",
+      "url_diff" : "http://onzonium.at-ninja.jp/sabun/mandarinduck.zip"
+   },
+   {
       "artist" : "cranky",
       "comment" : "皿複合乱打<br><br>一部音追加",
       "level" : "7",
@@ -340,6 +326,18 @@
       "title" : "save the music [INSANE]",
       "url" : "https://mega.nz/#F!sZMTGZqZ!YZH2Xy6jBMMNl3MvQ_pp-A",
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/save the music.zip"
+   },
+   {
+      "artist" : "dj Extrose",
+      "comment" : "LN・乱打<br><br>差分企画「Initial A to Z 2019 -26 songs-」参加作品<br>onzonium名義で参加",
+      "level" : "4",
+      "lr2_bmsid" : "0",
+      "md5" : "7ac91ba3aaf91f650fa44bac94cc2de3",
+      "name_diff" : "差分企画ページへ",
+      "reg_date" : "2019-03-22",
+      "title" : "unquenchable [INSANE]",
+      "url" : "",
+      "url_diff" : "https://bmscharteditorsgroup.wixsite.com/initialatoz"
    },
    {
       "artist" : "Gun-SEKI",
@@ -355,19 +353,7 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/Victory.zip"
    },
    {
-      "artist" : "45Is-m BGA:-45",
-      "comment" : "階段・ラス殺し・局所難",
-      "level" : "26",
-      "lr2_bmsid" : "0",
-      "md5" : "7f883f64683a3922ab1cde9d47dde406",
-      "name_diff" : "DL",
-      "reg_date" : "2016-03-28",
-      "title" : "G e n g a o z o -Screen music- -SP REQUIEM-",
-      "url" : "http://www.is-m.jp/bms/song/em41.html",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/G e n g a o z o -Screen music-.zip"
-   },
-   {
-      "artist" : "sept ",
+      "artist" : "sept",
       "comment" : "皿・皿複合",
       "level" : "？",
       "lr2_bmsid" : "0",
@@ -380,7 +366,7 @@
    },
    {
       "artist" : "skns",
-      "comment" : "☆10<br><br>皿・乱打",
+      "comment" : "☆9<br><br>皿・乱打",
       "level" : "-1",
       "lr2_bmsid" : "0",
       "md5" : "8a5180ba5cf293e051066d368df4f1bb",
@@ -389,18 +375,6 @@
       "title" : "HIGH-ENERGY [INSANE]",
       "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/HIGH-ENERGY.zip"
-   },
-   {
-      "artist" : "Est",
-      "comment" : "ラス殺し",
-      "level" : "1",
-      "lr2_bmsid" : "0",
-      "md5" : "97023306e69b00794f35e7365bf9a636",
-      "name_diff" : "DL",
-      "reg_date" : "2017-01-08",
-      "title" : "snowflake -exquisite style- (INSANE)",
-      "url" : "http://estish.nobody.jp/index1.html",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/snowflake -exquisite style-.zip"
    },
    {
       "artist" : "paraoka",
@@ -426,19 +400,6 @@
       "title" : "Love's Rebirth '06 LEGEND MIX -insane-",
       "url" : "https://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21208",
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/Love's Rebirth '06.zip"
-   },
-   {
-      "artist" : "犬型ロボ（a.k.a. 48)",
-      "comment" : "皿",
-      "level" : "0",
-      "lr2_bmsid" : "0",
-      "md5" : "a7e25c7cc488ef38686dfd037b4efa71",
-      "name_diff" : "DL",
-      "name_pack" : "BOF2004",
-      "reg_date" : "2016-11-20",
-      "title" : "FREEeee! [ANOTHER]",
-      "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/FREEeee!.zip"
    },
    {
       "artist" : "6yen",
@@ -478,6 +439,18 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/Free Hand zero.zip"
    },
    {
+      "artist" : "dj Extrose",
+      "comment" : "LN・二重階段・ラス殺し<br><br>差分企画「Initial A to Z 2019 -26 songs-」参加作品<br>onzonium名義で参加",
+      "level" : "22",
+      "lr2_bmsid" : "0",
+      "md5" : "beaac5dbcdea9c848428abd0ac4f7145",
+      "name_diff" : "差分企画ページへ",
+      "reg_date" : "2019-03-22",
+      "title" : "unquenchable [BRUTAL]",
+      "url" : "",
+      "url_diff" : "https://bmscharteditorsgroup.wixsite.com/initialatoz"
+   },
+   {
       "artist" : "socer",
       "comment" : "☆8<br><br>皿複合",
       "level" : "-1",
@@ -504,18 +477,6 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/行雲流水.zip"
    },
    {
-      "artist" : "金ラメタキシード",
-      "comment" : "重乱打・軸・局所難・皿複合",
-      "level" : "18",
-      "lr2_bmsid" : "0",
-      "md5" : "c4c3d093261bf94a9e67ffeefe934fa7",
-      "name_diff" : "DL",
-      "reg_date" : "2016-05-29",
-      "title" : "決戦！サルーイン -Final Battle with Saruin- [心の闇]",
-      "url" : "http://lucifer.pussycat.jp/BMS/L_Saruin.zip",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/決戦！サルーイン -Final Battle with Saruin-.zip"
-   },
-   {
       "artist" : "czardas",
       "comment" : "不規則乱打・BPM変化",
       "level" : "6",
@@ -529,22 +490,9 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/post mortal momentum.zip"
    },
    {
-      "artist" : "菊田研究所 / migikacha",
-      "comment" : "対称・皿複合",
-      "level" : "0",
-      "lr2_bmsid" : "0",
-      "md5" : "cc99de19b5d14674eeb11effc3ec84a7",
-      "name_diff" : "DL",
-      "name_pack" : "BOF2004",
-      "reg_date" : "2016-03-19",
-      "title" : "panicsmile [MANIAC]",
-      "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/panicsmile.zip"
-   },
-   {
       "artist" : "Gun-SEKI",
       "comment" : "皿・局所難",
-      "level" : "2",
+      "level" : "3",
       "lr2_bmsid" : "0",
       "md5" : "cd5c6f97fed6929cc5f28217c80f641e",
       "name_diff" : "DL",
@@ -569,19 +517,6 @@
       "url_pack" : "http://diverse.jp/dbhtml/download.html"
    },
    {
-      "artist" : "菊田研究所 / migikacha",
-      "comment" : "対称・重乱打",
-      "level" : "16",
-      "lr2_bmsid" : "0",
-      "md5" : "d485008c6ec2b6a0d7fba7fe6c189655",
-      "name_diff" : "DL",
-      "name_pack" : "BOF2004",
-      "reg_date" : "2016-03-19",
-      "title" : "panicsmile [INSANE]",
-      "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/panicsmile.zip"
-   },
-   {
       "artist" : "赤碕 翔",
       "comment" : "ラス殺し",
       "level" : "1",
@@ -597,7 +532,7 @@
    {
       "artist" : "上杉うた with 星明",
       "comment" : "同時押し・軸",
-      "level" : "6",
+      "level" : "7",
       "lr2_bmsid" : "0",
       "md5" : "df372397bd4bd36f79797695c5da186d",
       "name_diff" : "DL",
@@ -622,7 +557,7 @@
    },
    {
       "artist" : "scytheleg",
-      "comment" : "☆11<br><br>LN",
+      "comment" : "☆10<br><br>LN",
       "level" : "-1",
       "lr2_bmsid" : "0",
       "md5" : "f5cd57f449cdaccce69031f51284dacd",
@@ -658,18 +593,5 @@
       "url" : "http://shiki2.sakura.ne.jp/",
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/Angelic layer.zip",
       "url_pack" : "http://xyzzz.net/objxyz.php"
-   },
-   {
-      "artist" : "YAMD",
-      "comment" : "軸・乱打・BPM変化",
-      "level" : "0",
-      "lr2_bmsid" : "0",
-      "md5" : "fd74882e0e2a87c5f8d521b660f26874",
-      "name_diff" : "DL",
-      "name_pack" : "BOF2004",
-      "reg_date" : "2016-10-10",
-      "title" : "fragments [INSANE]",
-      "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/fragments.zip"
    }
 ]

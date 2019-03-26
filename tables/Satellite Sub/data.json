@@ -1362,6 +1362,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "ねこかぶりサイクロン(xi+ねこみりん) feat.えみゅう。",
+      "comment" : "",
+      "level" : "2",
+      "md5" : "197053ba0681ba82bbbb7ec07572de90",
+      "proposer" : "9*KUN",
+      "proposerLr2id" : 93754,
+      "sha256" : "81b56419e74439303e1aa18af66b1e7d8d16f5ee16b799a1b4b9ed25506b8a8c",
+      "submission" : 886,
+      "title" : "After Burner",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=430&event=104",
+      "url_diff" : ""
+   },
+   {
       "artist" : "polysha mov.zue-row obj:swa Fender 秘密 alt ELIGOS",
       "comment" : "乱打",
       "level" : "3",
@@ -4945,6 +4958,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "[IX] / BGA : EMSH obj.XYZ",
+      "comment" : "同梱譜面",
+      "level" : "0",
+      "md5" : "5aef0726a99e16fa73cdd45f60e77c4b",
+      "proposer" : "DK",
+      "proposerLr2id" : 46697,
+      "sha256" : "13ee19e716a7dcd5bec4d031800c545022d5f6fe742aaf8156e538f58d572c8b",
+      "submission" : 883,
+      "title" : "Crystalline White [SP INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=96",
+      "url_diff" : ""
+   },
+   {
       "artist" : "polysha movie:Optie / obj:BAECON",
       "comment" : "END?",
       "level" : "12",
@@ -5287,6 +5313,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Frums Obj.Triforce",
+      "comment" : "ガチ押し入門",
+      "level" : "4",
+      "md5" : "6113094f09e3d6f563c0c33a96519b2e",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "08bd4b1387cd861ab6f82b827e0faba0523942f134ac1763337c7be69bee5d18",
+      "submission" : 884,
+      "title" : "Wavetapper [Normality.]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=142&event=104",
+      "url_diff" : "http://www.dropbox.com/s/weyy4f1ud22aort/_wavetapper_triforce.bms?dl=0"
    },
    {
       "artist" : "P4koo/Thekara",
@@ -7833,6 +7872,18 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Widowmaker Obj.Triforce",
+      "level" : "3",
+      "md5" : "938acecd03ff1f0a178abfebb1ed1f2b",
+      "proposer" : "Triforce",
+      "proposerLr2id" : 18553,
+      "sha256" : "92c894facd0fd247dc80cad907fa39eac1944493bfae121fcf06b43fecef0290",
+      "submission" : 885,
+      "title" : "Giselle [Leggiero]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=262&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02659"
    },
    {
       "artist" : "STASTA BGA : nanairo / obj.7zs",
@@ -11703,7 +11754,7 @@
    {
       "artist" : "橘花音 かなえゆめ composed by nmk /obj:wak",
       "comment" : "Fix ver.",
-      "level" : 9,
+      "level" : "9",
       "md5" : "d1b6dc2b846b5f08a0a457f29f81bb09",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,

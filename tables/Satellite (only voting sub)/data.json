@@ -13,8 +13,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "吟世かいな obj: 8posai edit by qtp13",
@@ -30,8 +30,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02721",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "83.33",
+      "voteYes" : 2
    },
    {
       "artist" : "ROKINA/obj:M BGA:アカツキユウ",
@@ -45,10 +45,27 @@
       "title" : "Holyvenger [Judgement]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02349",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "62.50",
+      "voteYes" : 2
+   },
+   {
+      "artist" : "ねこかぶりサイクロン(xi+ねこみりん) feat.えみゅう。",
+      "comment" : "",
+      "level" : "2",
+      "md5" : "197053ba0681ba82bbbb7ec07572de90",
+      "proposer" : "9*KUN",
+      "proposerLr2id" : 93754,
+      "sha256" : "81b56419e74439303e1aa18af66b1e7d8d16f5ee16b799a1b4b9ed25506b8a8c",
+      "submission" : 886,
+      "title" : "After Burner",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=430&event=104",
+      "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "BOKKEN GREEN+PURPLE BOKKEN VIOLET / BOKKEN PRUSSIAN(obj:kaguya)",
@@ -62,10 +79,10 @@
       "title" : "Bの悲劇 [Kの惨劇]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=108&event=65",
       "url_diff" : "https://bmscharteditorsgroup.wixsite.com/initialatoz",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "voteNeutral" : 4,
+      "voteNo" : 4,
+      "votePercent" : "35.71",
+      "voteYes" : 2
    },
    {
       "artist" : "HARD RENAISSAMBA MASTER 佐藤 -SATOH- obj.JoeT",
@@ -81,8 +98,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02875",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 3
+      "votePercent" : "91.67",
+      "voteYes" : 5
    },
    {
       "artist" : "うまるつふり obj.sitoras",
@@ -98,8 +115,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02782",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "keyc",
@@ -113,10 +130,10 @@
       "title" : "Forceful Beat [B]",
       "url" : "http://www001.upp.so-net.ne.jp/keyc/",
       "url_diff" : "",
-      "voteNeutral" : 2,
+      "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 6
+      "votePercent" : "85.00",
+      "voteYes" : 7
    },
    {
       "artist" : "Pinky/さ",
@@ -132,8 +149,8 @@
       "url_diff" : "http://sabosabun.tank.jp/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 3
+      "votePercent" : "90.00",
+      "voteYes" : 4
    },
    {
       "artist" : "ccgc",
@@ -150,7 +167,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
    },
    {
       "artist" : "LeaF Movie:Optie / obj:LTFE♪",
@@ -166,8 +183,8 @@
       "url_diff" : "http://1drv.ms/1kE1jlU",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "50.00",
-      "voteYes" : 1
+      "votePercent" : "64.29",
+      "voteYes" : 3
    },
    {
       "artist" : "鹿目まどか /差分　赤い人 佐倉杏子",
@@ -182,8 +199,25 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/_7keys3HARDESTf.bms",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "91.67",
+      "voteYes" : 5
+   },
+   {
+      "artist" : "[IX] / BGA : EMSH obj.XYZ",
+      "comment" : "同梱譜面",
+      "level" : "0",
+      "md5" : "5aef0726a99e16fa73cdd45f60e77c4b",
+      "proposer" : "DK",
+      "proposerLr2id" : 46697,
+      "sha256" : "13ee19e716a7dcd5bec4d031800c545022d5f6fe742aaf8156e538f58d572c8b",
+      "submission" : 883,
+      "title" : "Crystalline White [SP INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=96",
+      "url_diff" : "",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "85.71",
+      "voteYes" : 6
    },
    {
       "artist" : "lazward BGA:ましろ / obj.siokaze",
@@ -199,7 +233,24 @@
       "url_diff" : "http://www.geocities.jp/yjsnpi_kitanai_kusai_unko/BOB2015/BOB2015_k_3_1_4.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
+      "votePercent" : "100.00",
+      "voteYes" : 3
+   },
+   {
+      "artist" : "Frums Obj.Triforce",
+      "comment" : "ガチ押し入門",
+      "level" : "4",
+      "md5" : "6113094f09e3d6f563c0c33a96519b2e",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "08bd4b1387cd861ab6f82b827e0faba0523942f134ac1763337c7be69bee5d18",
+      "submission" : 884,
+      "title" : "Wavetapper [Normality.]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=142&event=104",
+      "url_diff" : "http://www.dropbox.com/s/weyy4f1ud22aort/_wavetapper_triforce.bms?dl=0",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "75.00",
       "voteYes" : 1
    },
    {
@@ -214,9 +265,9 @@
       "title" : "異想天",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=196&event=123",
       "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 100,
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "50.00",
       "voteYes" : 1
    },
    {
@@ -234,7 +285,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 7
    },
    {
       "artist" : "篠螺悠那　obj:C4",
@@ -250,8 +301,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01973",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "70.00",
-      "voteYes" : 6
+      "votePercent" : "75.00",
+      "voteYes" : 8
    },
    {
       "artist" : "Artifact obj:SANY",
@@ -267,8 +318,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02890",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "75.00",
-      "voteYes" : 1
+      "votePercent" : "90.00",
+      "voteYes" : 4
    },
    {
       "artist" : "kinaphar",
@@ -282,10 +333,26 @@
       "title" : "PANIC RACE!",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=86&event=121",
       "url_diff" : "",
-      "voteNeutral" : 3,
+      "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "79.17",
-      "voteYes" : 8
+      "votePercent" : "80.77",
+      "voteYes" : 9
+   },
+   {
+      "artist" : "Widowmaker Obj.Triforce",
+      "level" : "3",
+      "md5" : "938acecd03ff1f0a178abfebb1ed1f2b",
+      "proposer" : "Triforce",
+      "proposerLr2id" : 18553,
+      "sha256" : "92c894facd0fd247dc80cad907fa39eac1944493bfae121fcf06b43fecef0290",
+      "submission" : 885,
+      "title" : "Giselle [Leggiero]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=262&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02659",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "削除 obj:LAPIS",
@@ -302,7 +369,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 5
    },
    {
       "artist" : "DJ LATI BGA : EMSH / Obj. B_K vs Z_N",
@@ -318,8 +385,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 8
    },
    {
       "artist" : "Flat:nique Dolls Orchestra Illustration : まど / selene.",
@@ -336,7 +403,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "NGTMT",
@@ -350,10 +417,10 @@
       "title" : "N-Flux -ANOTHER-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=241&event=123",
       "url_diff" : "",
-      "voteNeutral" : 3,
+      "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "79.17",
-      "voteYes" : 8
+      "votePercent" : "80.77",
+      "voteYes" : 9
    },
    {
       "artist" : "Sakamiya feat.A.Dokuga img:HalHAL Lyrics:uoru notes:ELIGOS",
@@ -367,10 +434,10 @@
       "title" : "Epic Bellum -universum- [Stardust]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=258&event=110",
       "url_diff" : "",
-      "voteNeutral" : 3,
-      "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 6
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "77.27",
+      "voteYes" : 7
    },
    {
       "artist" : "itaojirou / obj.OXYGEN",
@@ -384,10 +451,10 @@
       "title" : "Chinese Tea -Re:O2ther-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=92",
       "url_diff" : "https://drive.google.com/drive/folders/0B4chFHpe-ae4UG9zMDlwcGZiM0U",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "80.00",
+      "voteYes" : 4
    },
    {
       "artist" : "Clotho feat.Salita obj:Magical Girl \"Alisa\"",
@@ -403,8 +470,8 @@
       "url_diff" : "http://ux.getuploader.com/monaka_sabun_2/download/84/%5BRe_Resolutions+-+Signal+Stars%5DMGA.zip",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "votePercent" : "90.00",
+      "voteYes" : 4
    },
    {
       "artist" : "Δ→Low obj:1/8",
@@ -418,10 +485,10 @@
       "title" : "demonic juggernauts [Out of control]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=156&event=110",
       "url_diff" : "http://oneeighth.web.fc2.com/patterns.html",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "66.67",
+      "voteYes" : 2
    },
    {
       "artist" : "TRIAL / obj:C4 BGA:KinCraft",
@@ -438,7 +505,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 7
    },
    {
       "artist" : "urimu/obj:るっくん Movie:RAIDEN",
@@ -452,10 +519,10 @@
       "title" : "Bicolor Spirit [EXHARD]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=92",
       "url_diff" : "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html",
-      "voteNeutral" : 3,
+      "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 6
+      "votePercent" : "79.17",
+      "voteYes" : 8
    },
    {
       "artist" : "BMS:9-zen",
@@ -471,8 +538,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "風鈴奏 obj: qtp13",
@@ -488,8 +555,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02485",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "75.00",
-      "voteYes" : 1
+      "votePercent" : "87.50",
+      "voteYes" : 3
    },
    {
       "artist" : "Nota / obj:Kennifh BGI:雪椿",
@@ -505,8 +572,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "loz",
@@ -536,9 +603,9 @@
       "title" : "Last Battle-T260G- [Emilia]",
       "url" : "http://web.archive.org/web/20140204192232/http://www46.tok2.com/home2/gyaondjaho/g_T260G.rar",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02757",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "71.43",
+      "voteYes" : 4
    }
 ]
