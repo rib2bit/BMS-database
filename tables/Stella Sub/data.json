@@ -2729,6 +2729,19 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01308"
    },
    {
+      "artist" : "obj:C4 + monaka bms:暮狛 / mov:くわぎう",
+      "comment" : "めっちゃ高速で体力が必要",
+      "level" : "0",
+      "md5" : "34351df4a8fd05e9f181bfd6a134316a",
+      "proposer" : "C4",
+      "proposerLr2id" : 120385,
+      "sha256" : "eb167b7f38fd9cba64bf42d59bdf62ff3566243e574d4f86277c1ea1adc962d9",
+      "submission" : 920,
+      "title" : "【Freak《Show】Down》 -Julius Caesar-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=166&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02736"
+   },
+   {
       "artist" : "sa10 / 少名 針妙丸",
       "comment" : "物量 ・地力",
       "level" : "1",
@@ -12483,6 +12496,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Yu^ta / obj ξ青龍ξ",
+      "comment" : "デニム系",
+      "level" : "2",
+      "md5" : "e978ed41186641584c9de0a9ecc827ec",
+      "proposer" : "C4",
+      "proposerLr2id" : 120385,
+      "sha256" : "96a1436c555534e117359f11af3e2956493f2c007bd2b7ebfe58d7664e0fd6c4",
+      "submission" : 921,
+      "title" : "人形楽団　～ Puppet Ensemble ・∀・ ～ [SEIRYU　EX]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=154&event=60",
+      "url_diff" : "http://kusaiseiryu.web.fc2.com/doblestairs.html"
    },
    {
       "artist" : "2TORI obj:Monsta",

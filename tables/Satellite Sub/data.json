@@ -3238,6 +3238,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "ETIA. vs MM Sequence",
+      "comment" : "",
+      "level" : "11",
+      "md5" : "3f874970e3824730b7b4d04d0271c360",
+      "proposer" : "なつ",
+      "proposerLr2id" : 65517,
+      "sha256" : "e6991c849616c9a43494e17b03b00b6db2e29c371a7090af450e50586eacdf4f",
+      "submission" : 887,
+      "title" : "DISCHARGE RUSH  [metallic]",
+      "url" : "http://uploader.bms.ms/data/dischargerush/etia_vs_mm_sequence_ogg.zip",
+      "url_diff" : "http://absolute.pv.land.to/uploader/src/up5619.zip"
+   },
+   {
       "artist" : "ZUN (Arr.sun3) / obj.OXYGEN",
       "comment" : "体力",
       "level" : "6",
@@ -5237,23 +5250,6 @@
       "voteYes" : 0
    },
    {
-      "artist" : "橘花音 かなえゆめ composed by nmk /obj:wak",
-      "comment" : "(▼2 + ★18) / 2, ラスト重め",
-      "level" : "9",
-      "md5" : "5fbcadabbbfe3b20e908e228e843deaf",
-      "proposer" : "鷺沢文香",
-      "proposerLr2id" : 133436,
-      "sha256" : "d6a753e4ba671b607acdd99a078bb490228c6ce3e6fe2774828e6f406f64d7f3",
-      "submission" : 746,
-      "title" : "図書室のエルザ [Fairytale]",
-      "url" : "http://tosyosituno-elsa.tumblr.com/",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02337",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
       "artist" : "void Momomi Aoyama / obj: ランダマイザ",
       "comment" : "乱打",
       "level" : "9",
@@ -5554,6 +5550,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "sasakure.UK / 霜深",
+      "comment" : "◆",
+      "level" : "4",
+      "md5" : "656eb55195b70a59c7d16970d494596b",
+      "proposer" : "AXION",
+      "proposerLr2id" : 37523,
+      "sha256" : "2d4f6fe4c6d6062125a6560a5abdb9b98fc8b877315ea033e19bf92cd0565203",
+      "submission" : 889,
+      "title" : "Jack-the-Ripper◆",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=146&event=60",
+      "url_diff" : "http://absolute.pv.land.to/uploader/src/up0614.rar"
    },
    {
       "artist" : "sky_delta obj. Limite + DK",
@@ -7762,6 +7771,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Nizikawa feat. nayuta Movie: Air",
+      "comment" : "階段とか",
+      "level" : "0",
+      "md5" : "9134c91427566754a154a7ca87b55762",
+      "proposer" : "SANY",
+      "proposerLr2id" : 128405,
+      "sha256" : "23425eec18c4260716cb553d5325f805201ab55871466023c02523b38ee6345a",
+      "submission" : 888,
+      "title" : "Babel [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=29&event=110",
+      "url_diff" : ""
+   },
+   {
       "artist" : "BMS:9-zen / OBJ:ピッチ",
       "comment" : "BPM174の16分",
       "level" : "2",
@@ -8420,22 +8442,6 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=116",
       "url_diff" : "",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
-      "artist" : "MisomyL",
-      "comment" : "sl10~11?",
-      "level" : "11",
-      "md5" : "9ee580c4d5fc5ee6bdf61e4e366a1975",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "022b148f7bd8f468b82c85fece80d8416ef00c359cacd061dc82122dda587d7d",
-      "submission" : 310,
-      "title" : "Amnehilesie [Etude]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=362&event=123",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02527",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0

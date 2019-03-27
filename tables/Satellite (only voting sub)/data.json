@@ -11,10 +11,10 @@
       "title" : "Sugar｡ﾙBlaster",
       "url" : "https://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=45&order=reg&odtype=a",
       "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "80.00",
+      "voteYes" : 4
    },
    {
       "artist" : "吟世かいな obj: 8posai edit by qtp13",
@@ -47,7 +47,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02349",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "62.50",
+      "votePercent" : "60.00",
       "voteYes" : 2
    },
    {
@@ -64,8 +64,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 3
+      "votePercent" : "92.86",
+      "voteYes" : 6
    },
    {
       "artist" : "BOKKEN GREEN+PURPLE BOKKEN VIOLET / BOKKEN PRUSSIAN(obj:kaguya)",
@@ -79,10 +79,10 @@
       "title" : "Bの悲劇 [Kの惨劇]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=108&event=65",
       "url_diff" : "https://bmscharteditorsgroup.wixsite.com/initialatoz",
-      "voteNeutral" : 4,
-      "voteNo" : 4,
-      "votePercent" : "35.71",
-      "voteYes" : 2
+      "voteNeutral" : 5,
+      "voteNo" : 5,
+      "votePercent" : "38.89",
+      "voteYes" : 3
    },
    {
       "artist" : "HARD RENAISSAMBA MASTER 佐藤 -SATOH- obj.JoeT",
@@ -116,7 +116,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "keyc",
@@ -132,8 +132,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "85.00",
-      "voteYes" : 7
+      "votePercent" : "86.36",
+      "voteYes" : 8
    },
    {
       "artist" : "Pinky/さ",
@@ -149,8 +149,25 @@
       "url_diff" : "http://sabosabun.tank.jp/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 4
+      "votePercent" : "91.67",
+      "voteYes" : 5
+   },
+   {
+      "artist" : "ETIA. vs MM Sequence",
+      "comment" : "",
+      "level" : "11",
+      "md5" : "3f874970e3824730b7b4d04d0271c360",
+      "proposer" : "なつ",
+      "proposerLr2id" : 65517,
+      "sha256" : "e6991c849616c9a43494e17b03b00b6db2e29c371a7090af450e50586eacdf4f",
+      "submission" : 887,
+      "title" : "DISCHARGE RUSH  [metallic]",
+      "url" : "http://uploader.bms.ms/data/dischargerush/etia_vs_mm_sequence_ogg.zip",
+      "url_diff" : "http://absolute.pv.land.to/uploader/src/up5619.zip",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "ccgc",
@@ -167,7 +184,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "LeaF Movie:Optie / obj:LTFE♪",
@@ -183,7 +200,7 @@
       "url_diff" : "http://1drv.ms/1kE1jlU",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "64.29",
+      "votePercent" : "62.50",
       "voteYes" : 3
    },
    {
@@ -216,8 +233,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "85.71",
-      "voteYes" : 6
+      "votePercent" : "83.33",
+      "voteYes" : 7
    },
    {
       "artist" : "lazward BGA:ましろ / obj.siokaze",
@@ -234,7 +251,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 5
    },
    {
       "artist" : "Frums Obj.Triforce",
@@ -250,7 +267,24 @@
       "url_diff" : "http://www.dropbox.com/s/weyy4f1ud22aort/_wavetapper_triforce.bms?dl=0",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "75.00",
+      "votePercent" : "80.00",
+      "voteYes" : 3
+   },
+   {
+      "artist" : "sasakure.UK / 霜深",
+      "comment" : "◆",
+      "level" : "4",
+      "md5" : "656eb55195b70a59c7d16970d494596b",
+      "proposer" : "AXION",
+      "proposerLr2id" : 37523,
+      "sha256" : "2d4f6fe4c6d6062125a6560a5abdb9b98fc8b877315ea033e19bf92cd0565203",
+      "submission" : 889,
+      "title" : "Jack-the-Ripper◆",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=146&event=60",
+      "url_diff" : "http://absolute.pv.land.to/uploader/src/up0614.rar",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
       "voteYes" : 1
    },
    {
@@ -265,9 +299,9 @@
       "title" : "異想天",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=196&event=123",
       "url_diff" : "",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "50.00",
+      "voteNeutral" : 2,
+      "voteNo" : 2,
+      "votePercent" : "40.00",
       "voteYes" : 1
    },
    {
@@ -285,7 +319,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
    },
    {
       "artist" : "篠螺悠那　obj:C4",
@@ -301,8 +335,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01973",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "75.00",
-      "voteYes" : 8
+      "votePercent" : "76.92",
+      "voteYes" : 9
    },
    {
       "artist" : "Artifact obj:SANY",
@@ -318,8 +352,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02890",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 4
+      "votePercent" : "91.67",
+      "voteYes" : 5
    },
    {
       "artist" : "kinaphar",
@@ -339,6 +373,23 @@
       "voteYes" : 9
    },
    {
+      "artist" : "Nizikawa feat. nayuta Movie: Air",
+      "comment" : "階段とか",
+      "level" : "0",
+      "md5" : "9134c91427566754a154a7ca87b55762",
+      "proposer" : "SANY",
+      "proposerLr2id" : 128405,
+      "sha256" : "23425eec18c4260716cb553d5325f805201ab55871466023c02523b38ee6345a",
+      "submission" : 888,
+      "title" : "Babel [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=29&event=110",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "Widowmaker Obj.Triforce",
       "level" : "3",
       "md5" : "938acecd03ff1f0a178abfebb1ed1f2b",
@@ -352,7 +403,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "削除 obj:LAPIS",
@@ -366,10 +417,10 @@
       "title" : "Altale [the story]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=150&event=96",
       "url_diff" : "http://lapisbms.web.fc2.com/",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "85.71",
+      "voteYes" : 6
    },
    {
       "artist" : "DJ LATI BGA : EMSH / Obj. B_K vs Z_N",
@@ -386,7 +437,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 10
    },
    {
       "artist" : "Flat:nique Dolls Orchestra Illustration : まど / selene.",
@@ -403,7 +454,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 5
    },
    {
       "artist" : "NGTMT",
@@ -419,7 +470,7 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "80.77",
+      "votePercent" : "78.57",
       "voteYes" : 9
    },
    {
@@ -470,25 +521,8 @@
       "url_diff" : "http://ux.getuploader.com/monaka_sabun_2/download/84/%5BRe_Resolutions+-+Signal+Stars%5DMGA.zip",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 4
-   },
-   {
-      "artist" : "Δ→Low obj:1/8",
-      "comment" : "",
-      "level" : "7",
-      "md5" : "c9dd107007f60eb4064686f647d3333a",
-      "proposer" : "姫川友紀",
-      "proposerLr2id" : 125835,
-      "sha256" : "d28d2128732c48c17b7ec4d74ee6bcff0c21018e39d3f98dd0998fdbf4ac6c61",
-      "submission" : 876,
-      "title" : "demonic juggernauts [Out of control]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=156&event=110",
-      "url_diff" : "http://oneeighth.web.fc2.com/patterns.html",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "66.67",
-      "voteYes" : 2
+      "votePercent" : "85.71",
+      "voteYes" : 5
    },
    {
       "artist" : "TRIAL / obj:C4 BGA:KinCraft",
@@ -505,7 +539,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
    },
    {
       "artist" : "urimu/obj:るっくん Movie:RAIDEN",
@@ -538,8 +572,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 3
+      "votePercent" : "87.50",
+      "voteYes" : 6
    },
    {
       "artist" : "風鈴奏 obj: qtp13",
@@ -555,8 +589,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02485",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 3
+      "votePercent" : "83.33",
+      "voteYes" : 4
    },
    {
       "artist" : "Nota / obj:Kennifh BGI:雪椿",
@@ -573,7 +607,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "loz",
@@ -605,7 +639,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02757",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "71.43",
-      "voteYes" : 4
+      "votePercent" : "75.00",
+      "voteYes" : 5
    }
 ]
