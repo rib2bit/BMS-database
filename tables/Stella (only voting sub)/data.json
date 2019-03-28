@@ -11,10 +11,27 @@
       "title" : "Vorota [UETHER]",
       "url" : "http://nekokan.dyndns.info/~ndk/music/1st-8-vorota_remix-armytom.html",
       "url_diff" : "http://uetnosubarashikikusosabun.web.fc2.com/index.html",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "83.33",
+      "voteYes" : 5
+   },
+   {
+      "artist" : "ikaruga_nex",
+      "comment" : "物量、ソフラン",
+      "level" : "4",
+      "md5" : "16dd408d1d22155c40a99caf5e3e0b1b",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "155452ea2256a0e260021a5b53ad31236104c02c9c371b73ebf079e44eee99a5",
+      "submission" : 922,
+      "title" : "ReviXy [Excelsior]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=179&event=123",
+      "url_diff" : "https://sites.google.com/site/ibmssabun/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 5
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "xi / obj:Monsta",
@@ -31,7 +48,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "obj:C4 + monaka bms:暮狛 / mov:くわぎう",
@@ -47,8 +64,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02736",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "uet / obj:C4 + rat",
@@ -65,7 +82,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 5
    },
    {
       "artist" : "sasakure.∩K/ 差分 赤い人",
@@ -81,7 +98,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "Cres / obj:v",
@@ -98,7 +115,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "dj sept-em obj:VINYL",
@@ -148,7 +165,7 @@
       "url_diff" : "https://drive.google.com/drive/folders/0B4chFHpe-ae4UG9zMDlwcGZiM0U",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "87.50",
       "voteYes" : 3
    },
    {
@@ -165,8 +182,8 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "75.00",
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "Limstella BGA:アカツキユウ / obj:仙人掌の人",
@@ -182,7 +199,7 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "91.67",
       "voteYes" : 5
    },
    {
@@ -216,7 +233,7 @@
       "url_diff" : "http://kusaiseiryu.web.fc2.com/doblestairs.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    }
 ]

@@ -1128,6 +1128,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "ikaruga_nex",
+      "comment" : "物量、ソフラン",
+      "level" : "4",
+      "md5" : "16dd408d1d22155c40a99caf5e3e0b1b",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "155452ea2256a0e260021a5b53ad31236104c02c9c371b73ebf079e44eee99a5",
+      "submission" : 922,
+      "title" : "ReviXy [Excelsior]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=179&event=123",
+      "url_diff" : "https://sites.google.com/site/ibmssabun/"
+   },
+   {
       "artist" : "ノクティス・江口・チェラム / obj morio",
       "comment" : "縦連階段",
       "level" : "8",
