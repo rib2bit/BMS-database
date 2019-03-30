@@ -30,8 +30,8 @@
       "url_diff" : "https://sites.google.com/site/ibmssabun/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "75.00",
-      "voteYes" : 1
+      "votePercent" : "83.33",
+      "voteYes" : 2
    },
    {
       "artist" : "xi / obj:Monsta",
@@ -98,7 +98,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "Cres / obj:v",
@@ -118,6 +118,23 @@
       "voteYes" : 3
    },
    {
+      "artist" : "zun (obj:yuyuko)",
+      "comment" : "A little forgotten chart",
+      "level" : "3",
+      "md5" : "8816823b398ee07c09f27f4f74b44c79",
+      "proposer" : "Skalim",
+      "proposerLr2id" : 69073,
+      "sha256" : "3353f4799a3815389f982f9da8ee4c284223f67f65247aea5ba1b717c3af9527",
+      "submission" : 923,
+      "title" : "感情の摩天楼 ～ Cosmic Mind (PHANTASM)",
+      "url" : "http://skydrive.live.com/?cid=ce1dd07774d515b4&sc=documents&sa=711876339&id=CE1DD07774D515B4%21363",
+      "url_diff" : "",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "66.67",
+      "voteYes" : 2
+   },
+   {
       "artist" : "dj sept-em obj:VINYL",
       "comment" : "lastkill kachifushi",
       "level" : "4",
@@ -132,7 +149,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 5
    },
    {
       "artist" : "Gun-SEKI feat.那珂 / U / Ds",
@@ -183,7 +200,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "Limstella BGA:アカツキユウ / obj:仙人掌の人",
@@ -197,9 +214,9 @@
       "title" : "Anima Mundi -Incipiens Finis- [EX]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=104",
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "91.67",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "78.57",
       "voteYes" : 5
    },
    {
@@ -216,8 +233,8 @@
       "url_diff" : "https://sites.google.com/site/ibmssabun/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "66.67",
-      "voteYes" : 1
+      "votePercent" : "75.00",
+      "voteYes" : 2
    },
    {
       "artist" : "Yu^ta / obj ξ青龍ξ",
@@ -231,9 +248,9 @@
       "title" : "人形楽団　～ Puppet Ensemble ・∀・ ～ [SEIRYU　EX]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=154&event=60",
       "url_diff" : "http://kusaiseiryu.web.fc2.com/doblestairs.html",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "80.00",
+      "voteYes" : 4
    }
 ]

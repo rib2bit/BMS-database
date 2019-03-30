@@ -1601,6 +1601,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "yuki.s",
+      "comment" : "体力譜面",
+      "level" : "0",
+      "md5" : "1d2e41e38436604799ae4610338fae73",
+      "proposer" : "moai",
+      "proposerLr2id" : 89156,
+      "sha256" : "aa2436f41cdcd6f635ffc2509b5e85d71402ff9f739a554070d92265fc18861b",
+      "submission" : 891,
+      "title" : "Colorful Dream [赤]",
+      "url" : "http://elepro.webcrow.jp/mgs4th.html",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Gun-SEKI feat.那珂 obj:SUZUKAZEΛ",
       "level" : "2",
       "md5" : "1d71b656cb6d440b5f10762beabc6f0c",
