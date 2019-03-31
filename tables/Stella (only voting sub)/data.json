@@ -28,9 +28,9 @@
       "title" : "ReviXy [Excelsior]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=179&event=123",
       "url_diff" : "https://sites.google.com/site/ibmssabun/",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "83.33",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "62.50",
       "voteYes" : 2
    },
    {
@@ -62,10 +62,44 @@
       "title" : "【Freak《Show】Down》 -Julius Caesar-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=166&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02736",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "62.50",
+      "voteYes" : 2
+   },
+   {
+      "artist" : "カラフル・サウンズ・ポート/mov:むらしん/obj:赤い人",
+      "comment" : "DDEELLAAYY",
+      "level" : "4",
+      "md5" : "346c53f7ed3a654a24a8d037b5929200",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "0300fd1e88c2d221acbb61d02fb3bda83e7d985201dcde551d711d094ba10691",
+      "submission" : 925,
+      "title" : "聖戦の輪舞 [DELAYMASTER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=515&event=110",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/seisen_DELAYMASTER.bms",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "83.33",
+      "votePercent" : "100.00",
       "voteYes" : 2
+   },
+   {
+      "artist" : "LiA",
+      "comment" : "",
+      "level" : "0",
+      "md5" : "3a182912aec1bacd7f5d38a4dc42de9d",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "588ef3602c6b2a22600bca5ac141148d6406971c589da2f51e52eae3f4b201eb",
+      "submission" : 924,
+      "title" : "少女監獄ヴァンパイアフィリア -LiALIZE-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=359&event=110",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 6
    },
    {
       "artist" : "uet / obj:C4 + rat",
@@ -112,9 +146,9 @@
       "title" : "End Time -to the heaven-",
       "url" : "https://mega.nz/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02842",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "75.00",
       "voteYes" : 3
    },
    {
@@ -163,9 +197,9 @@
       "title" : "恋の2-4-11(BMS Edit) -大破進軍-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=96",
       "url_diff" : "http://sagena.harisen.jp/bms/koi2411.zip",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "66.67",
       "voteYes" : 2
    },
    {
@@ -180,9 +214,9 @@
       "title" : "Singing of Night birds -Night...more...-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=37&event=92",
       "url_diff" : "https://drive.google.com/drive/folders/0B4chFHpe-ae4UG9zMDlwcGZiM0U",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "87.50",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "70.00",
       "voteYes" : 3
    },
    {
@@ -199,7 +233,7 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "91.67",
       "voteYes" : 5
    },
    {
@@ -233,8 +267,8 @@
       "url_diff" : "https://sites.google.com/site/ibmssabun/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "75.00",
-      "voteYes" : 2
+      "votePercent" : "80.00",
+      "voteYes" : 3
    },
    {
       "artist" : "Yu^ta / obj ξ青龍ξ",

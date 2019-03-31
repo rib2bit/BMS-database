@@ -79,10 +79,10 @@
       "title" : "Colorful Dream [赤]",
       "url" : "http://elepro.webcrow.jp/mgs4th.html",
       "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "80.00",
+      "voteYes" : 4
    },
    {
       "artist" : "BOKKEN GREEN+PURPLE BOKKEN VIOLET / BOKKEN PRUSSIAN(obj:kaguya)",
@@ -96,10 +96,10 @@
       "title" : "Bの悲劇 [Kの惨劇]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=108&event=65",
       "url_diff" : "https://bmscharteditorsgroup.wixsite.com/initialatoz",
-      "voteNeutral" : 8,
-      "voteNo" : 8,
-      "votePercent" : "34.62",
-      "voteYes" : 4
+      "voteNeutral" : 9,
+      "voteNo" : 9,
+      "votePercent" : "36.67",
+      "voteYes" : 5
    },
    {
       "artist" : "HARD RENAISSAMBA MASTER 佐藤 -SATOH- obj.JoeT",
@@ -115,8 +115,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02875",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 8
+      "votePercent" : "90.91",
+      "voteYes" : 9
    },
    {
       "artist" : "うまるつふり obj.sitoras",
@@ -136,6 +136,40 @@
       "voteYes" : 7
    },
    {
+      "artist" : "琴瀬悠",
+      "comment" : "乱打",
+      "level" : "2",
+      "md5" : "27512227d8e2b13f38121c15d39eec5d",
+      "proposer" : "monaka",
+      "proposerLr2id" : 93763,
+      "sha256" : "6c11e06aa961cb3fb63479f21148e1e6fd4eb3081002a727a3bfd859ab285918",
+      "submission" : 892,
+      "title" : "Holy Lightbringer [7KEYS ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=112",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
+      "artist" : "Y.W / A",
+      "comment" : "春、同時押し",
+      "level" : "1",
+      "md5" : "34aa8b9d669442d347dfd42833b67d6a",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "575146475195c0822ceafa712294b4728f66a3b7d8b17a260f6332f0d0ad5948",
+      "submission" : 893,
+      "title" : "はるいろ こみち [春]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=69",
+      "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "keyc",
       "comment" : "sl3〜4 結構総合力で面白い譜面",
       "level" : "3",
@@ -149,8 +183,8 @@
       "url_diff" : "",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "71.43",
-      "voteYes" : 8
+      "votePercent" : "73.33",
+      "voteYes" : 9
    },
    {
       "artist" : "Pinky/さ",
@@ -183,8 +217,8 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up5619.zip",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "83.33",
-      "voteYes" : 7
+      "votePercent" : "85.00",
+      "voteYes" : 8
    },
    {
       "artist" : "ccgc",
@@ -201,7 +235,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 9
    },
    {
       "artist" : "LeaF Movie:Optie / obj:LTFE♪",
@@ -217,7 +251,7 @@
       "url_diff" : "http://1drv.ms/1kE1jlU",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "65.38",
+      "votePercent" : "64.29",
       "voteYes" : 5
    },
    {
@@ -233,8 +267,25 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/_7keys3HARDESTf.bms",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "94.44",
-      "voteYes" : 8
+      "votePercent" : "95.45",
+      "voteYes" : 10
+   },
+   {
+      "artist" : "Y.W / A",
+      "comment" : "秋、低速物量",
+      "level" : "3",
+      "md5" : "578cf24b6064631eb94e02d21db498e9",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "ccab01cb66be1d573666c134218fcbdabab479701455d9dc8229e23425c8a319",
+      "submission" : 894,
+      "title" : "あきいろ アルバム [秋]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=89",
+      "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "[IX] / BGA : EMSH obj.XYZ",
@@ -250,8 +301,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "83.33",
-      "voteYes" : 9
+      "votePercent" : "84.62",
+      "voteYes" : 10
    },
    {
       "artist" : "lazward BGA:ましろ / obj.siokaze",
@@ -268,7 +319,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
+      "voteYes" : 10
    },
    {
       "artist" : "Frums Obj.Triforce",
@@ -284,8 +335,8 @@
       "url_diff" : "http://www.dropbox.com/s/weyy4f1ud22aort/_wavetapper_triforce.bms?dl=0",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 8
+      "votePercent" : "90.91",
+      "voteYes" : 9
    },
    {
       "artist" : "sasakure.UK / 霜深",
@@ -299,9 +350,9 @@
       "title" : "Jack-the-Ripper◆",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=146&event=60",
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up0614.rar",
-      "voteNeutral" : 6,
-      "voteNo" : 6,
-      "votePercent" : "35.00",
+      "voteNeutral" : 7,
+      "voteNo" : 7,
+      "votePercent" : "31.82",
       "voteYes" : 3
    },
    {
@@ -352,8 +403,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01973",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "81.25",
-      "voteYes" : 12
+      "votePercent" : "82.35",
+      "voteYes" : 13
    },
    {
       "artist" : "Artifact obj:SANY",
@@ -369,8 +420,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02890",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.00",
-      "voteYes" : 9
+      "votePercent" : "95.45",
+      "voteYes" : 10
    },
    {
       "artist" : "kinaphar",
@@ -404,7 +455,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 14
+      "voteYes" : 15
    },
    {
       "artist" : "Widowmaker Obj.Triforce",
@@ -419,7 +470,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02659",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "70.00",
+      "votePercent" : "68.18",
       "voteYes" : 6
    },
    {
@@ -436,8 +487,8 @@
       "url_diff" : "http://lapisbms.web.fc2.com/",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "92.31",
-      "voteYes" : 12
+      "votePercent" : "92.86",
+      "voteYes" : 13
    },
    {
       "artist" : "DJ LATI BGA : EMSH / Obj. B_K vs Z_N",
@@ -521,8 +572,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "77.27",
-      "voteYes" : 7
+      "votePercent" : "79.17",
+      "voteYes" : 8
    },
    {
       "artist" : "itaojirou / obj.OXYGEN",
@@ -538,8 +589,8 @@
       "url_diff" : "https://drive.google.com/drive/folders/0B4chFHpe-ae4UG9zMDlwcGZiM0U",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "83.33",
-      "voteYes" : 7
+      "votePercent" : "85.00",
+      "voteYes" : 8
    },
    {
       "artist" : "Clotho feat.Salita obj:Magical Girl \"Alisa\"",
@@ -555,8 +606,8 @@
       "url_diff" : "http://ux.getuploader.com/monaka_sabun_2/download/84/%5BRe_Resolutions+-+Signal+Stars%5DMGA.zip",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "81.82",
-      "voteYes" : 7
+      "votePercent" : "85.71",
+      "voteYes" : 10
    },
    {
       "artist" : "TRIAL / obj:C4 BGA:KinCraft",
@@ -589,8 +640,8 @@
       "url_diff" : "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "82.14",
-      "voteYes" : 10
+      "votePercent" : "83.33",
+      "voteYes" : 11
    },
    {
       "artist" : "BMS:9-zen",
@@ -673,7 +724,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02757",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "80.77",
-      "voteYes" : 9
+      "votePercent" : "82.14",
+      "voteYes" : 10
    }
 ]

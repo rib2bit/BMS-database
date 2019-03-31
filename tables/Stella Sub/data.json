@@ -2785,6 +2785,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "カラフル・サウンズ・ポート/mov:むらしん/obj:赤い人",
+      "comment" : "DDEELLAAYY",
+      "level" : "4",
+      "md5" : "346c53f7ed3a654a24a8d037b5929200",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "0300fd1e88c2d221acbb61d02fb3bda83e7d985201dcde551d711d094ba10691",
+      "submission" : 925,
+      "title" : "聖戦の輪舞 [DELAYMASTER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=515&event=110",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/seisen_DELAYMASTER.bms"
+   },
+   {
       "artist" : "wa. / 百舌谷 / selene.",
       "level" : "10",
       "md5" : "352a8a1dd95dc5c9d06a49fc923caa14",
@@ -3101,6 +3114,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "LiA",
+      "comment" : "",
+      "level" : "0",
+      "md5" : "3a182912aec1bacd7f5d38a4dc42de9d",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "588ef3602c6b2a22600bca5ac141148d6406971c589da2f51e52eae3f4b201eb",
+      "submission" : 924,
+      "title" : "少女監獄ヴァンパイアフィリア -LiALIZE-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=359&event=110",
+      "url_diff" : ""
    },
    {
       "artist" : "zest:rave / obj:BAECON",
