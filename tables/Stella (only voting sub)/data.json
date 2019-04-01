@@ -82,7 +82,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "LiA",
@@ -214,9 +214,9 @@
       "title" : "Singing of Night birds -Night...more...-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=37&event=92",
       "url_diff" : "https://drive.google.com/drive/folders/0B4chFHpe-ae4UG9zMDlwcGZiM0U",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "70.00",
+      "voteNeutral" : 2,
+      "voteNo" : 2,
+      "votePercent" : "58.33",
       "voteYes" : 3
    },
    {
@@ -282,9 +282,9 @@
       "title" : "人形楽団　～ Puppet Ensemble ・∀・ ～ [SEIRYU　EX]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=154&event=60",
       "url_diff" : "http://kusaiseiryu.web.fc2.com/doblestairs.html",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "80.00",
+      "voteNeutral" : 2,
+      "voteNo" : 2,
+      "votePercent" : "66.67",
       "voteYes" : 4
    }
 ]
