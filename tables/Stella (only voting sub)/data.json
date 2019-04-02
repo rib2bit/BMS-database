@@ -165,8 +165,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "66.67",
-      "voteYes" : 2
+      "votePercent" : "75.00",
+      "voteYes" : 3
    },
    {
       "artist" : "dj sept-em obj:VINYL",
@@ -286,5 +286,22 @@
       "voteNo" : 2,
       "votePercent" : "66.67",
       "voteYes" : 4
+   },
+   {
+      "artist" : "ZUN Remixed by NoKANY obj: Scely",
+      "comment" : "高速乱打",
+      "level" : "0",
+      "md5" : "eb25dca7e802ccac43477f9f6e3e9bee",
+      "proposer" : "OXYGEN",
+      "proposerLr2id" : 133294,
+      "sha256" : "83796369a9cf76e848229610cc1747dae84da9c51374979fc63fe7992ba60734",
+      "submission" : 926,
+      "title" : "禁忌と緋色幻想 -The Primary Plasm- [SP ANOTHER]",
+      "url" : "https://www.dropbox.com/s/zuj65kf95jhncp6/The%20Primary%20Plasm%20%28NoKANY%29.zip?dl=0",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    }
 ]
