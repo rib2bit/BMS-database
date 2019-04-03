@@ -13,8 +13,8 @@
       "url_diff" : "",
       "voteNeutral" : 3,
       "voteNo" : 3,
-      "votePercent" : "61.11",
-      "voteYes" : 5
+      "votePercent" : "63.64",
+      "voteYes" : 6
    },
    {
       "artist" : "吟世かいな obj: 8posai edit by qtp13",
@@ -30,8 +30,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02721",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "50.00",
-      "voteYes" : 2
+      "votePercent" : "57.14",
+      "voteYes" : 3
    },
    {
       "artist" : "ROKINA/obj:M BGA:アカツキユウ",
@@ -81,8 +81,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "68.75",
-      "voteYes" : 4
+      "votePercent" : "75.00",
+      "voteYes" : 6
    },
    {
       "artist" : "BOKKEN GREEN+PURPLE BOKKEN VIOLET / BOKKEN PRUSSIAN(obj:kaguya)",
@@ -115,7 +115,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02875",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.91",
+      "votePercent" : "87.50",
       "voteYes" : 9
    },
    {
@@ -132,7 +132,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02782",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "95.00",
       "voteYes" : 9
    },
    {
@@ -150,7 +150,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 7
    },
    {
       "artist" : "Y.W / A",
@@ -166,8 +166,8 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 4
+      "votePercent" : "92.86",
+      "voteYes" : 6
    },
    {
       "artist" : "keyc",
@@ -198,9 +198,9 @@
       "title" : "妹軍団襲来 (あなざー)",
       "url" : "http://web.archive.org/web/20010616011606/www.angel.ne.jp/~pink/bms/sisterbm.lzh",
       "url_diff" : "http://sabosabun.tank.jp/",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "77.78",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "70.00",
       "voteYes" : 5
    },
    {
@@ -217,8 +217,8 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up5619.zip",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "85.00",
-      "voteYes" : 8
+      "votePercent" : "86.36",
+      "voteYes" : 9
    },
    {
       "artist" : "ccgc",
@@ -285,7 +285,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 6
    },
    {
       "artist" : "[IX] / BGA : EMSH obj.XYZ",
@@ -521,8 +521,8 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up6868.zip",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "votePercent" : "90.00",
+      "voteYes" : 4
    },
    {
       "artist" : "Flat:nique Dolls Orchestra Illustration : まど / selene.",
@@ -538,7 +538,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01139",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "95.83",
       "voteYes" : 11
    },
    {
@@ -659,6 +659,23 @@
       "voteNo" : 0,
       "votePercent" : "85.71",
       "voteYes" : 10
+   },
+   {
+      "artist" : "Xect. SeibaR/obj.sitoras",
+      "comment" : "皿複合、ズレ地帯、階段、乱打、二重階段、ラス殺し、少しLN\t",
+      "level" : "8",
+      "md5" : "eb30ea2c773db4276ab9675f475c2ef5",
+      "proposer" : "りゅー.",
+      "proposerMinirid" : "2eaf9886-51c3-4b4d-94a4-a7a5495480eb",
+      "sha256" : "6321ca2a9b84c581abf26559862453c4bade4a0ab3c787fd6ea952534693e6b9",
+      "submission" : 895,
+      "title" : "Emptiness 【Klarheit】",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=116&num=397",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01597",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "50.00",
+      "voteYes" : 1
    },
    {
       "artist" : "風鈴奏 obj: qtp13",
