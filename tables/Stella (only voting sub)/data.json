@@ -48,7 +48,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "obj:C4 + monaka bms:暮狛 / mov:くわぎう",
@@ -131,7 +131,7 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/seirei-INFELNO.bme",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "92.86",
       "voteYes" : 6
    },
    {
@@ -148,8 +148,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02842",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 3
+      "votePercent" : "80.00",
+      "voteYes" : 4
    },
    {
       "artist" : "zun (obj:yuyuko)",
@@ -165,8 +165,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 3
+      "votePercent" : "80.00",
+      "voteYes" : 4
    },
    {
       "artist" : "dj sept-em obj:VINYL",
@@ -199,7 +199,7 @@
       "url_diff" : "http://sagena.harisen.jp/bms/koi2411.zip",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "66.67",
+      "votePercent" : "62.50",
       "voteYes" : 2
    },
    {
@@ -284,8 +284,8 @@
       "url_diff" : "http://kusaiseiryu.web.fc2.com/doblestairs.html",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "66.67",
-      "voteYes" : 4
+      "votePercent" : "71.43",
+      "voteYes" : 5
    },
    {
       "artist" : "ZUN Remixed by NoKANY obj: Scely",
@@ -302,6 +302,6 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 5
    }
 ]
