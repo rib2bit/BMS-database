@@ -309,7 +309,7 @@
    {
       "artist" : "SOMON obj.hex",
       "comment" : "st5~6 total+",
-      "level" : "6",
+      "level" : "7",
       "md5" : "0c5a038e9fedb4c799051da04b3925d0",
       "proposer" : "qtp13",
       "sha256" : "84f76ee231e66c57808e10e87b2b0fd89400616365dbe8f9e494e90c1b28c8bc",
@@ -809,7 +809,7 @@
    {
       "artist" : "ATEMAK/さ/otoshi.b",
       "comment" : "st4~5",
-      "level" : "4",
+      "level" : "5",
       "md5" : "1a477f8c6c7ae8ac41ff44d24afc4e10",
       "proposer" : "qtp13",
       "sha256" : "bfd769180268d07eb3ca10fd11f9c444c54ec414054a288da01a9cc7223ae2ae",
@@ -833,7 +833,7 @@
    {
       "artist" : "Is-m // あまね（COOL&CREATE） BGA:sveki hamalu / obj.hex",
       "comment" : "Pentagon upgrade",
-      "level" : "4",
+      "level" : "5",
       "md5" : "1b1b4ccac295b1369af50edc300d0042",
       "proposer" : "LUXURY♪",
       "sha256" : "639cba0ea725cf26d8befc39ed9ffd9527b6f5300dc02265f89e03e324f1c958",
@@ -854,6 +854,18 @@
       "title" : "Altale -Ragnarok-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=150&event=96",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02104"
+   },
+   {
+      "artist" : "xi / obj:Monsta",
+      "comment" : "重発狂、ディレイ",
+      "level" : "9",
+      "md5" : "1c08cf21845bf409451368d83dd2a86f",
+      "proposer" : "BAECON",
+      "sha256" : "7852bf8c70d1143b4721425f201939a392c73f2a11fbafaa722a935d1c74bcdd",
+      "submission" : 916,
+      "title" : "Parousia [Osorosia]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=281&event=74",
+      "url_diff" : "http://3228monsta.web.fc2.com/"
    },
    {
       "artist" : "Lime / Mega",
@@ -1830,6 +1842,18 @@
       "url_diff" : "http://www.geocities.jp/hihihi4442/onigiri.html"
    },
    {
+      "artist" : "LiA",
+      "comment" : "",
+      "level" : "0",
+      "md5" : "3a182912aec1bacd7f5d38a4dc42de9d",
+      "proposer" : "LUXURY♪",
+      "sha256" : "588ef3602c6b2a22600bca5ac141148d6406971c589da2f51e52eae3f4b201eb",
+      "submission" : 924,
+      "title" : "少女監獄ヴァンパイアフィリア -LiALIZE-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=359&event=110",
+      "url_diff" : ""
+   },
+   {
       "artist" : "zest:rave / obj:BAECON",
       "level" : "1",
       "md5" : "3a352a9833250bb882849d14d6984f2b",
@@ -2013,6 +2037,18 @@
       "title" : "Alien Artifact [father]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=259&event=96",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00522"
+   },
+   {
+      "artist" : "uet / obj:C4 + rat",
+      "comment" : "乱打",
+      "level" : "1",
+      "md5" : "3d052fad63621775580e943c97fb3d25",
+      "proposer" : "uet",
+      "sha256" : "d832d4e74d122541bf751f17fea1e66df3ef867c989d4fe85da97d70a95d9f42",
+      "submission" : 919,
+      "title" : "Anarchist [Libertarian]",
+      "url" : "http://beatmaniauet.sakura.ne.jp/BMS/uet_Anarchist_ogg.zip",
+      "url_diff" : ""
    },
    {
       "artist" : "鳩 / obj:muscleMEN",
@@ -2555,7 +2591,7 @@
    {
       "artist" : "じぽたん MIDI : 猫姫 差分:わふわふ",
       "comment" : "連打複合、ディレイ",
-      "level" : "6",
+      "level" : "5",
       "md5" : "4c75dba922510d566b65005480678041",
       "proposer" : "BAECON",
       "sha256" : "49b31efb11478995eac0cfff17d0b875acd901c40284781b34e691b1f30a77b4",
@@ -3031,6 +3067,17 @@
       "url_diff" : ""
    },
    {
+      "artist" : "sasakure.∩K/ 差分 赤い人",
+      "level" : "0",
+      "md5" : "5d4c998f6b5742612478572b53327140",
+      "proposer" : "椒図",
+      "sha256" : "60b846d4e7c284cbf83a614035647f87cbd998c65ee93aaddc968cae0dcfcfd2",
+      "submission" : 917,
+      "title" : "精霊幻想 [INFELNO]",
+      "url" : "http://goo.gl/ekWNY",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/seirei-INFELNO.bme"
+   },
+   {
       "artist" : "主人公 /差分 赤い人",
       "comment" : "ディレイ",
       "level" : "5",
@@ -3235,6 +3282,18 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html"
    },
    {
+      "artist" : "Cres / obj:v",
+      "comment" : "Will I go to the heaven...?",
+      "level" : "7",
+      "md5" : "634cf05fd32e38a968b9aa08cce47a15",
+      "proposer" : "qtp13",
+      "sha256" : "04f857d6c669bccbcf72343e1c30035fbc580e64e52882b7e06e5aebe3d6de67",
+      "submission" : 914,
+      "title" : "End Time -to the heaven-",
+      "url" : "https://mega.nz/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02842"
+   },
+   {
       "artist" : "o.s.gate / Ds",
       "comment" : "osgjoy",
       "level" : "5",
@@ -3348,7 +3407,7 @@
    {
       "artist" : "adumac / obj:羽藤桂",
       "comment" : "ガチ押し",
-      "level" : "1",
+      "level" : "2",
       "md5" : "657a6aef8febf7bc31c0962305a36cd7",
       "proposer" : "otoshi.b",
       "proposerLr2id" : 87474,
@@ -3385,7 +3444,7 @@
    {
       "artist" : "nmk feat.橘花音 Guitar:はらたま BGA:わっふゑ / selene.",
       "comment" : "st6~7 微連打物量",
-      "level" : "7",
+      "level" : "6",
       "md5" : "68bf087ea57a7cfa577b88e6705dc7f4",
       "proposer" : "こめっと",
       "proposerLr2id" : 80964,
@@ -4357,6 +4416,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01999"
    },
    {
+      "artist" : "dj sept-em obj:VINYL",
+      "comment" : "lastkill kachifushi",
+      "level" : "4",
+      "md5" : "8ac6b285c4d9ca7f712698f086728b62",
+      "proposer" : "LUXURY♪",
+      "sha256" : "1d95d29b5a38fd3266a04940ff3347246a033b724300651b609959cf1cefaac3",
+      "submission" : 895,
+      "title" : "Dynamo [Feeling]",
+      "url" : "http://www.scn-net.ne.jp/~estine/",
+      "url_diff" : "https://vinylhouse.web.fc2.com/index.html"
+   },
+   {
       "artist" : "xelloscope / obj.swa",
       "comment" : "連打複合",
       "level" : "6",
@@ -4746,6 +4817,18 @@
       "title" : "あなた [Delay32]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=382&event=83",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi"
+   },
+   {
+      "artist" : "srask obj: qtp13",
+      "comment" : "st8~9 はやい物量、連打、ラスト回復、高TOTAL",
+      "level" : "9",
+      "md5" : "941dd04846cbeb1c92c7ad7cd272819e",
+      "proposer" : "qtp13",
+      "sha256" : "eb249c60a3c294acd39a9195406abb48e523f9a478c15088491de766a5e25fd3",
+      "submission" : 740,
+      "title" : "Prog-M -PoLYgLoT-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=426&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02265"
    },
    {
       "artist" : "SHIKI // BGA:あかくらげ & M.H / selene.",
@@ -5841,6 +5924,18 @@
       "url_diff" : "http://l-bms.space/1st/download.html"
    },
    {
+      "artist" : "loz",
+      "comment" : "乱打",
+      "level" : "0",
+      "md5" : "b9cb4940e97c8d067827bd28d3081556",
+      "proposer" : "椒図",
+      "sha256" : "09545708d7f896dca1152f04d46b9aa47cf889da41f7acc41969699af38cdb40",
+      "submission" : 918,
+      "title" : "Cinderella Cage -Trancecore Mix- [G]",
+      "url" : "http://yaruki0.sakura.ne.jp/event/ondanyugi4/impression.cgi?no=11",
+      "url_diff" : "http://absolute.pv.land.to/uploader/upload.html"
+   },
+   {
       "artist" : "bj.HaLo / obj:夢瑠",
       "comment" : "kachifushi",
       "level" : "0",
@@ -6572,7 +6667,7 @@
    },
    {
       "artist" : "xenothium remixed by gmtn./差分　赤い人",
-      "level" : "2",
+      "level" : "1",
       "md5" : "d20a263deebaf93ab3c76850c2c50f81",
       "proposer" : "LUXURY",
       "sha256" : "7c305bc5180dd79d42b87cf4d738dd34afbe653861dc3494f49c50e5a07fde93",
@@ -7412,6 +7507,18 @@
       "title" : "☆をかけるアドベンチャー ～ we are forever friends! ～ [3844.09.29]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=121&event=104",
       "url_diff" : "https://www.dropbox.com/s/pg9ruc541fdo2vc/hoshikake_%20cluster%20of%20galaxies.zip?dl=0"
+   },
+   {
+      "artist" : "ZUN Remixed by NoKANY obj: Scely",
+      "comment" : "高速乱打",
+      "level" : "0",
+      "md5" : "eb25dca7e802ccac43477f9f6e3e9bee",
+      "proposer" : "OXYGEN",
+      "sha256" : "83796369a9cf76e848229610cc1747dae84da9c51374979fc63fe7992ba60734",
+      "submission" : 926,
+      "title" : "禁忌と緋色幻想 -The Primary Plasm- [SP ANOTHER]",
+      "url" : "https://www.dropbox.com/s/zuj65kf95jhncp6/The%20Primary%20Plasm%20%28NoKANY%29.zip?dl=0",
+      "url_diff" : ""
    },
    {
       "artist" : "sasakure.UK / obj:DDX",

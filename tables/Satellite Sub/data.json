@@ -164,6 +164,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "早明浦キュウゾウ obj:Lyco",
+      "comment" : "sl1~2 ★2",
+      "level" : "2",
+      "md5" : "034fa2f8fb71155952fcfcf3c7d99c09",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "0f7d8ce39160bd7ee7ab24eb01bb60a1666948a69eeda21adfb7e28a1f318d8d",
+      "submission" : 901,
+      "title" : "THIS TIME; LAST TIME [NEXT TIME]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=108",
+      "url_diff" : "http://swamelo.web.fc2.com/7keys_next.bml"
+   },
+   {
       "artist" : "sd5y / obj:OK@GE U.Celsius",
       "comment" : "おつー",
       "level" : "8",
@@ -979,6 +992,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "菊田研究所/lactate",
+      "comment" : "超高速の24分乱打 軸 超楽しい",
+      "level" : "9",
+      "md5" : "116b85b4c01a2cd2cc76ac9e4572e3fe",
+      "proposer" : "C4",
+      "proposerLr2id" : 120385,
+      "sha256" : "47ef8a71213b4d5db5dfecc7279ae2637325cc023fe98490bc996b9e10803eab",
+      "submission" : 911,
+      "title" : "Free Hand zero [ANOTHER*]",
+      "url" : "http://web.archive.org/web/20051006002133/http://bof.nothing.sh:8080/file/kikuta-lactate-freehand_zero.zip",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
+   },
+   {
       "artist" : "おみー obj:monaka",
       "level" : "4",
       "md5" : "1181ef0fc12cee5168b670ebada13b63",
@@ -1189,7 +1215,7 @@
    },
    {
       "artist" : "削除 feat. void / 浪漫映像制作倶楽部 / obj : xi",
-      "level" : "2",
+      "level" : "1",
       "md5" : "16b3656f142cfe1531e2bd5e4cd9d2c3",
       "proposer" : "DK",
       "proposerLr2id" : 46697,
@@ -1726,7 +1752,7 @@
    {
       "artist" : "BOKKEN GREEN+PURPLE BOKKEN VIOLET / BOKKEN PRUSSIAN(obj:kaguya)",
       "comment" : "高トータル、ズレ乱打、ノーマル判定　中盤連皿あり(ハード難?)",
-      "level" : "1",
+      "level" : "2",
       "md5" : "1e81c3ea63e8761da65ac9bc2b0bca79",
       "proposer" : "姫川友紀",
       "proposerLr2id" : 125835,
@@ -2843,6 +2869,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "xenothium remixed by gmtn. obj:Fender",
+      "comment" : "乱打",
+      "level" : "4",
+      "md5" : "350967ddf2e5038d742a6a311b9982da",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "20c82c7fb1c81dc9cd88578610b6a6b046877062f6f4e49fa00fdc98ae4d3026",
+      "submission" : 905,
+      "title" : "幸なる旋律 -the solitary melody- [F]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=65",
+      "url_diff" : "http://fenderbms.web.fc2.com/"
+   },
+   {
       "artist" : "keyc",
       "comment" : "sl3〜4 結構総合力で面白い譜面",
       "level" : "3",
@@ -3002,6 +3041,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Hate / obj:C4 BGA : S.P.S.B.",
+      "comment" : "ずれガチ押し ちなみにMAX-FIXが利きます",
+      "level" : "12",
+      "md5" : "3770428dc92aec7ba658a804af2344ec",
+      "proposer" : "C4",
+      "proposerLr2id" : 120385,
+      "sha256" : "843ead769266204f6614ee4146ff77c33f8420e21325b3a46e7b2b29330d5675",
+      "submission" : 912,
+      "title" : "duty [act out of \"duty\"]",
+      "url" : "https://mega.nz/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02787"
+   },
+   {
       "artist" : "影虎。",
       "level" : "1",
       "md5" : "37826032dd7655793d7c1b5054c33c94",
@@ -3037,7 +3089,7 @@
    {
       "artist" : "Pinky/さ",
       "comment" : "▼15、皿複合",
-      "level" : "8",
+      "level" : "9",
       "md5" : "38e6b7ec1c58c74f1425d356cd1b295b",
       "proposer" : "aa",
       "proposerLr2id" : 138185,
@@ -3279,7 +3331,7 @@
    {
       "artist" : "ETIA. vs MM Sequence",
       "comment" : "",
-      "level" : "11",
+      "level" : "10",
       "md5" : "3f874970e3824730b7b4d04d0271c360",
       "proposer" : "なつ",
       "proposerLr2id" : 65517,
@@ -3374,7 +3426,7 @@
    {
       "artist" : "ccgc",
       "comment" : "11~12? satellite",
-      "level" : "11",
+      "level" : "12",
       "md5" : "408673987d3c9ce60610db5c51b9117e",
       "proposer" : "MineC24",
       "proposerLr2id" : 84597,
@@ -3449,6 +3501,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Nego_tiator/BGA:Fiz obj:K-SPIN",
+      "comment" : "皿複合、多重階段、微連打、軸(？)",
+      "level" : "6",
+      "md5" : "41e78d57a7f7fe8a975c438243c3c9ed",
+      "proposer" : "しおん",
+      "proposerLr2id" : 86787,
+      "sha256" : "4d86ae12d2e9c2ac6bf7fb99df1079b6ea0dae354bae59405d2385568b20d9c5",
+      "submission" : 897,
+      "title" : "Grisaille -Black-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=104",
+      "url_diff" : "http://kspinbms.web.fc2.com/insane.html"
    },
    {
       "artist" : "ルゼ ☆ えみゅう。 ☆ 石王マサト, obj.SeunghoLee",
@@ -3530,6 +3595,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "立秋 obj:スノート",
+      "comment" : "5~6?",
+      "level" : "6",
+      "md5" : "438fa3931fcbb5b71c27b6587c5034c3",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "ba54a77e50501df1bc29fb2723ee6d97a6fff92e866f73bcb1c018fc704a9590",
+      "submission" : 904,
+      "title" : "白菊 [Snother]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=268&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02873"
    },
    {
       "artist" : "corok-Bb",
@@ -3865,6 +3943,18 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "RearDawn / obj.swa BGA:zue-row",
+      "level" : "7",
+      "md5" : "495e22b42c0249f9f395a6f58287bfcf",
+      "proposer" : "''",
+      "proposerLr2id" : 86456,
+      "sha256" : "6ca82056ba4618b85a7b4cb392d6098c8d5bf0038ded7133cd8f928c2efd9168",
+      "submission" : 908,
+      "title" : "Objection to the vortex -乱-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=93",
+      "url_diff" : "http://swamelo.web.fc2.com/_objection_SPLSRAN.bme"
    },
    {
       "artist" : "鹿目まどか /差分　赤い人 佐倉杏子",
@@ -5813,6 +5903,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "陳 正平 obj:trainer",
+      "comment" : "4-2 乱打 practice",
+      "level" : "12",
+      "md5" : "6a3762ad91ec89392dda8554360f66c1",
+      "proposer" : "yy",
+      "proposerLr2id" : 77811,
+      "sha256" : "ff99e6a121ff00013572b5f89de92b60528d1653052486f94ac909609d8834cd",
+      "submission" : 910,
+      "title" : "ting ting [belong]",
+      "url" : "https://onedrive.live.com/?id=863934608D908CD0%21105&cid=863934608D908CD0",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02764"
+   },
+   {
       "artist" : "LiA / obj.swa BGA:Milk_tya / Illust:hrchem",
       "comment" : "サテライトユニオン",
       "level" : "12",
@@ -6711,7 +6814,7 @@
    {
       "artist" : "orangentle / deadblue238/さ",
       "comment" : "物量 (-ω-)",
-      "level" : "11",
+      "level" : "10",
       "md5" : "7b9376e8ee388de09d056dc92f3ed432",
       "proposer" : "椒図",
       "proposerLr2id" : 124809,
@@ -6996,7 +7099,7 @@
    {
       "artist" : "Artifact obj:SANY",
       "comment" : "ガチ押し",
-      "level" : "7",
+      "level" : "6",
       "md5" : "80819ea2ff7dfb3ee0264a5f74e70b97",
       "proposer" : "SANY",
       "proposerLr2id" : 128405,
@@ -7493,7 +7596,7 @@
    {
       "artist" : "黄泉路テヂーモ BGA:鑓田",
       "comment" : "微縦連",
-      "level" : "0",
+      "level" : "1",
       "md5" : "89f97a839187a13096404c7807c33c00",
       "proposer" : "SANY",
       "proposerLr2id" : 128405,
@@ -9215,6 +9318,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "しーけー obj.mute",
+      "comment" : "ガチ押し",
+      "level" : "8",
+      "md5" : "aa9b40b95e54d1e58ee963457a922201",
+      "proposer" : "selene.",
+      "proposerLr2id" : 84521,
+      "sha256" : "37bb2975846fe8fcf006e804ba352b4edec335b639c57c65f9170b975625c34a",
+      "submission" : 902,
+      "title" : "アトロポスと最果の探求者 [dilaceration]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=246&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02914"
+   },
+   {
       "artist" : "kbwnk max /差分 赤い人",
       "comment" : "物量",
       "level" : "2",
@@ -9298,7 +9414,7 @@
    {
       "artist" : "LiA",
       "comment" : "同梱、同時押し＋皿",
-      "level" : "3",
+      "level" : "4",
       "md5" : "aba9430098c8001fdb03352473d4f44c",
       "proposer" : "resair",
       "proposerLr2id" : 115377,
@@ -9502,6 +9618,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "sound piercer /差分　赤い人 illust by monicaNC & mzet:-P / obj by kireji",
+      "comment" : "",
+      "level" : "10",
+      "md5" : "aec21fd1d585fdfd67bf93fc1c5c92d9",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "c153cc5c4e0e1f7842ab4484e069c521d31e4e18e979d93763c9870c0b18dd69",
+      "submission" : 906,
+      "title" : "Candy & Baguette [HARDEST]",
+      "url" : "http://skydrive.live.com/?cid=5b1100ed3d6ad60b&resid=5B1100ED3D6AD60B!148&id=5B1100ED3D6AD60B%21148",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/CandyBaquette-spHARDEST.bme"
    },
    {
       "artist" : "Is-m BGA:Y.A.B.tutidama / obj:nullest",
@@ -10714,6 +10843,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Kankitsu feat. Salita obj : BAECON",
+      "comment" : "乱打、同時押し",
+      "level" : "8",
+      "md5" : "bd575bc97e261118191d2f09721a34cf",
+      "proposer" : "selene.",
+      "proposerLr2id" : 84521,
+      "sha256" : "21e9242620ce130a5b82f80586c547f07bc3cb2ad700c629230caf5f954c816b",
+      "submission" : 909,
+      "title" : "僕が見た世界 [Believe My Shine!!]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=347&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02896"
+   },
+   {
       "artist" : "Is-m // あまね（COOL&CREATE） BGA:sveki hamalu",
       "level" : "5",
       "md5" : "bd86e260403822d6a0115e813136c533",
@@ -11267,7 +11409,7 @@
    {
       "artist" : "有賀 澪 BGA:しらたき Illust:Cleome obj:伊佐奈 瑠璃",
       "comment" : "物量",
-      "level" : "9",
+      "level" : "10",
       "md5" : "c7c5bc4ea5f507bb96aa2d2518efb385",
       "proposer" : "スノート",
       "proposerLr2id" : 86393,
@@ -11744,6 +11886,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "ZUN remixed by LeaF Movie:Optie obj:Restia",
+      "comment" : "5~6?",
+      "level" : "5",
+      "md5" : "cfc82a4b802aacc5d7325357274fe587",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "3cb2f92387deb0eeae2e1475bfe90349c0333c7f2286d6a344d0652742f979f7",
+      "submission" : 903,
+      "title" : "Wizdomiot [ABNORMAL]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=76&event=102",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
    },
    {
       "artist" : "Lime / inukoro / 制限",
@@ -12386,6 +12541,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "q/stol obj:SUZUKAZEΛ",
+      "comment" : "皿",
+      "level" : "2",
+      "md5" : "dc5d89d22642fe863b5ec6ec83b3eada",
+      "proposer" : "AXION",
+      "proposerLr2id" : 37523,
+      "sha256" : "30d5681a6c2d6cd909195c0ce40087604cb4c56d70b81ecc256500f768cd752c",
+      "submission" : 907,
+      "title" : "Re/Im [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=238&event=110",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html"
    },
    {
       "artist" : "Kuwagata",
@@ -13048,6 +13216,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "MUSIER",
+      "comment" : "PABAT!2019、同時押し、トリル",
+      "level" : "0",
+      "md5" : "e6d55aab1d0dba93615645ec8fdce0c0",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "5c3445520a93ef94cf3c7d12d1612beee04a9e80869e0b3755c01e8daefaa0cf",
+      "submission" : 898,
+      "title" : "Mu [ANOTHER7]",
+      "url" : "https://k-bms.com/party_pabat/party2019.jsp?board_num=19&num=78&order=reg&odtype=a",
+      "url_diff" : ""
+   },
+   {
       "artist" : "anubasu-anubasu/6UT3/SHU10/U-hey/Lafale/CELLON./Kankitsu BGA:Roaring Flame/出前/ユウノ/Frantzz/Optie/温泉の力/To7 obj : BAECON",
       "comment" : "重発狂、24分以上の発狂",
       "level" : "7",
@@ -13516,7 +13697,7 @@
    },
    {
       "artist" : "Chocolate Powder / Lucy ChocoPow Graphic team x jaSMINe Aroma",
-      "level" : "4",
+      "level" : "5",
       "md5" : "eebf5db925bf70226162ee90cea00646",
       "proposer" : "MEES-♬",
       "proposerLr2id" : 39693,
@@ -13529,6 +13710,18 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "ridis(Rai) / obj. laner",
+      "level" : "7",
+      "md5" : "ef0c69d4eb9a01e56b2f12f52b978f95",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "4978d077cdb221fde12a8211b54b6899bf7862220038a02a02adac54e296ba81",
+      "submission" : 896,
+      "title" : "Dilapidated city [グミ]",
+      "url" : "https://web.archive.org/web/20030403093155/http://hat774.hp.infoseek.co.jp:80/dcity2.lzh",
+      "url_diff" : "https://www.hyper-laner.com/sabun.html"
    },
    {
       "artist" : "カラフル・サウンズ・ポート obj:LAPIS",
@@ -13674,6 +13867,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "isocosa / obj:NASA",
+      "comment" : "PABAT!2019、★2?、連皿、同時押し、低TOTAL",
+      "level" : "1",
+      "md5" : "f39400501966060da4b29e018a57a9e8",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "f345aa1fb5b8a8cd3210683fcb7ce5f7c5c7ce302506510fe3ac875d268c1b64",
+      "submission" : 899,
+      "title" : "data lake [dope sink]",
+      "url" : "http://k-bms.com/party_pabat/party2019.jsp?board_num=19&num=10&order=reg&odtype=a",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02803"
    },
    {
       "artist" : "ゆんゆん",
@@ -14131,6 +14337,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Saturn. Dreams / EMSH Chobo",
+      "comment" : "sl9~10",
+      "level" : "9",
+      "md5" : "fd9b597577eb13d5866470fe95b56b73",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "d42683740db7ed14218a41b38ae9780c99a2712f317fe9301274d68d387d0e8e",
+      "submission" : 900,
+      "title" : "Traceability [SP INSANE]",
+      "url" : "https://dl.dropboxusercontent.com/s/w30yosod0wdpkbv/[PABAT! 2014] Traceability.zip",
+      "url_diff" : ""
    },
    {
       "artist" : "YuuSaKi obj. w",

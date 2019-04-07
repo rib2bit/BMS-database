@@ -595,7 +595,7 @@
    {
       "artist" : "SOMON obj.hex",
       "comment" : "st5~6 total+",
-      "level" : "6",
+      "level" : "7",
       "md5" : "0c5a038e9fedb4c799051da04b3925d0",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -1405,7 +1405,7 @@
    {
       "artist" : "ATEMAK/さ/otoshi.b",
       "comment" : "st4~5",
-      "level" : "4",
+      "level" : "5",
       "md5" : "1a477f8c6c7ae8ac41ff44d24afc4e10",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -1437,7 +1437,7 @@
    {
       "artist" : "Is-m // あまね（COOL&CREATE） BGA:sveki hamalu / obj.hex",
       "comment" : "Pentagon upgrade",
-      "level" : "4",
+      "level" : "5",
       "md5" : "1b1b4ccac295b1369af50edc300d0042",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,
@@ -1554,6 +1554,18 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "daisan /差分 赤い人",
+      "level" : "0",
+      "md5" : "1f7bf846bd8b68b2ad8edc28df1c0b34",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "5938faaf026b51d51743018cdefde4635ce8971961e44e8b9c61e20ce81f2fa7",
+      "submission" : 929,
+      "title" : "-+ [INFERNO]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=88",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/minusplus_INFERNO.bme"
    },
    {
       "artist" : "goangra/さ BGA:WCMP",
@@ -2532,6 +2544,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "saaa",
+      "comment" : "0~1? PABAT! 2019",
+      "level" : "0",
+      "md5" : "302cabb6ce07dac3681c6ccfed97666f",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "f2ab5f464546bb2279254365664c86aa5fccc27bdec69f9b2002d408fc11f8fd",
+      "submission" : 927,
+      "title" : "Gang Riots [INSANE]",
+      "url" : "http://k-bms.com/party_pabat/party2019.jsp?board_num=19&num=2&order=reg&odtype=a",
+      "url_diff" : ""
    },
    {
       "artist" : "kbwnk max / obj:uet",
@@ -4316,7 +4341,7 @@
    {
       "artist" : "じぽたん MIDI : 猫姫 差分:わふわふ",
       "comment" : "連打複合、ディレイ",
-      "level" : "6",
+      "level" : "5",
       "md5" : "4c75dba922510d566b65005480678041",
       "proposer" : "BAECON",
       "proposerLr2id" : 46122,
@@ -5101,6 +5126,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "犬 obj.O",
+      "comment" : "高速",
+      "level" : "7",
+      "md5" : "5ba0fea5190d8cb673b74caf762b3522",
+      "proposer" : "homare",
+      "proposerLr2id" : 79434,
+      "sha256" : "d185c707e3f2de7a986a4983ee7696121d02770007621d96c962f98de7b94ed3",
+      "submission" : 932,
+      "title" : "Sonic Cannon [GENIUS]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=89",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00947"
+   },
+   {
       "artist" : "BMS:くっちー / BGA:あっきー / 差分　赤い人",
       "comment" : "DDeellaayy",
       "level" : "2",
@@ -5211,7 +5249,7 @@
    },
    {
       "artist" : "sasakure.∩K/ 差分 赤い人",
-      "level" : "1",
+      "level" : "0",
       "md5" : "5d4c998f6b5742612478572b53327140",
       "proposer" : "椒図",
       "proposerLr2id" : 124809,
@@ -5744,7 +5782,7 @@
    {
       "artist" : "adumac / obj:羽藤桂",
       "comment" : "ガチ押し",
-      "level" : "1",
+      "level" : "2",
       "md5" : "657a6aef8febf7bc31c0962305a36cd7",
       "proposer" : "otoshi.b",
       "proposerLr2id" : 87474,
@@ -5850,7 +5888,7 @@
    {
       "artist" : "nmk feat.橘花音 Guitar:はらたま BGA:わっふゑ / selene.",
       "comment" : "st6~7 微連打物量",
-      "level" : "7",
+      "level" : "6",
       "md5" : "68bf087ea57a7cfa577b88e6705dc7f4",
       "proposer" : "こめっと",
       "proposerLr2id" : 80964,
@@ -6795,6 +6833,19 @@
       "title" : "gazer [MASTER]",
       "url" : "http://scytheleg.sakura.ne.jp/tempyou/release/tempyou/",
       "url_diff" : "http://siokazebms.web.fc2.com/"
+   },
+   {
+      "artist" : "NAGI / black train / KWY*",
+      "comment" : "into the night... (体力)",
+      "level" : "4",
+      "md5" : "7c1c345aa216d27c86bde7e7f2263290",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "a248beb7d39b7690975642b0b8a01806593178d1f2a66c64b1981c1c4bf0df16",
+      "submission" : 930,
+      "title" : "la noche (GOD)",
+      "url" : "http://web.archive.org/web/20050427114635/http://hyperextension.web.infoseek.co.jp/sabun2/dairi/la_noche.rar",
+      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up0297.zip"
    },
    {
       "artist" : "Junk / 鬼コーチ : 発汗BMS",
@@ -8490,7 +8541,7 @@
    {
       "artist" : "Ark-Z  Illustration by 春雨 obj.Infinite Melodia",
       "comment" : "ハードきつめ？",
-      "level" : "4",
+      "level" : "6",
       "md5" : "9c158fd410f9dd3464d3506bd9f562dd",
       "proposer" : "OXYGEN",
       "proposerLr2id" : 133294,
@@ -8628,6 +8679,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "2X Obj.Triforce",
+      "comment" : "天国",
+      "level" : "10",
+      "md5" : "a022ecdc30e4966192cc927a93823617",
+      "proposer" : "MEES-♬",
+      "proposerLr2id" : 39693,
+      "sha256" : "ddcb7224d19aaefe165561c3ef3dba86b7b64590ad903bfbb9feb9ba55cf8698",
+      "submission" : 933,
+      "title" : "TEN [59]",
+      "url" : "http://dl.dropbox.com/s/esdofbda23knp9w/TEN.zip?dl=1",
+      "url_diff" : "http://www.dropbox.com/s/3c6nzdw2635zh9t/10_Delay.bms?dl=0"
    },
    {
       "artist" : "黒皇帝 / obj:O Movie: 6XeNoN9",
@@ -9477,6 +9541,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Flont Twiright / obj : LindBlum",
+      "comment" : "5~6? 物量、連打",
+      "level" : "6",
+      "md5" : "b092c5e20dfcde2593fd9446c8f8d3ad",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "7bb179565dc3063aefcde0ff083f81fa3c288ef55e6e19ce03249d0f63b93ea4",
+      "submission" : 928,
+      "title" : "False Friend -Enemy-",
+      "url" : "http://www.dropbox.com/s/5e1vjbpicu4l6gw/FalseFriend.7z?dl=0",
+      "url_diff" : "http://onedrive.live.com/redir?resid=6A58DD88BD7062C4!210&authkey=!AGZePJr_LRrydzg&ithint=folder%2czip"
+   },
+   {
       "artist" : "Arranged by Y.W / obj. Tristan97",
       "comment" : "物量、ディレイ",
       "level" : "6",
@@ -9576,6 +9653,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "tarolabo obj:七海千秋",
+      "comment" : "tarolabo好き (ギアチェン可能)",
+      "level" : "3",
+      "md5" : "b2db79b7fb0a5ea8de74926dd3e03592",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "36c17243eb9c300cc27651dc8218b49ce1e3cbd651f4b7527e80aea80e6efe31",
+      "submission" : 931,
+      "title" : "巫女 -Despair & Hope-",
+      "url" : "http://www.mediafire.com/download/by2b0ylqnkeu2p9/%E5%B7%AB%E5%A5%B3.zip",
+      "url_diff" : "https://www.dropbox.com/s/6ohzaelum7sxs88/miko_07_nanami02.bme?dl=0"
    },
    {
       "artist" : "ふぃるまーち！（CV：ちょこ＆藍月なくる＆山田じぇみ子） MV: うまるつふり ＆ 自動車 原付 / obj:七海千秋",
@@ -11323,7 +11413,7 @@
    },
    {
       "artist" : "xenothium remixed by gmtn./差分　赤い人",
-      "level" : "2",
+      "level" : "1",
       "md5" : "d20a263deebaf93ab3c76850c2c50f81",
       "proposer" : "LUXURY",
       "sha256" : "7c305bc5180dd79d42b87cf4d738dd34afbe653861dc3494f49c50e5a07fde93",
