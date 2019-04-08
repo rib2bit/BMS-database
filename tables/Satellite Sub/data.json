@@ -5677,6 +5677,18 @@
       "voteYes" : 0
    },
    {
+      "artist" : "REX",
+      "level" : "2",
+      "md5" : "6562171ff54eca48599efcab7f3326e8",
+      "proposer" : "OXYGEN",
+      "proposerLr2id" : 133294,
+      "sha256" : "10e5db3cb9a7a8990598c76cd77d5744e98579420ec01f646499285bc705029d",
+      "submission" : 916,
+      "title" : "Misting Cyanlake(BMS Edition) -EXTRA-",
+      "url" : "http://www1.axfc.net/uploader/so/3485858",
+      "url_diff" : ""
+   },
+   {
       "artist" : "sasakure.UK / 霜深",
       "comment" : "◆",
       "level" : "4",
@@ -6985,6 +6997,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Sound piercer & Sobrem / obj.siokaze",
+      "comment" : "微縦連",
+      "level" : "12",
+      "md5" : "7e059c93b59768bd662f17cb1cc7545c",
+      "proposer" : "w2w2",
+      "proposerLr2id" : 112172,
+      "sha256" : "0ad6db385353009cbdd1e4694b6222e4cce57a5915e899f576ccd8b2dd05d5a2",
+      "submission" : 915,
+      "title" : "ロスト：ユートピアと真理と純粋の極彩世界 [Heroic]",
+      "url" : "https://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=70&order=reg&odtype=a",
+      "url_diff" : "http://siokazebms.web.fc2.com/"
+   },
+   {
       "artist" : "KA-KU",
       "level" : "5",
       "md5" : "7e18f7763e6ff8b09bf3280bde1fa22b",
@@ -7999,6 +8024,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "er / Lucy",
+      "comment" : "横に広い乱打",
+      "level" : "7",
+      "md5" : "92f0a7428cba99051d8a97f966828e5a",
+      "proposer" : "matsu",
+      "proposerLr2id" : 127851,
+      "sha256" : "7ac3dd7fc374975ca4174d458e9b7eb1a588691fabd863dd82c00be750d9bdc0",
+      "submission" : 913,
+      "title" : "死霊の夜桜 - er edit [ANOTHER+]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=92",
+      "url_diff" : "http://www.dropbox.com/s/uejezs4s9vshn1b/_yozakura_spa%2B.zip"
    },
    {
       "artist" : "roop × Mentalstock / selene.",
@@ -11536,6 +11574,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Gazan (obj.TARO)",
+      "comment" : "地力",
+      "level" : "1",
+      "md5" : "c8e4b980b651241527addb85e7abe3dd",
+      "proposer" : "STANK!",
+      "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
+      "sha256" : "f9a38323bccdbc2e701286bb3db282a9e31b34e7436f883197a983d99913746e",
+      "submission" : 914,
+      "title" : "豪華絢爛少女 [SP Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=132&event=123",
+      "url_diff" : ""
+   },
+   {
       "artist" : "痛男次郎 obj:bmstube",
       "comment" : "発狂入門",
       "level" : "0",
@@ -12485,7 +12536,7 @@
       "sha256" : "c04a2fa22a3d8938395f770c7fb48bf9e878de9a08e2e92ae51ed95b116540ae",
       "submission" : 827,
       "title" : "Bicolor Spirit [EXHARD]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=92",
+      "url" : "https://dropbox.bms.ms/u/87285618/Bicolor%20Spirit_ogg.zip",
       "url_diff" : "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html",
       "voteNeutral" : 0,
       "voteNo" : 0,

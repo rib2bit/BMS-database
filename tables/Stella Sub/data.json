@@ -4644,6 +4644,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "455 obj.Infinite Melodia",
+      "comment" : "48分ディレイ＆ガチ押し",
+      "level" : "8",
+      "md5" : "512ef44ce207e8e2d407794ecb6cfe2d",
+      "proposer" : "OXYGEN",
+      "proposerLr2id" : 133294,
+      "sha256" : "aade249f2d64743f3d34793f4b0675489518c554cd0740ee536a3d93c13c2525",
+      "submission" : 934,
+      "title" : "G e n g a o z o -For Reiwa generations-",
+      "url" : "http://malie.noor.jp/archive/gengaozo_.rar",
+      "url_diff" : "https://drive.google.com/open?id=0B4chFHpe-ae4UG9zMDlwcGZiM0U"
+   },
+   {
       "artist" : "CELLON. / obj.7zs BGA : lysnA",
       "comment" : "00334 st0~1 縦連、同時押し",
       "level" : "0",
@@ -11973,6 +11986,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Est obj.OXYGEN",
+      "comment" : "ガチ押し",
+      "level" : "9",
+      "md5" : "db27fee3af1bd6da2ef16429ca27ef17",
+      "proposer" : "OXYGEN",
+      "proposerLr2id" : 133294,
+      "sha256" : "d25cc1be02d6b8d43c63e9b79c031a8e2d0b18ed4eee2c37954c5ceed9e568a7",
+      "submission" : 935,
+      "title" : "Angelic Snow -XenoBurst-",
+      "url" : "http://estish.nobody.jp",
+      "url_diff" : "https://drive.google.com/drive/folders/0B4chFHpe-ae4UG9zMDlwcGZiM0U"
    },
    {
       "artist" : "るいまる obj : BAECON",
