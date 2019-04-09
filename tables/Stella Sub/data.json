@@ -635,7 +635,7 @@
       "submission" : 189,
       "title" : "Miaplacidus [Beta Carinae]",
       "url" : "http://aquaseeds.net/",
-      "url_diff" : "http://www.geocities.jp/yjsnpi_kitanai_kusai_unko/index.html"
+      "url_diff" : "https://web.archive.org/web/20181107004330/http://www.geocities.jp/yjsnpi_kitanai_kusai_unko/BMS/miaplacidus_U_bga.zip"
    },
    {
       "artist" : "daiji&sa10 / obj：mitsuba",
@@ -7444,6 +7444,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "ETIA. feat. Jenga Movie: HDLV / obj : BAECON",
+      "comment" : "縦連複合",
+      "level" : "8",
+      "md5" : "886ff049fd102b000d33bb37e1269d5f",
+      "proposer" : "otoshi.b",
+      "proposerLr2id" : 87474,
+      "sha256" : "4fc637f6a97a43be153eb33e735acaa0f8dcf589116123142ce8793cb9505bcd",
+      "submission" : 936,
+      "title" : "IKAROS [Proof of Existence]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=110",
+      "url_diff" : "https://bmscharteditorsgroup.wixsite.com/initialatoz"
    },
    {
       "artist" : "Mastermind(xi+nora2r) / obj : LindBlum iimo",
