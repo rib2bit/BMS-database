@@ -13,8 +13,8 @@
       "url_diff" : "http://swamelo.web.fc2.com/7keys_next.bml",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "60.00",
-      "voteYes" : 3
+      "votePercent" : "71.43",
+      "voteYes" : 5
    },
    {
       "artist" : "菊田研究所/lactate",
@@ -31,7 +31,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "ROKINA/obj:M BGA:アカツキユウ",
@@ -115,8 +115,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02787",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 4
+      "votePercent" : "83.33",
+      "voteYes" : 6
    },
    {
       "artist" : "Nego_tiator/BGA:Fiz obj:K-SPIN",
@@ -133,7 +133,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "立秋 obj:スノート",
@@ -150,7 +150,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "RearDawn / obj.swa BGA:zue-row",
@@ -165,8 +165,8 @@
       "url_diff" : "http://swamelo.web.fc2.com/_objection_SPLSRAN.bme",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 3
+      "votePercent" : "91.67",
+      "voteYes" : 5
    },
    {
       "artist" : "Y.W / A",
@@ -199,7 +199,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 5
    },
    {
       "artist" : "陳 正平 obj:trainer",
@@ -216,7 +216,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 8
    },
    {
       "artist" : "Sound piercer & Sobrem / obj.siokaze",
@@ -232,8 +232,8 @@
       "url_diff" : "http://siokazebms.web.fc2.com/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 4
+      "votePercent" : "94.44",
+      "voteYes" : 8
    },
    {
       "artist" : "kinaphar",
@@ -267,7 +267,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "しーけー obj.mute",
@@ -284,7 +284,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 8
    },
    {
       "artist" : "DJ LATI BGA : EMSH / Obj. B_K vs Z_N",
@@ -338,6 +338,40 @@
       "voteYes" : 5
    },
    {
+      "artist" : "EBIMAYO obj:sak",
+      "comment" : "縦連",
+      "level" : "10",
+      "md5" : "b089d53d764554f3d42dab28f016c329",
+      "proposer" : "なつ",
+      "proposerLr2id" : 65517,
+      "sha256" : "c1ee7834baf62d35009587a478340ef967df7d9e5fb43c1c9096150a82570dc2",
+      "submission" : 917,
+      "title" : "GOODWORLD [GOODCHART]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=239&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02892",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
+      "artist" : "Ras / obj.swa",
+      "comment" : "皿複合",
+      "level" : "11",
+      "md5" : "bd1ea2412ac903e08477bb2f238c8c0d",
+      "proposer" : "なつ",
+      "proposerLr2id" : 65517,
+      "sha256" : "ff88b4a20f56e771e7629e87e2c94ea3d3dc7f9eaea8bb8b8a935c4cf082d3a8",
+      "submission" : 918,
+      "title" : "TURNDOWN [sLUNATIC]",
+      "url" : "https://dropbox.bms.ms/u/63612044/TURNDOWN_bms.rar",
+      "url_diff" : "http://swamelo.web.fc2.com/TURNDOWN_SLSL.bms",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "Kankitsu feat. Salita obj : BAECON",
       "comment" : "乱打、同時押し",
       "level" : "8",
@@ -351,7 +385,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02896",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "93.75",
       "voteYes" : 7
    },
    {
@@ -385,8 +419,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 4
+      "votePercent" : "91.67",
+      "voteYes" : 5
    },
    {
       "artist" : "ZUN remixed by LeaF Movie:Optie obj:Restia",
@@ -402,8 +436,8 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 3
+      "votePercent" : "90.00",
+      "voteYes" : 4
    },
    {
       "artist" : "q/stol obj:SUZUKAZEΛ",
@@ -419,8 +453,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "85.71",
-      "voteYes" : 6
+      "votePercent" : "85.00",
+      "voteYes" : 8
    },
    {
       "artist" : "MUSIER",
@@ -436,7 +470,7 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "78.57",
+      "votePercent" : "75.00",
       "voteYes" : 5
    },
    {
@@ -453,8 +487,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01597",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "78.57",
-      "voteYes" : 5
+      "votePercent" : "81.25",
+      "voteYes" : 6
    },
    {
       "artist" : "ridis(Rai) / obj. laner",
@@ -469,8 +503,8 @@
       "url_diff" : "https://www.hyper-laner.com/sabun.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 5
+      "votePercent" : "93.75",
+      "voteYes" : 7
    },
    {
       "artist" : "isocosa / obj:NASA",
@@ -486,8 +520,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02803",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "64.29",
-      "voteYes" : 3
+      "votePercent" : "70.00",
+      "voteYes" : 5
    },
    {
       "artist" : "Saturn. Dreams / EMSH Chobo",
@@ -503,7 +537,7 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "87.50",
+      "votePercent" : "80.00",
       "voteYes" : 3
    }
 ]

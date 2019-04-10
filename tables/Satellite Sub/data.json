@@ -5402,7 +5402,7 @@
       "submission" : 871,
       "title" : "Re*incarnacion [MANIAQ]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=121&event=96",
-      "url_diff" : "http://www.geocities.jp/yjsnpi_kitanai_kusai_unko/BOB2015/BOB2015_k_3_1_4.html"
+      "url_diff" : "https://web.archive.org/web/20181108120017/http://www.geocities.jp/yjsnpi_kitanai_kusai_unko/BOB2015/BOB2015_k_3_1_4.html"
    },
    {
       "artist" : "カラフル・サウンズ・ポート/さ",
@@ -9735,6 +9735,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "EBIMAYO obj:sak",
+      "comment" : "縦連",
+      "level" : "10",
+      "md5" : "b089d53d764554f3d42dab28f016c329",
+      "proposer" : "なつ",
+      "proposerLr2id" : 65517,
+      "sha256" : "c1ee7834baf62d35009587a478340ef967df7d9e5fb43c1c9096150a82570dc2",
+      "submission" : 917,
+      "title" : "GOODWORLD [GOODCHART]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=239&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02892"
+   },
+   {
       "artist" : "fen/obj:BOKKI",
       "comment" : "(^ω^;)",
       "level" : "11",
@@ -10863,6 +10876,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Ras / obj.swa",
+      "comment" : "皿複合",
+      "level" : "11",
+      "md5" : "bd1ea2412ac903e08477bb2f238c8c0d",
+      "proposer" : "なつ",
+      "proposerLr2id" : 65517,
+      "sha256" : "ff88b4a20f56e771e7629e87e2c94ea3d3dc7f9eaea8bb8b8a935c4cf082d3a8",
+      "submission" : 918,
+      "title" : "TURNDOWN [sLUNATIC]",
+      "url" : "https://dropbox.bms.ms/u/63612044/TURNDOWN_bms.rar",
+      "url_diff" : "http://swamelo.web.fc2.com/TURNDOWN_SLSL.bms"
    },
    {
       "artist" : "flicknote vocals: MindaRyn obj.quad",
