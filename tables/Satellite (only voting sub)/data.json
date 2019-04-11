@@ -99,7 +99,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "Hate / obj:C4 BGA : S.P.S.B.",
@@ -115,8 +115,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02787",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 6
+      "votePercent" : "85.00",
+      "voteYes" : 7
    },
    {
       "artist" : "Nego_tiator/BGA:Fiz obj:K-SPIN",
@@ -199,7 +199,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "陳 正平 obj:trainer",
@@ -232,8 +232,8 @@
       "url_diff" : "http://siokazebms.web.fc2.com/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "94.44",
-      "voteYes" : 8
+      "votePercent" : "95.00",
+      "voteYes" : 9
    },
    {
       "artist" : "kinaphar",
@@ -317,8 +317,8 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up6868.zip",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 8
+      "votePercent" : "90.91",
+      "voteYes" : 9
    },
    {
       "artist" : "sound piercer /差分　赤い人 illust by monicaNC & mzet:-P / obj by kireji",
@@ -334,8 +334,8 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/CandyBaquette-spHARDEST.bme",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "85.71",
-      "voteYes" : 5
+      "votePercent" : "87.50",
+      "voteYes" : 6
    },
    {
       "artist" : "EBIMAYO obj:sak",
@@ -349,10 +349,10 @@
       "title" : "GOODWORLD [GOODCHART]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=239&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02892",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "voteNeutral" : 2,
+      "voteNo" : 2,
+      "votePercent" : "60.00",
+      "voteYes" : 3
    },
    {
       "artist" : "Ras / obj.swa",
@@ -368,7 +368,7 @@
       "url_diff" : "http://swamelo.web.fc2.com/TURNDOWN_SLSL.bms",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
+      "votePercent" : "66.67",
       "voteYes" : 1
    },
    {
@@ -438,6 +438,23 @@
       "voteNo" : 0,
       "votePercent" : "90.00",
       "voteYes" : 4
+   },
+   {
+      "artist" : "Irish Kappa / selene. BGA: Rinser",
+      "comment" : "高速",
+      "level" : "9",
+      "md5" : "d5d29b974ac89d7a6c75e7e5ac9578fc",
+      "proposer" : "matsu",
+      "proposerLr2id" : 127851,
+      "sha256" : "f06b214fd60c26f1dd8191f980c7e21e3c222aee385f5c11c83fdce9c7083ddf",
+      "submission" : 919,
+      "title" : "Death Opera -Luna-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=137&event=104",
+      "url_diff" : "https://bmscharteditorsgroup.wixsite.com/initialatoz",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "q/stol obj:SUZUKAZEΛ",
