@@ -13,8 +13,24 @@
       "url_diff" : "http://swamelo.web.fc2.com/7keys_next.bml",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "71.43",
+      "votePercent" : "68.75",
       "voteYes" : 5
+   },
+   {
+      "artist" : "クラムノプ (KLAMNOP) / obj.siokaze",
+      "level" : "5",
+      "md5" : "0b6fc15db5f19ce9d0a166d7c964779d",
+      "proposer" : "tobybm",
+      "proposerLr2id" : 136116,
+      "sha256" : "4851b476ebf04a384cbc2eaef3496c9848b13bb734581c6851f084bf11a5f2c9",
+      "submission" : 922,
+      "title" : "LIGHTS (Original Mix) -Relief-",
+      "url" : "http://colosseo.nekokan.dyndns.info/c02_shuffle/detail.php?n=59",
+      "url_diff" : "http://siokazebms.web.fc2.com/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "菊田研究所/lactate",
@@ -31,7 +47,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "ROKINA/obj:M BGA:アカツキユウ",
@@ -47,8 +63,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02349",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "75.00",
-      "voteYes" : 9
+      "votePercent" : "76.67",
+      "voteYes" : 10
    },
    {
       "artist" : "琴瀬悠",
@@ -65,7 +81,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 10
+      "voteYes" : 11
    },
    {
       "artist" : "Y.W / A",
@@ -81,8 +97,8 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.45",
-      "voteYes" : 10
+      "votePercent" : "95.83",
+      "voteYes" : 11
    },
    {
       "artist" : "xenothium remixed by gmtn. obj:Fender",
@@ -99,7 +115,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 9
    },
    {
       "artist" : "Hate / obj:C4 BGA : S.P.S.B.",
@@ -133,7 +149,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
    },
    {
       "artist" : "立秋 obj:スノート",
@@ -150,7 +166,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 6
    },
    {
       "artist" : "RearDawn / obj.swa BGA:zue-row",
@@ -182,8 +198,8 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "88.89",
-      "voteYes" : 8
+      "votePercent" : "90.00",
+      "voteYes" : 9
    },
    {
       "artist" : "REX",
@@ -198,7 +214,7 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "92.86",
       "voteYes" : 6
    },
    {
@@ -216,7 +232,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 9
    },
    {
       "artist" : "Sound piercer & Sobrem / obj.siokaze",
@@ -232,8 +248,41 @@
       "url_diff" : "http://siokazebms.web.fc2.com/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.00",
-      "voteYes" : 9
+      "votePercent" : "95.45",
+      "voteYes" : 10
+   },
+   {
+      "artist" : "mossari feat.TEA obj.B_K",
+      "comment" : "皿,跳ねリズム",
+      "level" : "1",
+      "md5" : "7ed81895343bb928baaef5916c78f441",
+      "proposer" : "SANY",
+      "proposerLr2id" : 128405,
+      "sha256" : "2ef3507ce38407bd1d988c9ccd39f779da7be6dc0efe1165d355b8ba1ba2a830",
+      "submission" : 920,
+      "title" : "Midnight o'clock -DREAMING-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=221&event=110",
+      "url_diff" : "http://beatkim.web.fc2.com/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 3
+   },
+   {
+      "artist" : "Flapper. obj:SANY Movie:mameden",
+      "level" : "0",
+      "md5" : "83cd582248b7b2cdcbc4f7ec60ff7acf",
+      "proposer" : "SANY",
+      "proposerLr2id" : 128405,
+      "sha256" : "49ed5a2b10bf15048f69a228341427ddf637477092b933991fd6ff6febd6acfe",
+      "submission" : 921,
+      "title" : "ANOZER [ANOTHER]",
+      "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/24/",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "kinaphar",
@@ -266,7 +315,7 @@
       "url_diff" : "http://www.dropbox.com/s/uejezs4s9vshn1b/_yozakura_spa%2B.zip",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "87.50",
       "voteYes" : 3
    },
    {
@@ -284,7 +333,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 9
    },
    {
       "artist" : "DJ LATI BGA : EMSH / Obj. B_K vs Z_N",
@@ -366,9 +415,9 @@
       "title" : "TURNDOWN [sLUNATIC]",
       "url" : "https://dropbox.bms.ms/u/63612044/TURNDOWN_bms.rar",
       "url_diff" : "http://swamelo.web.fc2.com/TURNDOWN_SLSL.bms",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "66.67",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "50.00",
       "voteYes" : 1
    },
    {
@@ -419,8 +468,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 5
+      "votePercent" : "93.75",
+      "voteYes" : 7
    },
    {
       "artist" : "ZUN remixed by LeaF Movie:Optie obj:Restia",
@@ -436,8 +485,8 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 4
+      "votePercent" : "91.67",
+      "voteYes" : 5
    },
    {
       "artist" : "Irish Kappa / selene. BGA: Rinser",
@@ -453,8 +502,8 @@
       "url_diff" : "https://bmscharteditorsgroup.wixsite.com/initialatoz",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 4
    },
    {
       "artist" : "q/stol obj:SUZUKAZEΛ",
@@ -470,7 +519,7 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "85.00",
+      "votePercent" : "81.82",
       "voteYes" : 8
    },
    {
@@ -504,8 +553,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01597",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "81.25",
-      "voteYes" : 6
+      "votePercent" : "83.33",
+      "voteYes" : 7
    },
    {
       "artist" : "ridis(Rai) / obj. laner",
@@ -520,8 +569,8 @@
       "url_diff" : "https://www.hyper-laner.com/sabun.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "93.75",
-      "voteYes" : 7
+      "votePercent" : "94.44",
+      "voteYes" : 8
    },
    {
       "artist" : "isocosa / obj:NASA",
@@ -554,7 +603,7 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "80.00",
-      "voteYes" : 3
+      "votePercent" : "83.33",
+      "voteYes" : 4
    }
 ]
