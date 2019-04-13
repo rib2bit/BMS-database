@@ -12105,6 +12105,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "隣の庭は青い(庭師+Aoi) obj.Lapis",
+      "comment" : "総合",
+      "level" : "5",
+      "md5" : "d2442cb1be9bb439fa49564a8f4548f7",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "aaec5eac6453b9d5f981fa1f8033d2b698598c57c34fa19449fdefc8fab29e86",
+      "submission" : 924,
+      "title" : "Polacro [Hypothetical]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=123&num=295",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02618"
+   },
+   {
       "artist" : "TOMA obj.XYZ",
       "comment" : "from Stella",
       "level" : "12",
@@ -12891,6 +12904,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "8284 vs wa.",
+      "comment" : "難易度に影響しないLNあり",
+      "level" : "5",
+      "md5" : "deab2d7c66503690608c04e5c5211f6d",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "57d48a5d80efa69645b5c999b52114f166aa62b5e10b95863f8a75d2c83a776d",
+      "submission" : 923,
+      "title" : "Adularescence [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=357&event=88",
+      "url_diff" : ""
    },
    {
       "artist" : "eoll feat.白羽美依 obj:SUZUKAZEΛ",

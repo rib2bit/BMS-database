@@ -13,8 +13,8 @@
       "url_diff" : "http://swamelo.web.fc2.com/7keys_next.bml",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "68.75",
-      "voteYes" : 5
+      "votePercent" : "72.22",
+      "voteYes" : 6
    },
    {
       "artist" : "クラムノプ (KLAMNOP) / obj.siokaze",
@@ -29,8 +29,8 @@
       "url_diff" : "http://siokazebms.web.fc2.com/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "菊田研究所/lactate",
@@ -148,7 +148,7 @@
       "url_diff" : "http://kspinbms.web.fc2.com/insane.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "94.44",
       "voteYes" : 8
    },
    {
@@ -214,8 +214,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "92.86",
-      "voteYes" : 6
+      "votePercent" : "93.75",
+      "voteYes" : 7
    },
    {
       "artist" : "陳 正平 obj:trainer",
@@ -266,7 +266,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "Flapper. obj:SANY Movie:mameden",
@@ -281,8 +281,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 4
    },
    {
       "artist" : "kinaphar",
@@ -350,7 +350,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 12
+      "voteYes" : 13
    },
    {
       "artist" : "noal /obj.z",
@@ -366,8 +366,8 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up6868.zip",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.91",
-      "voteYes" : 9
+      "votePercent" : "91.67",
+      "voteYes" : 10
    },
    {
       "artist" : "sound piercer /差分　赤い人 illust by monicaNC & mzet:-P / obj by kireji",
@@ -400,8 +400,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02892",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "60.00",
-      "voteYes" : 3
+      "votePercent" : "66.67",
+      "voteYes" : 4
    },
    {
       "artist" : "Ras / obj.swa",
@@ -468,8 +468,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "93.75",
-      "voteYes" : 7
+      "votePercent" : "94.44",
+      "voteYes" : 8
    },
    {
       "artist" : "ZUN remixed by LeaF Movie:Optie obj:Restia",
@@ -485,8 +485,25 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 5
+      "votePercent" : "93.75",
+      "voteYes" : 7
+   },
+   {
+      "artist" : "隣の庭は青い(庭師+Aoi) obj.Lapis",
+      "comment" : "総合",
+      "level" : "5",
+      "md5" : "d2442cb1be9bb439fa49564a8f4548f7",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "aaec5eac6453b9d5f981fa1f8033d2b698598c57c34fa19449fdefc8fab29e86",
+      "submission" : 924,
+      "title" : "Polacro [Hypothetical]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=123&num=295",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02618",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "Irish Kappa / selene. BGA: Rinser",
@@ -519,8 +536,25 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "81.82",
-      "voteYes" : 8
+      "votePercent" : "83.33",
+      "voteYes" : 9
+   },
+   {
+      "artist" : "8284 vs wa.",
+      "comment" : "難易度に影響しないLNあり",
+      "level" : "5",
+      "md5" : "deab2d7c66503690608c04e5c5211f6d",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "57d48a5d80efa69645b5c999b52114f166aa62b5e10b95863f8a75d2c83a776d",
+      "submission" : 923,
+      "title" : "Adularescence [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=357&event=88",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "MUSIER",
@@ -584,9 +618,9 @@
       "title" : "data lake [dope sink]",
       "url" : "http://k-bms.com/party_pabat/party2019.jsp?board_num=19&num=10&order=reg&odtype=a",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02803",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "70.00",
+      "voteNeutral" : 2,
+      "voteNo" : 2,
+      "votePercent" : "63.64",
       "voteYes" : 5
    },
    {
