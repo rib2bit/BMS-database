@@ -1,22 +1,34 @@
 {
+   "compat_prefix" : "LEVEL ",
    "data_url" : "data.json",
+   "editor_name" : "BeMusicSeeker",
+   "editor_version" : "0.3.5.5",
+   "entry_type" : "",
+   "folder_order" : [
+      "LEVEL 0",
+      "LEVEL 2",
+      "LEVEL 3",
+      "LEVEL 4",
+      "LEVEL 5",
+      "LEVEL 6",
+      "LEVEL 9",
+      "LEVEL ?"
+   ],
+   "folder_sort_ascending" : true,
+   "folder_sort_key" : "",
+   "last_update" : "2019/04/27",
    "level_order" : [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12,
-      "???"
+      "0",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "9",
+      "?"
    ],
    "name" : "Youri差分難易度表",
    "original_url" : "https://4uri.web.fc2.com/youridiff.html",
+   "output_date" : "2019/04/27",
    "symbol" : "Yr"
 }

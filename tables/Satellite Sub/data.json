@@ -274,6 +274,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Knowka",
+      "comment" : "総合、乱打、微LN",
+      "level" : "2",
+      "md5" : "04c156074c6190480cc9417451faeabb",
+      "proposer" : "Yaksa",
+      "proposerLr2id" : 146592,
+      "sha256" : "d701083c970ad8bf0efdea58b7c81c82ed977b328eaef4a6df38dd37e026091c",
+      "submission" : 925,
+      "title" : "Forgive thorn's Lie [INSANE]",
+      "url" : "https://www.axfc.net/u/3725054",
+      "url_diff" : ""
+   },
+   {
       "artist" : "ROKINA",
       "comment" : "はやい",
       "level" : "1",
@@ -1684,7 +1697,7 @@
    },
    {
       "artist" : "Yu^ta feat. みずにんじん",
-      "level" : "11",
+      "level" : "12",
       "md5" : "1de52296e68de07a51a0fecd09684784",
       "proposer" : "파이어",
       "proposerLr2id" : 7290,
@@ -2232,6 +2245,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "SuraN",
+      "comment" : "DeNImeTRiC",
+      "level" : "9",
+      "md5" : "289a2eafe6860c588d5fff0270665b18",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "46dbcc257b93dbc2679a65ff7d84a2e9b68043deec6115ce4d72e349e9dd2cd0",
+      "submission" : 930,
+      "title" : "VoLueTRiC -ANOTHER-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=108",
+      "url_diff" : ""
+   },
+   {
       "artist" : "GYAON / obj:颯",
       "comment" : "GENOCIDE Archives",
       "level" : "1",
@@ -2293,22 +2319,6 @@
       "title" : "Re:End of a Dream [Anfang]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=543&event=110",
       "url_diff" : "http://akred.web.fc2.com/baecon/_7Anfang_ratBAECON.bms",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
-      "artist" : "魔界都市ニイガタ（黄泉路テヂーモ×dawn-system×かゆき） BGA:自動車原付 / obj:黄泉路テヂーモ",
-      "level" : "1",
-      "md5" : "298b4d497f5386f103277801a19c8aa6",
-      "proposer" : "musier",
-      "proposerLr2id" : 113893,
-      "sha256" : "03a68050cf86b3e27eed027282c4c9b067949b089211e64af69c230a63fa5cf5",
-      "submission" : 617,
-      "title" : "浮世絵横丁",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=482&event=116",
-      "url_diff" : "",
-      "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -2624,6 +2634,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "toby fox Remixed by uet / obj:C4 BGI : morph",
+      "comment" : "高速",
+      "level" : "10",
+      "md5" : "306ed045c433d5130e956eae0dcd9256",
+      "proposer" : "MiRa",
+      "proposerLr2id" : 121881,
+      "sha256" : "105a0017ae971c1d5624a4c3055ab62b2a5a2a5841d7d62fb78fef6a387403cb",
+      "submission" : 933,
+      "title" : "Spider Dance(METTAMETA Remix) [Initial Determination]",
+      "url" : "http://keysounds.net/events/event/1/impressions/id/2",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02973"
+   },
+   {
       "artist" : "honey princess / obj:BAECON",
       "level" : "9",
       "md5" : "307f026a9ff63f3ea8ee4d9b150630c4",
@@ -2724,7 +2747,7 @@
    {
       "artist" : "Yu^ta",
       "comment" : "跳ねリズム",
-      "level" : "10",
+      "level" : "9",
       "md5" : "329a56ef8eb54c9f4c87abaf7d3467b8",
       "proposer" : "スノート",
       "proposerLr2id" : 86393,
@@ -3515,6 +3538,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Reku Mochizuki / obj : C4 vs selene.",
+      "comment" : "PABAT!2019、乱打、同時押し",
+      "level" : "3",
+      "md5" : "419723373edcfa46b8437a45226fbcc1",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "69ccb5b5e69a955ed724beac37297763bb7b9b0a69481e3c803576d5d2dcae82",
+      "submission" : 932,
+      "title" : "Phynalvent [offensive]",
+      "url" : "https://k-bms.com/party_pabat/party2019.jsp?board_num=19&num=1&order=reg&odtype=a",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02869"
+   },
+   {
       "artist" : "Nego_tiator/BGA:Fiz obj:K-SPIN",
       "comment" : "皿複合、多重階段、微連打、軸(？)",
       "level" : "6",
@@ -3957,18 +3993,6 @@
       "voteYes" : 0
    },
    {
-      "artist" : "RearDawn / obj.swa BGA:zue-row",
-      "level" : "7",
-      "md5" : "495e22b42c0249f9f395a6f58287bfcf",
-      "proposer" : "''",
-      "proposerLr2id" : 86456,
-      "sha256" : "6ca82056ba4618b85a7b4cb392d6098c8d5bf0038ded7133cd8f928c2efd9168",
-      "submission" : 908,
-      "title" : "Objection to the vortex -乱-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=93",
-      "url_diff" : "http://swamelo.web.fc2.com/_objection_SPLSRAN.bme"
-   },
-   {
       "artist" : "鹿目まどか /差分　赤い人 佐倉杏子",
       "level" : "8",
       "md5" : "4971f11e2d0c0831f8ef83054ed843e4",
@@ -3992,23 +4016,6 @@
       "title" : "LivedaM (imagination)",
       "url" : "http://web.archive.org/web/20140726074203/http://kurenaissance.web6.jp/bms/livedam.rar",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02048",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
-      "artist" : "RearDawn / obj:980円の人 BGA:zue-row",
-      "comment" : "ズレ、微縦連、ラス殺し",
-      "level" : "3",
-      "md5" : "4997f0968a625f3b2de04fddd850dd96",
-      "proposer" : "jhfdlkjd",
-      "proposerLr2id" : 116710,
-      "sha256" : "ef2c2bbc4997f5abb8f8cc8c052eb9076f7631053b8d21927d35d46b7b6ab6b5",
-      "submission" : 831,
-      "title" : "Objection to the vortex [Max]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=93",
-      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up4274.zip",
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
@@ -4541,6 +4548,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Hyparpax",
+      "comment" : "PABAT!2019、皿、トリル",
+      "level" : "0",
+      "md5" : "515fe0cd127257382020c7dc24ad5925",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "73f8d94eba5c0be9520bb7fe7122298967ca094d61f88e469bb5c46c347cae36",
+      "submission" : 931,
+      "title" : "Transfixation [7K ANOTHER]",
+      "url" : "http://k-bms.com/party_pabat/party2019.jsp?board_num=19&num=51",
+      "url_diff" : ""
+   },
+   {
       "artist" : "LUNEの右手と悠里おねぇちゃんの左脚 /差分　赤い人",
       "comment" : "please kill me...",
       "level" : "12",
@@ -4802,21 +4822,6 @@
       "voteYes" : 0
    },
    {
-      "artist" : "Flont Twiright",
-      "level" : "0",
-      "md5" : "55c7fbfff822d38cdd2fbf6d81520f37",
-      "proposer" : "rat",
-      "proposerLr2id" : 83454,
-      "sha256" : "9ad6f3f0cd53e48ea2ec4a17848d1fba8b2c13805bec5859e2c0d5b5e6532b93",
-      "submission" : 257,
-      "title" : "False Friend [ANOTHER]",
-      "url" : "https://mega.nz/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA",
-      "url_diff" : "",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
       "artist" : "nora2r 出前 obj:krg",
       "level" : "7",
       "md5" : "55da43dac14edfb274838edc7493a2e0",
@@ -5021,22 +5026,6 @@
       "title" : "Implexrough -Luna-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=365&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01568",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
-      "artist" : "RearDawn BGA: HYOUTAN / OBJ: K-SPIN",
-      "comment" : "つらみ",
-      "level" : "10",
-      "md5" : "59446f34a621f4566692dcb2cebadefa",
-      "proposer" : "こめっと",
-      "proposerLr2id" : 80964,
-      "sha256" : "f757291b96b739187116deacebc2f82a46e8cef40c2d0d6ecc325c5c160ed986",
-      "submission" : 133,
-      "title" : "T'Suramic [SP RUNOTHER]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=505&event=110",
-      "url_diff" : "http://kspinbms.web.fc2.com/insane.html",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -6005,22 +5994,6 @@
       "voteYes" : 0
    },
    {
-      "artist" : "ふぃるまーち！（CV：ちょこ＆藍月なくる＆山田じぇみ子） MV: うまるつふり ＆ 自動車 原付 / A",
-      "comment" : "ふぃるふぃるまーち！！！",
-      "level" : "8",
-      "md5" : "6c0d37102eddd177de86a304b95c647a",
-      "proposer" : "BAECON",
-      "proposerLr2id" : 46122,
-      "sha256" : "85068795dc0950fc82cdc61366c25c47fe7cb7206d660441d6799bb8f5fedf4e",
-      "submission" : 268,
-      "title" : "バーチャルセラピー [物量セラピー]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=167&event=123",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02362",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
       "artist" : "ATEMAK obj:Lyco",
       "comment" : "適度に回復がある高速乱打",
       "level" : "9",
@@ -6188,7 +6161,7 @@
    {
       "artist" : "カラフル・サウンズ・ポート/さ",
       "comment" : "24分混ざり乱打",
-      "level" : "9",
+      "level" : "10",
       "md5" : "6f04bd2fab1e11d05ad7c69d829e6729",
       "proposer" : "スノート",
       "proposerLr2id" : 86393,
@@ -6384,7 +6357,7 @@
    },
    {
       "artist" : "litmus* mov : Can.D -mtmrw / obj : krg",
-      "level" : "2",
+      "level" : "1",
       "md5" : "73bc86c28a635ff3897cf19044c62e97",
       "proposer" : "Haze*",
       "proposerLr2id" : 112076,
@@ -6460,6 +6433,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "kanone feat. かぼちゃ obj:kaguya",
+      "comment" : "sl1~2",
+      "level" : "1",
+      "md5" : "759408e8a0549292963b2948f67111f3",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "2a74d09aff3381c6270b7063c35eeed82af77c2d0bde4777555aeee9c1a9d8ac",
+      "submission" : 928,
+      "title" : "Burning Beat [B-Fight]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=359&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02962"
    },
    {
       "artist" : "D.J.Nero / obj:Monsta",
@@ -6578,7 +6564,7 @@
    {
       "artist" : "LeaF/さ",
       "comment" : "★21弱体版",
-      "level" : "11",
+      "level" : "12",
       "md5" : "780f8f98480b46643f34b59e91355586",
       "proposer" : "氷城つるぎ",
       "proposerLr2id" : 151185,
@@ -6935,7 +6921,7 @@
    {
       "artist" : "ETIA. feat. Jenga Movie: わっふゑ obj:YOURI",
       "comment" : "色々",
-      "level" : "3",
+      "level" : "2",
       "md5" : "7d2715cf75fc0b5c33f8d0c7cce26f57",
       "proposer" : "C4",
       "proposerLr2id" : 120385,
@@ -7773,7 +7759,7 @@
    {
       "artist" : "カラフル・サウンズ・ポート/mov:むらしん / selene.",
       "comment" : "物量乱打, 高速階段",
-      "level" : "7",
+      "level" : "8",
       "md5" : "8b46b0745658c595d343091a40dbda81",
       "proposer" : "nono22",
       "proposerLr2id" : 122934,
@@ -7871,6 +7857,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "shimizushi illust:a.a / obj:DJ.END",
+      "comment" : "restoration",
+      "level" : "3",
+      "md5" : "8d6cb28cd80ab924c41f5141ed852326",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "75fe46e735ff45f9c4158af248e41dd5fdd309aa59ee9f3868056829151168ab",
+      "submission" : 929,
+      "title" : "To the restored sunflower garden [White Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=116",
+      "url_diff" : ""
    },
    {
       "artist" : "utubo",
@@ -8077,7 +8076,7 @@
    },
    {
       "artist" : "roop × Mentalstock / selene.",
-      "level" : "1",
+      "level" : "0",
       "md5" : "9356ae44b85eacac6129978fd4726efd",
       "proposer" : "姫川友紀",
       "proposerLr2id" : 125835,
@@ -8512,19 +8511,6 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
-   },
-   {
-      "artist" : "[IX] / BGA : EMSH obj.XYZ",
-      "comment" : "同梱譜面",
-      "level" : "0",
-      "md5" : "9b5adcbad4a88bfef450f6bcc487d259",
-      "proposer" : "DK",
-      "proposerLr2id" : 46697,
-      "sha256" : "304d76736d4ac9193f5765cb83889036af2164484f9aba42d5df19952e164983",
-      "submission" : 880,
-      "title" : "Crystalline White",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=96",
-      "url_diff" : ""
    },
    {
       "artist" : "@gra_pha",
@@ -9811,8 +9797,8 @@
       "sha256" : "3e1d72f3439dfaabacb471d1b8e322d4bc7aa862a87f4ee4a823bc67db85ad57",
       "submission" : 162,
       "title" : "虫 [Insecta]",
-      "url" : "http://www.geocities.jp/rf_mirai/",
-      "url_diff" : "http://myk38k.nobody.jp/",
+      "url" : "http://myk38k.nobody.jp/",
+      "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -10329,23 +10315,6 @@
       "voteYes" : 0
    },
    {
-      "artist" : "dawn-system Vo: もちこまめ / BGA: うまるつふり＆わっふゑ / A",
-      "comment" : "少しソフランある",
-      "level" : "3",
-      "md5" : "b656db5f627112967adb999968591435",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "bdbd7ddd67706a9683d05f0ef6af207253ba250e5a2c662dfb63a089fdad26a3",
-      "submission" : 633,
-      "title" : "ただいま、Bar“BOOMY” [Cocktail]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=61&event=110",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00045",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
       "artist" : "Kuwagata feat.つゆり花鈴",
       "level" : "1",
       "md5" : "b67c0f0b5da347f94eae1119b1158ec9",
@@ -10700,6 +10669,18 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "zest:rave / Note:薄杏",
+      "level" : "6",
+      "md5" : "bb54ca99ddb7cb8aae13c70a9a176df8",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "0ce6125497aea4ba13c40e0a31ddc6b32cec11df4623abf83186b30365fcb8bd",
+      "submission" : 927,
+      "title" : "夜空の★FANTASY [STAR DUST]",
+      "url" : "http://onedrive.live.com/?cid=D34BFC70CBE5E695&id=D34BFC70CBE5E695%21205",
+      "url_diff" : "http://lalha.web.fc2.com/index.html"
    },
    {
       "artist" : "sound piercer x ginkiha (mov : 1B)",
@@ -11301,7 +11282,7 @@
    {
       "artist" : "しらいし obj.sennko",
       "comment" : "GENO★20の弱体化版",
-      "level" : "9",
+      "level" : "10",
       "md5" : "c2b6dfa3ff970186fc81a074cd193d1d",
       "proposer" : "桜ノ宮苺香",
       "proposerLr2id" : 61713,
@@ -12077,7 +12058,7 @@
    {
       "artist" : "橘花音 かなえゆめ composed by nmk /obj:wak",
       "comment" : "Fix ver.",
-      "level" : "9",
+      "level" : "8",
       "md5" : "d1b6dc2b846b5f08a0a457f29f81bb09",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,
@@ -12915,7 +12896,7 @@
       "sha256" : "57d48a5d80efa69645b5c999b52114f166aa62b5e10b95863f8a75d2c83a776d",
       "submission" : 923,
       "title" : "Adularescence [ANOTHER]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=357&event=88",
+      "url" : "https://mega.nz/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA",
       "url_diff" : ""
    },
    {
@@ -13173,6 +13154,18 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "P4koo obj:SUZUKAZEΛ",
+      "level" : "4",
+      "md5" : "e3dfd9f62e2da6233836e6628c9bba6a",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "5f52e1b566f248b3f5d28fb7ffef9af8eeb102763690bba7537a7a979efdbbab",
+      "submission" : 926,
+      "title" : "PLUS+INFINITY [ZOI]",
+      "url" : "http://k-bms.com/party_pabat/party2018.jsp?board_num=18&num=34&order=reg&odtype=a",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html"
    },
    {
       "artist" : "Lipschitz",
@@ -14552,6 +14545,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "DJ Ash Ketchum",
+      "comment" : "11~12? 高速",
+      "level" : "12",
+      "md5" : "fec7dc14e516b15704fae81c1c8d10c9",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "58e49c7bb2dbf1b55b8b4c15f26b2e9626ba704065188699cf04d376d69578e7",
+      "submission" : 934,
+      "title" : "LOSTSILVER",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=67",
+      "url_diff" : ""
    },
    {
       "artist" : "QURELESS obj:京都306",
