@@ -13,8 +13,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "ルゼ ☆ えみゅう。 ☆ 石王マサト ★ UnK-now/37X",
@@ -30,8 +30,8 @@
       "url_diff" : "http://sagena.harisen.jp/bms.html",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "50.00",
-      "voteYes" : 2
+      "votePercent" : "60.00",
+      "voteYes" : 3
    },
    {
       "artist" : "daisan /差分 赤い人",
@@ -47,7 +47,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "saaa",
@@ -98,7 +98,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
+   },
+   {
+      "artist" : "siromaru / BANZAI",
+      "comment" : "Perfect for warm up/kill stamina",
+      "level" : "2",
+      "md5" : "47d4854001431a5ed9267217b62ffec4",
+      "proposer" : "Skalim",
+      "proposerLr2id" : 69073,
+      "sha256" : "3367fe212b49047e31a28622a0dd7b7640dde7a7ac45af9a03ccbd2b6620e08c",
+      "submission" : 944,
+      "title" : "fixate -maximum-",
+      "url" : "http://web.archive.org/web/20021201000000/http://olive.zero.ad.jp/~zaw11779/siromaroom/bms/si_fixate.rar",
+      "url_diff" : "https://drive.google.com/open?id=1jeCjZOuPSCMFGScYGSJ-K8qxKgSqeMQS",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "ginkiha / PING",
@@ -112,6 +129,23 @@
       "title" : "EOS -PING-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=300&event=83",
       "url_diff" : "http://www.mediafire.com/?9n94dyt0za3qm5e",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
+      "artist" : "Ωμεγα / BANZAI",
+      "comment" : "0 - 1?",
+      "level" : "0",
+      "md5" : "5f39e01adf89be8aeb0052f62168e40e",
+      "proposer" : "Skalim",
+      "proposerLr2id" : 69073,
+      "sha256" : "4a2a709014e9de06aa2ba72ad490e90080045cb7a1e6acc194be63295c573991",
+      "submission" : 945,
+      "title" : "dolor∞peccatum [fantasy7]",
+      "url" : "https://drive.google.com/open?id=18D57-_jGbHwaW7noXNALbQWerYCMCRkH",
+      "url_diff" : "https://drive.google.com/open?id=1A3oZPO_GMV4_NZ1DpkhWauyaoXdkMl8Y",
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 100,
@@ -182,7 +216,7 @@
       "url_diff" : "https://www.dropbox.com/s/6ohzaelum7sxs88/miko_07_nanami02.bme?dl=0",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "33.33",
+      "votePercent" : "37.50",
       "voteYes" : 1
    },
    {
@@ -216,7 +250,7 @@
       "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    }
 ]

@@ -4195,6 +4195,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "siromaru / BANZAI",
+      "comment" : "Perfect for warm up/kill stamina",
+      "level" : "2",
+      "md5" : "47d4854001431a5ed9267217b62ffec4",
+      "proposer" : "Skalim",
+      "proposerLr2id" : 69073,
+      "sha256" : "3367fe212b49047e31a28622a0dd7b7640dde7a7ac45af9a03ccbd2b6620e08c",
+      "submission" : 944,
+      "title" : "fixate -maximum-",
+      "url" : "http://web.archive.org/web/20021201000000/http://olive.zero.ad.jp/~zaw11779/siromaroom/bms/si_fixate.rar",
+      "url_diff" : "https://drive.google.com/open?id=1jeCjZOuPSCMFGScYGSJ-K8qxKgSqeMQS"
+   },
+   {
       "artist" : "ねこかぶりサイクロン(xi+ねこみりん) feat.えみゅう。",
       "comment" : "ごまかし系",
       "level" : "3",
@@ -4711,7 +4724,7 @@
    {
       "artist" : "455 obj.Infinite Melodia",
       "comment" : "48分ディレイ＆ガチ押し",
-      "level" : "8",
+      "level" : "9",
       "md5" : "512ef44ce207e8e2d407794ecb6cfe2d",
       "proposer" : "OXYGEN",
       "proposerLr2id" : 133294,
@@ -5410,6 +5423,19 @@
       "url_diff" : "http://moriosabun.digi2.jp/"
    },
    {
+      "artist" : "Ωμεγα / BANZAI",
+      "comment" : "0 - 1?",
+      "level" : "0",
+      "md5" : "5f39e01adf89be8aeb0052f62168e40e",
+      "proposer" : "Skalim",
+      "proposerLr2id" : 69073,
+      "sha256" : "4a2a709014e9de06aa2ba72ad490e90080045cb7a1e6acc194be63295c573991",
+      "submission" : 945,
+      "title" : "dolor∞peccatum [fantasy7]",
+      "url" : "https://drive.google.com/open?id=18D57-_jGbHwaW7noXNALbQWerYCMCRkH",
+      "url_diff" : "https://drive.google.com/open?id=1A3oZPO_GMV4_NZ1DpkhWauyaoXdkMl8Y"
+   },
+   {
       "artist" : "orangentle / deadblue238 / obj:夢瑠",
       "level" : "0",
       "md5" : "5f4eac4c5f1db4e86b43f846bf6476f4",
@@ -6098,7 +6124,7 @@
    {
       "artist" : "sun3 vs EXCALIpUR / BGA:Johnny obj.Infinite Melodia(OXYGEN)",
       "comment" : "皿複合多め",
-      "level" : "0",
+      "level" : "1",
       "md5" : "6b6c179da64c4b5d9b321bffc7f25c20",
       "proposer" : "OXYGEN",
       "proposerLr2id" : 133294,
@@ -7466,7 +7492,7 @@
    {
       "artist" : "zun (obj:yuyuko)",
       "comment" : "A little forgotten chart",
-      "level" : "3",
+      "level" : "1",
       "md5" : "8816823b398ee07c09f27f4f74b44c79",
       "proposer" : "Skalim",
       "proposerLr2id" : 69073,
@@ -8170,7 +8196,7 @@
    {
       "artist" : "sweet smeller / obj:ランダ",
       "comment" : "区切りのあるガチ押し",
-      "level" : "2",
+      "level" : "1",
       "md5" : "91c4fcca7fd8f1373524c4f64944a31e",
       "proposer" : "otoshi.b",
       "proposerLr2id" : 87474,

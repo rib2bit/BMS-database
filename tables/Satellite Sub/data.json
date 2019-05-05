@@ -3185,7 +3185,7 @@
    {
       "artist" : "w_tre obj:C4 Lyrics by Sing_fUA",
       "comment" : "中速乱打",
-      "level" : "1",
+      "level" : "2",
       "md5" : "3a2759c3528c7ce0d9bf9539b2ddc479",
       "proposer" : "なさ式",
       "proposerLr2id" : 108918,
@@ -3991,6 +3991,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Ym1024 feat. lamie* Illustration : 恋々 obj:ctc",
+      "comment" : "意志が感じられる面白い配置、100小節目に意図的なノーツ追加あり",
+      "level" : "8",
+      "md5" : "495b6a1092e9260f02120e5c90c6c788",
+      "proposer" : "rat",
+      "proposerLr2id" : 83454,
+      "sha256" : "fc14d94bf59cdd6f7f4872971e565f9d85a574da0c39e5740f4c2d38784b037d",
+      "submission" : 937,
+      "title" : "sweet pop [Sugar Rush!!]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=103",
+      "url_diff" : "https://obju.web.fc2.com/BOB2015/BOB2015_k_2_3_1.html"
    },
    {
       "artist" : "鹿目まどか /差分　赤い人 佐倉杏子",
@@ -8612,6 +8625,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "er obj:krg",
+      "comment" : "KBでもできる皿、ズレ抜けは一部音を64分→48分に置き換えたことに依ります。",
+      "level" : "7",
+      "md5" : "9dd34100b83d5e091dcb76c5af65f4bc",
+      "proposer" : "rat",
+      "proposerLr2id" : 83454,
+      "sha256" : "26516c6c3c0b46fbf1ccba8b187fb7e46ac0479832781b14e09b31dc32825bde",
+      "submission" : 936,
+      "title" : "年中夢中な好奇心 [ManiaK]",
+      "url" : "https://dropbox.bms.ms/u/28765267/er_kouki.zip",
+      "url_diff" : "http://iroirokiba.web.fc2.com/bms.html"
+   },
+   {
       "artist" : "竜。 feat.結月ゆかり obj:紲星あかり",
       "comment" : "ありがとう",
       "level" : "1",
@@ -9839,7 +9865,7 @@
    {
       "artist" : "Flat:nique Dolls Orchestra Illustration : まど / selene.",
       "comment" : "物量、体力",
-      "level" : "12",
+      "level" : "11",
       "md5" : "b142278d297ff2a5988b4e33687a24ab",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -12277,7 +12303,7 @@
    {
       "artist" : "ケットシー /obj:スノート",
       "comment" : "乱打",
-      "level" : "6",
+      "level" : "7",
       "md5" : "d5e3b8d81cb73e1d5f9a9549f3329de5",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -12629,6 +12655,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "A Boy From Around 10'",
+      "comment" : "G2R2018, 譜面同梱",
+      "level" : "0",
+      "md5" : "dbb2ede3e88b10b642dfa10287669747",
+      "proposer" : "MIUNA",
+      "proposerLr2id" : 122137,
+      "sha256" : "04fd75ea20750edae1d0573da013f30f065d9909f23b911b9f8a7ebe77179208",
+      "submission" : 935,
+      "title" : "Live My Life With",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=401&event=123",
+      "url_diff" : ""
    },
    {
       "artist" : "Widowmaker",
