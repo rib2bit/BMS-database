@@ -14,7 +14,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "ルゼ ☆ えみゅう。 ☆ 石王マサト ★ UnK-now/37X",
@@ -148,8 +148,8 @@
       "url_diff" : "https://drive.google.com/open?id=1A3oZPO_GMV4_NZ1DpkhWauyaoXdkMl8Y",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "Y.W / obj. ejl6",
@@ -203,6 +203,23 @@
       "voteYes" : 2
    },
    {
+      "artist" : "MALVA. vs. Venstant Illustration:Mare.S",
+      "comment" : "ラストがすごく難しい",
+      "level" : "5",
+      "md5" : "af61f9a0b0b65a6edab17e0fe128f834",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "2cd0d0bf1b73ed02e711f42a1573b2f092d9331dbc7a5c298680088affb51f69",
+      "submission" : 946,
+      "title" : "Spiritoso Killer [SP EiNzElKaMpF]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=115",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "75.00",
+      "voteYes" : 1
+   },
+   {
       "artist" : "tarolabo obj:七海千秋",
       "comment" : "tarolabo好き (ギアチェン可能)",
       "level" : "3",
@@ -251,6 +268,6 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    }
 ]

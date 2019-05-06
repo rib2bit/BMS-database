@@ -28,9 +28,9 @@
       "title" : "Forgive thorn's Lie [INSANE]",
       "url" : "https://www.axfc.net/u/3725054",
       "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "75.00",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "57.14",
       "voteYes" : 2
    },
    {
@@ -95,9 +95,9 @@
       "title" : "VoLueTRiC -ANOTHER-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=108",
       "url_diff" : "",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "70.00",
+      "voteNeutral" : 2,
+      "voteNo" : 2,
+      "votePercent" : "58.33",
       "voteYes" : 3
    },
    {
@@ -112,9 +112,9 @@
       "title" : "Spider Dance(METTAMETA Remix) [Initial Determination]",
       "url" : "http://keysounds.net/events/event/1/impressions/id/2",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02973",
-      "voteNeutral" : 2,
-      "voteNo" : 2,
-      "votePercent" : "66.67",
+      "voteNeutral" : 3,
+      "voteNo" : 3,
+      "votePercent" : "57.14",
       "voteYes" : 4
    },
    {
@@ -132,7 +132,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 6
    },
    {
       "artist" : "Nego_tiator/BGA:Fiz obj:K-SPIN",
@@ -182,8 +182,8 @@
       "url_diff" : "https://obju.web.fc2.com/BOB2015/BOB2015_k_2_3_1.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "Hyparpax",
@@ -200,7 +200,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 6
    },
    {
       "artist" : "Y.W / A",
@@ -250,7 +250,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 6
    },
    {
       "artist" : "mossari feat.TEA obj.B_K",
@@ -266,8 +266,8 @@
       "url_diff" : "http://beatkim.web.fc2.com/",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "80.77",
-      "voteYes" : 9
+      "votePercent" : "82.14",
+      "voteYes" : 10
    },
    {
       "artist" : "Flapper. obj:SANY Movie:mameden",
@@ -297,9 +297,9 @@
       "title" : "To the restored sunflower garden [White Another]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=116",
       "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "75.00",
       "voteYes" : 4
    },
    {
@@ -333,8 +333,8 @@
       "url_diff" : "http://iroirokiba.web.fc2.com/bms.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "zest:rave / Note:薄杏",
@@ -350,7 +350,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 7
    },
    {
       "artist" : "Ras / obj.swa",
@@ -468,7 +468,7 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "80.00",
       "voteYes" : 3
    },
    {
@@ -502,8 +502,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.91",
-      "voteYes" : 9
+      "votePercent" : "91.67",
+      "voteYes" : 10
    },
    {
       "artist" : "P4koo obj:SUZUKAZEΛ",
@@ -519,7 +519,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 6
    },
    {
       "artist" : "MUSIER",
@@ -537,6 +537,23 @@
       "voteNo" : 1,
       "votePercent" : "80.77",
       "voteYes" : 9
+   },
+   {
+      "artist" : "みーに feat.初音ミク",
+      "comment" : "無名戦対抗戦",
+      "level" : "0",
+      "md5" : "ed99e9080cf797ad9dd1635d3e1e9b7c",
+      "proposer" : "monaka",
+      "proposerLr2id" : 93763,
+      "sha256" : "6d03f4703d6bd089402e22d834c8abd3ed8536452c7080e31dba8d792f9a0245",
+      "submission" : 938,
+      "title" : "Brand-New Sky [ANOTHER]",
+      "url" : "https://event.yaruki0.net/VSevent/impression/5",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "Saturn. Dreams / EMSH Chobo",
@@ -569,7 +586,7 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "66.67",
-      "voteYes" : 2
+      "votePercent" : "75.00",
+      "voteYes" : 3
    }
 ]
