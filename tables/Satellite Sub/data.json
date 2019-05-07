@@ -8655,6 +8655,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "ボテ旨 ぽふまろえ obj:Fender",
+      "comment" : "",
+      "level" : "5",
+      "md5" : "9e9bbc866bfa78dd7783210cbf62750e",
+      "proposer" : "chino",
+      "proposerLr2id" : 127888,
+      "sha256" : "1aae7a490ab95d10ed92e2077b0ec11bd91f937643fe79080269a8f5847fff7e",
+      "submission" : 939,
+      "title" : "BLOODY ROSE [F]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=95",
+      "url_diff" : "http://fenderbms.web.fc2.com/"
+   },
+   {
       "artist" : "竜。 feat.結月ゆかり",
       "comment" : "KAWAII J-POP | BOFU2017、同時押し、中盤LNあり",
       "level" : "0",
@@ -13714,7 +13727,7 @@
       "sha256" : "a236e43891b55ac124f540e8e9478f8075b5c024a08bf0c29163cfbe178815e4",
       "submission" : 424,
       "title" : "Chatblanc [clonter]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=200&event=96",
+      "url" : "https://web.archive.org/web/20141124133307/http://str3.org/data/roop/roop_chatblanc.zip",
       "url_diff" : "http://www.dropbox.com/s/w158rk0qjsppla7/roop_chatblanc_triforce.bms?dl=1",
       "voteNeutral" : 0,
       "voteNo" : 0,

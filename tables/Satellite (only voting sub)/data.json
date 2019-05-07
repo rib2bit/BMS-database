@@ -97,7 +97,7 @@
       "url_diff" : "",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "58.33",
+      "votePercent" : "56.25",
       "voteYes" : 3
    },
    {
@@ -114,7 +114,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02973",
       "voteNeutral" : 3,
       "voteNo" : 3,
-      "votePercent" : "57.14",
+      "votePercent" : "55.56",
       "voteYes" : 4
    },
    {
@@ -131,7 +131,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02869",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "92.86",
       "voteYes" : 6
    },
    {
@@ -183,7 +183,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "Hyparpax",
@@ -249,7 +249,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02962",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "92.86",
       "voteYes" : 6
    },
    {
@@ -334,7 +334,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
+   },
+   {
+      "artist" : "ボテ旨 ぽふまろえ obj:Fender",
+      "comment" : "",
+      "level" : "5",
+      "md5" : "9e9bbc866bfa78dd7783210cbf62750e",
+      "proposer" : "chino",
+      "proposerLr2id" : 127888,
+      "sha256" : "1aae7a490ab95d10ed92e2077b0ec11bd91f937643fe79080269a8f5847fff7e",
+      "submission" : 939,
+      "title" : "BLOODY ROSE [F]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=95",
+      "url_diff" : "http://fenderbms.web.fc2.com/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "zest:rave / Note:薄杏",
@@ -366,8 +383,8 @@
       "url_diff" : "http://swamelo.web.fc2.com/TURNDOWN_SLSL.bms",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "66.67",
-      "voteYes" : 4
+      "votePercent" : "70.00",
+      "voteYes" : 5
    },
    {
       "artist" : "Kankitsu feat. Salita obj : BAECON",
@@ -449,9 +466,9 @@
       "title" : "Death Opera -Luna-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=137&event=104",
       "url_diff" : "https://bmscharteditorsgroup.wixsite.com/initialatoz",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "93.75",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "83.33",
       "voteYes" : 7
    },
    {
@@ -518,7 +535,7 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "92.86",
       "voteYes" : 6
    },
    {
@@ -552,8 +569,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "Saturn. Dreams / EMSH Chobo",
@@ -584,9 +601,9 @@
       "title" : "LOSTSILVER",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=67",
       "url_diff" : "",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "75.00",
+      "voteNeutral" : 2,
+      "voteNo" : 2,
+      "votePercent" : "58.33",
       "voteYes" : 3
    }
 ]
