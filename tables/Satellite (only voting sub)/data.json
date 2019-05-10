@@ -84,6 +84,23 @@
       "voteYes" : 10
    },
    {
+      "artist" : "綾地寧々",
+      "comment" : "G2R2018、地力",
+      "level" : "0",
+      "md5" : "260a5502420c21dc0ccf795e0ae154f3",
+      "proposer" : "STANK!",
+      "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
+      "sha256" : "9c9c9868893a265e47d0e7eb692387488f91fa1dea769797c44c74e8f039ad71",
+      "submission" : 940,
+      "title" : "START-RESTART [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=334&event=123",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 4
+   },
+   {
       "artist" : "SuraN",
       "comment" : "DeNImeTRiC",
       "level" : "9",
@@ -131,8 +148,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02869",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.00",
-      "voteYes" : 9
+      "votePercent" : "95.45",
+      "voteYes" : 10
    },
    {
       "artist" : "Nego_tiator/BGA:Fiz obj:K-SPIN",
@@ -182,8 +199,8 @@
       "url_diff" : "https://obju.web.fc2.com/BOB2015/BOB2015_k_2_3_1.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 6
+      "votePercent" : "93.75",
+      "voteYes" : 7
    },
    {
       "artist" : "Hyparpax",
@@ -197,10 +214,10 @@
       "title" : "Transfixation [7K ANOTHER]",
       "url" : "http://k-bms.com/party_pabat/party2019.jsp?board_num=19&num=51",
       "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "94.44",
-      "voteYes" : 8
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "86.36",
+      "voteYes" : 9
    },
    {
       "artist" : "Y.W / A",
@@ -299,8 +316,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "78.57",
-      "voteYes" : 5
+      "votePercent" : "81.25",
+      "voteYes" : 6
    },
    {
       "artist" : "er / Lucy",
@@ -334,7 +351,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
    },
    {
       "artist" : "ボテ旨 ぽふまろえ obj:Fender",
@@ -351,7 +368,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "zest:rave / Note:薄杏",
@@ -367,7 +384,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 9
    },
    {
       "artist" : "Ras / obj.swa",
@@ -535,8 +552,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.00",
-      "voteYes" : 9
+      "votePercent" : "95.45",
+      "voteYes" : 10
    },
    {
       "artist" : "MUSIER",
@@ -570,7 +587,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 9
    },
    {
       "artist" : "Saturn. Dreams / EMSH Chobo",
@@ -603,7 +620,7 @@
       "url_diff" : "",
       "voteNeutral" : 3,
       "voteNo" : 3,
-      "votePercent" : "61.11",
-      "voteYes" : 5
+      "votePercent" : "63.64",
+      "voteYes" : 6
    }
 ]
