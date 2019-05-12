@@ -98,7 +98,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "SuraN",
@@ -237,6 +237,23 @@
       "voteYes" : 10
    },
    {
+      "artist" : "goangra/さ BGA:WCMP",
+      "comment" : "物量とディレイ",
+      "level" : "12",
+      "md5" : "58ee7b3521398afe259588b077960d1d",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "56e47abe47fc538fb1ebb748f46756fd69c3a877eea96de0b39e342c1c1ed331",
+      "submission" : 941,
+      "title" : "Fantasy (・ω・)",
+      "url" : "http://www.dropbox.com/s/dfr9k18083pjd5s/fantasy.ogg.zip",
+      "url_diff" : "http://sabosabun.tank.jp/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "REX",
       "level" : "2",
       "md5" : "6562171ff54eca48599efcab7f3326e8",
@@ -316,8 +333,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "81.25",
-      "voteYes" : 6
+      "votePercent" : "83.33",
+      "voteYes" : 7
    },
    {
       "artist" : "er / Lucy",

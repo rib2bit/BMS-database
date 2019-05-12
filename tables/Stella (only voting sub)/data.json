@@ -98,7 +98,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "siromaru / BANZAI",
@@ -114,8 +114,8 @@
       "url_diff" : "https://drive.google.com/open?id=1jeCjZOuPSCMFGScYGSJ-K8qxKgSqeMQS",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 2
+      "votePercent" : "87.50",
+      "voteYes" : 3
    },
    {
       "artist" : "ginkiha / PING",
@@ -129,9 +129,9 @@
       "title" : "EOS -PING-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=300&event=83",
       "url_diff" : "http://www.mediafire.com/?9n94dyt0za3qm5e",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "83.33",
       "voteYes" : 5
    },
    {
@@ -163,10 +163,10 @@
       "title" : "emergency call: Xeno [World Destroyer]",
       "url" : "https://onedrive.live.com/?id=A0C4279F1B037701%21351&cid=A0C4279F1B037701",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02936",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "75.00",
+      "voteYes" : 3
    },
    {
       "artist" : "Y.W / obj. ejl6",
@@ -182,8 +182,8 @@
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up2865.zip",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "NAGI / black train / KWY*",
@@ -231,9 +231,9 @@
       "title" : "Spiritoso Killer [SP EiNzElKaMpF]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=115",
       "url_diff" : "",
-      "voteNeutral" : 3,
-      "voteNo" : 3,
-      "votePercent" : "41.67",
+      "voteNeutral" : 4,
+      "voteNo" : 4,
+      "votePercent" : "35.71",
       "voteYes" : 2
    },
    {
@@ -285,6 +285,6 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    }
 ]
