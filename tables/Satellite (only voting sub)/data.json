@@ -95,9 +95,9 @@
       "title" : "START-RESTART [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=334&event=123",
       "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "85.71",
       "voteYes" : 6
    },
    {
@@ -129,9 +129,9 @@
       "title" : "Spider Dance(METTAMETA Remix) [Initial Determination]",
       "url" : "http://keysounds.net/events/event/1/impressions/id/2",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02973",
-      "voteNeutral" : 3,
-      "voteNo" : 3,
-      "votePercent" : "62.50",
+      "voteNeutral" : 4,
+      "voteNo" : 4,
+      "votePercent" : "57.69",
       "voteYes" : 6
    },
    {
@@ -199,8 +199,8 @@
       "url_diff" : "https://obju.web.fc2.com/BOB2015/BOB2015_k_2_3_1.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "93.75",
-      "voteYes" : 7
+      "votePercent" : "94.44",
+      "voteYes" : 8
    },
    {
       "artist" : "Hyparpax",
@@ -216,8 +216,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "86.36",
-      "voteYes" : 9
+      "votePercent" : "87.50",
+      "voteYes" : 10
    },
    {
       "artist" : "Y.W / A",
@@ -248,10 +248,10 @@
       "title" : "Fantasy (・ω・)",
       "url" : "http://www.dropbox.com/s/dfr9k18083pjd5s/fantasy.ogg.zip",
       "url_diff" : "http://sabosabun.tank.jp/",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "66.67",
+      "voteYes" : 2
    },
    {
       "artist" : "REX",
@@ -283,8 +283,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02962",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.00",
-      "voteYes" : 9
+      "votePercent" : "95.45",
+      "voteYes" : 10
    },
    {
       "artist" : "mossari feat.TEA obj.B_K",
@@ -368,7 +368,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 10
    },
    {
       "artist" : "ボテ旨 ぽふまろえ obj:Fender",
@@ -385,7 +385,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
    },
    {
       "artist" : "zest:rave / Note:薄杏",
@@ -401,7 +401,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
+      "voteYes" : 10
    },
    {
       "artist" : "Ras / obj.swa",
@@ -519,7 +519,7 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "88.89",
+      "votePercent" : "85.00",
       "voteYes" : 7
    },
    {
@@ -603,7 +603,7 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "95.00",
       "voteYes" : 9
    },
    {
@@ -637,7 +637,7 @@
       "url_diff" : "",
       "voteNeutral" : 3,
       "voteNo" : 3,
-      "votePercent" : "63.64",
-      "voteYes" : 6
+      "votePercent" : "66.67",
+      "voteYes" : 7
    }
 ]
