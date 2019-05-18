@@ -30,7 +30,7 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "65.00",
+      "votePercent" : "63.64",
       "voteYes" : 4
    },
    {
@@ -84,6 +84,23 @@
       "voteYes" : 10
    },
    {
+      "artist" : "ume",
+      "comment" : "無名戦対抗戦、ズレ",
+      "level" : "0",
+      "md5" : "1f17bdf52d77a37c2b1d80afa67ec969",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "faa7405f94ffd55381c79fbe11335cc9a556a3927a43ada9fd912fe7e8401650",
+      "submission" : 943,
+      "title" : "Dear Glint",
+      "url" : "https://event.yaruki0.net/VSevent/impression/12",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "綾地寧々",
       "comment" : "G2R2018、地力",
       "level" : "0",
@@ -97,8 +114,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "87.50",
-      "voteYes" : 7
+      "votePercent" : "88.89",
+      "voteYes" : 8
    },
    {
       "artist" : "SuraN",
@@ -148,7 +165,7 @@
       "url_diff" : "http://www.dropbox.com/s/etslwe7dwlyu6c7/koiJIlju_Doomsday.zip?dl=0",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.00",
+      "votePercent" : "83.33",
       "voteYes" : 4
    },
    {
@@ -165,8 +182,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02869",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.45",
-      "voteYes" : 10
+      "votePercent" : "95.83",
+      "voteYes" : 11
    },
    {
       "artist" : "Nego_tiator/BGA:Fiz obj:K-SPIN",
@@ -267,8 +284,8 @@
       "url_diff" : "http://sabosabun.tank.jp/",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "60.00",
-      "voteYes" : 3
+      "votePercent" : "66.67",
+      "voteYes" : 4
    },
    {
       "artist" : "REX",
@@ -350,8 +367,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "86.36",
-      "voteYes" : 9
+      "votePercent" : "87.50",
+      "voteYes" : 10
    },
    {
       "artist" : "er / Lucy",
@@ -402,7 +419,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
+      "voteYes" : 10
    },
    {
       "artist" : "zest:rave / Note:薄杏",
@@ -453,6 +470,23 @@
       "voteNo" : 0,
       "votePercent" : "95.00",
       "voteYes" : 9
+   },
+   {
+      "artist" : "佐久丸(sak vs wumalutsufuri)",
+      "comment" : "無名戦対抗戦、階段、トリル、乱打、同時押し、皿",
+      "level" : "3",
+      "md5" : "c2e9f264f4a7ef918a92b92b6a8daeef",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "4aabad623fae57ee639d4af360570661a630903519c07dccf68e992f4af18ea9",
+      "submission" : 944,
+      "title" : "宵桜回廊 [ANOTHER]",
+      "url" : "https://event.yaruki0.net/VSevent/impression/47",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "Gazan (obj.TARO)",
@@ -536,8 +570,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "86.36",
-      "voteYes" : 8
+      "votePercent" : "87.50",
+      "voteYes" : 9
    },
    {
       "artist" : "q/stol obj:SUZUKAZEΛ",
@@ -586,7 +620,7 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.45",
+      "votePercent" : "91.67",
       "voteYes" : 10
    },
    {

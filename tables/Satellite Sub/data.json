@@ -1805,6 +1805,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "ume",
+      "comment" : "無名戦対抗戦、ズレ",
+      "level" : "0",
+      "md5" : "1f17bdf52d77a37c2b1d80afa67ec969",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "faa7405f94ffd55381c79fbe11335cc9a556a3927a43ada9fd912fe7e8401650",
+      "submission" : 943,
+      "title" : "Dear Glint",
+      "url" : "https://event.yaruki0.net/VSevent/impression/12",
+      "url_diff" : ""
+   },
+   {
       "artist" : "2TORI / obj:numuto",
       "comment" : "artistic",
       "level" : "8",
@@ -11372,6 +11385,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "佐久丸(sak vs wumalutsufuri)",
+      "comment" : "無名戦対抗戦、階段、トリル、乱打、同時押し、皿",
+      "level" : "3",
+      "md5" : "c2e9f264f4a7ef918a92b92b6a8daeef",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "4aabad623fae57ee639d4af360570661a630903519c07dccf68e992f4af18ea9",
+      "submission" : 944,
+      "title" : "宵桜回廊 [ANOTHER]",
+      "url" : "https://event.yaruki0.net/VSevent/impression/47",
+      "url_diff" : ""
    },
    {
       "artist" : "scytheleg / obj.tigris",
