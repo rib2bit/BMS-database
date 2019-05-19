@@ -3023,7 +3023,7 @@
       "submission" : 891,
       "title" : "ブラーブルー [Etude]",
       "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/12/",
-      "url_diff" : "https://sites.google.com/site/ibmssabun/",
+      "url_diff" : "http://bms.parksulab.xyz/",
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
@@ -5120,6 +5120,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "goangra/さ BGA:WCMP",
+      "comment" : "from Satellite",
+      "level" : "0",
+      "md5" : "58ee7b3521398afe259588b077960d1d",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "56e47abe47fc538fb1ebb748f46756fd69c3a877eea96de0b39e342c1c1ed331",
+      "submission" : 948,
+      "title" : "Fantasy (・ω・)",
+      "url" : "http://silentman.blog51.fc2.com/blog-entry-25.html",
+      "url_diff" : "http://sabosabun.tank.jp/"
+   },
+   {
       "artist" : "void feat. Hiroko / obj:発汗BMS",
       "comment" : "",
       "level" : "6",
@@ -5175,6 +5188,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "テヅカ × Qayo BGA: inukoro obj: И",
+      "comment" : "0~1? BGA Add Ver",
+      "level" : "1",
+      "md5" : "5a1b37a4dbddb6576b8570a49166db86",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "297b8a41f471b627279ddb25eb8d79396e1185aaa4b6d089f8dbcbc82913ccfb",
+      "submission" : 949,
+      "title" : "ニニ [Etude]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=124",
+      "url_diff" : "http://bms.parksulab.xyz"
+   },
+   {
       "artist" : "さかみりと img:しぐれぷに子 notes:ばえこん",
       "comment" : "焼肉大会",
       "level" : "3",
@@ -5219,7 +5245,7 @@
    {
       "artist" : "犬 obj.O",
       "comment" : "高速",
-      "level" : "7",
+      "level" : "6",
       "md5" : "5ba0fea5190d8cb673b74caf762b3522",
       "proposer" : "homare",
       "proposerLr2id" : 79434,
@@ -5425,7 +5451,7 @@
    {
       "artist" : "Ωμεγα / BANZAI",
       "comment" : "0 - 1?",
-      "level" : "0",
+      "level" : "1",
       "md5" : "5f39e01adf89be8aeb0052f62168e40e",
       "proposer" : "Skalim",
       "proposerLr2id" : 69073,
@@ -9214,6 +9240,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "yukitani / HYOUTAN obj:vy",
+      "comment" : "st0~1? ★20",
+      "level" : "0",
+      "md5" : "a5eda514887c548abfcd36f30f72aebd",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "7f7945dbb0e4f7afe5957df3d4435136bd743a97783227d578d5d16529494558",
+      "submission" : 950,
+      "title" : "Kaiden Aura [for G]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=65",
+      "url_diff" : "http://absolute.pv.land.to/uploader/src/up5679.zip"
+   },
+   {
       "artist" : "セナ/ obj:KCOOL BGA：Milk_tya Illust：神奈川わか奈",
       "comment" : "DDEELLAAYY",
       "level" : "8",
@@ -9605,7 +9644,7 @@
    {
       "artist" : "MALVA. vs. Venstant Illustration:Mare.S",
       "comment" : "ラストがすごく難しい",
-      "level" : "5",
+      "level" : "6",
       "md5" : "af61f9a0b0b65a6edab17e0fe128f834",
       "proposer" : "MineC24",
       "proposerLr2id" : 84597,
@@ -10603,6 +10642,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "3034 obj:hoi2",
+      "comment" : "★★5",
+      "level" : "7",
+      "md5" : "c20426480da2741a37d2fdf5f70eaf1b",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "57d0d180ed5996eefd13af4f7f522a484399646307c1c9a9da09a0389f4d68c0",
+      "submission" : 951,
+      "title" : "NS22 [7key Another+]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=214&event=74",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
+   },
+   {
       "artist" : "MONOLITH feat.FG75 +kju8 / obj. mentalhealz vs Monsta MOVIE / Rabbit Machine+",
       "comment" : "曲URLダウンロード必須！",
       "level" : "1",
@@ -11014,6 +11066,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "celas respect for W.A.Mozart obj:st",
+      "comment" : "高速",
+      "level" : "7",
+      "md5" : "c9d719eebcb6f25cfb4977bababe9115",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "7ce419ed7f3bfb40960e0c99e299c9159f3571c227f86f5e5ed90ac6236a0e78",
+      "submission" : 952,
+      "title" : "トルコ行進曲 (Hd-NRG mix) [s-ther]",
+      "url" : "https://web.archive.org/web/20140612154923/http://creation-records.info/bms/turkeymarch_r-hqbga.rar",
+      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up3212.zip"
    },
    {
       "artist" : "竜。 feat.結月ゆかり obj:音ゲーマーゆかり",
