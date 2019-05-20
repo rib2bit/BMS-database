@@ -17,6 +17,23 @@
       "voteYes" : 4
    },
    {
+      "artist" : "しらいし / obj morio",
+      "comment" : "Ψ24、32分ディレイ、皿一枚",
+      "level" : "6",
+      "md5" : "1feb0b29acb2a029d7c27df9de529bde",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "3f0703d1f02096493093190223f870e3e15d719b1eeb129e4542361ae1195255",
+      "submission" : 953,
+      "title" : "硬核機動 [Finale]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=106&event=83",
+      "url_diff" : "http://moriosabun.zouri.jp/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
       "artist" : "siromaru / BANZAI",
       "comment" : "Perfect for warm up/kill stamina",
       "level" : "2",
@@ -81,8 +98,8 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up5679.zip",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "MALVA. vs. Venstant Illustration:Mare.S",
@@ -132,8 +149,8 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "66.67",
-      "voteYes" : 2
+      "votePercent" : "75.00",
+      "voteYes" : 3
    },
    {
       "artist" : "celas respect for W.A.Mozart obj:st",
@@ -150,7 +167,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "ミズゴロウ obj.hex",

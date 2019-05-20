@@ -5185,6 +5185,18 @@
       "voteYes" : 0
    },
    {
+      "artist" : "wa. vs ETIA. / obj:夢瑠 deadblue238",
+      "level" : "11",
+      "md5" : "5aa0517a13933707497024a8bb54100c",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "934f0542d93ac163c5215988abfb6f3ffaf437bf5d5084348902e458cf91247d",
+      "submission" : 956,
+      "title" : "Akasagarbha  [yumether]",
+      "url" : "http://3t1a.net/bms/Akasagarbha_ogg.rar",
+      "url_diff" : "http://yumerusabun.web.fc2.com/nue.html"
+   },
+   {
       "artist" : "Is-m BGA:ハマドメハマル",
       "comment" : "連打、皿　TOTAL高めです",
       "level" : "12",
@@ -12851,22 +12863,6 @@
       "url_diff" : ""
    },
    {
-      "artist" : "Widowmaker",
-      "comment" : "sl10~11?",
-      "level" : "7",
-      "md5" : "dc482fd951d57ff4e8c73f43b755b250",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "d614bc5bed584443e6fd837bbe1b7b323d3b9e2b6b865835b1aa28bfd98f5be7",
-      "submission" : 262,
-      "title" : "Giselle [Etude]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=262&event=123",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02408",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
       "artist" : "shimizushi illust:a.a / obj:DJ.END",
       "comment" : "sl4-5 | A-1 Climax 8th、乱打、中盤発狂、連打のラスト殺し",
       "level" : "5",
@@ -14332,6 +14328,18 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Aglaia(Re:gats& vs. Nego_tiator) BGA:Fiz / obj:LAPIS + B_K",
+      "level" : "5",
+      "md5" : "f4f06e45e09b5aa2e7907619d3be6311",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "4f61bac0da894c8549cb5559bb73ad7254d0459223cfb65ada282fd5d955daf4",
+      "submission" : 955,
+      "title" : "天 -Apocalypse-",
+      "url" : "http://qstol.sakura.ne.jp/kanji/bms_detail.php?id=28",
+      "url_diff" : "http://lapisbms.web.fc2.com/"
    },
    {
       "artist" : "loz",

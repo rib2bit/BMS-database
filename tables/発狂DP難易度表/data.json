@@ -302,7 +302,7 @@
       "level" : "7",
       "lr2_bmsid" : "205309",
       "md5" : "0d0d9db6e6a6a9e2c5cbbefe15a9c6b0",
-      "state" : 1,
+      "state" : 0,
       "title" : "Central Nucleus [DP INSANE]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=231&event=83",
       "url_diff" : "http://L-bms.com/jp/download.html"
@@ -350,6 +350,17 @@
       "title" : "ピアノ協奏曲第１番\"蠍火\"（なんでも吸い込むピンク色のための） [本家]",
       "url" : "http://fz.bms.ms/",
       "url_diff" : "http://dpbms.at-ninja.jp/index.html"
+   },
+   {
+      "artist" : "Cosine BGA:うまうや、Kaoru Miyazaki / obj:Thulium",
+      "comment" : " https://www.dropbox.com/s/giw84r4l9cgtok7/Cosine_Is_This_Your_Memory_DP.zip?dl=1",
+      "level" : "3",
+      "lr2_bmsid" : "259733",
+      "md5" : "0ed3cf04dd716879b4ec4ef50aff2cd0",
+      "state" : 1,
+      "title" : "Is This Your Memory? [Insane]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=313&event=116",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/349"
    },
    {
       "artist" : "SHIKI / obj:Redrum",
@@ -1061,7 +1072,7 @@
       "level" : "10",
       "lr2_bmsid" : "199013",
       "md5" : "3156c6908d455bd9dc3bad7ad764e744",
-      "state" : 1,
+      "state" : 0,
       "title" : "夏影-summer lights- [HI-Speed Edition]",
       "url" : "http://cool-create.cc/data/btm_natu-HS.rar",
       "url_diff" : "http://www42.tok2.com/home/dpbms/cgi-bin/uploader/src/dpbms_1391.zip"
@@ -1245,10 +1256,10 @@
    {
       "artist" : "篠螺悠那",
       "comment" : " 譜面同梱 篠螺悠那さんのサイト直リンクhttp://tsubu.ath.cx/~electrogic/bms/mononoke.rar 2014/03/17 本体入手可能。",
-      "level" : "2",
+      "level" : "3",
       "lr2_bmsid" : "1287",
       "md5" : "3a80f6ffb94124c4468b4c810254e952",
-      "state" : 0,
+      "state" : 1,
       "title" : "物怪舞踏 [ANOTHER14]",
       "url" : "http://tsubu.ath.cx/~ssry/",
       "url_diff" : ""
@@ -1342,23 +1353,12 @@
       "url_diff" : "http://dl.dropboxusercontent.com/s/iely8o85k16msj9/Ted_Lorikeet_ogg.zip"
    },
    {
-      "artist" : "LiTaNia feat. RYL notes: Golem",
-      "comment" : " 譜面同梱  Skydriveにて原曲補完 https://skydrive.live.com/#cid=863934608D908CD0&id=863934608D908CD0%21105 2014/03/17 BOF2009公式torrentにより入手可能。",
-      "level" : "2",
-      "lr2_bmsid" : "39722",
-      "md5" : "4034bdeadce454d976f05b69454ff53e",
-      "state" : 0,
-      "title" : "Don't be Afraid - DP ANOTHER",
-      "url" : "http://litania.egloos.com/2486164",
-      "url_diff" : ""
-   },
-   {
       "artist" : "ルゼ / obj:lichtr",
       "comment" : " 2014/03/17 差分は入手可能。本体は公式かどうか不明。",
       "level" : "3",
       "lr2_bmsid" : "52452",
       "md5" : "4048a3558376356aac6a51ebc5ced9a1",
-      "state" : 1,
+      "state" : 0,
       "title" : "3.14",
       "url" : "http://bit.ly/n9vB30",
       "url_diff" : "http://objlr.kirara.st/"
@@ -1494,6 +1494,28 @@
       "title" : "少女の檻 [DP]",
       "url" : "http://cool-create.cc/bms/index.html",
       "url_diff" : "http://o6oo9oo6o.web.fc2.com/"
+   },
+   {
+      "artist" : "MisomyL obj:mathath",
+      "comment" : " 同梱譜面",
+      "level" : "7",
+      "lr2_bmsid" : "268442",
+      "md5" : "44c6283ff029cbdeabee84fe253aaff9",
+      "state" : 1,
+      "title" : "Amnehilesie [DP Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=362&event=123",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "カラフル・サウンズ・ポート / obj:lichtr",
+      "comment" : "",
+      "level" : "5",
+      "lr2_bmsid" : "113906",
+      "md5" : "45a80abd4279feae464db9b20ebd6dde",
+      "state" : 1,
+      "title" : "Just a one night love song",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=131&event=74",
+      "url_diff" : "http://objlr.kirara.st/"
    },
    {
       "artist" : "wa./*8284* vs kumamoto",
@@ -1661,6 +1683,17 @@
       "url_diff" : "https://ux.getuploader.com/dpbms/download/351"
    },
    {
+      "artist" : "ginkiha obj.Onedict",
+      "comment" : "",
+      "level" : "6",
+      "lr2_bmsid" : "259670",
+      "md5" : "4b663afded77b679552fc7a0346a4844",
+      "state" : 1,
+      "title" : "EOS [DP Another]",
+      "url" : "http://nzrg.jp/temp/EOS_master.zip",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/338"
+   },
+   {
       "artist" : "xi / obj:lichtr",
       "comment" : "",
       "level" : "5",
@@ -1762,10 +1795,10 @@
    {
       "artist" : "white crystal",
       "comment" : " 2014/08/16 本体・差分入手可  発狂難易度変更投票期間 ～2014/09/13 ★5→★4",
-      "level" : "5",
+      "level" : "4",
       "lr2_bmsid" : "10040",
       "md5" : "4f6c7017e31e5d6955a537a23fe4dba5",
-      "state" : 0,
+      "state" : 1,
       "title" : "sensitive (14AHO)",
       "url" : "http://web.archive.org/web/20070218160503/http://sazanka.sakura.ne.jp/~2tdm/bms.htm",
       "url_diff" : "http://www8.atwiki.jp/14key/pages/23.html"
@@ -1912,6 +1945,17 @@
       "title" : "The Lamia 170 [DP Despair 2017]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=248&event=74",
       "url_diff" : "http://ereter.net/"
+   },
+   {
+      "artist" : "ぽんきち / obj:nono22",
+      "comment" : "",
+      "level" : "6",
+      "lr2_bmsid" : "265565",
+      "md5" : "529eadbbc9d5b084b415000bea16c27c",
+      "state" : 1,
+      "title" : "ミルキーベリー・スウィートタイム [Dream]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=107&event=104",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/456"
    },
    {
       "artist" : "The Dear Sexys",
@@ -2150,7 +2194,7 @@
       "level" : "11",
       "lr2_bmsid" : "157839",
       "md5" : "5d2d2904d3f9a8295e9420314dea77fe",
-      "state" : 1,
+      "state" : 0,
       "title" : "Yakumo >>JOINT STRUGGLE -Twin Fantasia-",
       "url" : "http://page.freett.com/ykyk00/bof2009.html",
       "url_diff" : "http://www42.tok2.com/home/dpbms/cgi-bin/uploader/src/dpbms_0733.zip"
@@ -2816,6 +2860,17 @@
       "url_diff" : "http://dpbmsdelta.web.fc2.com/score/sabun.html"
    },
    {
+      "artist" : "Superbia",
+      "comment" : "",
+      "level" : "12",
+      "lr2_bmsid" : "245256",
+      "md5" : "795c3dee0080e43c1ed98d1e53de70fc",
+      "state" : 1,
+      "title" : "Entschadigung",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=114",
+      "url_diff" : "同梱"
+   },
+   {
       "artist" : "RearDawn obj:azurite BGA:zue-row",
       "comment" : "",
       "level" : "2",
@@ -2880,6 +2935,17 @@
       "title" : "Debut [DP ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=154&event=65",
       "url_diff" : "http://www.geocities.jp/d_c_kick/bms/bms.html"
+   },
+   {
+      "artist" : "カラフル・サウンズ・ポート obj:nBel",
+      "comment" : "",
+      "level" : "11",
+      "lr2_bmsid" : "265745",
+      "md5" : "7cadae3b9aab1e6bbd3ad4449c08d075",
+      "state" : 1,
+      "title" : "KISS CANDY FLAVOR (MORE POP)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=132&event=74",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/459"
    },
    {
       "artist" : "Ym1024 feat. ひなたゆかり / obj:epics-",
@@ -3217,7 +3283,7 @@
       "level" : "11",
       "lr2_bmsid" : "9556",
       "md5" : "8a510d01be7147857b781f5d1b98a4d6",
-      "state" : 1,
+      "state" : 0,
       "title" : "エピトゥリカの祀 [CHALLENGE14]",
       "url" : "http://web.archive.org/web/20120415195317/http://sasakure.bms.ms/bof2008/epitorica_mq.rar",
       "url_diff" : "http://www.geocities.jp/uccdpbms/index.html"
@@ -4697,17 +4763,6 @@
       "url_diff" : "http://www.geocities.jp/uccdpbms/bof2011.html"
    },
    {
-      "artist" : "nmk feat.かなえゆめ / sequence by ojaga",
-      "comment" : " Skydriveにて原曲補完 https://skydrive.live.com/#cid=863934608D908CD0&id=863934608D908CD0%21105",
-      "level" : "10",
-      "lr2_bmsid" : "54467",
-      "md5" : "c6cd0b51d496e1013ace8ed41c21e206",
-      "state" : 0,
-      "title" : "Memoria [DP ANOTHER]",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
       "artist" : "Est obj:ひだりみる",
       "comment" : "",
       "level" : "3",
@@ -5205,10 +5260,10 @@
    {
       "artist" : "guna with チーム・キュッキュ / obj = Mr.egg",
       "comment" : " 14/03/15 本体差分共に確認",
-      "level" : "1",
+      "level" : "2",
       "lr2_bmsid" : "9124",
       "md5" : "e0f6f399f6f477599af0c9e41711ba67",
-      "state" : 0,
+      "state" : 1,
       "title" : "subconsciousness [KEEP]",
       "url" : "http://aquaseeds.net/",
       "url_diff" : "http://www.geocities.jp/thsdendse/bms.html"
@@ -5230,10 +5285,32 @@
       "level" : "9",
       "lr2_bmsid" : "204212",
       "md5" : "e1ac8d1ac7d01f6db11fcd82ab7ff48e",
-      "state" : 1,
+      "state" : 0,
       "title" : "x-Aria [DP えぬTHER]",
       "url" : "http://www.geocities.jp/bmsetc/",
       "url_diff" : "http://www42.tok2.com/home/dpbms/cgi-bin/uploader/src/dpbms_1447.zip"
+   },
+   {
+      "artist" : "Silentroom × mommy × Nate",
+      "comment" : "",
+      "level" : "6",
+      "lr2_bmsid" : "254604",
+      "md5" : "e1dc420eb5fe525ed4fc2234c51260ad",
+      "state" : 1,
+      "title" : "Implexrough [DP PLEXUS]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=365&event=116",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "Junk / Obj. Onedict",
+      "comment" : "",
+      "level" : "6",
+      "lr2_bmsid" : "264874",
+      "md5" : "e290da167d98621f9467a3e4c7837afe",
+      "state" : 1,
+      "title" : "Dream Rocket* [Colors*]",
+      "url" : "http://www.ac.cyberhome.ne.jp/~hi-ma/junk_dr.zip",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/436"
    },
    {
       "artist" : "horoscope object:Beatnoob",
