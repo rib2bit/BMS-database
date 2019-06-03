@@ -132,6 +132,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "litmus* obj:K-SPIN",
+      "comment" : "乱打 复合皿",
+      "level" : "1",
+      "md5" : "02af89d2c76d4494b6561ee2c94b15cd",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "54abc6e91337d65f7eee6969ac169a2fdbfaecfc341efbb387589f4e217d2b34",
+      "submission" : 974,
+      "title" : "Latch (Flip-Flop) [Spinner+]",
+      "url" : "http://k-bms.com/party_pabat/party2015.jsp?board_num=15&num=3&order=reg&odtype=a",
+      "url_diff" : "http://kspinbms.web.fc2.com/insane.html"
+   },
+   {
       "artist" : "paraoka / 制限",
       "level" : "5",
       "md5" : "02cc25e2711ba839c5db93d3579b2816",
@@ -487,6 +500,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "daisan feat. えみゅう。 / zue-row obj : swa vs 0samil0",
+      "comment" : "ガチ押し sl7~8",
+      "level" : "6",
+      "md5" : "07d34c956f9888abc25e56ab09f9e660",
+      "proposer" : "matsu",
+      "proposerLr2id" : 127851,
+      "sha256" : "1aac0add9ab9b2821b06f0ccc9e4f61f1b66de5ab03bcce750e133790606fc91",
+      "submission" : 958,
+      "title" : "Dance Doll Dream [Antoinette]",
+      "url" : "http://l-bms.com/ko/index.html",
+      "url_diff" : "http://swamelo.web.fc2.com/ddd_SLSAMIL.bme"
    },
    {
       "artist" : "wa. / obj:Lennon",
@@ -892,6 +918,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "NASA",
+      "comment" : "sl4~5",
+      "level" : "4",
+      "md5" : "0e8a993b4caf70cde4f44abd6c6ceaea",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "72be818fbdd7e8f640df9d73468f842ef0ecfb3faaa79d1b6ee091e2805ee334",
+      "submission" : 967,
+      "title" : "Cosmoscapes* [7-spIca]",
+      "url" : "https://event.yaruki0.net/VSevent/impression/20",
+      "url_diff" : ""
+   },
+   {
       "artist" : "orangentle / deadblue238 obj:BAECON vs ラピス",
       "level" : "10",
       "md5" : "0e99a6ba5d3e554f184824bd5bf40adf",
@@ -972,7 +1011,7 @@
    },
    {
       "artist" : "ZUN remixed by LeaF / obj:けろささ Movie:Optie",
-      "level" : "11",
+      "level" : "12",
       "md5" : "0fdfa48d94bf63953661e8ebb0658dd8",
       "proposer" : "selene.",
       "proposerLr2id" : 84521,
@@ -1269,6 +1308,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "sound piercer x ginkiha (mov : 1B) obj:BAECON",
+      "comment" : "★13強化版",
+      "level" : "12",
+      "md5" : "16cd1f53375a658af0b4f37993ce2b94",
+      "proposer" : "Thaw",
+      "proposerLr2id" : 145739,
+      "sha256" : "1817465844eae4b0b3448ae26b7fb2f28cb0bd5b30682758eb38d44709213eec",
+      "submission" : 959,
+      "title" : "BLAZE YOUR SOUL [SP INSANE+]",
+      "url" : "http://k-bms.com/party_pabat/party2014.jsp?board_num=11&num=46",
+      "url_diff" : "http://akred.web.fc2.com/baecon/sp_gkh_blaze_your_soul_06_spi-plus.bms"
    },
    {
       "artist" : "ginkiha",
@@ -1945,7 +1997,7 @@
    {
       "artist" : "HARD RENAISSAMBA MASTER 佐藤 -SATOH- obj.JoeT",
       "comment" : "双階段 乱打 复合皿",
-      "level" : "9",
+      "level" : "10",
       "md5" : "216063bc06f7c34b03e8932d54b67dce",
       "proposer" : "椒図",
       "proposerLr2id" : 124809,
@@ -1954,6 +2006,19 @@
       "title" : "ハードルネッサンバ [ANOTHER BOSS]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=409&event=104",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02875"
+   },
+   {
+      "artist" : "daisan",
+      "comment" : "G2R2018, 総合, 同梱",
+      "level" : "0",
+      "md5" : "21d4b08a3a1aa9ccf12ee0e5097bafb6",
+      "proposer" : "つもつも",
+      "proposerLr2id" : 122015,
+      "sha256" : "2dd378e01e2061d95f25d3ec541cc1f5a89da3e91077a0fbf1e4a3e0c1987f11",
+      "submission" : 960,
+      "title" : "Deepsea Moonlight",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=20&event=123",
+      "url_diff" : ""
    },
    {
       "artist" : "zun/さ",
@@ -3220,6 +3285,18 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "削除 / Mentalstock / Limite feat.制限",
+      "level" : "8",
+      "md5" : "39a37a4db568009d0d6b86313193f74b",
+      "proposer" : "''",
+      "proposerLr2id" : 86456,
+      "sha256" : "a734a3ca1673b50dec0238630c4c57a1a7664ec02954b4bb2ec00904559e9da1",
+      "submission" : 961,
+      "title" : "VALLISTA",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=301&event=74",
+      "url_diff" : "https://1drv.ms/x/s!Aoi5esJwIYCChk0BTx_U1KkswzSf"
    },
    {
       "artist" : "w_tre obj:C4 Lyrics by Sing_fUA",
@@ -4515,7 +4592,7 @@
    {
       "artist" : "Hammer Switch / BGA:Johnny / obj:NASA",
       "comment" : "ソフランなし",
-      "level" : "1",
+      "level" : "2",
       "md5" : "4f3b5403ec82d5f2cde0a88c13c12a23",
       "proposer" : "SANY",
       "proposerLr2id" : 128405,
@@ -4573,6 +4650,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "NEKI←T / obj.siokaze",
+      "comment" : "",
+      "level" : "10",
+      "md5" : "50266131ce611676b71929a1d0eea1f2",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "159ab20a721999bf8bc5a3f4034d2eecd16b398ca5f311e5dc5facb0e521519a",
+      "submission" : 975,
+      "title" : "GaRaKuTic Dream [Maniac+]",
+      "url" : "http://nekokan.dyndns.info/~anonymous/bms/est/",
+      "url_diff" : "http://siokazebms.web.fc2.com/"
    },
    {
       "artist" : "er / obj:夢瑠",
@@ -5186,7 +5276,7 @@
    },
    {
       "artist" : "wa. vs ETIA. / obj:夢瑠 deadblue238",
-      "level" : "11",
+      "level" : "12",
       "md5" : "5aa0517a13933707497024a8bb54100c",
       "proposer" : "椒図",
       "proposerLr2id" : 124809,
@@ -5241,6 +5331,18 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Tanzanite obj:Guanacoite",
+      "level" : "7",
+      "md5" : "5c4bd17e6b13b05337a2c8a1cc72156c",
+      "proposer" : "AXION",
+      "proposerLr2id" : 37523,
+      "sha256" : "e59e27968c04e221cf993e132f9760f634c4291495d8c7add150d5a1d0d0e351",
+      "submission" : 968,
+      "title" : "Polymorphism [Obscure]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/"
    },
    {
       "artist" : "polycube × 鑓田(alpha complex) Obj.Triforce",
@@ -6580,6 +6682,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "fether (Remixed by Yamajet) obj:goe",
+      "comment" : "",
+      "level" : "3",
+      "md5" : "766df02639397efddcdd060e4d4bcc4f",
+      "proposer" : "nono22",
+      "proposerLr2id" : 122934,
+      "sha256" : "1f2449f49ad9503d6852b2b525cc3c71841b7db45856f55783c14744fe5bf95b",
+      "submission" : 964,
+      "title" : "consider numbers 3 [G]",
+      "url" : "http://www.yamajet.com/music/html/considernumbers3.html",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01762"
+   },
+   {
       "artist" : "EBIMAYO",
       "comment" : "GOODCHART",
       "level" : "0",
@@ -6660,6 +6775,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "TAROS / obj.siokaze",
+      "comment" : "縦連混じりの重発狂　sl8~9",
+      "level" : "9",
+      "md5" : "77e8079b669f93eed152b8705f9bf812",
+      "proposer" : "matsu",
+      "proposerLr2id" : 127851,
+      "sha256" : "0ae4b13a2392c203114216c623c62663ca8d39c92db9a81368b6c96305edda55",
+      "submission" : 957,
+      "title" : "LOVE'S REBIRTH [MANIAQ]",
+      "url" : "http://web.archive.org/web/20020610220554/http://www.ag.wakwak.com/~taros/loverebirth.exe",
+      "url_diff" : "http://siokazebms.web.fc2.com/"
    },
    {
       "artist" : "Is-m/steelyvibe BGA:q/stol",
@@ -6969,6 +7097,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "tarolabo vo：小宮真央",
+      "comment" : "tarolabo好き",
+      "level" : "2",
+      "md5" : "7c55ae057879d5ff75ce2e6f9c28fbfd",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "7b51b7a00fa6b4cd0ae954a5e8d2794027b3cde60a25310e87f90b548d89bea6",
+      "submission" : 972,
+      "title" : "路上のギリジン-Shou+rt Mix- [7key_EX]",
+      "url" : "http://ofuton.tk/tarolabo/",
+      "url_diff" : "http://absolute.pv.land.to/uploader/src/up0919.zip"
    },
    {
       "artist" : "さかみりと img:しぐれぷに子",
@@ -8261,6 +8402,19 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02659"
    },
    {
+      "artist" : "Hyparpax / obj りゅー",
+      "comment" : "PABAT!2019、皿、トリル、乱打",
+      "level" : "4",
+      "md5" : "938e16b0434c357e62409213db8fb445",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "2e0d283149255898954ce812dbdabb5f8cbd725d8cc15d571d3498e7dd9d378f",
+      "submission" : 969,
+      "title" : "Transfixation [Re:ANOTHER]",
+      "url" : "http://k-bms.com/party_pabat/party2019.jsp?board_num=19&num=51&order=reg&odtype=a",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02949"
+   },
+   {
       "artist" : "STASTA BGA : nanairo / obj.7zs",
       "comment" : "乱打 縦連 トリル",
       "level" : "6",
@@ -8455,6 +8609,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "HyuN feat. Machina obj. 35",
+      "comment" : "軸",
+      "level" : "2",
+      "md5" : "97825fd6fd47d8feef109bfc49ee377c",
+      "proposer" : "Yaksa",
+      "proposerLr2id" : 146592,
+      "sha256" : "d2606901bd9ed8bad7bf654ca9428fd451a79da5f2165a3f805f0149564e18f3",
+      "submission" : 973,
+      "title" : "繧｢繧ｹ縺ｯ髮ｨ縺梧ｭ｢繧",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=161&event=116",
+      "url_diff" : ""
    },
    {
       "artist" : "music:litmus* / bms: :Poin7less movie:directed by litmus* / obj.#",
@@ -9281,6 +9448,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "kanone/差分　赤い人 mov:deadblue238",
+      "comment" : "乱打",
+      "level" : "12",
+      "md5" : "a7aa3265770a80dcf136a91bdea02b42",
+      "proposer" : "Thaw",
+      "proposerLr2id" : 145739,
+      "sha256" : "947e714085b456749dc0cd93e2af3dfcf5871e22b00cf143f4ea155d2a91f0aa",
+      "submission" : 971,
+      "title" : "Cross Galaxy [INFELNO]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=304&event=74",
+      "url_diff" : "http://akred.web.fc2.com/crossgalaxy_INFELNO.bms"
+   },
+   {
       "artist" : "Spire",
       "comment" : "トリルと階段",
       "level" : "0",
@@ -9737,6 +9917,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Cres/*8284* obj:monaka",
+      "comment" : "from Stella",
+      "level" : "12",
+      "md5" : "acb066266ebc83d9dae23f1009497fe3",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "84c9a5166a427f275a24fc03828cd8db70e81743e65c019e60bff26ccc81fda9",
+      "submission" : 965,
+      "title" : "End Time A⇒Side [Deadly End]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=81&event=36",
+      "url_diff" : "https://ux.getuploader.com/monaka_sabun_2/download/186"
+   },
+   {
       "artist" : "HOLY SAMBA MASTER 佐藤 -SATOH-",
       "level" : "4",
       "md5" : "ace350ad036de70db59adae9e93386fa",
@@ -9747,22 +9940,6 @@
       "title" : "ホーリーサンバランド [White Another]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=193&event=96",
       "url_diff" : "",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
-      "artist" : "guna / obj. hplaner",
-      "comment" : "超同時、超体力",
-      "level" : "9",
-      "md5" : "acfdf1b27737d248ff4a7419927838fc",
-      "proposer" : "こめっと",
-      "proposerLr2id" : 80964,
-      "sha256" : "c449bc3fbfc23d067b3468ba49f92e1f2a21bc2c94e5bcfe8511bc0e376fddbb",
-      "submission" : 135,
-      "title" : "雪月夜鐘 [まだまだ走れます]",
-      "url" : "http://aquaseeds.net/archives/rickytick_bell_hq.rar",
-      "url_diff" : "https://www.hyper-laner.com/sabun/rickytick_bell_7laner.bme",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -10577,7 +10754,7 @@
    {
       "artist" : "Qga",
       "comment" : "sl0~1",
-      "level" : "1",
+      "level" : "2",
       "md5" : "b7a0bd4d649388990873b739dd22afcb",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -11010,7 +11187,7 @@
    {
       "artist" : "Sakamiya feat.A.Dokuga img:HalHAL Lyrics:uoru notes:ELIGOS",
       "comment" : "同梱、乱打",
-      "level" : "9",
+      "level" : "10",
       "md5" : "bcb25c89f7d006eec25a4f8436f65218",
       "proposer" : "resair",
       "proposerLr2id" : 115377,
@@ -12481,6 +12658,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "er / obj:五月雨雀",
+      "comment" : "乱打 連皿",
+      "level" : "1",
+      "md5" : "d5c649a9d124b6b4b6e78822834aa318",
+      "proposer" : "MiRa",
+      "proposerLr2id" : 121881,
+      "sha256" : "1c8e82b53dc943ef4d777727ff3f9c05c2ede1f95c484bf0cb4d3b91d3db0bb5",
+      "submission" : 976,
+      "title" : "スーパーイザナギオブジェクト [SAMITHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=102",
+      "url_diff" : "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html"
+   },
+   {
       "artist" : "Irish Kappa / selene. BGA: Rinser",
       "comment" : "高速",
       "level" : "9",
@@ -13116,6 +13306,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "ねこみりん / 小宮真央 / わんびぃ  /obj:BAECON",
+      "comment" : "▼14 弱化版",
+      "level" : "5",
+      "md5" : "deeab620fa445e115fb4039155dad665",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "7d1f9fc64fe53a4f503617ca3a749644dfa3dead86b307c8ba1a1adbab0f0ac0",
+      "submission" : 966,
+      "title" : "でじたるふぁじー！ -Radio Edit- [EX]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=143&event=65",
+      "url_diff" : "http://akred.web.fc2.com/baecon/_digitalfuzzy_99_EX7.bms"
+   },
+   {
       "artist" : "eoll feat.白羽美依 obj:SUZUKAZEΛ",
       "level" : "2",
       "md5" : "df9cca9b79c4e1e016238731ad516328",
@@ -13225,6 +13428,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Xacla / TOHRU MiTSUHASHi / obj:BAECON",
+      "comment" : "★10-11",
+      "level" : "6",
+      "md5" : "e198bee511f2fc77600ce64fe229ad89",
+      "proposer" : "Fendou",
+      "proposerLr2id" : 128388,
+      "sha256" : "adf2994f75ae332cbbb7e530b5c91d30f73a68704c1cdc4cafcf06da4e007a99",
+      "submission" : 963,
+      "title" : "oceanbird -MANIAC7-",
+      "url" : "http://onedrive.live.com/?cid=BEA3EA5126192983&id=BEA3EA5126192983%21112",
+      "url_diff" : "http://akred.web.fc2.com/baecon/oceanbird_7_maniac.bms"
    },
    {
       "artist" : "chip BGI:うえいず",
@@ -13806,7 +14022,7 @@
    {
       "artist" : "Xect. SeibaR/obj.sitoras",
       "comment" : "皿複合、ズレ地帯、階段、乱打、二重階段、ラス殺し、少しLN\t",
-      "level" : "8",
+      "level" : "10",
       "md5" : "eb30ea2c773db4276ab9675f475c2ef5",
       "proposer" : "りゅー.",
       "proposerMinirid" : "2eaf9886-51c3-4b4d-94a4-a7a5495480eb",
@@ -14270,6 +14486,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Sakamiya feat.一花 mov:くわぎう img:じゃっこ / obj:SUZUKAZEΛ",
+      "comment" : "無名戦対抗戦、同時押し",
+      "level" : "3",
+      "md5" : "f31e56e1c9fa557a311cb552df22ff6b",
+      "proposer" : "STANK!",
+      "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
+      "sha256" : "360fefd0f489a330d32761d2bb5dd19adf6dc2df2be32fd478ae639e0c400105",
+      "submission" : 962,
+      "title" : "マツユキソウ [ZOI]",
+      "url" : "https://event.yaruki0.net/VSevent/impression/3",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html"
+   },
+   {
       "artist" : "isocosa / obj:NASA",
       "comment" : "PABAT!2019、★2?、連皿、同時押し、低TOTAL",
       "level" : "1",
@@ -14502,6 +14731,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "にっすぃー obj:И",
+      "comment" : "G2R2018、ズレ、皿",
+      "level" : "7",
+      "md5" : "f88de0f3d43e99515feff8994fd64700",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "676a7cee3fe0a18f59a4baea1c31edd19798f847d01bef184730379fddd377ca",
+      "submission" : 970,
+      "title" : "dimension_wanderer [dreamer]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=123",
+      "url_diff" : "http://bms.parksulab.xyz"
    },
    {
       "artist" : "remixed celas feat.ARU obj : LindBlum彡☆",
