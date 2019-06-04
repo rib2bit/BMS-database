@@ -13,8 +13,8 @@
       "url_diff" : "http://kspinbms.web.fc2.com/insane.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "daisan feat. えみゅう。 / zue-row obj : swa vs 0samil0",
@@ -47,8 +47,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "70.00",
-      "voteYes" : 3
+      "votePercent" : "75.00",
+      "voteYes" : 4
    },
    {
       "artist" : "sound piercer x ginkiha (mov : 1B) obj:BAECON",
@@ -131,7 +131,7 @@
       "url_diff" : "https://1drv.ms/x/s!Aoi5esJwIYCChk0BTx_U1KkswzSf",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "72.22",
+      "votePercent" : "70.00",
       "voteYes" : 5
    },
    {
@@ -182,8 +182,8 @@
       "url_diff" : "http://siokazebms.web.fc2.com/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "83.33",
+      "voteYes" : 2
    },
    {
       "artist" : "Tanzanite obj:Guanacoite",
@@ -199,7 +199,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "fether (Remixed by Yamajet) obj:goe",
@@ -283,7 +283,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "HyuN feat. Machina obj. 35",
@@ -300,7 +300,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
    },
    {
       "artist" : "kanone/差分　赤い人 mov:deadblue238",
@@ -317,7 +317,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
    },
    {
       "artist" : "DENPA SAMPLER VJ : Personality & jueL / Illust : CAPOKI / Obj : BK",
@@ -384,8 +384,8 @@
       "url_diff" : "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "ねこみりん / 小宮真央 / わんびぃ  /obj:BAECON",
@@ -402,7 +402,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "Xacla / TOHRU MiTSUHASHi / obj:BAECON",
@@ -453,6 +453,6 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    }
 ]
