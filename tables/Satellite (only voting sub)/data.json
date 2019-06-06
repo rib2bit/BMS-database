@@ -14,7 +14,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "daisan feat. えみゅう。 / zue-row obj : swa vs 0samil0",
@@ -47,7 +47,7 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "71.43",
+      "votePercent" : "68.75",
       "voteYes" : 4
    },
    {
@@ -186,6 +186,23 @@
       "voteYes" : 4
    },
    {
+      "artist" : "ArcadeStuff / KAZARI obj.FUMENGACHA",
+      "comment" : "乱打 微縦連",
+      "level" : "1",
+      "md5" : "560e1aa9a647a420606c7a9b781f5ba7",
+      "proposer" : "nono22",
+      "proposerLr2id" : 122934,
+      "sha256" : "b4b59f6c8199214dc63ec17529a7e189888bb1b4b03ab609aacb14ad5a97e891",
+      "submission" : 978,
+      "title" : "Life Style [INSANE]",
+      "url" : "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=13&order=reg&odtype=a",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "Tanzanite obj:Guanacoite",
       "level" : "7",
       "md5" : "5c4bd17e6b13b05337a2c8a1cc72156c",
@@ -199,7 +216,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya mov:hrchem",
@@ -214,8 +231,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "votePercent" : "87.50",
+      "voteYes" : 3
    },
    {
       "artist" : "fether (Remixed by Yamajet) obj:goe",
@@ -265,7 +282,7 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up0919.zip",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "87.50",
       "voteYes" : 3
    },
    {
@@ -299,7 +316,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "HyuN feat. Machina obj. 35",
@@ -315,7 +332,7 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "91.67",
+      "votePercent" : "85.71",
       "voteYes" : 5
    },
    {
@@ -400,7 +417,7 @@
       "url_diff" : "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "90.00",
       "voteYes" : 4
    },
    {
@@ -418,7 +435,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "Xacla / TOHRU MiTSUHASHi / obj:BAECON",
@@ -469,6 +486,6 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    }
 ]
