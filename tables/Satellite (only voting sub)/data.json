@@ -14,7 +14,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 8
+   },
+   {
+      "artist" : "こはのん(kohaxy+Hanon) obj:Rian",
+      "comment" : "同梱譜面 高TOTAL 高速乱打",
+      "level" : "7",
+      "md5" : "045e3498d2e72b49679ec97a32a8c9ae",
+      "proposer" : "文欽2",
+      "proposerMinirid" : "83670899-0414-4d86-8b1a-053c077584a4",
+      "sha256" : "666d82372e699289caf8419da4ff752666392abed767bc3e0da49425b9acbdb9",
+      "submission" : 980,
+      "title" : "Blooming!! [Insane]",
+      "url" : "https://venue.bmssearch.net/3/73",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "83.33",
+      "voteYes" : 2
    },
    {
       "artist" : "daisan feat. えみゅう。 / zue-row obj : swa vs 0samil0",
@@ -119,6 +136,40 @@
       "voteYes" : 11
    },
    {
+      "artist" : "黒皇帝 Movie: Cirkass / Object: qune, w",
+      "comment" : "同時押し?",
+      "level" : "4",
+      "md5" : "25b229a10bd1c9d91549941e7946478c",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "97c589de275422f01a10a0b60e7d29c6003432c7856653c61aadead7bbae22c1",
+      "submission" : 981,
+      "title" : "Astar [ANOTHER+]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=176&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02612",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
+      "artist" : "44teru-k / obj:pn",
+      "comment" : "皿複合、縦連複合、sl4~5",
+      "level" : "5",
+      "md5" : "3850432a86d0c7dcf529f47a26cdb801",
+      "proposer" : "Yaksa",
+      "proposerLr2id" : 146592,
+      "sha256" : "17457373f5baaaef396014031123ca6be00bae86cda79f1aa532bf9a8b69725b",
+      "submission" : 982,
+      "title" : "悲伽羅香「水蓮」～花弁～ -激-",
+      "url" : "http://creation-records.info/bms.htm",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "削除 / Mentalstock / Limite feat.制限",
       "level" : "8",
       "md5" : "39a37a4db568009d0d6b86313193f74b",
@@ -182,8 +233,8 @@
       "url_diff" : "http://siokazebms.web.fc2.com/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 4
+      "votePercent" : "91.67",
+      "voteYes" : 5
    },
    {
       "artist" : "ArcadeStuff / KAZARI obj.FUMENGACHA",
@@ -199,8 +250,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "90.00",
+      "voteYes" : 4
    },
    {
       "artist" : "Tanzanite obj:Guanacoite",
@@ -216,7 +267,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya mov:hrchem",
@@ -231,8 +282,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 3
+      "votePercent" : "91.67",
+      "voteYes" : 5
    },
    {
       "artist" : "fether (Remixed by Yamajet) obj:goe",
@@ -280,10 +331,10 @@
       "title" : "路上のギリジン-Shou+rt Mix- [7key_EX]",
       "url" : "http://ofuton.tk/tarolabo/",
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up0919.zip",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 3
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "75.00",
+      "voteYes" : 4
    },
    {
       "artist" : "MILK / obj:京都306",
@@ -298,8 +349,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00381",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "76.92",
-      "voteYes" : 9
+      "votePercent" : "78.57",
+      "voteYes" : 10
    },
    {
       "artist" : "Hyparpax / obj りゅー",
@@ -316,7 +367,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
    },
    {
       "artist" : "HyuN feat. Machina obj. 35",
@@ -332,8 +383,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "85.71",
-      "voteYes" : 5
+      "votePercent" : "83.33",
+      "voteYes" : 6
    },
    {
       "artist" : "kanone/差分　赤い人 mov:deadblue238",
@@ -368,6 +419,22 @@
       "voteNo" : 0,
       "votePercent" : "94.44",
       "voteYes" : 8
+   },
+   {
+      "artist" : "ginkiha / obj:夢瑠",
+      "level" : "9",
+      "md5" : "b5fd495a29dc5f1513333d0db281495f",
+      "proposer" : "''",
+      "proposerLr2id" : 86456,
+      "sha256" : "abc786b9fb74906650e6f9bbf8145997e883f85affa10404e3b84ced59fd64a2",
+      "submission" : 979,
+      "title" : "The End of Yggdrasil",
+      "url" : "http://nzrg.jp/bms/The_End_of_Yggdrasil.zip",
+      "url_diff" : "http://yumerusabun.web.fc2.com/nue_hakkyou.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "Qga",
@@ -417,8 +484,8 @@
       "url_diff" : "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 4
+      "votePercent" : "93.75",
+      "voteYes" : 7
    },
    {
       "artist" : "ねこみりん / 小宮真央 / わんびぃ  /obj:BAECON",
@@ -435,7 +502,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "Xacla / TOHRU MiTSUHASHi / obj:BAECON",
@@ -451,7 +518,7 @@
       "url_diff" : "http://akred.web.fc2.com/baecon/oceanbird_7_maniac.bms",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "93.75",
+      "votePercent" : "88.89",
       "voteYes" : 7
    },
    {
