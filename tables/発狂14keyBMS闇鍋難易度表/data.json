@@ -6132,6 +6132,13 @@
       "title" : "Lolita Queen (Sunrise Color Remix) [14keys Another]"
    },
    {
+      "artist" : "SAMBA MASTER 佐藤 -SATOH- Remixed by Yosk!",
+      "comment" : "ゆったり系ティンクルポップ",
+      "level" : "★2",
+      "md5" : "262383412ad7a96e51b91d2f1977d714",
+      "title" : "☆ウィンドサンバランド☆ -DP LAST BOSS-"
+   },
+   {
       "artist" : "ねこみりん feat.初音ミク / kody / objeCraft",
       "comment" : "MIXTUNE",
       "level" : "?",
@@ -7868,6 +7875,13 @@
       "title" : "水と緑ともう一つの緑"
    },
    {
+      "artist" : "obj:uet bms:暮狛 / mov:くわぎう",
+      "comment" : "Wicked[SCR PARADISE]",
+      "level" : "★2",
+      "md5" : "314f631de22519f81bf2cffa021fa453",
+      "title" : "【Freak《Show】Down》"
+   },
+   {
       "artist" : "beatMARIO obj.みすず",
       "comment" : "Speedtechno (practice14)",
       "level" : "10",
@@ -8673,6 +8687,13 @@
       "title" : "Armais (u14)"
    },
    {
+      "artist" : "立秋 feat.ちょこ obj:LIEF",
+      "comment" : "プナイプナイWAR",
+      "level" : "4",
+      "md5" : "3672632a20510330a375b120f2eb29eb",
+      "title" : "プナイプナイせんそう [DPLi]"
+   },
+   {
       "artist" : "Ark-Z obj:mommy",
       "comment" : "UKハードチューン",
       "level" : "6",
@@ -8965,6 +8986,13 @@
       "level" : "4",
       "md5" : "38ae781f672893c8d141b811b63bc3a5",
       "title" : "Dance Doll Dream [DP ANOTHER]"
+   },
+   {
+      "artist" : "38k *R.MIRROR",
+      "comment" : "TRANCE",
+      "level" : "★4",
+      "md5" : "38c5cb5eef5811418a6341e7f8b42281",
+      "title" : "Galassia  [DP INSANE]"
    },
    {
       "artist" : "痛男次郎 / obj:Hersh spaaaark・∀・",
@@ -9616,6 +9644,13 @@
       "level" : "★7",
       "md5" : "3d20c1e60dd6cb9e21d7234caad05577",
       "title" : "volcanic"
+   },
+   {
+      "artist" : "Is-m // あまね（COOL&CREATE） BGA:sveki hamalu",
+      "comment" : "SPARKLE",
+      "level" : "6",
+      "md5" : "3d2e885dd03b4067580158829049afa7",
+      "title" : "虹夜パレッド  -DP ANOTHER-"
    },
    {
       "artist" : "Respect for Cuvelia(のラスト)",
@@ -12159,7 +12194,7 @@
       "title" : "Clear Blue BMS edit"
    },
    {
-      "artist" : "QUARKPOP *L.MIRROR",
+      "artist" : "QUARKPOP *AVERAGE R.MIR or FLIP R.MIR",
       "comment" : "HARDCORE",
       "level" : "8",
       "md5" : "4e4aac0dd258b0ab9979e35b51d7c3db",
@@ -12185,6 +12220,13 @@
       "level" : "8",
       "md5" : "4e64c5925aa4f1254109560775ba2345",
       "title" : "Orange sunlight [Maniac]"
+   },
+   {
+      "artist" : "Sinnippolian / obj.2y *FIXOFF",
+      "comment" : "(^^)",
+      "level" : "?",
+      "md5" : "4e883a2eddb882e7c8739762e3b4b296",
+      "title" : "(^Sym-pho-ni-ang^) [normal14]"
    },
    {
       "artist" : "syatten + 140 obj:ado *L.MIRROR",
@@ -16121,6 +16163,13 @@
       "title" : "zodiac (ANOTHER14)"
    },
    {
+      "artist" : "obj:ctc bms:暮狛 / mov:くわぎう  *FIXOFF200",
+      "comment" : "Wicked",
+      "level" : "8",
+      "md5" : "66739cb4d49693b07fa33ed2265f1f6f",
+      "title" : "【Freak《Show】Down》 14K ANOTHER"
+   },
+   {
       "artist" : "TiS feat. きゃと / obj:lichtr",
       "comment" : "J-EURO",
       "level" : "1",
@@ -19061,6 +19110,13 @@
       "title" : "conflict [DP えぬTHER]"
    },
    {
+      "artist" : "Sinnippolian / obj.2y",
+      "comment" : "(^^)",
+      "level" : "?",
+      "md5" : "780ac7becd35b9cb4a7568a372c21235",
+      "title" : "(^Sym-pho-ni-ang^) [hyper14]"
+   },
+   {
       "artist" : "yassu / obj = Mr.egg *R.MIRROR",
       "comment" : "Jazzy Breaks - Level 2 -",
       "level" : "9",
@@ -20111,7 +20167,7 @@
       "title" : "パネルでポン/フレアのテーマ [DP leggendaria]"
    },
    {
-      "artist" : "Yoshito Abo *FLIP",
+      "artist" : "Yoshito Abo *FLIP or L.MIRROR",
       "comment" : "DARK AMBIENT",
       "level" : "9",
       "md5" : "7e659587f6160332ac57f1db296db51a",
@@ -23926,7 +23982,7 @@
       "title" : "MK-ULTRA [DP SHDMix]"
    },
    {
-      "artist" : "incinerate obj:ucc *L.RAN R.MIR",
+      "artist" : "incinerate obj:ucc *L.RAN R.MIR or FLIP R.MIR",
       "comment" : "OVERKILL",
       "level" : "8",
       "md5" : "94f9f4e81dd211f02cc41fe7e49f6de8",
@@ -24211,6 +24267,13 @@
       "level" : "10",
       "md5" : "96f24931a1d9588b724f917eb364c90c",
       "title" : "galaxy fall -DP EX-"
+   },
+   {
+      "artist" : "O-SE (mov. q/stol) *MINBPM",
+      "comment" : "Nonsense",
+      "level" : "9",
+      "md5" : "96fcb91b4f3515d917e2a598f8971833",
+      "title" : "下水鳴動して鼠一匹  (DPA)"
    },
    {
       "artist" : "yoa BGA:jubeated",
@@ -24892,7 +24955,7 @@
       "title" : "M-A (DP HYPER)"
    },
    {
-      "artist" : "Process 2.3.1. / objeCraft",
+      "artist" : "Process 2.3.1. / objeCraft *FLIP LR.MIRROR",
       "comment" : "Abstract Techno",
       "level" : "6",
       "md5" : "9b5953795bd5b14092ebf781a86bd0e4",
@@ -25011,7 +25074,7 @@
       "title" : "myste`re　 [14keys Another]"
    },
    {
-      "artist" : "CrossGear (DPobject by tsk) *FLIP",
+      "artist" : "CrossGear (DPobject by tsk)",
       "comment" : "神々が恋した幻想郷",
       "level" : "6",
       "md5" : "9bdbb9a221c7c7b4b46dec3f5f4d46e4",
@@ -26698,6 +26761,13 @@
       "title" : "Foo Ba Ba Candy [DP ANOTHER]"
    },
    {
+      "artist" : "obj:alt bms:暮狛 / mov:くわぎう  *FLIP LR.MIR",
+      "comment" : "Wicked",
+      "level" : "★3",
+      "md5" : "a5e10c0667274eabf172e519fa7ad391",
+      "title" : "【Freak《Show】Down》 ｛2+4=Fish｝"
+   },
+   {
       "artist" : "G.G",
       "comment" : "TECHNO",
       "level" : "2",
@@ -27095,6 +27165,13 @@
       "level" : "5",
       "md5" : "a7f549b5d2efe8d9f419cdff4b3cbbc1",
       "title" : "Tragic:Desert -M14key-"
+   },
+   {
+      "artist" : "立秋 feat.ちょこ / selene.",
+      "comment" : "プナイプナイWAR",
+      "level" : "3",
+      "md5" : "a7fd36c3bb7f0b1304681d9a635fad3c",
+      "title" : "プナイプナイせんそう  -DP Luna-"
    },
    {
       "artist" : "kawasaki under ground obj.celi *R.MIR or FLIP R.MIR",
@@ -28021,6 +28098,13 @@
       "title" : "YAMAXANADU OF TWO (DP LuNLuN)"
    },
    {
+      "artist" : "luzebzk(from 300club) (obj : zrk)",
+      "comment" : "HARENTI ROTTERDAM",
+      "level" : "9",
+      "md5" : "ae4e7f24a3dfb10be607aa4f64af3dcf",
+      "title" : "RD2018 [14KEYS　BROTHER]"
+   },
+   {
       "artist" : "nmk/1B/Obj:ゆ～兎",
       "comment" : "HARD TRANCE",
       "level" : "4",
@@ -28749,7 +28833,7 @@
       "title" : "Beau Rivage [DP Illuminati]"
    },
    {
-      "artist" : "II-L *SUD+",
+      "artist" : "II-L *SUD+ L.MIRROR",
       "comment" : "ガラパゴスケータイ",
       "level" : "★5",
       "md5" : "b2cc3459a06f4674026afc57f6383ae6",
@@ -30014,6 +30098,13 @@
       "level" : "★12",
       "md5" : "ba312bce69bfd5f8d0856cdef7c2daad",
       "title" : "BlythE:ExtenD [Goumon]"
+   },
+   {
+      "artist" : "立秋 feat.ちょこ / obj.にゃむ",
+      "comment" : "プナイプナイWAR",
+      "level" : "1",
+      "md5" : "ba39c1a5636cc072ab2c6c654243e6a0",
+      "title" : "プナイプナイせんそう [ぷにぷに]"
    },
    {
       "artist" : "O_TOMA obj:ucc *MAX+50",
@@ -32739,6 +32830,13 @@
       "title" : "reboot"
    },
    {
+      "artist" : "Sinnippolian / obj.2y *MAXBPM FLIP LR.MIR",
+      "comment" : "(^^)",
+      "level" : "?",
+      "md5" : "cb0052d6998f1a372213ef273b1898fe",
+      "title" : "(^Sym-pho-ni-ang^) [another14]"
+   },
+   {
       "artist" : "keyc *FLIP R.MIRROR",
       "comment" : "TRANCE",
       "level" : "★4",
@@ -34811,6 +34909,13 @@
       "title" : "Imperishable Night 2006 [14A]"
    },
    {
+      "artist" : "Is-m // あまね（COOL&CREATE） BGA:sveki hamalu",
+      "comment" : "SPARKLE",
+      "level" : "7",
+      "md5" : "d9eb79083ccba32cda9baf1d1e1bc796",
+      "title" : "虹夜パレッド  -DP INSANE-"
+   },
+   {
       "artist" : "sasakure.UK / obj.tiru",
       "comment" : "LAMENT",
       "level" : "4",
@@ -35007,7 +35112,7 @@
       "title" : "Last Selection [Extreme]"
    },
    {
-      "artist" : "Junk / RAY obj:ucc *L.MIRROR",
+      "artist" : "Junk / RAY obj:ucc *FLIP L.MIRROR",
       "comment" : "Future Pop",
       "level" : "10",
       "md5" : "db1df84e7df6618b564b4d5f636c7f07",
@@ -36981,7 +37086,7 @@
       "title" : "そらいろ散歩道 -sunny starry carnival- DP Another"
    },
    {
-      "artist" : "kozato obj:noix *LR.RANDOM",
+      "artist" : "kozato obj:noix",
       "comment" : "Dramatical",
       "level" : "6",
       "md5" : "e894ec6bfb58f143c736e777e92cc683",
@@ -40437,6 +40542,13 @@
       "level" : "6",
       "md5" : "fda43a94d30807e7931f087de19adb19",
       "title" : "To you (ｳﾊｿ｡ｰﾔ) (14 another)"
+   },
+   {
+      "artist" : "SAMBA MASTER 佐藤 -SATOH- Remixed by Yosk!",
+      "comment" : "ゆったり系ティンクルポップ",
+      "level" : "2",
+      "md5" : "fdc6f8e3e78e78f45e763ef20ef848a6",
+      "title" : "☆ウィンドサンバランド☆ -DP ANOTHER-"
    },
    {
       "artist" : "9-zen obj:肴",

@@ -31,7 +31,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "髭姫 BGA：FleetingLovely illust：(う)。 obj：もさ子",
@@ -65,7 +65,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "rider obj:42",
@@ -81,8 +81,8 @@
       "url_diff" : "http://obj42.web.fc2.com/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "テヅカ × Qayo BGA: inukoro obj: И",
@@ -149,6 +149,23 @@
       "url_diff" : "http://bms.parksulab.xyz",
       "voteNeutral" : 0,
       "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
+      "artist" : "judithz / И",
+      "comment" : "3~4",
+      "level" : "4",
+      "md5" : "988e8f8a39fe14013d25c5bc54a17551",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "0a055f840649416d9fd46ea8a6634c528b5b242965cbd1e5d7a115d6e589fc7f",
+      "submission" : 964,
+      "title" : "Egypt [!!!]",
+      "url" : "http://onedrive.live.com/?cid=F881BCC298BA2E47&id=F881BCC298BA2E47!104",
+      "url_diff" : "http://bms.parksulab.xyz/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
       "votePercent" : 100,
       "voteYes" : 1
    },
@@ -166,8 +183,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02996",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "puru / kkkfff2 / obj:KCOOL",
@@ -252,7 +269,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "tarolabo obj:七海千秋",
