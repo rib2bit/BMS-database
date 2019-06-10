@@ -14,7 +14,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 9
    },
    {
       "artist" : "こはのん(kohaxy+Hanon) obj:Rian",
@@ -164,9 +164,9 @@
       "title" : "悲伽羅香「水蓮」～花弁～ -激-",
       "url" : "http://creation-records.info/bms.htm",
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "75.00",
       "voteYes" : 3
    },
    {
@@ -280,9 +280,9 @@
       "title" : "Lyzoande for sacrifice [Dif]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=108",
       "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "91.67",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "78.57",
       "voteYes" : 5
    },
    {
@@ -331,9 +331,9 @@
       "title" : "路上のギリジン-Shou+rt Mix- [7key_EX]",
       "url" : "http://ofuton.tk/tarolabo/",
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up0919.zip",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "75.00",
+      "voteNeutral" : 2,
+      "voteNo" : 2,
+      "votePercent" : "64.29",
       "voteYes" : 4
    },
    {
@@ -502,7 +502,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "Xacla / TOHRU MiTSUHASHi / obj:BAECON",
@@ -518,8 +518,25 @@
       "url_diff" : "http://akred.web.fc2.com/baecon/oceanbird_7_maniac.bms",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "88.89",
-      "voteYes" : 7
+      "votePercent" : "90.00",
+      "voteYes" : 8
+   },
+   {
+      "artist" : "ああああ obj.XYZZZZ",
+      "comment" : "軽微なソフラン",
+      "level" : "1",
+      "md5" : "e5de5ecec3da46cf9beb08fe103b2e3d",
+      "proposer" : "なさ式",
+      "proposerLr2id" : 108918,
+      "sha256" : "e721f645cf678a6e054e3a4f964d51b8a4aaec1e5c44526b2ac79bb8a35b70a2",
+      "submission" : 983,
+      "title" : "僕たちの旅とエピローグ。",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=98&event=96",
+      "url_diff" : "http://xyzzz.net/objxyz.php",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "Sakamiya feat.一花 mov:くわぎう img:じゃっこ / obj:SUZUKAZEΛ",
@@ -553,6 +570,6 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
    }
 ]

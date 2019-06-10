@@ -13839,6 +13839,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "ああああ obj.XYZZZZ",
+      "comment" : "軽微なソフラン",
+      "level" : "1",
+      "md5" : "e5de5ecec3da46cf9beb08fe103b2e3d",
+      "proposer" : "なさ式",
+      "proposerLr2id" : 108918,
+      "sha256" : "e721f645cf678a6e054e3a4f964d51b8a4aaec1e5c44526b2ac79bb8a35b70a2",
+      "submission" : 983,
+      "title" : "僕たちの旅とエピローグ。",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=98&event=96",
+      "url_diff" : "http://xyzzz.net/objxyz.php"
+   },
+   {
       "artist" : "Concordia(Aeris+Cervesia) feat.ヒトトリ BGA : sunrise films / obj : monaka",
       "comment" : "同時乱打",
       "level" : "2",
