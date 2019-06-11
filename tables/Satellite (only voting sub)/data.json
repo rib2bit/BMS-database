@@ -1,5 +1,22 @@
 [
    {
+      "artist" : "daisan/さ",
+      "comment" : "sl8~9? [EX]の弱化版",
+      "level" : "9",
+      "md5" : "0087f129083a5376cfd2bd3de77068ed",
+      "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
+      "sha256" : "906c3e95c09e3e668f24ead038b31933583ad37ad27325046caf31d687134fe5",
+      "submission" : 984,
+      "title" : "-+　 -SABOTHER-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=88",
+      "url_diff" : "http://sabosabun.tank.jp/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "litmus* obj:K-SPIN",
       "comment" : "乱打 复合皿",
       "level" : "1",
@@ -166,7 +183,7 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "75.00",
+      "votePercent" : "70.00",
       "voteYes" : 3
    },
    {
@@ -216,8 +233,8 @@
       "url_diff" : "http://www.dropbox.com/s/etslwe7dwlyu6c7/koiJIlju_Doomsday.zip?dl=0",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "88.89",
-      "voteYes" : 7
+      "votePercent" : "90.00",
+      "voteYes" : 8
    },
    {
       "artist" : "NEKI←T / obj.siokaze",
@@ -233,8 +250,8 @@
       "url_diff" : "http://siokazebms.web.fc2.com/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 5
+      "votePercent" : "92.86",
+      "voteYes" : 6
    },
    {
       "artist" : "ArcadeStuff / KAZARI obj.FUMENGACHA",
@@ -401,7 +418,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "DENPA SAMPLER VJ : Personality & jueL / Illust : CAPOKI / Obj : BK",
@@ -435,6 +452,22 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 3
+   },
+   {
+      "artist" : "fether obj: qtp13",
+      "level" : "5",
+      "md5" : "b63abfd6651ae5e2adfcba663e1d8891",
+      "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
+      "sha256" : "fb43b3023b798aa3a8bc33e2c53995e6f68107fdbaf52e20e7f2304c2a1ac180",
+      "submission" : 985,
+      "title" : "happy core chocobo 7 _insane",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/happy%20core%20chocobo%20%5bhappy%20popcore%5d.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03041",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "Qga",
@@ -520,23 +553,6 @@
       "voteNo" : 0,
       "votePercent" : "90.00",
       "voteYes" : 8
-   },
-   {
-      "artist" : "ああああ obj.XYZZZZ",
-      "comment" : "軽微なソフラン",
-      "level" : "1",
-      "md5" : "e5de5ecec3da46cf9beb08fe103b2e3d",
-      "proposer" : "なさ式",
-      "proposerLr2id" : 108918,
-      "sha256" : "e721f645cf678a6e054e3a4f964d51b8a4aaec1e5c44526b2ac79bb8a35b70a2",
-      "submission" : 983,
-      "title" : "僕たちの旅とエピローグ。",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=98&event=96",
-      "url_diff" : "http://xyzzz.net/objxyz.php",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
    },
    {
       "artist" : "Sakamiya feat.一花 mov:くわぎう img:じゃっこ / obj:SUZUKAZEΛ",

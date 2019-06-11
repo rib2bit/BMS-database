@@ -16,6 +16,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "daisan/さ",
+      "comment" : "sl8~9? [EX]の弱化版",
+      "level" : "9",
+      "md5" : "0087f129083a5376cfd2bd3de77068ed",
+      "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
+      "sha256" : "906c3e95c09e3e668f24ead038b31933583ad37ad27325046caf31d687134fe5",
+      "submission" : 984,
+      "title" : "-+　 -SABOTHER-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=88",
+      "url_diff" : "http://sabosabun.tank.jp/"
+   },
+   {
       "artist" : "suki / movie:t",
       "comment" : "ズレ同時　ガチ押し気味",
       "level" : "0",
@@ -10746,6 +10759,18 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "fether obj: qtp13",
+      "level" : "5",
+      "md5" : "b63abfd6651ae5e2adfcba663e1d8891",
+      "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
+      "sha256" : "fb43b3023b798aa3a8bc33e2c53995e6f68107fdbaf52e20e7f2304c2a1ac180",
+      "submission" : 985,
+      "title" : "happy core chocobo 7 _insane",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/happy%20core%20chocobo%20%5bhappy%20popcore%5d.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03041"
    },
    {
       "artist" : "Kuwagata feat.つゆり花鈴",
