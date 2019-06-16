@@ -671,6 +671,18 @@
       "url_diff" : "http://akred.web.fc2.com/baecon/_06_otogelove_otaku.bme"
    },
    {
+      "artist" : "sound piercer x ginkiha (mov : 1B) obj:BAECON",
+      "comment" : "from Satellite",
+      "level" : "0",
+      "md5" : "16cd1f53375a658af0b4f37993ce2b94",
+      "proposer" : "LUXURY♪",
+      "sha256" : "1817465844eae4b0b3448ae26b7fb2f28cb0bd5b30682758eb38d44709213eec",
+      "submission" : 965,
+      "title" : "BLAZE YOUR SOUL [SP INSANE+]",
+      "url" : "http://k-bms.com/party_pabat/party2014.jsp?board_num=11&num=46",
+      "url_diff" : "http://akred.web.fc2.com/baecon/sp_gkh_blaze_your_soul_06_spi-plus.bms"
+   },
+   {
       "artist" : "ノクティス・江口・チェラム / obj morio",
       "comment" : "縦連階段",
       "level" : "8",
@@ -3563,7 +3575,7 @@
    {
       "artist" : "Y.W / obj. ejl6",
       "comment" : "imminent+",
-      "level" : "1",
+      "level" : "2",
       "md5" : "672690e207236cac329f6a9a388b6ffa",
       "proposer" : "qtp13",
       "sha256" : "d112b96c3b8b76035c0883570a888cb3d13fc01290de6dce67c39de0f46a0277",
@@ -7371,7 +7383,7 @@
    },
    {
       "artist" : "Se-U-Ra obj.hex",
-      "level" : "2",
+      "level" : "1",
       "md5" : "e2165305b700604467c33cad3e489f71",
       "proposer" : "こめっと",
       "proposerLr2id" : 80964,
@@ -8129,7 +8141,7 @@
    {
       "artist" : "スーパーサイキッカー 藤井 -FUJY- obj:hoi2",
       "comment" : "",
-      "level" : "3",
+      "level" : "4",
       "md5" : "fa5a531d2b5d52f08229d2cd09f1d0ee",
       "proposer" : "firi.",
       "sha256" : "458719b358fd80f525f54974e87d801f5853147952d40106ec564fcb91462905",

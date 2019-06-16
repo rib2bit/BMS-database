@@ -17,23 +17,6 @@
       "voteYes" : 4
    },
    {
-      "artist" : "しらいし / obj morio",
-      "comment" : "Ψ24、32分ディレイ、皿一枚",
-      "level" : "6",
-      "md5" : "1feb0b29acb2a029d7c27df9de529bde",
-      "proposer" : "スノート",
-      "proposerLr2id" : 86393,
-      "sha256" : "3f0703d1f02096493093190223f870e3e15d719b1eeb129e4542361ae1195255",
-      "submission" : 953,
-      "title" : "硬核機動 [Finale]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=106&event=83",
-      "url_diff" : "http://moriosabun.zouri.jp/",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 4
-   },
-   {
       "artist" : "髭姫 BGA：FleetingLovely illust：(う)。 obj：もさ子",
       "comment" : "★22～★23　ズレ押し　物量",
       "level" : "2",
@@ -49,6 +32,23 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 4
+   },
+   {
+      "artist" : "Another Infinity vs ZUN Remixed by くっちー / obj:夢瑠 BGA:chiArosCuro",
+      "comment" : "トリルー",
+      "level" : "3",
+      "md5" : "46db6e768d3e489995de381ab98ced47",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "cd3550dedceebd716433447d8a89055dba2f4767a2529246886e59dd826d8e95",
+      "submission" : 966,
+      "title" : "514nm(Kucchi☆mix) [yumether]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=84",
+      "url_diff" : "http://yumerusabun.web.fc2.com/nue_hakkyou.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "UnLimited (Ural vs. Lian) BGA:SELDO",
@@ -85,23 +85,6 @@
       "voteYes" : 3
    },
    {
-      "artist" : "テヅカ × Qayo BGA: inukoro obj: И",
-      "comment" : "0~1? BGA Add Ver",
-      "level" : "1",
-      "md5" : "5a1b37a4dbddb6576b8570a49166db86",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "297b8a41f471b627279ddb25eb8d79396e1185aaa4b6d089f8dbcbc82913ccfb",
-      "submission" : 949,
-      "title" : "ニニ [Etude]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=124",
-      "url_diff" : "http://bms.parksulab.xyz",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 4
-   },
-   {
       "artist" : "MA$AKI /obj.z",
       "comment" : "st7,st4の弱体版",
       "level" : "0",
@@ -117,23 +100,6 @@
       "voteNo" : 0,
       "votePercent" : "91.67",
       "voteYes" : 5
-   },
-   {
-      "artist" : "onoken / 93",
-      "comment" : "drrrr",
-      "level" : "5",
-      "md5" : "858f1cdeccece1a5c0e401b619b1287e",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "f1f9c075ebb43c9dbe76c2d46273028a41feb1ce67f6881d48e3b25e36920990",
-      "submission" : 956,
-      "title" : "G8107",
-      "url" : "https://onedrive.live.com/?cid=F96A04961A81D0E1&id=F96A04961A81D0E1%21201&parId=F96A04961A81D0E1%21105&o=OneUp",
-      "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
-      "voteNeutral" : 3,
-      "voteNo" : 3,
-      "votePercent" : "25.00",
-      "voteYes" : 1
    },
    {
       "artist" : "Lime",
@@ -164,10 +130,10 @@
       "title" : "Egypt [!!!]",
       "url" : "http://onedrive.live.com/?cid=F881BCC298BA2E47&id=F881BCC298BA2E47!104",
       "url_diff" : "http://bms.parksulab.xyz/",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "80.00",
+      "voteYes" : 4
    },
    {
       "artist" : "Nakaiankow vs. Nakaith vs. suna / obj:NASA",
@@ -219,23 +185,6 @@
       "voteNo" : 1,
       "votePercent" : "62.50",
       "voteYes" : 2
-   },
-   {
-      "artist" : "yukitani / HYOUTAN obj:vy",
-      "comment" : "st0~1? ★20",
-      "level" : "0",
-      "md5" : "a5eda514887c548abfcd36f30f72aebd",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "7f7945dbb0e4f7afe5957df3d4435136bd743a97783227d578d5d16529494558",
-      "submission" : 950,
-      "title" : "Kaiden Aura [for G]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=65",
-      "url_diff" : "http://absolute.pv.land.to/uploader/src/up5679.zip",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 4
    },
    {
       "artist" : "MALVA. vs. Venstant Illustration:Mare.S",
