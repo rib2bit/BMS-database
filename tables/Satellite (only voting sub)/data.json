@@ -13,8 +13,8 @@
       "url_diff" : "http://sabosabun.tank.jp/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "81.25",
-      "voteYes" : 5
+      "votePercent" : "83.33",
+      "voteYes" : 6
    },
    {
       "artist" : "ああああ obj : sak & BAECON",
@@ -30,8 +30,8 @@
       "url_diff" : "http://akred.web.fc2.com/baecon/wagamani_EX.bms",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 5
    },
    {
       "artist" : "こはのん(kohaxy+Hanon) obj:Rian",
@@ -47,8 +47,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "94.44",
-      "voteYes" : 8
+      "votePercent" : "95.00",
+      "voteYes" : 9
    },
    {
       "artist" : "utubo obj. w",
@@ -64,8 +64,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02483",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 5
    },
    {
       "artist" : "黒皇帝 Movie: Cirkass / Object: qune, w",
@@ -82,7 +82,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 9
    },
    {
       "artist" : "44teru-k / obj:pn",
@@ -100,6 +100,40 @@
       "voteNo" : 1,
       "votePercent" : "83.33",
       "voteYes" : 7
+   },
+   {
+      "artist" : "REVLIS",
+      "comment" : "乱打、ラスト難しい (HYPER SELF REMIX -RE:UNION-)",
+      "level" : "0",
+      "md5" : "3d7a89617dd9009ae6c72674476a0597",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "44b6970a44598b915e11e0ceca74e89f9b9390d4270b69df0440079a1e6950fc",
+      "submission" : 990,
+      "title" : "Manupulation  [SP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=125",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "83.33",
+      "voteYes" : 2
+   },
+   {
+      "artist" : "Another Infinity vs ZUN Remixed by くっちー / obj:夢瑠 BGA:chiArosCuro",
+      "comment" : "トリルー",
+      "level" : "3",
+      "md5" : "46db6e768d3e489995de381ab98ced47",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "cd3550dedceebd716433447d8a89055dba2f4767a2529246886e59dd826d8e95",
+      "submission" : 992,
+      "title" : "514nm(Kucchi☆mix) [yumether]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=84",
+      "url_diff" : "http://yumerusabun.web.fc2.com/nue_hakkyou.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "ArcadeStuff / KAZARI obj.FUMENGACHA",
@@ -130,10 +164,10 @@
       "title" : "Tacticanalyst <SP ANOTHER>",
       "url" : "http://gmtn.sub.jp/",
       "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "voteNeutral" : 2,
+      "voteNo" : 2,
+      "votePercent" : "58.33",
+      "voteYes" : 3
    },
    {
       "artist" : "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya mov:hrchem",
@@ -198,8 +232,8 @@
       "url_diff" : "http://fenderbms.web.fc2.com/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 4
    },
    {
       "artist" : "tarolabo vo：小宮真央",
@@ -236,6 +270,23 @@
       "voteYes" : 8
    },
    {
+      "artist" : "qfeileadh BGA: Maeus",
+      "comment" : "★4 (sl2-3?)、無名戦対抗戦、乱打、連打",
+      "level" : "2",
+      "md5" : "9c077604c2e39aa1c68a50cbcd34de10",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "d9743f3e343d64e9c5be6b18b5dde0b10596c790916fd069df769be00dfeb673",
+      "submission" : 991,
+      "title" : "夜間飛行トラベラー [SP AMNESIA]",
+      "url" : "https://event.yaruki0.net/VSevent/impression/9",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 3
+   },
+   {
       "artist" : "fether obj: qtp13",
       "level" : "5",
       "md5" : "b63abfd6651ae5e2adfcba663e1d8891",
@@ -249,7 +300,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 9
    },
    {
       "artist" : "er / obj:五月雨雀",

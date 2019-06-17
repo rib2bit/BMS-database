@@ -3495,6 +3495,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "REVLIS",
+      "comment" : "乱打、ラスト難しい (HYPER SELF REMIX -RE:UNION-)",
+      "level" : "0",
+      "md5" : "3d7a89617dd9009ae6c72674476a0597",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "44b6970a44598b915e11e0ceca74e89f9b9390d4270b69df0440079a1e6950fc",
+      "submission" : 990,
+      "title" : "Manupulation  [SP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=125",
+      "url_diff" : ""
+   },
+   {
       "artist" : "38k",
       "comment" : "BOFU2017, 皿複合, 物量, 同梱",
       "level" : "7",
@@ -4069,6 +4082,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Another Infinity vs ZUN Remixed by くっちー / obj:夢瑠 BGA:chiArosCuro",
+      "comment" : "トリルー",
+      "level" : "3",
+      "md5" : "46db6e768d3e489995de381ab98ced47",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "cd3550dedceebd716433447d8a89055dba2f4767a2529246886e59dd826d8e95",
+      "submission" : 992,
+      "title" : "514nm(Kucchi☆mix) [yumether]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=84",
+      "url_diff" : "http://yumerusabun.web.fc2.com/nue_hakkyou.html"
    },
    {
       "artist" : "void 鴫野エイカー",
@@ -8968,6 +8994,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "qfeileadh BGA: Maeus",
+      "comment" : "★4 (sl2-3?)、無名戦対抗戦、乱打、連打",
+      "level" : "2",
+      "md5" : "9c077604c2e39aa1c68a50cbcd34de10",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "d9743f3e343d64e9c5be6b18b5dde0b10596c790916fd069df769be00dfeb673",
+      "submission" : 991,
+      "title" : "夜間飛行トラベラー [SP AMNESIA]",
+      "url" : "https://event.yaruki0.net/VSevent/impression/9",
+      "url_diff" : ""
    },
    {
       "artist" : "CELLON. / obj:nov",
