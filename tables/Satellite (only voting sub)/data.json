@@ -13,8 +13,8 @@
       "url_diff" : "http://sabosabun.tank.jp/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 6
+      "votePercent" : "85.00",
+      "voteYes" : 7
    },
    {
       "artist" : "ああああ obj : sak & BAECON",
@@ -182,8 +182,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "77.27",
-      "voteYes" : 7
+      "votePercent" : "79.17",
+      "voteYes" : 8
    },
    {
       "artist" : "fether (Remixed by Yamajet) obj:goe",
@@ -287,6 +287,23 @@
       "voteYes" : 3
    },
    {
+      "artist" : "MONO/さ",
+      "comment" : "物量 乱打",
+      "level" : "8",
+      "md5" : "aad5ec4218a33048c3cd18eb9e182ac5",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "0d04a09a67389140cc78b844061b21ea92e79bdd1027edd138474bbf0fcdcdb6",
+      "submission" : 993,
+      "title" : "Artemis　 -SABOTHER-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=322&event=83",
+      "url_diff" : "http://sabosabun.tank.jp/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "fether obj: qtp13",
       "level" : "5",
       "md5" : "b63abfd6651ae5e2adfcba663e1d8891",
@@ -301,6 +318,23 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 9
+   },
+   {
+      "artist" : "Grand Thaw / obj:夢瑠",
+      "comment" : "",
+      "level" : "4",
+      "md5" : "bcdcd6bd60c82d2775cc2fa1a3263666",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "c9fcaf76248895814a8e62dfa45f1fe29b1eb98a6bc55756814d9e314bd48152",
+      "submission" : 994,
+      "title" : "Flesvelka [yumether]",
+      "url" : "http://www5f.biglobe.ne.jp/~careless/",
+      "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "er / obj:五月雨雀",
