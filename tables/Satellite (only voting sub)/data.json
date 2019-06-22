@@ -31,7 +31,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "こはのん(kohaxy+Hanon) obj:Rian",
@@ -65,7 +65,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "黒皇帝 Movie: Cirkass / Object: qune, w",
@@ -119,6 +119,22 @@
       "voteYes" : 3
    },
    {
+      "artist" : "ZUN(Arr.sun3) /obj morio",
+      "level" : "6",
+      "md5" : "41afa5d52dd92d121718a047f155c33b",
+      "proposer" : "''",
+      "proposerLr2id" : 86456,
+      "sha256" : "04b21b3553da1f9ef5b7dd651f46b0345f2cffc209f73ab17b2c44335d7d5a55",
+      "submission" : 995,
+      "title" : "月時計　Last・Dial (morither+)",
+      "url" : "http://web.archive.org/web/20081020014319/http://succinicacid.hp.infoseek.co.jp/music.html",
+      "url_diff" : "http://moriosabun.zouri.jp/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "Another Infinity vs ZUN Remixed by くっちー / obj:夢瑠 BGA:chiArosCuro",
       "comment" : "トリルー",
       "level" : "3",
@@ -130,10 +146,10 @@
       "title" : "514nm(Kucchi☆mix) [yumether]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=84",
       "url_diff" : "http://yumerusabun.web.fc2.com/nue_hakkyou.html",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "80.00",
+      "voteYes" : 4
    },
    {
       "artist" : "ArcadeStuff / KAZARI obj.FUMENGACHA",
@@ -331,9 +347,9 @@
       "title" : "Flesvelka [yumether]",
       "url" : "http://www5f.biglobe.ne.jp/~careless/",
       "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "83.33",
       "voteYes" : 5
    },
    {
