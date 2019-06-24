@@ -131,8 +131,8 @@
       "url_diff" : "http://moriosabun.zouri.jp/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "Another Infinity vs ZUN Remixed by くっちー / obj:夢瑠 BGA:chiArosCuro",
@@ -150,6 +150,23 @@
       "voteNo" : 1,
       "votePercent" : "80.00",
       "voteYes" : 4
+   },
+   {
+      "artist" : "YUKIYANAGI /obj.ATSUMORI",
+      "comment" : "総合力(乱打, 縦連, 連皿)",
+      "level" : "3",
+      "md5" : "4c97ff465578ff5e92041a1c649ffafe",
+      "proposer" : "nono22",
+      "proposerLr2id" : 122934,
+      "sha256" : "f32130a0c205713e97aed7ed194b48749d3cbba0f0f70c534ace39b800ec76dd",
+      "submission" : 998,
+      "title" : "Bosh [Another+]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=7&event=115",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00726",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "ArcadeStuff / KAZARI obj.FUMENGACHA",
@@ -202,6 +219,23 @@
       "voteYes" : 8
    },
    {
+      "artist" : "Sakamiya feat.mirina img:十恵",
+      "comment" : "微縦連",
+      "level" : "10",
+      "md5" : "74b62e4ae1878268d33c5e328243a1dd",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "0e4b071193923bff1523b84c7f4d3fb58b7ecea2573b232ce187b99f6f453a97",
+      "submission" : 996,
+      "title" : "A-chasing-Y [Pain]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=50&event=104",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
       "artist" : "fether (Remixed by Yamajet) obj:goe",
       "comment" : "",
       "level" : "3",
@@ -248,8 +282,8 @@
       "url_diff" : "http://fenderbms.web.fc2.com/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 4
+      "votePercent" : "91.67",
+      "voteYes" : 5
    },
    {
       "artist" : "tarolabo vo：小宮真央",
@@ -299,8 +333,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 4
+      "votePercent" : "91.67",
+      "voteYes" : 5
    },
    {
       "artist" : "MONO/さ",
@@ -317,7 +351,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 5
    },
    {
       "artist" : "fether obj: qtp13",
@@ -334,6 +368,23 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 9
+   },
+   {
+      "artist" : "bbangsami feat.Sugar Reactor / Haping,SMIN/ 差分　赤い人",
+      "comment" : "地力",
+      "level" : "11",
+      "md5" : "b775902c83b0a0d9c84ada43f94f160b",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "d25628b8d2f9a131d03d0de85e1c35b230a818fb4398382e559dea0a4cf8ae67",
+      "submission" : 997,
+      "title" : "kkotipari Hangaduk [HARDEST]",
+      "url" : "http://k-bms.com/primrose/",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/kkotipari_HARDEST.bme",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "Grand Thaw / obj:夢瑠",
