@@ -132,7 +132,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "Another Infinity vs ZUN Remixed by くっちー / obj:夢瑠 BGA:chiArosCuro",
@@ -165,8 +165,24 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00726",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 2
+      "votePercent" : "80.00",
+      "voteYes" : 3
+   },
+   {
+      "artist" : "翡乃イスカ / A",
+      "level" : "12",
+      "md5" : "534409cbca9a2be1c13378da90b0be67",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "4610f935c8d04443746bb396ffe1acb3e5882082145c95900d4488897eba102f",
+      "submission" : 999,
+      "title" : "Cosmogazer [2844.10.10]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=439&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00063",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "ArcadeStuff / KAZARI obj.FUMENGACHA",
@@ -233,7 +249,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "fether (Remixed by Yamajet) obj:goe",
