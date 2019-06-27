@@ -31,7 +31,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
    },
    {
       "artist" : "こはのん(kohaxy+Hanon) obj:Rian",
@@ -115,7 +115,7 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "80.00",
+      "votePercent" : "75.00",
       "voteYes" : 3
    },
    {
@@ -135,6 +135,23 @@
       "voteYes" : 5
    },
    {
+      "artist" : "xi",
+      "comment" : "乱打 総合力",
+      "level" : "0",
+      "md5" : "42842e25de3fc2c7203b915aae52a700",
+      "proposer" : "Fendou",
+      "proposerLr2id" : 128388,
+      "sha256" : "905e1f9992cb640bf79bcb8ff73ad02da3519092062eca387bae1f9723093615",
+      "submission" : 1000,
+      "title" : "Beatrice [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=69",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 4
+   },
+   {
       "artist" : "Another Infinity vs ZUN Remixed by くっちー / obj:夢瑠 BGA:chiArosCuro",
       "comment" : "トリルー",
       "level" : "3",
@@ -148,8 +165,8 @@
       "url_diff" : "http://yumerusabun.web.fc2.com/nue_hakkyou.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "80.00",
-      "voteYes" : 4
+      "votePercent" : "83.33",
+      "voteYes" : 5
    },
    {
       "artist" : "YUKIYANAGI /obj.ATSUMORI",
@@ -165,8 +182,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00726",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "80.00",
-      "voteYes" : 3
+      "votePercent" : "85.71",
+      "voteYes" : 5
    },
    {
       "artist" : "翡乃イスカ / A",
@@ -181,7 +198,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00063",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
+      "votePercent" : "75.00",
       "voteYes" : 1
    },
    {
@@ -213,9 +230,9 @@
       "title" : "Tacticanalyst <SP ANOTHER>",
       "url" : "http://gmtn.sub.jp/",
       "url_diff" : "",
-      "voteNeutral" : 2,
-      "voteNo" : 2,
-      "votePercent" : "62.50",
+      "voteNeutral" : 3,
+      "voteNo" : 3,
+      "votePercent" : "55.56",
       "voteYes" : 4
    },
    {
@@ -349,8 +366,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 5
+      "votePercent" : "92.86",
+      "voteYes" : 6
    },
    {
       "artist" : "MONO/さ",
@@ -400,7 +417,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "Grand Thaw / obj:夢瑠",
