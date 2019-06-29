@@ -6903,6 +6903,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Ripi_P",
+      "comment" : "皿複合、乱打、ノーマル判定",
+      "level" : "1",
+      "md5" : "76f4d413eb16c193d8f025c437100572",
+      "proposer" : "Yaksa",
+      "proposerLr2id" : 146592,
+      "sha256" : "948fc040be14a473f9b67cbb02ea778349a2ed8cbcb313b7bc310b72a0447568",
+      "submission" : 1002,
+      "title" : "Miracle 5ympho X -All Extra Core Mix-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=263&event=123",
+      "url_diff" : ""
+   },
+   {
       "artist" : "tanacoro/BGA:musao,wars,M.Takezaki obj:krg",
       "comment" : "高速階段, 二重乱打",
       "level" : "9",
@@ -10001,6 +10014,19 @@
       "url_diff" : "http://sabosabun.tank.jp/"
    },
    {
+      "artist" : "Yusie x Awfuless obj. DK",
+      "comment" : "微縦連",
+      "level" : "1",
+      "md5" : "aae61ee7a296da78b89903a3ac304180",
+      "proposer" : "Yaksa",
+      "proposerLr2id" : 146592,
+      "sha256" : "ac8fe3f3def5602fd9fc80f06533ce0fcbbed8f8281a717994b704dac098c4a1",
+      "submission" : 1001,
+      "title" : "Ashen Land [SP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=31&event=104",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Ithaca Chasma",
       "comment" : "物量",
       "level" : "8",
@@ -10583,6 +10609,18 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "MALVA. vs. Venstant Illustration:Mare.S",
+      "level" : "10",
+      "md5" : "b27a10644c198b4c5c5e84c9ea31f309",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "b8874cb26f54a88951a69d2e924d5a8054cca7adfd06e536fd85206608bb78aa",
+      "submission" : 1003,
+      "title" : "Spiritoso Killer [SP DEATH]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=115",
+      "url_diff" : ""
    },
    {
       "artist" : "DENPA SAMPLER VJ : Personality & jueL / Illust : CAPOKI / Obj : BK",
@@ -13043,6 +13081,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "------",
+      "comment" : "Chords",
+      "level" : "0",
+      "md5" : "d70a03037bb73b2ea2b197b62264a01a",
+      "proposer" : "Hyparpax",
+      "proposerLr2id" : 107037,
+      "sha256" : "9e32b7924794d9583bb3df0dd123e600e56751a2246bcd4c88ed3cf725f8b7c6",
+      "submission" : 1004,
+      "title" : "Brand New Party another",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=119",
+      "url_diff" : ""
    },
    {
       "artist" : "ueotan / obj:秘密",
