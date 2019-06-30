@@ -4871,6 +4871,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "ルゼ / obj. AXION",
+      "comment" : "st?? 皿+ディレイ",
+      "level" : "7",
+      "md5" : "517419512764f988d11ce932c0a19111",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "178581efdf163aa7865931d3bcaf3dc30f3559828008dd43202e35e1f3b95e4c",
+      "submission" : 970,
+      "title" : "on impetus [???]",
+      "url" : "https://event.yaruki0.net/VSevent/impression/32",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03064"
+   },
+   {
       "artist" : "Ras obj.hex",
       "comment" : "連打複合",
       "level" : "4",
@@ -5509,6 +5522,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Yu^ta / obj:岡部うすにごり",
+      "comment" : "4000ノーツ物量",
+      "level" : "2",
+      "md5" : "5ea7a171d8f7bcc1a7995303e293a0b3",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "9a811dad2a3af68614138ed9d1f4fee981d299eb5ef26d01d0086fbe34ef6695",
+      "submission" : 971,
+      "title" : "Pleasure of Being [HD Remaster]",
+      "url" : "http://grooverise.sakura.ne.jp/bms_game_coar_pkg/index.html",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03102"
    },
    {
       "artist" : "Yu^ta /obj.amirn",

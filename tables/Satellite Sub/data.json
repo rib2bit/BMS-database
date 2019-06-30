@@ -4220,7 +4220,7 @@
    },
    {
       "artist" : "SHIKI",
-      "level" : "0",
+      "level" : "12",
       "md5" : "49502dd2e2d1549e54f5a04864f0e3bd",
       "proposer" : "selene.",
       "proposerLr2id" : 84521,
@@ -5938,7 +5938,7 @@
    {
       "artist" : "gmtn. (llustrations by kwtr.)",
       "comment" : "",
-      "level" : "1",
+      "level" : "2",
       "md5" : "635c793e7f968a7726e21208ff6293a8",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -12173,6 +12173,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "tarolabo / obj BUN×BUN",
+      "comment" : "NORMAL判定",
+      "level" : "4",
+      "md5" : "c6eb34cad636b0ff143004f77e39f9ed",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "cce3b4c7afeb793cce536f3e9dcd57d45c48486af94cdd6271790762d5556214",
+      "submission" : 1005,
+      "title" : "◆ B a r o q u e ◆ －Reincarnation－",
+      "url" : "http://www.mediafire.com/download/a6a6g72axrnp490/%E2%97%86+B+a+r+o+q+u+e+%E2%97%86.rar",
+      "url_diff" : "http://sabunbun.yukihotaru.com/sabunokiba.html"
    },
    {
       "artist" : "LeaF / obj:いい靴 Movie:To7",
