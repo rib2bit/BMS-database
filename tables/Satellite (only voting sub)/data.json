@@ -31,7 +31,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 12
+      "voteYes" : 14
    },
    {
       "artist" : "utubo obj. w",
@@ -48,7 +48,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 10
+      "voteYes" : 11
    },
    {
       "artist" : "44teru-k / obj:pn",
@@ -82,7 +82,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "75.00",
-      "voteYes" : 4
+      "voteYes" : 6
    },
    {
       "artist" : "ZUN(Arr.sun3) /obj morio",
@@ -98,7 +98,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
    },
    {
       "artist" : "xi",
@@ -114,8 +114,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "94.44",
-      "voteYes" : 8
+      "votePercent" : "95.83",
+      "voteYes" : 11
    },
    {
       "artist" : "Another Infinity vs ZUN Remixed by くっちー / obj:夢瑠 BGA:chiArosCuro",
@@ -131,7 +131,7 @@
       "url_diff" : "http://yumerusabun.web.fc2.com/nue_hakkyou.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "85.71",
+      "votePercent" : "81.25",
       "voteYes" : 6
    },
    {
@@ -148,8 +148,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00726",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "77.78",
-      "voteYes" : 5
+      "votePercent" : "81.82",
+      "voteYes" : 7
    },
    {
       "artist" : "翡乃イスカ / A",
@@ -164,8 +164,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00063",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 5
+      "votePercent" : "77.78",
+      "voteYes" : 6
    },
    {
       "artist" : "ArcadeStuff / KAZARI obj.FUMENGACHA",
@@ -181,8 +181,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.45",
-      "voteYes" : 10
+      "votePercent" : "95.83",
+      "voteYes" : 11
    },
    {
       "artist" : "gmtn. (llustrations by kwtr.)",
@@ -198,7 +198,7 @@
       "url_diff" : "",
       "voteNeutral" : 3,
       "voteNo" : 3,
-      "votePercent" : "54.55",
+      "votePercent" : "54.17",
       "voteYes" : 4
    },
    {
@@ -214,8 +214,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "79.17",
-      "voteYes" : 8
+      "votePercent" : "80.77",
+      "voteYes" : 9
    },
    {
       "artist" : "Sakamiya feat.mirina img:十恵",
@@ -232,7 +232,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
    },
    {
       "artist" : "Ripi_P",
@@ -248,8 +248,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "62.50",
-      "voteYes" : 2
+      "votePercent" : "70.00",
+      "voteYes" : 3
    },
    {
       "artist" : "Le Dos-on bga:Air obj:Fender",
@@ -266,6 +266,23 @@
       "voteNo" : 0,
       "votePercent" : "94.44",
       "voteYes" : 8
+   },
+   {
+      "artist" : "KaKi BGA:Arishima_Caprico",
+      "comment" : "☆12+ (sl0-1?) 無名戦対抗戦、トリル、乱打、同時押し",
+      "level" : "1",
+      "md5" : "7d9d1c5b76e7f9d874dfdc715a9dde32",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "51464142d7cf331c4d0ebc6676b90064af8e1db48a66c94f8545818813754d8a",
+      "submission" : 1006,
+      "title" : "Forbidden Area [SP ANOTHER+]",
+      "url" : "https://event.yaruki0.net/VSevent/impression/25",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 4
    },
    {
       "artist" : "HyuN feat. Machina obj. 35",
@@ -298,8 +315,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "94.44",
-      "voteYes" : 8
+      "votePercent" : "95.45",
+      "voteYes" : 10
    },
    {
       "artist" : "MONO/さ",
@@ -316,7 +333,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
    },
    {
       "artist" : "Yusie x Awfuless obj. DK",
@@ -333,7 +350,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 6
    },
    {
       "artist" : "MALVA. vs. Venstant Illustration:Mare.S",
@@ -349,7 +366,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 7
    },
    {
       "artist" : "fether obj: qtp13",
@@ -381,8 +398,8 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/kkotipari_HARDEST.bme",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "93.75",
-      "voteYes" : 7
+      "votePercent" : "94.44",
+      "voteYes" : 8
    },
    {
       "artist" : "Grand Thaw / obj:夢瑠",
@@ -398,8 +415,8 @@
       "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "88.89",
-      "voteYes" : 8
+      "votePercent" : "90.91",
+      "voteYes" : 10
    },
    {
       "artist" : "tarolabo / obj BUN×BUN",
@@ -415,8 +432,8 @@
       "url_diff" : "http://sabunbun.yukihotaru.com/sabunokiba.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 4
    },
    {
       "artist" : "er / obj:五月雨雀",
@@ -432,8 +449,8 @@
       "url_diff" : "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.45",
-      "voteYes" : 10
+      "votePercent" : "95.83",
+      "voteYes" : 11
    },
    {
       "artist" : "------",
@@ -447,9 +464,26 @@
       "title" : "Brand New Party another",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=119",
       "url_diff" : "",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "81.25",
+      "voteYes" : 6
+   },
+   {
+      "artist" : "竜。 feat.結月ゆかり",
+      "comment" : "sl3-4、PABAT!2019、EUROBEAT乱打、二重階段",
+      "level" : "4",
+      "md5" : "e88320b832e16b0ef79e40674d3af2c2",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "38ad63c3ee18537793052b301815d590502b8804951789d48f4a8711588cb1dc",
+      "submission" : 1007,
+      "title" : "Crazy Moon Night -Another-",
+      "url" : "https://k-bms.com/party_pabat/party2019.jsp?board_num=19&num=17",
+      "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "87.50",
       "voteYes" : 3
    }
 ]
