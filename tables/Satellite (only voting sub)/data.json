@@ -98,7 +98,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 9
    },
    {
       "artist" : "xi",
@@ -114,8 +114,25 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.83",
-      "voteYes" : 11
+      "votePercent" : "96.15",
+      "voteYes" : 12
+   },
+   {
+      "artist" : "eoll / obj:nov Visual : HEART OF MIND  Sequence : hi-low",
+      "comment" : "NORMAL判定",
+      "level" : "8",
+      "md5" : "44dc2ca6f21de46276bb378b119049b6",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "f7650a129d6e3358c671afd9a43748edfc114d2c5fedaeccd6855efb5fbf079f",
+      "submission" : 1008,
+      "title" : "010 - nova -",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=82&event=74",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "50.00",
+      "voteYes" : 1
    },
    {
       "artist" : "Another Infinity vs ZUN Remixed by くっちー / obj:夢瑠 BGA:chiArosCuro",
@@ -164,8 +181,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00063",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "77.78",
-      "voteYes" : 6
+      "votePercent" : "80.00",
+      "voteYes" : 7
    },
    {
       "artist" : "ArcadeStuff / KAZARI obj.FUMENGACHA",
@@ -248,8 +265,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "70.00",
-      "voteYes" : 3
+      "votePercent" : "71.43",
+      "voteYes" : 4
    },
    {
       "artist" : "Le Dos-on bga:Air obj:Fender",
@@ -350,7 +367,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 8
    },
    {
       "artist" : "MALVA. vs. Venstant Illustration:Mare.S",
@@ -366,7 +383,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
    },
    {
       "artist" : "fether obj: qtp13",
@@ -433,7 +450,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 6
    },
    {
       "artist" : "er / obj:五月雨雀",
@@ -466,8 +483,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "81.25",
-      "voteYes" : 6
+      "votePercent" : "83.33",
+      "voteYes" : 7
    },
    {
       "artist" : "竜。 feat.結月ゆかり",
