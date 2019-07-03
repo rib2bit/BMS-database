@@ -219,5 +219,22 @@
       "voteNo" : 2,
       "votePercent" : "37.50",
       "voteYes" : 1
+   },
+   {
+      "artist" : "TCN180 (DJ TECHNORCH) / selene.",
+      "comment" : "無名戦4 連打混じり物量",
+      "level" : "3",
+      "md5" : "bd6d3fe0e349cf68d2f59645a6c89d01",
+      "proposer" : "otoshi.b",
+      "proposerLr2id" : 87474,
+      "sha256" : "a3099d7135f1a6852052f2b4857361fa84309535eca59faf46e2114c5e943cf0",
+      "submission" : 972,
+      "title" : "Gothic System -Genocide-",
+      "url" : "https://mega.nz/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA!ENcwFKTA",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03129",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    }
 ]
