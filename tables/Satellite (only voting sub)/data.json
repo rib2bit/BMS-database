@@ -181,8 +181,25 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00063",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "81.82",
-      "voteYes" : 8
+      "votePercent" : "83.33",
+      "voteYes" : 9
+   },
+   {
+      "artist" : "猫蟹丸 / obj: black train",
+      "comment" : "地力",
+      "level" : "6",
+      "md5" : "55701926ca12fa81683b1147e8b7b806",
+      "proposer" : "*ふわうさ*",
+      "proposerLr2id" : 60626,
+      "sha256" : "cd00c3730aa01e9f7b09ce0d38d77d57c0464b1d488c13c72ca9247bfb2b829c",
+      "submission" : 1010,
+      "title" : "7SP:雪の少女-MorningDash!Mix- [MANIAQ]",
+      "url" : "http://knm.sakura.ne.jp/index.html",
+      "url_diff" : "http://absolute.pv.land.to/Anotherbms.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "ArcadeStuff / KAZARI obj.FUMENGACHA",
@@ -350,7 +367,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 9
    },
    {
       "artist" : "Yusie x Awfuless obj. DK",
@@ -467,7 +484,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "er / obj:五月雨雀",
