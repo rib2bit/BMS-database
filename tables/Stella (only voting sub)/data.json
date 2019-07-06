@@ -238,6 +238,22 @@
       "voteYes" : 1
    },
    {
+      "artist" : "Mastermind(xi+nora2r) iimo / obj:秘密",
+      "level" : "0",
+      "md5" : "be5427805ff3d464a8b8ebcb5e9381df",
+      "proposer" : "Thaw",
+      "proposerLr2id" : 145739,
+      "sha256" : "4aeeb65b2b0ab03b6c04b63a1f06ad175ed5e1e768ceca8c6bd18d891529edba",
+      "submission" : 974,
+      "title" : "Dreadnought [LastMoment]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=410&event=104",
+      "url_diff" : "http://hiiiii.web.fc2.com/sabun/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "ROKINA / obj:スノート BGA:出前",
       "comment" : "3~4?",
       "level" : "3",

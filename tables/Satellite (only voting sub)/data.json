@@ -34,6 +34,23 @@
       "voteYes" : 15
    },
    {
+      "artist" : "syatten remixed celas / reku/差分　赤い人",
+      "comment" : "乱打",
+      "level" : "12",
+      "md5" : "0ac8f37c4d1fcae3ed3e535b77c1062d",
+      "proposer" : "Thaw",
+      "proposerLr2id" : 145739,
+      "sha256" : "9b548c0fcced40efd0ba95f29b86446f16fef83a77ba681b6f53972a232977bc",
+      "submission" : 1012,
+      "title" : "Bird Sprite -Awakening of Light- [HARDEST]",
+      "url" : "http://wayback.archive.org/web/20170108135101/http://creation-records.info/bms/birdsprite_r.rar",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/birdsprite_r_HARDEST.bme",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "utubo obj. w",
       "comment" : "総合力",
       "level" : "4",
@@ -48,7 +65,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 11
+      "voteYes" : 12
    },
    {
       "artist" : "44teru-k / obj:pn",
@@ -83,6 +100,23 @@
       "voteNo" : 0,
       "votePercent" : "75.00",
       "voteYes" : 6
+   },
+   {
+      "artist" : "Omnipotenx / obj:秘密",
+      "comment" : "乱打　アへ顔",
+      "level" : "8",
+      "md5" : "3e607e060c6812c48d4a5b3289ba397a",
+      "proposer" : "Thaw",
+      "proposerLr2id" : 145739,
+      "sha256" : "7c0ec7e81cecc364a7182a1bdd833c83d8e00f12917f7f752288bafa34e4d5b4",
+      "submission" : 1011,
+      "title" : "PEACE BREAKER [アヘ顔ダブルピ～ス]",
+      "url" : "http://skydrive.live.com/?cid=d34bfc70cbe5e695&sc=documents&uc=1&id=D34BFC70CBE5E695!103",
+      "url_diff" : "http://www.geocities.jp/hihihi4442/hakkyou.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "ZUN(Arr.sun3) /obj morio",
@@ -148,7 +182,7 @@
       "url_diff" : "http://yumerusabun.web.fc2.com/nue_hakkyou.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "77.78",
+      "votePercent" : "75.00",
       "voteYes" : 6
    },
    {
@@ -165,8 +199,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00726",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "81.82",
-      "voteYes" : 7
+      "votePercent" : "83.33",
+      "voteYes" : 8
    },
    {
       "artist" : "翡乃イスカ / A",
@@ -198,8 +232,8 @@
       "url_diff" : "http://absolute.pv.land.to/Anotherbms.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "ArcadeStuff / KAZARI obj.FUMENGACHA",
@@ -384,7 +418,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 9
    },
    {
       "artist" : "MALVA. vs. Venstant Illustration:Mare.S",
@@ -415,8 +449,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03041",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.00",
-      "voteYes" : 9
+      "votePercent" : "95.45",
+      "voteYes" : 10
    },
    {
       "artist" : "bbangsami feat.Sugar Reactor / Haping,SMIN/ 差分　赤い人",
@@ -449,8 +483,8 @@
       "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "91.67",
-      "voteYes" : 11
+      "votePercent" : "92.31",
+      "voteYes" : 12
    },
    {
       "artist" : "tarolabo / obj BUN×BUN",
@@ -467,7 +501,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
    },
    {
       "artist" : "mommy obj : C9H20",
@@ -484,7 +518,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "er / obj:五月雨雀",
@@ -517,8 +551,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "85.00",
-      "voteYes" : 8
+      "votePercent" : "86.36",
+      "voteYes" : 9
    },
    {
       "artist" : "竜。 feat.結月ゆかり",
@@ -534,7 +568,7 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 4
+      "votePercent" : "91.67",
+      "voteYes" : 5
    }
 ]
