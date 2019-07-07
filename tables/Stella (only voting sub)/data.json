@@ -119,6 +119,23 @@
       "voteYes" : 1
    },
    {
+      "artist" : "plastic feat.呉舞かなと obj:七海千秋",
+      "comment" : "Hopeless",
+      "level" : "4",
+      "md5" : "636193b8213e87172adb8c4e0b8e27a2",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "005956c0a2b5137d85bff386571eabc26ac0be3b7bc657793149ef04104cad1f",
+      "submission" : 975,
+      "title" : "わたしはうたう -Despair-",
+      "url" : "https://www.axfc.net/u/3870511",
+      "url_diff" : "https://www.dropbox.com/s/njexpd47gfn7a51/utau.zip?dl=1",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "66.67",
+      "voteYes" : 2
+   },
+   {
       "artist" : "judithz / И",
       "comment" : "3~4",
       "level" : "4",
@@ -234,8 +251,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03129",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "Mastermind(xi+nora2r) iimo / obj:秘密",
@@ -250,8 +267,8 @@
       "url_diff" : "http://hiiiii.web.fc2.com/sabun/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "ROKINA / obj:スノート BGA:出前",

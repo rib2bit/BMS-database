@@ -47,8 +47,8 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/birdsprite_r_HARDEST.bme",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "utubo obj. w",
@@ -115,8 +115,8 @@
       "url_diff" : "http://www.geocities.jp/hihihi4442/hakkyou.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "ZUN(Arr.sun3) /obj morio",
@@ -233,7 +233,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "ArcadeStuff / KAZARI obj.FUMENGACHA",
@@ -314,9 +314,9 @@
       "title" : "Miracle 5ympho X -All Extra Core Mix-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=263&event=123",
       "url_diff" : "",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "71.43",
+      "voteNeutral" : 2,
+      "voteNo" : 2,
+      "votePercent" : "62.50",
       "voteYes" : 4
    },
    {
@@ -332,8 +332,8 @@
       "url_diff" : "http://fenderbms.web.fc2.com/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.00",
-      "voteYes" : 9
+      "votePercent" : "95.45",
+      "voteYes" : 10
    },
    {
       "artist" : "KaKi BGA:Arishima_Caprico",
@@ -349,8 +349,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 5
+      "votePercent" : "92.86",
+      "voteYes" : 6
    },
    {
       "artist" : "HyuN feat. Machina obj. 35",
@@ -418,7 +418,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
+      "voteYes" : 10
    },
    {
       "artist" : "MALVA. vs. Venstant Illustration:Mare.S",
@@ -518,7 +518,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "er / obj:五月雨雀",
@@ -538,6 +538,23 @@
       "voteYes" : 11
    },
    {
+      "artist" : "Sakamiya feat.toz img:ぬけみち Lyrics:uoru",
+      "comment" : "ガチ押し",
+      "level" : "10",
+      "md5" : "d6992c5eedc7555c00b5ce6dfa27e0fb",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "ba32ba9a4deb48bcc9cf9c4280e5f9a988366fd528d4df80fb108fdd0fd9c1a6",
+      "submission" : 1013,
+      "title" : "空",
+      "url" : "https://qstol.info/events/kanji/bms_detail.php?id=12",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "------",
       "comment" : "Chords",
       "level" : "0",
@@ -551,8 +568,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "86.36",
-      "voteYes" : 9
+      "votePercent" : "87.50",
+      "voteYes" : 10
    },
    {
       "artist" : "竜。 feat.結月ゆかり",
