@@ -165,8 +165,8 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "50.00",
-      "voteYes" : 2
+      "votePercent" : "60.00",
+      "voteYes" : 3
    },
    {
       "artist" : "Another Infinity vs ZUN Remixed by くっちー / obj:夢瑠 BGA:chiArosCuro",
@@ -299,7 +299,7 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "95.00",
       "voteYes" : 9
    },
    {
@@ -314,9 +314,9 @@
       "title" : "Miracle 5ympho X -All Extra Core Mix-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=263&event=123",
       "url_diff" : "",
-      "voteNeutral" : 3,
-      "voteNo" : 3,
-      "votePercent" : "60.00",
+      "voteNeutral" : 4,
+      "voteNo" : 4,
+      "votePercent" : "54.55",
       "voteYes" : 5
    },
    {
@@ -370,6 +370,22 @@
       "voteYes" : 8
    },
    {
+      "artist" : "Lafale",
+      "level" : "8",
+      "md5" : "9bfe15ae78301dd839b86c9238489114",
+      "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
+      "sha256" : "daf1668aa34823e21f1b7f4abe554dcce9cdab850c73f1ad4c8b027865706a4b",
+      "submission" : 1014,
+      "title" : "Hydreripia [Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=361&event=116",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "qfeileadh BGA: Maeus",
       "comment" : "★4 (sl2-3?)、無名戦対抗戦、乱打、連打",
       "level" : "2",
@@ -417,8 +433,25 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "95.45",
       "voteYes" : 10
+   },
+   {
+      "artist" : "ねこみりん feat.小宮真央 Movie: 石王マサト / obj:MineC24",
+      "comment" : "L.O.V.E LOVELY AIKO",
+      "level" : "2",
+      "md5" : "af61da665c58f9821f069dc79ae7407e",
+      "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
+      "sha256" : "dc18742d5071d23035dea72fc245d026fd1b451762e6fd0bbec2840f0c25e0b2",
+      "submission" : 1015,
+      "title" : "あい☆こんぷりーと [GENBU7]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=84",
+      "url_diff" : "http://www.dropbox.com/s/ymo8gaur0dlw6bt/_aiko_03_extra7.bme?dl=0",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "MALVA. vs. Venstant Illustration:Mare.S",
@@ -433,7 +466,7 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "95.00",
       "voteYes" : 9
    },
    {
@@ -483,8 +516,8 @@
       "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "92.31",
-      "voteYes" : 12
+      "votePercent" : "92.86",
+      "voteYes" : 13
    },
    {
       "artist" : "tarolabo / obj BUN×BUN",
@@ -501,7 +534,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 9
    },
    {
       "artist" : "mommy obj : C9H20",
@@ -552,7 +585,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "------",

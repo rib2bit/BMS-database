@@ -9137,6 +9137,18 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Lafale",
+      "level" : "8",
+      "md5" : "9bfe15ae78301dd839b86c9238489114",
+      "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
+      "sha256" : "daf1668aa34823e21f1b7f4abe554dcce9cdab850c73f1ad4c8b027865706a4b",
+      "submission" : 1014,
+      "title" : "Hydreripia [Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=361&event=116",
+      "url_diff" : ""
+   },
+   {
       "artist" : "qfeileadh BGA: Maeus",
       "comment" : "★4 (sl2-3?)、無名戦対抗戦、乱打、連打",
       "level" : "2",
@@ -10372,6 +10384,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "ねこみりん feat.小宮真央 Movie: 石王マサト / obj:MineC24",
+      "comment" : "L.O.V.E LOVELY AIKO",
+      "level" : "2",
+      "md5" : "af61da665c58f9821f069dc79ae7407e",
+      "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
+      "sha256" : "dc18742d5071d23035dea72fc245d026fd1b451762e6fd0bbec2840f0c25e0b2",
+      "submission" : 1015,
+      "title" : "あい☆こんぷりーと [GENBU7]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=84",
+      "url_diff" : "http://www.dropbox.com/s/ymo8gaur0dlw6bt/_aiko_03_extra7.bme?dl=0"
    },
    {
       "artist" : "Iriss-Frantzz / obj:みっと",
