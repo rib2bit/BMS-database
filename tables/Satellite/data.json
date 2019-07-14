@@ -1,5 +1,17 @@
 [
    {
+      "artist" : "ああああ obj : sak & BAECON",
+      "comment" : "3~4?",
+      "level" : "3",
+      "md5" : "00fe8868d0c7c88aaa1c76152cd73ce3",
+      "proposer" : "MineC24",
+      "sha256" : "2503cb23cb9ffd3e9e25ad806c7cc39053b4928023fb159ad4647b49853f09d4",
+      "submission" : 989,
+      "title" : "わがまま×マニフェスト [EX]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=245&event=110",
+      "url_diff" : "http://akred.web.fc2.com/baecon/wagamani_EX.bms"
+   },
+   {
       "artist" : "Zekk BGA : yusi",
       "comment" : "G2R2018、皿同時押し、微LN、微皿、トリル",
       "level" : "0",
@@ -253,7 +265,7 @@
    {
       "artist" : "daisan feat. えみゅう。 / zue-row obj : swa vs 0samil0",
       "comment" : "ガチ押し sl7~8",
-      "level" : "6",
+      "level" : "5",
       "md5" : "07d34c956f9888abc25e56ab09f9e660",
       "proposer" : "matsu",
       "sha256" : "1aac0add9ab9b2821b06f0ccc9e4f61f1b66de5ab03bcce750e133790606fc91",
@@ -379,6 +391,18 @@
       "title" : "deep blue sunrise (pw-Another+)",
       "url" : "http://bmsd_bmsec.bit192.ath.cx/detail.php?num=11",
       "url_diff" : "http://srdbms.otodo.net/hokan/deepblue_pw.rar"
+   },
+   {
+      "artist" : "syatten remixed celas / reku/差分　赤い人",
+      "comment" : "乱打",
+      "level" : "12",
+      "md5" : "0ac8f37c4d1fcae3ed3e535b77c1062d",
+      "proposer" : "Thaw",
+      "sha256" : "9b548c0fcced40efd0ba95f29b86446f16fef83a77ba681b6f53972a232977bc",
+      "submission" : 1012,
+      "title" : "Bird Sprite -Awakening of Light- [HARDEST]",
+      "url" : "http://wayback.archive.org/web/20170108135101/http://creation-records.info/bms/birdsprite_r.rar",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/birdsprite_r_HARDEST.bme"
    },
    {
       "artist" : "noal obj.Lapis",
@@ -560,6 +584,18 @@
       "title" : "overtrue -Luna-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/"
+   },
+   {
+      "artist" : "utubo obj. w",
+      "comment" : "総合力",
+      "level" : "4",
+      "md5" : "12e0c7293d57dbbdad503f48bbfb5fea",
+      "proposer" : "otoshi.b",
+      "sha256" : "607b71b0e19ee756879fcd656742f453143a02b8acda45c40cdac656e47a6559",
+      "submission" : 987,
+      "title" : "deg w∧v chu doc [W]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=204&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02483"
    },
    {
       "artist" : "DJ TAKUAN 及び 佐倉アヤキ 　及　び obj:BAECON",
@@ -1999,6 +2035,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02869"
    },
    {
+      "artist" : "ZUN(Arr.sun3) /obj morio",
+      "level" : "6",
+      "md5" : "41afa5d52dd92d121718a047f155c33b",
+      "proposer" : "''",
+      "sha256" : "04b21b3553da1f9ef5b7dd651f46b0345f2cffc209f73ab17b2c44335d7d5a55",
+      "submission" : 995,
+      "title" : "月時計　Last・Dial (morither+)",
+      "url" : "http://web.archive.org/web/20081020014319/http://succinicacid.hp.infoseek.co.jp/music.html",
+      "url_diff" : "http://moriosabun.zouri.jp/"
+   },
+   {
       "artist" : "ルゼ ☆ えみゅう。 ☆ 石王マサト, obj.SeunghoLee",
       "comment" : "階段",
       "level" : "3",
@@ -2009,6 +2056,18 @@
       "title" : "運命論 ~notte stellata~",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=205&event=88",
       "url_diff" : "http://gnqg.rosx.net/upload/"
+   },
+   {
+      "artist" : "xi",
+      "comment" : "乱打 総合力",
+      "level" : "0",
+      "md5" : "42842e25de3fc2c7203b915aae52a700",
+      "proposer" : "Fendou",
+      "sha256" : "905e1f9992cb640bf79bcb8ff73ad02da3519092062eca387bae1f9723093615",
+      "submission" : 1000,
+      "title" : "Beatrice [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=69",
+      "url_diff" : ""
    },
    {
       "artist" : "-45 / obj;Nemes",
@@ -2518,7 +2577,7 @@
    {
       "artist" : "NEKI←T / obj.siokaze",
       "comment" : "",
-      "level" : "10",
+      "level" : "11",
       "md5" : "50266131ce611676b71929a1d0eea1f2",
       "proposer" : "椒図",
       "sha256" : "159ab20a721999bf8bc5a3f4034d2eecd16b398ca5f311e5dc5facb0e521519a",
@@ -2614,6 +2673,17 @@
       "title" : "Crazy Sweetie Glitter Candy Color [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=473&event=116",
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html"
+   },
+   {
+      "artist" : "翡乃イスカ / A",
+      "level" : "12",
+      "md5" : "534409cbca9a2be1c13378da90b0be67",
+      "proposer" : "파이어",
+      "sha256" : "4610f935c8d04443746bb396ffe1acb3e5882082145c95900d4488897eba102f",
+      "submission" : 999,
+      "title" : "Cosmogazer [2844.10.10]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=439&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00063"
    },
    {
       "artist" : "ねこみみ魔法使い movie : Y.A.B.tutidama / obj : BUUFAA",
@@ -2723,6 +2793,18 @@
       "title" : "GO BACK 2 YOUR RAVE [EX]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=169&event=96",
       "url_diff" : "http://iroirokiba.web.fc2.com/bms.html"
+   },
+   {
+      "artist" : "ArcadeStuff / KAZARI obj.FUMENGACHA",
+      "comment" : "乱打 微縦連",
+      "level" : "1",
+      "md5" : "560e1aa9a647a420606c7a9b781f5ba7",
+      "proposer" : "nono22",
+      "sha256" : "b4b59f6c8199214dc63ec17529a7e189888bb1b4b03ab609aacb14ad5a97e891",
+      "submission" : 978,
+      "title" : "Life Style [INSANE]",
+      "url" : "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=13&order=reg&odtype=a",
+      "url_diff" : ""
    },
    {
       "artist" : "mommy / いい靴",
@@ -3655,6 +3737,18 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html"
    },
    {
+      "artist" : "Sakamiya feat.mirina img:十恵",
+      "comment" : "微縦連",
+      "level" : "10",
+      "md5" : "74b62e4ae1878268d33c5e328243a1dd",
+      "proposer" : "スノート",
+      "sha256" : "0e4b071193923bff1523b84c7f4d3fb58b7ecea2573b232ce187b99f6f453a97",
+      "submission" : 996,
+      "title" : "A-chasing-Y [Pain]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=50&event=104",
+      "url_diff" : ""
+   },
+   {
       "artist" : "69 de 74 BGA : EViL/obj:赤い人",
       "comment" : "地力",
       "level" : "11",
@@ -3872,6 +3966,17 @@
       "title" : "RiZE UP FUTURE [Dif]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=106",
       "url_diff" : ""
+   },
+   {
+      "artist" : "Le Dos-on bga:Air obj:Fender",
+      "level" : "5",
+      "md5" : "7ac6e1a830223dc433dda08aaa343c14",
+      "proposer" : "AXION",
+      "sha256" : "530c660fc51b6e6f1a85aa60b81e387feaf6dd9077bdcfb2500fed8479baaf02",
+      "submission" : 986,
+      "title" : "yksinaisyys [F]",
+      "url" : "https://dropbox.bms.ms/u/32354988/yksinaisyys_ogg.zip",
+      "url_diff" : "http://fenderbms.web.fc2.com/"
    },
    {
       "artist" : "譜蘭師須古・坐比栄流・feat.西川寅吉 obj:SUZUKAZEΛ",
@@ -4978,6 +5083,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "qfeileadh BGA: Maeus",
+      "comment" : "★4 (sl2-3?)、無名戦対抗戦、乱打、連打",
+      "level" : "2",
+      "md5" : "9c077604c2e39aa1c68a50cbcd34de10",
+      "proposer" : "ww",
+      "sha256" : "d9743f3e343d64e9c5be6b18b5dde0b10596c790916fd069df769be00dfeb673",
+      "submission" : 991,
+      "title" : "夜間飛行トラベラー [SP AMNESIA]",
+      "url" : "https://event.yaruki0.net/VSevent/impression/9",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Ym1024 feat. lamie* Illustration : 恋々 / obj:BAECON",
       "level" : "4",
       "md5" : "9c5f82051198679dba5dde98b9cd90b4",
@@ -5528,6 +5645,18 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/sslh-AK-HARD.bms"
    },
    {
+      "artist" : "MONO/さ",
+      "comment" : "物量 乱打",
+      "level" : "8",
+      "md5" : "aad5ec4218a33048c3cd18eb9e182ac5",
+      "proposer" : "椒図",
+      "sha256" : "0d04a09a67389140cc78b844061b21ea92e79bdd1027edd138474bbf0fcdcdb6",
+      "submission" : 993,
+      "title" : "Artemis　 -SABOTHER-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=322&event=83",
+      "url_diff" : "http://sabosabun.tank.jp/"
+   },
+   {
       "artist" : "Ithaca Chasma",
       "comment" : "物量",
       "level" : "8",
@@ -5915,6 +6044,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02286"
    },
    {
+      "artist" : "MALVA. vs. Venstant Illustration:Mare.S",
+      "level" : "10",
+      "md5" : "b27a10644c198b4c5c5e84c9ea31f309",
+      "proposer" : "파이어",
+      "sha256" : "b8874cb26f54a88951a69d2e924d5a8054cca7adfd06e536fd85206608bb78aa",
+      "submission" : 1003,
+      "title" : "Spiritoso Killer [SP DEATH]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=115",
+      "url_diff" : ""
+   },
+   {
       "artist" : "DENPA SAMPLER VJ : Personality & jueL / Illust : CAPOKI / Obj : BK",
       "comment" : "NORMAL判定、同時押し、電波",
       "level" : "7",
@@ -6167,6 +6307,18 @@
       "title" : "蓄積×フラストレーション  [交錯×アサーション]",
       "url" : "https://qstol.info/",
       "url_diff" : "http://akred.web.fc2.com/baecon/chikuseki_frustration_assertion.bme"
+   },
+   {
+      "artist" : "bbangsami feat.Sugar Reactor / Haping,SMIN/ 差分　赤い人",
+      "comment" : "地力",
+      "level" : "11",
+      "md5" : "b775902c83b0a0d9c84ada43f94f160b",
+      "proposer" : "スノート",
+      "sha256" : "d25628b8d2f9a131d03d0de85e1c35b230a818fb4398382e559dea0a4cf8ae67",
+      "submission" : 997,
+      "title" : "kkotipari Hangaduk [HARDEST]",
+      "url" : "http://k-bms.com/primrose/",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/kkotipari_HARDEST.bme"
    },
    {
       "artist" : "sak feat.みゅい BGI:球根 / obj:SUZUKAZEΛ",
@@ -6460,6 +6612,18 @@
       "title" : "マージナル＊フロンティア [魔法世界へようこそ]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=430&event=110",
       "url_diff" : "https://1drv.ms/x/s!Aoi5esJwIYCChk0BTx_U1KkswzSf"
+   },
+   {
+      "artist" : "Grand Thaw / obj:夢瑠",
+      "comment" : "",
+      "level" : "4",
+      "md5" : "bcdcd6bd60c82d2775cc2fa1a3263666",
+      "proposer" : "椒図",
+      "sha256" : "c9fcaf76248895814a8e62dfa45f1fe29b1eb98a6bc55756814d9e314bd48152",
+      "submission" : 994,
+      "title" : "Flesvelka [yumether]",
+      "url" : "http://www5f.biglobe.ne.jp/~careless/",
+      "url_diff" : "http://yumerusabun.web.fc2.com/nue.html"
    },
    {
       "artist" : "Lime obj:SUZUKAZEΛ",
@@ -6811,6 +6975,18 @@
       "url_diff" : "http://akred.web.fc2.com/baecon/_nekxi_AB_SH.bms"
    },
    {
+      "artist" : "tarolabo / obj BUN×BUN",
+      "comment" : "NORMAL判定",
+      "level" : "4",
+      "md5" : "c6eb34cad636b0ff143004f77e39f9ed",
+      "proposer" : "MineC24",
+      "sha256" : "cce3b4c7afeb793cce536f3e9dcd57d45c48486af94cdd6271790762d5556214",
+      "submission" : 1005,
+      "title" : "◆ B a r o q u e ◆ －Reincarnation－",
+      "url" : "http://www.mediafire.com/download/a6a6g72axrnp490/%E2%97%86+B+a+r+o+q+u+e+%E2%97%86.rar",
+      "url_diff" : "http://sabunbun.yukihotaru.com/sabunokiba.html"
+   },
+   {
       "artist" : "LeaF / obj:いい靴 Movie:To7",
       "level" : "7",
       "md5" : "c778712db728ca7e88b9ba3cf1836479",
@@ -6933,7 +7109,7 @@
    {
       "artist" : "Is-m BGA:Y.A.B.tutidama / obj:nullest",
       "comment" : "sl7の上位譜面？",
-      "level" : "10",
+      "level" : "11",
       "md5" : "c9cee7883f1ddd5cf6a1188e8e607a50",
       "proposer" : "かに",
       "sha256" : "fd60e7ff1e5d6d80d485b8e92d425995fafb49e60d74bc4001153ebbcc3ce6a2",

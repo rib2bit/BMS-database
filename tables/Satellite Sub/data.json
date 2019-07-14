@@ -186,6 +186,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "削除 feat. Nikki Simmons / obj:七海千秋 Movie:Radiosity&yoshimo",
+      "comment" : "이것이 삭제다 희망편 ★7급입니다.",
+      "level" : "4",
+      "md5" : "02d946340db4001ec78b1e6b9af3a388",
+      "proposer" : "Restia",
+      "proposerLr2id" : 115265,
+      "sha256" : "3862a984f0a342394d0f62d85fb50a6cc1a327ee60f86017ff6e91c3f0fd34c6",
+      "submission" : 1019,
+      "title" : "Destr0yer -Hope-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=123",
+      "url_diff" : "https://www.dropbox.com/s/asthwvczq8x1ncw/7nanami03.bml?dl=0"
+   },
+   {
       "artist" : "ZUN / BMS:average BGA:のりろー / selene.",
       "comment" : "sl11~12 高速物量",
       "level" : "11",
@@ -543,7 +556,7 @@
    {
       "artist" : "daisan feat. えみゅう。 / zue-row obj : swa vs 0samil0",
       "comment" : "ガチ押し sl7~8",
-      "level" : "6",
+      "level" : "5",
       "md5" : "07d34c956f9888abc25e56ab09f9e660",
       "proposer" : "matsu",
       "proposerLr2id" : 127851,
@@ -4025,7 +4038,7 @@
    {
       "artist" : "eoll / obj:nov Visual : HEART OF MIND  Sequence : hi-low",
       "comment" : "NORMAL判定",
-      "level" : "8",
+      "level" : "9",
       "md5" : "44dc2ca6f21de46276bb378b119049b6",
       "proposer" : "MineC24",
       "proposerLr2id" : 84597,
@@ -4051,6 +4064,18 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "adumac / dp131 / obj:morio",
+      "level" : "5",
+      "md5" : "458b85143586b516a19e12db5f5d15ce",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "65b84a921b554730bfd32d82e2d635342221558163b4bf45707290b6f49dd093",
+      "submission" : 1021,
+      "title" : "Cinderella Story -morither-",
+      "url" : "https://mega.nz/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA",
+      "url_diff" : "http://moriosabun.digi2.jp/"
    },
    {
       "artist" : "canonball mukai obj:1008",
@@ -4272,7 +4297,7 @@
    },
    {
       "artist" : "SHIKI",
-      "level" : "12",
+      "level" : "0",
       "md5" : "49502dd2e2d1549e54f5a04864f0e3bd",
       "proposer" : "selene.",
       "proposerLr2id" : 84521,
@@ -4835,7 +4860,7 @@
    {
       "artist" : "NEKI←T / obj.siokaze",
       "comment" : "",
-      "level" : "10",
+      "level" : "11",
       "md5" : "50266131ce611676b71929a1d0eea1f2",
       "proposer" : "椒図",
       "proposerLr2id" : 124809,
@@ -5149,7 +5174,7 @@
    {
       "artist" : "猫蟹丸 / obj: black train",
       "comment" : "地力",
-      "level" : "6",
+      "level" : "7",
       "md5" : "55701926ca12fa81683b1147e8b7b806",
       "proposer" : "*ふわうさ*",
       "proposerLr2id" : 60626,
@@ -6062,6 +6087,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "eoll obj.にゃむ",
+      "comment" : "LNある",
+      "level" : "1",
+      "md5" : "6452078bbc8398a8636d6334c5d6d467",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "e01adbb92caae851886ed2d7c553c89006857826048dc78133ef99be9261d67a",
+      "submission" : 1020,
+      "title" : "Love Like [a little]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=194&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02870"
+   },
+   {
       "artist" : "Yu^ta / obj:Azel",
       "level" : "6",
       "md5" : "649703c98ea45f64609db6adb263413a",
@@ -6970,7 +7008,7 @@
    {
       "artist" : "sukuramu42 Illust:恋々 / selene.",
       "comment" : "乱打 微縦連",
-      "level" : "9",
+      "level" : "10",
       "md5" : "76d96a034e9f28ef1eab7b5627b22ef4",
       "proposer" : "MiRa",
       "proposerLr2id" : 121881,
@@ -6983,7 +7021,7 @@
    {
       "artist" : "Ripi_P",
       "comment" : "皿複合、乱打、ノーマル判定",
-      "level" : "1",
+      "level" : "0",
       "md5" : "76f4d413eb16c193d8f025c437100572",
       "proposer" : "Yaksa",
       "proposerLr2id" : 146592,
@@ -12525,7 +12563,7 @@
    {
       "artist" : "Is-m BGA:Y.A.B.tutidama / obj:nullest",
       "comment" : "sl7の上位譜面？",
-      "level" : "10",
+      "level" : "11",
       "md5" : "c9cee7883f1ddd5cf6a1188e8e607a50",
       "proposer" : "かに",
       "proposerLr2id" : 115381,
@@ -13209,7 +13247,7 @@
    {
       "artist" : "Sakamiya feat.toz img:ぬけみち Lyrics:uoru",
       "comment" : "ガチ押し",
-      "level" : "10",
+      "level" : "11",
       "md5" : "d6992c5eedc7555c00b5ce6dfa27e0fb",
       "proposer" : "スノート",
       "proposerLr2id" : 86393,
@@ -13661,6 +13699,18 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Moses/ 差分 赤い人",
+      "level" : "7",
+      "md5" : "dd684125ade7fbfc3572d6c1b8d9df09",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "7f86bfb71d5fb0c6c0a7a69751707bb45c5fa7a04525414d44c7b0aa19d95575",
+      "submission" : 1022,
+      "title" : "Exodus [HARDEST]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=311&event=74",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/Exodus-HARDEST.bme"
    },
    {
       "artist" : "BMS:9-zen",
@@ -14436,7 +14486,7 @@
    {
       "artist" : "竜。 feat.結月ゆかり",
       "comment" : "sl3-4、PABAT!2019、EUROBEAT乱打、二重階段",
-      "level" : "4",
+      "level" : "3",
       "md5" : "e88320b832e16b0ef79e40674d3af2c2",
       "proposer" : "ww",
       "proposerLr2id" : 147642,

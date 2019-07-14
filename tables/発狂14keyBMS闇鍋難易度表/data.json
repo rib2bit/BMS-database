@@ -261,7 +261,7 @@
    {
       "artist" : "Project Chord Minor / Obj : .7z *AVERAGE",
       "comment" : "Hard Techno",
-      "level" : "5",
+      "level" : "4",
       "md5" : "019158b69b37c9b3ba9d421ba7001661",
       "title" : "153200112 -DP-"
    },
@@ -348,6 +348,13 @@
       "level" : "★8",
       "md5" : "01e201b679f150b40459e0b5d8fe7d15",
       "title" : "did -spitfire mix-"
+   },
+   {
+      "artist" : "Cream P.P.",
+      "comment" : "Sorrow",
+      "level" : "?",
+      "md5" : "01e6527b75958ed402942e3d33e35a48",
+      "title" : "No Offense... [DP HYPER]"
    },
    {
       "artist" : "SlowMouse",
@@ -2063,6 +2070,13 @@
       "level" : "7",
       "md5" : "0bd86df386fe3902f937238625cd2f7d",
       "title" : "orange tea　 [14key MGNother]"
+   },
+   {
+      "artist" : "gmtn. visualized :: light motions *57 obj :: Psyk  *R.MIR",
+      "comment" : "OTOGETIC CHAIN TECHNO <DP ANOTHER>",
+      "level" : "6",
+      "md5" : "0bdbe8e748a52c737dcb100b2ecc46e2",
+      "title" : "鎖 -破-"
    },
    {
       "artist" : "Dark_seeD /obj:spt",
@@ -5374,6 +5388,13 @@
       "level" : "8",
       "md5" : "20d5d813ded2e76f768ff99f163b3f27",
       "title" : "銀の風 [EI]"
+   },
+   {
+      "artist" : "gmtn. visualized :: light motions *57 obj :: Psyk",
+      "comment" : "OTOGETIC CHAIN TECHNO <DP INSANE>",
+      "level" : "9",
+      "md5" : "20dc25a9154c31bdb63eb624d11f4074",
+      "title" : "鎖 -破-"
    },
    {
       "artist" : "2X obj:Starfish",
@@ -10248,6 +10269,13 @@
       "title" : "Nice Magicgirls VS scary Walpurgis [14KEY HYPER]"
    },
    {
+      "artist" : "テヅカ × Qayo BGI: MUSH.T × PHage / obj:Starfish",
+      "comment" : "ORIENTAL CORE",
+      "level" : "10",
+      "md5" : "3faa45b6842433c974e3323162e796c1",
+      "title" : "ニニ [DP ☆NOTHER]"
+   },
+   {
       "artist" : "anubasu-anubasu/6UT3/SHU10/U-hey/Lafale/CELLON./Kankitsu obj:kuro BGA:Roaring Flame/出前/ユウノ/Frantzz/Optie/温泉の力/To7",
       "comment" : "Rotational Trance",
       "level" : "1",
@@ -12656,7 +12684,7 @@
       "title" : "Delusion→Uplift [DP ANOTHER]"
    },
    {
-      "artist" : "鳩 / obj:QJITAI",
+      "artist" : "鳩 / obj:QJITAI *SUD+",
       "comment" : "DarkBreaks",
       "level" : "★8",
       "md5" : "4f5943ca4238fba0c08b3aad23555f93",
@@ -15806,6 +15834,13 @@
       "title" : "Xecus -Cristierra-"
    },
    {
+      "artist" : "pastel white / ケモノ☆ラバーズ Obj. 0nedict  *FLIP",
+      "comment" : "starry pop (14key) [BGA-FULL ver]",
+      "level" : "1",
+      "md5" : "6204a5e258f9c2ffcce6dc042731badd",
+      "title" : "道しるべ [★]"
+   },
+   {
       "artist" : "SASAKI to YOSHIDA // obj : ucc",
       "comment" : "from Session Stream 2",
       "level" : "8",
@@ -16387,6 +16422,13 @@
       "title" : "Magical Love Words (ぜったい、ぜーったい両皆伝になるんだっ！)"
    },
    {
+      "artist" : "gmtn. visualized :: light motions *57 obj :: Psyk",
+      "comment" : "OTOGETIC CHAIN TECHNO <DP INSANE>",
+      "level" : "7",
+      "md5" : "657225147ff13be7df6bb258d39418ac",
+      "title" : "鎖 -序-"
+   },
+   {
       "artist" : "Musical Masterpiece (obj:k)/reobj:hamburger",
       "comment" : "MM SEQUENCER",
       "level" : "★6",
@@ -16842,7 +16884,7 @@
       "title" : "Girls Spot Escape [14 keys Another]"
    },
    {
-      "artist" : "sak feat.みゅい BGI:球根",
+      "artist" : "sak feat.みゅい BGI:球根  *FLIP LR.MIR",
       "comment" : "ANGELIC FUTURE POP",
       "level" : "★6",
       "md5" : "684758b3aa430aa34c7cfec58200d2e8",
@@ -17787,6 +17829,13 @@
       "title" : "Lucid Quartz"
    },
    {
+      "artist" : "Feryquitous movie:Sight / pattern:RaiN",
+      "comment" : "fake out",
+      "level" : "9",
+      "md5" : "6e02ab14cebae6fb110861b7674d1859",
+      "title" : "Dstorv [Cupiditas]"
+   },
+   {
       "artist" : "SHIKI / obj:Redrum vs killer TOMATO/reobj:hamburger *FLIP LR.MIR or 正規",
       "comment" : "TRANCE CORE",
       "level" : "★6",
@@ -17799,6 +17848,13 @@
       "level" : "★7",
       "md5" : "6e1104842f945d1c41e3f4250168a0ae",
       "title" : "Papillon [DP EXTRA]"
+   },
+   {
+      "artist" : "8 to 7 remixed by LU *AVERAGE FLIP",
+      "comment" : "RAGGA'N'BASS MIX",
+      "level" : "?",
+      "md5" : "6e1b428be5d8e9ac4ba13f9105b8f0d9",
+      "title" : "Leve (remix)"
    },
    {
       "artist" : "Shaman Cure-All / Olkina",
@@ -20097,6 +20153,13 @@
       "title" : "M-A (Expert Mode)"
    },
    {
+      "artist" : "Is-m BGA:demae",
+      "comment" : "TECHNO",
+      "level" : "7",
+      "md5" : "7ae768f6387952fbee71272fb8cc33ab",
+      "title" : "Amplifying Effect  -DP ANOTHER-"
+   },
+   {
       "artist" : "POSI-TRON![obj:mymt]",
       "comment" : "EURO-RAVE",
       "level" : "8",
@@ -20683,6 +20746,13 @@
       "level" : "5",
       "md5" : "7ea5966a02ae0411e38b81a12498c73e",
       "title" : "era (Cyberia VIIVIII mix) [EX14]"
+   },
+   {
+      "artist" : "gmtn. visualized :: light motions *57 obj :: Psyk",
+      "comment" : "OTOGETIC CHAIN TECHNO <DP ANOTHER>",
+      "level" : "4",
+      "md5" : "7ea768e3ad755430caa667c29101ab4a",
+      "title" : "鎖 -序-"
    },
    {
       "artist" : "Risk Junk / o.s.gate / obj:s2dp *R.MIRROR",
@@ -24241,6 +24311,13 @@
       "title" : "ロックマンX3 ～ELECTRO NAMAZUROS STAGE～ (DP BLACK ANOTHER)"
    },
    {
+      "artist" : "gmtn. visualized :: light motions *57 obj :: Psyk  *FLIP",
+      "comment" : "OTOGETIC CHAIN TECHNO <DP INSANE>",
+      "level" : "10",
+      "md5" : "92fb9324bebc095432f385dc61d30676",
+      "title" : "鎖 -急-"
+   },
+   {
       "artist" : "Yosk!",
       "comment" : "S/2013 J 1",
       "level" : "3",
@@ -25268,6 +25345,13 @@
       "level" : "★6",
       "md5" : "999a67f99a7b515b8ea3c66215678d4e",
       "title" : "Violet また一歩、海に近づいたな"
+   },
+   {
+      "artist" : "tkqn14_Append mov : Ju_E",
+      "comment" : "Adventure",
+      "level" : "4",
+      "md5" : "99b3e24347780a1d2ab92eaf88c375a5",
+      "title" : "ぼうけんの森 [DP ANOTHER]"
    },
    {
       "artist" : "455 / rio / obj.boxpurin",
@@ -28735,6 +28819,13 @@
       "title" : "真・千年女王 [物量女王]"
    },
    {
+      "artist" : "ジャンジャー",
+      "comment" : "BM Short Music",
+      "level" : "?",
+      "md5" : "ae7dff147b4508505b812325f5cfbe29",
+      "title" : "SEGA"
+   },
+   {
       "artist" : "H0PE *FLIP",
       "comment" : "Trap",
       "level" : "★3",
@@ -31227,6 +31318,13 @@
       "title" : "Flapping Islands Aviation [Another_2 14]"
    },
    {
+      "artist" : "tkqn14_Append mov : Ju_E",
+      "comment" : "Adventure",
+      "level" : "★5",
+      "md5" : "bcdd84932c368cde4876aa7a7ae49860",
+      "title" : "ぼうけんの森 [DP ⇒CONNECTION⇒]"
+   },
+   {
       "artist" : "ZUN(Arr.sun3) OBJ.みっと  *LR.MIR or FLIP",
       "comment" : "Trance core",
       "level" : "★4",
@@ -31906,7 +32004,7 @@
       "title" : "Ecaed -DP HYPER-"
    },
    {
-      "artist" : "38k *FLIP L.MIR R.RAN",
+      "artist" : "38k *FLIP LR.MIRROR",
       "comment" : "Electro",
       "level" : "★8",
       "md5" : "c08c597c9a6df6a302908635ec68d61c",
@@ -32671,7 +32769,7 @@
    {
       "artist" : "TiS feat. きゃと / obj:二代目IIDX16 (Cineraria Studio)  *L.MIRROR",
       "comment" : "HYPER ROCK",
-      "level" : "2",
+      "level" : "?",
       "md5" : "c5d3c83f8fb4fe3c676bbedaa5f345da",
       "title" : "under the moon -version2013- [CROSS_SCRACH]"
    },
@@ -35537,6 +35635,13 @@
       "level" : "7",
       "md5" : "d925f84c5b44d05cdcdda31243a8fecb",
       "title" : "Bird Sprite -Awakening of Light- [A14]"
+   },
+   {
+      "artist" : "xi / obj.LetsOTL 鑓田(alpha complex)",
+      "comment" : "IDEALISM",
+      "level" : "★4",
+      "md5" : "d93c658b3aeb8e334e20ca5e81a84dc2",
+      "title" : "Bad Elixir [DP]"
    },
    {
       "artist" : "sept / Symphonian *R.MIRROR",
@@ -41020,6 +41125,13 @@
       "title" : "glorious red - 赫月、黒陽ヲ穿ツ - (Battle)"
    },
    {
+      "artist" : "Drumatic Sequencer BGA: ;3ZUTAMA",
+      "comment" : "Hybrid IDM",
+      "level" : "7",
+      "md5" : "fb2ead59efb7e7c7031a16081ec6baf8",
+      "title" : "Error Sector"
+   },
+   {
       "artist" : "LUNEの右手と悠里おねぇちゃんの左脚とけろちゃんの臀部 *FLIP",
       "comment" : "オカルトさんとビーツくん",
       "level" : "5",
@@ -41676,6 +41788,13 @@
       "level" : "8",
       "md5" : "ffa8beca32b6552e6fd003183a074faf",
       "title" : "Bogus of True (DPA)"
+   },
+   {
+      "artist" : "gmtn. visualized :: light motions *57 obj :: Psyk",
+      "comment" : "OTOGETIC CHAIN TECHNO <DP ANOTHER>",
+      "level" : "8",
+      "md5" : "ffb32d55694794311aceefc6f24a6c53",
+      "title" : "鎖 -急-"
    },
    {
       "artist" : "モリモリあつし obj:kuro",
