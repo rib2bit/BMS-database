@@ -14,7 +14,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 5
+   },
+   {
+      "artist" : "NA7+OMI-",
+      "comment" : "BOFU2017、中盤LN、トリル",
+      "level" : "0",
+      "md5" : "07026c7b3111bb4b65b36db269a949cf",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "2693c56b35f168a634aa25522fa6d5393ed304d4dacc515c413657d61b311e59",
+      "submission" : 1026,
+      "title" : "Bioinformatics",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=210&event=116",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "空読無 白眼 obj : Sakamiya",
@@ -30,8 +47,25 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "88.89",
-      "voteYes" : 7
+      "votePercent" : "88.46",
+      "voteYes" : 10
+   },
+   {
+      "artist" : "Cosine obj.B_K",
+      "comment" : "BOFU2016、ガチ押し、皿同時押し、階段",
+      "level" : "3",
+      "md5" : "3a8f89bd139dd9514550ab7d0da809cb",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "d0870d3c149f8b1e73cbd3eeacb4a9c03d997bbe307d16e50901ce8a05f1a78f",
+      "submission" : 1025,
+      "title" : "The Third Castle [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=136&event=110",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "Omnipotenx / obj:秘密",
@@ -47,8 +81,8 @@
       "url_diff" : "http://www.geocities.jp/hihihi4442/hakkyou.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "66.67",
-      "voteYes" : 3
+      "votePercent" : "68.75",
+      "voteYes" : 4
    },
    {
       "artist" : "eoll / obj:nov Visual : HEART OF MIND  Sequence : hi-low",
@@ -64,8 +98,8 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "71.43",
-      "voteYes" : 5
+      "votePercent" : "75.00",
+      "voteYes" : 6
    },
    {
       "artist" : "adumac / dp131 / obj:morio",
@@ -78,9 +112,9 @@
       "title" : "Cinderella Story -morither-",
       "url" : "https://mega.nz/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA",
       "url_diff" : "http://moriosabun.digi2.jp/",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 100,
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "50.00",
       "voteYes" : 1
    },
    {
@@ -97,8 +131,8 @@
       "url_diff" : "http://yumerusabun.web.fc2.com/nue_hakkyou.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "77.27",
-      "voteYes" : 7
+      "votePercent" : "79.17",
+      "voteYes" : 8
    },
    {
       "artist" : "YUKIYANAGI /obj.ATSUMORI",
@@ -129,9 +163,9 @@
       "title" : "7SP:雪の少女-MorningDash!Mix- [MANIAQ]",
       "url" : "http://knm.sakura.ne.jp/index.html",
       "url_diff" : "http://absolute.pv.land.to/Anotherbms.html",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "94.44",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "85.00",
       "voteYes" : 8
    },
    {
@@ -148,8 +182,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02870",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "sukuramu42 Illust:恋々 / selene.",
@@ -165,8 +199,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00991",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 5
+      "votePercent" : "92.86",
+      "voteYes" : 6
    },
    {
       "artist" : "KaKi BGA:Arishima_Caprico",
@@ -182,8 +216,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.91",
-      "voteYes" : 9
+      "votePercent" : "92.31",
+      "voteYes" : 11
    },
    {
       "artist" : "HyuN feat. Machina obj. 35",
@@ -215,8 +249,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "75.00",
-      "voteYes" : 4
+      "votePercent" : "80.00",
+      "voteYes" : 6
    },
    {
       "artist" : "kooridori obj:SUZUKAZEΛ",
@@ -232,8 +266,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "93.75",
-      "voteYes" : 7
+      "votePercent" : "95.00",
+      "voteYes" : 9
    },
    {
       "artist" : "Yusie x Awfuless obj. DK",
@@ -266,8 +300,25 @@
       "url_diff" : "http://www.dropbox.com/s/ymo8gaur0dlw6bt/_aiko_03_extra7.bme?dl=0",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "88.89",
-      "voteYes" : 7
+      "votePercent" : "90.91",
+      "voteYes" : 9
+   },
+   {
+      "artist" : "Lunatic Sounds / Yusi. obj.B_K",
+      "comment" : "物量・連皿・微ソフラン有",
+      "level" : "3",
+      "md5" : "d30d511d9fce23c17d67759e9833d647",
+      "proposer" : "selene.",
+      "proposerLr2id" : 84521,
+      "sha256" : "dd7648d7c22e2dba08372d51687c4a705c6205ffefb0f1d365d54810908cec0f",
+      "submission" : 1024,
+      "title" : "ZERODAY [INSANE]",
+      "url" : "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=51",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "mommy obj : C9H20",
@@ -284,7 +335,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
+      "voteYes" : 11
    },
    {
       "artist" : "Sakamiya feat.toz img:ぬけみち Lyrics:uoru",
@@ -300,8 +351,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "94.44",
-      "voteYes" : 8
+      "votePercent" : "95.00",
+      "voteYes" : 9
    },
    {
       "artist" : "------",
@@ -331,10 +382,10 @@
       "title" : "Exodus [HARDEST]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=311&event=74",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/Exodus-HARDEST.bme",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "66.67",
+      "voteYes" : 2
    },
    {
       "artist" : "竜。 feat.結月ゆかり",
@@ -350,7 +401,24 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "88.89",
-      "voteYes" : 7
+      "votePercent" : "91.67",
+      "voteYes" : 10
+   },
+   {
+      "artist" : "Ras obj:YOURI",
+      "comment" : "皿複合、繰り返し系物量",
+      "level" : "1",
+      "md5" : "ea6a0501bfd0e33db90b424cde883776",
+      "proposer" : "selene.",
+      "proposerLr2id" : 84521,
+      "sha256" : "1b4c8ea067771358f19fb7b2e912b6ff8a043cc37a389041ca8431be5c1426d0",
+      "submission" : 1023,
+      "title" : "TURNDOWN [PIETHER]",
+      "url" : "https://dropbox.bms.ms/u/63612044/TURNDOWN_bms.rar",
+      "url_diff" : "https://dl.dropboxusercontent.com/s/urv7zfvnl7ltxfm/TURNDOWN_PT.zip",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    }
 ]

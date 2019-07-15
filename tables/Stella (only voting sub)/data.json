@@ -184,7 +184,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "TCN180 (DJ TECHNORCH) / selene.",
@@ -235,5 +235,22 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 3
+   },
+   {
+      "artist" : "3034 obj:スノート",
+      "comment" : "高速",
+      "level" : "2",
+      "md5" : "dc0c62e5c809c1a75460edb5f4640006",
+      "proposer" : "MiRa",
+      "proposerLr2id" : 121881,
+      "sha256" : "7a3cbd82f7e33addf20d7d2ca8041a5b659e636b9d68956fbd50368c1ac4fdff",
+      "submission" : 977,
+      "title" : "NS22 [Snother]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=214&event=74",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03168",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    }
 ]

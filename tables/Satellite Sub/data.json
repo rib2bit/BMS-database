@@ -429,6 +429,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "NA7+OMI-",
+      "comment" : "BOFU2017、中盤LN、トリル",
+      "level" : "0",
+      "md5" : "07026c7b3111bb4b65b36db269a949cf",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "2693c56b35f168a634aa25522fa6d5393ed304d4dacc515c413657d61b311e59",
+      "submission" : 1026,
+      "title" : "Bioinformatics",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=210&event=116",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Micelle obj.Lapis",
       "level" : "6",
       "md5" : "07082fdfeadc38e45b9b43f913598672",
@@ -3451,6 +3464,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Cosine obj.B_K",
+      "comment" : "BOFU2016、ガチ押し、皿同時押し、階段",
+      "level" : "3",
+      "md5" : "3a8f89bd139dd9514550ab7d0da809cb",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "d0870d3c149f8b1e73cbd3eeacb4a9c03d997bbe307d16e50901ce8a05f1a78f",
+      "submission" : 1025,
+      "title" : "The Third Castle [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=136&event=110",
+      "url_diff" : ""
    },
    {
       "artist" : "田井中 律 / obj: かに",
@@ -13042,6 +13068,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Lunatic Sounds / Yusi. obj.B_K",
+      "comment" : "物量・連皿・微ソフラン有",
+      "level" : "3",
+      "md5" : "d30d511d9fce23c17d67759e9833d647",
+      "proposer" : "selene.",
+      "proposerLr2id" : 84521,
+      "sha256" : "dd7648d7c22e2dba08372d51687c4a705c6205ffefb0f1d365d54810908cec0f",
+      "submission" : 1024,
+      "title" : "ZERODAY [INSANE]",
+      "url" : "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=51",
+      "url_diff" : ""
+   },
+   {
       "artist" : "69 de 74 BGI:MUSH.T",
       "comment" : "神 Wind - BMSをいっぱい作る2019、~★7、乱打、皿同時押し、微LN",
       "level" : "4",
@@ -14543,6 +14582,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Ras obj:YOURI",
+      "comment" : "皿複合、繰り返し系物量",
+      "level" : "1",
+      "md5" : "ea6a0501bfd0e33db90b424cde883776",
+      "proposer" : "selene.",
+      "proposerLr2id" : 84521,
+      "sha256" : "1b4c8ea067771358f19fb7b2e912b6ff8a043cc37a389041ca8431be5c1426d0",
+      "submission" : 1023,
+      "title" : "TURNDOWN [PIETHER]",
+      "url" : "https://dropbox.bms.ms/u/63612044/TURNDOWN_bms.rar",
+      "url_diff" : "https://dl.dropboxusercontent.com/s/urv7zfvnl7ltxfm/TURNDOWN_PT.zip"
    },
    {
       "artist" : "梅干茶漬け/obj:赤い人",
