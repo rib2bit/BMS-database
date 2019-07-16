@@ -11,9 +11,9 @@
       "title" : "Destr0yer -Hope-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=123",
       "url_diff" : "https://www.dropbox.com/s/asthwvczq8x1ncw/7nanami03.bml?dl=0",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "83.33",
       "voteYes" : 5
    },
    {
@@ -30,8 +30,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "votePercent" : "87.50",
+      "voteYes" : 3
    },
    {
       "artist" : "空読無 白眼 obj : Sakamiya",
@@ -65,7 +65,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
    },
    {
       "artist" : "Omnipotenx / obj:秘密",
@@ -114,8 +114,8 @@
       "url_diff" : "http://moriosabun.digi2.jp/",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "50.00",
-      "voteYes" : 1
+      "votePercent" : "62.50",
+      "voteYes" : 2
    },
    {
       "artist" : "Another Infinity vs ZUN Remixed by くっちー / obj:夢瑠 BGA:chiArosCuro",
@@ -169,6 +169,23 @@
       "voteYes" : 8
    },
    {
+      "artist" : "Frums / obj :Lennon",
+      "comment" : "ガチ押し",
+      "level" : "11",
+      "md5" : "5ef59b86b228978d435115aa7a9e564a",
+      "proposer" : "nono22",
+      "proposerLr2id" : 122934,
+      "sha256" : "9c328051684a8922ab72b6e84b2083b66e9c290ee85bbb29c90376fcf3a7f5a4",
+      "submission" : 1027,
+      "title" : "Wavetapper [ATHLETIC]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=142&event=104",
+      "url_diff" : "http://gnqg.rosx.net/upload/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "eoll obj.にゃむ",
       "comment" : "LNある",
       "level" : "1",
@@ -182,8 +199,25 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02870",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "votePercent" : "87.50",
+      "voteYes" : 3
+   },
+   {
+      "artist" : "siromaru + cranky // movie: iimo // obj:SUZUKAZEΛ",
+      "comment" : "4連打ビームある",
+      "level" : "6",
+      "md5" : "69d9fa0655fd12c8cfb3c736e9461c14",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "f68081093bcafeaf5c55833abfc55afb07d55e7521b64cb8f5e969e13310b430",
+      "submission" : 1028,
+      "title" : "conflict [ZOI-EX]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=74",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "sukuramu42 Illust:恋々 / selene.",
@@ -317,8 +351,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "mommy obj : C9H20",
@@ -384,8 +418,8 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/Exodus-HARDEST.bme",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "66.67",
-      "voteYes" : 2
+      "votePercent" : "75.00",
+      "voteYes" : 3
    },
    {
       "artist" : "竜。 feat.結月ゆかり",
@@ -418,7 +452,7 @@
       "url_diff" : "https://dl.dropboxusercontent.com/s/urv7zfvnl7ltxfm/TURNDOWN_PT.zip",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 3
    }
 ]
