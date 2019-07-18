@@ -918,6 +918,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "削除 / うまい棒 / 差分 赤い人",
+      "comment" : "乱打",
+      "level" : "9",
+      "md5" : "0c51e47d6fdc676311e429e50a090d5a",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "059c2fad119e033ed4f5d73eb63fde472c5175c71375bb025389c20489d0500c",
+      "submission" : 1029,
+      "title" : "Kronos [HARDEST]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=374&event=83",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/kronos-HARDEST.bms"
+   },
+   {
       "artist" : "吟世かいな obj: 8posai edit by qtp13",
       "comment" : "extra-",
       "level" : "10",
@@ -12024,6 +12037,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "しも fw. hapi⇒ / obj:ELIGOS",
+      "comment" : "",
+      "level" : "6",
+      "md5" : "bfa4b8539f72a3d301fc674ca312840a",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "653a5500685347deae0cadc9197a25fbeea271ff0b7b1b351453baad17030e52",
+      "submission" : 1030,
+      "title" : "風の塔 [7KEYS ELITHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=198&event=74",
+      "url_diff" : "http://onedrive.live.com/?cid=61A880DFE4F9DE2D&id=61A880DFE4F9DE2D%21105"
    },
    {
       "artist" : "Black Lotus obj:SUZUKAZEΛ",

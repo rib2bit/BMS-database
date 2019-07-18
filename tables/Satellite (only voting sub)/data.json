@@ -34,6 +34,23 @@
       "voteYes" : 4
    },
    {
+      "artist" : "削除 / うまい棒 / 差分 赤い人",
+      "comment" : "乱打",
+      "level" : "9",
+      "md5" : "0c51e47d6fdc676311e429e50a090d5a",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "059c2fad119e033ed4f5d73eb63fde472c5175c71375bb025389c20489d0500c",
+      "submission" : 1029,
+      "title" : "Kronos [HARDEST]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=374&event=83",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/kronos-HARDEST.bms",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "空読無 白眼 obj : Sakamiya",
       "comment" : "無名戦対抗戦、微縦連、繰り返し",
       "level" : "0",
@@ -336,6 +353,23 @@
       "voteNo" : 0,
       "votePercent" : "90.91",
       "voteYes" : 9
+   },
+   {
+      "artist" : "しも fw. hapi⇒ / obj:ELIGOS",
+      "comment" : "",
+      "level" : "6",
+      "md5" : "bfa4b8539f72a3d301fc674ca312840a",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "653a5500685347deae0cadc9197a25fbeea271ff0b7b1b351453baad17030e52",
+      "submission" : 1030,
+      "title" : "風の塔 [7KEYS ELITHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=198&event=74",
+      "url_diff" : "http://onedrive.live.com/?cid=61A880DFE4F9DE2D&id=61A880DFE4F9DE2D%21105",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "Lunatic Sounds / Yusi. obj.B_K",
