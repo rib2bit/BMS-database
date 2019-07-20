@@ -5834,6 +5834,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "ZUN remixed by LeaF Movie:Optie Obj:И",
+      "comment" : "32分複合物量",
+      "level" : "7",
+      "md5" : "627b874e565a3c897858301851544a58",
+      "proposer" : "otoshi.b",
+      "proposerLr2id" : 87474,
+      "sha256" : "bc90ad5ffb3884efde40b3c757d557e22d4279c6cc7504ca056f67a5ff4282b0",
+      "submission" : 978,
+      "title" : "Wizdomiot [XXX]",
+      "url" : "http://leafbms.web.fc2.com/song.html",
+      "url_diff" : "http://bms.parksulab.xyz"
+   },
+   {
       "artist" : "ROKINA OBJ:ランダマイザ",
       "comment" : "ディレイ",
       "level" : "7",
@@ -13506,6 +13519,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Cataclysmic Order / O BGI:FARNA",
+      "comment" : "物量　ディレイ発狂",
+      "level" : "6",
+      "md5" : "efeac2a980d65ef6afb2e4e654a0e94b",
+      "proposer" : "otoshi.b",
+      "proposerLr2id" : 87474,
+      "sha256" : "122375d32b53e4796b442086cfcd207c0862e8594ba880e66a239adb74fe5d11",
+      "submission" : 979,
+      "title" : "VENDeTTA [AlterEgo]",
+      "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/21/",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03184"
    },
    {
       "artist" : "yukitani feat. DJ YKTN and DJ UMA",
