@@ -22,6 +22,17 @@
       "url_diff" : ""
    },
    {
+      "artist" : "C4",
+      "comment" : "縦連,高速,やや低TOTAL",
+      "level" : "1",
+      "lr2_bmsid" : 274311,
+      "md5" : "07792d652e8723324938bf188d88f970",
+      "name_diff" : "同梱譜面",
+      "title" : "Chilly [SP INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=126",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Team:SASAKURATION",
       "comment" : "中速乱打,satellite sl6",
       "level" : "9",
@@ -75,6 +86,17 @@
       "title" : "conflict [syhigh]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=74",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02113"
+   },
+   {
+      "artist" : "MILK",
+      "comment" : "縦連",
+      "level" : "23",
+      "lr2_bmsid" : 274119,
+      "md5" : "1399ab3aefd0a706f50dda0dc3881f2c",
+      "name_diff" : "差分",
+      "title" : "RAY (death)",
+      "url" : "http://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21208",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03089"
    },
    {
       "artist" : "TaW",
@@ -152,6 +174,17 @@
       "title" : "new earth [third generation]",
       "url" : "https://dropbox.bms.ms/u/28765267/er_new-earth.zip",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02746"
+   },
+   {
+      "artist" : "C4",
+      "comment" : "☆7相当",
+      "level" : "-3",
+      "lr2_bmsid" : 274350,
+      "md5" : "27bc29deaa227226b4bfe5d32c1d941a",
+      "name_diff" : "同梱譜面",
+      "title" : "Chilly [SP HYPER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=126",
+      "url_diff" : ""
    },
    {
       "artist" : "1/8",
@@ -253,6 +286,39 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01907"
    },
    {
+      "artist" : "MILK",
+      "comment" : "微縦連",
+      "level" : "1",
+      "lr2_bmsid" : 274117,
+      "md5" : "3b0e65a743722eee467bf29b32499588",
+      "name_diff" : "差分",
+      "title" : "RAY (illumination)",
+      "url" : "http://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21208",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03089"
+   },
+   {
+      "artist" : "nekomimi_STRaw",
+      "comment" : "色々,ラスト32分皿",
+      "level" : "14",
+      "lr2_bmsid" : 275021,
+      "md5" : "3b1665484563dba06fe735a683ed8329",
+      "name_diff" : "同梱譜面",
+      "title" : "Earth pipe is dokan",
+      "url" : "https://venue.bmssearch.net/bmsshuin2/91",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "C4",
+      "comment" : "☆9相当",
+      "level" : "-2",
+      "lr2_bmsid" : 274272,
+      "md5" : "3c71aaec661bdc2bf2faebab7088745b",
+      "name_diff" : "同梱譜面",
+      "title" : "Chilly [SP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=126",
+      "url_diff" : ""
+   },
+   {
       "artist" : "ROKINA",
       "comment" : "乱打,物量",
       "level" : "17",
@@ -330,6 +396,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02108"
    },
    {
+      "artist" : "C4",
+      "comment" : "ガチ押し,トリル,やや低TOTAL",
+      "level" : "21",
+      "lr2_bmsid" : 274319,
+      "md5" : "4c8df66485efbfa0dedefbef77d69ee4",
+      "name_diff" : "同梱譜面",
+      "title" : "Chilly [SP Blizzard]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=126",
+      "url_diff" : ""
+   },
+   {
       "artist" : "kozato",
       "comment" : "HARD判定,回復と削りの繰り返し,低TOTAL,satellite sl6",
       "level" : "9",
@@ -339,6 +416,17 @@
       "title" : "四十五年ノ雪桜 [Blossoms]",
       "url" : "http://pwsl.sakura.ne.jp/?page_id=7",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02694"
+   },
+   {
+      "artist" : "RSK",
+      "comment" : "地雷,高TOTAL,☆3相当",
+      "level" : "-4",
+      "lr2_bmsid" : 274673,
+      "md5" : "4dca4a77c61bfcac700fb9e35279fa46",
+      "name_diff" : "同梱譜面",
+      "title" : "Electrical Machine-Gun-BEGINNER-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=126",
+      "url_diff" : ""
    },
    {
       "artist" : "cybermiso",
@@ -473,6 +561,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02204"
    },
    {
+      "artist" : "MILK",
+      "comment" : "微縦連",
+      "level" : "9",
+      "lr2_bmsid" : 274118,
+      "md5" : "5e17ca2c707f5ac76ed3edec4b1ce0fe",
+      "name_diff" : "差分",
+      "title" : "RAY (laser)",
+      "url" : "http://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21208",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03089"
+   },
+   {
       "artist" : "sa10",
       "comment" : "微縦連,高速乱打,ディレイ",
       "level" : "22",
@@ -526,6 +625,28 @@
       "title" : "物怪舞踏 [大太法師]",
       "url" : "http://tsubu.ath.cx/~electrogic/bms/mononoke.rar",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01973"
+   },
+   {
+      "artist" : "C4",
+      "comment" : "☆3相当",
+      "level" : "-4",
+      "lr2_bmsid" : 274287,
+      "md5" : "6bc18f715229394f8687e7c92434edd7",
+      "name_diff" : "同梱譜面",
+      "title" : "Chilly [SP BEGINNER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=126",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "qfeileadh as xuxuezique",
+      "comment" : "☆4相当",
+      "level" : "-3",
+      "lr2_bmsid" : 275040,
+      "md5" : "6d45c2a1dfee3b4e51fc4189daf7028a",
+      "name_diff" : "同梱譜面",
+      "title" : "Thaumaturgy [SP BEGINNER]",
+      "url" : "https://venue.bmssearch.net/bmsshuin2/85",
+      "url_diff" : ""
    },
    {
       "artist" : "TaW",
@@ -627,6 +748,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02121"
    },
    {
+      "artist" : "NASA",
+      "comment" : "低TOTAL,縦連",
+      "level" : "22",
+      "lr2_bmsid" : 274953,
+      "md5" : "8f009e68251be9ad2603b19f8dec849d",
+      "name_diff" : "同梱譜面",
+      "title" : "Chocomint Mille-feuille [ダメでした]",
+      "url" : "https://venue.bmssearch.net/bmsshuin2/41",
+      "url_diff" : ""
+   },
+   {
       "artist" : "sasakure.UK",
       "comment" : "HARD判定,縦連,ratさんの譜面リスペクト",
       "level" : "99",
@@ -649,6 +781,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02746"
    },
    {
+      "artist" : "qfeileadh as xuxuezique",
+      "comment" : "ガチ押し,隣接二重階段,ズレ譜面",
+      "level" : "25",
+      "lr2_bmsid" : 275043,
+      "md5" : "920bbb8651f9e20c382d43ea99911afb",
+      "name_diff" : "同梱譜面",
+      "title" : "Thaumaturgy [SP INSANE]",
+      "url" : "https://venue.bmssearch.net/bmsshuin2/85",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Team:SASAKURATION",
       "comment" : "中速乱打,ラスト殺し気味,satellite sl3",
       "level" : "4",
@@ -658,6 +801,17 @@
       "title" : "エピトゥリカの祀 [c-663]",
       "url" : "http://web.archive.org/web/20120415195317/http://sasakure.bms.ms/bof2008/epitorica_mq.rar",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02044"
+   },
+   {
+      "artist" : "C4",
+      "comment" : "本当の初心者向け,☆1相当",
+      "level" : "-4",
+      "lr2_bmsid" : 274388,
+      "md5" : "996ce89e0209677681bec5c9ca10d67c",
+      "name_diff" : "同梱譜面",
+      "title" : "Chilly [SP NEW PLAYER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=126",
+      "url_diff" : ""
    },
    {
       "artist" : "cybermiso",
@@ -691,6 +845,17 @@
       "title" : "Plastic Mind [Sppc]",
       "url" : "http://onedrive.live.com/?cid=FC95A680740CA8C9&id=FC95A680740CA8C9%21201",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02108"
+   },
+   {
+      "artist" : "C4",
+      "comment" : "☆5相当",
+      "level" : "-3",
+      "lr2_bmsid" : 274389,
+      "md5" : "9d838f99b829788417c0a8d41b530331",
+      "name_diff" : "同梱譜面",
+      "title" : "Chilly [SP NORMAL]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=126",
+      "url_diff" : ""
    },
    {
       "artist" : "qfeileadh feat. レゾナンスもえこ",
@@ -735,6 +900,17 @@
       "title" : "S.O.S [C4A]",
       "url" : "http://suikacrash.s370.xrea.com/event.cgi?mode=view&no=19",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02822"
+   },
+   {
+      "artist" : "C4",
+      "comment" : "VERY HARD判定,LN,低TOTAL",
+      "level" : "99",
+      "lr2_bmsid" : 274313,
+      "md5" : "a8faedf227f51728c21657750fbc4b0e",
+      "name_diff" : "同梱譜面",
+      "title" : "Chilly [SP tv]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=126",
+      "url_diff" : ""
    },
    {
       "artist" : "qfeileadh feat. レゾナンスもえこ",
@@ -860,7 +1036,7 @@
    {
       "artist" : "remixed celas",
       "comment" : "ズレ乱打,ややラス殺し",
-      "level" : "14",
+      "level" : "13",
       "lr2_bmsid" : 264536,
       "md5" : "bda3ef14d781cfa2c9e4458ff2ba3ea4",
       "name_diff" : "差分",
@@ -900,6 +1076,17 @@
       "title" : "ブラーブルー [蒼ひ想ひ出]",
       "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/12/",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02130"
+   },
+   {
+      "artist" : "qfeileadh as xuxuezique",
+      "comment" : "微縦連,ドラム主体,☆11相当",
+      "level" : "0",
+      "lr2_bmsid" : 275041,
+      "md5" : "c4dc3a852ce51d96af91cf29f4191054",
+      "name_diff" : "同梱譜面",
+      "title" : "Thaumaturgy [SP HYPER]",
+      "url" : "https://venue.bmssearch.net/bmsshuin2/85",
+      "url_diff" : ""
    },
    {
       "artist" : "kniz",

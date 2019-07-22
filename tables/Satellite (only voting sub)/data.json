@@ -13,8 +13,8 @@
       "url_diff" : "https://www.dropbox.com/s/asthwvczq8x1ncw/7nanami03.bml?dl=0",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "87.50",
-      "voteYes" : 7
+      "votePercent" : "88.89",
+      "voteYes" : 8
    },
    {
       "artist" : "NA7+OMI-",
@@ -30,8 +30,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "92.86",
-      "voteYes" : 6
+      "votePercent" : "93.75",
+      "voteYes" : 7
    },
    {
       "artist" : "削除 / うまい棒 / 差分 赤い人",
@@ -48,7 +48,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "Ym1024 feat. lamie* obj:七海千秋",
@@ -65,7 +65,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 6
    },
    {
       "artist" : "空読無 白眼 obj : Sakamiya",
@@ -99,7 +99,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
    },
    {
       "artist" : "Omnipotenx / obj:秘密",
@@ -148,8 +148,8 @@
       "url_diff" : "http://moriosabun.digi2.jp/",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "70.00",
-      "voteYes" : 3
+      "votePercent" : "75.00",
+      "voteYes" : 4
    },
    {
       "artist" : "Another Infinity vs ZUN Remixed by くっちー / obj:夢瑠 BGA:chiArosCuro",
@@ -216,7 +216,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "87.50",
       "voteYes" : 3
    },
    {
@@ -233,8 +233,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02870",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "92.86",
-      "voteYes" : 6
+      "votePercent" : "93.75",
+      "voteYes" : 7
    },
    {
       "artist" : "siromaru + cranky // movie: iimo // obj:SUZUKAZEΛ",
@@ -250,8 +250,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 3
+      "votePercent" : "90.00",
+      "voteYes" : 4
    },
    {
       "artist" : "sukuramu42 Illust:恋々 / selene.",
@@ -338,6 +338,22 @@
       "voteYes" : 9
    },
    {
+      "artist" : "カラフル・サウンズ・ポート obj:Fendou",
+      "level" : "6",
+      "md5" : "9d50bbfc4adff7faef7f86b8e731b185",
+      "proposer" : "Star*",
+      "proposerLr2id" : 90733,
+      "sha256" : "6e9c809f8e96aa9f9df0e5b3a582ec35dd8f2d9f75c6d647b3bd4175af9b6409",
+      "submission" : 1032,
+      "title" : "カラフル・サウンズ・カッター [Colorful]",
+      "url" : "http://onedrive.live.com/?cid=DE6C2233D3348440#cid=DE6C2233D3348440&id=DE6C2233D3348440!160",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03191",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
       "artist" : "Yusie x Awfuless obj. DK",
       "comment" : "微縦連",
       "level" : "1",
@@ -402,7 +418,7 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "91.67",
       "voteYes" : 5
    },
    {
@@ -469,8 +485,8 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/Exodus-HARDEST.bme",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "80.00",
-      "voteYes" : 4
+      "votePercent" : "83.33",
+      "voteYes" : 5
    },
    {
       "artist" : "竜。 feat.結月ゆかり",
@@ -504,6 +520,6 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    }
 ]
