@@ -65,7 +65,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "空読無 白眼 obj : Sakamiya",
@@ -233,8 +233,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02870",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "93.75",
-      "voteYes" : 7
+      "votePercent" : "94.44",
+      "voteYes" : 8
    },
    {
       "artist" : "siromaru + cranky // movie: iimo // obj:SUZUKAZEΛ",
@@ -284,8 +284,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "92.31",
-      "voteYes" : 11
+      "votePercent" : "92.86",
+      "voteYes" : 12
    },
    {
       "artist" : "HyuN feat. Machina obj. 35",
@@ -334,8 +334,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "86.36",
-      "voteYes" : 9
+      "votePercent" : "87.50",
+      "voteYes" : 10
    },
    {
       "artist" : "カラフル・サウンズ・ポート obj:Fendou",
@@ -367,7 +367,7 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.83",
+      "votePercent" : "92.31",
       "voteYes" : 11
    },
    {
@@ -418,8 +418,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 5
+      "votePercent" : "92.86",
+      "voteYes" : 6
    },
    {
       "artist" : "mommy obj : C9H20",
@@ -436,7 +436,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 12
+      "voteYes" : 13
    },
    {
       "artist" : "Sakamiya feat.toz img:ぬけみち Lyrics:uoru",
@@ -467,9 +467,9 @@
       "title" : "Brand New Party another",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=119",
       "url_diff" : "",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "84.62",
+      "voteNeutral" : 2,
+      "voteNo" : 2,
+      "votePercent" : "78.57",
       "voteYes" : 10
    },
    {
@@ -520,6 +520,6 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
    }
 ]

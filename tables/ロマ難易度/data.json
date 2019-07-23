@@ -550,6 +550,16 @@
       "title" : "elegante [Hyper]"
    },
    {
+      "alllevel" : "☆5 ☆9",
+      "append" : "",
+      "artist" : "POSI-TRON!",
+      "comment" : "",
+      "event" : "",
+      "level" : "5",
+      "md5" : "1dd9e3c6c329aaf7eec85e693a731c1a",
+      "title" : "Ruriko FINAL (LIGHT7KEYS)"
+   },
+   {
       "alllevel" : "☆8 ☆11 ☆12",
       "append" : "",
       "artist" : "Gen-X vs s.m Niko",
@@ -740,16 +750,6 @@
       "title" : "HI-TENSION みすちー☆ (ANOTHER)"
    },
    {
-      "alllevel" : "☆8 ☆11 ☆12",
-      "append" : "siokaze",
-      "artist" : "SAMBA MASTER 佐藤 -SATOH- / obj.siokaze",
-      "comment" : "",
-      "event" : "GENRE-SHUFFLE",
-      "level" : "12",
-      "md5" : "248a46735b9f915f7456011bf632a029",
-      "title" : "サンバランド L( ＾ω＾ )┘"
-   },
-   {
       "alllevel" : "☆8 ☆10 ☆12",
       "append" : "black train",
       "artist" : "しろ / black train",
@@ -910,6 +910,16 @@
       "title" : "gravitronic -II- -SP NORMAL-"
    },
    {
+      "alllevel" : "☆7 ☆10",
+      "append" : "",
+      "artist" : "beatMARIO",
+      "comment" : "",
+      "event" : "Re-Rise",
+      "level" : "7",
+      "md5" : "2d70b5f1e976b3ebb2caba2fe5e0f9a6",
+      "title" : "約束 -HappyHyperStarmiX-"
+   },
+   {
       "alllevel" : "☆5 ☆8",
       "append" : "",
       "artist" : "樋奈月みつ",
@@ -960,6 +970,16 @@
       "title" : "ZENITHALIZE [SP ANOTHER]"
    },
    {
+      "alllevel" : "☆4 ☆8 ☆10",
+      "append" : "",
+      "artist" : "ツナマヨちゃん",
+      "comment" : "",
+      "event" : "BOF2005",
+      "level" : "8",
+      "md5" : "31aa4a488d1b718dbea13313846e9b40",
+      "title" : "Bird Sprite -D.K.R. mix- (7keys)"
+   },
+   {
       "alllevel" : "☆7 ☆9 ☆10 ☆12",
       "append" : "",
       "artist" : "Sampling Disaster 咲-SAKI- Movie : Limit_cancel",
@@ -988,6 +1008,16 @@
       "level" : "6",
       "md5" : "32532ca63fe58aa169e7f63eef5a301d",
       "title" : "Circe (7keys)"
+   },
+   {
+      "alllevel" : "☆7 ☆11",
+      "append" : "",
+      "artist" : "SHIKI/fity",
+      "comment" : "",
+      "event" : "BGA BATTLE",
+      "level" : "11",
+      "md5" : "332ab0d1df1adc712fb90f857bdb13dc",
+      "title" : "Xecus 7key [Another]"
    },
    {
       "alllevel" : "☆8 ☆10 ☆12",
@@ -1150,6 +1180,16 @@
       "title" : "BrownWater (7keys)"
    },
    {
+      "alllevel" : "☆5 ☆8 ☆10",
+      "append" : "",
+      "artist" : "HaL feat. riri",
+      "comment" : "",
+      "event" : "B-1 Unrestricted",
+      "level" : "10",
+      "md5" : "3a2a59dead5a47f2ac0254029708e148",
+      "title" : "Arcadia -ANOTHER-"
+   },
+   {
       "alllevel" : "☆5 ☆10 ☆11",
       "append" : "",
       "artist" : "カラフル・サウンズ・ポート",
@@ -1158,6 +1198,16 @@
       "level" : "11",
       "md5" : "3a99fe0320c50955dfe971634a6829e5",
       "title" : "KISS CANDY FLAVOR (ANOTHER)"
+   },
+   {
+      "alllevel" : "☆4 ☆8 ☆10",
+      "append" : "",
+      "artist" : "ツナマヨちゃんとか",
+      "comment" : "",
+      "event" : "BOF2005",
+      "level" : "4",
+      "md5" : "3b0ce0e8cede04f8e7f07ef864d5d143",
+      "title" : "Bird Sprite -D.K.R. mix- (7keys Light)"
    },
    {
       "alllevel" : "☆6 ☆10",
@@ -1260,6 +1310,16 @@
       "title" : "Banana Problem (Double固めたmix)"
    },
    {
+      "alllevel" : "☆7 ☆11",
+      "append" : "",
+      "artist" : "SHIKI/fity",
+      "comment" : "",
+      "event" : "BGA BATTLE",
+      "level" : "7",
+      "md5" : "40304e85564a651b11ba1ce31bfdd836",
+      "title" : "Xecus 7key [light]"
+   },
+   {
       "alllevel" : "☆4 ☆8",
       "append" : "",
       "artist" : "フォ㍊",
@@ -1328,16 +1388,6 @@
       "level" : "11",
       "md5" : "461953b5f5be24b46dd375eba19342c9",
       "title" : "妹様は彼女なのだっ！"
-   },
-   {
-      "alllevel" : "☆99",
-      "append" : "",
-      "artist" : "Transin",
-      "comment" : "",
-      "event" : "BOF2006",
-      "level" : "99",
-      "md5" : "46a99e37503694c626a3e321a9be9852",
-      "title" : "Exit (7 Key Hard Mixing)"
    },
    {
       "alllevel" : "☆6 ☆9 ☆11",
@@ -1540,16 +1590,6 @@
       "title" : "started [7key/Normal]"
    },
    {
-      "alllevel" : "☆4 ☆7 ☆12 ☆99",
-      "append" : "自重しないJLS",
-      "artist" : "源屋feat.ユスラ　/obj：自重しないJLS",
-      "comment" : "",
-      "event" : "BOF2006",
-      "level" : "99",
-      "md5" : "508330b4bc4513536aea7945d90909e2",
-      "title" : "マジカル縦連打"
-   },
-   {
       "alllevel" : "☆4 ☆7 ☆11",
       "append" : "",
       "artist" : "Rabbit Bat",
@@ -1588,6 +1628,16 @@
       "level" : "6",
       "md5" : "53cd43d74f6f416c1e3d1d7fb3eeaae5",
       "title" : "HE is an Energizer (7keys EASY)"
+   },
+   {
+      "alllevel" : "☆5 ☆8 ☆10",
+      "append" : "",
+      "artist" : "HaL feat. riri",
+      "comment" : "",
+      "event" : "B-1 Unrestricted",
+      "level" : "8",
+      "md5" : "54aac2d78c9115a8bb9ad15eb12141dd",
+      "title" : "Arcadia -HYPER-"
    },
    {
       "alllevel" : "☆4 ☆8 ☆12",
@@ -1680,24 +1730,14 @@
       "title" : "electric butterfly [ez]"
    },
    {
-      "alllevel" : "☆6 ☆12 ☆99",
+      "alllevel" : "☆6",
       "append" : "",
-      "artist" : "wa. remixed celas Notes:mew BGA:TOHRU MiTSUHASHi",
+      "artist" : "Junk",
       "comment" : "",
-      "event" : "",
-      "level" : "99",
-      "md5" : "5cac7e6e5f5a69afb67cb59412be4b25",
-      "title" : "銀の風 [HYPER]"
-   },
-   {
-      "alllevel" : "☆6 ☆10 ☆12",
-      "append" : "えらる",
-      "artist" : "Ras / misokabocha /obj えらる",
-      "comment" : "",
-      "event" : "BOF2012",
-      "level" : "12",
-      "md5" : "5e3129c1abf59f68d900791beb0f9a8d",
-      "title" : "テキトウInfinite love (BMS edit) [SARATHER]"
+      "event" : "BOF2009",
+      "level" : "6",
+      "md5" : "5bdaa3acd237c322658ff115a0b85fcb",
+      "title" : "Dream Rocket* [Normal]"
    },
    {
       "alllevel" : "☆6 ☆9 ☆11",
@@ -2140,16 +2180,6 @@
       "title" : "started [7key/Another]"
    },
    {
-      "alllevel" : "☆6 ☆10 ☆12",
-      "append" : "",
-      "artist" : "常夏ハニーパイ",
-      "comment" : "▼4",
-      "event" : "BOF2010",
-      "level" : "12",
-      "md5" : "78819f897cfb1fb1eba73204b6dc1966",
-      "title" : "スクラッチマニア！このゆびとまれ！ [ANOTHER]"
-   },
-   {
       "alllevel" : "☆6 ☆10",
       "append" : "",
       "artist" : "BACO BGA:石王マサト",
@@ -2208,6 +2238,16 @@
       "level" : "5",
       "md5" : "7c8eed53a0999fac4fe9c9a51b94b971",
       "title" : "Meteor Lights [SP Normal]"
+   },
+   {
+      "alllevel" : "☆5 ☆9",
+      "append" : "",
+      "artist" : "POSI-TRON!",
+      "comment" : "",
+      "event" : "",
+      "level" : "9",
+      "md5" : "7dfd029745f040fc04d52a8374366a62",
+      "title" : "Ruriko FINAL (7KEYS) ANOTHER"
    },
    {
       "alllevel" : "☆7 ☆10",
@@ -2600,6 +2640,16 @@
       "title" : "Evangelize (Radio Edit) (SP BEGINNER)"
    },
    {
+      "alllevel" : "☆7 ☆10",
+      "append" : "",
+      "artist" : "beatMARIO",
+      "comment" : "",
+      "event" : "Re-Rise",
+      "level" : "10",
+      "md5" : "9e6c61124bf2ad0ce02409f454095ccd",
+      "title" : "約束 -HappyHyperStarmiX-"
+   },
+   {
       "alllevel" : "☆4 ☆6 ☆12",
       "append" : "",
       "artist" : "t+pazolite",
@@ -2688,6 +2738,16 @@
       "level" : "7",
       "md5" : "a9994add30e282afdf06c55841cd1a3a",
       "title" : "Life's retro tapestry"
+   },
+   {
+      "alllevel" : "☆4 ☆8 ☆10",
+      "append" : "",
+      "artist" : "ツナマヨちゃん",
+      "comment" : "",
+      "event" : "BOF2005",
+      "level" : "10",
+      "md5" : "a9aa041c81c5e273b0f26b7118d8b76e",
+      "title" : "Bird Sprite -D.K.R. mix- (another)"
    },
    {
       "alllevel" : "☆6 ☆8",
@@ -2810,6 +2870,16 @@
       "title" : "Heart To Heart -collect sky blue- (light)"
    },
    {
+      "alllevel" : "☆6",
+      "append" : "",
+      "artist" : "SHIKI",
+      "comment" : "",
+      "event" : "",
+      "level" : "6",
+      "md5" : "b0628d04b7b79ca1b7c993ac30369b07",
+      "title" : "Rainy Season"
+   },
+   {
       "alllevel" : "☆7 ☆9 ☆11",
       "append" : "",
       "artist" : "ねこみみ魔法使い / 広瀬まどか",
@@ -2818,16 +2888,6 @@
       "level" : "9",
       "md5" : "b1e03c77adc2d463989ac5e927c5082e",
       "title" : "Heart To Heart -collect sky blue-"
-   },
-   {
-      "alllevel" : "☆99",
-      "append" : "Symphonian",
-      "artist" : "しらいし / Symphonian",
-      "comment" : "",
-      "event" : "",
-      "level" : "99",
-      "md5" : "b25e877fd053080df2701351f741a4d3",
-      "title" : "Odin [^"
    },
    {
       "alllevel" : "☆6 ☆9",
@@ -2930,16 +2990,6 @@
       "title" : "Brain Analysis [7KEYS HYPER]"
    },
    {
-      "alllevel" : "☆8 ☆12",
-      "append" : "",
-      "artist" : "ZUN (Arr.sun3)",
-      "comment" : "",
-      "event" : "",
-      "level" : "12",
-      "md5" : "b8b8062cd450411a12dd91411c30fc5e",
-      "title" : "竹取はっぴー"
-   },
-   {
       "alllevel" : "☆5 ☆9 ☆10",
       "append" : "",
       "artist" : "ginkiha",
@@ -2958,16 +3008,6 @@
       "level" : "12",
       "md5" : "b9f6b45ee3455172e829f2c2b5390d6c",
       "title" : "zodiac (ANOTHER7)"
-   },
-   {
-      "alllevel" : "☆6 ☆12 ☆99",
-      "append" : "",
-      "artist" : "wa. remixed celas Notes:mew BGA:TOHRU MiTSUHASHi",
-      "comment" : "▼3",
-      "event" : "",
-      "level" : "12",
-      "md5" : "b9f6b45ee3455172e829f2c2b5390d6c",
-      "title" : "銀の風 [ANOTHER]"
    },
    {
       "alllevel" : "☆7 ☆9",
@@ -3118,16 +3158,6 @@
       "level" : "10",
       "md5" : "c32f3831de55f9cb1666bfd045f12814",
       "title" : "The Ray of Sunlight"
-   },
-   {
-      "alllevel" : "☆99",
-      "append" : "",
-      "artist" : "ルゼ",
-      "comment" : "",
-      "event" : "SUIKA CRASH",
-      "level" : "99",
-      "md5" : "c35ea1a680b15bdf8c7ea2b59795c9ad",
-      "title" : "WALL BATTLE"
    },
    {
       "alllevel" : "☆4 ☆9",
@@ -3318,16 +3348,6 @@
       "level" : "10",
       "md5" : "cbc23ee9d5f2164306577fce988121fa",
       "title" : "ZENITHALIZE [SP HYPER]"
-   },
-   {
-      "alllevel" : "☆4 ☆7 ☆99",
-      "append" : "JLS",
-      "artist" : "激辛マニア / obj：JLS",
-      "comment" : "",
-      "event" : "BOF2009",
-      "level" : "99",
-      "md5" : "cc497b8d7cdc581e08771257566d053f",
-      "title" : "Auston (T-HYPER)"
    },
    {
       "alllevel" : "☆2 ☆5 ☆9 ☆10",
@@ -4160,6 +4180,16 @@
       "title" : "macaron (ANOTHER)"
    },
    {
+      "alllevel" : "☆5 ☆8 ☆10",
+      "append" : "",
+      "artist" : "HaL feat. riri",
+      "comment" : "",
+      "event" : "B-1 Unrestricted",
+      "level" : "5",
+      "md5" : "f69392a76ad33215d210d54728e7eff1",
+      "title" : "Arcadia -NORMAL-"
+   },
+   {
       "alllevel" : "☆3 ☆6",
       "append" : "",
       "artist" : "Sentire",
@@ -4218,16 +4248,6 @@
       "level" : "11",
       "md5" : "f9a52bec020b0b946c31d069326e24d0",
       "title" : "☆Traveling Sunstar☆　 [7key　ミ★]"
-   },
-   {
-      "alllevel" : "☆8 ☆10 ☆99",
-      "append" : "JLS",
-      "artist" : "tarolabo vo：小宮真央 / obj：JLS",
-      "comment" : "",
-      "event" : "BOF2006",
-      "level" : "99",
-      "md5" : "f9ece4d1f2648d963ace6ff956d95f88",
-      "title" : "路上のタテレン -MEGA T Mix-"
    },
    {
       "alllevel" : "☆7 ☆11 ☆12",
