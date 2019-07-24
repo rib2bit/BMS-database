@@ -85,6 +85,23 @@
       "voteYes" : 2
    },
    {
+      "artist" : "3034 / obj.O",
+      "comment" : "st6 Spider Danceが思い出す FULL THROTTLE",
+      "level" : "6",
+      "md5" : "5e5e3e8c9af5993148b1f53e278119e8",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "d8c54a0e434b324fd7b58a69b8ae82a008499e9e6affc076620245c1b43aabbc",
+      "submission" : 980,
+      "title" : "NS20 [FULL THROTTLE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=63",
+      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up6779.zip",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "Yu^ta / obj:岡部うすにごり",
       "comment" : "4000ノーツ物量",
       "level" : "2",
