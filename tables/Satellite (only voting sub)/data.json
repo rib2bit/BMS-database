@@ -65,7 +65,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 9
    },
    {
       "artist" : "空読無 白眼 obj : Sakamiya",
@@ -203,6 +203,23 @@
       "voteYes" : 9
    },
    {
+      "artist" : "Nota obj:Nakaith",
+      "comment" : "せめてきたぞっ",
+      "level" : "4",
+      "md5" : "56702d0f8bb79a7f8f1b2061ddc000cf",
+      "proposer" : "C4",
+      "proposerLr2id" : 120385,
+      "sha256" : "50900babe8b2870d4ea420f4870fadc76510198b941ba1fcfc3644161f276790",
+      "submission" : 1033,
+      "title" : "Green Apple [リンゴがせめてきたぞっ]",
+      "url" : "https://venue.bmssearch.net/3/12",
+      "url_diff" : "http://suna0bms.web.fc2.com/bmsabun.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "Frums / obj :Lennon",
       "comment" : "ガチ押し",
       "level" : "11",
@@ -216,8 +233,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 4
+      "votePercent" : "92.86",
+      "voteYes" : 6
    },
    {
       "artist" : "eoll obj.にゃむ",
@@ -351,7 +368,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "Yusie x Awfuless obj. DK",
@@ -520,6 +537,6 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 10
    }
 ]
