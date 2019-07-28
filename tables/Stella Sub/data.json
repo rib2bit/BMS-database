@@ -5467,7 +5467,7 @@
    {
       "artist" : "qfeileadh BGA: SELDO",
       "comment" : "st0~1 st3サカサマみたいな",
-      "level" : "1",
+      "level" : "2",
       "md5" : "5d0c727823b1cbea3e738958acafb687",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -10078,6 +10078,19 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
    },
    {
+      "artist" : "立秋 feat.ちょこ / И",
+      "comment" : "9~10?",
+      "level" : "9",
+      "md5" : "b2a1915cbb9954007c6adeea97c12330",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "f9aaf39e7895dea08f21a4cb0a92224396accdadd4714e3814fbfbc3d3012077",
+      "submission" : 981,
+      "title" : "プナイプナイせんそう",
+      "url" : "http://halkana.com/BMS/G2R2018/punaipunai_senso_100.zip",
+      "url_diff" : "http://bms.parksulab.xyz"
+   },
+   {
       "artist" : "sak feat.みゅい BGI:球根",
       "comment" : "物量",
       "level" : "0",
@@ -11381,7 +11394,7 @@
    {
       "artist" : "celas respect for W.A.Mozart obj:st",
       "comment" : "高速",
-      "level" : "7",
+      "level" : "6",
       "md5" : "c9d719eebcb6f25cfb4977bababe9115",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,

@@ -2026,7 +2026,7 @@
    {
       "artist" : "Ym1024 feat. lamie* obj:七海千秋",
       "comment" : "同時押し　区切りのある物量",
-      "level" : "12",
+      "level" : "11",
       "md5" : "1fcd59e7268114a78183d2ae04addf25",
       "proposer" : "otoshi.b",
       "proposerLr2id" : 87474,
@@ -4634,6 +4634,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "NASA obj:rebel.",
+      "comment" : "drrrr",
+      "level" : "12",
+      "md5" : "4c286f9ab3ef84375afd508a5f084115",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "40793e85b1864a36d2b7b2a64b84d4d6ce7b9fcb1338a406e4cdbf343961f76d",
+      "submission" : 1034,
+      "title" : "Chocomint Mille-feuille [Jammed]",
+      "url" : "https://venue.bmssearch.net/bmsshuin2/41",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03178"
    },
    {
       "artist" : "Yu^ta feat. みずにんじん / obj:Cure p7",
@@ -9367,7 +9380,7 @@
    {
       "artist" : "kooridori obj:SUZUKAZEΛ",
       "comment" : "同時押し、皿絡み",
-      "level" : "3",
+      "level" : "4",
       "md5" : "9d2c7db55f2c89d036b3af04e0e1358d",
       "proposer" : "STANK!",
       "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",

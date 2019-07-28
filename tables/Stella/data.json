@@ -3200,7 +3200,7 @@
    {
       "artist" : "qfeileadh BGA: SELDO",
       "comment" : "st0~1 st3サカサマみたいな",
-      "level" : "1",
+      "level" : "2",
       "md5" : "5d0c727823b1cbea3e738958acafb687",
       "proposer" : "qtp13",
       "sha256" : "35df7c4be1d3e18a6af7eb3fe026bd7dd6862b20a8d59d38eb4c10d4f62d5347",
@@ -3231,6 +3231,18 @@
       "title" : "恐鳥 [INFERNO]",
       "url" : "http://www1.axfc.net/uploader/He/so/273565",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/lastbattle-INFERNO.bms"
+   },
+   {
+      "artist" : "Yu^ta / obj:岡部うすにごり",
+      "comment" : "4000ノーツ物量",
+      "level" : "2",
+      "md5" : "5ea7a171d8f7bcc1a7995303e293a0b3",
+      "proposer" : "MineC24",
+      "sha256" : "9a811dad2a3af68614138ed9d1f4fee981d299eb5ef26d01d0086fbe34ef6695",
+      "submission" : 971,
+      "title" : "Pleasure of Being [HD Remaster]",
+      "url" : "http://grooverise.sakura.ne.jp/bms_game_coar_pkg/index.html",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03102"
    },
    {
       "artist" : "Yu^ta /obj.amirn",
@@ -5930,6 +5942,18 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
    },
    {
+      "artist" : "music:litmus* / bms: :Poin7less movie:directed by litmus* / obj.hex",
+      "comment" : "ガチ押し",
+      "level" : "1",
+      "md5" : "b2f494e41d3cfa8cee92a52e720dd848",
+      "proposer" : "MineC24",
+      "sha256" : "980787f1e8a6c08d0369ca8fea1245632692476ca3b636c279d2e076cd3dc403",
+      "submission" : 976,
+      "title" : "Flashdance [Hexagon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=123",
+      "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html"
+   },
+   {
       "artist" : "Irish Kappa / selene. BGA: Rinser",
       "comment" : "地力",
       "level" : "1",
@@ -6275,6 +6299,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02244"
    },
    {
+      "artist" : "TCN180 (DJ TECHNORCH) / selene.",
+      "comment" : "無名戦4 連打混じり物量",
+      "level" : "3",
+      "md5" : "bd6d3fe0e349cf68d2f59645a6c89d01",
+      "proposer" : "otoshi.b",
+      "sha256" : "a3099d7135f1a6852052f2b4857361fa84309535eca59faf46e2114c5e943cf0",
+      "submission" : 972,
+      "title" : "Gothic System -Genocide-",
+      "url" : "https://mega.nz/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA!ENcwFKTA",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03129"
+   },
+   {
       "artist" : "sak feat.みゅい Movie: げ～むばか Illust: 球根 obj: BAECON",
       "comment" : "Desperate never ends",
       "level" : "6",
@@ -6298,6 +6334,17 @@
       "title" : "Hyper Fiber World Travel",
       "url" : "http://www.dropbox.com/s/ul4fxaejm88hk5z/Crimsona_Hyper_Fiber_World_Travel_ogg.zip?dl=1",
       "url_diff" : "http://swamelo.web.fc2.com/_HFWT_yume.bml"
+   },
+   {
+      "artist" : "Mastermind(xi+nora2r) iimo / obj:秘密",
+      "level" : "0",
+      "md5" : "be5427805ff3d464a8b8ebcb5e9381df",
+      "proposer" : "Thaw",
+      "sha256" : "4aeeb65b2b0ab03b6c04b63a1f06ad175ed5e1e768ceca8c6bd18d891529edba",
+      "submission" : 974,
+      "title" : "Dreadnought [LastMoment]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=410&event=104",
+      "url_diff" : "http://hiiiii.web.fc2.com/sabun/"
    },
    {
       "artist" : "Is-m / obj. laner BGA:yuru",
@@ -6622,7 +6669,7 @@
    {
       "artist" : "celas respect for W.A.Mozart obj:st",
       "comment" : "高速",
-      "level" : "7",
+      "level" : "6",
       "md5" : "c9d719eebcb6f25cfb4977bababe9115",
       "proposer" : "LUXURY♪",
       "sha256" : "7ce419ed7f3bfb40960e0c99e299c9159f3571c227f86f5e5ed90ac6236a0e78",
@@ -7293,6 +7340,18 @@
       "title" : "Buuuuuuurstraffic [Congestion]",
       "url" : "https://dropbox.bms.ms/u/107522853/bms/%5BMaple_brit%27S%5DBuuuuuuurstraffic-HOUJIROU.rar",
       "url_diff" : "http://swamelo.web.fc2.com/Bu7rstraffic_congestion.bms"
+   },
+   {
+      "artist" : "3034 obj:スノート",
+      "comment" : "高速",
+      "level" : "2",
+      "md5" : "dc0c62e5c809c1a75460edb5f4640006",
+      "proposer" : "MiRa",
+      "sha256" : "7a3cbd82f7e33addf20d7d2ca8041a5b659e636b9d68956fbd50368c1ac4fdff",
+      "submission" : 977,
+      "title" : "NS22 [Snother]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=214&event=74",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03168"
    },
    {
       "artist" : "Dr.A (BGA:八嶋) obj.7zs",

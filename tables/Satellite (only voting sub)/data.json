@@ -13,8 +13,8 @@
       "url_diff" : "https://www.dropbox.com/s/asthwvczq8x1ncw/7nanami03.bml?dl=0",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "80.00",
-      "voteYes" : 8
+      "votePercent" : "81.82",
+      "voteYes" : 9
    },
    {
       "artist" : "NA7+OMI-",
@@ -30,8 +30,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "93.75",
-      "voteYes" : 7
+      "votePercent" : "94.44",
+      "voteYes" : 8
    },
    {
       "artist" : "削除 / うまい棒 / 差分 赤い人",
@@ -48,24 +48,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
-   },
-   {
-      "artist" : "Ym1024 feat. lamie* obj:七海千秋",
-      "comment" : "同時押し　区切りのある物量",
-      "level" : "12",
-      "md5" : "1fcd59e7268114a78183d2ae04addf25",
-      "proposer" : "otoshi.b",
-      "proposerLr2id" : 87474,
-      "sha256" : "7651284dbfe4aae436b315f9ad9fbe788f48701d607371f16d39847d123ca740",
-      "submission" : 1031,
-      "title" : "7 colors* -To The Future-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=390&event=88",
-      "url_diff" : "https://www.dropbox.com/s/4fikcnegg8sqrry/7colors.zip?dl=1",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 10
+      "voteYes" : 6
    },
    {
       "artist" : "空読無 白眼 obj : Sakamiya",
@@ -99,7 +82,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 9
    },
    {
       "artist" : "Omnipotenx / obj:秘密",
@@ -148,59 +131,25 @@
       "url_diff" : "http://moriosabun.digi2.jp/",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "75.00",
+      "votePercent" : "71.43",
       "voteYes" : 4
    },
    {
-      "artist" : "Another Infinity vs ZUN Remixed by くっちー / obj:夢瑠 BGA:chiArosCuro",
-      "comment" : "トリルー",
-      "level" : "3",
-      "md5" : "46db6e768d3e489995de381ab98ced47",
+      "artist" : "NASA obj:rebel.",
+      "comment" : "drrrr",
+      "level" : "12",
+      "md5" : "4c286f9ab3ef84375afd508a5f084115",
       "proposer" : "MineC24",
       "proposerLr2id" : 84597,
-      "sha256" : "cd3550dedceebd716433447d8a89055dba2f4767a2529246886e59dd826d8e95",
-      "submission" : 992,
-      "title" : "514nm(Kucchi☆mix) [yumether]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=84",
-      "url_diff" : "http://yumerusabun.web.fc2.com/nue_hakkyou.html",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "79.17",
-      "voteYes" : 8
-   },
-   {
-      "artist" : "YUKIYANAGI /obj.ATSUMORI",
-      "comment" : "総合力(乱打, 縦連, 連皿)",
-      "level" : "3",
-      "md5" : "4c97ff465578ff5e92041a1c649ffafe",
-      "proposer" : "nono22",
-      "proposerLr2id" : 122934,
-      "sha256" : "f32130a0c205713e97aed7ed194b48749d3cbba0f0f70c534ace39b800ec76dd",
-      "submission" : 998,
-      "title" : "Bosh [Another+]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=7&event=115",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00726",
+      "sha256" : "40793e85b1864a36d2b7b2a64b84d4d6ce7b9fcb1338a406e4cdbf343961f76d",
+      "submission" : 1034,
+      "title" : "Chocomint Mille-feuille [Jammed]",
+      "url" : "https://venue.bmssearch.net/bmsshuin2/41",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03178",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "84.62",
-      "voteYes" : 9
-   },
-   {
-      "artist" : "猫蟹丸 / obj: black train",
-      "comment" : "地力",
-      "level" : "7",
-      "md5" : "55701926ca12fa81683b1147e8b7b806",
-      "proposer" : "*ふわうさ*",
-      "proposerLr2id" : 60626,
-      "sha256" : "cd00c3730aa01e9f7b09ce0d38d77d57c0464b1d488c13c72ca9247bfb2b829c",
-      "submission" : 1010,
-      "title" : "7SP:雪の少女-MorningDash!Mix- [MANIAQ]",
-      "url" : "http://knm.sakura.ne.jp/index.html",
-      "url_diff" : "http://absolute.pv.land.to/Anotherbms.html",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "86.36",
-      "voteYes" : 9
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "Nota obj:Nakaith",
@@ -217,7 +166,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 5
    },
    {
       "artist" : "Frums / obj :Lennon",
@@ -233,8 +182,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "92.86",
-      "voteYes" : 6
+      "votePercent" : "93.75",
+      "voteYes" : 7
    },
    {
       "artist" : "eoll obj.にゃむ",
@@ -250,8 +199,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02870",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "94.44",
-      "voteYes" : 8
+      "votePercent" : "95.00",
+      "voteYes" : 9
    },
    {
       "artist" : "siromaru + cranky // movie: iimo // obj:SUZUKAZEΛ",
@@ -267,7 +216,7 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.00",
+      "votePercent" : "83.33",
       "voteYes" : 4
    },
    {
@@ -286,23 +235,6 @@
       "voteNo" : 0,
       "votePercent" : "93.75",
       "voteYes" : 7
-   },
-   {
-      "artist" : "KaKi BGA:Arishima_Caprico",
-      "comment" : "☆12+ (sl0-1?) 無名戦対抗戦、トリル、乱打、同時押し",
-      "level" : "1",
-      "md5" : "7d9d1c5b76e7f9d874dfdc715a9dde32",
-      "proposer" : "ww",
-      "proposerLr2id" : 147642,
-      "sha256" : "51464142d7cf331c4d0ebc6676b90064af8e1db48a66c94f8545818813754d8a",
-      "submission" : 1006,
-      "title" : "Forbidden Area [SP ANOTHER+]",
-      "url" : "https://event.yaruki0.net/VSevent/impression/25",
-      "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "92.86",
-      "voteYes" : 12
    },
    {
       "artist" : "HyuN feat. Machina obj. 35",
@@ -340,7 +272,7 @@
    {
       "artist" : "kooridori obj:SUZUKAZEΛ",
       "comment" : "同時押し、皿絡み",
-      "level" : "3",
+      "level" : "4",
       "md5" : "9d2c7db55f2c89d036b3af04e0e1358d",
       "proposer" : "STANK!",
       "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
@@ -367,25 +299,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03191",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 3
-   },
-   {
-      "artist" : "Yusie x Awfuless obj. DK",
-      "comment" : "微縦連",
-      "level" : "1",
-      "md5" : "aae61ee7a296da78b89903a3ac304180",
-      "proposer" : "Yaksa",
-      "proposerLr2id" : 146592,
-      "sha256" : "ac8fe3f3def5602fd9fc80f06533ce0fcbbed8f8281a717994b704dac098c4a1",
-      "submission" : 1001,
-      "title" : "Ashen Land [SP ANOTHER]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=31&event=104",
-      "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "92.86",
-      "voteYes" : 12
+      "votePercent" : "91.67",
+      "voteYes" : 5
    },
    {
       "artist" : "ねこみりん feat.小宮真央 Movie: 石王マサト / obj:MineC24",
@@ -419,7 +334,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "Lunatic Sounds / Yusi. obj.B_K",
@@ -435,59 +350,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "92.86",
-      "voteYes" : 6
-   },
-   {
-      "artist" : "mommy obj : C9H20",
-      "comment" : "乱打",
-      "level" : "2",
-      "md5" : "d50c8375d3490b6274f8c0429f098836",
-      "proposer" : "nono22",
-      "proposerLr2id" : 122934,
-      "sha256" : "5a5eab6a662c044f9a8d8cc1af5c65e3c84d59dec7e396d92690b5c906e12a8b",
-      "submission" : 1009,
-      "title" : "Metropolis [7key,Another+]",
-      "url" : "http://mommy16807.seesaa.net/article/130886480.html",
-      "url_diff" : "http://absolute.pv.land.to/uploader/src/up1608.zip",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 13
-   },
-   {
-      "artist" : "Sakamiya feat.toz img:ぬけみち Lyrics:uoru",
-      "comment" : "ガチ押し",
-      "level" : "11",
-      "md5" : "d6992c5eedc7555c00b5ce6dfa27e0fb",
-      "proposer" : "スノート",
-      "proposerLr2id" : 86393,
-      "sha256" : "ba32ba9a4deb48bcc9cf9c4280e5f9a988366fd528d4df80fb108fdd0fd9c1a6",
-      "submission" : 1013,
-      "title" : "空",
-      "url" : "https://qstol.info/events/kanji/bms_detail.php?id=12",
-      "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "95.45",
-      "voteYes" : 10
-   },
-   {
-      "artist" : "------",
-      "comment" : "Chords",
-      "level" : "0",
-      "md5" : "d70a03037bb73b2ea2b197b62264a01a",
-      "proposer" : "Hyparpax",
-      "proposerLr2id" : 107037,
-      "sha256" : "9e32b7924794d9583bb3df0dd123e600e56751a2246bcd4c88ed3cf725f8b7c6",
-      "submission" : 1004,
-      "title" : "Brand New Party another",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=119",
-      "url_diff" : "",
-      "voteNeutral" : 2,
-      "voteNo" : 2,
-      "votePercent" : "78.57",
-      "voteYes" : 10
+      "votePercent" : "93.75",
+      "voteYes" : 7
    },
    {
       "artist" : "Moses/ 差分 赤い人",
@@ -502,25 +366,8 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/Exodus-HARDEST.bme",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "83.33",
-      "voteYes" : 5
-   },
-   {
-      "artist" : "竜。 feat.結月ゆかり",
-      "comment" : "sl3-4、PABAT!2019、EUROBEAT乱打、二重階段",
-      "level" : "3",
-      "md5" : "e88320b832e16b0ef79e40674d3af2c2",
-      "proposer" : "ww",
-      "proposerLr2id" : 147642,
-      "sha256" : "38ad63c3ee18537793052b301815d590502b8804951789d48f4a8711588cb1dc",
-      "submission" : 1007,
-      "title" : "Crazy Moon Night -Another-",
-      "url" : "https://k-bms.com/party_pabat/party2019.jsp?board_num=19&num=17",
-      "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 10
+      "votePercent" : "85.71",
+      "voteYes" : 6
    },
    {
       "artist" : "Ras obj:YOURI",
@@ -537,6 +384,6 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 10
+      "voteYes" : 11
    }
 ]

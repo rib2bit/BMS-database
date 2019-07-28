@@ -17,23 +17,6 @@
       "voteYes" : 4
    },
    {
-      "artist" : "403 ERROR Image by HEART CREATE / obj:秘密",
-      "comment" : "BPM489.31",
-      "level" : "0",
-      "md5" : "37bd5d43b121b45c9e6e92723622ed9a",
-      "proposer" : "氷城つるぎ",
-      "proposerLr2id" : 151185,
-      "sha256" : "8b7da6e12eb8f51415b6a27a161b3e01e6aa24acddd3679f44c36d957fe63e41",
-      "submission" : 967,
-      "title" : "FORBIDDEN -ANNIHILATION-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=18&event=75",
-      "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "78.57",
-      "voteYes" : 4
-   },
-   {
       "artist" : "ルゼ obj.Lapis",
       "comment" : "st0~1 huhahahahahahaha",
       "level" : "1",
@@ -98,25 +81,8 @@
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up6779.zip",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "50.00",
-      "voteYes" : 1
-   },
-   {
-      "artist" : "Yu^ta / obj:岡部うすにごり",
-      "comment" : "4000ノーツ物量",
-      "level" : "2",
-      "md5" : "5ea7a171d8f7bcc1a7995303e293a0b3",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "9a811dad2a3af68614138ed9d1f4fee981d299eb5ef26d01d0086fbe34ef6695",
-      "submission" : 971,
-      "title" : "Pleasure of Being [HD Remaster]",
-      "url" : "http://grooverise.sakura.ne.jp/bms_game_coar_pkg/index.html",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03102",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 5
+      "votePercent" : "66.67",
+      "voteYes" : 2
    },
    {
       "artist" : "ZUN remixed by LeaF Movie:Optie Obj:И",
@@ -130,10 +96,10 @@
       "title" : "Wizdomiot [XXX]",
       "url" : "http://leafbms.web.fc2.com/song.html",
       "url_diff" : "http://bms.parksulab.xyz",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "66.67",
+      "voteYes" : 2
    },
    {
       "artist" : "plastic feat.呉舞かなと obj:七海千秋",
@@ -149,8 +115,8 @@
       "url_diff" : "https://www.dropbox.com/s/njexpd47gfn7a51/utau.zip?dl=1",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "62.50",
-      "voteYes" : 2
+      "votePercent" : "70.00",
+      "voteYes" : 3
    },
    {
       "artist" : "2X Obj.Triforce",
@@ -187,6 +153,23 @@
       "voteYes" : 2
    },
    {
+      "artist" : "立秋 feat.ちょこ / И",
+      "comment" : "9~10?",
+      "level" : "9",
+      "md5" : "b2a1915cbb9954007c6adeea97c12330",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "f9aaf39e7895dea08f21a4cb0a92224396accdadd4714e3814fbfbc3d3012077",
+      "submission" : 981,
+      "title" : "プナイプナイせんそう",
+      "url" : "http://halkana.com/BMS/G2R2018/punaipunai_senso_100.zip",
+      "url_diff" : "http://bms.parksulab.xyz",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "tarolabo obj:七海千秋",
       "comment" : "tarolabo好き (ギアチェン可能)",
       "level" : "3",
@@ -204,56 +187,6 @@
       "voteYes" : 1
    },
    {
-      "artist" : "music:litmus* / bms: :Poin7less movie:directed by litmus* / obj.hex",
-      "comment" : "ガチ押し",
-      "level" : "1",
-      "md5" : "b2f494e41d3cfa8cee92a52e720dd848",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "980787f1e8a6c08d0369ca8fea1245632692476ca3b636c279d2e076cd3dc403",
-      "submission" : 976,
-      "title" : "Flashdance [Hexagon]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=123",
-      "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 5
-   },
-   {
-      "artist" : "TCN180 (DJ TECHNORCH) / selene.",
-      "comment" : "無名戦4 連打混じり物量",
-      "level" : "3",
-      "md5" : "bd6d3fe0e349cf68d2f59645a6c89d01",
-      "proposer" : "otoshi.b",
-      "proposerLr2id" : 87474,
-      "sha256" : "a3099d7135f1a6852052f2b4857361fa84309535eca59faf46e2114c5e943cf0",
-      "submission" : 972,
-      "title" : "Gothic System -Genocide-",
-      "url" : "https://mega.nz/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA!ENcwFKTA",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03129",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 4
-   },
-   {
-      "artist" : "Mastermind(xi+nora2r) iimo / obj:秘密",
-      "level" : "0",
-      "md5" : "be5427805ff3d464a8b8ebcb5e9381df",
-      "proposer" : "Thaw",
-      "proposerLr2id" : 145739,
-      "sha256" : "4aeeb65b2b0ab03b6c04b63a1f06ad175ed5e1e768ceca8c6bd18d891529edba",
-      "submission" : 974,
-      "title" : "Dreadnought [LastMoment]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=410&event=104",
-      "url_diff" : "http://hiiiii.web.fc2.com/sabun/",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 6
-   },
-   {
       "artist" : "ROKINA / obj:スノート BGA:出前",
       "comment" : "3~4?",
       "level" : "3",
@@ -268,24 +201,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
-   },
-   {
-      "artist" : "3034 obj:スノート",
-      "comment" : "高速",
-      "level" : "2",
-      "md5" : "dc0c62e5c809c1a75460edb5f4640006",
-      "proposer" : "MiRa",
-      "proposerLr2id" : 121881,
-      "sha256" : "7a3cbd82f7e33addf20d7d2ca8041a5b659e636b9d68956fbd50368c1ac4fdff",
-      "submission" : 977,
-      "title" : "NS22 [Snother]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=214&event=74",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03168",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 5
    },
    {
       "artist" : "Cataclysmic Order / O BGI:FARNA",
@@ -301,7 +217,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03184",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 3
    }
 ]
