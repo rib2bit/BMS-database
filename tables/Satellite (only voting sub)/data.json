@@ -34,6 +34,23 @@
       "voteYes" : 8
    },
    {
+      "artist" : "saaa BGA : 空読無 白眼",
+      "comment" : "第二回BMS衆議院選、連打、いろいろ、わかる",
+      "level" : "3",
+      "md5" : "07bdaf0e10d28457e899c3569fdc82d1",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "28b1cdea61c2df2c8eeebd0db599573b41a8967dc01ece3f4bb87d8717db635a",
+      "submission" : 1036,
+      "title" : "HARDCORE UNDERSTAND [ANOTHER]",
+      "url" : "https://venue.bmssearch.net/bmsshuin2/15",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 4
+   },
+   {
       "artist" : "削除 / うまい棒 / 差分 赤い人",
       "comment" : "乱打",
       "level" : "9",
@@ -48,7 +65,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
+   },
+   {
+      "artist" : "kooridori BGA:SELDO",
+      "comment" : "第二回BMS衆議院選、ズレ、連打、LNあり、トリル",
+      "level" : "0",
+      "md5" : "0d25ec28b94dba8a6d70380ee3f8f26b",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "b2b18c6629c7624966e64defe875a17da1bb71e1b5e21dda92e92fc2560c0f6a",
+      "submission" : 1035,
+      "title" : "Happy Blazing Summer!!!",
+      "url" : "https://venue.bmssearch.net/bmsshuin2/39",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "87.50",
+      "voteYes" : 3
    },
    {
       "artist" : "空読無 白眼 obj : Sakamiya",
@@ -82,7 +116,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
+      "voteYes" : 10
    },
    {
       "artist" : "Omnipotenx / obj:秘密",
@@ -131,8 +165,8 @@
       "url_diff" : "http://moriosabun.digi2.jp/",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "71.43",
-      "voteYes" : 4
+      "votePercent" : "75.00",
+      "voteYes" : 5
    },
    {
       "artist" : "NASA obj:rebel.",
@@ -148,8 +182,25 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03178",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 3
+   },
+   {
+      "artist" : "Kankitsu",
+      "comment" : "第二回BMS衆議院選、地力、夏",
+      "level" : "3",
+      "md5" : "523835bc67ef5bc9bb6f19a61fbea7ab",
+      "proposer" : "STANK!",
+      "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
+      "sha256" : "be1f474b1407e8fdcb50bf37405260294b4a686d632327ad75724c19475a305f",
+      "submission" : 1037,
+      "title" : "Breeze [BITTER7]",
+      "url" : "https://venue.bmssearch.net/bmsshuin2/92",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 4
    },
    {
       "artist" : "Nota obj:Nakaith",
@@ -166,7 +217,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 7
    },
    {
       "artist" : "Frums / obj :Lennon",
@@ -184,6 +235,23 @@
       "voteNo" : 0,
       "votePercent" : "93.75",
       "voteYes" : 7
+   },
+   {
+      "artist" : "LeaF Movie:Optie&Fiz/obj:赤い人",
+      "comment" : "前半微連打交じり・後半ズレ複合乱打　ムービー閲覧注意",
+      "level" : "8",
+      "md5" : "6273dd7ff6f719b5267b67a2826b69bd",
+      "proposer" : "selene.",
+      "proposerLr2id" : 84521,
+      "sha256" : "e71881551939522b01c6ebea0234c0d02f21dc5a954842039f9f4a578b43c1c7",
+      "submission" : 1039,
+      "title" : "MARENOL [HARDEST]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=370&event=123",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/MARENOL_HARDEST.bms",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "eoll obj.にゃむ",
@@ -216,8 +284,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 4
+      "votePercent" : "85.71",
+      "voteYes" : 5
    },
    {
       "artist" : "sukuramu42 Illust:恋々 / selene.",
@@ -235,6 +303,23 @@
       "voteNo" : 0,
       "votePercent" : "93.75",
       "voteYes" : 7
+   },
+   {
+      "artist" : "Lime / Frantzz / 制限",
+      "comment" : "4～5?",
+      "level" : "5",
+      "md5" : "906ea3be1e23273830fe5a1405200e52",
+      "proposer" : "selene.",
+      "proposerLr2id" : 84521,
+      "sha256" : "b693f0d70eec8c75c098d9b322f9f5d865dd5a567f62589d0e989a62e524fdbd",
+      "submission" : 1040,
+      "title" : "8bit Adventurer",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=444&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02946",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "HyuN feat. Machina obj. 35",
@@ -299,7 +384,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03191",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "91.67",
+      "votePercent" : "85.71",
       "voteYes" : 5
    },
    {
@@ -337,6 +422,23 @@
       "voteYes" : 7
    },
    {
+      "artist" : "Qayo feat.美島愛音 mov:140/fth",
+      "comment" : "第二回BMS衆議院選、地力",
+      "level" : "1",
+      "md5" : "d193fc202d138cde3b270a4331ae2fd1",
+      "proposer" : "STANK!",
+      "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
+      "sha256" : "bae0dc8b5ab440093bcdc1cf9f4158173d05d3915fa9de59eda0b219d1c7913c",
+      "submission" : 1038,
+      "title" : "Repeat⇔Again [SP DEFEATED]",
+      "url" : "https://venue.bmssearch.net/bmsshuin2/34",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 3
+   },
+   {
       "artist" : "Lunatic Sounds / Yusi. obj.B_K",
       "comment" : "物量・連皿・微ソフラン有",
       "level" : "3",
@@ -366,8 +468,8 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/Exodus-HARDEST.bme",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "85.71",
-      "voteYes" : 6
+      "votePercent" : "87.50",
+      "voteYes" : 7
    },
    {
       "artist" : "Ras obj:YOURI",
