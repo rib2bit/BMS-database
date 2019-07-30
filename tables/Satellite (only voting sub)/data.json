@@ -47,8 +47,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 4
+      "votePercent" : "91.67",
+      "voteYes" : 5
    },
    {
       "artist" : "削除 / うまい棒 / 差分 赤い人",
@@ -81,8 +81,25 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 3
+      "votePercent" : "90.00",
+      "voteYes" : 4
+   },
+   {
+      "artist" : "Blue-J obj: qtp13",
+      "comment" : "drrrr (Total fix ver)",
+      "level" : "12",
+      "md5" : "12c8cc2a341b37d7e8a4b20f2f42da2a",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "4f09c50b9022aefcdce85c96bfb8cf8caca54e9af0e56105767636666bf7ccab",
+      "submission" : 1041,
+      "title" : "Cynical [drrrr]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=248&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02699",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "空読無 白眼 obj : Sakamiya",
@@ -200,7 +217,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "Nota obj:Nakaith",
@@ -231,9 +248,9 @@
       "title" : "Wavetapper [ATHLETIC]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=142&event=104",
       "url_diff" : "http://gnqg.rosx.net/upload/",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "93.75",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "83.33",
       "voteYes" : 7
    },
    {
@@ -436,7 +453,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 5
    },
    {
       "artist" : "Lunatic Sounds / Yusi. obj.B_K",
