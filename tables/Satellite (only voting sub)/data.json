@@ -81,8 +81,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 4
+      "votePercent" : "92.86",
+      "voteYes" : 6
    },
    {
       "artist" : "Blue-J obj: qtp13",
@@ -98,7 +98,24 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02699",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "33.33",
+      "votePercent" : "50.00",
+      "voteYes" : 2
+   },
+   {
+      "artist" : "8284 / 差分 赤い人",
+      "comment" : "★10強化版",
+      "level" : "9",
+      "md5" : "24c869a51384af113e9271a766e7d4be",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "b939769e1b8bf04a83b7bbd8935cbdb9a64cc3fe30e5159fb9ff77e106a7fb6a",
+      "submission" : 1042,
+      "title" : "Central Nucleus [INFERNO]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=231&event=83",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/CentralNucleus-INFERNO.bme",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
       "voteYes" : 1
    },
    {
@@ -217,7 +234,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "Nota obj:Nakaith",
@@ -453,7 +470,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "Lunatic Sounds / Yusi. obj.B_K",
@@ -504,5 +521,22 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 11
+   },
+   {
+      "artist" : "kooridori obj.rat BGA:SELDO",
+      "comment" : "第二回BMS修議員選",
+      "level" : "5",
+      "md5" : "ec5c3ead989b5c4566dde13d913eb076",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "79f63775f7e248589baf346bdc2b4d233c20bf8e7d482792259f988ecfe353d3",
+      "submission" : 1043,
+      "title" : "Happy Blazing Summer!!! [INSANE]",
+      "url" : "https://venue.bmssearch.net/bmsshuin2/39",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    }
 ]
