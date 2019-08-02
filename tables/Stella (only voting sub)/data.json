@@ -13,8 +13,8 @@
       "url_diff" : "http://sabosabun.tank.jp/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "ルゼ ☆ えみゅう。 ☆ 石王マサト ★ UnK-now/37X",
@@ -235,6 +235,6 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    }
 ]

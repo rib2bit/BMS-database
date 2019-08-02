@@ -115,8 +115,8 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/CentralNucleus-INFERNO.bme",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "83.33",
+      "voteYes" : 2
    },
    {
       "artist" : "空読無 白眼 obj : Sakamiya",
@@ -153,23 +153,6 @@
       "voteYes" : 10
    },
    {
-      "artist" : "Omnipotenx / obj:秘密",
-      "comment" : "乱打　アへ顔",
-      "level" : "8",
-      "md5" : "3e607e060c6812c48d4a5b3289ba397a",
-      "proposer" : "Thaw",
-      "proposerLr2id" : 145739,
-      "sha256" : "7c0ec7e81cecc364a7182a1bdd833c83d8e00f12917f7f752288bafa34e4d5b4",
-      "submission" : 1011,
-      "title" : "PEACE BREAKER [アヘ顔ダブルピ～ス]",
-      "url" : "http://skydrive.live.com/?cid=d34bfc70cbe5e695&sc=documents&uc=1&id=D34BFC70CBE5E695!103",
-      "url_diff" : "http://www.geocities.jp/hihihi4442/hakkyou.html",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "72.22",
-      "voteYes" : 5
-   },
-   {
       "artist" : "eoll / obj:nov Visual : HEART OF MIND  Sequence : hi-low",
       "comment" : "NORMAL判定",
       "level" : "9",
@@ -196,7 +179,7 @@
       "submission" : 1021,
       "title" : "Cinderella Story -morither-",
       "url" : "https://mega.nz/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA",
-      "url_diff" : "http://moriosabun.digi2.jp/",
+      "url_diff" : "http://moriosabun.zouri.jp/",
       "voteNeutral" : 1,
       "voteNo" : 1,
       "votePercent" : "75.00",
@@ -282,9 +265,9 @@
       "title" : "MARENOL [HARDEST]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=370&event=123",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/MARENOL_HARDEST.bms",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "75.00",
       "voteYes" : 3
    },
    {
@@ -354,23 +337,6 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 3
-   },
-   {
-      "artist" : "HyuN feat. Machina obj. 35",
-      "comment" : "軸",
-      "level" : "2",
-      "md5" : "97825fd6fd47d8feef109bfc49ee377c",
-      "proposer" : "Yaksa",
-      "proposerLr2id" : 146592,
-      "sha256" : "d2606901bd9ed8bad7bf654ca9428fd451a79da5f2165a3f805f0149564e18f3",
-      "submission" : 973,
-      "title" : "繧｢繧ｹ縺ｯ髮ｨ縺梧ｭ｢繧",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=161&event=116",
-      "url_diff" : "",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "76.92",
-      "voteYes" : 8
    },
    {
       "artist" : "Lafale",
@@ -521,22 +487,5 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 11
-   },
-   {
-      "artist" : "kooridori obj.rat BGA:SELDO",
-      "comment" : "第二回BMS修議員選",
-      "level" : "5",
-      "md5" : "ec5c3ead989b5c4566dde13d913eb076",
-      "proposer" : "氷城つるぎ",
-      "proposerLr2id" : 151185,
-      "sha256" : "79f63775f7e248589baf346bdc2b4d233c20bf8e7d482792259f988ecfe353d3",
-      "submission" : 1043,
-      "title" : "Happy Blazing Summer!!! [INSANE]",
-      "url" : "https://venue.bmssearch.net/bmsshuin2/39",
-      "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
    }
 ]
