@@ -11121,6 +11121,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Blue-J vs. Ruby.G / obj : litmus*",
+      "comment" : "トリルとかゴミ付き階段のラス殺しとか",
+      "level" : "0",
+      "md5" : "b37a021ef608260fd4dfd6c43717d044",
+      "proposer" : "moai",
+      "proposerLr2id" : 89156,
+      "sha256" : "d4b4b3dd9cca39c1288b8962f52c6b06693f5a4aa8af937c36cf04ec3eea78c3",
+      "submission" : 1046,
+      "title" : "Unexpected Encounter [7-Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=40&event=89",
+      "url_diff" : "https://web.archive.org/web/*/http://www.aleibar.net/public/tukiyama/A9Ssabun.zip"
+   },
+   {
       "artist" : "flicknote vocals: MindaRyn / obj: Dolphin",
       "comment" : "微ソフラン",
       "level" : "3",
@@ -11295,6 +11308,18 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "SHIKI obj.quad",
+      "level" : "8",
+      "md5" : "b5c3435dfe453527dc9dbbd5ff45a347",
+      "proposer" : "''",
+      "proposerLr2id" : 86456,
+      "sha256" : "ca3d4bb955f0a333d07b65180dfa37b4245e713cba0968aa98e80586231699bc",
+      "submission" : 1045,
+      "title" : "Metatron [MANIAC]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=146&event=104",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03217"
    },
    {
       "artist" : "ginkiha / obj:夢瑠",
