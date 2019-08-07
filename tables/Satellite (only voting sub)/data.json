@@ -47,8 +47,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 8
+      "votePercent" : "90.91",
+      "voteYes" : 9
    },
    {
       "artist" : "削除 / うまい棒 / 差分 赤い人",
@@ -62,9 +62,9 @@
       "title" : "Kronos [HARDEST]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=374&event=83",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/kronos-HARDEST.bms",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "90.00",
       "voteYes" : 9
    },
    {
@@ -98,8 +98,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02699",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "50.00",
-      "voteYes" : 2
+      "votePercent" : "60.00",
+      "voteYes" : 3
    },
    {
       "artist" : "8284 / 差分 赤い人",
@@ -115,8 +115,8 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/CentralNucleus-INFERNO.bme",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 3
+      "votePercent" : "90.00",
+      "voteYes" : 4
    },
    {
       "artist" : "空読無 白眼 obj : Sakamiya",
@@ -200,7 +200,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
+   },
+   {
+      "artist" : "Nameless14 Sound Team \"alfear vs crim\" obj:SUZUKAZEΛ",
+      "comment" : "無名戦対抗戦",
+      "level" : "2",
+      "md5" : "4dae609e5f8eca718e30110d582fe268",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "a224d7ff4ba8eb56e7aa72ad5e37b2d1be6f8e85d0b17d1db951519ce6f6e059",
+      "submission" : 1047,
+      "title" : "リリカと魔法の言葉 [ZOI]",
+      "url" : "https://event.yaruki0.net/VSevent/impression/46",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "Kankitsu",
@@ -267,8 +284,8 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/MARENOL_HARDEST.bms",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "80.00",
-      "voteYes" : 4
+      "votePercent" : "78.57",
+      "voteYes" : 5
    },
    {
       "artist" : "eoll obj.にゃむ",
@@ -301,8 +318,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "85.00",
-      "voteYes" : 7
+      "votePercent" : "86.36",
+      "voteYes" : 8
    },
    {
       "artist" : "sukuramu42 Illust:恋々 / selene.",
@@ -336,7 +353,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 9
    },
    {
       "artist" : "Lafale",
@@ -416,10 +433,10 @@
       "title" : "Unexpected Encounter [7-Another]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=40&event=89",
       "url_diff" : "https://web.archive.org/web/*/http://www.aleibar.net/public/tukiyama/A9Ssabun.zip",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "75.00",
+      "voteYes" : 3
    },
    {
       "artist" : "SHIKI obj.quad",
@@ -434,8 +451,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03217",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "しも fw. hapi⇒ / obj:ELIGOS",
@@ -449,9 +466,9 @@
       "title" : "風の塔 [7KEYS ELITHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=198&event=74",
       "url_diff" : "http://onedrive.live.com/?cid=61A880DFE4F9DE2D&id=61A880DFE4F9DE2D%21105",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "90.00",
       "voteYes" : 9
    },
    {
