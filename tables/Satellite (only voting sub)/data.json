@@ -13,8 +13,8 @@
       "url_diff" : "https://www.dropbox.com/s/asthwvczq8x1ncw/7nanami03.bml?dl=0",
       "voteNeutral" : 3,
       "voteNo" : 3,
-      "votePercent" : "78.57",
-      "voteYes" : 11
+      "votePercent" : "80.00",
+      "voteYes" : 12
    },
    {
       "artist" : "NA7+OMI-",
@@ -30,8 +30,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.45",
-      "voteYes" : 10
+      "votePercent" : "95.83",
+      "voteYes" : 11
    },
    {
       "artist" : "saaa BGA : 空読無 白眼",
@@ -64,8 +64,8 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/kronos-HARDEST.bms",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "90.00",
-      "voteYes" : 9
+      "votePercent" : "90.91",
+      "voteYes" : 10
    },
    {
       "artist" : "kooridori BGA:SELDO",
@@ -96,9 +96,9 @@
       "title" : "Cynical [drrrr]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=248&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02699",
-      "voteNeutral" : 2,
-      "voteNo" : 2,
-      "votePercent" : "60.00",
+      "voteNeutral" : 3,
+      "voteNo" : 3,
+      "votePercent" : "50.00",
       "voteYes" : 3
    },
    {
@@ -115,8 +115,8 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/CentralNucleus-INFERNO.bme",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 4
+      "votePercent" : "91.67",
+      "voteYes" : 5
    },
    {
       "artist" : "空読無 白眼 obj : Sakamiya",
@@ -200,7 +200,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 8
    },
    {
       "artist" : "Nameless14 Sound Team \"alfear vs crim\" obj:SUZUKAZEΛ",
@@ -284,8 +284,8 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/MARENOL_HARDEST.bms",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "78.57",
-      "voteYes" : 5
+      "votePercent" : "83.33",
+      "voteYes" : 7
    },
    {
       "artist" : "eoll obj.にゃむ",
@@ -301,8 +301,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02870",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.00",
-      "voteYes" : 9
+      "votePercent" : "95.45",
+      "voteYes" : 10
    },
    {
       "artist" : "siromaru + cranky // movie: iimo // obj:SUZUKAZEΛ",
@@ -320,6 +320,23 @@
       "voteNo" : 0,
       "votePercent" : "86.36",
       "voteYes" : 8
+   },
+   {
+      "artist" : "Sound Souler / のの",
+      "comment" : "低速",
+      "level" : "1",
+      "md5" : "6c659c70972f34e0bc2f5dff7a178ee9",
+      "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
+      "sha256" : "f60749400471f3d2a8cb88dbe66719464a81ff25b195ad5109ef45312cb4820a",
+      "submission" : 1049,
+      "title" : "Bubble Flower [Etude]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=123",
+      "url_diff" : "http://bms.parksulab.xyz",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "sukuramu42 Illust:恋々 / selene.",
@@ -353,7 +370,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
+      "voteYes" : 10
    },
    {
       "artist" : "Lafale",
@@ -470,6 +487,22 @@
       "voteNo" : 1,
       "votePercent" : "90.00",
       "voteYes" : 9
+   },
+   {
+      "artist" : "witch's slave",
+      "level" : "8",
+      "md5" : "c8b995f79cbfded6a80d830148fa0626",
+      "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
+      "sha256" : "c0e088fbf813002446a3e10c8470072306f012994ca41233a3002ae375203c86",
+      "submission" : 1048,
+      "title" : "disperagioia [†]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=366&event=116",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "Qayo feat.美島愛音 mov:140/fth",

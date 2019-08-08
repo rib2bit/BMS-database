@@ -6694,6 +6694,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Sound Souler / のの",
+      "comment" : "低速",
+      "level" : "1",
+      "md5" : "6c659c70972f34e0bc2f5dff7a178ee9",
+      "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
+      "sha256" : "f60749400471f3d2a8cb88dbe66719464a81ff25b195ad5109ef45312cb4820a",
+      "submission" : 1049,
+      "title" : "Bubble Flower [Etude]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=123",
+      "url_diff" : "http://bms.parksulab.xyz"
+   },
+   {
       "artist" : "nmk feat.橘花音 / obj:十六夜 BGA:わっふゑ",
       "comment" : "sl1~2?",
       "level" : "3",
@@ -12755,6 +12768,18 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "witch's slave",
+      "level" : "8",
+      "md5" : "c8b995f79cbfded6a80d830148fa0626",
+      "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
+      "sha256" : "c0e088fbf813002446a3e10c8470072306f012994ca41233a3002ae375203c86",
+      "submission" : 1048,
+      "title" : "disperagioia [†]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=366&event=116",
+      "url_diff" : ""
    },
    {
       "artist" : "Gazan (obj.TARO)",
