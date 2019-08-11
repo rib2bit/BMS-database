@@ -5942,6 +5942,18 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
    },
    {
+      "artist" : "立秋 feat.ちょこ / И",
+      "comment" : "9~10?",
+      "level" : "10",
+      "md5" : "b2a1915cbb9954007c6adeea97c12330",
+      "proposer" : "MineC24",
+      "sha256" : "f9aaf39e7895dea08f21a4cb0a92224396accdadd4714e3814fbfbc3d3012077",
+      "submission" : 981,
+      "title" : "プナイプナイせんそう",
+      "url" : "http://halkana.com/BMS/G2R2018/punaipunai_senso_100.zip",
+      "url_diff" : "http://bms.parksulab.xyz"
+   },
+   {
       "artist" : "music:litmus* / bms: :Poin7less movie:directed by litmus* / obj.hex",
       "comment" : "ガチ押し",
       "level" : "1",
@@ -6853,7 +6865,7 @@
    {
       "artist" : "SHIKI / obj:DDX",
       "comment" : "HAPPY",
-      "level" : "2",
+      "level" : "3",
       "md5" : "d012f9fbe125aa49e48755ea4fbbb1db",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,
@@ -8027,6 +8039,18 @@
       "title" : "ZERODAY [Heartbleed]",
       "url" : "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=51",
       "url_diff" : "http://lapisbms.web.fc2.com/"
+   },
+   {
+      "artist" : "Cataclysmic Order / O BGI:FARNA",
+      "comment" : "物量　ディレイ発狂",
+      "level" : "6",
+      "md5" : "efeac2a980d65ef6afb2e4e654a0e94b",
+      "proposer" : "otoshi.b",
+      "sha256" : "122375d32b53e4796b442086cfcd207c0862e8594ba880e66a239adb74fe5d11",
+      "submission" : 979,
+      "title" : "VENDeTTA [AlterEgo]",
+      "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/21/",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03184"
    },
    {
       "artist" : "さかみりと img:しぐれぷに子",

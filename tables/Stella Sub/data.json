@@ -4884,6 +4884,19 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03064"
    },
    {
+      "artist" : "Chino / obj;NoName",
+      "comment" : "0~1?",
+      "level" : "1",
+      "md5" : "518c27df28b90cc4043961b295f3a477",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "da3ef1dd6e7f52e1521c3d08b549d16666f340894afc1acc764f2bd551fda879",
+      "submission" : 984,
+      "title" : "Espresso Shots (ぴょんぴょん)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=96",
+      "url_diff" : "http://kanki2.net/bme.html"
+   },
+   {
       "artist" : "Ras obj.hex",
       "comment" : "連打複合",
       "level" : "4",
@@ -10080,7 +10093,7 @@
    {
       "artist" : "立秋 feat.ちょこ / И",
       "comment" : "9~10?",
-      "level" : "9",
+      "level" : "10",
       "md5" : "b2a1915cbb9954007c6adeea97c12330",
       "proposer" : "MineC24",
       "proposerLr2id" : 84597,
@@ -11730,7 +11743,7 @@
    {
       "artist" : "SHIKI / obj:DDX",
       "comment" : "HAPPY",
-      "level" : "2",
+      "level" : "3",
       "md5" : "d012f9fbe125aa49e48755ea4fbbb1db",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,
@@ -13205,6 +13218,19 @@
       "url_diff" : "http://kusaiseiryu.web.fc2.com/doblestairs.html"
    },
    {
+      "artist" : "裏 吉 川 / 3-1-2-1",
+      "comment" : "aci-l delay",
+      "level" : "6",
+      "md5" : "ea77870ae98cbb7f6ed6d1d55c32615b",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "6a99de5dd828757d44f099370bedf83da061e5452271784d75688872b529a858",
+      "submission" : 983,
+      "title" : "A c i - L - 3 2 E X T",
+      "url" : "http://malie.noor.jp/",
+      "url_diff" : "http://goo.gl/XbR1N"
+   },
+   {
       "artist" : "2TORI obj:Monsta",
       "comment" : "",
       "level" : "10",
@@ -13802,6 +13828,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Jun Kuroda obj:Omino",
+      "comment" : "drrrrrrrr",
+      "level" : "9",
+      "md5" : "f5ab931263d62a063b1bce32bfae492d",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "9eb00e80eb6568c79fa8e4a8c44fe2669565215700aebf068f8b8ca0dca268b2",
+      "submission" : 985,
+      "title" : "Terpsichore [Other]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=101",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03246"
    },
    {
       "artist" : "NIKITA / obj:BAECON",

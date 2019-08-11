@@ -885,6 +885,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "アクジ / obj:morio OBJ: Morio",
+      "comment" : "sl?",
+      "level" : "5",
+      "md5" : "0b4058268c2f96600906b3a9dfa4d1c3",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "a7ec6d08f027dbfa34c860e23e22a819443af776af66f369a78be201d096b39c",
+      "submission" : 1053,
+      "title" : "BAD NEWS  [Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=95",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Lian",
       "comment" : "BMSをいっぱい作る2019、乱打",
       "level" : "6",
@@ -4937,6 +4950,19 @@
       "title" : "Lots Of Spices [甘口]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=440&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02980"
+   },
+   {
+      "artist" : "P4koo obj:Lorse",
+      "comment" : "4~5?",
+      "level" : "4",
+      "md5" : "4f49e165b2222bab7afd1015c62f7940",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "71a405caf5145d32806e44c971e2f885b8d7068fa0b3ecf236d1e75bb718cef5",
+      "submission" : 1051,
+      "title" : "炎花 - flameflower - [ClimaX]",
+      "url" : "http://onedrive.live.com/?cid=C9FE89A646FB0230&id=C9FE89A646FB0230%21115",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00358"
    },
    {
       "artist" : "Irish Kappa BGA: Rinser obj:れもんるり",
@@ -10430,6 +10456,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "atomic sphere / obj.ctc",
+      "comment" : "ctcさんのキー音アレンジ",
+      "level" : "12",
+      "md5" : "ab27f7d4135b5437159c4027b473e959",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "59c02f7a01d78d866bca48e12915a5edfc8c3982664f3dc4ce2912d3bce81a0c",
+      "submission" : 1052,
+      "title" : "OMEGA IX ctcmix [Abusive]",
+      "url" : "http://onedrive.live.com/?cid=3FB27C3B8FE97CE4&id=3FB27C3B8FE97CE4%21107",
+      "url_diff" : "http://ctconnected.blog.fc2.com/blog-entry-1.html"
+   },
+   {
       "artist" : "ETIA. feat.Jenga jubeated",
       "comment" : "低速縦連",
       "level" : "1",
@@ -11099,6 +11138,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "mrt",
+      "comment" : "軸押し寄りの16分ガチ押し譜面",
+      "level" : "5",
+      "md5" : "b31259505ed8a18dd1e9be924308aa45",
+      "proposer" : "moai",
+      "proposerLr2id" : 89156,
+      "sha256" : "a475cdc12173604f950137ac49762c871bb131da9ed7c9ad1c4f560b130610fc",
+      "submission" : 1050,
+      "title" : "Term of Atrophy [ANOTHER]",
+      "url" : "https://venue.bmssearch.net/ippaitukuru2019/25",
+      "url_diff" : ""
+   },
+   {
       "artist" : "SHIKI",
       "comment" : "乱打",
       "level" : "7",
@@ -11149,7 +11201,7 @@
    {
       "artist" : "Blue-J vs. Ruby.G / obj : litmus*",
       "comment" : "トリルとかゴミ付き階段のラス殺しとか",
-      "level" : "0",
+      "level" : "1",
       "md5" : "b37a021ef608260fd4dfd6c43717d044",
       "proposer" : "moai",
       "proposerLr2id" : 89156,
@@ -11966,7 +12018,7 @@
    {
       "artist" : "Grand Thaw / obj:夢瑠",
       "comment" : "",
-      "level" : "4",
+      "level" : "3",
       "md5" : "bcdcd6bd60c82d2775cc2fa1a3263666",
       "proposer" : "椒図",
       "proposerLr2id" : 124809,
@@ -12020,6 +12072,19 @@
       "title" : "TURNDOWN [sLUNATIC]",
       "url" : "https://dropbox.bms.ms/u/63612044/TURNDOWN_bms.rar",
       "url_diff" : "http://swamelo.web.fc2.com/TURNDOWN_SLSL.bms"
+   },
+   {
+      "artist" : "DusK / И",
+      "comment" : "物量、皿複合",
+      "level" : "10",
+      "md5" : "bd4f6c35383bb1425da385ba12acfd5a",
+      "proposer" : "selene.",
+      "proposerLr2id" : 84521,
+      "sha256" : "8ab8094b60b1072701cff09b346699cde70c75888b5136198188163757671fbf",
+      "submission" : 1055,
+      "title" : "Daybreak [AM 6:00]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=152&event=116",
+      "url_diff" : "http://bms.parksulab.xyz"
    },
    {
       "artist" : "flicknote vocals: MindaRyn obj.quad",
@@ -13871,7 +13936,7 @@
    {
       "artist" : "Nardis OBJ : ランダマイザ",
       "comment" : "同時押し主体",
-      "level" : "2",
+      "level" : "3",
       "md5" : "db74f2fa8e093ff854f4d7c40226b4c8",
       "proposer" : "Mayuzumy",
       "proposerLr2id" : 88804,
@@ -15574,6 +15639,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "xi / zyx",
+      "comment" : "7～8?",
+      "level" : "7",
+      "md5" : "f632538b35942536319c1974f8a83bb6",
+      "proposer" : "selene.",
+      "proposerLr2id" : 84521,
+      "sha256" : "60c7e5821fac22214407c39bb1fa7903a4d85dea2c2e17ead431ffdbbcbec1b0",
+      "submission" : 1054,
+      "title" : "Ascension to Heaven [A-2]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=60",
+      "url_diff" : "http://absolute.pv.land.to/uploader/src/up2452.zip"
    },
    {
       "artist" : "Puru obj:Fendou",
