@@ -30,8 +30,8 @@
       "url_diff" : "http://kanki2.net/bme.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "3034 / obj.O",
@@ -64,8 +64,8 @@
       "url_diff" : "http://goo.gl/XbR1N",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "Jun Kuroda obj:Omino",
@@ -82,6 +82,6 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    }
 ]
