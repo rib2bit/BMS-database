@@ -31,7 +31,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "kooridori BGA:SELDO",
@@ -81,8 +81,8 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/CentralNucleus-INFERNO.bme",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "93.75",
-      "voteYes" : 7
+      "votePercent" : "94.44",
+      "voteYes" : 8
    },
    {
       "artist" : "空読無 白眼 obj : Sakamiya",
@@ -149,7 +149,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "Kankitsu",
@@ -315,10 +315,10 @@
       "title" : "OMEGA IX ctcmix [Abusive]",
       "url" : "http://onedrive.live.com/?cid=3FB27C3B8FE97CE4&id=3FB27C3B8FE97CE4%21107",
       "url_diff" : "http://ctconnected.blog.fc2.com/blog-entry-1.html",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "66.67",
+      "voteYes" : 2
    },
    {
       "artist" : "mrt",
@@ -335,7 +335,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "Blue-J vs. Ruby.G / obj : litmus*",
@@ -385,7 +385,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 5
    },
    {
       "artist" : "しも fw. hapi⇒ / obj:ELIGOS",
@@ -415,9 +415,9 @@
       "title" : "disperagioia [†]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=366&event=116",
       "url_diff" : "",
-      "voteNeutral" : 2,
-      "voteNo" : 2,
-      "votePercent" : "75.00",
+      "voteNeutral" : 3,
+      "voteNo" : 3,
+      "votePercent" : "66.67",
       "voteYes" : 6
    },
    {
@@ -466,9 +466,9 @@
       "title" : "Ascension to Heaven [A-2]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=60",
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up2452.zip",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "75.00",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "50.00",
       "voteYes" : 1
    }
 ]
