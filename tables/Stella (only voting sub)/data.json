@@ -45,10 +45,10 @@
       "title" : "自強號 -Monsther-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=395&event=88",
       "url_diff" : "http://3228monsta.web.fc2.com/",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "66.67",
-      "voteYes" : 2
+      "voteNeutral" : 2,
+      "voteNo" : 2,
+      "votePercent" : "71.43",
+      "voteYes" : 5
    },
    {
       "artist" : "3034 / obj.O",
@@ -66,6 +66,23 @@
       "voteNo" : 1,
       "votePercent" : "75.00",
       "voteYes" : 3
+   },
+   {
+      "artist" : "roop / И",
+      "comment" : "ガチ押し",
+      "level" : "3",
+      "md5" : "9a110d94d62a74daa5d503f5b0f0f17f",
+      "proposer" : "otoshi.b",
+      "proposerLr2id" : 87474,
+      "sha256" : "f5fea993bf837e96188fd4665d29d235609a2e3b44ec433ea16c9c69d8dbf0eb",
+      "submission" : 987,
+      "title" : "Chatblanc [La Scala]",
+      "url" : "http://web.archive.org/web/20141124133307/http://str3.org/data/roop/roop_chatblanc.zip",
+      "url_diff" : "http://bms.parksulab.xyz",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "裏 吉 川 / 3-1-2-1",
