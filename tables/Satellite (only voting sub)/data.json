@@ -149,7 +149,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "Kankitsu",
@@ -184,6 +184,23 @@
       "voteNo" : 0,
       "votePercent" : "95.00",
       "voteYes" : 9
+   },
+   {
+      "artist" : "ケドメ　絵/るい　歌/初音ミク　譜面/岡部うすにごり",
+      "comment" : "同時押し、軸、皿複合、低Total",
+      "level" : "3",
+      "md5" : "59e194aa018dedf38478c46d551ddfce",
+      "proposer" : "STANK!",
+      "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
+      "sha256" : "cce33e42dc65b8c7031672b0c57c9f5138c035c7d871528f72e6207abcb63b23",
+      "submission" : 1059,
+      "title" : "QTロジック [アンドロイドなのですし]",
+      "url" : "https://web.archive.org/web/20151030093456/http://mikihara.cheap.jp/bms/BOF2015/QTlogic_ogg.zip",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03265",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "LeaF Movie:Optie&Fiz/obj:赤い人",
@@ -271,6 +288,23 @@
       "voteYes" : 11
    },
    {
+      "artist" : "kohaxy",
+      "comment" : "第二回BMS衆議院選、縦連、トリル",
+      "level" : "0",
+      "md5" : "9215f56a012451d1e9b571060c0b9451",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "6469d642b66ebb6893140fae3083d760da9e728e392ae533342bef4bd588f107",
+      "submission" : 1056,
+      "title" : "Out Low",
+      "url" : "https://venue.bmssearch.net/bmsshuin2/60",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "kooridori obj:SUZUKAZEΛ",
       "comment" : "同時押し、皿絡み",
       "level" : "4",
@@ -302,6 +336,23 @@
       "voteNo" : 0,
       "votePercent" : "91.67",
       "voteYes" : 10
+   },
+   {
+      "artist" : "tdef movie: capitano",
+      "comment" : "第二回BMS衆議院選、連打、トリル",
+      "level" : "0",
+      "md5" : "a318c971ba1325aca2fc8167297aea76",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "80e56b591b47319100a2953fedfd1650bb66d758004bf23f05f895de5394867b",
+      "submission" : 1057,
+      "title" : "LOE4 Another",
+      "url" : "https://venue.bmssearch.net/bmsshuin2/33",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "atomic sphere / obj.ctc",
@@ -369,6 +420,23 @@
       "voteNo" : 0,
       "votePercent" : "92.86",
       "voteYes" : 6
+   },
+   {
+      "artist" : "unknown \"ω\" a.k.a. Nego_tiator obj. BK",
+      "comment" : "皿複合 sl3~sl4",
+      "level" : "3",
+      "md5" : "b9b13062afe60cf2e74313e2c2dcc19d",
+      "proposer" : "STANK!",
+      "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
+      "sha256" : "165717c163c70cc6f41914e00ab0d48d525b69fab1578a0c8b6664936f6532ef",
+      "submission" : 1058,
+      "title" : "THE PRANKSTER [Jabberwocky]",
+      "url" : "https://venue.bmssearch.net/bmsshuin2/81",
+      "url_diff" : "http://beatkim.web.fc2.com/insane.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "DusK / И",
