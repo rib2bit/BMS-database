@@ -13,8 +13,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 10
+      "votePercent" : "92.86",
+      "voteYes" : 12
    },
    {
       "artist" : "アクジ / obj:morio OBJ: Morio",
@@ -31,7 +31,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 7
    },
    {
       "artist" : "kooridori BGA:SELDO",
@@ -47,25 +47,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.83",
-      "voteYes" : 11
-   },
-   {
-      "artist" : "Blue-J obj: qtp13",
-      "comment" : "drrrr (Total fix ver)",
-      "level" : "12",
-      "md5" : "12c8cc2a341b37d7e8a4b20f2f42da2a",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "4f09c50b9022aefcdce85c96bfb8cf8caca54e9af0e56105767636666bf7ccab",
-      "submission" : 1041,
-      "title" : "Cynical [drrrr]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=248&event=116",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02699",
-      "voteNeutral" : 4,
-      "voteNo" : 4,
-      "votePercent" : "50.00",
-      "voteYes" : 4
+      "votePercent" : "96.88",
+      "voteYes" : 15
    },
    {
       "artist" : "8284 / 差分 赤い人",
@@ -85,39 +68,6 @@
       "voteYes" : 8
    },
    {
-      "artist" : "空読無 白眼 obj : Sakamiya",
-      "comment" : "無名戦対抗戦、微縦連、繰り返し",
-      "level" : "0",
-      "md5" : "39e76c36b87057c6820be8de2d147bc5",
-      "proposer" : "STANK!",
-      "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
-      "sha256" : "3a724729f33b12a1dd82c8ef623274faa41a8e5b6ae022ddd3d6a33c06840814",
-      "submission" : 1016,
-      "title" : "新いかBMSシRchHtりAnbkXyZしKKKKtTけどM早HamNsmL青白いSnPBpRssT常990 [7KEY ANOTHER]",
-      "url" : "https://event.yaruki0.net/VSevent/impression/6",
-      "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "88.46",
-      "voteYes" : 10
-   },
-   {
-      "artist" : "adumac / dp131 / obj:morio",
-      "level" : "5",
-      "md5" : "458b85143586b516a19e12db5f5d15ce",
-      "proposer" : "파이어",
-      "proposerLr2id" : 7290,
-      "sha256" : "65b84a921b554730bfd32d82e2d635342221558163b4bf45707290b6f49dd093",
-      "submission" : 1021,
-      "title" : "Cinderella Story -morither-",
-      "url" : "https://mega.nz/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA",
-      "url_diff" : "http://moriosabun.zouri.jp/",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "77.27",
-      "voteYes" : 7
-   },
-   {
       "artist" : "Nameless14 Sound Team \"alfear vs crim\" obj:SUZUKAZEΛ",
       "comment" : "無名戦対抗戦",
       "level" : "2",
@@ -132,7 +82,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 10
+      "voteYes" : 13
    },
    {
       "artist" : "P4koo obj:Lorse",
@@ -149,7 +99,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 8
    },
    {
       "artist" : "Kankitsu",
@@ -166,7 +116,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 12
+      "voteYes" : 13
    },
    {
       "artist" : "Nota obj:Nakaith",
@@ -182,7 +132,7 @@
       "url_diff" : "http://suna0bms.web.fc2.com/bmsabun.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.00",
+      "votePercent" : "90.91",
       "voteYes" : 9
    },
    {
@@ -199,8 +149,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03265",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 6
    },
    {
       "artist" : "LeaF Movie:Optie&Fiz/obj:赤い人",
@@ -218,23 +168,6 @@
       "voteNo" : 1,
       "votePercent" : "81.82",
       "voteYes" : 8
-   },
-   {
-      "artist" : "eoll obj.にゃむ",
-      "comment" : "LNある",
-      "level" : "1",
-      "md5" : "6452078bbc8398a8636d6334c5d6d467",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "e01adbb92caae851886ed2d7c553c89006857826048dc78133ef99be9261d67a",
-      "submission" : 1020,
-      "title" : "Love Like [a little]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=194&event=123",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02870",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "95.45",
-      "voteYes" : 10
    },
    {
       "artist" : "siromaru + cranky // movie: iimo // obj:SUZUKAZEΛ",
@@ -265,10 +198,10 @@
       "title" : "Bubble Flower [Etude]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=123",
       "url_diff" : "http://bms.parksulab.xyz",
-      "voteNeutral" : 3,
-      "voteNo" : 3,
+      "voteNeutral" : 5,
+      "voteNo" : 5,
       "votePercent" : "50.00",
-      "voteYes" : 3
+      "voteYes" : 5
    },
    {
       "artist" : "Lime / Frantzz / 制限",
@@ -285,7 +218,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 11
+      "voteYes" : 13
    },
    {
       "artist" : "kohaxy",
@@ -301,25 +234,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
-   },
-   {
-      "artist" : "kooridori obj:SUZUKAZEΛ",
-      "comment" : "同時押し、皿絡み",
-      "level" : "4",
-      "md5" : "9d2c7db55f2c89d036b3af04e0e1358d",
-      "proposer" : "STANK!",
-      "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
-      "sha256" : "c5a953f4af41ef5990177aa72cfcc62f3c1719fcf6c2d325ee921eb074f8bffa",
-      "submission" : 1017,
-      "title" : "overtime extremity [ZOI]",
-      "url" : "https://k-bms.com/party_pabat/party2019.jsp?board_num=19&num=35&order=reg&odtype=a",
-      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "87.50",
-      "voteYes" : 10
+      "votePercent" : "100.00",
+      "voteYes" : 7
    },
    {
       "artist" : "カラフル・サウンズ・ポート obj:Fendou",
@@ -334,8 +250,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03191",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 10
+      "votePercent" : "92.31",
+      "voteYes" : 11
    },
    {
       "artist" : "tdef movie: capitano",
@@ -349,10 +265,10 @@
       "title" : "LOE4 Another",
       "url" : "https://venue.bmssearch.net/bmsshuin2/33",
       "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "87.50",
+      "voteYes" : 7
    },
    {
       "artist" : "atomic sphere / obj.ctc",
@@ -366,10 +282,10 @@
       "title" : "OMEGA IX ctcmix [Abusive]",
       "url" : "http://onedrive.live.com/?cid=3FB27C3B8FE97CE4&id=3FB27C3B8FE97CE4%21107",
       "url_diff" : "http://ctconnected.blog.fc2.com/blog-entry-1.html",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "66.67",
-      "voteYes" : 2
+      "voteNeutral" : 2,
+      "voteNo" : 2,
+      "votePercent" : "60.00",
+      "voteYes" : 3
    },
    {
       "artist" : "mrt",
@@ -386,7 +302,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "Blue-J vs. Ruby.G / obj : litmus*",
@@ -402,8 +318,8 @@
       "url_diff" : "https://web.archive.org/web/*/http://www.aleibar.net/public/tukiyama/A9Ssabun.zip",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "66.67",
-      "voteYes" : 5
+      "votePercent" : "70.00",
+      "voteYes" : 6
    },
    {
       "artist" : "SHIKI obj.quad",
@@ -418,8 +334,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03217",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "92.86",
-      "voteYes" : 6
+      "votePercent" : "94.44",
+      "voteYes" : 8
    },
    {
       "artist" : "unknown \"ω\" a.k.a. Nego_tiator obj. BK",
@@ -435,8 +351,8 @@
       "url_diff" : "http://beatkim.web.fc2.com/insane.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "91.67",
+      "voteYes" : 5
    },
    {
       "artist" : "DusK / И",
@@ -453,7 +369,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "しも fw. hapi⇒ / obj:ELIGOS",
@@ -485,8 +401,8 @@
       "url_diff" : "",
       "voteNeutral" : 3,
       "voteNo" : 3,
-      "votePercent" : "66.67",
-      "voteYes" : 6
+      "votePercent" : "70.00",
+      "voteYes" : 7
    },
    {
       "artist" : "Qayo feat.美島愛音 mov:140/fth",
@@ -500,27 +416,10 @@
       "title" : "Repeat⇔Again [SP DEFEATED]",
       "url" : "https://venue.bmssearch.net/bmsshuin2/34",
       "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 12
-   },
-   {
-      "artist" : "Lunatic Sounds / Yusi. obj.B_K",
-      "comment" : "物量・連皿・微ソフラン有",
-      "level" : "3",
-      "md5" : "d30d511d9fce23c17d67759e9833d647",
-      "proposer" : "selene.",
-      "proposerLr2id" : 84521,
-      "sha256" : "dd7648d7c22e2dba08372d51687c4a705c6205ffefb0f1d365d54810908cec0f",
-      "submission" : 1024,
-      "title" : "ZERODAY [INSANE]",
-      "url" : "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=51",
-      "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "95.00",
-      "voteYes" : 9
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "93.33",
+      "voteYes" : 14
    },
    {
       "artist" : "xi / zyx",
@@ -536,7 +435,7 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up2452.zip",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "62.50",
+      "votePercent" : "60.00",
       "voteYes" : 2
    }
 ]
