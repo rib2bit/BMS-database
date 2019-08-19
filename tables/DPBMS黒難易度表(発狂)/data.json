@@ -1900,7 +1900,7 @@
       "name_diff" : "",
       "name_pack" : "無名戦対抗戦",
       "note" : "",
-      "state" : "1",
+      "state" : "0",
       "tag" : "★1中位～★2下位。桂馬多し。中盤の階段ラッシュが難所",
       "title" : "EMBRAVER [DP ANOTHER]",
       "total" : "",
@@ -2445,6 +2445,24 @@
       "title" : "La Fontaine [14key,Another]",
       "total" : "",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=304&event=104",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "Gatia",
+      "bmsid" : "272808",
+      "comment" : "同梱譜面",
+      "eval" : "0",
+      "judge" : "",
+      "level" : "2",
+      "md5" : "3e5da28edf93385c429808abec03896f",
+      "name_diff" : "",
+      "name_pack" : "無名戦対抗戦",
+      "note" : "",
+      "state" : "1",
+      "tag" : "★2下～中位。16分階段や同時押しの密度高め",
+      "title" : "Galaxy Landscape",
+      "total" : "",
+      "url" : "https://event.yaruki0.net/VSevent/impression/51",
       "url_diff" : ""
    },
    {
