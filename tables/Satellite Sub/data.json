@@ -887,7 +887,7 @@
    {
       "artist" : "アクジ / obj:morio OBJ: Morio",
       "comment" : "sl?",
-      "level" : "5",
+      "level" : "4",
       "md5" : "0b4058268c2f96600906b3a9dfa4d1c3",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -2291,7 +2291,7 @@
    {
       "artist" : "8284 / 差分 赤い人",
       "comment" : "★10強化版",
-      "level" : "9",
+      "level" : "10",
       "md5" : "24c869a51384af113e9271a766e7d4be",
       "proposer" : "氷城つるぎ",
       "proposerLr2id" : 151185,
@@ -3707,6 +3707,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "うまるつふり / selene.",
+      "comment" : "たのしい！",
+      "level" : "5",
+      "md5" : "3f053ac90522f242b5e503a8bea8ac16",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "9c6cdf4e1fe56e24f1fd5e0cfd517de8d3f8bdd6e0b1371555bf5243ad29cc9c",
+      "submission" : 1064,
+      "title" : "魂姫～たまひめ～ -狂-",
+      "url" : "https://venue.bmssearch.net/bmsshuin2/7",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03242"
+   },
+   {
       "artist" : "紅蓮月影 / OREN-G",
       "comment" : "The judgement is death",
       "level" : "9",
@@ -4954,7 +4967,7 @@
    {
       "artist" : "P4koo obj:Lorse",
       "comment" : "4~5?",
-      "level" : "4",
+      "level" : "5",
       "md5" : "4f49e165b2222bab7afd1015c62f7940",
       "proposer" : "MineC24",
       "proposerLr2id" : 84597,
@@ -6493,6 +6506,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "みーに feat. 初音ミク obj:Fendou",
+      "comment" : "ガチ押し",
+      "level" : "5",
+      "md5" : "6692336d013c16c438437e30b44f24af",
+      "proposer" : "Triforce",
+      "proposerLr2id" : 18553,
+      "sha256" : "41750fa6eed9bb5145975078c6eba4ea540d32fbf1125c80fd98d9b268ee63b2",
+      "submission" : 1062,
+      "title" : "五月雨に誓う [SP EX+]",
+      "url" : "https://drive.google.com/open?id=1WrtgLMU-Q65m2a-gJbmOHT7M4jkyZmEV",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03305"
+   },
+   {
       "artist" : "ak+q/obj:凩",
       "comment" : "階段　皿複合　中盤同時押し",
       "level" : "3",
@@ -6627,7 +6653,7 @@
    {
       "artist" : "siromaru + cranky // movie: iimo // obj:SUZUKAZEΛ",
       "comment" : "4連打ビームある",
-      "level" : "6",
+      "level" : "7",
       "md5" : "69d9fa0655fd12c8cfb3c736e9461c14",
       "proposer" : "MineC24",
       "proposerLr2id" : 84597,
@@ -7501,6 +7527,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Process 2.3.1. Obj.Triforce",
+      "comment" : "Chart Change",
+      "level" : "2",
+      "md5" : "79b8d5c5831fddd7ab84c8570e188bc7",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "409ef29f3efb2f14b7d7e39afe4ac4c0b5d708aeaeac34b8a236547c37d9e64c",
+      "submission" : 1060,
+      "title" : "チョウの標本 [Bullfighter]",
+      "url" : "http://web.archive.org/web/20030609160042/http://www3.ocn.ne.jp/~yosu/tyou.rar",
+      "url_diff" : "https://www.dropbox.com/s/wtpea1lvy5yjzf1/specimen_triforce_fix.bme?dl=1"
    },
    {
       "artist" : "tetorimino",
@@ -8945,6 +8984,19 @@
       "title" : "Out Low",
       "url" : "https://venue.bmssearch.net/bmsshuin2/60",
       "url_diff" : ""
+   },
+   {
+      "artist" : "incinerate obj:OK@GE",
+      "comment" : "高速。32分階段が頻発。後半は縦連がきつい配置。",
+      "level" : "6",
+      "md5" : "924f1d51851a2991722a042654d4ce09",
+      "proposer" : "DK",
+      "proposerLr2id" : 46697,
+      "sha256" : "71b7548e74fc9c75a7a9e14cd505f7bab33147826e81f01e1829f505fbfe3990",
+      "submission" : 1061,
+      "title" : "煉獄-Purgatorium- [ANOTHER--]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=172&event=74",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
    },
    {
       "artist" : "Team:SASAKURATION obj:C4",
@@ -11240,7 +11292,7 @@
    {
       "artist" : "Blue-J vs. Ruby.G / obj : litmus*",
       "comment" : "トリルとかゴミ付き階段のラス殺しとか",
-      "level" : "1",
+      "level" : "0",
       "md5" : "b37a021ef608260fd4dfd6c43717d044",
       "proposer" : "moai",
       "proposerLr2id" : 89156,
@@ -12128,7 +12180,7 @@
    {
       "artist" : "DusK / И",
       "comment" : "物量、皿複合",
-      "level" : "10",
+      "level" : "9",
       "md5" : "bd4f6c35383bb1425da385ba12acfd5a",
       "proposer" : "selene.",
       "proposerLr2id" : 84521,
@@ -12888,7 +12940,7 @@
    },
    {
       "artist" : "witch's slave",
-      "level" : "8",
+      "level" : "9",
       "md5" : "c8b995f79cbfded6a80d830148fa0626",
       "proposer" : "Haze*",
       "proposerLr2id" : 112076,
@@ -15721,6 +15773,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "LeaF × kana / obj:chack Movie:To7",
+      "comment" : "drrrr",
+      "level" : "6",
+      "md5" : "f77f591d575f2ad4aa7c1926d9f696e3",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "10212dd55b3feeee6a5197007e4abd82f5138484b7cae1f4beafcb84f05fe24e",
+      "submission" : 1063,
+      "title" : "◇スト [Tree]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/%e2%97%87%e3%82%b9%e3%83%88%20%5b%e3%81%88%e3%81%8b%e3%81%8d%e3%81%86%e3%81%9f%5d.rar",
+      "url_diff" : "http://chack3sabun.web.fc2.com/"
    },
    {
       "artist" : "LiA",
