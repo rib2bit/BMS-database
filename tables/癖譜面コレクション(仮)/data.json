@@ -167,7 +167,7 @@
    {
       "artist" : "うまるつふり",
       "comment" : "餡蜜と連打",
-      "level" : "24",
+      "level" : "17",
       "lr2_bmsid" : "147589",
       "md5" : "058c0bfa116a5ebd2f2216ac9a0f4460",
       "name_diff" : "同梱",
@@ -431,7 +431,7 @@
    {
       "artist" : "edit",
       "comment" : "皿複合",
-      "level" : "23",
+      "level" : "20",
       "lr2_bmsid" : "133791",
       "md5" : "0c2f12c52d53a1703fe2d5934aec07e0",
       "name_diff" : "同梱",
@@ -2260,7 +2260,7 @@
       "level" : "27",
       "lr2_bmsid" : "152718",
       "md5" : "3fb27a9ec531e0f6d66ed8dbeef03add",
-      "name_diff" : "同梱",
+      "name_diff" : "さ",
       "title" : "遠野幻想物語 (ANOTHER)",
       "url" : "https://onedrive.live.com/?authkey=%21AP6U9OvbXniz0G4&id=A972E7D14DCFAF93%21727&cid=A972E7D14DCFAF93",
       "url_diff" : "http://sabosabun.tank.jp/"
@@ -2323,7 +2323,7 @@
    {
       "artist" : "130",
       "comment" : "崩せない連打",
-      "level" : "16",
+      "level" : "8",
       "lr2_bmsid" : "141036",
       "md5" : "41a02faffd0fc52f8ea913fe3739798b",
       "name_diff" : "同梱",
@@ -2334,7 +2334,7 @@
    {
       "artist" : "LU",
       "comment" : "ベリハリズム難",
-      "level" : "55",
+      "level" : "54",
       "lr2_bmsid" : "22809",
       "md5" : "41c55205f8b79c3303c3a11173651876",
       "name_diff" : "同梱",
@@ -2673,6 +2673,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01180"
    },
    {
+      "artist" : "Yusuke Takeuchi",
+      "comment" : "7軸",
+      "level" : "9",
+      "lr2_bmsid" : "48877",
+      "md5" : "4c0d0a89ed624019cddeae8409acfa71",
+      "name_diff" : "同梱",
+      "title" : "evidence (ANOTHER)",
+      "url" : "http://web.archive.org/web/20120109085440/http://www.commonsense.nu/songs/evidence_hq.rar",
+      "url_diff" : ""
+   },
+   {
       "artist" : "WoUnD",
       "comment" : "ハード判定で早いトリルと階段と連打",
       "level" : "17",
@@ -2695,6 +2706,17 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Escid",
+      "comment" : "ソフランとLNとLN皿",
+      "level" : "5",
+      "lr2_bmsid" : "266322",
+      "md5" : "4dfffb90784b03c2d95edc445cf89254",
+      "name_diff" : "同梱",
+      "title" : "dotExecutable [SPA 10]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=100&event=123",
+      "url_diff" : ""
+   },
+   {
       "artist" : "singo",
       "comment" : "トリル",
       "level" : "5",
@@ -2703,6 +2725,17 @@
       "name_diff" : "同梱",
       "title" : "#0182 -ANOTHER-",
       "url" : "http://72mo471.web.fc2.com/bms/0182.rar",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "NASVINE",
+      "comment" : "軸乱打とソフラン",
+      "level" : "14",
+      "lr2_bmsid" : "266618",
+      "md5" : "4ec90d7c8ef6e214a9ac61a1d7073385",
+      "name_diff" : "同梱",
+      "title" : "ZИR∀ΣZ [∀ИФ†HΣR]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=53&event=123",
       "url_diff" : ""
    },
    {
@@ -2747,6 +2780,17 @@
       "name_diff" : "rat",
       "title" : "My Typical [rather]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=40&event=120",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "暮狛",
+      "comment" : "疑似低速と逆走",
+      "level" : "5",
+      "lr2_bmsid" : "274224",
+      "md5" : "5092b596f79561f476d68a90e437843e",
+      "name_diff" : "同梱",
+      "title" : "My Most Meddling Maker [Hyper]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=30&event=126",
       "url_diff" : ""
    },
    {
@@ -2803,6 +2847,39 @@
       "title" : "N - flat waves - [ANOTHER7]",
       "url" : "https://dropbox.bms.ms/u/28765267/er_N.zip",
       "url_diff" : ""
+   },
+   {
+      "artist" : "TKS",
+      "comment" : "ソフランと連打",
+      "level" : "23",
+      "lr2_bmsid" : "275703",
+      "md5" : "510c9e19f2de0a4b52682643616967ce",
+      "name_diff" : "同梱",
+      "title" : "for Virtuoso",
+      "url" : "https://drive.google.com/file/d/1GNNulpD8YbB4fCm7GhS_aMMV9TOauMY3/view",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "Yamajet",
+      "comment" : "トリル連打複合",
+      "level" : "53",
+      "lr2_bmsid" : "52600",
+      "md5" : "511b5e74ed1820b5e57ef41467f73264",
+      "name_diff" : "同梱",
+      "title" : "recombination (softlanding mix)",
+      "url" : "http://www.yamajet.com/music/list.html",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "tanacoro",
+      "comment" : "ソフランワープ地雷具現化",
+      "level" : "6",
+      "lr2_bmsid" : "258929",
+      "md5" : "51a91086bbf25cb202e7d90a90a96a23",
+      "name_diff" : "京都306号研究所",
+      "title" : "VISTA [cyberspace]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=116",
+      "url_diff" : "http://rattoto10.blog.fc2.com/blog-entry-3.html"
    },
    {
       "artist" : "31. Freestyle Team",
@@ -2882,6 +2959,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01409"
    },
    {
+      "artist" : "KidZ G",
+      "comment" : "トリル",
+      "level" : "11",
+      "lr2_bmsid" : "271331",
+      "md5" : "5372ef788d7776c727b6515d5d5db785",
+      "name_diff" : "同梱",
+      "title" : "Gone West <Seven Edit>",
+      "url" : "http://k-bms.com/party_pabat/party2019.jsp?board_num=19&num=4&order=reg&odtype=a",
+      "url_diff" : ""
+   },
+   {
       "artist" : "keyc",
       "comment" : "連打と皿",
       "level" : "23",
@@ -2901,6 +2989,17 @@
       "name_diff" : "同梱",
       "title" : "大都会partIII",
       "url" : "http://gensoukyousoukyoku.nekokan.dyndns.info/ndkbms-003/",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "暮狛",
+      "comment" : "予告と皿と同時押し",
+      "level" : "3",
+      "lr2_bmsid" : "261506",
+      "md5" : "540e61fcd20b7d74711ad3ddd7fbe6ec",
+      "name_diff" : "同梱",
+      "title" : "敵性夕立/鏡面海域 /Hard/",
+      "url" : "http://rattoto10.blog.fc2.com/blog-entry-3.html",
       "url_diff" : ""
    },
    {
@@ -2937,6 +3036,17 @@
       "url_diff" : "http://www.geocities.jp/azerty1s/"
    },
    {
+      "artist" : "cosmic",
+      "comment" : "ベリハ（リズムは簡単）",
+      "level" : "8",
+      "lr2_bmsid" : "269703",
+      "md5" : "54ce4219e7dabec232cf68e04864dec2",
+      "name_diff" : "Felisica",
+      "title" : "animalise add Percuss",
+      "url" : "https://mega.nz/#F!sZMTGZqZ!YZH2Xy6jBMMNl3MvQ_pp-A",
+      "url_diff" : "http://fuki1755.sitemix.jp/sabun/animalise_7fel.zip"
+   },
+   {
       "artist" : "cybermiso",
       "comment" : "ソフラン up1073",
       "level" : "12",
@@ -2946,6 +3056,17 @@
       "title" : "eccentric ghost channel as Poltergeist [Extra]",
       "url" : "https://dropbox.bms.ms/u/45360077/watasino_h0-mupe-ji.html",
       "url_diff" : "http://absolute.pv.land.to/uploader/all.html?1431014877"
+   },
+   {
+      "artist" : "LeCiel",
+      "comment" : "ごちゃごちゃしてる物量にLN",
+      "level" : "27",
+      "lr2_bmsid" : "271854",
+      "md5" : "55134507e6a6c8c5e8e134c9254f415d",
+      "name_diff" : "MAIN();",
+      "title" : "A letter to the asteroid [7K SHDMix]",
+      "url" : "https://k-bms.com/party_pabat/party2019.jsp?board_num=19&num=65&order=reg&odtype=a",
+      "url_diff" : ""
    },
    {
       "artist" : "美月 正",
@@ -2981,6 +3102,17 @@
       "url_diff" : ""
    },
    {
+      "artist" : "ワケアニ",
+      "comment" : "壁と連打複合",
+      "level" : "15",
+      "lr2_bmsid" : "202450",
+      "md5" : "563c07f114ab315ff6b21d6d33c80950",
+      "name_diff" : "???",
+      "title" : "うぉ～る☆くらっしゃ～2chu! [Wall Crasher_fix]",
+      "url" : "https://dropbox.bms.ms/u/31391977/wakeani_wall2_ogg.zip",
+      "url_diff" : "http://absolute.pv.land.to/bof/src/up0745.zip"
+   },
+   {
       "artist" : "EXCALIpUR (Remixed by sun3)",
       "comment" : "圧迫感",
       "level" : "4",
@@ -2989,6 +3121,17 @@
       "name_diff" : "同梱",
       "title" : "ネガイカナウヒカリ sun3 RMX [CHALLENGE:6.2T]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=258&event=74",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "Rayz_",
+      "comment" : "確定ダメージありベリハ疑似低速",
+      "level" : "54",
+      "lr2_bmsid" : "20715",
+      "md5" : "56e8a0928d21e0483c0e79513b30153f",
+      "name_diff" : "同梱",
+      "title" : "Endless Flow `07 Mixing 5 EventLine",
+      "url" : "http://web.archive.org/web/20140118122034/http://tpro.me/bms/3rd/ef07.exe",
       "url_diff" : ""
    },
    {
@@ -3001,6 +3144,17 @@
       "title" : "summerghost [rather]",
       "url" : "https://onedrive.live.com/?cid=2E0B6A331309387C&id=2E0B6A331309387C%21107",
       "url_diff" : "http://rattoto10.web.fc2.com/"
+   },
+   {
+      "artist" : "はがね",
+      "comment" : "カーテンと連打",
+      "level" : "6",
+      "lr2_bmsid" : "262420",
+      "md5" : "5749f68ff2ddf4ca0ce1ef3e00a65800",
+      "name_diff" : "にゃむ",
+      "title" : "&#43;84 [にゃむてる(り)]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=100&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01830"
    },
    {
       "artist" : "The Lovers",
@@ -3069,6 +3223,17 @@
       "url_diff" : ""
    },
    {
+      "artist" : "落雁",
+      "comment" : "辛判定LN低トータル",
+      "level" : "3",
+      "lr2_bmsid" : "246173",
+      "md5" : "5980c3f98451d71945058ea32e0d1df6",
+      "name_diff" : "同梱",
+      "title" : "望空楽急",
+      "url" : "http://fantasicnotes.net/",
+      "url_diff" : ""
+   },
+   {
       "artist" : "------",
       "comment" : "BlackLotus(Buffed)",
       "level" : "12",
@@ -3111,6 +3276,17 @@
       "title" : "絶望インジケータ [SHD]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=345&event=83",
       "url_diff" : "http://dl.dropbox.com/u/31329797/sabun/bof2012append.zip"
+   },
+   {
+      "artist" : "Flat:nique",
+      "comment" : "ラス殺し",
+      "level" : "7",
+      "lr2_bmsid" : "260440",
+      "md5" : "5a10a23a2e4bcf9a056d1f37e0e33281",
+      "name_diff" : "同梱",
+      "title" : "loligazou.zip [Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=120",
+      "url_diff" : ""
    },
    {
       "artist" : "Is-m",
@@ -3190,6 +3366,17 @@
       "url_diff" : ""
    },
    {
+      "artist" : "kinaphar",
+      "comment" : "超速トリル",
+      "level" : "23",
+      "lr2_bmsid" : "265727",
+      "md5" : "5cac5e27891b29f5e2bbcde7583796e5",
+      "name_diff" : "同梱",
+      "title" : "PICO PICO BEAM!!! †疑似和音チャレンジ†",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=68&event=123",
+      "url_diff" : ""
+   },
+   {
       "artist" : "wa. remixed celas",
       "comment" : "11連皿",
       "level" : "5",
@@ -3198,6 +3385,17 @@
       "name_diff" : "同梱",
       "title" : "銀の風 [HYPER]",
       "url" : "http://creation-records.info/bms.htm",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "P.E.",
+      "comment" : "連打",
+      "level" : "13",
+      "lr2_bmsid" : "101618",
+      "md5" : "5cdb402d94679db737696562be33b495",
+      "name_diff" : "同梱",
+      "title" : "Grid World [Another]",
+      "url" : "https://drive.google.com/file/d/16mo8K6LzlxE8WOStr44rCjdtNqVvnvZG/view?usp=sharing",
       "url_diff" : ""
    },
    {
@@ -3232,6 +3430,17 @@
       "title" : "Latch (Flip-Flop) [Another]",
       "url" : "http://k-bms.com/party_pabat/party2015.jsp?board_num=15&num=3&order=reg&odtype=a",
       "url_diff" : ""
+   },
+   {
+      "artist" : "scamp",
+      "comment" : "ハード判定連打複合",
+      "level" : "21",
+      "lr2_bmsid" : "269951",
+      "md5" : "5f0ebd17db644b2c8b0b15c10c9710da",
+      "name_diff" : "七海千秋",
+      "title" : "Trauma -vfpqxtxbrzpcracseh-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=86&event=123",
+      "url_diff" : "https://www.dropbox.com/s/0xzuukxps6i7xd3/Trauma_nanami01.bms?dl=0"
    },
    {
       "artist" : "sd5y",
@@ -3366,6 +3575,17 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Yoshitoshi Abo",
+      "comment" : "小節線とリズム難",
+      "level" : "5",
+      "lr2_bmsid" : "246270",
+      "md5" : "642e8446ea6bb88d3667d9e87c1f1353",
+      "name_diff" : "同梱",
+      "title" : "Keiren [7Keys]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=106&event=115",
+      "url_diff" : ""
+   },
+   {
       "artist" : "ROKINA",
       "comment" : "ソフランと総合力",
       "level" : "20",
@@ -3397,6 +3617,17 @@
       "title" : "Machine⊆Reverse-gender Machine⊇Reverse-gender [7A]",
       "url" : "http://www.mediafire.com/download/th60fhipcw4b0ao/Machine%E2%8A%86Reverse-gender+Machine%E2%8A%87Reverse-gender.zip",
       "url_diff" : "https://www.dropbox.com/s/tmjvebmc5wn9gr6/sabun_hokan.zip?dl=0"
+   },
+   {
+      "artist" : "gmtn.",
+      "comment" : "マラソンの後のラス殺し",
+      "level" : "16",
+      "lr2_bmsid" : "269036",
+      "md5" : "6534feb500f6148de789533db062cfd8",
+      "name_diff" : "同梱",
+      "title" : "鎖 -極-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=60&event=123",
+      "url_diff" : ""
    },
    {
       "artist" : "イズミケイ",
@@ -3553,6 +3784,17 @@
       "url_diff" : ""
    },
    {
+      "artist" : "fether",
+      "comment" : "歯抜けのある全押し餡蜜 up0278",
+      "level" : "17",
+      "lr2_bmsid" : "26677",
+      "md5" : "68ec204a90399ea64534effe5c920fb1",
+      "name_diff" : "???",
+      "title" : "happy core chocobo_X",
+      "url" : "https://fether.exblog.jp/",
+      "url_diff" : "http://absolute.pv.land.to/uploader/upload.html"
+   },
+   {
       "artist" : "Neun_jack",
       "comment" : "加速とラス殺し",
       "level" : "25",
@@ -3696,6 +3938,17 @@
       "url_diff" : "http://absolute.pv.land.to/longnote/all.html?1430902646"
    },
    {
+      "artist" : "O-SE",
+      "comment" : "加速",
+      "level" : "17",
+      "lr2_bmsid" : "267234",
+      "md5" : "6d2aeef118e763e5d8f807309ab6a959",
+      "name_diff" : "同梱",
+      "title" : "下水鳴動して鼠一匹 (SP黒)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=337&event=123",
+      "url_diff" : ""
+   },
+   {
       "artist" : "hiro remixed by HOUJIROU",
       "comment" : "連打",
       "level" : "16",
@@ -3726,6 +3979,17 @@
       "name_diff" : "同梱",
       "title" : "My CAKES AND ALE",
       "url" : "http://gensoukyousoukyoku.nekokan.dyndns.info/ndkbms-003/",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "BLAQPSY",
+      "comment" : "LNと皿",
+      "level" : "8",
+      "lr2_bmsid" : "267284",
+      "md5" : "6e89f879c80e4329712debee9eaa5778",
+      "name_diff" : "同梱",
+      "title" : "Qronostasis [BlaQ Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=174&event=123",
       "url_diff" : ""
    },
    {
@@ -3795,6 +4059,17 @@
       "url_diff" : ""
    },
    {
+      "artist" : "c.a.p. ",
+      "comment" : "ベリハ低トータル",
+      "level" : "18",
+      "lr2_bmsid" : "269700",
+      "md5" : "70b1b92044b97e4f4dfe297685ea7b8d",
+      "name_diff" : "Felisica",
+      "title" : "hope",
+      "url" : "https://www.mediafire.com/folder/f46edbj0aa055/cap",
+      "url_diff" : "http://fuki1755.sitemix.jp/sabun/hope_7vh_fel.zip"
+   },
+   {
       "artist" : "Speed Magician",
       "comment" : "処理落ちソフラン",
       "level" : "8",
@@ -3819,7 +4094,7 @@
    {
       "artist" : "LeaF",
       "comment" : "ソフラン",
-      "level" : "27",
+      "level" : "28",
       "lr2_bmsid" : "133450",
       "md5" : "714a7e58ecd4436d66d5ac47d70e3d7f",
       "name_diff" : "同梱",
@@ -3940,7 +4215,7 @@
    {
       "artist" : "d__t",
       "comment" : "ベリハトリル",
-      "level" : "52",
+      "level" : "53",
       "lr2_bmsid" : "44353",
       "md5" : "73ddb5bf642816892bbe6deacc1fdafb",
       "name_diff" : "同梱",
@@ -4237,7 +4512,7 @@
    {
       "artist" : "かたぎり",
       "comment" : "ソフラン",
-      "level" : "29",
+      "level" : "30",
       "lr2_bmsid" : "259923",
       "md5" : "7b69201266880d82e654396091101645",
       "name_diff" : "KANS",
@@ -4259,7 +4534,7 @@
    {
       "artist" : "wosderge",
       "comment" : "ベリハ加速",
-      "level" : "53",
+      "level" : "52",
       "lr2_bmsid" : "148832",
       "md5" : "7bacf43dfd58f2e95de5b55ca9832cd7",
       "name_diff" : "同梱",
@@ -4479,7 +4754,7 @@
    {
       "artist" : "uet",
       "comment" : "局所難と皿",
-      "level" : "25",
+      "level" : "23",
       "lr2_bmsid" : "229593",
       "md5" : "8281f8c286810bfdab3d02e27d7bfa1a",
       "name_diff" : "同梱",
@@ -4803,7 +5078,7 @@
       "md5" : "89c56a9c3b23340f832c2d8d002fd745",
       "name_diff" : "同梱",
       "title" : "Run,Curry,Run",
-      "url" : "http://web.archive.org/web/20130707071521/http://ism-k.blogspot.jp/2012/09/bms.html",
+      "url" : "https://www.dropbox.com/s/j8zm23hfo1dbi19/ethnicspeed_bms.zip?dl=0",
       "url_diff" : ""
    },
    {
@@ -5755,7 +6030,7 @@
    {
       "artist" : "sun3",
       "comment" : "ブーメランみたいなの",
-      "level" : "15",
+      "level" : "20",
       "lr2_bmsid" : "1567",
       "md5" : "ae828cfcd90f3954a489a481c41e4d2f",
       "name_diff" : "同梱",
@@ -5865,7 +6140,7 @@
    {
       "artist" : "takdrive",
       "comment" : "たまに止まる乱打",
-      "level" : "4",
+      "level" : "7",
       "lr2_bmsid" : "266493",
       "md5" : "b0bcbec1b5899c3fb4495186f126be5c",
       "name_diff" : "同梱",
@@ -6239,7 +6514,7 @@
    {
       "artist" : "uet",
       "comment" : "凄い皿とラス殺し",
-      "level" : "27",
+      "level" : "25",
       "lr2_bmsid" : "200119",
       "md5" : "bbf9cffab66f0f1af19dd0f8f8f1d6d5",
       "name_diff" : "同梱",
@@ -6426,7 +6701,7 @@
    {
       "artist" : "Yamajet",
       "comment" : "トリル複合",
-      "level" : "19",
+      "level" : "15",
       "lr2_bmsid" : "196835",
       "md5" : "c0a590a6d71b85dc7721a7a4798f48b1",
       "name_diff" : "同梱",
@@ -6503,7 +6778,7 @@
    {
       "artist" : "xenothium",
       "comment" : "地雷",
-      "level" : "5",
+      "level" : "4",
       "lr2_bmsid" : "93691",
       "md5" : "c2c6b572843fc4b553a669a8f2edc753",
       "name_diff" : "Johnny",
@@ -6525,7 +6800,7 @@
    {
       "artist" : "suna",
       "comment" : "ハード判定の軸",
-      "level" : "18",
+      "level" : "22",
       "lr2_bmsid" : "194586",
       "md5" : "c33631225f256c06a526a31eae1911b8",
       "name_diff" : "Fender",
@@ -7185,7 +7460,7 @@
    {
       "artist" : "シャトルラン",
       "comment" : "ΔMAXと隣接",
-      "level" : "26",
+      "level" : "28",
       "lr2_bmsid" : "194578",
       "md5" : "d4d558e296948ebe4c4cddaaacaca7bc",
       "name_diff" : "発汗BMS",

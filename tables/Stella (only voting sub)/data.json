@@ -34,6 +34,23 @@
       "voteYes" : 5
    },
    {
+      "artist" : "SP-# / obj morio",
+      "comment" : "高速ズレ物量　",
+      "level" : "9",
+      "md5" : "60c12f77947e4da438f75ee985bdff2e",
+      "proposer" : "APRICOT",
+      "proposerLr2id" : 109350,
+      "sha256" : "d607d8584d1285f87a79083c9c575817ac70e67d018be71636d5f960d36eadf2",
+      "submission" : 992,
+      "title" : "corneal -Over The Limit-",
+      "url" : "http://k-bms.com/party_pabat/party2014.jsp?board_num=11&num=48",
+      "url_diff" : "http://app.box.com/s/mgxeban5yeqbicazs9ts",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 3
+   },
+   {
       "artist" : "P4koo feat. A.Dokuga image : keiyuu/mov : VISREV /eleanor",
       "comment" : "1~2? st6の弱化版",
       "level" : "2",
@@ -98,8 +115,8 @@
       "url_diff" : "http://bms.parksulab.xyz",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "裏 吉 川 / 3-1-2-1",

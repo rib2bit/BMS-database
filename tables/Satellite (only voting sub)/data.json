@@ -14,7 +14,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
+      "voteYes" : 11
    },
    {
       "artist" : "うまるつふり / selene.",
@@ -28,10 +28,10 @@
       "title" : "魂姫～たまひめ～ -狂-",
       "url" : "https://venue.bmssearch.net/bmsshuin2/7",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03242",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "70.00",
+      "voteYes" : 3
    },
    {
       "artist" : "ケドメ　絵/るい　歌/初音ミク　譜面/岡部うすにごり",
@@ -48,7 +48,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
+      "voteYes" : 12
    },
    {
       "artist" : "みーに feat. 初音ミク obj:Fendou",
@@ -65,7 +65,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 5
    },
    {
       "artist" : "Sound Souler / のの",
@@ -98,8 +98,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.83",
-      "voteYes" : 11
+      "votePercent" : "92.86",
+      "voteYes" : 12
    },
    {
       "artist" : "incinerate obj:OK@GE",
@@ -115,8 +115,8 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "75.00",
-      "voteYes" : 1
+      "votePercent" : "83.33",
+      "voteYes" : 2
    },
    {
       "artist" : "atomic sphere / obj.ctc",
@@ -132,8 +132,8 @@
       "url_diff" : "http://ctconnected.blog.fc2.com/blog-entry-1.html",
       "voteNeutral" : 3,
       "voteNo" : 3,
-      "votePercent" : "57.14",
-      "voteYes" : 4
+      "votePercent" : "62.50",
+      "voteYes" : 5
    },
    {
       "artist" : "mrt",
@@ -149,8 +149,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 8
+      "votePercent" : "95.00",
+      "voteYes" : 9
    },
    {
       "artist" : "Blue-J vs. Ruby.G / obj : litmus*",
@@ -183,8 +183,8 @@
       "url_diff" : "http://beatkim.web.fc2.com/insane.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "94.44",
-      "voteYes" : 8
+      "votePercent" : "95.45",
+      "voteYes" : 10
    },
    {
       "artist" : "xi / zyx",
@@ -200,8 +200,8 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up2452.zip",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "64.29",
-      "voteYes" : 3
+      "votePercent" : "68.75",
+      "voteYes" : 4
    },
    {
       "artist" : "LeaF × kana / obj:chack Movie:To7",
@@ -217,7 +217,7 @@
       "url_diff" : "http://chack3sabun.web.fc2.com/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    }
 ]
