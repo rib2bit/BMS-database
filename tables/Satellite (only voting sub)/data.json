@@ -11,10 +11,26 @@
       "title" : "BAD NEWS  [Another]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=95",
       "url_diff" : "",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "92.31",
+      "voteYes" : 12
+   },
+   {
+      "artist" : "Est / obj:七海千秋",
+      "level" : "1",
+      "md5" : "3a10aef50c5bedf5dde0653bc44b1ac6",
+      "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
+      "sha256" : "4622742d3069b81675a548aef3b41216b8c06f6dde38775bb4b993fe34325bcb",
+      "submission" : 1067,
+      "title" : "Like an Orange -Hope-",
+      "url" : "http://estish.nobody.jp/",
+      "url_diff" : "https://www.dropbox.com/s/brzyghk8nsuamn2/likeanorange.zip?dl=1",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 11
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "うまるつふり / selene.",
@@ -30,8 +46,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03242",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "70.00",
-      "voteYes" : 3
+      "votePercent" : "75.00",
+      "voteYes" : 4
    },
    {
       "artist" : "ケドメ　絵/るい　歌/初音ミク　譜面/岡部うすにごり",
@@ -51,6 +67,23 @@
       "voteYes" : 12
    },
    {
+      "artist" : "hugepulse BGA:Micelle",
+      "comment" : "第二回BMS衆議院選、ガチ押し",
+      "level" : "0",
+      "md5" : "63e7c841db7df1784633dc41de4143de",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "1bc2623ebd6519cbb78fa59563d4b6c08ae5f4817e5321dd67514e3ba6e3835a",
+      "submission" : 1065,
+      "title" : "Hazuki [ANOTHER]",
+      "url" : "https://venue.bmssearch.net/bmsshuin2/14",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "83.33",
+      "voteYes" : 2
+   },
+   {
       "artist" : "みーに feat. 初音ミク obj:Fendou",
       "comment" : "ガチ押し",
       "level" : "5",
@@ -65,7 +98,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "Sound Souler / のの",
@@ -115,8 +148,8 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 2
+      "votePercent" : "87.50",
+      "voteYes" : 3
    },
    {
       "artist" : "atomic sphere / obj.ctc",
@@ -181,10 +214,27 @@
       "title" : "THE PRANKSTER [Jabberwocky]",
       "url" : "https://venue.bmssearch.net/bmsshuin2/81",
       "url_diff" : "http://beatkim.web.fc2.com/insane.html",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "87.50",
+      "voteYes" : 10
+   },
+   {
+      "artist" : "Ark-Z feat. かなえゆめ / ill:tachi mov:わっふゑ obj:SUZUKAZEΛ",
+      "comment" : "sl1~2?",
+      "level" : "1",
+      "md5" : "e8e32d203cc03123d72c6afb207d4890",
+      "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
+      "sha256" : "ca46b324cbcaa569dd6019464a989a51553065ba2b7b4eb3a37ec22254932538",
+      "submission" : 1066,
+      "title" : "I'M HERE NOW [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=186&event=123",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.45",
-      "voteYes" : 10
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "xi / zyx",
@@ -218,6 +268,6 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    }
 ]
