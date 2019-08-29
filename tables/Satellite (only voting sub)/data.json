@@ -17,6 +17,23 @@
       "voteYes" : 12
    },
    {
+      "artist" : "志熊けい obj:sak",
+      "comment" : "第二回BMS衆議院選、ズレ、同時押し、階段",
+      "level" : "3",
+      "md5" : "1e914b2a2aeca025c5c9b1213d48146a",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "0b1e4d4f04f1866a689d22d9175ead0178818d0e43ee592f2cb06fb60fa703d7",
+      "submission" : 1068,
+      "title" : "clockworkforest [ANOTHER]",
+      "url" : "https://venue.bmssearch.net/bmsshuin2/61",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
       "artist" : "Est / obj:七海千秋",
       "level" : "1",
       "md5" : "3a10aef50c5bedf5dde0653bc44b1ac6",
@@ -29,8 +46,8 @@
       "url_diff" : "https://www.dropbox.com/s/brzyghk8nsuamn2/likeanorange.zip?dl=1",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "うまるつふり / selene.",
@@ -46,8 +63,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03242",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 4
+      "votePercent" : "78.57",
+      "voteYes" : 5
    },
    {
       "artist" : "ケドメ　絵/るい　歌/初音ミク　譜面/岡部うすにごり",
@@ -80,8 +97,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 2
+      "votePercent" : "87.50",
+      "voteYes" : 3
    },
    {
       "artist" : "みーに feat. 初音ミク obj:Fendou",
@@ -98,7 +115,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "Sound Souler / のの",
@@ -116,6 +133,23 @@
       "voteNo" : 5,
       "votePercent" : "53.33",
       "voteYes" : 6
+   },
+   {
+      "artist" : "corok-Bb/obj.matsu",
+      "comment" : "乱打",
+      "level" : "10",
+      "md5" : "84fcb69e09af67f1ef5aeb153fdc4a91",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "b5bbb0862c85daa82e4d9827488e34373ec63ce53c8b166cfd872294c1794c12",
+      "submission" : 1070,
+      "title" : "Fatal Function [false]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=144&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "kohaxy",
@@ -148,7 +182,7 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "87.50",
+      "votePercent" : "80.00",
       "voteYes" : 3
    },
    {
@@ -220,6 +254,23 @@
       "voteYes" : 10
    },
    {
+      "artist" : "TAK / 差分　赤い人",
+      "comment" : "ディレイ",
+      "level" : "10",
+      "md5" : "c7bbb20702438642af7a04677f68da54",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "31bd69b943b38037ab2cc42be00ba91cdd5664438d1ab2c7496a47d6460eb75e",
+      "submission" : 1069,
+      "title" : "Trinity [DELAYMASTER]",
+      "url" : "http://web.archive.org/web/20060503155239/http:/www.ismusic.ne.jp/djtak/",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/trinity-DELAYMASTER.bme",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "Ark-Z feat. かなえゆめ / ill:tachi mov:わっふゑ obj:SUZUKAZEΛ",
       "comment" : "sl1~2?",
       "level" : "1",
@@ -233,8 +284,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "xi / zyx",
@@ -267,7 +318,7 @@
       "url_diff" : "http://chack3sabun.web.fc2.com/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "87.50",
       "voteYes" : 3
    }
 ]
