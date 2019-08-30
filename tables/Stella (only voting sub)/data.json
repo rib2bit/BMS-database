@@ -64,8 +64,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03242",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "SP-# / obj morio",
@@ -150,7 +150,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "裏 吉 川 / 3-1-2-1",

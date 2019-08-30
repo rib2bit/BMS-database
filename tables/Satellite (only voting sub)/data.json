@@ -31,7 +31,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "Est / obj:七海千秋",
@@ -47,7 +47,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "うまるつふり / selene.",
@@ -63,8 +63,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03242",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "78.57",
-      "voteYes" : 5
+      "votePercent" : "81.25",
+      "voteYes" : 6
    },
    {
       "artist" : "ケドメ　絵/るい　歌/初音ミク　譜面/岡部うすにごり",
@@ -115,7 +115,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
    },
    {
       "artist" : "Sound Souler / のの",
@@ -182,8 +182,8 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "80.00",
-      "voteYes" : 3
+      "votePercent" : "83.33",
+      "voteYes" : 4
    },
    {
       "artist" : "atomic sphere / obj.ctc",
@@ -254,6 +254,23 @@
       "voteYes" : 10
    },
    {
+      "artist" : "朝武芳乃 vs. 常陸茉子 obj:綾地寧々",
+      "comment" : "楽しい、緩急",
+      "level" : "8",
+      "md5" : "c73490d6605cfab1a87770158a698d00",
+      "proposer" : "鷺沢文香",
+      "proposerLr2id" : 133436,
+      "sha256" : "f9065f73c88861300c559c9b22e173ec68d8a403b42f3c818db70dfeac84daa2",
+      "submission" : 1071,
+      "title" : "CITRUS-FRAGRANCE!! [INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=376&event=116",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "TAK / 差分　赤い人",
       "comment" : "ディレイ",
       "level" : "10",
@@ -267,8 +284,8 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/trinity-DELAYMASTER.bme",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "Ark-Z feat. かなえゆめ / ill:tachi mov:わっふゑ obj:SUZUKAZEΛ",
