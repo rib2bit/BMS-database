@@ -1582,7 +1582,7 @@
       "title" : "Tartaros　 -12m-"
    },
    {
-      "artist" : "LEDIGAL *FLIP LR.MIRROR",
+      "artist" : "LEDIGAL *L.MIRROR",
       "comment" : "HARD CLASSICAL",
       "level" : "8",
       "md5" : "08f549b6951778468398266aad174b32",
@@ -4466,7 +4466,7 @@
       "title" : "S [DP ANOTHER LN-OFF]"
    },
    {
-      "artist" : "OptiU Object : EISC_MTO",
+      "artist" : "OptiU Object : EISC_MTO  *MINBPM",
       "comment" : "ArtCore",
       "level" : "7",
       "md5" : "1a1891e38d9a82b4783563c87d2b0412",
@@ -6195,6 +6195,13 @@
       "title" : "プナイプナイたいそう [DP ☆NOTHER]"
    },
    {
+      "artist" : "Feyrlin *R.MIRROR",
+      "comment" : "Traditional Game Music",
+      "level" : "4",
+      "md5" : "249c6ec9b19c701cd0dc21dac99f738d",
+      "title" : "CHAOS†HEAD [DP ANOTHER]"
+   },
+   {
       "artist" : "ねこかぶりサイクロン(xi+ねこみりん) feat.えみゅう。 obj:kuro",
       "comment" : "BRAVE",
       "level" : "4",
@@ -6725,13 +6732,6 @@
       "level" : "4",
       "md5" : "27b88c43eb4787ef12560f79434ecdb6",
       "title" : "Aeventyr [DP ADVENTURE]"
-   },
-   {
-      "artist" : "ミドリ (obj:k)",
-      "comment" : "デジ寓話",
-      "level" : "4",
-      "md5" : "27f47c01e653ec00328f2571ea4130db",
-      "title" : "シェルターキッズ [LNKumather]"
    },
    {
       "artist" : "Hate ? Ritsu ? Salita / obj : lemon_aided Douglas ? Mentalstock  *正規 or FLIP",
@@ -7912,7 +7912,7 @@
    {
       "artist" : "wit da masta obj:ucc *R.MIRROR",
       "comment" : "ELECTRONICA",
-      "level" : "6",
+      "level" : "8",
       "md5" : "2ef5149f93d653a1ceb7d96e84769246",
       "title" : "addicted code [EX14]"
    },
@@ -8472,7 +8472,7 @@
    {
       "artist" : "DJ HERMIT sleeping myshrd *AVERAGE",
       "comment" : "HAPPY FINALE",
-      "level" : "5",
+      "level" : "2",
       "md5" : "3279173aebdd7d5a4fe0f1ffcbd0b746",
       "title" : "Somnium"
    },
@@ -8708,7 +8708,7 @@
       "title" : "teardrop island [14key_Insane+]"
    },
    {
-      "artist" : "Ast *R.MIRROR",
+      "artist" : "Ast *LR.MIRROR",
       "comment" : "piano ambient",
       "level" : "6",
       "md5" : "3400f3a3ec916dc22378684375b8f858",
@@ -10612,13 +10612,6 @@
       "title" : "Fakeover [basic skill]"
    },
    {
-      "artist" : "Telno Obj.Gatia *FLIP R.MIRROR",
-      "comment" : "Romantic Beats",
-      "level" : "3",
-      "md5" : "4015f87cc348ba4c85ae4c30c50f6886",
-      "title" : "DeePtrAveler -14Another-"
-   },
-   {
       "artist" : "削除 / うまい棒 / obj:けろりん",
       "comment" : "Desire",
       "level" : "6",
@@ -11384,7 +11377,7 @@
    {
       "artist" : "NEKI←T (obj:k)",
       "comment" : "HAPPY HARDCORE",
-      "level" : "8",
+      "level" : "9",
       "md5" : "447f9d6c114f84c30c8ac66f68b03032",
       "title" : "GaRaKuTic Dream (DP ANOTHER)"
    },
@@ -12516,7 +12509,7 @@
       "title" : "Ascension to Heaven"
    },
    {
-      "artist" : "SHOCK.C (obj:k) *FLIP",
+      "artist" : "SHOCK.C (obj:k) *FLIP or LR.MIR",
       "comment" : "NEW AGE",
       "level" : "7",
       "md5" : "4b8e5cc97b862e709cef7ad20b7cef9d",
@@ -12651,9 +12644,16 @@
    {
       "artist" : "utah *FLIP",
       "comment" : "CYBER ARABIAN",
-      "level" : "7",
+      "level" : "9",
       "md5" : "4c6869617ffe3bb07c2ff38958abd366",
       "title" : "砂上ノ幻憶  (DP ANOTHER)"
+   },
+   {
+      "artist" : "しらいし obj: misty.ls04  *L.MIRROR",
+      "comment" : "HARDCORE",
+      "level" : "4",
+      "md5" : "4c737823a2e6c20b08e1492c8ab60de2",
+      "title" : "硬核機動 -試製一型- [DP ANOTHER]"
    },
    {
       "artist" : "Is-m BGA:coda  *FLIP R.MIRROR",
@@ -13181,7 +13181,7 @@
       "title" : ".357 Magnum [.35753.]"
    },
    {
-      "artist" : "チョンチー / note by ヌオー *FLIP",
+      "artist" : "チョンチー / note by ヌオー *SUD+",
       "comment" : "WETTY",
       "level" : "4",
       "md5" : "500d594cc7dfeca051f68fd3dcd27bcd",
@@ -13942,13 +13942,6 @@
       "level" : "4",
       "md5" : "54b1d3da714a234f8f77f584dbac448d",
       "title" : "fuga(DP HELL Version) -ORIGINAL SPEED-"
-   },
-   {
-      "artist" : "TiS/obj:epics- Illust:TanPoPo/Object:MO2MO2/Thanks:Dolvis",
-      "comment" : "SummerRomance",
-      "level" : "1",
-      "md5" : "54b6a3aa5a7db8a76232ce2e0f9c07d4",
-      "title" : "SKY FORCE [DPLN]"
    },
    {
       "artist" : "A.I.TOYS / obj : 打者走者 *FLIP",
@@ -16506,7 +16499,7 @@
       "title" : "リリカと魔法の言葉 [DP Lyrical]"
    },
    {
-      "artist" : "こどものなみだ *MAXBPM+20",
+      "artist" : "こどものなみだ *MAXBPM+20 正規 or FLIP R.MIR",
       "comment" : "ハッピーケアガール",
       "level" : "★6",
       "md5" : "6395e1dc1f39cda404d9a73224a21f3f",
@@ -21385,13 +21378,6 @@
       "title" : "ホームラン [14key Super Run]"
    },
    {
-      "artist" : "maki",
-      "comment" : "fantastical synth beat",
-      "level" : "1",
-      "md5" : "7f4336ffd62c9c38c8cee95bbf773ff3",
-      "title" : "ice valley \"beyond the searoad\" [CALL]"
-   },
-   {
       "artist" : "9640 *LR.RANDOM or R.MIRROR",
       "comment" : "TRANCE",
       "level" : "★4",
@@ -21786,7 +21772,7 @@
    {
       "artist" : "CR2032 *FLIP R.MIRROR",
       "comment" : "Chip Tune",
-      "level" : "8",
+      "level" : "?",
       "md5" : "8191f1bebeb26e0eacb2b712692d9427",
       "title" : "3回繰り返すだけ  [DPA]"
    },
@@ -22386,7 +22372,7 @@
       "title" : "Our Dream, Our Justice [DP CHALLENGER+]"
    },
    {
-      "artist" : "dj Extrose obj,係長 *LR.MIRROR",
+      "artist" : "dj Extrose obj,係長",
       "comment" : "SPEED TEK",
       "level" : "★4",
       "md5" : "847576d89a19e0e2d3e3275d3c373634",
@@ -22773,7 +22759,7 @@
    {
       "artist" : "cosMo OBJ.みっと",
       "comment" : "DTX STARTER PACK_Extra",
-      "level" : "7",
+      "level" : "9",
       "md5" : "86d74b5260b1f1349ee9b63812e9f336",
       "title" : "覚醒フィールド (ANOTHER14)"
    },
@@ -22881,6 +22867,13 @@
       "level" : "9",
       "md5" : "87841fcca9b540111cafa88937288bd8",
       "title" : "Clover (BMS Edit) [Fourteen-leaf(short)]"
+   },
+   {
+      "artist" : "Y.W",
+      "comment" : "Anthem trance",
+      "level" : "1",
+      "md5" : "878cc84c5ae75530298dfd5afcaf5133",
+      "title" : "A gratitude... <14key another>"
    },
    {
       "artist" : "kenzoooo illust:みらん / 先生:魔想志津香 ed@PEN",
@@ -23492,7 +23485,7 @@
       "title" : "world devoid of you (fairydust radio edit) [EX14]"
    },
    {
-      "artist" : "U.P.",
+      "artist" : "U.P. *SUD+",
       "comment" : "DRUM'N'BASS",
       "level" : "★9",
       "md5" : "8ae1cd94d646c4bf23447c1cb20d472d",
@@ -24516,7 +24509,7 @@
    {
       "artist" : "kurenaissance obj:ucc *FLIP L.MIRROR",
       "comment" : "SEVERAL DIGITS",
-      "level" : "8",
+      "level" : "10",
       "md5" : "8fdfd316059424dfd6566cd8b76b6f20",
       "title" : "LivedaM [A14]"
    },
@@ -24871,7 +24864,7 @@
       "title" : "stardust carnival"
    },
    {
-      "artist" : "ZUN(Arr.sun3) obj:ucc *LR.RANDOM",
+      "artist" : "ZUN(Arr.sun3) obj:ucc *FLIP R.MIRROR",
       "comment" : "Trance core",
       "level" : "7",
       "md5" : "925c9fb67e27265d70865776e7e616f5",
@@ -28033,6 +28026,13 @@
       "level" : "★1",
       "md5" : "a52a3e25ca96259eb1ae03d5f98c8a16",
       "title" : "Strahv -DP CHALLENGER-"
+   },
+   {
+      "artist" : "litmus* / movie : Kazari / obj : yphan",
+      "comment" : "Electro House",
+      "level" : "2",
+      "md5" : "a52cd28568ed5d56a571362f94a35007",
+      "title" : "Good Life [y_phANOTHER]"
    },
    {
       "artist" : "Risk Junk / o.s.gate",
@@ -31264,7 +31264,7 @@
    {
       "artist" : "ZUN Remixed by Hope / obj:Louis",
       "comment" : "MINIMAL HARD TECH",
-      "level" : "5",
+      "level" : "1",
       "md5" : "b771c057f40238ccbcb6956b6b0dd38c",
       "title" : "Ghost Queen [DP LN ANOTHER]"
    },
@@ -31647,7 +31647,7 @@
       "title" : "Eternity"
    },
    {
-      "artist" : "Le Dos-on  bga : Air  *L.MIRROR",
+      "artist" : "Le Dos-on  bga : Air  *FLIP L.MIR or L.MIR",
       "comment" : "FREEFORM",
       "level" : "8",
       "md5" : "b9ec039192cd769eabe2729828017fe7",
@@ -32226,13 +32226,6 @@
       "level" : "★4",
       "md5" : "bce1049b0873a045ed4275c706e50e2c",
       "title" : "風塵少女-Wind Rush- ★★皆伝幼女★★"
-   },
-   {
-      "artist" : "q/stol/obj:Hersh",
-      "comment" : "Glitch Hop?electronica",
-      "level" : "1",
-      "md5" : "bce5f4227525f6d985080959d7cf8c45",
-      "title" : "LOVE THIS MOMENT [Action]"
    },
    {
       "artist" : "麦コロッケ/obj:epics-",
@@ -33161,7 +33154,7 @@
    {
       "artist" : "ZUN / sun3 (Remixed by EXCALIpUR) obj:ucc",
       "comment" : "HAPPY HARDCORE",
-      "level" : "8",
+      "level" : "9",
       "md5" : "c2214d59504d84fcf70db312e8fca31b",
       "title" : "竹取はっぴ～☆リミックス！ [A14]"
    },
@@ -34685,9 +34678,9 @@
       "title" : "Sicilian kiss D(`ﾚ')P"
    },
    {
-      "artist" : "味将軍 *L.MIRROR",
+      "artist" : "味将軍",
       "comment" : "SPEED RAVE",
-      "level" : "7",
+      "level" : "10",
       "md5" : "cb6231474ac290cf3672e9a2c4799fa3",
       "title" : "Matador"
    },
@@ -34788,6 +34781,13 @@
       "level" : "4",
       "md5" : "cbca4f768af79362fc7cad0ea073c344",
       "title" : "Night Escape [A-]"
+   },
+   {
+      "artist" : "高嶺　愛花 obj:ucc",
+      "comment" : "Uplifting Trance",
+      "level" : "1",
+      "md5" : "cbd60a8731f4b4b40d08cdce4bac0249",
+      "title" : "Aihana (Love+ MAXHEART) [14key]"
    },
    {
       "artist" : "908 (remixed by KARAKURUM) / obj:lichtr",
@@ -36533,7 +36533,7 @@
       "title" : "魔カい造ﾖd STEAMPUNK Frankenstein"
    },
    {
-      "artist" : "Mr.BPM",
+      "artist" : "Mr.BPM *SUD+",
       "comment" : "Noise",
       "level" : "6",
       "md5" : "d8ad3c417a9c7f0aec49c942868cb560",
@@ -39501,6 +39501,13 @@
       "title" : "スーパーイザナギオブジェクト [DP ANOTHER]"
    },
    {
+      "artist" : "しらいし obj: misty.ls04",
+      "comment" : "HARDCORE",
+      "level" : "8",
+      "md5" : "eb17cf80f63a4bdcfe72743686484544",
+      "title" : "硬核機動 -試製三型- [DP ANOTHER]"
+   },
+   {
       "artist" : "東京アリス幻樂団 obj:k",
       "comment" : "happy hardcore",
       "level" : "8",
@@ -40679,7 +40686,7 @@
    {
       "artist" : "SHIKI/-45[obj:MGN]",
       "comment" : "TRANCE",
-      "level" : "7",
+      "level" : "4",
       "md5" : "f1622d1d5ab0523ea1e63a05b661b092",
       "title" : "SEPIA [MGNother]"
    },
@@ -41314,7 +41321,7 @@
       "title" : "白黒神楽煩悩七百七十七ツ之法則 [DPA]"
    },
    {
-      "artist" : "remixed celas / obj:Lilium *MINBPM",
+      "artist" : "remixed celas / obj:Lilium *MINBPM FLIP",
       "comment" : "pathos nrg",
       "level" : "★6",
       "md5" : "f5d380f632510a4f1786ff398013ce76",
@@ -41869,7 +41876,7 @@
    {
       "artist" : "sept *L.MIRROR",
       "comment" : "Psychedelic /14",
-      "level" : "4",
+      "level" : "7",
       "md5" : "f8f28235da09404ccea308f33d908f62",
       "title" : "transistor [Another]"
    },

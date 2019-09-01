@@ -31,7 +31,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 7
    },
    {
       "artist" : "Est / obj:七海千秋",
@@ -63,8 +63,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03242",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "77.78",
-      "voteYes" : 6
+      "votePercent" : "81.82",
+      "voteYes" : 8
    },
    {
       "artist" : "ケドメ　絵/るい　歌/初音ミク　譜面/岡部うすにごり",
@@ -80,7 +80,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03265",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "96.15",
       "voteYes" : 12
    },
    {
@@ -115,7 +115,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 10
+      "voteYes" : 11
    },
    {
       "artist" : "Sound Souler / のの",
@@ -146,10 +146,10 @@
       "title" : "Fatal Function [false]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=144&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "80.00",
+      "voteYes" : 4
    },
    {
       "artist" : "kohaxy",
@@ -182,8 +182,8 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 6
+      "votePercent" : "88.89",
+      "voteYes" : 7
    },
    {
       "artist" : "atomic sphere / obj.ctc",
@@ -203,6 +203,23 @@
       "voteYes" : 5
    },
    {
+      "artist" : "45Is-m BGA:-45 obj. DK",
+      "comment" : "乱打、低TOTAL(0.15~)",
+      "level" : "4",
+      "md5" : "b15e1d4c4bfc4a20dced1592b6ea3457",
+      "proposer" : "Triforce",
+      "proposerLr2id" : 18553,
+      "sha256" : "de1a5b030fd1ddb0d3ea6adeddfd32856c4e7deab6db5d1984573007582b49f7",
+      "submission" : 1073,
+      "title" : "G e n g a o z o -Screen music- -EX-",
+      "url" : "http://www.is-m.jp/bms/song/em41.html",
+      "url_diff" : "https://www.dropbox.com/s/nctxzmkvi014zvh/_gengaozo_screen_DK.bme?dl=0",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
       "artist" : "mrt",
       "comment" : "軸押し寄りの16分ガチ押し譜面",
       "level" : "5",
@@ -216,8 +233,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.45",
-      "voteYes" : 10
+      "votePercent" : "95.83",
+      "voteYes" : 11
    },
    {
       "artist" : "Blue-J vs. Ruby.G / obj : litmus*",
@@ -233,8 +250,8 @@
       "url_diff" : "https://web.archive.org/web/*/http://www.aleibar.net/public/tukiyama/A9Ssabun.zip",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "75.00",
-      "voteYes" : 8
+      "votePercent" : "76.92",
+      "voteYes" : 9
    },
    {
       "artist" : "unknown \"ω\" a.k.a. Nego_tiator obj. BK",
@@ -267,7 +284,7 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "83.33",
       "voteYes" : 2
    },
    {
@@ -282,10 +299,10 @@
       "title" : "Trinity [DELAYMASTER]",
       "url" : "http://web.archive.org/web/20060503155239/http:/www.ismusic.ne.jp/djtak/",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/trinity-DELAYMASTER.bme",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "83.33",
+      "voteYes" : 5
    },
    {
       "artist" : "orangentle / deadblue238 / Note:薄杏",
@@ -301,8 +318,8 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "Ark-Z feat. かなえゆめ / ill:tachi mov:わっふゑ obj:SUZUKAZEΛ",
@@ -319,7 +336,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "xi / zyx",
@@ -352,7 +369,7 @@
       "url_diff" : "http://chack3sabun.web.fc2.com/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 5
+      "votePercent" : "92.86",
+      "voteYes" : 6
    }
 ]

@@ -9698,6 +9698,19 @@
       "url_diff" : "http://akred.web.fc2.com/baecon/_freedomdive_singularity.bme"
    },
    {
+      "artist" : "daisan Movie : highluin / obj.hex",
+      "comment" : "gachoishi",
+      "level" : "2",
+      "md5" : "a7b3fba3112aa3000b53816a0b3b1a88",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "ab97a1e1805a843dfe8acdbf2ca3d298f604a3799037f170f7edf6388ea4d3ae",
+      "submission" : 995,
+      "title" : "ペニンシュラの踊り子 The dancer of a peninsula [Hexagon]",
+      "url" : "http://clockxellox.sakura.ne.jp/BMS/Peninsular.zip",
+      "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html"
+   },
+   {
       "artist" : "Judah BGA:Lucifer",
       "comment" : "前半物量後半同時押し",
       "level" : "0",
@@ -9802,6 +9815,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "MONO obj.hex",
+      "comment" : "物量",
+      "level" : "2",
+      "md5" : "aa18cd83e9bd14cade78cad49d14d4f1",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "8d918212a6b983bbc7cbb384f899341c2f21f0aa7133c132879ea38f8cf24ddd",
+      "submission" : 996,
+      "title" : "Jack in the Vox [Pentagon]",
+      "url" : "https://archive.org/download/no2_ho/Jack%20in%20the%20Vox.zip",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html"
    },
    {
       "artist" : "kagerow",
