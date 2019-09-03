@@ -31,7 +31,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 9
    },
    {
       "artist" : "Est / obj:七海千秋",
@@ -46,8 +46,8 @@
       "url_diff" : "https://www.dropbox.com/s/brzyghk8nsuamn2/likeanorange.zip?dl=1",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 6
+      "votePercent" : "93.75",
+      "voteYes" : 7
    },
    {
       "artist" : "うまるつふり / selene.",
@@ -63,8 +63,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03242",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "81.82",
-      "voteYes" : 8
+      "votePercent" : "83.33",
+      "voteYes" : 9
    },
    {
       "artist" : "ケドメ　絵/るい　歌/初音ミク　譜面/岡部うすにごり",
@@ -97,8 +97,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 4
+      "votePercent" : "87.50",
+      "voteYes" : 6
    },
    {
       "artist" : "みーに feat. 初音ミク obj:Fendou",
@@ -148,8 +148,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "80.00",
-      "voteYes" : 4
+      "votePercent" : "83.33",
+      "voteYes" : 5
    },
    {
       "artist" : "kohaxy",
@@ -182,8 +182,25 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "88.89",
-      "voteYes" : 7
+      "votePercent" : "90.00",
+      "voteYes" : 8
+   },
+   {
+      "artist" : "HOUJIROU / obj:夢瑠",
+      "comment" : "皿縦連",
+      "level" : "12",
+      "md5" : "a289cb1aba9d8f4a7d4cf9f7ec93370f",
+      "proposer" : "なつ",
+      "proposerLr2id" : 65517,
+      "sha256" : "49de345861a17bc177be7b297b698418395de91bbe12313ab76fd16ae76ed04c",
+      "submission" : 1074,
+      "title" : "Fastraffic [INSANE]",
+      "url" : "http://houjirou.at-ninja.jp/",
+      "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "atomic sphere / obj.ctc",
@@ -216,8 +233,8 @@
       "url_diff" : "https://www.dropbox.com/s/nctxzmkvi014zvh/_gengaozo_screen_DK.bme?dl=0",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "votePercent" : "87.50",
+      "voteYes" : 3
    },
    {
       "artist" : "mrt",
@@ -233,8 +250,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.83",
-      "voteYes" : 11
+      "votePercent" : "96.15",
+      "voteYes" : 12
    },
    {
       "artist" : "Blue-J vs. Ruby.G / obj : litmus*",
@@ -250,7 +267,7 @@
       "url_diff" : "https://web.archive.org/web/*/http://www.aleibar.net/public/tukiyama/A9Ssabun.zip",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "76.92",
+      "votePercent" : "75.00",
       "voteYes" : 9
    },
    {
@@ -284,8 +301,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 2
+      "votePercent" : "90.00",
+      "voteYes" : 4
    },
    {
       "artist" : "TAK / 差分　赤い人",
@@ -301,8 +318,8 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/trinity-DELAYMASTER.bme",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "83.33",
-      "voteYes" : 5
+      "votePercent" : "85.71",
+      "voteYes" : 6
    },
    {
       "artist" : "orangentle / deadblue238 / Note:薄杏",
@@ -319,7 +336,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
    },
    {
       "artist" : "Ark-Z feat. かなえゆめ / ill:tachi mov:わっふゑ obj:SUZUKAZEΛ",
@@ -336,7 +353,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 7
    },
    {
       "artist" : "xi / zyx",
@@ -369,7 +386,7 @@
       "url_diff" : "http://chack3sabun.web.fc2.com/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "92.86",
-      "voteYes" : 6
+      "votePercent" : "93.75",
+      "voteYes" : 7
    }
 ]
