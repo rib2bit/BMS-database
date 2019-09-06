@@ -1699,6 +1699,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "削除 feat. void / 浪漫映像制作倶楽部 / obj : И",
+      "comment" : "乱打、同時押し // 8,74小節に手動ディレイあり",
+      "level" : "11",
+      "md5" : "1abcae664a42b09d1b25dc7696b3769f",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "b04ed18e94304ae9b1f550acfa4811e5959cbf5c2c3576b0c1914486dd4a508f",
+      "submission" : 1076,
+      "title" : "Black Lair [EXPERT]",
+      "url" : "http://web.archive.org/web/20131206203702/http://sakuzyo.net/sakuzyo_black_lair_ogg.zip",
+      "url_diff" : "http://bms.parksulab.xyz"
+   },
+   {
       "artist" : "Sakamiya feat.A.Dokuga img:HalHAL Lyrics:uoru",
       "level" : "2",
       "md5" : "1ace23f0af5a53d1d9fdbe1c6a521661",
@@ -13748,6 +13761,19 @@
       "title" : "Metropolis [7key,Another+]",
       "url" : "http://mommy16807.seesaa.net/article/130886480.html",
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up1608.zip"
+   },
+   {
+      "artist" : "wa. / 百舌谷 obj:kuro",
+      "comment" : "乱打、二重階段、皿絡み等",
+      "level" : "11",
+      "md5" : "d522701bdac6cd27094483d59472e009",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "8c8941813cdf617ce8c2e7baa1ea88aca85a6ad800170103cf0ae7f09d48f118",
+      "submission" : 1075,
+      "title" : "Black Lotus  [SP CHALLENGER+]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=138&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?mode=find&word=black+lotus+kuro"
    },
    {
       "artist" : "er / obj:五月雨雀",

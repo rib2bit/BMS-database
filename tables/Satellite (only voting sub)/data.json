@@ -13,8 +13,25 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "92.86",
-      "voteYes" : 13
+      "votePercent" : "93.33",
+      "voteYes" : 14
+   },
+   {
+      "artist" : "削除 feat. void / 浪漫映像制作倶楽部 / obj : И",
+      "comment" : "乱打、同時押し // 8,74小節に手動ディレイあり",
+      "level" : "11",
+      "md5" : "1abcae664a42b09d1b25dc7696b3769f",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "b04ed18e94304ae9b1f550acfa4811e5959cbf5c2c3576b0c1914486dd4a508f",
+      "submission" : 1076,
+      "title" : "Black Lair [EXPERT]",
+      "url" : "http://web.archive.org/web/20131206203702/http://sakuzyo.net/sakuzyo_black_lair_ogg.zip",
+      "url_diff" : "http://bms.parksulab.xyz",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "志熊けい obj:sak",
@@ -46,8 +63,8 @@
       "url_diff" : "https://www.dropbox.com/s/brzyghk8nsuamn2/likeanorange.zip?dl=1",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "93.75",
-      "voteYes" : 7
+      "votePercent" : "94.44",
+      "voteYes" : 8
    },
    {
       "artist" : "うまるつふり / selene.",
@@ -97,8 +114,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 6
+      "votePercent" : "88.89",
+      "voteYes" : 7
    },
    {
       "artist" : "みーに feat. 初音ミク obj:Fendou",
@@ -165,8 +182,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "92.86",
-      "voteYes" : 12
+      "votePercent" : "93.33",
+      "voteYes" : 13
    },
    {
       "artist" : "incinerate obj:OK@GE",
@@ -180,9 +197,9 @@
       "title" : "煉獄-Purgatorium- [ANOTHER--]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=172&event=74",
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "90.00",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "81.82",
       "voteYes" : 8
    },
    {
@@ -316,10 +333,27 @@
       "title" : "Trinity [DELAYMASTER]",
       "url" : "http://web.archive.org/web/20060503155239/http:/www.ismusic.ne.jp/djtak/",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/trinity-DELAYMASTER.bme",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "85.71",
+      "voteNeutral" : 2,
+      "voteNo" : 2,
+      "votePercent" : "75.00",
       "voteYes" : 6
+   },
+   {
+      "artist" : "wa. / 百舌谷 obj:kuro",
+      "comment" : "乱打、二重階段、皿絡み等",
+      "level" : "11",
+      "md5" : "d522701bdac6cd27094483d59472e009",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "8c8941813cdf617ce8c2e7baa1ea88aca85a6ad800170103cf0ae7f09d48f118",
+      "submission" : 1075,
+      "title" : "Black Lotus  [SP CHALLENGER+]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=138&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?mode=find&word=black+lotus+kuro",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "orangentle / deadblue238 / Note:薄杏",
@@ -336,7 +370,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 6
    },
    {
       "artist" : "Ark-Z feat. かなえゆめ / ill:tachi mov:わっふゑ obj:SUZUKAZEΛ",
@@ -353,7 +387,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
    },
    {
       "artist" : "xi / zyx",
@@ -386,7 +420,7 @@
       "url_diff" : "http://chack3sabun.web.fc2.com/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "93.75",
-      "voteYes" : 7
+      "votePercent" : "94.44",
+      "voteYes" : 8
    }
 ]
