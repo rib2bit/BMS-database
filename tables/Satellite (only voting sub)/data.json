@@ -30,7 +30,7 @@
       "url_diff" : "http://bms.parksulab.xyz",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
+      "votePercent" : "75.00",
       "voteYes" : 1
    },
    {
@@ -48,7 +48,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
+      "voteYes" : 10
    },
    {
       "artist" : "Est / obj:七海千秋",
@@ -63,8 +63,8 @@
       "url_diff" : "https://www.dropbox.com/s/brzyghk8nsuamn2/likeanorange.zip?dl=1",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "94.44",
-      "voteYes" : 8
+      "votePercent" : "95.00",
+      "voteYes" : 9
    },
    {
       "artist" : "うまるつふり / selene.",
@@ -114,7 +114,7 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "88.89",
+      "votePercent" : "85.00",
       "voteYes" : 7
    },
    {
@@ -199,7 +199,7 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "81.82",
+      "votePercent" : "79.17",
       "voteYes" : 8
    },
    {
@@ -214,9 +214,9 @@
       "title" : "Fastraffic [INSANE]",
       "url" : "http://houjirou.at-ninja.jp/",
       "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNeutral" : 2,
+      "voteNo" : 2,
+      "votePercent" : "50.00",
       "voteYes" : 2
    },
    {
@@ -250,8 +250,8 @@
       "url_diff" : "https://www.dropbox.com/s/nctxzmkvi014zvh/_gengaozo_screen_DK.bme?dl=0",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 3
+      "votePercent" : "92.86",
+      "voteYes" : 6
    },
    {
       "artist" : "mrt",
@@ -352,8 +352,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?mode=find&word=black+lotus+kuro",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "orangentle / deadblue238 / Note:薄杏",
@@ -370,7 +370,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 8
    },
    {
       "artist" : "Ark-Z feat. かなえゆめ / ill:tachi mov:わっふゑ obj:SUZUKAZEΛ",
@@ -387,7 +387,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 9
    },
    {
       "artist" : "xi / zyx",
@@ -420,7 +420,7 @@
       "url_diff" : "http://chack3sabun.web.fc2.com/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "94.44",
-      "voteYes" : 8
+      "votePercent" : "95.00",
+      "voteYes" : 9
    }
 ]
