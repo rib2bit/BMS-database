@@ -2653,6 +2653,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "作詞・作曲/上野ぱんだ　編曲/ケドメ　絵/るい　歌/初音ミク obj:Fender",
+      "comment" : "徐々に難しくなる乱打",
+      "level" : "2",
+      "md5" : "29f5eb984d14420f053407d20c1f14d1",
+      "proposer" : "STANK!",
+      "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
+      "sha256" : "b65189750b07009f0bf5c7be32267f8ec13a5e4fa6fe16157966f1fd96e67028",
+      "submission" : 1079,
+      "title" : "DOLL [F]",
+      "url" : "https://web.archive.org/web/20151030093509/http://mikihara.cheap.jp/bms/BOF2015/doll_ogg.zip",
+      "url_diff" : "http://fenderbms.web.fc2.com/"
+   },
+   {
       "artist" : "Yu^ta",
       "comment" : "かわいい",
       "level" : "9",
@@ -10100,6 +10113,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Kyou1110 vs Takuya Namba / D",
+      "comment" : "2~4? ソフランあるけどギアチェンできる",
+      "level" : "3",
+      "md5" : "a49d47e43fecc8ae419e09b5e8f83413",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "9e169e40d18bde5a063c8dfd2b888c2de97f277cc2d8401f018a6a0d55706adf",
+      "submission" : 1078,
+      "title" : "\"Alice in Wonderland\" : crazy apple could not live in real life [虚無]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/Alice%20in%20Wonderland%20crazy%20apple%20could%20not%20live%20in%20real%20life%20%5b%e4%b8%96%e7%95%8c%e3%81%ae%e9%81%a0%e8%97%a4100%e9%81%b8%5d.rar",
+      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up4362.rar"
+   },
+   {
       "artist" : "黄泉路テヂーモ / obj : LindBlum BGA:鑓田",
       "level" : "7",
       "md5" : "a4b248ad36c2a21040c3678b199cc07a",
@@ -11382,7 +11408,7 @@
    {
       "artist" : "Blue-J vs. Ruby.G / obj : litmus*",
       "comment" : "トリルとかゴミ付き階段のラス殺しとか",
-      "level" : "0",
+      "level" : "1",
       "md5" : "b37a021ef608260fd4dfd6c43717d044",
       "proposer" : "moai",
       "proposerLr2id" : 89156,
@@ -14113,6 +14139,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "kanone / mov:deadblue238 obj.Mallow♪",
+      "comment" : "10~11? LNある",
+      "level" : "10",
+      "md5" : "d9411e1ea20048bb585c3a3c2282ebf9",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "155216c17431ce5f2da30dae636554b1a93d4e230734db9b2fcb05364bf26f0f",
+      "submission" : 1077,
+      "title" : "Cross Galaxy [microcosmos]",
+      "url" : "http://uploader.bms.ms/data/bof2011okfquh83/%5BSERENDIPITY-kanone%5DCross_Galaxy_ogg.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03324"
    },
    {
       "artist" : "珊瑚と海月",

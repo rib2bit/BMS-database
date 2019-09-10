@@ -1,22 +1,5 @@
 [
    {
-      "artist" : "pencil",
-      "comment" : "3~4?",
-      "level" : "3",
-      "md5" : "218592671612e80104e6893bb7868cff",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "6ed04450f473aa215301dfe4de1bb2f2c847c5dc9fec4120e2eef4aa3c1a0bf9",
-      "submission" : 988,
-      "title" : "melty blood into the holy grail",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=573&event=110",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00398",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 6
-   },
-   {
       "artist" : "roop / obj:わふわふ",
       "comment" : "3~4、縦に濃いガチ押し",
       "level" : "4",
@@ -31,24 +14,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
-   },
-   {
-      "artist" : "Chino / obj;NoName",
-      "comment" : "0~1?",
-      "level" : "0",
-      "md5" : "518c27df28b90cc4043961b295f3a477",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "da3ef1dd6e7f52e1521c3d08b549d16666f340894afc1acc764f2bd551fda879",
-      "submission" : 984,
-      "title" : "Espresso Shots (ぴょんぴょん)",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=96",
-      "url_diff" : "http://kanki2.net/bme.html",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "83.33",
-      "voteYes" : 7
+      "voteYes" : 4
    },
    {
       "artist" : "うまるつふり / selene.",
@@ -62,23 +28,6 @@
       "title" : "魂姫～たまひめ～ -虐-",
       "url" : "https://venue.bmssearch.net/bmsshuin2/7",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03242",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 3
-   },
-   {
-      "artist" : "SP-# / obj morio",
-      "comment" : "高速ズレ物量　",
-      "level" : "9",
-      "md5" : "60c12f77947e4da438f75ee985bdff2e",
-      "proposer" : "APRICOT",
-      "proposerLr2id" : 109350,
-      "sha256" : "d607d8584d1285f87a79083c9c575817ac70e67d018be71636d5f960d36eadf2",
-      "submission" : 992,
-      "title" : "corneal -Over The Limit-",
-      "url" : "http://k-bms.com/party_pabat/party2014.jsp?board_num=11&num=48",
-      "url_diff" : "http://app.box.com/s/mgxeban5yeqbicazs9ts",
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
@@ -98,8 +47,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03213",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "witch's slave a.k.a. gmtn. / obj. AXION for \"Abstract\" Graphic by 水無月ぱんだ。",
@@ -116,24 +65,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
-   },
-   {
-      "artist" : "roop / И",
-      "comment" : "ガチ押し",
-      "level" : "3",
-      "md5" : "9a110d94d62a74daa5d503f5b0f0f17f",
-      "proposer" : "otoshi.b",
-      "proposerLr2id" : 87474,
-      "sha256" : "f5fea993bf837e96188fd4665d29d235609a2e3b44ec433ea16c9c69d8dbf0eb",
-      "submission" : 987,
-      "title" : "Chatblanc [La Scala]",
-      "url" : "http://web.archive.org/web/20141124133307/http://str3.org/data/roop/roop_chatblanc.zip",
-      "url_diff" : "http://bms.parksulab.xyz",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 5
    },
    {
       "artist" : "daisan Movie : highluin / obj.hex",
@@ -149,8 +81,8 @@
       "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "MONO obj.hex",
@@ -166,41 +98,41 @@
       "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
+      "artist" : "Process 2.3.1. / suna obj:Fender",
+      "comment" : "判定が難しい",
+      "level" : "2",
+      "md5" : "e39d2cac795946660a0109410650131e",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "2614484a14bbeb8f091244896e1674a74b14ac770047f59d76aba2040110b698",
+      "submission" : 997,
+      "title" : "鼠の標本 [Φ]",
+      "url" : "https://www.dropbox.com/s/ka7thaepvh40tj6/%E9%BC%A0%E3%81%AE%E6%A8%99%E6%9C%AC.zip?dl=1",
+      "url_diff" : "http://fenderbms.web.fc2.com/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
       "votePercent" : 100,
       "voteYes" : 1
    },
    {
-      "artist" : "Kankitsu",
-      "comment" : "ガチ押し",
+      "artist" : "-45 / obj;Nemes",
+      "comment" : "連打絡み乱打＋ディレイ",
       "level" : "7",
-      "md5" : "bd97bff3356c5d85dd3490c15d25035b",
-      "proposer" : "BAECON",
-      "proposerLr2id" : 46122,
-      "sha256" : "eae0da72bcd6d08631dab30718c4bc44887e7fa0e30f3c704673a508f241dc83",
-      "submission" : 989,
-      "title" : "Breeze -SUMMER BOSS-",
-      "url" : "https://venue.bmssearch.net/bmsshuin2/92",
-      "url_diff" : "http://bms.parksulab.xyz",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 3
-   },
-   {
-      "artist" : "裏 吉 川 / 3-1-2-1",
-      "comment" : "aci-l delay",
-      "level" : "6",
-      "md5" : "ea77870ae98cbb7f6ed6d1d55c32615b",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "6a99de5dd828757d44f099370bedf83da061e5452271784d75688872b529a858",
-      "submission" : 983,
-      "title" : "A c i - L - 3 2 E X T",
-      "url" : "http://malie.noor.jp/",
-      "url_diff" : "http://goo.gl/XbR1N",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 4
+      "md5" : "f2ad59e1c2718001ed7789c6fa9e134e",
+      "proposer" : "APRICOT",
+      "proposerLr2id" : 109350,
+      "sha256" : "15aee06a37d55ca609ec8932f0d4eb9bf5c286efe691d87a35fdc150ca16aa16",
+      "submission" : 998,
+      "title" : "EXILE -BLACK HOLE-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=184&event=65",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
+      "voteNeutral" : 2,
+      "voteNo" : 2,
+      "votePercent" : "50.00",
+      "voteYes" : 2
    }
 ]

@@ -466,6 +466,18 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
    },
    {
+      "artist" : "アクジ / obj:morio OBJ: Morio",
+      "comment" : "sl?",
+      "level" : "4",
+      "md5" : "0b4058268c2f96600906b3a9dfa4d1c3",
+      "proposer" : "qtp13",
+      "sha256" : "a7ec6d08f027dbfa34c860e23e22a819443af776af66f369a78be201d096b39c",
+      "submission" : 1053,
+      "title" : "BAD NEWS  [Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=95",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Lian",
       "comment" : "BMSをいっぱい作る2019、乱打",
       "level" : "6",
@@ -3087,6 +3099,18 @@
       "url_diff" : "https://www.dropbox.com/s/xlccgdnjqa801bw/YRKG_sabun.zip?dl=1"
    },
    {
+      "artist" : "ケドメ　絵/るい　歌/初音ミク　譜面/岡部うすにごり",
+      "comment" : "同時押し、軸、皿複合、低Total",
+      "level" : "3",
+      "md5" : "59e194aa018dedf38478c46d551ddfce",
+      "proposer" : "STANK!",
+      "sha256" : "cce33e42dc65b8c7031672b0c57c9f5138c035c7d871528f72e6207abcb63b23",
+      "submission" : 1059,
+      "title" : "QTロジック [アンドロイドなのですし]",
+      "url" : "https://web.archive.org/web/20151030093456/http://mikihara.cheap.jp/bms/BOF2015/QTlogic_ogg.zip",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03265"
+   },
+   {
       "artist" : "Tanchiky",
       "comment" : "総合力",
       "level" : "3",
@@ -3515,6 +3539,18 @@
       "title" : "al fine [INSANE]",
       "url" : "https://venue.bmssearch.net/ippaitukuru2019/32",
       "url_diff" : ""
+   },
+   {
+      "artist" : "みーに feat. 初音ミク obj:Fendou",
+      "comment" : "ガチ押し",
+      "level" : "5",
+      "md5" : "6692336d013c16c438437e30b44f24af",
+      "proposer" : "Triforce",
+      "sha256" : "41750fa6eed9bb5145975078c6eba4ea540d32fbf1125c80fd98d9b268ee63b2",
+      "submission" : 1062,
+      "title" : "五月雨に誓う [SP EX+]",
+      "url" : "https://drive.google.com/open?id=1WrtgLMU-Q65m2a-gJbmOHT7M4jkyZmEV",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03305"
    },
    {
       "artist" : "ak+q/obj:凩",
@@ -5006,6 +5042,18 @@
       "url_diff" : "http://www.dropbox.com/s/wchlsyqyf9a5qd3/anzu_spe.bms?dl=0"
    },
    {
+      "artist" : "kohaxy",
+      "comment" : "第二回BMS衆議院選、縦連、トリル",
+      "level" : "0",
+      "md5" : "9215f56a012451d1e9b571060c0b9451",
+      "proposer" : "ww",
+      "sha256" : "6469d642b66ebb6893140fae3083d760da9e728e392ae533342bef4bd588f107",
+      "submission" : 1056,
+      "title" : "Out Low",
+      "url" : "https://venue.bmssearch.net/bmsshuin2/60",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Team:SASAKURATION obj:C4",
       "level" : "3",
       "md5" : "92b736baaa2bd207b8b6d76829661f93",
@@ -6365,6 +6413,18 @@
       "submission" : 192,
       "title" : "ハニエルのうた [EXTRA]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=120",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "mrt",
+      "comment" : "軸押し寄りの16分ガチ押し譜面",
+      "level" : "5",
+      "md5" : "b31259505ed8a18dd1e9be924308aa45",
+      "proposer" : "moai",
+      "sha256" : "a475cdc12173604f950137ac49762c871bb131da9ed7c9ad1c4f560b130610fc",
+      "submission" : 1050,
+      "title" : "Term of Atrophy [ANOTHER]",
+      "url" : "https://venue.bmssearch.net/ippaitukuru2019/25",
       "url_diff" : ""
    },
    {

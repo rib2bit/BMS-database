@@ -13120,6 +13120,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Process 2.3.1. / suna obj:Fender",
+      "comment" : "判定が難しい",
+      "level" : "2",
+      "md5" : "e39d2cac795946660a0109410650131e",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "2614484a14bbeb8f091244896e1674a74b14ac770047f59d76aba2040110b698",
+      "submission" : 997,
+      "title" : "鼠の標本 [Φ]",
+      "url" : "https://www.dropbox.com/s/ka7thaepvh40tj6/%E9%BC%A0%E3%81%AE%E6%A8%99%E6%9C%AC.zip?dl=1",
+      "url_diff" : "http://fenderbms.web.fc2.com/"
+   },
+   {
       "artist" : "tcheb / mov:Roaring Flame / Illust:ゆーま。/差分 赤い人",
       "level" : "2",
       "md5" : "e488b404d6f5da84ea1ce98f9ac4572b",
@@ -13802,6 +13815,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "-45 / obj;Nemes",
+      "comment" : "連打絡み乱打＋ディレイ",
+      "level" : "7",
+      "md5" : "f2ad59e1c2718001ed7789c6fa9e134e",
+      "proposer" : "APRICOT",
+      "proposerLr2id" : 109350,
+      "sha256" : "15aee06a37d55ca609ec8932f0d4eb9bf5c286efe691d87a35fdc150ca16aa16",
+      "submission" : 998,
+      "title" : "EXILE -BLACK HOLE-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=184&event=65",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
    },
    {
       "artist" : "MisomyL obj:selene.",

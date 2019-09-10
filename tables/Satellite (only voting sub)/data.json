@@ -1,22 +1,5 @@
 [
    {
-      "artist" : "アクジ / obj:morio OBJ: Morio",
-      "comment" : "sl?",
-      "level" : "4",
-      "md5" : "0b4058268c2f96600906b3a9dfa4d1c3",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "a7ec6d08f027dbfa34c860e23e22a819443af776af66f369a78be201d096b39c",
-      "submission" : 1053,
-      "title" : "BAD NEWS  [Another]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=95",
-      "url_diff" : "",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "93.33",
-      "voteYes" : 14
-   },
-   {
       "artist" : "削除 feat. void / 浪漫映像制作倶楽部 / obj : И",
       "comment" : "乱打、同時押し // 8,74小節に手動ディレイあり",
       "level" : "11",
@@ -30,8 +13,8 @@
       "url_diff" : "http://bms.parksulab.xyz",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "75.00",
-      "voteYes" : 1
+      "votePercent" : "91.67",
+      "voteYes" : 5
    },
    {
       "artist" : "志熊けい obj:sak",
@@ -48,7 +31,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 10
+      "voteYes" : 13
+   },
+   {
+      "artist" : "作詞・作曲/上野ぱんだ　編曲/ケドメ　絵/るい　歌/初音ミク obj:Fender",
+      "comment" : "徐々に難しくなる乱打",
+      "level" : "2",
+      "md5" : "29f5eb984d14420f053407d20c1f14d1",
+      "proposer" : "STANK!",
+      "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
+      "sha256" : "b65189750b07009f0bf5c7be32267f8ec13a5e4fa6fe16157966f1fd96e67028",
+      "submission" : 1079,
+      "title" : "DOLL [F]",
+      "url" : "https://web.archive.org/web/20151030093509/http://mikihara.cheap.jp/bms/BOF2015/doll_ogg.zip",
+      "url_diff" : "http://fenderbms.web.fc2.com/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "Est / obj:七海千秋",
@@ -63,8 +63,8 @@
       "url_diff" : "https://www.dropbox.com/s/brzyghk8nsuamn2/likeanorange.zip?dl=1",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.00",
-      "voteYes" : 9
+      "votePercent" : "95.83",
+      "voteYes" : 11
    },
    {
       "artist" : "うまるつふり / selene.",
@@ -84,23 +84,6 @@
       "voteYes" : 9
    },
    {
-      "artist" : "ケドメ　絵/るい　歌/初音ミク　譜面/岡部うすにごり",
-      "comment" : "同時押し、軸、皿複合、低Total",
-      "level" : "3",
-      "md5" : "59e194aa018dedf38478c46d551ddfce",
-      "proposer" : "STANK!",
-      "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
-      "sha256" : "cce33e42dc65b8c7031672b0c57c9f5138c035c7d871528f72e6207abcb63b23",
-      "submission" : 1059,
-      "title" : "QTロジック [アンドロイドなのですし]",
-      "url" : "https://web.archive.org/web/20151030093456/http://mikihara.cheap.jp/bms/BOF2015/QTlogic_ogg.zip",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03265",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "96.15",
-      "voteYes" : 12
-   },
-   {
       "artist" : "hugepulse BGA:Micelle",
       "comment" : "第二回BMS衆議院選、ガチ押し",
       "level" : "0",
@@ -114,25 +97,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "85.00",
-      "voteYes" : 7
-   },
-   {
-      "artist" : "みーに feat. 初音ミク obj:Fendou",
-      "comment" : "ガチ押し",
-      "level" : "5",
-      "md5" : "6692336d013c16c438437e30b44f24af",
-      "proposer" : "Triforce",
-      "proposerLr2id" : 18553,
-      "sha256" : "41750fa6eed9bb5145975078c6eba4ea540d32fbf1125c80fd98d9b268ee63b2",
-      "submission" : 1062,
-      "title" : "五月雨に誓う [SP EX+]",
-      "url" : "https://drive.google.com/open?id=1WrtgLMU-Q65m2a-gJbmOHT7M4jkyZmEV",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03305",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 11
+      "votePercent" : "87.50",
+      "voteYes" : 9
    },
    {
       "artist" : "Sound Souler / のの",
@@ -165,25 +131,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "83.33",
-      "voteYes" : 5
-   },
-   {
-      "artist" : "kohaxy",
-      "comment" : "第二回BMS衆議院選、縦連、トリル",
-      "level" : "0",
-      "md5" : "9215f56a012451d1e9b571060c0b9451",
-      "proposer" : "ww",
-      "proposerLr2id" : 147642,
-      "sha256" : "6469d642b66ebb6893140fae3083d760da9e728e392ae533342bef4bd588f107",
-      "submission" : 1056,
-      "title" : "Out Low",
-      "url" : "https://venue.bmssearch.net/bmsshuin2/60",
-      "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "93.33",
-      "voteYes" : 13
+      "votePercent" : "87.50",
+      "voteYes" : 7
    },
    {
       "artist" : "incinerate obj:OK@GE",
@@ -214,27 +163,27 @@
       "title" : "Fastraffic [INSANE]",
       "url" : "http://houjirou.at-ninja.jp/",
       "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
-      "voteNeutral" : 2,
-      "voteNo" : 2,
-      "votePercent" : "50.00",
-      "voteYes" : 2
-   },
-   {
-      "artist" : "atomic sphere / obj.ctc",
-      "comment" : "ctcさんのキー音アレンジ",
-      "level" : "12",
-      "md5" : "ab27f7d4135b5437159c4027b473e959",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "59c02f7a01d78d866bca48e12915a5edfc8c3982664f3dc4ce2912d3bce81a0c",
-      "submission" : 1052,
-      "title" : "OMEGA IX ctcmix [Abusive]",
-      "url" : "http://onedrive.live.com/?cid=3FB27C3B8FE97CE4&id=3FB27C3B8FE97CE4%21107",
-      "url_diff" : "http://ctconnected.blog.fc2.com/blog-entry-1.html",
       "voteNeutral" : 3,
       "voteNo" : 3,
-      "votePercent" : "61.11",
-      "voteYes" : 5
+      "votePercent" : "50.00",
+      "voteYes" : 3
+   },
+   {
+      "artist" : "Kyou1110 vs Takuya Namba / D",
+      "comment" : "2~4? ソフランあるけどギアチェンできる",
+      "level" : "3",
+      "md5" : "a49d47e43fecc8ae419e09b5e8f83413",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "9e169e40d18bde5a063c8dfd2b888c2de97f277cc2d8401f018a6a0d55706adf",
+      "submission" : 1078,
+      "title" : "\"Alice in Wonderland\" : crazy apple could not live in real life [虚無]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/Alice%20in%20Wonderland%20crazy%20apple%20could%20not%20live%20in%20real%20life%20%5b%e4%b8%96%e7%95%8c%e3%81%ae%e9%81%a0%e8%97%a4100%e9%81%b8%5d.rar",
+      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up4362.rar",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "45Is-m BGA:-45 obj. DK",
@@ -250,41 +199,7 @@
       "url_diff" : "https://www.dropbox.com/s/nctxzmkvi014zvh/_gengaozo_screen_DK.bme?dl=0",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "92.86",
-      "voteYes" : 6
-   },
-   {
-      "artist" : "mrt",
-      "comment" : "軸押し寄りの16分ガチ押し譜面",
-      "level" : "5",
-      "md5" : "b31259505ed8a18dd1e9be924308aa45",
-      "proposer" : "moai",
-      "proposerLr2id" : 89156,
-      "sha256" : "a475cdc12173604f950137ac49762c871bb131da9ed7c9ad1c4f560b130610fc",
-      "submission" : 1050,
-      "title" : "Term of Atrophy [ANOTHER]",
-      "url" : "https://venue.bmssearch.net/ippaitukuru2019/25",
-      "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "96.15",
-      "voteYes" : 12
-   },
-   {
-      "artist" : "Blue-J vs. Ruby.G / obj : litmus*",
-      "comment" : "トリルとかゴミ付き階段のラス殺しとか",
-      "level" : "0",
-      "md5" : "b37a021ef608260fd4dfd6c43717d044",
-      "proposer" : "moai",
-      "proposerLr2id" : 89156,
-      "sha256" : "d4b4b3dd9cca39c1288b8962f52c6b06693f5a4aa8af937c36cf04ec3eea78c3",
-      "submission" : 1046,
-      "title" : "Unexpected Encounter [7-Another]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=40&event=89",
-      "url_diff" : "https://web.archive.org/web/*/http://www.aleibar.net/public/tukiyama/A9Ssabun.zip",
-      "voteNeutral" : 2,
-      "voteNo" : 2,
-      "votePercent" : "75.00",
+      "votePercent" : "95.00",
       "voteYes" : 9
    },
    {
@@ -318,8 +233,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 4
+      "votePercent" : "94.44",
+      "voteYes" : 8
    },
    {
       "artist" : "TAK / 差分　赤い人",
@@ -335,8 +250,8 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/trinity-DELAYMASTER.bme",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "75.00",
-      "voteYes" : 6
+      "votePercent" : "80.00",
+      "voteYes" : 8
    },
    {
       "artist" : "wa. / 百舌谷 obj:kuro",
@@ -353,7 +268,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 6
    },
    {
       "artist" : "orangentle / deadblue238 / Note:薄杏",
@@ -367,10 +282,27 @@
       "title" : "HAELEQUIN [EX]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=389&event=83",
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "90.00",
+      "voteYes" : 9
+   },
+   {
+      "artist" : "kanone / mov:deadblue238 obj.Mallow♪",
+      "comment" : "10~11? LNある",
+      "level" : "10",
+      "md5" : "d9411e1ea20048bb585c3a3c2282ebf9",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "155216c17431ce5f2da30dae636554b1a93d4e230734db9b2fcb05364bf26f0f",
+      "submission" : 1077,
+      "title" : "Cross Galaxy [microcosmos]",
+      "url" : "http://uploader.bms.ms/data/bof2011okfquh83/%5BSERENDIPITY-kanone%5DCross_Galaxy_ogg.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03324",
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 2
    },
    {
       "artist" : "Ark-Z feat. かなえゆめ / ill:tachi mov:わっふゑ obj:SUZUKAZEΛ",
@@ -387,24 +319,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
-   },
-   {
-      "artist" : "xi / zyx",
-      "comment" : "7～8?",
-      "level" : "7",
-      "md5" : "f632538b35942536319c1974f8a83bb6",
-      "proposer" : "selene.",
-      "proposerLr2id" : 84521,
-      "sha256" : "60c7e5821fac22214407c39bb1fa7903a4d85dea2c2e17ead431ffdbbcbec1b0",
-      "submission" : 1054,
-      "title" : "Ascension to Heaven [A-2]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=60",
-      "url_diff" : "http://absolute.pv.land.to/uploader/src/up2452.zip",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "68.75",
-      "voteYes" : 4
+      "voteYes" : 11
    },
    {
       "artist" : "LeaF × kana / obj:chack Movie:To7",
