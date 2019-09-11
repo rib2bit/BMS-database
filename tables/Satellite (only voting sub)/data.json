@@ -31,7 +31,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 13
+      "voteYes" : 14
    },
    {
       "artist" : "作詞・作曲/上野ぱんだ　編曲/ケドメ　絵/るい　歌/初音ミク obj:Fender",
@@ -197,9 +197,9 @@
       "title" : "G e n g a o z o -Screen music- -EX-",
       "url" : "http://www.is-m.jp/bms/song/em41.html",
       "url_diff" : "https://www.dropbox.com/s/nctxzmkvi014zvh/_gengaozo_screen_DK.bme?dl=0",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "95.00",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "86.36",
       "voteYes" : 9
    },
    {
@@ -216,8 +216,8 @@
       "url_diff" : "http://beatkim.web.fc2.com/insane.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "87.50",
-      "voteYes" : 10
+      "votePercent" : "88.46",
+      "voteYes" : 11
    },
    {
       "artist" : "朝武芳乃 vs. 常陸茉子 obj:綾地寧々",
