@@ -17,6 +17,23 @@
       "voteYes" : 4
    },
    {
+      "artist" : "Yosk!",
+      "comment" : "sl12~st1 ラス殺し",
+      "level" : "0",
+      "md5" : "3044d3e1a3c4ccfc7d4b39b5b15167e7",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "731d08f21ae6cae65294ce1bda787c292e5f3adfe72553723e7cafdfdf0b4846",
+      "submission" : 1000,
+      "title" : "パーリィのはじまりだ！",
+      "url" : "https://drive.google.com/open?id=0B7qCw4hNijr4MnZxR0JYNHFHV3M",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "うまるつふり / selene.",
       "comment" : "たのしい！",
       "level" : "2",
@@ -66,6 +83,23 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 5
+   },
+   {
+      "artist" : "佐久丸(sak vs wumalutsufuri) obj:sak",
+      "comment" : "st4の強化版",
+      "level" : "8",
+      "md5" : "9e20fb74458371fb576843bbe6b44a6d",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "09c67636ed514bf156d695876bcee93d06fc39eaddcadd40a0fecfe5040cf6b7",
+      "submission" : 999,
+      "title" : "宵桜回廊 [決死]",
+      "url" : "https://event.yaruki0.net/VSevent/impression/47",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "daisan Movie : highluin / obj.hex",
