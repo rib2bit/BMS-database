@@ -4718,9 +4718,9 @@
       "title" : "CONNECT γ [女神14]"
    },
    {
-      "artist" : "RMHN / Symphonian",
+      "artist" : "RMHN / Symphonian *FLIP",
       "comment" : "Vimuti Call Service",
-      "level" : "★6",
+      "level" : "★5",
       "md5" : "1b3e4653a8f3c08b60deb647cad98cb4",
       "title" : "Nirvana Express [DP Bhudda]"
    },
@@ -6067,6 +6067,13 @@
       "level" : "3",
       "md5" : "23c9c835828e272011562bd6f2ad58f3",
       "title" : "Andro [sub another+]"
+   },
+   {
+      "artist" : "Moxyo / obj:imit8or *FLIP",
+      "comment" : "なんちゃってSTEP",
+      "level" : "3",
+      "md5" : "23d8752df28a33d7237eab50b8279a43",
+      "title" : "NANAME front (14keys Maniac)"
    },
    {
       "artist" : "Bms:KOUICHI / Symphonian *LR.MIRROR",
@@ -8526,7 +8533,7 @@
       "title" : "LUV TO ME 2011 [LNA14]"
    },
    {
-      "artist" : "dj sept-em / Symphonian *FLIP",
+      "artist" : "dj sept-em / Symphonian",
       "comment" : "Freeform / 14keys",
       "level" : "10",
       "md5" : "32c421e48df266fe62f1025274e7c68f",
@@ -9079,7 +9086,7 @@
       "title" : "ピアノ狂騒曲第零番「神姫」 [ANOTHER14]"
    },
    {
-      "artist" : "姉ヶ崎 寧々 BGA : photonskyto obj:ucc",
+      "artist" : "姉ヶ崎 寧々 BGA : photonskyto obj:ucc  *R.MIR",
       "comment" : "FULL ON",
       "level" : "★6",
       "md5" : "35eef5c26f7f1825835fc77eaea170ac",
@@ -11907,6 +11914,13 @@
       "title" : "The Island of Albatross [14key yukither]"
    },
    {
+      "artist" : "Lime / Roaring Flame / obj:alt",
+      "comment" : "Hardcore",
+      "level" : "6",
+      "md5" : "4808028a0a7452891ea5d9e554b9774a",
+      "title" : "Daydreamer [Doughnuts]"
+   },
+   {
       "artist" : "Ninja Action Team obj:azurite *FLIP",
       "comment" : "Japanese Rave",
       "level" : "3",
@@ -13167,7 +13181,7 @@
       "title" : "幽雅に開け、青空の扉 -EXUSIA-"
    },
    {
-      "artist" : "Blacksparrow VS DeathisM",
+      "artist" : "Blacksparrow VS DeathisM *正規 or LR.RAN",
       "comment" : "Orchestral Drum'n Bass",
       "level" : "★6",
       "md5" : "4ff1019c2a61c8e2aa8a93315edc76bc",
@@ -13685,7 +13699,7 @@
       "title" : "追想 [DPA]"
    },
    {
-      "artist" : "seizan",
+      "artist" : "seizan *L.MIRROR",
       "comment" : "MSGS TECH CORE",
       "level" : "★7",
       "md5" : "532b0732e4de52d4a7258863ba305dc3",
@@ -16604,7 +16618,7 @@
       "title" : "衛星ミカボシ [DP]"
    },
    {
-      "artist" : "ツナ?ヨちゃん Rustin *正規 or FLIP",
+      "artist" : "ツナ?ヨちゃん Rustin *FLIP　or 正規",
       "comment" : "木工?ンドオブジェ",
       "level" : "★5",
       "md5" : "642cd60044e7e983949694941e2927ed",
@@ -22024,7 +22038,7 @@
    {
       "artist" : "DOT96",
       "comment" : "TECH DANCE",
-      "level" : "6",
+      "level" : "3",
       "md5" : "82cf270056e6a2c222eed30b5b70af62",
       "title" : "GO BACK 2 RAVE (BEAT BACK 2 SCRATCH)"
    },
@@ -22883,7 +22897,7 @@
       "title" : "Skull & Witch [黒色破壊光線 StD]"
    },
    {
-      "artist" : "Ludwig Van Beethoven",
+      "artist" : "Ludwig Van Beethoven *LR.MIRROR",
       "comment" : "SONATA",
       "level" : "10",
       "md5" : "8794197cf58ef4680795def14feee002",
@@ -23301,6 +23315,13 @@
       "level" : "3",
       "md5" : "89ebb71949f40329217b97eb8a36c4be",
       "title" : "7DP:ONE:虹を見た11月20日 -TWiN mix-"
+   },
+   {
+      "artist" : "roomcoast / obj:imit8or *FLIP",
+      "comment" : "jazz report",
+      "level" : "10",
+      "md5" : "89eee69a18b6973512e0d21f4e97b7f1",
+      "title" : "The Azure Port (14keys Maniac)"
    },
    {
       "artist" : "scytheleg / obj:OSR",
@@ -25851,6 +25872,13 @@
       "title" : "Castor(BMS edit) [DP twins]"
    },
    {
+      "artist" : "SOMON / obj.vectorla",
+      "comment" : "Artcore",
+      "level" : "9",
+      "md5" : "985e26ab42e0272e701269d1950e8449",
+      "title" : "-Phantom Tear-［ANOTHER］"
+   },
+   {
       "artist" : "Shaman Cure-All //obj.kiri *L.MIRROR",
       "comment" : "Suomi3undi",
       "level" : "6",
@@ -26073,6 +26101,13 @@
       "level" : "★4",
       "md5" : "99dbea8b188eede25a1d4347b0a8a28a",
       "title" : "ばーどすぷらいとだぶる ちょっとはやい"
+   },
+   {
+      "artist" : "Lime / Roaring Flame / obj:alt",
+      "comment" : "Hardcore",
+      "level" : "★2",
+      "md5" : "99e2b25144bad0cc55a9e800c6968626",
+      "title" : "Daydreamer [Somnambulism]"
    },
    {
       "artist" : "xelloscope",
@@ -32181,7 +32216,7 @@
    {
       "artist" : "ZUN Remixed by Ωμεγα/obj;ROCO *LR.RANDOM",
       "comment" : "RENAISSUWAKO",
-      "level" : "★6",
+      "level" : "★7",
       "md5" : "bcc8581ac69f325408506a2b683dbc5b",
       "title" : "nativeFaith [DP BLACK ANOTHER]"
    },
@@ -32998,7 +33033,7 @@
       "title" : "Electro Wanderer [Another14]"
    },
    {
-      "artist" : "Professor S obj:ucc *L.MIR or LR.MIR",
+      "artist" : "Professor S obj:ucc *FLIP LR.MIR or L.MIR or LR.MIR",
       "comment" : "TEKNO",
       "level" : "★4",
       "md5" : "c14519724728826c93dfd2256f9faaee",
@@ -35749,6 +35784,13 @@
       "title" : "Cassiopeia [Another14]"
    },
    {
+      "artist" : "otoshi.b / obj:imit8or *R.MIRROR",
+      "comment" : "HI-SPEED HAPPYCORE",
+      "level" : "★1",
+      "md5" : "d2eb4ff0966a5b2e38b75004d23879a2",
+      "title" : "Journey to the ∞BIT World (14keys Maniac)"
+   },
+   {
       "artist" : "Lime / obj:lichtr",
       "comment" : "Drum'n Bass",
       "level" : "2",
@@ -37513,7 +37555,7 @@
       "title" : "Hardening(short mix) (DP)"
    },
    {
-      "artist" : "ZUN Remixed by NoKANY obj:alt",
+      "artist" : "ZUN Remixed by NoKANY obj:alt  *FLIP LR.MIR or 正規",
       "comment" : "CRIMSON CORE",
       "level" : "10",
       "md5" : "de397d520c998e66bbab4017791c9668",
@@ -40068,7 +40110,7 @@
       "title" : "Act #000000 [short ver.2]"
    },
    {
-      "artist" : "mist-rose obj:ucc/reobj:hamburger *R.RANDOM",
+      "artist" : "mist-rose obj:ucc/reobj:hamburger *R.MIR or R.RAN",
       "comment" : "センチュリー",
       "level" : "★6",
       "md5" : "edfdc0413cd6b69387b555efb62781ab",

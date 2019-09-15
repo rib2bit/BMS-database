@@ -1,5 +1,22 @@
 [
    {
+      "artist" : "69 de 74 BGA : EViL/obj:赤い人",
+      "comment" : "物量",
+      "level" : "3",
+      "md5" : "149da54b5d789855bdfa3692c026b3e3",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "b8fd579078cc8cf36f637115301c929eb54d2de5ce1401ea76f72372d18785f7",
+      "submission" : 1003,
+      "title" : "確固たる意志 [INFERNO]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=114",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/_kakko_2_INFERNO.bms",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
       "artist" : "roop / obj:わふわふ",
       "comment" : "3~4、縦に濃いガチ押し",
       "level" : "4",
@@ -30,8 +47,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "うまるつふり / selene.",
@@ -48,7 +65,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "P4koo feat. A.Dokuga image : keiyuu/mov : VISREV /eleanor",
@@ -85,6 +102,23 @@
       "voteYes" : 5
    },
    {
+      "artist" : "kanone / mov:deadblue238 obj.Mallow♪",
+      "comment" : "物量",
+      "level" : "1",
+      "md5" : "7e0053aad813b50a8bc8e2bbfe9818b2",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "f92f6393d8ef6ad6ad1b1843e77cbda3a1de47a9dc0da4fe3b3bc1c258530d40",
+      "submission" : 1002,
+      "title" : "Cross Galaxy [macrocosmos]",
+      "url" : "http://uploader.bms.ms/data/bof2011okfquh83/%5BSERENDIPITY-kanone%5DCross_Galaxy_ogg.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03324",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
       "artist" : "佐久丸(sak vs wumalutsufuri) obj:sak",
       "comment" : "st4の強化版",
       "level" : "8",
@@ -99,7 +133,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "daisan Movie : highluin / obj.hex",
@@ -136,6 +170,23 @@
       "voteYes" : 2
    },
    {
+      "artist" : "sky_delta obj:BAECON",
+      "comment" : "同時押し　乱打",
+      "level" : "2",
+      "md5" : "b1c7b588775c0e5253e05c8486d10144",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "6a0572f24ace1197bf5d46a69706ffc4766f27921b474648a1571a8dfc094199",
+      "submission" : 1001,
+      "title" : "Kreuz [Rebirth]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=89&event=96",
+      "url_diff" : "http://akred.web.fc2.com/baecon/_kreuz_Rebirth.bms",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
       "artist" : "Process 2.3.1. / suna obj:Fender",
       "comment" : "判定が難しい",
       "level" : "2",
@@ -166,7 +217,7 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "60.00",
-      "voteYes" : 3
+      "votePercent" : "66.67",
+      "voteYes" : 4
    }
 ]
