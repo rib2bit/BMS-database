@@ -13,8 +13,8 @@
       "url_diff" : "http://bms.parksulab.xyz",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 6
+      "votePercent" : "88.89",
+      "voteYes" : 7
    },
    {
       "artist" : "志熊けい obj:sak",
@@ -146,9 +146,9 @@
       "title" : "Fastraffic [INSANE]",
       "url" : "http://houjirou.at-ninja.jp/",
       "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
-      "voteNeutral" : 6,
-      "voteNo" : 6,
-      "votePercent" : "35.00",
+      "voteNeutral" : 7,
+      "voteNo" : 7,
+      "votePercent" : "31.82",
       "voteYes" : 3
    },
    {
@@ -165,8 +165,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03343",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "70.00",
-      "voteYes" : 3
+      "votePercent" : "75.00",
+      "voteYes" : 4
    },
    {
       "artist" : "Kyou1110 vs Takuya Namba / D",
@@ -250,8 +250,8 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/trinity-DELAYMASTER.bme",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "80.00",
-      "voteYes" : 8
+      "votePercent" : "81.82",
+      "voteYes" : 9
    },
    {
       "artist" : "wa. / 百舌谷 obj:kuro",
@@ -267,8 +267,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?mode=find&word=black+lotus+kuro",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 6
+      "votePercent" : "88.89",
+      "voteYes" : 7
    },
    {
       "artist" : "orangentle / deadblue238 / Note:薄杏",
@@ -302,7 +302,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "Ark-Z feat. かなえゆめ / ill:tachi mov:わっふゑ obj:SUZUKAZEΛ",
@@ -337,6 +337,23 @@
       "voteNo" : 0,
       "votePercent" : "90.00",
       "voteYes" : 4
+   },
+   {
+      "artist" : "ユメミド Movie:テンソル / Illust:遥壱朗 / Arrange:LeaF",
+      "comment" : "ラス前殺し、楽しい",
+      "level" : "12",
+      "md5" : "f649c932d7df6ba14f3c7c4ef69cce4e",
+      "proposer" : "qqnqqn",
+      "proposerMinirid" : "5d755a1c-ef4c-4a48-a334-0035bb2ab860",
+      "sha256" : "4eade2a735e22d199b3cc2b4ec64752d9c908dc2ac0a5811b0cdbf5dfec5885b",
+      "submission" : 1084,
+      "title" : "Lyrith -迷宮リリス- [INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=218&event=116",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "LeaF × kana / obj:chack Movie:To7",
