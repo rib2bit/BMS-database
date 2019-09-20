@@ -84,6 +84,22 @@
       "voteYes" : 9
    },
    {
+      "artist" : "ETIA. feat.Jenga deadblue238 / 篠乃ちよ / obj:七海千秋",
+      "level" : "0",
+      "md5" : "54771de79f7787aa3c63aff7f78eff97",
+      "proposer" : "Mallow♪",
+      "proposerLr2id" : 154796,
+      "sha256" : "1bdf8bf6fc206c1a17fc9b2d586a9e41821e5406ae2a4d2382798541b95025ae",
+      "submission" : 1085,
+      "title" : "Say A Vengeance -Hope-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=7&event=83",
+      "url_diff" : "https://www.dropbox.com/s/f2slc49pwsmdom2/_say_a_vengeance_nanami01.bms?dl=0",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "hugepulse BGA:Micelle",
       "comment" : "第二回BMS衆議院選、ガチ押し",
       "level" : "0",
@@ -148,8 +164,8 @@
       "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
       "voteNeutral" : 7,
       "voteNo" : 7,
-      "votePercent" : "31.82",
-      "voteYes" : 3
+      "votePercent" : "37.50",
+      "voteYes" : 4
    },
    {
       "artist" : "corok-Bb/obj.matsu",
@@ -165,8 +181,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03343",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 4
+      "votePercent" : "78.57",
+      "voteYes" : 5
    },
    {
       "artist" : "Kyou1110 vs Takuya Namba / D",
@@ -322,6 +338,23 @@
       "voteYes" : 11
    },
    {
+      "artist" : "ZUN Remix by rider",
+      "comment" : "",
+      "level" : "0",
+      "md5" : "e9fca3b40e52fa9d2b7e8af5b10fa277",
+      "proposer" : "Mallow♪",
+      "proposerLr2id" : 154796,
+      "sha256" : "8e1b662238a05ecb67a23c96318e2db879571e08e3746c0b764a78df38dd4c1c",
+      "submission" : 1086,
+      "title" : "Gensou Leaving [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=102",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "Yosk!",
       "comment" : "パーティーのはじまりだ！",
       "level" : "4",
@@ -350,10 +383,10 @@
       "title" : "Lyrith -迷宮リリス- [INSANE]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=218&event=116",
       "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "75.00",
+      "voteYes" : 3
    },
    {
       "artist" : "LeaF × kana / obj:chack Movie:To7",

@@ -5323,6 +5323,18 @@
       "voteYes" : 0
    },
    {
+      "artist" : "ETIA. feat.Jenga deadblue238 / 篠乃ちよ / obj:七海千秋",
+      "level" : "0",
+      "md5" : "54771de79f7787aa3c63aff7f78eff97",
+      "proposer" : "Mallow♪",
+      "proposerLr2id" : 154796,
+      "sha256" : "1bdf8bf6fc206c1a17fc9b2d586a9e41821e5406ae2a4d2382798541b95025ae",
+      "submission" : 1085,
+      "title" : "Say A Vengeance -Hope-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=7&event=83",
+      "url_diff" : "https://www.dropbox.com/s/f2slc49pwsmdom2/_say_a_vengeance_nanami01.bms?dl=0"
+   },
+   {
       "artist" : "Polymath9 obj: Frozen Fog",
       "comment" : "G2R2018, 11/23からの新しいバージョンをDLしてください",
       "level" : "1",
@@ -15241,6 +15253,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "ZUN Remix by rider",
+      "comment" : "",
+      "level" : "0",
+      "md5" : "e9fca3b40e52fa9d2b7e8af5b10fa277",
+      "proposer" : "Mallow♪",
+      "proposerLr2id" : 154796,
+      "sha256" : "8e1b662238a05ecb67a23c96318e2db879571e08e3746c0b764a78df38dd4c1c",
+      "submission" : 1086,
+      "title" : "Gensou Leaving [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=102",
+      "url_diff" : ""
    },
    {
       "artist" : "Ras obj:YOURI",
