@@ -693,7 +693,7 @@
       "title" : "CLOCKTOWER (Abraj Al Bait Towers)"
    },
    {
-      "artist" : "xi obj:ucc *R.MIRROR",
+      "artist" : "xi obj:ucc *FLIP LR.RAN or R.MIR",
       "comment" : "RENAISSANCE HARDCORE",
       "level" : "7",
       "md5" : "03cd919f256c2d9dd7371c15f93b9b93",
@@ -3024,9 +3024,9 @@
       "title" : "winged dolphin [giman]"
    },
    {
-      "artist" : "No.89",
+      "artist" : "No.89 *LR.MIRROR",
       "comment" : "12th",
-      "level" : "1",
+      "level" : "3",
       "md5" : "1179bdab30d4b534e090406fec99eed6",
       "title" : "THANKS 12TH"
    },
@@ -9576,7 +9576,7 @@
       "title" : "Red -reduction division- (DP 鳥羽莉)"
    },
    {
-      "artist" : "Festa  obj:右手が恋人 鑓田(alpha complex)",
+      "artist" : "Festa  obj:右手が恋人 鑓田(alpha complex)  *SUD+",
       "comment" : "LIFE STREAM",
       "level" : "8",
       "md5" : "3969aa2fbc8482d5ba23aafbc1a167db",
@@ -9646,7 +9646,7 @@
       "title" : "Ascension to Heaven [右の鍛練]"
    },
    {
-      "artist" : "sun3(obj:A-4) *LR.MIRROR",
+      "artist" : "sun3(obj:A-4) *FLIP or LR.MIRROR",
       "comment" : "Nu-style Gabba",
       "level" : "10",
       "md5" : "39d3f1d69fa9b9025121b2590556b3aa",
@@ -12831,7 +12831,7 @@
       "title" : "Afterlife (omegaI inspired)"
    },
    {
-      "artist" : "紅蓮月影 obj:ucc",
+      "artist" : "紅蓮月影 obj:ucc *R.MIRROR",
       "comment" : "ジャッジメント",
       "level" : "6",
       "md5" : "4df889c7268356d9df32a0a91def085f",
@@ -12880,7 +12880,7 @@
       "title" : "ZENITHALIZE [DPz]"
    },
    {
-      "artist" : "Zoety / Movie:Epsilon / obj:azurite *FLIP",
+      "artist" : "Zoety / Movie:Epsilon / obj:azurite",
       "comment" : "UK Hardcore",
       "level" : "8",
       "md5" : "4e64c5925aa4f1254109560775ba2345",
@@ -14579,6 +14579,13 @@
       "level" : "★3",
       "md5" : "57e114f1b2c9455ed8f9d06daa96c514",
       "title" : "Valkyrie Revolutia [Gram]"
+   },
+   {
+      "artist" : "A.I.TOYS / 131",
+      "comment" : "chantcore breakbeats",
+      "level" : "?",
+      "md5" : "57ed2653f46871382d4d731d2e3a5063",
+      "title" : "祈り 14"
    },
    {
       "artist" : "siromaru  BBA",
@@ -17129,7 +17136,7 @@
       "title" : "ASAKAGE [kumanother]"
    },
    {
-      "artist" : "AOiRO_Manbow with kagerow / obj:ED *FLIP",
+      "artist" : "AOiRO_Manbow with kagerow / obj:ED *R.MIR or FLIP R.MIR",
       "comment" : "ドリームポップREMIX",
       "level" : "10",
       "md5" : "6707b89df8e974341e71dc8f1cb268b5",
@@ -18375,7 +18382,7 @@
       "title" : "Reveil [DP MGNother]"
    },
    {
-      "artist" : "NS-Factory obj:ED *AVERAGE",
+      "artist" : "NS-Factory obj:ED *SUD+ AVERAGE-20",
       "comment" : "Oriental Edge",
       "level" : "★6",
       "md5" : "6e8389b620f4fc1cf02dc189c93bc2a6",
@@ -20925,7 +20932,7 @@
    {
       "artist" : "紫陽花 obj:ucc *R.MIRROR",
       "comment" : "怨霊徒濫須",
-      "level" : "8",
+      "level" : "10",
       "md5" : "7c5b18cd5edfd82a22a800c7e2cf6966",
       "title" : "恍惚之宴 [A14]"
    },
@@ -21051,7 +21058,7 @@
    {
       "artist" : "上条春菜 *FLIP",
       "comment" : "Chip-Rock",
-      "level" : "8",
+      "level" : "10",
       "md5" : "7d2b1484597cc2aa45c2515969d3d8e8",
       "title" : "1001 reasons why I love glasses [14-ANOTHER]"
    },
@@ -21777,7 +21784,7 @@
       "title" : "beyond the limit -7keyex StD-"
    },
    {
-      "artist" : "Grand thaw  obj:ROCO",
+      "artist" : "Grand thaw  obj:ROCO *SUD+",
       "comment" : "NOCTURNE",
       "level" : "10",
       "md5" : "818a195bdce5361759dc1b4245223739",
@@ -23135,7 +23142,7 @@
       "title" : "Countdown to MADNESS [DP Another]"
    },
    {
-      "artist" : "Yamajet / obj:lichtr",
+      "artist" : "Yamajet / obj:lichtr *AVERAGE",
       "comment" : "BREAK CORE",
       "level" : "8",
       "md5" : "890e1f57029379bd86ac0c6fe7619532",
@@ -26397,7 +26404,7 @@
       "title" : "GO! GO! MANIAC -nrg mix- [MANIAC]"
    },
    {
-      "artist" : "Remixed by U.P. *L.MIRROR or FLIP",
+      "artist" : "Remixed by U.P. *LR.MIRROR or FLIP",
       "comment" : "TRANCE POP MIX",
       "level" : "★6",
       "md5" : "9b9fc99e3a2655ff43f00ddb3b3efd8a",
@@ -27253,7 +27260,7 @@
    {
       "artist" : "ねこみりん feat.小宮真央×みゆ×えみゅう。 obj:kuro Movie:kkkfff2 / Illust:永山ゆうのん",
       "comment" : "A-POP",
-      "level" : "★5",
+      "level" : "★6",
       "md5" : "a06c590932aa986a12f35f6b47fcb738",
       "title" : "オトゲラヴ！ {DP INFINITY}"
    },
@@ -28009,7 +28016,7 @@
    {
       "artist" : "adumac / dp131 / obj:ROCO",
       "comment" : "HOUSE",
-      "level" : "7",
+      "level" : "8",
       "md5" : "a4fb16914ae3eb94b7b0f4a4571268c8",
       "title" : "Cinderella Story -DP AMETHER-"
    },
@@ -29603,7 +29610,7 @@
       "title" : "ETERNAL STAR - red stars mix -  <14key another>"
    },
    {
-      "artist" : "nmk feat.Salita(obj.WAS)",
+      "artist" : "nmk feat.Salita(obj.WAS) *R.MIRROR",
       "comment" : "EUROBEAT",
       "level" : "7",
       "md5" : "ae3b218a699c94ad0c6498145898782b",
@@ -30238,6 +30245,13 @@
       "level" : "1",
       "md5" : "b1b5457f0220426a3ac7ccba5f58245e",
       "title" : "Tangerine Passport [A14]"
+   },
+   {
+      "artist" : "LeaF Movie:Optie&Fiz Rustin",
+      "comment" : "PHANTASMA",
+      "level" : "9",
+      "md5" : "b1baf2d86204ccc391d03a4d0041012f",
+      "title" : "MARENOL"
    },
    {
       "artist" : "削除 / 140 obj:ucc",
@@ -31024,7 +31038,7 @@
       "title" : "Skyblue Heaven [14keys Another]"
    },
    {
-      "artist" : "Dachs Movie : mi / obj:Hersh",
+      "artist" : "Dachs Movie : mi / obj:Hersh  *SUD+",
       "comment" : "Aesthetic Trance",
       "level" : "★6",
       "md5" : "b5fddf61b7c813be76ce713fdd6100d7",
@@ -34272,6 +34286,13 @@
       "title" : "FINALE and FLOWERS [EX14]"
    },
    {
+      "artist" : "siromaru / Mentalstock Rustin",
+      "comment" : "schranz",
+      "level" : "8",
+      "md5" : "c95bdc0f3c24f8412f9733d9afdd8072",
+      "title" : "Absurd Gaff"
+   },
+   {
       "artist" : "NS-Factory × deadblue238 × hi-low Obj:GO--YA",
       "comment" : "Energetic Trance",
       "level" : "4",
@@ -35014,9 +35035,9 @@
       "title" : "ATEKS TRIALOGUE [HYPER]"
    },
    {
-      "artist" : "Ninja Action Team/obj:epics- *正規 or FLIP",
+      "artist" : "Ninja Action Team/obj:epics- *L.MIRROR",
       "comment" : "Bigbeat",
-      "level" : "8",
+      "level" : "9",
       "md5" : "cd63167498f4f8a08a5a87b7f2704f08",
       "title" : "Wasabi - わさビーフ"
    },

@@ -1,37 +1,20 @@
 [
    {
-      "artist" : "削除 feat. void / 浪漫映像制作倶楽部 / obj : И",
-      "comment" : "乱打、同時押し // 8,74小節に手動ディレイあり",
-      "level" : "11",
-      "md5" : "1abcae664a42b09d1b25dc7696b3769f",
-      "proposer" : "かに",
-      "proposerLr2id" : 115381,
-      "sha256" : "b04ed18e94304ae9b1f550acfa4811e5959cbf5c2c3576b0c1914486dd4a508f",
-      "submission" : 1076,
-      "title" : "Black Lair [EXPERT]",
-      "url" : "http://web.archive.org/web/20131206203702/http://sakuzyo.net/sakuzyo_black_lair_ogg.zip",
-      "url_diff" : "http://bms.parksulab.xyz",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "88.89",
-      "voteYes" : 7
-   },
-   {
-      "artist" : "志熊けい obj:sak",
-      "comment" : "第二回BMS衆議院選、ズレ、同時押し、階段",
-      "level" : "3",
-      "md5" : "1e914b2a2aeca025c5c9b1213d48146a",
-      "proposer" : "ww",
-      "proposerLr2id" : 147642,
-      "sha256" : "0b1e4d4f04f1866a689d22d9175ead0178818d0e43ee592f2cb06fb60fa703d7",
-      "submission" : 1068,
-      "title" : "clockworkforest [ANOTHER]",
-      "url" : "https://venue.bmssearch.net/bmsshuin2/61",
+      "artist" : "3034",
+      "comment" : "皿複合",
+      "level" : "9",
+      "md5" : "0076b2ce2cee05999a524712c128740f",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "089c220a2428410bc16f2047d7d96626360801bc4021512be082e9a39b48be03",
+      "submission" : 1088,
+      "title" : "NS20 [7key CHAOSDEATH]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=63",
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 14
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "作詞・作曲/上野ぱんだ　編曲/ケドメ　絵/るい　歌/初音ミク obj:Fender",
@@ -48,7 +31,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "Est / obj:七海千秋",
@@ -67,23 +50,6 @@
       "voteYes" : 11
    },
    {
-      "artist" : "うまるつふり / selene.",
-      "comment" : "たのしい！",
-      "level" : "5",
-      "md5" : "3f053ac90522f242b5e503a8bea8ac16",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "9c6cdf4e1fe56e24f1fd5e0cfd517de8d3f8bdd6e0b1371555bf5243ad29cc9c",
-      "submission" : 1064,
-      "title" : "魂姫～たまひめ～ -狂-",
-      "url" : "https://venue.bmssearch.net/bmsshuin2/7",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03242",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "83.33",
-      "voteYes" : 9
-   },
-   {
       "artist" : "ETIA. feat.Jenga deadblue238 / 篠乃ちよ / obj:七海千秋",
       "level" : "0",
       "md5" : "54771de79f7787aa3c63aff7f78eff97",
@@ -97,7 +63,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 5
    },
    {
       "artist" : "hugepulse BGA:Micelle",
@@ -117,23 +83,6 @@
       "voteYes" : 10
    },
    {
-      "artist" : "incinerate obj:OK@GE",
-      "comment" : "高速。32分階段が頻発。後半は縦連がきつい配置。",
-      "level" : "6",
-      "md5" : "924f1d51851a2991722a042654d4ce09",
-      "proposer" : "DK",
-      "proposerLr2id" : 46697,
-      "sha256" : "71b7548e74fc9c75a7a9e14cd505f7bab33147826e81f01e1829f505fbfe3990",
-      "submission" : 1061,
-      "title" : "煉獄-Purgatorium- [ANOTHER--]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=172&event=74",
-      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
-      "voteNeutral" : 2,
-      "voteNo" : 2,
-      "votePercent" : "73.08",
-      "voteYes" : 8
-   },
-   {
       "artist" : "Sakamiya feat.前野 mov:hx",
       "comment" : "G2R2018、同時押し",
       "level" : "0",
@@ -147,25 +96,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "88.89",
-      "voteYes" : 8
-   },
-   {
-      "artist" : "HOUJIROU / obj:夢瑠",
-      "comment" : "皿縦連",
-      "level" : "12",
-      "md5" : "a289cb1aba9d8f4a7d4cf9f7ec93370f",
-      "proposer" : "なつ",
-      "proposerLr2id" : 65517,
-      "sha256" : "49de345861a17bc177be7b297b698418395de91bbe12313ab76fd16ae76ed04c",
-      "submission" : 1074,
-      "title" : "Fastraffic [INSANE]",
-      "url" : "http://houjirou.at-ninja.jp/",
-      "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
-      "voteNeutral" : 7,
-      "voteNo" : 7,
-      "votePercent" : "37.50",
-      "voteYes" : 4
+      "votePercent" : "90.00",
+      "voteYes" : 9
    },
    {
       "artist" : "corok-Bb/obj.matsu",
@@ -202,40 +134,6 @@
       "voteYes" : 3
    },
    {
-      "artist" : "45Is-m BGA:-45 obj. DK",
-      "comment" : "乱打、低TOTAL(0.15~)",
-      "level" : "4",
-      "md5" : "b15e1d4c4bfc4a20dced1592b6ea3457",
-      "proposer" : "Triforce",
-      "proposerLr2id" : 18553,
-      "sha256" : "de1a5b030fd1ddb0d3ea6adeddfd32856c4e7deab6db5d1984573007582b49f7",
-      "submission" : 1073,
-      "title" : "G e n g a o z o -Screen music- -EX-",
-      "url" : "http://www.is-m.jp/bms/song/em41.html",
-      "url_diff" : "https://www.dropbox.com/s/nctxzmkvi014zvh/_gengaozo_screen_DK.bme?dl=0",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "87.50",
-      "voteYes" : 10
-   },
-   {
-      "artist" : "unknown \"ω\" a.k.a. Nego_tiator obj. BK",
-      "comment" : "皿複合 sl3~sl4",
-      "level" : "3",
-      "md5" : "b9b13062afe60cf2e74313e2c2dcc19d",
-      "proposer" : "STANK!",
-      "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
-      "sha256" : "165717c163c70cc6f41914e00ab0d48d525b69fab1578a0c8b6664936f6532ef",
-      "submission" : 1058,
-      "title" : "THE PRANKSTER [Jabberwocky]",
-      "url" : "https://venue.bmssearch.net/bmsshuin2/81",
-      "url_diff" : "http://beatkim.web.fc2.com/insane.html",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "88.46",
-      "voteYes" : 11
-   },
-   {
       "artist" : "朝武芳乃 vs. 常陸茉子 obj:綾地寧々",
       "comment" : "楽しい、緩急",
       "level" : "8",
@@ -253,40 +151,6 @@
       "voteYes" : 8
    },
    {
-      "artist" : "TAK / 差分　赤い人",
-      "comment" : "ディレイ",
-      "level" : "10",
-      "md5" : "c7bbb20702438642af7a04677f68da54",
-      "proposer" : "氷城つるぎ",
-      "proposerLr2id" : 151185,
-      "sha256" : "31bd69b943b38037ab2cc42be00ba91cdd5664438d1ab2c7496a47d6460eb75e",
-      "submission" : 1069,
-      "title" : "Trinity [DELAYMASTER]",
-      "url" : "http://web.archive.org/web/20060503155239/http:/www.ismusic.ne.jp/djtak/",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/trinity-DELAYMASTER.bme",
-      "voteNeutral" : 2,
-      "voteNo" : 2,
-      "votePercent" : "81.82",
-      "voteYes" : 9
-   },
-   {
-      "artist" : "wa. / 百舌谷 obj:kuro",
-      "comment" : "乱打、二重階段、皿絡み等",
-      "level" : "11",
-      "md5" : "d522701bdac6cd27094483d59472e009",
-      "proposer" : "かに",
-      "proposerLr2id" : 115381,
-      "sha256" : "8c8941813cdf617ce8c2e7baa1ea88aca85a6ad800170103cf0ae7f09d48f118",
-      "submission" : 1075,
-      "title" : "Black Lotus  [SP CHALLENGER+]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=138&event=110",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?mode=find&word=black+lotus+kuro",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "88.89",
-      "voteYes" : 7
-   },
-   {
       "artist" : "orangentle / deadblue238 / Note:薄杏",
       "comment" : "乱打",
       "level" : "4",
@@ -300,25 +164,8 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "90.00",
-      "voteYes" : 9
-   },
-   {
-      "artist" : "kanone / mov:deadblue238 obj.Mallow♪",
-      "comment" : "10~11? LNある",
-      "level" : "10",
-      "md5" : "d9411e1ea20048bb585c3a3c2282ebf9",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "155216c17431ce5f2da30dae636554b1a93d4e230734db9b2fcb05364bf26f0f",
-      "submission" : 1077,
-      "title" : "Cross Galaxy [microcosmos]",
-      "url" : "http://uploader.bms.ms/data/bof2011okfquh83/%5BSERENDIPITY-kanone%5DCross_Galaxy_ogg.rar",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03324",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 7
+      "votePercent" : "90.91",
+      "voteYes" : 10
    },
    {
       "artist" : "Ark-Z feat. かなえゆめ / ill:tachi mov:わっふゑ obj:SUZUKAZEΛ",
@@ -349,10 +196,10 @@
       "title" : "Gensou Leaving [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=102",
       "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "75.00",
+      "voteYes" : 4
    },
    {
       "artist" : "Yosk!",
@@ -368,8 +215,25 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 4
+      "votePercent" : "85.71",
+      "voteYes" : 5
+   },
+   {
+      "artist" : "ikaruga_nex / obj:marquee",
+      "comment" : "2~3?",
+      "level" : "3",
+      "md5" : "f3b5d6531dbeeb57329dde6beb620d1c",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "b333befa1ab689a819edff91e05823735b39710a6d6dd308f92192943715dfb6",
+      "submission" : 1087,
+      "title" : "Lilith ambivalence lovers [ANOTHER+]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=278&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03180",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "ユメミド Movie:テンソル / Illust:遥壱朗 / Arrange:LeaF",
@@ -385,25 +249,8 @@
       "url_diff" : "",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "60.00",
-      "voteYes" : 3
-   },
-   {
-      "artist" : "LeaF × kana / obj:chack Movie:To7",
-      "comment" : "drrrr",
-      "level" : "6",
-      "md5" : "f77f591d575f2ad4aa7c1926d9f696e3",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "10212dd55b3feeee6a5197007e4abd82f5138484b7cae1f4beafcb84f05fe24e",
-      "submission" : 1063,
-      "title" : "◇スト [Tree]",
-      "url" : "http://sunaneko.iptime.org/BMS_Library/%e2%97%87%e3%82%b9%e3%83%88%20%5b%e3%81%88%e3%81%8b%e3%81%8d%e3%81%86%e3%81%9f%5d.rar",
-      "url_diff" : "http://chack3sabun.web.fc2.com/",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "95.00",
-      "voteYes" : 9
+      "votePercent" : "64.29",
+      "voteYes" : 4
    },
    {
       "artist" : "unknown \"β\"",
@@ -419,7 +266,7 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "92.86",
-      "voteYes" : 6
+      "votePercent" : "93.75",
+      "voteYes" : 7
    }
 ]

@@ -14,24 +14,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
-   },
-   {
-      "artist" : "roop / obj:わふわふ",
-      "comment" : "3~4、縦に濃いガチ押し",
-      "level" : "4",
-      "md5" : "237e2c88c0fae4e781b93276389768d8",
-      "proposer" : "otoshi.b",
-      "proposerLr2id" : 87474,
-      "sha256" : "f7654272f6cfe15453c8dbd4748c5490861e49fdf8fb0a2d1ab2d2bbac3e7ad3",
-      "submission" : 993,
-      "title" : "colorbar [横認識]",
-      "url" : "http://roopdesign.net/post/34827532860/roop-bms-works-2004-2012",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02761",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 3
    },
    {
       "artist" : "Yosk!",
@@ -47,7 +30,7 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "83.33",
+      "votePercent" : "75.00",
       "voteYes" : 2
    },
    {
@@ -68,40 +51,6 @@
       "voteYes" : 5
    },
    {
-      "artist" : "P4koo feat. A.Dokuga image : keiyuu/mov : VISREV /eleanor",
-      "comment" : "1~2? st6の弱化版",
-      "level" : "2",
-      "md5" : "7c9773583c69d5b84bc7c0f979c0f38f",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "2e342f9b87a19440a782152404062bcbefe358bcf1b17e257741c8aeb03b71cf",
-      "submission" : 991,
-      "title" : "FRAGMENT. [God Speed]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=447&event=116",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03213",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 3
-   },
-   {
-      "artist" : "witch's slave a.k.a. gmtn. / obj. AXION for \"Abstract\" Graphic by 水無月ぱんだ。",
-      "comment" : "1~2? hard beginning",
-      "level" : "1",
-      "md5" : "7d47261760705e1665e367e0893c59fc",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "21e19b1972c430467fbdde72e95de966881ac9a100423f0b1df1f89de9d86421",
-      "submission" : 990,
-      "title" : "絶対なる殷賑の因果律 -the causality melody- [迷宮アルケミア]",
-      "url" : "https://www.dropbox.com/s/ot7em2x0bsc1has/_carage_causality_melody.zip?dl=1",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03276",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 5
-   },
-   {
       "artist" : "kanone / mov:deadblue238 obj.Mallow♪",
       "comment" : "物量",
       "level" : "1",
@@ -116,24 +65,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 5
    },
    {
-      "artist" : "佐久丸(sak vs wumalutsufuri) obj:sak",
-      "comment" : "st4の強化版",
-      "level" : "8",
-      "md5" : "9e20fb74458371fb576843bbe6b44a6d",
+      "artist" : "ノクティス・江口・チェラム / obj:NoName",
+      "comment" : "1",
+      "level" : "1",
+      "md5" : "91d49ac611a5fc4266e79153f710ca80",
       "proposer" : "MineC24",
       "proposerLr2id" : 84597,
-      "sha256" : "09c67636ed514bf156d695876bcee93d06fc39eaddcadd40a0fecfe5040cf6b7",
-      "submission" : 999,
-      "title" : "宵桜回廊 [決死]",
-      "url" : "https://event.yaruki0.net/VSevent/impression/47",
-      "url_diff" : "",
+      "sha256" : "602c48ba8c0832b31a2f8e4a0fd539b484a4ec5a49cb8239ad6cf041c83b21bf",
+      "submission" : 1004,
+      "title" : "ヒメタイプ (おに)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=96",
+      "url_diff" : "http://absolute.pv.land.to/bof/upload.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 4
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "daisan Movie : highluin / obj.hex",
@@ -150,7 +99,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "MONO obj.hex",
@@ -170,6 +119,23 @@
       "voteYes" : 2
    },
    {
+      "artist" : "LV.4 / И",
+      "comment" : "4-5 Abyss-",
+      "level" : "4",
+      "md5" : "afcb40fc6aa2fdc4c4c89a64505a15a7",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "210e579b3f520e6790568d9a9d10836066afbb78e39c197e7092e1c4c15535a1",
+      "submission" : 1005,
+      "title" : "Angel dust [Excelsior]",
+      "url" : "https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
+      "url_diff" : "http://bms.parksulab.xyz",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "50.00",
+      "voteYes" : 1
+   },
+   {
       "artist" : "sky_delta obj:BAECON",
       "comment" : "同時押し　乱打",
       "level" : "2",
@@ -183,7 +149,7 @@
       "url_diff" : "http://akred.web.fc2.com/baecon/_kreuz_Rebirth.bms",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "83.33",
       "voteYes" : 2
    },
    {
@@ -198,26 +164,9 @@
       "title" : "鼠の標本 [Φ]",
       "url" : "https://www.dropbox.com/s/ka7thaepvh40tj6/%E9%BC%A0%E3%81%AE%E6%A8%99%E6%9C%AC.zip?dl=1",
       "url_diff" : "http://fenderbms.web.fc2.com/",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
-   },
-   {
-      "artist" : "-45 / obj;Nemes",
-      "comment" : "連打絡み乱打＋ディレイ",
-      "level" : "7",
-      "md5" : "f2ad59e1c2718001ed7789c6fa9e134e",
-      "proposer" : "APRICOT",
-      "proposerLr2id" : 109350,
-      "sha256" : "15aee06a37d55ca609ec8932f0d4eb9bf5c286efe691d87a35fdc150ca16aa16",
-      "submission" : 998,
-      "title" : "EXILE -BLACK HOLE-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=184&event=65",
-      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
-      "voteNeutral" : 2,
-      "voteNo" : 2,
+      "voteNeutral" : 1,
+      "voteNo" : 1,
       "votePercent" : "66.67",
-      "voteYes" : 4
+      "voteYes" : 2
    }
 ]
