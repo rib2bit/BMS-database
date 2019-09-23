@@ -31,7 +31,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 8
    },
    {
       "artist" : "Est / obj:七海千秋",
@@ -63,7 +63,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 7
    },
    {
       "artist" : "hugepulse BGA:Micelle",
@@ -96,8 +96,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "90.00",
-      "voteYes" : 9
+      "votePercent" : "91.67",
+      "voteYes" : 11
    },
    {
       "artist" : "corok-Bb/obj.matsu",
@@ -128,10 +128,10 @@
       "title" : "\"Alice in Wonderland\" : crazy apple could not live in real life [虚無]",
       "url" : "http://sunaneko.iptime.org/BMS_Library/Alice%20in%20Wonderland%20crazy%20apple%20could%20not%20live%20in%20real%20life%20%5b%e4%b8%96%e7%95%8c%e3%81%ae%e9%81%a0%e8%97%a4100%e9%81%b8%5d.rar",
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up4362.rar",
-      "voteNeutral" : 3,
-      "voteNo" : 3,
+      "voteNeutral" : 4,
+      "voteNo" : 4,
       "votePercent" : "50.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "朝武芳乃 vs. 常陸茉子 obj:綾地寧々",
@@ -196,10 +196,10 @@
       "title" : "Gensou Leaving [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=102",
       "url_diff" : "",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 4
+      "voteNeutral" : 2,
+      "voteNo" : 2,
+      "votePercent" : "68.75",
+      "voteYes" : 5
    },
    {
       "artist" : "Yosk!",
@@ -215,8 +215,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "85.71",
-      "voteYes" : 5
+      "votePercent" : "88.89",
+      "voteYes" : 7
    },
    {
       "artist" : "ikaruga_nex / obj:marquee",
@@ -232,8 +232,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03180",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 4
    },
    {
       "artist" : "ユメミド Movie:テンソル / Illust:遥壱朗 / Arrange:LeaF",
@@ -249,8 +249,8 @@
       "url_diff" : "",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "64.29",
-      "voteYes" : 4
+      "votePercent" : "68.75",
+      "voteYes" : 5
    },
    {
       "artist" : "unknown \"β\"",
@@ -266,7 +266,7 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "93.75",
-      "voteYes" : 7
+      "votePercent" : "95.00",
+      "voteYes" : 9
    }
 ]
