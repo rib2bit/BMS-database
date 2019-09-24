@@ -13,8 +13,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "作詞・作曲/上野ぱんだ　編曲/ケドメ　絵/るい　歌/初音ミク obj:Fender",
@@ -31,7 +31,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 9
    },
    {
       "artist" : "Est / obj:七海千秋",
@@ -63,7 +63,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
    },
    {
       "artist" : "hugepulse BGA:Micelle",
@@ -96,8 +96,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "91.67",
-      "voteYes" : 11
+      "votePercent" : "92.31",
+      "voteYes" : 12
    },
    {
       "artist" : "corok-Bb/obj.matsu",
@@ -113,7 +113,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03343",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "78.57",
+      "votePercent" : "75.00",
       "voteYes" : 5
    },
    {
@@ -128,9 +128,9 @@
       "title" : "\"Alice in Wonderland\" : crazy apple could not live in real life [虚無]",
       "url" : "http://sunaneko.iptime.org/BMS_Library/Alice%20in%20Wonderland%20crazy%20apple%20could%20not%20live%20in%20real%20life%20%5b%e4%b8%96%e7%95%8c%e3%81%ae%e9%81%a0%e8%97%a4100%e9%81%b8%5d.rar",
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up4362.rar",
-      "voteNeutral" : 4,
-      "voteNo" : 4,
-      "votePercent" : "50.00",
+      "voteNeutral" : 5,
+      "voteNo" : 5,
+      "votePercent" : "45.00",
       "voteYes" : 4
    },
    {
@@ -164,8 +164,8 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "90.91",
-      "voteYes" : 10
+      "votePercent" : "91.67",
+      "voteYes" : 11
    },
    {
       "artist" : "Ark-Z feat. かなえゆめ / ill:tachi mov:わっふゑ obj:SUZUKAZEΛ",
@@ -198,8 +198,8 @@
       "url_diff" : "",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "68.75",
-      "voteYes" : 5
+      "votePercent" : "72.22",
+      "voteYes" : 6
    },
    {
       "artist" : "Yosk!",
@@ -215,8 +215,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "88.89",
-      "voteYes" : 7
+      "votePercent" : "90.00",
+      "voteYes" : 8
    },
    {
       "artist" : "ikaruga_nex / obj:marquee",
@@ -233,7 +233,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "ユメミド Movie:テンソル / Illust:遥壱朗 / Arrange:LeaF",
@@ -249,8 +249,8 @@
       "url_diff" : "",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "68.75",
-      "voteYes" : 5
+      "votePercent" : "72.22",
+      "voteYes" : 6
    },
    {
       "artist" : "unknown \"β\"",
@@ -266,7 +266,7 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.00",
+      "votePercent" : "90.91",
       "voteYes" : 9
    }
 ]
