@@ -17,6 +17,23 @@
       "voteYes" : 2
    },
    {
+      "artist" : "ume",
+      "comment" : "第二回BMS衆議院選、ガチ押し、ズレ、LN",
+      "level" : "0",
+      "md5" : "02c4d238c7ab99ae088bae519d92dc06",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "000fbcfe0fce450b9bb7fb1fdf727a5d58bbb90c38b86b4761a35b3318c01d23",
+      "submission" : 1089,
+      "title" : "RAVE YOUR ROCK",
+      "url" : "https://venue.bmssearch.net/bmsshuin2/42",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "作詞・作曲/上野ぱんだ　編曲/ケドメ　絵/るい　歌/初音ミク obj:Fender",
       "comment" : "徐々に難しくなる乱打",
       "level" : "2",
@@ -62,7 +79,7 @@
       "url_diff" : "https://www.dropbox.com/s/f2slc49pwsmdom2/_say_a_vengeance_nanami01.bms?dl=0",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "94.44",
       "voteYes" : 8
    },
    {
@@ -81,6 +98,23 @@
       "voteNo" : 0,
       "votePercent" : "88.46",
       "voteYes" : 10
+   },
+   {
+      "artist" : "nekomimi_STRaw obj.すいかいの譜面工房",
+      "comment" : "(sl4-5?) 無名戦対抗戦、連打、乱打",
+      "level" : "5",
+      "md5" : "9dfd050b672a3f28058198c896a623e6",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "e029447ba1828281b1e41ee8712a0b203cbf21dcfdcf466339ee0fb658d62ee9",
+      "submission" : 1090,
+      "title" : "District IX [Insane]",
+      "url" : "https://event.yaruki0.net/VSevent/impression/65",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "Sakamiya feat.前野 mov:hx",
