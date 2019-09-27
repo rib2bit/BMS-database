@@ -14,7 +14,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "ume",
@@ -30,8 +30,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "作詞・作曲/上野ぱんだ　編曲/ケドメ　絵/るい　歌/初音ミク obj:Fender",
@@ -113,8 +113,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "Sakamiya feat.前野 mov:hx",
@@ -166,6 +166,23 @@
       "voteNo" : 5,
       "votePercent" : "45.00",
       "voteYes" : 4
+   },
+   {
+      "artist" : "P4koo feat. つゆり花鈴 Art:Doro-nyong Movie:Ratif obj : BAECON",
+      "comment" : "少し連打",
+      "level" : "1",
+      "md5" : "c310b138f0b4eb386347c222258ef944",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "df4a26237cdf5e9d477c7813dd3088eb14382cdf54ceb9f27ac1487db49eb6f5",
+      "submission" : 1091,
+      "title" : "Colorful Days♪ [Colour My Sky]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=125&event=123",
+      "url_diff" : "https://bmscharteditorsgroup.wixsite.com/initialatoz",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "朝武芳乃 vs. 常陸茉子 obj:綾地寧々",
