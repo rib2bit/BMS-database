@@ -31,7 +31,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 5
    },
    {
       "artist" : "作詞・作曲/上野ぱんだ　編曲/ケドメ　絵/るい　歌/初音ミク obj:Fender",
@@ -49,6 +49,23 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 9
+   },
+   {
+      "artist" : "Luxion mixed by lemon obj:七海",
+      "comment" : "Nice Pattern!",
+      "level" : "12",
+      "md5" : "385343388eaacae49c441c3e5ef53d72",
+      "proposer" : "Triforce",
+      "proposerLr2id" : 18553,
+      "sha256" : "3d12660f82e5d2896bb68b76c587336e6398230a1d8c45dd2eb818c7824546d4",
+      "submission" : 1092,
+      "title" : "煉獄-Priestess -Hopeless-",
+      "url" : "http://www.dropbox.com/s/t0tcsnl0z29uaho/%E7%85%89%E7%8D%84-Priestess.zip?dl=0",
+      "url_diff" : "https://www.dropbox.com/s/mub73zhqm8v7gfe/rengokupriestess.zip?dl=0",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "Est / obj:七海千秋",
@@ -114,7 +131,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "Sakamiya feat.前野 mov:hx",
@@ -182,7 +199,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 5
    },
    {
       "artist" : "朝武芳乃 vs. 常陸茉子 obj:綾地寧々",
@@ -284,7 +301,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 7
    },
    {
       "artist" : "ユメミド Movie:テンソル / Illust:遥壱朗 / Arrange:LeaF",
