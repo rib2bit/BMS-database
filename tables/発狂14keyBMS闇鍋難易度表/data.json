@@ -497,7 +497,7 @@
       "title" : "P-ChicK-ParK (DP ANOTHER)"
    },
    {
-      "artist" : "Orange Strophe obj:ucc",
+      "artist" : "Orange Strophe obj:ucc *FLIP R.MIRROR",
       "comment" : "Progressive Jazz",
       "level" : "7",
       "md5" : "02fe330880e2c31de8450747de9fc037",
@@ -2814,7 +2814,7 @@
       "title" : "Where To Feel [激鍵14]"
    },
    {
-      "artist" : "Team:SASAKURATION ;obj G-No.9 *SUD+ FIXOFF-70",
+      "artist" : "Team:SASAKURATION ;obj G-No.9 *SUD+ FIXOFF-90",
       "comment" : "Ω",
       "level" : "7",
       "md5" : "0fecea0860f0857d647e0c24bd09123a",
@@ -4384,7 +4384,7 @@
    {
       "artist" : "w_tre Lyrics by Sing_fUA obj : ま～ぶるぴ～ぴ～",
       "comment" : "Chiptune",
-      "level" : "2",
+      "level" : "1",
       "md5" : "198f3b3b8b2681df3ca392d0051fb208",
       "title" : "FIONA [cyan 14]"
    },
@@ -8799,7 +8799,7 @@
       "title" : "macaron (ANOTHER14)"
    },
    {
-      "artist" : "zun/MIDI：こんそめ/編集：wanco obj:けろりん *L.MIRROR",
+      "artist" : "zun/MIDI：こんそめ/編集：wanco obj:けろりん *MINBPM L.MIRROR",
       "comment" : "東方萃夢想",
       "level" : "7",
       "md5" : "3463515d00ee6b6dbc9a923ffef41b10",
@@ -9147,13 +9147,6 @@
       "level" : "★5",
       "md5" : "363797f8fc619cff770b5a1b0fa82923",
       "title" : "ニニ [DP INS☆NE]"
-   },
-   {
-      "artist" : "onoken / obj:lichtr",
-      "comment" : "drum'n bass",
-      "level" : "2",
-      "md5" : "36411199985e55095505624e1ac5f4de",
-      "title" : "FELYS"
    },
    {
       "artist" : "ROKINA BGA:REI-K obj:hoi2",
@@ -14156,7 +14149,7 @@
    {
       "artist" : "p.p. / o.c.",
       "comment" : "",
-      "level" : "5",
+      "level" : "9",
       "md5" : "5616afbbed377b38d1cc0846e03086fb",
       "title" : "「無垢」について (14)"
    },
@@ -18867,7 +18860,7 @@
    {
       "artist" : "beatMARIO Obj.Gatia *R.MIRROR or FLIP R.MIRROR",
       "comment" : "TECHNO",
-      "level" : "★2",
+      "level" : "★4",
       "md5" : "714ad864f995cc09de60e4ed470c6bb6",
       "title" : "Destined Marionette (another14)"
    },
@@ -20720,7 +20713,7 @@
       "title" : "Delusion→Uplift [DP ANOTHER-short]"
    },
    {
-      "artist" : "ああああ / obj:killer TOMATO *FLIP LR.MIRROR",
+      "artist" : "ああああ / obj:killer TOMATO",
       "comment" : "game music",
       "level" : "★3",
       "md5" : "7bb530b4c0bbb92fd4f25ab908d82e6b",
@@ -25480,6 +25473,13 @@
       "title" : "Into the sunset [DP ANOTHER]"
    },
    {
+      "artist" : "sak feat.みゅい obj:msl BGI:球根",
+      "comment" : "ANGELIC FUTURE POP",
+      "level" : "2",
+      "md5" : "9616428365252530dc3ac6b994e21443",
+      "title" : "ハニエルのうた DPA"
+   },
+   {
       "artist" : "Is-m BGA:murotani",
       "comment" : "INFINITY",
       "level" : "★1",
@@ -25739,7 +25739,7 @@
       "title" : "Altostratus [S]"
    },
    {
-      "artist" : "sasakure.UK obj:UCC",
+      "artist" : "sasakure.UK obj:UCC *SUD+",
       "comment" : "UNIVERSE",
       "level" : "7",
       "md5" : "97a2ef62f32eb9abbca66c169b2d6f75",
@@ -26243,7 +26243,7 @@
       "title" : "Forceful Beat [DP HYPER]"
    },
    {
-      "artist" : "ルゼ",
+      "artist" : "ルゼ *FLIP",
       "comment" : "DEATH CORE[14ANOTHER]",
       "level" : "★2",
       "md5" : "9ab92d6e89dd25ed7ccd97051109d31c",
@@ -26840,7 +26840,7 @@
    {
       "artist" : "CRUNCH from ELECTRIC駄菓子店 obj.BACO  *R.MIRROR",
       "comment" : "MELANCHOLY",
-      "level" : "8",
+      "level" : "10",
       "md5" : "9e524ea81a70208ceda5b5326d10614c",
       "title" : "candy (neglected child) [DP ANOTHER]"
    },
@@ -27102,6 +27102,13 @@
       "level" : "★11",
       "md5" : "9fdc5491fdd91e37833e6d37b0232000",
       "title" : "★LittlE HearTs★ (ネ/神)"
+   },
+   {
+      "artist" : "void feat. Hiroko [obj:MGN]",
+      "comment" : "Euphoric Vocal J-Trance",
+      "level" : "10",
+      "md5" : "9fe1d798275b9439b4ecc843843238ae",
+      "title" : "world devoid of you (fairydust radio edit) [Think]"
    },
    {
       "artist" : "Junk/obj:epics- BGA : YARITA",
@@ -27608,7 +27615,7 @@
       "title" : "Bird Sprite -Awakening of Light- [DP anOTLer]"
    },
    {
-      "artist" : "鳩 / obj:QJITAI *FLIP",
+      "artist" : "鳩 / obj:QJITAI",
       "comment" : "DarkBreaks",
       "level" : "★6",
       "md5" : "a25814fbc3f9e1c72d0b50c41e1fb208",
@@ -33390,7 +33397,7 @@
       "title" : "神聖大樹 [14KEYS-ゆゆTHER]"
    },
    {
-      "artist" : "yassu / obj.箕作",
+      "artist" : "yassu / obj.箕作 *L.MIRROR",
       "comment" : "Final Fantasy 6",
       "level" : "7",
       "md5" : "c35ea8d5a1b2e75890598f142a133b5a",
@@ -34337,7 +34344,7 @@
    {
       "artist" : "ああああ / obj:killer TOMATO",
       "comment" : "game music",
-      "level" : "8",
+      "level" : "2",
       "md5" : "c97c32418db3abae79110cd8ecf26d75",
       "title" : "僕たちの旅とエピローグ。 [DP HYPER]"
    },
@@ -37389,7 +37396,7 @@
    {
       "artist" : "ああああ obj:肴 *MAX+40",
       "comment" : "game music",
-      "level" : "7",
+      "level" : "6",
       "md5" : "dd40f89de5d2f59d838c978e2a8fd7b5",
       "title" : "僕たちの旅とエピローグ。 [DPA]"
    },
@@ -40455,7 +40462,7 @@
    {
       "artist" : "polysha feat.Eir&Sasara",
       "comment" : "ELECTRO HOUSE",
-      "level" : "2",
+      "level" : "1",
       "md5" : "ef8eb19116682827916ad353294f30c8",
       "title" : "Bogus of True (DPH)"
    },
@@ -41167,7 +41174,7 @@
       "title" : "Dream - 14KEYS HARD-"
    },
    {
-      "artist" : "MI-OH?",
+      "artist" : "MI-OH? *FLIP",
       "comment" : "発狂BMS",
       "level" : "★1",
       "md5" : "f4792b3ed2cdc244ecc731d593fc2c44",
