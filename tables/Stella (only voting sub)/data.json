@@ -14,7 +14,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "Yosk!",
@@ -49,6 +49,23 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 6
+   },
+   {
+      "artist" : "tolz feat.音街ウナ obj.hex",
+      "comment" : "微縦連 横に広い物量",
+      "level" : "3",
+      "md5" : "6757cc8bae9a71a690d42a12a427265f",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "65476c86c6ada7c335135e971cad4025870cc36ef6554eb1f1dcba4b3a6dc080",
+      "submission" : 1007,
+      "title" : "Telescope [Hexagon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=126",
+      "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "kanone / mov:deadblue238 obj.Mallow♪",
@@ -99,7 +116,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "daisan Movie : highluin / obj.hex",
@@ -166,8 +183,8 @@
       "url_diff" : "http://akred.web.fc2.com/baecon/_kreuz_Rebirth.bms",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 2
+      "votePercent" : "87.50",
+      "voteYes" : 3
    },
    {
       "artist" : "Process 2.3.1. / suna obj:Fender",
