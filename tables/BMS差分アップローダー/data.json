@@ -405,6 +405,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01676"
    },
    {
+      "adddate" : "2019/10/01 20:50",
+      "artist" : "CrYmson mov : Anomie / obj. DK",
+      "comment" : "LN, 物量, 縦連打",
+      "folder" : "2019/10",
+      "genre" : "Artcore",
+      "keys" : 7,
+      "level" : "2019/10",
+      "lr2_bmsid" : "277344",
+      "md5" : "0132e2b5f01b4e2e375c48324e20812e",
+      "org_level" : null,
+      "title" : "Revival of Kalpa [ROKA]",
+      "url" : "https://onedrive.live.com/?id=FC95A680740CA8C9!201&cid=FC95A680740CA8C9",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03397"
+   },
+   {
       "adddate" : "2019/09/29 23:28",
       "artist" : "Xakyo / obj : LindBlum",
       "comment" : "縦連、皿複合、LN複合",
@@ -6613,6 +6628,21 @@
       "title" : "BLAZING BEAT [Yoisarather]",
       "url" : "",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01079"
+   },
+   {
+      "adddate" : "2019/10/01 21:42",
+      "artist" : "ω / obj:岡部うすにごり",
+      "comment" : "FILE 03368の音階無視修正",
+      "folder" : "2019/10",
+      "genre" : "PRELUDE",
+      "keys" : 7,
+      "level" : "2019/10",
+      "lr2_bmsid" : "",
+      "md5" : "1c02a6c18fc919ef28c26a3e5748f8d7",
+      "org_level" : null,
+      "title" : "Lasting Dream [Grave_fix]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03398"
    },
    {
       "adddate" : "2018/12/05 02:24",
@@ -29100,6 +29130,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00767"
    },
    {
+      "adddate" : "2019/10/02 01:03",
+      "artist" : "TamaDo obj.quad",
+      "comment" : "縦連、乱打",
+      "folder" : "2019/10",
+      "genre" : "Dubstep",
+      "keys" : 7,
+      "level" : "2019/10",
+      "lr2_bmsid" : "",
+      "md5" : "812a1a39e915f5d5168cab9fd175cada",
+      "org_level" : null,
+      "title" : "Falsifier [MANIAC]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03399"
+   },
+   {
       "adddate" : "2017/11/16 01:10",
       "artist" : "FOLiACETATE obj : 99",
       "comment" : "高速、階段、乱打",
@@ -47576,7 +47621,7 @@
       "md5" : "ce448e3ca6f4ebeed9935a304c63f1e8",
       "org_level" : null,
       "title" : "World See Night [Reach The Milky Way]",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=126",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03376"
    },
    {
