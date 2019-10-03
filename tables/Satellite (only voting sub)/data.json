@@ -65,7 +65,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "Est / obj:七海千秋",
@@ -94,9 +94,9 @@
       "title" : "Say A Vengeance -Hope-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=7&event=83",
       "url_diff" : "https://www.dropbox.com/s/f2slc49pwsmdom2/_say_a_vengeance_nanami01.bms?dl=0",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "90.91",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "83.33",
       "voteYes" : 9
    },
    {
@@ -317,8 +317,8 @@
       "url_diff" : "",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "72.22",
-      "voteYes" : 6
+      "votePercent" : "75.00",
+      "voteYes" : 7
    },
    {
       "artist" : "unknown \"β\"",
