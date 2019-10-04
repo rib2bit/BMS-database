@@ -14,7 +14,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "ume",
@@ -115,6 +115,23 @@
       "voteNo" : 0,
       "votePercent" : "88.46",
       "voteYes" : 10
+   },
+   {
+      "artist" : "HOUJIROU/obj_jakko",
+      "comment" : "GENOCIDE★13易化",
+      "level" : "4",
+      "md5" : "8699cec85a8c7493757b21eb910c4358",
+      "proposer" : "Fendou",
+      "proposerLr2id" : 128388,
+      "sha256" : "05b8d15c7de8f342ebab19f5ca3f15eae196509f9d5155bdf82bfdf89f0af91a",
+      "submission" : 1093,
+      "title" : "Soul of Deep-sea Fish [queER7]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=152&event=83",
+      "url_diff" : "https://www.dropbox.com/s/ke21m7m10aanuxj/Soul_of_Deep-sea_Fish_sabun.lzh?dl=0",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "nekomimi_STRaw obj.すいかいの譜面工房",
