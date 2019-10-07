@@ -1819,6 +1819,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "AKITO obj:七海千秋",
+      "comment" : "AKITO様の名曲発狂 ",
+      "level" : "1",
+      "md5" : "1c03f0400071e25f1e604bd8f00e4379",
+      "proposer" : "Restia",
+      "proposerLr2id" : 115265,
+      "sha256" : "9960a607e73c9d49fade4d3181c22eb79ffb1a6995e0699cb1ac6e447fd7f112",
+      "submission" : 1095,
+      "title" : "七つの鍵盤のためのソナタ -Last Song-",
+      "url" : "http://www.mediafire.com/download/zkt7kg9z400w4sb/7keys_sonata_mq.zip",
+      "url_diff" : "https://www.dropbox.com/s/3d08dbtce08gvih/tamesona_nanami01.bme?dl=0"
+   },
+   {
       "artist" : "NIKITA / misokabocha",
       "level" : "2",
       "md5" : "1c3cb845983b4be58c3f05cfd941fc0a",
@@ -3283,6 +3296,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "guna with チーム・キュッキュ / И",
+      "comment" : "★19より易いガチ押し",
+      "level" : "12",
+      "md5" : "35682ac66614d84018472b04957f387c",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "163d343724ce7b19f7645baea627c516111bb37ac1aa6fb3ae8049dcf19affb5",
+      "submission" : 1098,
+      "title" : "subconsciousness [Traumdeutung]",
+      "url" : "http://aquaseeds.net/",
+      "url_diff" : "http://bms.parksulab.xyz"
    },
    {
       "artist" : "Kuwagata feat.つゆり花鈴 / obj:七海千秋",
@@ -7275,6 +7301,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "plastic feat.サキト / obj:sarada",
+      "comment" : "ディレイ無し",
+      "level" : "12",
+      "md5" : "748b1b7d1244c6b977cdbf7fb3722703",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "e74c5d6e5520c623e73a9d9fa34012976d6503874073089315f878d26e8ed0cd",
+      "submission" : 1097,
+      "title" : "ひつぎとふたご [逝]",
+      "url" : "http://wayback.archive.org/web/20081003060805/http://placase.bms.ms:80/data/bms/pla_futago.rar",
+      "url_diff" : "http://srdbms.otodo.net/sabun/futago_srdX.zip"
+   },
+   {
       "artist" : "Linne X SCTL Visualized by Keiyuu & RED-FOX / obj.Restia",
       "comment" : "sl1~2?",
       "level" : "2",
@@ -7546,6 +7585,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "onoken / obj:MIZ&arufis",
+      "comment" : "皿/二重階段/シンメトリー系/高速トリル/ラス殺し",
+      "level" : "12",
+      "md5" : "783ff551551507fd15b004e8257dbbf9",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "468b0e1fd33aed72bbc605b0356d6f3d4a140edf56810ce3d38d90a2b1c83955",
+      "submission" : 1096,
+      "title" : "K8107 -EX-",
+      "url" : "http://web.archive.org/web/20070111193502/www107.sakura.ne.jp/~onoken/htmls/bms.html",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03412"
    },
    {
       "artist" : "Larimar / 制限 Movie : Hauynite",
@@ -11233,7 +11285,7 @@
    {
       "artist" : "nmk / わっふゑ / selene.",
       "comment" : "速い",
-      "level" : "10",
+      "level" : "11",
       "md5" : "b188cbde1a1582b563ec3d48bb7deca8",
       "proposer" : "スノート",
       "proposerLr2id" : 86393,
@@ -15348,7 +15400,7 @@
    {
       "artist" : "ZUN Remix by rider",
       "comment" : "",
-      "level" : "0",
+      "level" : "1",
       "md5" : "e9fca3b40e52fa9d2b7e8af5b10fa277",
       "proposer" : "Mallow♪",
       "proposerLr2id" : 154796,

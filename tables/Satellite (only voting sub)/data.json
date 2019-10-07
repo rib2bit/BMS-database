@@ -11,9 +11,9 @@
       "title" : "NS20 [7key CHAOSDEATH]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=63",
       "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "75.00",
       "voteYes" : 5
    },
    {
@@ -30,8 +30,25 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "93.75",
-      "voteYes" : 7
+      "votePercent" : "90.00",
+      "voteYes" : 8
+   },
+   {
+      "artist" : "AKITO obj:七海千秋",
+      "comment" : "AKITO様の名曲発狂 ",
+      "level" : "1",
+      "md5" : "1c03f0400071e25f1e604bd8f00e4379",
+      "proposer" : "Restia",
+      "proposerLr2id" : 115265,
+      "sha256" : "9960a607e73c9d49fade4d3181c22eb79ffb1a6995e0699cb1ac6e447fd7f112",
+      "submission" : 1095,
+      "title" : "七つの鍵盤のためのソナタ -Last Song-",
+      "url" : "http://www.mediafire.com/download/zkt7kg9z400w4sb/7keys_sonata_mq.zip",
+      "url_diff" : "https://www.dropbox.com/s/3d08dbtce08gvih/tamesona_nanami01.bme?dl=0",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 5
    },
    {
       "artist" : "作詞・作曲/上野ぱんだ　編曲/ケドメ　絵/るい　歌/初音ミク obj:Fender",
@@ -51,6 +68,23 @@
       "voteYes" : 11
    },
    {
+      "artist" : "guna with チーム・キュッキュ / И",
+      "comment" : "★19より易いガチ押し",
+      "level" : "12",
+      "md5" : "35682ac66614d84018472b04957f387c",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "163d343724ce7b19f7645baea627c516111bb37ac1aa6fb3ae8049dcf19affb5",
+      "submission" : 1098,
+      "title" : "subconsciousness [Traumdeutung]",
+      "url" : "http://aquaseeds.net/",
+      "url_diff" : "http://bms.parksulab.xyz",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "Luxion mixed by lemon obj:七海",
       "comment" : "Nice Pattern!",
       "level" : "12",
@@ -65,23 +99,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
-   },
-   {
-      "artist" : "Est / obj:七海千秋",
-      "level" : "1",
-      "md5" : "3a10aef50c5bedf5dde0653bc44b1ac6",
-      "proposer" : "Haze*",
-      "proposerLr2id" : 112076,
-      "sha256" : "4622742d3069b81675a548aef3b41216b8c06f6dde38775bb4b993fe34325bcb",
-      "submission" : 1067,
-      "title" : "Like an Orange -Hope-",
-      "url" : "http://estish.nobody.jp/",
-      "url_diff" : "https://www.dropbox.com/s/brzyghk8nsuamn2/likeanorange.zip?dl=1",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "95.83",
-      "voteYes" : 11
+      "voteYes" : 4
    },
    {
       "artist" : "ETIA. feat.Jenga deadblue238 / 篠乃ちよ / obj:七海千秋",
@@ -96,25 +114,42 @@
       "url_diff" : "https://www.dropbox.com/s/f2slc49pwsmdom2/_say_a_vengeance_nanami01.bms?dl=0",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "83.33",
-      "voteYes" : 9
+      "votePercent" : "84.62",
+      "voteYes" : 10
    },
    {
-      "artist" : "hugepulse BGA:Micelle",
-      "comment" : "第二回BMS衆議院選、ガチ押し",
-      "level" : "0",
-      "md5" : "63e7c841db7df1784633dc41de4143de",
-      "proposer" : "ww",
-      "proposerLr2id" : 147642,
-      "sha256" : "1bc2623ebd6519cbb78fa59563d4b6c08ae5f4817e5321dd67514e3ba6e3835a",
-      "submission" : 1065,
-      "title" : "Hazuki [ANOTHER]",
-      "url" : "https://venue.bmssearch.net/bmsshuin2/14",
-      "url_diff" : "",
+      "artist" : "plastic feat.サキト / obj:sarada",
+      "comment" : "ディレイ無し",
+      "level" : "12",
+      "md5" : "748b1b7d1244c6b977cdbf7fb3722703",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "e74c5d6e5520c623e73a9d9fa34012976d6503874073089315f878d26e8ed0cd",
+      "submission" : 1097,
+      "title" : "ひつぎとふたご [逝]",
+      "url" : "http://wayback.archive.org/web/20081003060805/http://placase.bms.ms:80/data/bms/pla_futago.rar",
+      "url_diff" : "http://srdbms.otodo.net/sabun/futago_srdX.zip",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "88.46",
-      "voteYes" : 10
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
+      "artist" : "onoken / obj:MIZ&arufis",
+      "comment" : "皿/二重階段/シンメトリー系/高速トリル/ラス殺し",
+      "level" : "12",
+      "md5" : "783ff551551507fd15b004e8257dbbf9",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "468b0e1fd33aed72bbc605b0356d6f3d4a140edf56810ce3d38d90a2b1c83955",
+      "submission" : 1096,
+      "title" : "K8107 -EX-",
+      "url" : "http://web.archive.org/web/20070111193502/www107.sakura.ne.jp/~onoken/htmls/bms.html",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03412",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "HOUJIROU/obj_jakko",
@@ -128,10 +163,10 @@
       "title" : "Soul of Deep-sea Fish [queER7]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=152&event=83",
       "url_diff" : "https://www.dropbox.com/s/ke21m7m10aanuxj/Soul_of_Deep-sea_Fish_sabun.lzh?dl=0",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "75.00",
+      "voteYes" : 4
    },
    {
       "artist" : "nekomimi_STRaw obj.すいかいの譜面工房",
@@ -148,58 +183,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
-   },
-   {
-      "artist" : "Sakamiya feat.前野 mov:hx",
-      "comment" : "G2R2018、同時押し",
-      "level" : "0",
-      "md5" : "9ee5524e4ed8a3e7033b4de1fedc35fd",
-      "proposer" : "ww",
-      "proposerLr2id" : 147642,
-      "sha256" : "42a12b5e42b79a86f158e0ed372a9dcb099e2e4200173bc5fc8ffd62b62cc311",
-      "submission" : 1082,
-      "title" : "翼の折れた天使たちのレクイエム [Another]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=123",
-      "url_diff" : "",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "93.33",
-      "voteYes" : 14
-   },
-   {
-      "artist" : "corok-Bb/obj.matsu",
-      "comment" : "乱打 皿 BGA修正版",
-      "level" : "11",
-      "md5" : "a2b323c19b0538d184fb806a5d603bd9",
-      "proposer" : "氷城つるぎ",
-      "proposerLr2id" : 151185,
-      "sha256" : "1a5a195b7eea4e621f2fd2eca4348ff0eea40c71f8e47637d6a508eaab95207a",
-      "submission" : 1083,
-      "title" : "Fatal Function [false]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=144&event=123",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03343",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 5
-   },
-   {
-      "artist" : "Kyou1110 vs Takuya Namba / D",
-      "comment" : "2~4? ソフランあるけどギアチェンできる",
-      "level" : "3",
-      "md5" : "a49d47e43fecc8ae419e09b5e8f83413",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "9e169e40d18bde5a063c8dfd2b888c2de97f277cc2d8401f018a6a0d55706adf",
-      "submission" : 1078,
-      "title" : "\"Alice in Wonderland\" : crazy apple could not live in real life [虚無]",
-      "url" : "http://sunaneko.iptime.org/BMS_Library/Alice%20in%20Wonderland%20crazy%20apple%20could%20not%20live%20in%20real%20life%20%5b%e4%b8%96%e7%95%8c%e3%81%ae%e9%81%a0%e8%97%a4100%e9%81%b8%5d.rar",
-      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up4362.rar",
-      "voteNeutral" : 5,
-      "voteNo" : 5,
-      "votePercent" : "45.00",
-      "voteYes" : 4
+      "voteYes" : 6
    },
    {
       "artist" : "P4koo feat. つゆり花鈴 Art:Doro-nyong Movie:Ratif obj : BAECON",
@@ -216,24 +200,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
-   },
-   {
-      "artist" : "朝武芳乃 vs. 常陸茉子 obj:綾地寧々",
-      "comment" : "楽しい、緩急",
-      "level" : "8",
-      "md5" : "c73490d6605cfab1a87770158a698d00",
-      "proposer" : "鷺沢文香",
-      "proposerLr2id" : 133436,
-      "sha256" : "f9065f73c88861300c559c9b22e173ec68d8a403b42f3c818db70dfeac84daa2",
-      "submission" : 1071,
-      "title" : "CITRUS-FRAGRANCE!! [INSANE]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=376&event=116",
-      "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "94.44",
-      "voteYes" : 8
+      "voteYes" : 11
    },
    {
       "artist" : "-45 / selene.",
@@ -247,49 +214,15 @@
       "title" : "Total Eclipse of the Sun -Howling-",
       "url" : "http://malie.noor.jp/archive/archive.html",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02085",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
-   },
-   {
-      "artist" : "orangentle / deadblue238 / Note:薄杏",
-      "comment" : "乱打",
-      "level" : "4",
-      "md5" : "d70b69449d39959609c20cc95230ff20",
-      "proposer" : "DK",
-      "proposerLr2id" : 46697,
-      "sha256" : "eb1e9d75f8218fd5347ca0b89f353b49ec66162891694577ffdba9b4d31bafb5",
-      "submission" : 1072,
-      "title" : "HAELEQUIN [EX]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=389&event=83",
-      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "92.31",
-      "voteYes" : 12
-   },
-   {
-      "artist" : "Ark-Z feat. かなえゆめ / ill:tachi mov:わっふゑ obj:SUZUKAZEΛ",
-      "comment" : "sl1~2?",
-      "level" : "1",
-      "md5" : "e8e32d203cc03123d72c6afb207d4890",
-      "proposer" : "Haze*",
-      "proposerLr2id" : 112076,
-      "sha256" : "ca46b324cbcaa569dd6019464a989a51553065ba2b7b4eb3a37ec22254932538",
-      "submission" : 1066,
-      "title" : "I'M HERE NOW [ZOI]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=186&event=123",
-      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 11
+      "votePercent" : "80.00",
+      "voteYes" : 4
    },
    {
       "artist" : "ZUN Remix by rider",
       "comment" : "",
-      "level" : "0",
+      "level" : "1",
       "md5" : "e9fca3b40e52fa9d2b7e8af5b10fa277",
       "proposer" : "Mallow♪",
       "proposerLr2id" : 154796,
@@ -300,7 +233,7 @@
       "url_diff" : "",
       "voteNeutral" : 3,
       "voteNo" : 3,
-      "votePercent" : "65.00",
+      "votePercent" : "63.64",
       "voteYes" : 6
    },
    {
@@ -317,7 +250,7 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.00",
+      "votePercent" : "86.36",
       "voteYes" : 8
    },
    {
@@ -335,7 +268,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
    },
    {
       "artist" : "ユメミド Movie:テンソル / Illust:遥壱朗 / Arrange:LeaF",
@@ -353,22 +286,5 @@
       "voteNo" : 2,
       "votePercent" : "75.00",
       "voteYes" : 7
-   },
-   {
-      "artist" : "unknown \"β\"",
-      "comment" : "第二回BMS衆議院選、LN、連打、皿、階段",
-      "level" : "3",
-      "md5" : "f8c9dff750341063a3df9b84535d74db",
-      "proposer" : "ww",
-      "proposerLr2id" : 147642,
-      "sha256" : "ba181b3b8f6762e410294415810a2e820bf1de66f0a63d0c6d5f7ded8577ba1f",
-      "submission" : 1081,
-      "title" : "Barely Barely",
-      "url" : "https://venue.bmssearch.net/bmsshuin2/65",
-      "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 10
    }
 ]

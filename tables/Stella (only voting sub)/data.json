@@ -34,23 +34,6 @@
       "voteYes" : 2
    },
    {
-      "artist" : "うまるつふり / selene.",
-      "comment" : "たのしい！",
-      "level" : "2",
-      "md5" : "54188c995465c15a0e0f44c719cf09d1",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "24e6eda5e66bc0f9c643b5e3ab9373240e543a4c6ff16300dd887f08f6d76900",
-      "submission" : 994,
-      "title" : "魂姫～たまひめ～ -虐-",
-      "url" : "https://venue.bmssearch.net/bmsshuin2/7",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03242",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 6
-   },
-   {
       "artist" : "tolz feat.音街ウナ obj.hex",
       "comment" : "微縦連 横に広い物量",
       "level" : "3",
@@ -64,25 +47,25 @@
       "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
-      "artist" : "kanone / mov:deadblue238 obj.Mallow♪",
-      "comment" : "物量",
-      "level" : "1",
-      "md5" : "7e0053aad813b50a8bc8e2bbfe9818b2",
-      "proposer" : "スノート",
-      "proposerLr2id" : 86393,
-      "sha256" : "f92f6393d8ef6ad6ad1b1843e77cbda3a1de47a9dc0da4fe3b3bc1c258530d40",
-      "submission" : 1002,
-      "title" : "Cross Galaxy [macrocosmos]",
-      "url" : "http://uploader.bms.ms/data/bof2011okfquh83/%5BSERENDIPITY-kanone%5DCross_Galaxy_ogg.rar",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03324",
+      "artist" : "ユメミド Movie:テンソル / Illust:遥壱朗 / Arrange:LeaF",
+      "comment" : "4~5? 連打",
+      "level" : "4",
+      "md5" : "83a33546ce5076d34a76345fc6091fd3",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "2c3960b54ceb4b97a5706ada57944d5a010aaaeaf930bbf09503aecd8ad85c6e",
+      "submission" : 1009,
+      "title" : "Lyrith -迷宮リリス- [Ruin]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=218&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01214",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 6
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "itaojirou obj: かに",
@@ -98,8 +81,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02683",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "ノクティス・江口・チェラム / obj:NoName",
@@ -116,41 +99,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
-   },
-   {
-      "artist" : "daisan Movie : highluin / obj.hex",
-      "comment" : "gachoishi",
-      "level" : "2",
-      "md5" : "a7b3fba3112aa3000b53816a0b3b1a88",
-      "proposer" : "LUXURY♪",
-      "proposerLr2id" : 23110,
-      "sha256" : "ab97a1e1805a843dfe8acdbf2ca3d298f604a3799037f170f7edf6388ea4d3ae",
-      "submission" : 995,
-      "title" : "ペニンシュラの踊り子 The dancer of a peninsula [Hexagon]",
-      "url" : "http://clockxellox.sakura.ne.jp/BMS/Peninsular.zip",
-      "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 3
-   },
-   {
-      "artist" : "MONO obj.hex",
-      "comment" : "物量",
-      "level" : "2",
-      "md5" : "aa18cd83e9bd14cade78cad49d14d4f1",
-      "proposer" : "LUXURY♪",
-      "proposerLr2id" : 23110,
-      "sha256" : "8d918212a6b983bbc7cbb384f899341c2f21f0aa7133c132879ea38f8cf24ddd",
-      "submission" : 996,
-      "title" : "Jack in the Vox [Pentagon]",
-      "url" : "https://archive.org/download/no2_ho/Jack%20in%20the%20Vox.zip",
-      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
    },
    {
       "artist" : "LV.4 / И",
@@ -166,7 +115,7 @@
       "url_diff" : "http://bms.parksulab.xyz",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "66.67",
+      "votePercent" : "62.50",
       "voteYes" : 2
    },
    {
@@ -199,24 +148,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03390",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
-   },
-   {
-      "artist" : "Process 2.3.1. / suna obj:Fender",
-      "comment" : "判定が難しい",
-      "level" : "2",
-      "md5" : "e39d2cac795946660a0109410650131e",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "2614484a14bbeb8f091244896e1674a74b14ac770047f59d76aba2040110b698",
-      "submission" : 997,
-      "title" : "鼠の標本 [Φ]",
-      "url" : "https://www.dropbox.com/s/ka7thaepvh40tj6/%E9%BC%A0%E3%81%AE%E6%A8%99%E6%9C%AC.zip?dl=1",
-      "url_diff" : "http://fenderbms.web.fc2.com/",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "66.67",
+      "votePercent" : "100.00",
       "voteYes" : 2
    }
 ]
