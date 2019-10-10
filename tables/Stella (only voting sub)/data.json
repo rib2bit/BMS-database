@@ -150,5 +150,22 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 2
+   },
+   {
+      "artist" : "さかみりと img:しぐれぷに子/obj:赤い人",
+      "comment" : "st1~2?",
+      "level" : "1",
+      "md5" : "e1cf6ae1aae5f99561f31dd987a83b51",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "847fe82609cbd4916e17e0c4bd69f9cdc5c8e9477e1c0580ae8cebf8b48dd957",
+      "submission" : 1010,
+      "title" : "八大地獄邪魂転生狂葬散火歌 [HARDEST]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=116",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/G59_HARDEST.bms",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    }
 ]

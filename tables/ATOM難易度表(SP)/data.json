@@ -102,6 +102,18 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/Pangaea.zip"
    },
    {
+      "artist" : "scytheleg",
+      "comment" : "☆10<br><br>LN",
+      "level" : "-1",
+      "lr2_bmsid" : "0",
+      "md5" : "1a42a39ccd043547831d45ee42ce6184",
+      "name_diff" : "DL",
+      "reg_date" : "2019-10-11",
+      "title" : "the Rough Ocean -INSANE-",
+      "url" : "http://scytheleg.sakura.ne.jp/",
+      "url_diff" : "http://onzonium.at-ninja.jp/sabun/the Rough Ocean.zip"
+   },
+   {
       "artist" : "ねこみみ魔法使い",
       "comment" : "縦連・曲変更",
       "level" : "？",
@@ -112,6 +124,18 @@
       "title" : "theme of Maia -あみだくじ-",
       "url" : "http://nekomimi.name/",
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/theme of maia.zip"
+   },
+   {
+      "artist" : "Nacky",
+      "comment" : "縦連・乱打",
+      "level" : "2",
+      "lr2_bmsid" : "0",
+      "md5" : "30802a48c9ca50dd8eac510d3a7c6a38",
+      "name_diff" : "DL",
+      "reg_date" : "2019-10-11",
+      "title" : "MEDICINAL STIMULATION (INSANE)",
+      "url" : "https://web.archive.org/web/20040723170358/http://ping.dmz-plus.com/bms/mstim.lzh",
+      "url_diff" : "http://onzonium.at-ninja.jp/sabun/MEDICINAL STIMULATION.zip"
    },
    {
       "artist" : "SAMBA MASTER 佐藤 -SATOH- Remixed by Yosk!",
@@ -140,7 +164,7 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/green big apple.zip"
    },
    {
-      "artist" : "skns / obj.onzonium",
+      "artist" : "skns",
       "comment" : "☆11<br><br>乱打・皿　音源追加あり<br><br>差分企画「Initial A to Z 2019 -26 songs-」参加作品<br>onzonium名義で参加",
       "level" : "-1",
       "lr2_bmsid" : "0",
@@ -191,7 +215,7 @@
    {
       "artist" : "Professor S",
       "comment" : "局所難・トリル",
-      "level" : "2",
+      "level" : "1",
       "lr2_bmsid" : "0",
       "md5" : "56c5a3ca2832ee12460372a9d52508d4",
       "name_diff" : "DL",
@@ -302,6 +326,18 @@
       "title" : "Genocidal Guardians [7key_INSANE]",
       "url" : "http://web.archive.org/web/20070204004039/http://yokohama.cool.ne.jp/aib_sand/k_g2.rar",
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/Genocidal Guardians.zip"
+   },
+   {
+      "artist" : "Shirout(RANDO: vs RASK)",
+      "comment" : "皿・乱打・LN・ラス殺し",
+      "level" : "11",
+      "lr2_bmsid" : "0",
+      "md5" : "711d1878f71cc447331e896a53ac0e3a",
+      "name_diff" : "DL(mega保管)",
+      "reg_date" : "2019-10-11",
+      "title" : "SPELL BOUND -R: STYLE- (INSANE)",
+      "url" : "https://mega.nz/#F!FNFDCQaT!wfv-iI4UuSIaGpP0oFZdtQ",
+      "url_diff" : "http://onzonium.at-ninja.jp/sabun/SPELL BOUND -R STYLE-.zip"
    },
    {
       "artist" : "nemumi",
@@ -554,18 +590,6 @@
       "title" : "Dawn of ancient bay [Gale a Moment]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=88",
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/Dawn of ancient bay.zip"
-   },
-   {
-      "artist" : "scytheleg",
-      "comment" : "☆10<br><br>LN",
-      "level" : "-1",
-      "lr2_bmsid" : "0",
-      "md5" : "f5cd57f449cdaccce69031f51284dacd",
-      "name_diff" : "DL",
-      "reg_date" : "2018-11-23",
-      "title" : "the Rough Ocean -INSANE-",
-      "url" : "http://scytheleg.sakura.ne.jp/",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/the Rough Ocean.zip"
    },
    {
       "artist" : "野球君",
