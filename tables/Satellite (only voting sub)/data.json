@@ -47,8 +47,8 @@
       "url_diff" : "https://www.dropbox.com/s/3d08dbtce08gvih/tamesona_nanami01.bme?dl=0",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "85.00",
-      "voteYes" : 8
+      "votePercent" : "86.36",
+      "voteYes" : 9
    },
    {
       "artist" : "作詞・作曲/上野ぱんだ　編曲/ケドメ　絵/るい　歌/初音ミク obj:Fender",
@@ -66,6 +66,22 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 11
+   },
+   {
+      "artist" : "tcheb / mov : inukoro obj: JoeT + Offliner",
+      "level" : "2",
+      "md5" : "3293b614002e85c8a230287b1876b67b",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "df6ab8c33536af9fb0ebaf4b43d66f8ae24ec7dc8de5d850825df1ecfdda0d7f",
+      "submission" : 1102,
+      "title" : "Feast of Lights [SP Natsumatsuri]",
+      "url" : "http://k-bms.com/party_pabat/party2015.jsp?board_num=15&num=35&order=reg&odtype=a",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03309",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "guna with チーム・キュッキュ / И",
@@ -102,6 +118,39 @@
       "voteYes" : 6
    },
    {
+      "artist" : "メアリ? obj.sialua",
+      "level" : "8",
+      "md5" : "4c75b2e852718a5bdb7235b51a8dc878",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "777c6f8e503abdca40ed1b134d872eaf1e90527605e9860191032be56458d9fd",
+      "submission" : 1103,
+      "title" : "Artificial Rose [Replica]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=363&event=83",
+      "url_diff" : "http://sialua94.egloos.com/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
+      "artist" : "sasakure.UK",
+      "comment" : "低速ズレ乱打 / 後殺",
+      "level" : "1",
+      "md5" : "4fac8bb513c9d4e979a1ce5ddd5993a3",
+      "proposer" : "DK",
+      "proposerLr2id" : 46697,
+      "sha256" : "4559d96b7447175cbe86bfd0ec799b5675ebccece1f64c9c737d9773b4898c32",
+      "submission" : 1101,
+      "title" : "Pangaea [IIDX]",
+      "url" : "http://web.archive.org/web/20070727154611/http://sasakure.bms.ms/framemusic.htm",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "ETIA. feat.Jenga deadblue238 / 篠乃ちよ / obj:七海千秋",
       "level" : "0",
       "md5" : "54771de79f7787aa3c63aff7f78eff97",
@@ -114,8 +163,25 @@
       "url_diff" : "https://www.dropbox.com/s/f2slc49pwsmdom2/_say_a_vengeance_nanami01.bms?dl=0",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "86.67",
-      "voteYes" : 12
+      "votePercent" : "87.50",
+      "voteYes" : 13
+   },
+   {
+      "artist" : "Sakamiya feat.一花 mov:くわぎう img:じゃっこ",
+      "comment" : "無名戦対抗戦、同時押し",
+      "level" : "0",
+      "md5" : "60af6410e572521626238b8833ebc459",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "78bb20784dfe8b63ed955e78fcb05effe82e347ab0cea0adb6ae981d22123c44",
+      "submission" : 1099,
+      "title" : "マツユキソウ [Another]",
+      "url" : "https://event.yaruki0.net/VSevent/impression/3",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "plastic feat.サキト / obj:sarada",
@@ -165,8 +231,8 @@
       "url_diff" : "https://www.dropbox.com/s/ke21m7m10aanuxj/Soul_of_Deep-sea_Fish_sabun.lzh?dl=0",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "85.00",
-      "voteYes" : 8
+      "votePercent" : "86.36",
+      "voteYes" : 9
    },
    {
       "artist" : "nekomimi_STRaw obj.すいかいの譜面工房",
@@ -216,8 +282,25 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02085",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "83.33",
-      "voteYes" : 5
+      "votePercent" : "85.71",
+      "voteYes" : 6
+   },
+   {
+      "artist" : "hugepulse BGA:Micelle",
+      "comment" : "第二回BMS衆議院選、ガチ押し、連打",
+      "level" : "4",
+      "md5" : "d65e60259aa7261ca03e2c3d0b99f3ee",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "48301f5624b6b39b53bb9cb9cbbd9063367fa87515b67f593eabc7c353027b35",
+      "submission" : 1100,
+      "title" : "Hazuki [INSANE]",
+      "url" : "https://venue.bmssearch.net/bmsshuin2/14",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "ZUN Remix by rider",
