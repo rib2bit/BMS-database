@@ -3103,7 +3103,7 @@
    {
       "artist" : "Y.W obj : 打者走者",
       "comment" : "Techno core",
-      "level" : "8",
+      "level" : "9",
       "md5" : "121c0e1ff63fc2e81e28c54d69c453ec",
       "title" : "S t r a i n <14key death>"
    },
@@ -5252,7 +5252,7 @@
    {
       "artist" : "夜桜 鍵 *FLIP",
       "comment" : "東方妖々夢 Piano Solo",
-      "level" : "★10",
+      "level" : "?",
       "md5" : "1ebe2fa790942121f899dee02f990d05",
       "title" : "超絶技巧ネクロファンタジア  - ピアニスト -"
    },
@@ -6109,13 +6109,6 @@
       "level" : "4",
       "md5" : "23f098872668597df9fb08fba73160bb",
       "title" : "Lonely Hina"
-   },
-   {
-      "artist" : "ねこみみ魔法使い *LR.RANDOM(DBR)",
-      "comment" : "steps",
-      "level" : "5",
-      "md5" : "23f400afc00b2793da768c7b6e712ae2",
-      "title" : "うみいろ、そらいろ。 (DB-IR)"
    },
    {
       "artist" : "-45 / obj@PEN *LR.MIRROR",
@@ -11221,13 +11214,6 @@
       "title" : "World Confusion [14A]"
    },
    {
-      "artist" : "Ninja Action Team *LR.RANDOM(DBR)",
-      "comment" : "Happy Hardcore Double Battle",
-      "level" : "10",
-      "md5" : "4349ba7429d2574a3966c8c8e86dda15",
-      "title" : "Showguts (大凶)"
-   },
-   {
       "artist" : "ねこひめたん *LR.MIRROR 引っ越し",
       "comment" : "テクノ",
       "level" : "8",
@@ -11452,6 +11438,13 @@
       "title" : "或る表現者の男 [境地]"
    },
    {
+      "artist" : "Is-m BGA:coda DPBMS:RUSTIN  *AVE",
+      "comment" : "INFINITY",
+      "level" : "9",
+      "md5" : "44ba7c46e4cd32d6df35e2aec71f5ba7",
+      "title" : "MooN -DP ? ?-"
+   },
+   {
       "artist" : "ZUN remix by 44teru-k / obj.A-",
       "comment" : "trance core",
       "level" : "★2",
@@ -11667,6 +11660,13 @@
       "level" : "10",
       "md5" : "45b654ad63ddadc79f9933c776cc443f",
       "title" : "A.S.D.F [EX]"
+   },
+   {
+      "artist" : "Squar / obj:nBel",
+      "comment" : "Latin Pop",
+      "level" : "★4",
+      "md5" : "45bb96c6bc1c4b9f4b5e0650e118e0ca",
+      "title" : "Elina [Left behind]"
    },
    {
       "artist" : "髭姫 feat. えみゅう。 LYRICS：やんばるん BGA：Milk_tya ILLUST：UNOQLO obj：元美月会長と楓次期副会長",
@@ -12509,6 +12509,13 @@
       "title" : "alone [DPA]"
    },
    {
+      "artist" : "sta",
+      "comment" : "Lounge",
+      "level" : "3",
+      "md5" : "4b4da19a8034d6db2e49bb6c5ddd4812",
+      "title" : "Radiosonde (14lines)"
+   },
+   {
       "artist" : "uma feat. ましろ obj:eclair et fleur  *FLIP",
       "comment" : "Vocal Hardcore",
       "level" : "6",
@@ -12731,6 +12738,13 @@
       "level" : "7",
       "md5" : "4ca15a2aa9eafa793e21c7cbbe16a56c",
       "title" : "Maple Syrup Hurricane [DPA]"
+   },
+   {
+      "artist" : "RikkaTachibana / obj.にゃむ *LR.MIRROR",
+      "comment" : "Hayai",
+      "level" : "8",
+      "md5" : "4ca55232ac8291ee5563862e98daea4c",
+      "title" : "NewFace!! [DPA]"
    },
    {
       "artist" : "Xacla / TOHRU MiTSUHASHi",
@@ -14772,7 +14786,7 @@
    {
       "artist" : "celas obj:kuro",
       "comment" : "witch's hardcore",
-      "level" : "9",
+      "level" : "10",
       "md5" : "5894999d95f3d09819d8bb8f80f545df",
       "title" : "beyond the world (disturbance mix) <radio edit>"
    },
@@ -14894,13 +14908,6 @@
       "level" : "10",
       "md5" : "59459e90ff1063021ed3a5acb5976f7f",
       "title" : "真・千年女王 [ANOTHER]"
-   },
-   {
-      "artist" : "SHIKI *LR.RANDOM",
-      "comment" : "TRANCE",
-      "level" : "9",
-      "md5" : "594da246ef49cac0ce17a4eac5fcf38d",
-      "title" : "Lapis [Another]  (DB)"
    },
    {
       "artist" : "奏 obj:kuro mov:いとう まさき",
@@ -17766,6 +17773,13 @@
       "title" : "キミとの境界線  [14本目]"
    },
    {
+      "artist" : "t+pazolite",
+      "comment" : "Happy Hardcore",
+      "level" : "7",
+      "md5" : "6a4392015870cb55570fdbd94ee8cd5d",
+      "title" : "Little \"Sister\" Bitch"
+   },
+   {
       "artist" : "paraoka *LR.MIRROR SUD+",
       "comment" : "rock",
       "level" : "★4",
@@ -19145,7 +19159,7 @@
       "title" : "yoshi come here!"
    },
    {
-      "artist" : "Aozuna *FLIP LR.RAN 1p3->1, 2p5->7",
+      "artist" : "Aozuna *FLIP L.RAN 1p3->1 R.MIR",
       "comment" : "GABBA",
       "level" : "★5",
       "md5" : "72aaf3ae20efde5878937d101c51bfb5",
@@ -19346,13 +19360,6 @@
       "level" : "5",
       "md5" : "739d52c7967f89d45522f90ece27dc09",
       "title" : "Lieselotte  [DP ANOTHER]"
-   },
-   {
-      "artist" : "ねこみみ魔法使い *LR.RANDOM(DBR)",
-      "comment" : "HappY PoPcorN(maniax7 double battle)",
-      "level" : "★7",
-      "md5" : "73aead390d34accefee024e71a4e6dda",
-      "title" : "★LittlE HearTs★"
    },
    {
       "artist" : "daisan / zue-row (obj.AGNE) *FLIP",
@@ -25781,7 +25788,7 @@
       "title" : "Raging Storm Inferno [ALL KEY]"
    },
    {
-      "artist" : "GEMA *LR.RANDOM",
+      "artist" : "GEMA *正規 or LR.RANDOM",
       "comment" : "Tek Tribal",
       "level" : "★5",
       "md5" : "974d88ff4af54b8efe310aa9ed94d655",
@@ -27771,7 +27778,7 @@
    {
       "artist" : "DJ Ash Ketchum /obj:QJITAI *FLIP LR.RANDOM",
       "comment" : "Grotesque Breaks",
-      "level" : "★6",
+      "level" : "★7",
       "md5" : "a26d61dd5c9e6067ee8486d591494404",
       "title" : "LOSTSILVER"
    },
@@ -27958,6 +27965,13 @@
       "title" : "紫陽花の忘れ物 [ANOTHER14]"
    },
    {
+      "artist" : "しらいし obj: misty.ls04  *R.MIRROR",
+      "comment" : "HARD DRAMATIC",
+      "level" : "7",
+      "md5" : "a3bb0a2695af35a90c7f6657d6348b12",
+      "title" : "King [DP ANOTHER]"
+   },
+   {
       "artist" : "kia vs sugisaki",
       "comment" : "RENAISSANCE CORE",
       "level" : "3",
@@ -27967,7 +27981,7 @@
    {
       "artist" : "SHIKI obj:kuro",
       "comment" : "TRANCE CORE",
-      "level" : "★2",
+      "level" : "★1",
       "md5" : "a3d65198f77f327b94bb86128dcb6ab0",
       "title" : "Metatron [DP CHALLENGER]"
    },
@@ -28224,7 +28238,7 @@
       "title" : "Tragic Love [14key]"
    },
    {
-      "artist" : "dawn-system *LR.MIRROR HS+10",
+      "artist" : "dawn-system *SUD+ MAXBPM+10 L.MIR",
       "comment" : "SOLITARY CHORUS",
       "level" : "8",
       "md5" : "a53736c45245b34de6ca7c4078240411",
@@ -29162,6 +29176,13 @@
       "title" : "Gerard [Enjoy]"
    },
    {
+      "artist" : "onoken / obj:QJITAI",
+      "comment" : "Spiritual",
+      "level" : "3",
+      "md5" : "aa34128951b13967b303a1fccb4820af",
+      "title" : "lataia [DP ANQTHER]"
+   },
+   {
       "artist" : "うまるつふり / obj:imit8or",
       "comment" : "白透",
       "level" : "4",
@@ -29468,6 +29489,13 @@
       "level" : "★1",
       "md5" : "acb240ca21feccf9d1853d026b6a981c",
       "title" : "Her Majesty [CHALLENGE14]"
+   },
+   {
+      "artist" : "orangentle / deadblue238 / Rustin",
+      "comment" : "Dissociative Identity Disorder",
+      "level" : "9",
+      "md5" : "acb81b14810bd7be77d9a0725b24d034",
+      "title" : "HAELEQUIN"
    },
    {
       "artist" : "er / obj:綾",
@@ -30576,6 +30604,13 @@
       "title" : "Bang Bang [DP Another]"
    },
    {
+      "artist" : "SHIKI obj:NEPIA",
+      "comment" : "TRANCE",
+      "level" : "3",
+      "md5" : "b2deadf84c6b53e3970c76028533bfa3",
+      "title" : "Angelic layer [DP ANOTHER]"
+   },
+   {
       "artist" : "vorbis obj:Ais *FLIP",
       "comment" : "Death Hyper Techno Mission of Juliana's Tokyo",
       "level" : "★1",
@@ -31484,13 +31519,6 @@
       "level" : "6",
       "md5" : "b77bbd67da65788b15484cfb987d68a2",
       "title" : "It's \"alice\" dream [DP INSANE]"
-   },
-   {
-      "artist" : "Hate vs Brilliance *LR.RANDOM",
-      "comment" : "FREEFORM",
-      "level" : "8",
-      "md5" : "b78ef0a5c5703a988b92e69117d93b08",
-      "title" : "Quark  (DB)"
    },
    {
       "artist" : "Negentropy / obj:Hador Movie:Vogeln",
@@ -33236,6 +33264,13 @@
       "title" : "raver [DPQ]"
    },
    {
+      "artist" : "Sound Souler (BGA : Passantea / Pattern : FUSEI7)",
+      "comment" : "Melodic Trance",
+      "level" : "3",
+      "md5" : "c14fe85b971054a20f5ddc88c09e7b65",
+      "title" : "Eternalism 2 [14key ANOTHER]"
+   },
+   {
       "artist" : "zun (obj:A-zert)  *L.MIRROR",
       "comment" : "東方星蓮船",
       "level" : "6",
@@ -34207,13 +34242,6 @@
       "level" : "10",
       "md5" : "c78129d26cf32207d845f873776e1f3d",
       "title" : "Imperishable Night 2006 -Dream Reincarnation-"
-   },
-   {
-      "artist" : "ねこみみ魔法使い",
-      "comment" : "HappY PoPcorN(another7 double battle)",
-      "level" : "7",
-      "md5" : "c782a94561610f0a32e2e5bee1056e58",
-      "title" : "★LittlE HearTs★"
    },
    {
       "artist" : "HB obj:SMNX",
@@ -35838,6 +35866,13 @@
       "level" : "4",
       "md5" : "d22ead5fb3ad57cd11c296a20aeb14bb",
       "title" : "snowflake -exquisite Re:2018- [Fingerdance]"
+   },
+   {
+      "artist" : "Bts-Factory / obj:lichtr",
+      "comment" : "BRIT HOUSE",
+      "level" : "2",
+      "md5" : "d235f1fd2654a7b67a1d3ace8949b514",
+      "title" : "Make Noise!"
    },
    {
       "artist" : "Coco obj:ucc *FLIP",
@@ -37618,6 +37653,13 @@
       "title" : "BiBiRi [Heartbreak]"
    },
    {
+      "artist" : "bluebird BGA Anomie / Pattern Symphonian *AVE R.MIR",
+      "comment" : "Drum and bass",
+      "level" : "3",
+      "md5" : "dd7e229ceefa3d9ce52fe93b52029e21",
+      "title" : "Clair de lune(blue moon remix) [14keys Another]"
+   },
+   {
       "artist" : "Cait Sith / obj : Hador",
       "comment" : "トイコンテンポラリー",
       "level" : "★7",
@@ -37695,7 +37737,7 @@
       "title" : "Albinaga  [DP_PHAGOS]"
    },
    {
-      "artist" : "Yosk!/obj:epics- *FLIP",
+      "artist" : "Yosk!/obj:epics- *L.MIRROR",
       "comment" : "kirby silent",
       "level" : "7",
       "md5" : "dddddb05a52da309c9b8a007e247d0f2",
@@ -38022,13 +38064,6 @@
       "level" : "5",
       "md5" : "e02b74978a2dac8291d8463a7f4d546a",
       "title" : "ゴキゲンストリート -食屍鬼街-"
-   },
-   {
-      "artist" : "wa. *LR.RANDOM(DBR)",
-      "comment" : "IntelligenceTerror",
-      "level" : "★4",
-      "md5" : "e03f2c6852c2ab571d7962320c64ac98",
-      "title" : "モリオンの姫 [ANOTHER]  (DB)"
    },
    {
       "artist" : "HEXAHEDRA / BGA:Johnny",
@@ -38484,13 +38519,6 @@
       "level" : "7",
       "md5" : "e349061cb23d580c6979503d08a674ef",
       "title" : "Trichterwinde [DP ANOTHER]"
-   },
-   {
-      "artist" : "void feat. コツキミヤ , Gt. えば BGA : Photonskyto  *LR.RANDOM(DBR)",
-      "comment" : "Venerable Culture",
-      "level" : "★9",
-      "md5" : "e3496271270f843e30f567888aaa72b3",
-      "title" : "Name of oath [SP ANOTHER DP BATTLE]"
    },
    {
       "artist" : "BACO",

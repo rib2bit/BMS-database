@@ -1,5 +1,21 @@
 [
    {
+      "artist" : "ルゼ ☆ えみゅう。 ☆ 石王マサト Obj:И",
+      "level" : "4",
+      "md5" : "0a4e8da3c5ac37bf4945bbb42e685307",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "7efb59cd5f72dfa4263e86e5784f18f3817fb73e0b18917154849de4eb688e21",
+      "submission" : 1012,
+      "title" : "運命論 [決定論]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=205&event=88",
+      "url_diff" : "https://bms.parksulab.xyz",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "69 de 74 BGA : EViL/obj:赤い人",
       "comment" : "物量",
       "level" : "3",
@@ -15,6 +31,23 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 5
+   },
+   {
+      "artist" : "sampling minor SUICA",
+      "comment" : "stellaっぽくて良い練習譜面かなあと",
+      "level" : "0",
+      "md5" : "1feb50f44a553fb7bec345e2667ecd86",
+      "proposer" : "けーちゃん",
+      "proposerLr2id" : 137190,
+      "sha256" : "2abe42917c685d15b34d0bd503bed0424b314acc00f385d7543e5448f37fe775",
+      "submission" : 1011,
+      "title" : "おにコア [如月]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=142&event=60",
+      "url_diff" : "http://www.geocities.jp/dsks5456/bms.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "Yosk!",
