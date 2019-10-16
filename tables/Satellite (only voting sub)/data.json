@@ -13,8 +13,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "80.00",
-      "voteYes" : 7
+      "votePercent" : "81.82",
+      "voteYes" : 8
    },
    {
       "artist" : "ume",
@@ -30,8 +30,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "92.31",
-      "voteYes" : 11
+      "votePercent" : "92.86",
+      "voteYes" : 12
    },
    {
       "artist" : "AKITO obj:七海千秋",
@@ -81,7 +81,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
    },
    {
       "artist" : "guna with チーム・キュッキュ / И",
@@ -131,7 +131,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "sasakure.UK",
@@ -147,8 +147,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 2
+      "votePercent" : "90.00",
+      "voteYes" : 4
    },
    {
       "artist" : "ETIA. feat.Jenga deadblue238 / 篠乃ちよ / obj:七海千秋",
@@ -163,8 +163,8 @@
       "url_diff" : "https://www.dropbox.com/s/f2slc49pwsmdom2/_say_a_vengeance_nanami01.bms?dl=0",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "87.50",
-      "voteYes" : 13
+      "votePercent" : "88.24",
+      "voteYes" : 14
    },
    {
       "artist" : "Sakamiya feat.一花 mov:くわぎう img:じゃっこ",
@@ -181,7 +181,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
    },
    {
       "artist" : "plastic feat.サキト / obj:sarada",
@@ -266,7 +266,41 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 12
+      "voteYes" : 13
+   },
+   {
+      "artist" : "すぎ",
+      "comment" : "縦連と同時押しの多い練習譜面",
+      "level" : "0",
+      "md5" : "c67a1f89e4f546f8a97ab7fa4c811413",
+      "proposer" : "けーちゃん",
+      "proposerLr2id" : 137190,
+      "sha256" : "b094abe0d2fa1c4acdca47fd55bbdddf5e48623d6a985d7083ff08e6f27683d3",
+      "submission" : 1104,
+      "title" : "とっとこハム",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=122",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02744",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
+      "artist" : "すぎ",
+      "comment" : "同曲を提案したのですが差分を間違えてしまいました、本当に申し訳ございません",
+      "level" : "0",
+      "md5" : "c8a8027f25c1fafad0e48c62f83a1a5f",
+      "proposer" : "けーちゃん",
+      "proposerLr2id" : 137190,
+      "sha256" : "bb9e62c951f00a6970949005aec3f8d60e16673d48b0c886c07b2748599bf19e",
+      "submission" : 1105,
+      "title" : "とっとこハム",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=122",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02744",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "-45 / selene.",
@@ -299,8 +333,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "75.00",
-      "voteYes" : 1
+      "votePercent" : "83.33",
+      "voteYes" : 2
    },
    {
       "artist" : "ZUN Remix by rider",
@@ -351,7 +385,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
+      "voteYes" : 10
    },
    {
       "artist" : "ユメミド Movie:テンソル / Illust:遥壱朗 / Arrange:LeaF",
@@ -367,7 +401,7 @@
       "url_diff" : "",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "72.73",
-      "voteYes" : 7
+      "votePercent" : "75.00",
+      "voteYes" : 8
    }
 ]

@@ -13067,6 +13067,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "すぎ",
+      "comment" : "縦連と同時押しの多い練習譜面",
+      "level" : "0",
+      "md5" : "c67a1f89e4f546f8a97ab7fa4c811413",
+      "proposer" : "けーちゃん",
+      "proposerLr2id" : 137190,
+      "sha256" : "b094abe0d2fa1c4acdca47fd55bbdddf5e48623d6a985d7083ff08e6f27683d3",
+      "submission" : 1104,
+      "title" : "とっとこハム",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=122",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02744"
+   },
+   {
       "artist" : "momo★yama,erotic server,Initial-P,pinky brass man,JUMPERS (全部桃山)/obj:La*2℃",
       "comment" : "24分複合、微皿、高TOTAL",
       "level" : "2",
@@ -13297,6 +13310,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "すぎ",
+      "comment" : "同曲を提案したのですが差分を間違えてしまいました、本当に申し訳ございません",
+      "level" : "0",
+      "md5" : "c8a8027f25c1fafad0e48c62f83a1a5f",
+      "proposer" : "けーちゃん",
+      "proposerLr2id" : 137190,
+      "sha256" : "bb9e62c951f00a6970949005aec3f8d60e16673d48b0c886c07b2748599bf19e",
+      "submission" : 1105,
+      "title" : "とっとこハム",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=122",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02744"
    },
    {
       "artist" : "witch's slave",
