@@ -12689,6 +12689,18 @@
       "voteYes" : 0
    },
    {
+      "artist" : "sasakure.UK / Obj.Triforce",
+      "level" : "11",
+      "md5" : "bef7992c836e2e29c36330601ce4569e",
+      "proposer" : "MIUNA",
+      "proposerLr2id" : 122137,
+      "sha256" : "924e4db27d2bdc6a1ccba9a0af5424458f2a076ebceeb8e480ecc42bed692732",
+      "submission" : 1106,
+      "title" : "海神寓拝 [Nemesis]",
+      "url" : "http://web.archive.org/web/20070727154611/http://sasakure.bms.ms/framemusic.htm",
+      "url_diff" : "http://www.dropbox.com/s/zxi5fez793l91rz/kaijin%5B6-nemesis%5D.bme?dl=0"
+   },
+   {
       "artist" : "Lemi. obj:SANY",
       "comment" : "体力",
       "level" : "7",
