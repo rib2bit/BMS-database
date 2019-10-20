@@ -1,39 +1,5 @@
 [
    {
-      "artist" : "3034",
-      "comment" : "皿複合",
-      "level" : "9",
-      "md5" : "0076b2ce2cee05999a524712c128740f",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "089c220a2428410bc16f2047d7d96626360801bc4021512be082e9a39b48be03",
-      "submission" : 1088,
-      "title" : "NS20 [7key CHAOSDEATH]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=63",
-      "url_diff" : "",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "81.82",
-      "voteYes" : 8
-   },
-   {
-      "artist" : "ume",
-      "comment" : "第二回BMS衆議院選、ガチ押し、ズレ、LN",
-      "level" : "0",
-      "md5" : "02c4d238c7ab99ae088bae519d92dc06",
-      "proposer" : "ww",
-      "proposerLr2id" : 147642,
-      "sha256" : "000fbcfe0fce450b9bb7fb1fdf727a5d58bbb90c38b86b4761a35b3318c01d23",
-      "submission" : 1089,
-      "title" : "RAVE YOUR ROCK",
-      "url" : "https://venue.bmssearch.net/bmsshuin2/42",
-      "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "93.33",
-      "voteYes" : 13
-   },
-   {
       "artist" : "AKITO obj:七海千秋",
       "comment" : "AKITO様の名曲発狂 ",
       "level" : "1",
@@ -47,25 +13,8 @@
       "url_diff" : "https://www.dropbox.com/s/3d08dbtce08gvih/tamesona_nanami01.bme?dl=0",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "86.36",
-      "voteYes" : 9
-   },
-   {
-      "artist" : "作詞・作曲/上野ぱんだ　編曲/ケドメ　絵/るい　歌/初音ミク obj:Fender",
-      "comment" : "徐々に難しくなる乱打",
-      "level" : "2",
-      "md5" : "29f5eb984d14420f053407d20c1f14d1",
-      "proposer" : "STANK!",
-      "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
-      "sha256" : "b65189750b07009f0bf5c7be32267f8ec13a5e4fa6fe16157966f1fd96e67028",
-      "submission" : 1079,
-      "title" : "DOLL [F]",
-      "url" : "https://web.archive.org/web/20151030093509/http://mikihara.cheap.jp/bms/BOF2015/doll_ogg.zip",
-      "url_diff" : "http://fenderbms.web.fc2.com/",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 11
+      "votePercent" : "87.50",
+      "voteYes" : 10
    },
    {
       "artist" : "tcheb / mov : inukoro obj: JoeT + Offliner",
@@ -81,7 +30,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 8
    },
    {
       "artist" : "guna with チーム・キュッキュ / И",
@@ -95,39 +44,6 @@
       "title" : "subconsciousness [Traumdeutung]",
       "url" : "http://aquaseeds.net/",
       "url_diff" : "http://bms.parksulab.xyz",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 5
-   },
-   {
-      "artist" : "Luxion mixed by lemon obj:七海",
-      "comment" : "Nice Pattern!",
-      "level" : "12",
-      "md5" : "385343388eaacae49c441c3e5ef53d72",
-      "proposer" : "Triforce",
-      "proposerLr2id" : 18553,
-      "sha256" : "3d12660f82e5d2896bb68b76c587336e6398230a1d8c45dd2eb818c7824546d4",
-      "submission" : 1092,
-      "title" : "煉獄-Priestess -Hopeless-",
-      "url" : "http://www.dropbox.com/s/t0tcsnl0z29uaho/%E7%85%89%E7%8D%84-Priestess.zip?dl=0",
-      "url_diff" : "https://www.dropbox.com/s/mub73zhqm8v7gfe/rengokupriestess.zip?dl=0",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 9
-   },
-   {
-      "artist" : "メアリ? obj.sialua",
-      "level" : "8",
-      "md5" : "4c75b2e852718a5bdb7235b51a8dc878",
-      "proposer" : "椒図",
-      "proposerLr2id" : 124809,
-      "sha256" : "777c6f8e503abdca40ed1b134d872eaf1e90527605e9860191032be56458d9fd",
-      "submission" : 1103,
-      "title" : "Artificial Rose [Replica]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=363&event=83",
-      "url_diff" : "http://sialua94.egloos.com/",
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "93.75",
@@ -147,24 +63,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "85.71",
-      "voteYes" : 5
-   },
-   {
-      "artist" : "ETIA. feat.Jenga deadblue238 / 篠乃ちよ / obj:七海千秋",
-      "level" : "0",
-      "md5" : "54771de79f7787aa3c63aff7f78eff97",
-      "proposer" : "Mallow♪",
-      "proposerLr2id" : 154796,
-      "sha256" : "1bdf8bf6fc206c1a17fc9b2d586a9e41821e5406ae2a4d2382798541b95025ae",
-      "submission" : 1085,
-      "title" : "Say A Vengeance -Hope-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=7&event=83",
-      "url_diff" : "https://www.dropbox.com/s/f2slc49pwsmdom2/_say_a_vengeance_nanami01.bms?dl=0",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
       "votePercent" : "88.89",
-      "voteYes" : 15
+      "voteYes" : 7
    },
    {
       "artist" : "Sakamiya feat.一花 mov:くわぎう img:じゃっこ",
@@ -180,8 +80,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "92.86",
-      "voteYes" : 6
+      "votePercent" : "94.44",
+      "voteYes" : 8
    },
    {
       "artist" : "plastic feat.サキト / obj:sarada",
@@ -197,25 +97,8 @@
       "url_diff" : "http://srdbms.otodo.net/sabun/futago_srdX.zip",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "80.00",
-      "voteYes" : 4
-   },
-   {
-      "artist" : "onoken / obj:MIZ&arufis",
-      "comment" : "皿/二重階段/シンメトリー系/高速トリル/ラス殺し/66・67小節に音追加",
-      "level" : "12",
-      "md5" : "783ff551551507fd15b004e8257dbbf9",
-      "proposer" : "かに",
-      "proposerLr2id" : 115381,
-      "sha256" : "468b0e1fd33aed72bbc605b0356d6f3d4a140edf56810ce3d38d90a2b1c83955",
-      "submission" : 1096,
-      "title" : "K8107 -EX-",
-      "url" : "http://web.archive.org/web/20070111193502/www107.sakura.ne.jp/~onoken/htmls/bms.html",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03412",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "71.43",
-      "voteYes" : 4
+      "votePercent" : "78.57",
+      "voteYes" : 5
    },
    {
       "artist" : "HOUJIROU/obj_jakko",
@@ -231,24 +114,7 @@
       "url_diff" : "https://www.dropbox.com/s/ke21m7m10aanuxj/Soul_of_Deep-sea_Fish_sabun.lzh?dl=0",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "86.36",
-      "voteYes" : 9
-   },
-   {
-      "artist" : "nekomimi_STRaw obj.すいかいの譜面工房",
-      "comment" : "(sl4-5?) 無名戦対抗戦、連打、乱打",
-      "level" : "5",
-      "md5" : "9dfd050b672a3f28058198c896a623e6",
-      "proposer" : "ww",
-      "proposerLr2id" : 147642,
-      "sha256" : "e029447ba1828281b1e41ee8712a0b203cbf21dcfdcf466339ee0fb658d62ee9",
-      "submission" : 1090,
-      "title" : "District IX [Insane]",
-      "url" : "https://event.yaruki0.net/VSevent/impression/65",
-      "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "87.50",
       "voteYes" : 10
    },
    {
@@ -264,25 +130,8 @@
       "url_diff" : "http://www.dropbox.com/s/zxi5fez793l91rz/kaijin%5B6-nemesis%5D.bme?dl=0",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
-   },
-   {
-      "artist" : "P4koo feat. つゆり花鈴 Art:Doro-nyong Movie:Ratif obj : BAECON",
-      "comment" : "少し連打",
-      "level" : "1",
-      "md5" : "c310b138f0b4eb386347c222258ef944",
-      "proposer" : "かに",
-      "proposerLr2id" : 115381,
-      "sha256" : "df4a26237cdf5e9d477c7813dd3088eb14382cdf54ceb9f27ac1487db49eb6f5",
-      "submission" : 1091,
-      "title" : "Colorful Days♪ [Colour My Sky]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=125&event=123",
-      "url_diff" : "https://bmscharteditorsgroup.wixsite.com/initialatoz",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 13
+      "voteYes" : 2
    },
    {
       "artist" : "すぎ",
@@ -298,7 +147,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02744",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "83.33",
+      "votePercent" : "70.00",
       "voteYes" : 2
    },
    {
@@ -315,8 +164,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02085",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "83.33",
-      "voteYes" : 7
+      "votePercent" : "85.00",
+      "voteYes" : 8
    },
    {
       "artist" : "hugepulse BGA:Micelle",
@@ -332,75 +181,7 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "78.57",
+      "votePercent" : "72.22",
       "voteYes" : 5
-   },
-   {
-      "artist" : "ZUN Remix by rider",
-      "comment" : "",
-      "level" : "1",
-      "md5" : "e9fca3b40e52fa9d2b7e8af5b10fa277",
-      "proposer" : "Mallow♪",
-      "proposerLr2id" : 154796,
-      "sha256" : "8e1b662238a05ecb67a23c96318e2db879571e08e3746c0b764a78df38dd4c1c",
-      "submission" : 1086,
-      "title" : "Gensou Leaving [ANOTHER]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=102",
-      "url_diff" : "",
-      "voteNeutral" : 4,
-      "voteNo" : 4,
-      "votePercent" : "64.29",
-      "voteYes" : 8
-   },
-   {
-      "artist" : "Yosk!",
-      "comment" : "パーティーのはじまりだ！",
-      "level" : "4",
-      "md5" : "efd731d808a29f8e0f2f18c881ccf033",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "1f90fb4334078ec217dcb17cb07846552c92159b407e75864e8300e9a937a888",
-      "submission" : 1080,
-      "title" : "パーティーのはじまりだ！ -ANOTHER-",
-      "url" : "https://drive.google.com/open?id=0B7qCw4hNijr4MnZxR0JYNHFHV3M",
-      "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "86.36",
-      "voteYes" : 8
-   },
-   {
-      "artist" : "ikaruga_nex / obj:marquee",
-      "comment" : "2~3?",
-      "level" : "3",
-      "md5" : "f3b5d6531dbeeb57329dde6beb620d1c",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "b333befa1ab689a819edff91e05823735b39710a6d6dd308f92192943715dfb6",
-      "submission" : 1087,
-      "title" : "Lilith ambivalence lovers [ANOTHER+]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=278&event=116",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03180",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 11
-   },
-   {
-      "artist" : "ユメミド Movie:テンソル / Illust:遥壱朗 / Arrange:LeaF",
-      "comment" : "ラス前殺し、楽しい",
-      "level" : "12",
-      "md5" : "f649c932d7df6ba14f3c7c4ef69cce4e",
-      "proposer" : "qqnqqn",
-      "proposerMinirid" : "5d755a1c-ef4c-4a48-a334-0035bb2ab860",
-      "sha256" : "4eade2a735e22d199b3cc2b4ec64752d9c908dc2ac0a5811b0cdbf5dfec5885b",
-      "submission" : 1084,
-      "title" : "Lyrith -迷宮リリス- [INSANE]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=218&event=116",
-      "url_diff" : "",
-      "voteNeutral" : 2,
-      "voteNo" : 2,
-      "votePercent" : "75.00",
-      "voteYes" : 8
    }
 ]

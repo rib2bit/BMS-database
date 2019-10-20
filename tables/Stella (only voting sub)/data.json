@@ -12,25 +12,8 @@
       "url_diff" : "https://bms.parksulab.xyz",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "83.33",
       "voteYes" : 2
-   },
-   {
-      "artist" : "69 de 74 BGA : EViL/obj:赤い人",
-      "comment" : "物量",
-      "level" : "3",
-      "md5" : "149da54b5d789855bdfa3692c026b3e3",
-      "proposer" : "スノート",
-      "proposerLr2id" : 86393,
-      "sha256" : "b8fd579078cc8cf36f637115301c929eb54d2de5ce1401ea76f72372d18785f7",
-      "submission" : 1003,
-      "title" : "確固たる意志 [INFERNO]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=114",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/_kakko_2_INFERNO.bms",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 5
    },
    {
       "artist" : "sampling minor SUICA",
@@ -47,24 +30,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
-   },
-   {
-      "artist" : "Yosk!",
-      "comment" : "sl12~st1 ラス殺し",
-      "level" : "0",
-      "md5" : "3044d3e1a3c4ccfc7d4b39b5b15167e7",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "731d08f21ae6cae65294ce1bda787c292e5f3adfe72553723e7cafdfdf0b4846",
-      "submission" : 1000,
-      "title" : "パーリィのはじまりだ！",
-      "url" : "https://drive.google.com/open?id=0B7qCw4hNijr4MnZxR0JYNHFHV3M",
-      "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "75.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "tolz feat.音街ウナ obj.hex",
@@ -98,7 +64,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "itaojirou obj: かに",
@@ -115,58 +81,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
-   },
-   {
-      "artist" : "ノクティス・江口・チェラム / obj:NoName",
-      "comment" : "1",
-      "level" : "1",
-      "md5" : "91d49ac611a5fc4266e79153f710ca80",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "602c48ba8c0832b31a2f8e4a0fd539b484a4ec5a49cb8239ad6cf041c83b21bf",
-      "submission" : 1004,
-      "title" : "ヒメタイプ (おに)",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=96",
-      "url_diff" : "http://absolute.pv.land.to/bof/upload.html",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
       "voteYes" : 4
-   },
-   {
-      "artist" : "LV.4 / И",
-      "comment" : "4-5 Abyss-",
-      "level" : "4",
-      "md5" : "afcb40fc6aa2fdc4c4c89a64505a15a7",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "210e579b3f520e6790568d9a9d10836066afbb78e39c197e7092e1c4c15535a1",
-      "submission" : 1005,
-      "title" : "Angel dust [Excelsior]",
-      "url" : "https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
-      "url_diff" : "http://bms.parksulab.xyz",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "62.50",
-      "voteYes" : 2
-   },
-   {
-      "artist" : "sky_delta obj:BAECON",
-      "comment" : "同時押し　乱打",
-      "level" : "2",
-      "md5" : "b1c7b588775c0e5253e05c8486d10144",
-      "proposer" : "氷城つるぎ",
-      "proposerLr2id" : 151185,
-      "sha256" : "6a0572f24ace1197bf5d46a69706ffc4766f27921b474648a1571a8dfc094199",
-      "submission" : 1001,
-      "title" : "Kreuz [Rebirth]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=89&event=96",
-      "url_diff" : "http://akred.web.fc2.com/baecon/_kreuz_Rebirth.bms",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 3
    },
    {
       "artist" : "sasakure.UK m / Omino",
@@ -182,7 +97,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "さかみりと img:しぐれぷに子/obj:赤い人",
@@ -198,7 +113,7 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/G59_HARDEST.bms",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    }
 ]
