@@ -30,7 +30,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 9
    },
    {
       "artist" : "guna with チーム・キュッキュ / И",
@@ -46,8 +46,8 @@
       "url_diff" : "http://bms.parksulab.xyz",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "93.75",
-      "voteYes" : 7
+      "votePercent" : "94.44",
+      "voteYes" : 8
    },
    {
       "artist" : "sasakure.UK",
@@ -63,7 +63,7 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "88.89",
+      "votePercent" : "85.00",
       "voteYes" : 7
    },
    {
@@ -101,6 +101,40 @@
       "voteYes" : 5
    },
    {
+      "artist" : "parakeet 41 obj:goe BGA:G",
+      "comment" : "st5 弱化版",
+      "level" : "12",
+      "md5" : "7e57e535cf8297e3b247619c15b4b77b",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "74f78a671993912b7056c480772d7e84f2544aee0e36634eab6f770588d53a01",
+      "submission" : 1108,
+      "title" : "wilis [G2]",
+      "url" : "http://www.is-m.jp/",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00970",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "75.00",
+      "voteYes" : 1
+   },
+   {
+      "artist" : "anubasu-anubasu / obj:sagoo BGA by 出前",
+      "comment" : "trick or treat!",
+      "level" : "1",
+      "md5" : "83c9297665649c503a8a71bb391ba7a6",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "8e433aeeb198db8103b4a8dc806bcea723af45f3ed5ced6675167904fe9631f2",
+      "submission" : 1107,
+      "title" : "Jack o' Lantern [sagANOTHER]",
+      "url" : "https://www.dropbox.com/s/ryhyrwnksin5o0d/JoLa_anu.zip?dl=0",
+      "url_diff" : "https://onedrive.live.com/?authkey=%21ADuXxYDZsf%5FL%2DI8&id=A972E7D14DCFAF93%21112&cid=A972E7D14DCFAF93",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "HOUJIROU/obj_jakko",
       "comment" : "GENOCIDE★13易化",
       "level" : "4",
@@ -112,9 +146,9 @@
       "title" : "Soul of Deep-sea Fish [queER7]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=152&event=83",
       "url_diff" : "https://www.dropbox.com/s/ke21m7m10aanuxj/Soul_of_Deep-sea_Fish_sabun.lzh?dl=0",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "87.50",
+      "voteNeutral" : 2,
+      "voteNo" : 2,
+      "votePercent" : "80.77",
       "voteYes" : 10
    },
    {
@@ -134,6 +168,23 @@
       "voteYes" : 2
    },
    {
+      "artist" : "Soba Yamamori",
+      "comment" : "乱打 ",
+      "level" : "1",
+      "md5" : "c2097acb3be7e946ee849e431d6e4380",
+      "proposer" : "Fendou",
+      "proposerLr2id" : 128388,
+      "sha256" : "64a89c3e260b9738f8c36c0156e3826f6429e7d4d8fc14ab26c3588a2403a2ea",
+      "submission" : 1109,
+      "title" : "SYNTHETICS",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=285&event=123",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
       "artist" : "すぎ",
       "comment" : "同曲を提案したのですが差分を間違えてしまいました、本当に申し訳ございません",
       "level" : "0",
@@ -147,8 +198,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02744",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "70.00",
-      "voteYes" : 2
+      "votePercent" : "75.00",
+      "voteYes" : 3
    },
    {
       "artist" : "-45 / selene.",
@@ -164,8 +215,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02085",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "85.00",
-      "voteYes" : 8
+      "votePercent" : "86.36",
+      "voteYes" : 9
    },
    {
       "artist" : "hugepulse BGA:Micelle",
@@ -179,9 +230,9 @@
       "title" : "Hazuki [INSANE]",
       "url" : "https://venue.bmssearch.net/bmsshuin2/14",
       "url_diff" : "",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "72.22",
+      "voteNeutral" : 2,
+      "voteNo" : 2,
+      "votePercent" : "65.00",
       "voteYes" : 5
    }
 ]
