@@ -4168,6 +4168,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Grand Thaw",
+      "comment" : "sl0級地力セット",
+      "level" : "0",
+      "md5" : "4347dd893c8a19995e7ad08f1f641112",
+      "proposer" : "DK",
+      "proposerLr2id" : 46697,
+      "sha256" : "f7cfed729718d27c2f540f90932c159063903524cc780a2cccfb9e3c46cb528b",
+      "submission" : 1110,
+      "title" : "Aeventyr [ANOTHER]",
+      "url" : "http://www5f.biglobe.ne.jp/~careless/",
+      "url_diff" : ""
+   },
+   {
       "artist" : "NeLiME / TofaKim / 制限",
       "level" : "2",
       "md5" : "4359c3462350276d78e196a2935c65aa",

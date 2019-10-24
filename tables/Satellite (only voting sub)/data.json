@@ -50,6 +50,23 @@
       "voteYes" : 8
    },
    {
+      "artist" : "Grand Thaw",
+      "comment" : "sl0級地力セット",
+      "level" : "0",
+      "md5" : "4347dd893c8a19995e7ad08f1f641112",
+      "proposer" : "DK",
+      "proposerLr2id" : 46697,
+      "sha256" : "f7cfed729718d27c2f540f90932c159063903524cc780a2cccfb9e3c46cb528b",
+      "submission" : 1110,
+      "title" : "Aeventyr [ANOTHER]",
+      "url" : "http://www5f.biglobe.ne.jp/~careless/",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "sasakure.UK",
       "comment" : "低速ズレ乱打 / 後殺",
       "level" : "1",
@@ -164,8 +181,8 @@
       "url_diff" : "http://www.dropbox.com/s/zxi5fez793l91rz/kaijin%5B6-nemesis%5D.bme?dl=0",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 4
+      "votePercent" : "91.67",
+      "voteYes" : 5
    },
    {
       "artist" : "Soba Yamamori",
