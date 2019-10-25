@@ -2755,6 +2755,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Se-U-Ra Movie:わっふゑ",
+      "comment" : "第二回BMS衆議院選、階段、同時押し、連打、皿",
+      "level" : "5",
+      "md5" : "2bd4d3b52a6d56e42cd829b435e89c97",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "f587e948af412333d78d60f4c42a4799c605cf21477ee0d99d29c5dddedd12ae",
+      "submission" : 1112,
+      "title" : "Traveler ~stand aloof~ [Futabather]",
+      "url" : "https://venue.bmssearch.net/bmsshuin2/29",
+      "url_diff" : "https://www.dropbox.com/s/kjh4sxdwdvpdt6v/_Traveler_Futaba.bms?dl=0"
+   },
+   {
       "artist" : "5argon obj:SUZUKAZEΛ",
       "comment" : "横に広い乱打",
       "level" : "4",
@@ -7786,6 +7799,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "music:litmus* / bms:SeRu movie:litmus*",
+      "comment" : "G2R2018、連打、ガチ押し、発狂",
+      "level" : "3",
+      "md5" : "7a1d2ff8aef3fe5dfb4118abcd5b398e",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "5ca522060b252ad893a4adfeede80d00f70e7f75ad9b2e237c34e0d58d9850f8",
+      "submission" : 1111,
+      "title" : "B612 [Futabather]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02656"
    },
    {
       "artist" : "Sakamiya feat.小宮真央 mov:わっふゑ img:hrchem obj: qtp13",
