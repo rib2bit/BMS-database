@@ -6363,7 +6363,7 @@
       "title" : "CO5M1C R4ILR0AD [DP EXTRA]"
    },
    {
-      "artist" : "Sakuzyo/Mentalstock obj.Z_N",
+      "artist" : "Sakuzyo/Mentalstock obj.Z_N  *SUD+",
       "comment" : "Overture / IDM",
       "level" : "10",
       "md5" : "257a5223f2c8cde547cfdc06610bcc90",
@@ -6778,7 +6778,7 @@
    {
       "artist" : "Is-m BGA:AOiRO_Manbow  *FLIP",
       "comment" : "HARD CORE",
-      "level" : "3",
+      "level" : "5",
       "md5" : "2844ef63f36c4d9026de0f3514508c94",
       "title" : "Shock Waltz -DP ANOTHER-"
    },
@@ -8358,7 +8358,7 @@
       "title" : "SUSPENSION -DP HYPER-"
    },
    {
-      "artist" : "Humanoid Remixed by Hate obj:KONAMIのだれか *R.MIRROR or L.MIRROR",
+      "artist" : "Humanoid Remixed by Hate obj:KONAMIのだれか *R.MIRROR",
       "comment" : "8bit mix",
       "level" : "★8",
       "md5" : "3178f56bda4357d141bbe469d39debbb",
@@ -15337,9 +15337,9 @@
       "title" : "Smart Pretty [DPA]"
    },
    {
-      "artist" : "Luxion / Obj:ゆ～兎",
+      "artist" : "Luxion / Obj:ゆ～兎 *SUD+",
       "comment" : "OVERKILL",
-      "level" : "★4",
+      "level" : "★3",
       "md5" : "5c1af26aeca11c281badbc81662597cd",
       "title" : "High-Priestess [GENOCIDE]"
    },
@@ -16667,7 +16667,7 @@
       "title" : "Chase -DP ANOTHER-"
    },
    {
-      "artist" : "beatMARIO OBJ:KLOC",
+      "artist" : "beatMARIO OBJ:KLOC  *R.MIRROR",
       "comment" : "TECHNO",
       "level" : "★3",
       "md5" : "63e5fd68ee67017bcd2f05ba7385000a",
@@ -26434,7 +26434,7 @@
    {
       "artist" : "Lime / Roaring Flame *FLIP R.MIRROR",
       "comment" : "Hardcore",
-      "level" : "★3",
+      "level" : "★2",
       "md5" : "9b2eadc2498c3fb03f82cdfbb298ad5c",
       "title" : "Daydreamer"
    },
@@ -30760,7 +30760,7 @@
    {
       "artist" : "しらいし obj: misty.ls04  *R.MIRROR",
       "comment" : "CLASSICAL TRANCE",
-      "level" : "4",
+      "level" : "2",
       "md5" : "b3dc3b93f513032b51268f235e8901be",
       "title" : "Bahamut  [DP ANOTHER]"
    },
@@ -30905,7 +30905,7 @@
       "title" : "歪んだ樹 -ANOTHER14-"
    },
    {
-      "artist" : "cybermiso(mov.HYOUTAN)",
+      "artist" : "cybermiso(mov.HYOUTAN) *SUD+ FLIP",
       "comment" : "DRUMSTEP",
       "level" : "8",
       "md5" : "b480505c0ddfebd5347cc54a5b99ec03",
@@ -33313,7 +33313,7 @@
       "title" : "夜の市場の前夜祭のための祝典行進曲 -EX-"
    },
    {
-      "artist" : "Kinato/+- *R.MIRROR",
+      "artist" : "Kinato/+- *FLIP",
       "comment" : "Techno Trance",
       "level" : "★5",
       "md5" : "c1b018ec89a4f7208a25f05a7eee318e",
@@ -33437,6 +33437,13 @@
       "level" : "6",
       "md5" : "c2669b49bac73705837392622297252e",
       "title" : "小さなてのひら (Join Handz Remix) [DP ANOTHER]"
+   },
+   {
+      "artist" : "Shinji Hirako *FLIP",
+      "comment" : "Death Waltz",
+      "level" : "3",
+      "md5" : "c26be3a350ae80e0cf5aa8d3bf38cd12",
+      "title" : "Death Waltz [DP ANOTHER]"
    },
    {
       "artist" : "LeaF Movie:想起 / Illust:セシル◇タイト",
@@ -34909,6 +34916,13 @@
       "title" : "彼女の言い分 -ﾋﾟｺﾋﾟｺedit- [EX14]"
    },
    {
+      "artist" : "fripside with ブロリー",
+      "comment" : "とある野菜の超デデーン磁砲",
+      "level" : "9",
+      "md5" : "cb58e8c6910eea5005f3098448acdc3d",
+      "title" : "ブロリーでonly my railgun"
+   },
+   {
       "artist" : "snowdrop // obj:(ﾟﾚﾟ) *正規 or R.MIR or FLIP R.MIR",
       "comment" : "progressive jazz",
       "level" : "★2",
@@ -35644,6 +35658,13 @@
       "title" : "C.E. Days -14EX-"
    },
    {
+      "artist" : "G.G *FLIP or LR.MIRROR",
+      "comment" : "TRANCE",
+      "level" : "6",
+      "md5" : "d0bcff529fe17cf19f5564f5547ce559",
+      "title" : "zodiac (OTHER14)"
+   },
+   {
       "artist" : "yuya/nmk/ojaga *R.MIRROR",
       "comment" : "NOSTALGIC TRANCE",
       "level" : "1",
@@ -36307,6 +36328,13 @@
       "level" : "9",
       "md5" : "d50bb486d3de7d166ed0ebb1be2a38af",
       "title" : "World Against 2 [DP sub black another]"
+   },
+   {
+      "artist" : "fripside with ブロリー *SP譜面",
+      "comment" : "とある野菜の超デデーン磁砲",
+      "level" : "?",
+      "md5" : "d53b4d52025d8dfcf3139e7180ceb7cb",
+      "title" : "ブロリーでonly my railgun"
    },
    {
       "artist" : "Y.W",
@@ -39718,7 +39746,7 @@
       "title" : "ドキドキ☆夏休み直前スペシャル (ANOTHER14)"
    },
    {
-      "artist" : "Est  obj ; N *FLIP",
+      "artist" : "Est  obj ; N *L.MIRROR",
       "comment" : "HAPPY",
       "level" : "9",
       "md5" : "eac76f8e3cae2ca94b2c018b8932a184",
@@ -41022,7 +41050,7 @@
    {
       "artist" : "Est *FLIP",
       "comment" : "ELECTROSHOCK",
-      "level" : "4",
+      "level" : "6",
       "md5" : "f1ad7163cabcf5d45602d932f1e21547",
       "title" : "Uranus (14A)"
    },
