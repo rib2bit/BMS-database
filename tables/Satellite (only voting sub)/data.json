@@ -30,8 +30,8 @@
       "url_diff" : "https://www.dropbox.com/s/kjh4sxdwdvpdt6v/_Traveler_Futaba.bms?dl=0",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 3
+      "votePercent" : "90.00",
+      "voteYes" : 4
    },
    {
       "artist" : "tcheb / mov : inukoro obj: JoeT + Offliner",
@@ -67,6 +67,22 @@
       "voteYes" : 9
    },
    {
+      "artist" : "Music:しらいし obj:Fender",
+      "level" : "6",
+      "md5" : "3b2d67a4f985b08e2722d867af055d9a",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "513ac318308f5d4778d6aa90ad5d49a0bed3e56825a5dc314c08cb8a58cf4483",
+      "submission" : 1113,
+      "title" : "Moon-gate [F]",
+      "url" : "http://www1.axfc.net/uploader/Li/so/128884",
+      "url_diff" : "https://obju.web.fc2.com/BOB2015/BOB2015_k_2_1_1.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "Grand Thaw",
       "comment" : "sl0級地力セット",
       "level" : "0",
@@ -81,7 +97,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "sasakure.UK",
@@ -146,10 +162,10 @@
       "title" : "B612 [Futabather]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02656",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 4
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "78.57",
+      "voteYes" : 5
    },
    {
       "artist" : "parakeet 41 obj:goe BGA:G",
@@ -165,8 +181,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00970",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "80.00",
-      "voteYes" : 3
+      "votePercent" : "83.33",
+      "voteYes" : 4
    },
    {
       "artist" : "anubasu-anubasu / obj:sagoo BGA by 出前",
@@ -183,7 +199,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "HOUJIROU/obj_jakko",
@@ -285,5 +301,21 @@
       "voteNo" : 2,
       "votePercent" : "69.23",
       "voteYes" : 7
+   },
+   {
+      "artist" : "litmus* / movie : Kazari obj:SUZUKAZEΛ",
+      "level" : "2",
+      "md5" : "e22484ff579204847425de6a0cb93158",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "2585d7dba06e33be32fef281c9bfa5f5bd7f23cf53959df07571014f8793d320",
+      "submission" : 1114,
+      "title" : "Good Life [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=44&event=123",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    }
 ]

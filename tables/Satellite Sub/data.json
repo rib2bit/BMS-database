@@ -3711,6 +3711,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Music:しらいし obj:Fender",
+      "level" : "6",
+      "md5" : "3b2d67a4f985b08e2722d867af055d9a",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "513ac318308f5d4778d6aa90ad5d49a0bed3e56825a5dc314c08cb8a58cf4483",
+      "submission" : 1113,
+      "title" : "Moon-gate [F]",
+      "url" : "http://www1.axfc.net/uploader/Li/so/128884",
+      "url_diff" : "https://obju.web.fc2.com/BOB2015/BOB2015_k_2_1_1.html"
+   },
+   {
       "artist" : "田井中 律 / obj: かに",
       "comment" : "sl10~11 軸+皿+物量",
       "level" : "10",
@@ -15041,6 +15053,18 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "litmus* / movie : Kazari obj:SUZUKAZEΛ",
+      "level" : "2",
+      "md5" : "e22484ff579204847425de6a0cb93158",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "2585d7dba06e33be32fef281c9bfa5f5bd7f23cf53959df07571014f8793d320",
+      "submission" : 1114,
+      "title" : "Good Life [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=44&event=123",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html"
    },
    {
       "artist" : "-RYO- / obj:秘密",
