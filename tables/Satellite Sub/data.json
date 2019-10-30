@@ -6413,6 +6413,19 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/MARENOL_HARDEST.bms"
    },
    {
+      "artist" : "ろうて",
+      "comment" : "sl0~1?",
+      "level" : "0",
+      "md5" : "62d20a2ca21dd96d4f5a6d04a05e57d0",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "4f4d6d27d0a4eeedc977279d457201cc090257dee4fd17c8990e6694ed1ed3fd",
+      "submission" : 1115,
+      "title" : "アリスの空虚で愉快な人形劇",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=102",
+      "url_diff" : ""
+   },
+   {
       "artist" : "D.J.Nero /差分 赤い人",
       "level" : "11",
       "md5" : "6311e80a771414e32b272cb13fb264a5",
@@ -16180,6 +16193,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "rate-dat + Cranky + hi-low + BKANOTHER",
+      "comment" : "乱打、皿複合",
+      "level" : "2",
+      "md5" : "f30a4ba83fc1f5aa63d985b21d1b812e",
+      "proposer" : "nono22",
+      "proposerLr2id" : 122934,
+      "sha256" : "871b5015e8b4540a2b5257618d07495c6fa1d9e7f3a93c185db360cb36931bbb",
+      "submission" : 1116,
+      "title" : "Rate Cranky Hi-roller BreaKdown",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=232&event=123",
+      "url_diff" : "http://beatkim.web.fc2.com/insane.html"
    },
    {
       "artist" : "Sakamiya feat.一花 mov:くわぎう img:じゃっこ / obj:SUZUKAZEΛ",

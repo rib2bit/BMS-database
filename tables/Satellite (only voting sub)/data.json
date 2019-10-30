@@ -30,8 +30,8 @@
       "url_diff" : "https://www.dropbox.com/s/kjh4sxdwdvpdt6v/_Traveler_Futaba.bms?dl=0",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 4
+      "votePercent" : "91.67",
+      "voteYes" : 5
    },
    {
       "artist" : "tcheb / mov : inukoro obj: JoeT + Offliner",
@@ -79,7 +79,7 @@
       "url_diff" : "https://obju.web.fc2.com/BOB2015/BOB2015_k_2_1_1.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "83.33",
       "voteYes" : 2
    },
    {
@@ -132,6 +132,23 @@
       "voteNo" : 0,
       "votePercent" : "96.67",
       "voteYes" : 14
+   },
+   {
+      "artist" : "ろうて",
+      "comment" : "sl0~1?",
+      "level" : "0",
+      "md5" : "62d20a2ca21dd96d4f5a6d04a05e57d0",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "4f4d6d27d0a4eeedc977279d457201cc090257dee4fd17c8990e6694ed1ed3fd",
+      "submission" : 1115,
+      "title" : "アリスの空虚で愉快な人形劇",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=102",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "plastic feat.サキト / obj:sarada",
@@ -316,6 +333,23 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
+   },
+   {
+      "artist" : "rate-dat + Cranky + hi-low + BKANOTHER",
+      "comment" : "乱打、皿複合",
+      "level" : "2",
+      "md5" : "f30a4ba83fc1f5aa63d985b21d1b812e",
+      "proposer" : "nono22",
+      "proposerLr2id" : 122934,
+      "sha256" : "871b5015e8b4540a2b5257618d07495c6fa1d9e7f3a93c185db360cb36931bbb",
+      "submission" : 1116,
+      "title" : "Rate Cranky Hi-roller BreaKdown",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=232&event=123",
+      "url_diff" : "http://beatkim.web.fc2.com/insane.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    }
 ]
