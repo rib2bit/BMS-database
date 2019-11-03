@@ -27,60 +27,9 @@
       "title" : "おにコア [如月]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=142&event=60",
       "url_diff" : "http://www.geocities.jp/dsks5456/bms.html",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 4
-   },
-   {
-      "artist" : "tolz feat.音街ウナ obj.hex",
-      "comment" : "微縦連 横に広い物量",
-      "level" : "3",
-      "md5" : "6757cc8bae9a71a690d42a12a427265f",
-      "proposer" : "氷城つるぎ",
-      "proposerLr2id" : 151185,
-      "sha256" : "65476c86c6ada7c335135e971cad4025870cc36ef6554eb1f1dcba4b3a6dc080",
-      "submission" : 1007,
-      "title" : "Telescope [Hexagon]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=126",
-      "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 5
-   },
-   {
-      "artist" : "ユメミド Movie:テンソル / Illust:遥壱朗 / Arrange:LeaF",
-      "comment" : "4~5? 連打",
-      "level" : "4",
-      "md5" : "83a33546ce5076d34a76345fc6091fd3",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "2c3960b54ceb4b97a5706ada57944d5a010aaaeaf930bbf09503aecd8ad85c6e",
-      "submission" : 1009,
-      "title" : "Lyrith -迷宮リリス- [Ruin]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=218&event=116",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01214",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 5
-   },
-   {
-      "artist" : "itaojirou obj: かに",
-      "comment" : "2",
-      "level" : "2",
-      "md5" : "8f3cd17ee74b3367ca21b8dfb86624ad",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "587843829cd757ddb68985af77317cafe6cc6e974009b7062192328c74cf7610",
-      "submission" : 1006,
-      "title" : "Way of Life! -life-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=392&event=116",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02683",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "75.00",
       "voteYes" : 4
    },
    {
@@ -97,8 +46,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01925",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "おみー obj: qtp13",
@@ -112,9 +61,9 @@
       "title" : "Shooting Silver Bullet [Re: Impossible Spell Card]",
       "url" : "http://yaruki0.sakura.ne.jp/bms/BMSchan/index.cgi?keyword=Shooting+Silver+Bullet",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01346",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "50.00",
+      "voteNeutral" : 2,
+      "voteNo" : 2,
+      "votePercent" : "37.50",
       "voteYes" : 1
    },
    {
@@ -131,7 +80,7 @@
       "url_diff" : "https://www.axfc.net/u/1475917&key=UUB",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
+      "votePercent" : "75.00",
       "voteYes" : 1
    },
    {
@@ -149,7 +98,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "-45 / obj:夢瑠",
@@ -166,23 +115,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
-   },
-   {
-      "artist" : "sasakure.UK m / Omino",
-      "level" : "2",
-      "md5" : "e05efbeee3fbf91c19be4aa1d4eec3f2",
-      "proposer" : "LUXURY♪",
-      "proposerLr2id" : 23110,
-      "sha256" : "f06b2474746b3266252b4ba0404cd083c8e236e30685e3acf096e3c367ba3f3a",
-      "submission" : 1008,
-      "title" : "Sygnal [Other]",
-      "url" : "http://web.archive.org/web/20070817082130/http://sasakure.bms.ms/bms/sygnal.zip",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03390",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 4
    },
    {
       "artist" : "さかみりと img:しぐれぷに子/obj:赤い人",

@@ -1953,7 +1953,7 @@
       "title" : "brandish Wagyan [(^_^)14]"
    },
    {
-      "artist" : "弁士カンタビレオ *FLIP LR.MIRROR",
+      "artist" : "弁士カンタビレオ *AVE-30? FLIP LR.MIR",
       "comment" : "サイレント",
       "level" : "★7",
       "md5" : "0b0391376cfea843fbea9ca3b21bf8f7",
@@ -2282,7 +2282,7 @@
       "title" : "AutumnBreeze [DP えぬTHER+]"
    },
    {
-      "artist" : "Syatten / Hador *R.MIRROR",
+      "artist" : "Syatten / Hador *FLIP LR.MIRROR",
       "comment" : "Trance",
       "level" : "★1",
       "md5" : "0c9e0b649ffa4a5504f33e9065ff3c90",
@@ -8360,7 +8360,7 @@
    {
       "artist" : "Humanoid Remixed by Hate obj:KONAMIのだれか *R.MIRROR",
       "comment" : "8bit mix",
-      "level" : "★8",
+      "level" : "★7",
       "md5" : "3178f56bda4357d141bbe469d39debbb",
       "title" : "MENDES 本家Black Another"
    },
@@ -16072,6 +16072,13 @@
       "title" : "Remilialized... [うー☆]"
    },
    {
+      "artist" : "Sound Souler mov : Tagtraume / obj : tonbi",
+      "comment" : "Artcore",
+      "level" : "★5",
+      "md5" : "6065fac426e8113f7482a7fdf100f077",
+      "title" : "Reinvent [DPかっぱ]"
+   },
+   {
       "artist" : "BACO *L.MIRROR",
       "comment" : "SPEED TEK",
       "level" : "★4",
@@ -21576,7 +21583,7 @@
    {
       "artist" : "wa. remixed celas /obj;Frenzy BGA:TOHRU MiTSUHASHi",
       "comment" : "hard nrg",
-      "level" : "6",
+      "level" : "10",
       "md5" : "8002c4ba4c89eefde2e82261527c894c",
       "title" : "銀の風 [DP HYPER]"
    },
@@ -26775,7 +26782,7 @@
       "title" : "Hell Fire -さとり様（。∀゜）ぁ-"
    },
    {
-      "artist" : "xi (obj:k) *R.MIR or L.MIR",
+      "artist" : "xi (obj:k) *FLIP R.MIR or R.MIR",
       "comment" : "HAPPY HARDCORE",
       "level" : "10",
       "md5" : "9cccf22b9610bf67b2d9ad3955e89c2e",
@@ -30273,6 +30280,13 @@
       "level" : "6",
       "md5" : "b0ab4e8ea9eb8cb80e28f8cff18baa5c",
       "title" : ".workstation [14MAD]"
+   },
+   {
+      "artist" : "BACO vs G.S. Patch crew *SUD+ MAX+20",
+      "comment" : "MC BATTLE",
+      "level" : "9",
+      "md5" : "b0b1378e4d84065dba4e29c7aab19094",
+      "title" : "BATTLE against 4 MICROPHONEs [14KEYS Hybrid]"
    },
    {
       "artist" : "ZUN(Arr.sun3) (obj:k) *正規 or FLIP L.RAN R.MIR",

@@ -1,22 +1,5 @@
 [
    {
-      "artist" : "AKITO obj:七海千秋",
-      "comment" : "AKITO様の名曲発狂 ",
-      "level" : "1",
-      "md5" : "1c03f0400071e25f1e604bd8f00e4379",
-      "proposer" : "Restia",
-      "proposerLr2id" : 115265,
-      "sha256" : "9960a607e73c9d49fade4d3181c22eb79ffb1a6995e0699cb1ac6e447fd7f112",
-      "submission" : 1095,
-      "title" : "七つの鍵盤のためのソナタ -Last Song-",
-      "url" : "http://www.mediafire.com/download/zkt7kg9z400w4sb/7keys_sonata_mq.zip",
-      "url_diff" : "https://www.dropbox.com/s/3d08dbtce08gvih/tamesona_nanami01.bme?dl=0",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "86.67",
-      "voteYes" : 12
-   },
-   {
       "artist" : "Se-U-Ra Movie:わっふゑ",
       "comment" : "第二回BMS衆議院選、階段、同時押し、連打、皿",
       "level" : "5",
@@ -30,41 +13,8 @@
       "url_diff" : "https://www.dropbox.com/s/kjh4sxdwdvpdt6v/_Traveler_Futaba.bms?dl=0",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "92.86",
-      "voteYes" : 6
-   },
-   {
-      "artist" : "tcheb / mov : inukoro obj: JoeT + Offliner",
-      "level" : "2",
-      "md5" : "3293b614002e85c8a230287b1876b67b",
-      "proposer" : "椒図",
-      "proposerLr2id" : 124809,
-      "sha256" : "df6ab8c33536af9fb0ebaf4b43d66f8ae24ec7dc8de5d850825df1ecfdda0d7f",
-      "submission" : 1102,
-      "title" : "Feast of Lights [SP Natsumatsuri]",
-      "url" : "http://k-bms.com/party_pabat/party2015.jsp?board_num=15&num=35&order=reg&odtype=a",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03309",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "96.15",
-      "voteYes" : 12
-   },
-   {
-      "artist" : "guna with チーム・キュッキュ / И",
-      "comment" : "★19より易いガチ押し",
-      "level" : "12",
-      "md5" : "35682ac66614d84018472b04957f387c",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "163d343724ce7b19f7645baea627c516111bb37ac1aa6fb3ae8049dcf19affb5",
-      "submission" : 1098,
-      "title" : "subconsciousness [Traumdeutung]",
-      "url" : "http://aquaseeds.net/",
-      "url_diff" : "http://bms.parksulab.xyz",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "95.00",
-      "voteYes" : 9
+      "votePercent" : "93.75",
+      "voteYes" : 7
    },
    {
       "artist" : "Music:しらいし obj:Fender",
@@ -79,59 +29,8 @@
       "url_diff" : "https://obju.web.fc2.com/BOB2015/BOB2015_k_2_1_1.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "80.00",
+      "votePercent" : "75.00",
       "voteYes" : 3
-   },
-   {
-      "artist" : "Grand Thaw",
-      "comment" : "sl0級地力セット",
-      "level" : "0",
-      "md5" : "4347dd893c8a19995e7ad08f1f641112",
-      "proposer" : "DK",
-      "proposerLr2id" : 46697,
-      "sha256" : "f7cfed729718d27c2f540f90932c159063903524cc780a2cccfb9e3c46cb528b",
-      "submission" : 1110,
-      "title" : "Aeventyr [ANOTHER]",
-      "url" : "http://www5f.biglobe.ne.jp/~careless/",
-      "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 12
-   },
-   {
-      "artist" : "sasakure.UK",
-      "comment" : "低速ズレ乱打 / 後殺",
-      "level" : "1",
-      "md5" : "4fac8bb513c9d4e979a1ce5ddd5993a3",
-      "proposer" : "DK",
-      "proposerLr2id" : 46697,
-      "sha256" : "4559d96b7447175cbe86bfd0ec799b5675ebccece1f64c9c737d9773b4898c32",
-      "submission" : 1101,
-      "title" : "Pangaea [IIDX]",
-      "url" : "http://web.archive.org/web/20070727154611/http://sasakure.bms.ms/framemusic.htm",
-      "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "84.38",
-      "voteYes" : 11
-   },
-   {
-      "artist" : "Sakamiya feat.一花 mov:くわぎう img:じゃっこ",
-      "comment" : "無名戦対抗戦、同時押し",
-      "level" : "0",
-      "md5" : "60af6410e572521626238b8833ebc459",
-      "proposer" : "ww",
-      "proposerLr2id" : 147642,
-      "sha256" : "78bb20784dfe8b63ed955e78fcb05effe82e347ab0cea0adb6ae981d22123c44",
-      "submission" : 1099,
-      "title" : "マツユキソウ [Another]",
-      "url" : "https://event.yaruki0.net/VSevent/impression/3",
-      "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "96.88",
-      "voteYes" : 15
    },
    {
       "artist" : "ろうて",
@@ -148,24 +47,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
-   },
-   {
-      "artist" : "plastic feat.サキト / obj:sarada",
-      "comment" : "ディレイ無し",
-      "level" : "12",
-      "md5" : "748b1b7d1244c6b977cdbf7fb3722703",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "e74c5d6e5520c623e73a9d9fa34012976d6503874073089315f878d26e8ed0cd",
-      "submission" : 1097,
-      "title" : "ひつぎとふたご [逝]",
-      "url" : "http://wayback.archive.org/web/20081003060805/http://placase.bms.ms:80/data/bms/pla_futago.rar",
-      "url_diff" : "http://srdbms.otodo.net/sabun/futago_srdX.zip",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "80.00",
-      "voteYes" : 7
+      "voteYes" : 9
    },
    {
       "artist" : "music:litmus* / bms:SeRu movie:litmus*",
@@ -181,8 +63,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02656",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "83.33",
-      "voteYes" : 7
+      "votePercent" : "85.00",
+      "voteYes" : 8
    },
    {
       "artist" : "parakeet 41 obj:goe BGA:G",
@@ -198,8 +80,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00970",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 4
+      "votePercent" : "85.71",
+      "voteYes" : 5
    },
    {
       "artist" : "anubasu-anubasu / obj:sagoo BGA by 出前",
@@ -216,40 +98,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
-   },
-   {
-      "artist" : "HOUJIROU/obj_jakko",
-      "comment" : "GENOCIDE★13易化",
-      "level" : "4",
-      "md5" : "8699cec85a8c7493757b21eb910c4358",
-      "proposer" : "Fendou",
-      "proposerLr2id" : 128388,
-      "sha256" : "05b8d15c7de8f342ebab19f5ca3f15eae196509f9d5155bdf82bfdf89f0af91a",
-      "submission" : 1093,
-      "title" : "Soul of Deep-sea Fish [queER7]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=152&event=83",
-      "url_diff" : "https://www.dropbox.com/s/ke21m7m10aanuxj/Soul_of_Deep-sea_Fish_sabun.lzh?dl=0",
-      "voteNeutral" : 2,
-      "voteNo" : 2,
-      "votePercent" : "84.38",
-      "voteYes" : 13
-   },
-   {
-      "artist" : "sasakure.UK / Obj.Triforce",
-      "level" : "11",
-      "md5" : "bef7992c836e2e29c36330601ce4569e",
-      "proposer" : "MIUNA",
-      "proposerLr2id" : 122137,
-      "sha256" : "924e4db27d2bdc6a1ccba9a0af5424458f2a076ebceeb8e480ecc42bed692732",
-      "submission" : 1106,
-      "title" : "海神寓拝 [Nemesis]",
-      "url" : "http://web.archive.org/web/20070727154611/http://sasakure.bms.ms/framemusic.htm",
-      "url_diff" : "http://www.dropbox.com/s/zxi5fez793l91rz/kaijin%5B6-nemesis%5D.bme?dl=0",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "95.00",
-      "voteYes" : 9
+      "voteYes" : 10
    },
    {
       "artist" : "Soba Yamamori",
@@ -263,15 +112,15 @@
       "title" : "SYNTHETICS",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=285&event=123",
       "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 9
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "90.91",
+      "voteYes" : 10
    },
    {
       "artist" : "すぎ",
       "comment" : "同曲を提案したのですが差分を間違えてしまいました、本当に申し訳ございません",
-      "level" : "0",
+      "level" : "1",
       "md5" : "c8a8027f25c1fafad0e48c62f83a1a5f",
       "proposer" : "けーちゃん",
       "proposerLr2id" : 137190,
@@ -284,23 +133,6 @@
       "voteNo" : 1,
       "votePercent" : "72.73",
       "voteYes" : 6
-   },
-   {
-      "artist" : "-45 / selene.",
-      "comment" : "悪夢(と致命的な鏡の下位交換",
-      "level" : "5",
-      "md5" : "c982becdce32626a23083d798b02ede1",
-      "proposer" : "Restia",
-      "proposerLr2id" : 115265,
-      "sha256" : "d32ceb16323a49fa4655552c42d485f5369063cd5ca1094ee7785dfac5211e4e",
-      "submission" : 1094,
-      "title" : "Total Eclipse of the Sun -Howling-",
-      "url" : "http://malie.noor.jp/archive/archive.html",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02085",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "88.46",
-      "voteYes" : 11
    },
    {
       "artist" : "hugepulse BGA:Micelle",
@@ -333,7 +165,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
    },
    {
       "artist" : "rate-dat + Cranky + hi-low + BKANOTHER",
@@ -349,7 +181,7 @@
       "url_diff" : "http://beatkim.web.fc2.com/insane.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 4
+      "votePercent" : "91.67",
+      "voteYes" : 5
    }
 ]
