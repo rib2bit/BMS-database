@@ -2177,6 +2177,18 @@
       "url_diff" : "http://sabosabun.tank.jp/"
    },
    {
+      "artist" : "sasakure.UK / Obj.Triforce",
+      "comment" : "Chart Change",
+      "level" : "11",
+      "md5" : "408bf9274bf02b3ae09e3c58a3bc0587",
+      "proposer" : "LUXURY♪",
+      "sha256" : "ff5074887f237525cd4c7444bde9244b15c243c3584bbfa3a178a2f0e2a15a49",
+      "submission" : 1117,
+      "title" : "海神寓拝 [Nemesis]",
+      "url" : "http://web.archive.org/web/20070727154611/http://sasakure.bms.ms/framemusic.htm",
+      "url_diff" : "https://trfce.github.io/sabun/kaijin_triforce_fixed.zip"
+   },
+   {
       "artist" : "黒皇帝 / obj.Ovnize Movie: 6XeNoN9",
       "comment" : "10～12?",
       "level" : "11",
@@ -4900,7 +4912,7 @@
       "sha256" : "05b8d15c7de8f342ebab19f5ca3f15eae196509f9d5155bdf82bfdf89f0af91a",
       "submission" : 1093,
       "title" : "Soul of Deep-sea Fish [queER7]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=152&event=83",
+      "url" : "https://www.dropbox.com/s/5pywdhpfcozj7xs/%5BMaple_brit%27S%5DSoul_of_Deep-sea_Fish-HOUJIROU.rar?dl=0",
       "url_diff" : "https://www.dropbox.com/s/ke21m7m10aanuxj/Soul_of_Deep-sea_Fish_sabun.lzh?dl=0"
    },
    {
@@ -7314,17 +7326,6 @@
       "title" : "Iolitia [7key/SABOTHER]",
       "url" : "http://sound.jp/brilliantharmony/",
       "url_diff" : "http://sabosabun.tank.jp/"
-   },
-   {
-      "artist" : "sasakure.UK / Obj.Triforce",
-      "level" : "11",
-      "md5" : "bef7992c836e2e29c36330601ce4569e",
-      "proposer" : "MIUNA",
-      "sha256" : "924e4db27d2bdc6a1ccba9a0af5424458f2a076ebceeb8e480ecc42bed692732",
-      "submission" : 1106,
-      "title" : "海神寓拝 [Nemesis]",
-      "url" : "http://web.archive.org/web/20070727154611/http://sasakure.bms.ms/framemusic.htm",
-      "url_diff" : "http://www.dropbox.com/s/zxi5fez793l91rz/kaijin%5B6-nemesis%5D.bme?dl=0"
    },
    {
       "artist" : "Lemi. obj:SANY",
