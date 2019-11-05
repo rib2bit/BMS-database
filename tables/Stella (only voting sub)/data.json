@@ -12,8 +12,8 @@
       "url_diff" : "https://bms.parksulab.xyz",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 2
+      "votePercent" : "87.50",
+      "voteYes" : 3
    },
    {
       "artist" : "sampling minor SUICA",
@@ -29,7 +29,7 @@
       "url_diff" : "http://www.geocities.jp/dsks5456/bms.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "75.00",
+      "votePercent" : "71.43",
       "voteYes" : 4
    },
    {
@@ -132,6 +132,6 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    }
 ]

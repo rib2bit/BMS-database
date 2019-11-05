@@ -17,6 +17,23 @@
       "voteYes" : 8
    },
    {
+      "artist" : "養土卵 光 / 浜 柔好 / selene.",
+      "comment" : "4~5?",
+      "level" : "4",
+      "md5" : "2f5a8bfaabfc5a28a83014393d56452a",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "f9ca9adb63bc811275250a40dee41d539601e217878f12f14424bda915752b01",
+      "submission" : 1118,
+      "title" : "electric butterfly [twilight]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=95&event=36",
+      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up2146.zip",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "Music:しらいし obj:Fender",
       "level" : "6",
       "md5" : "3b2d67a4f985b08e2722d867af055d9a",
@@ -133,6 +150,23 @@
       "voteNo" : 1,
       "votePercent" : "72.73",
       "voteYes" : 6
+   },
+   {
+      "artist" : "盟絵と詩乃 obj:SUZUKAZEΛ",
+      "comment" : "2~3?",
+      "level" : "3",
+      "md5" : "d4b34ee3508235f5107faf5afdaa8c6d",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "5b092dc34e80b6c821d242d62bf78e30985c903c78d54951fdb48de9e4a1b02f",
+      "submission" : 1119,
+      "title" : "眼鏡の騎士と人魚姫 [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=76",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "hugepulse BGA:Micelle",
