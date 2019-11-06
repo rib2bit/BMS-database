@@ -1956,6 +1956,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Limstella",
+      "comment" : "名曲良譜面",
+      "level" : "0",
+      "md5" : "1d9834fb66f9775aaecbffd36b4a171f",
+      "proposer" : "waterfall",
+      "proposerLr2id" : 155760,
+      "sha256" : "62289c1e44aa7a1748359d966ce58e1f906b521ce01fb54b48c834ba91deab1b",
+      "submission" : 1120,
+      "title" : "Journey into the Unicorn Forest [ANOTHER]",
+      "url" : "http://yaruki0.sakura.ne.jp/event/A1_6th/impression.cgi?no=23",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Yu^ta feat. みずにんじん",
       "level" : "12",
       "md5" : "1de52296e68de07a51a0fecd09684784",

@@ -1,5 +1,22 @@
 [
    {
+      "artist" : "Limstella",
+      "comment" : "名曲良譜面",
+      "level" : "0",
+      "md5" : "1d9834fb66f9775aaecbffd36b4a171f",
+      "proposer" : "waterfall",
+      "proposerLr2id" : 155760,
+      "sha256" : "62289c1e44aa7a1748359d966ce58e1f906b521ce01fb54b48c834ba91deab1b",
+      "submission" : 1120,
+      "title" : "Journey into the Unicorn Forest [ANOTHER]",
+      "url" : "http://yaruki0.sakura.ne.jp/event/A1_6th/impression.cgi?no=23",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
       "artist" : "Se-U-Ra Movie:わっふゑ",
       "comment" : "第二回BMS衆議院選、階段、同時押し、連打、皿",
       "level" : "5",
@@ -15,23 +32,6 @@
       "voteNo" : 0,
       "votePercent" : "94.44",
       "voteYes" : 8
-   },
-   {
-      "artist" : "養土卵 光 / 浜 柔好 / selene.",
-      "comment" : "4~5?",
-      "level" : "4",
-      "md5" : "2f5a8bfaabfc5a28a83014393d56452a",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "f9ca9adb63bc811275250a40dee41d539601e217878f12f14424bda915752b01",
-      "submission" : 1118,
-      "title" : "electric butterfly [twilight]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=95&event=36",
-      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up2146.zip",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
    },
    {
       "artist" : "Music:しらいし obj:Fender",
@@ -165,8 +165,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "hugepulse BGA:Micelle",
