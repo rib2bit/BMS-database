@@ -14,7 +14,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
    },
    {
       "artist" : "Se-U-Ra Movie:わっふゑ",
@@ -44,9 +44,9 @@
       "title" : "Moon-gate [F]",
       "url" : "http://www1.axfc.net/uploader/Li/so/128884",
       "url_diff" : "https://obju.web.fc2.com/BOB2015/BOB2015_k_2_1_1.html",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "78.57",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "68.75",
       "voteYes" : 4
    },
    {
@@ -64,7 +64,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 10
+      "voteYes" : 11
    },
    {
       "artist" : "music:litmus* / bms:SeRu movie:litmus*",
@@ -118,6 +118,23 @@
       "voteYes" : 11
    },
    {
+      "artist" : "Frums obj.fhyu",
+      "comment" : "ズレ、ソフランなし、ハード難しい",
+      "level" : "11",
+      "md5" : "b013210619862aa6bb54d2d5eef97035",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "e9ededc6bcf58add962c4f90f98ba9ebe4ce080b3ee28efe84f823b1895499c0",
+      "submission" : 1121,
+      "title" : "Pictured as Perfect [Unconfirmed]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=336&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=2938",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "Soba Yamamori",
       "comment" : "乱打 ",
       "level" : "1",
@@ -166,7 +183,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "hugepulse BGA:Micelle",
@@ -199,7 +216,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
+      "voteYes" : 10
    },
    {
       "artist" : "rate-dat + Cranky + hi-low + BKANOTHER",
@@ -215,7 +232,7 @@
       "url_diff" : "http://beatkim.web.fc2.com/insane.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "92.86",
-      "voteYes" : 6
+      "votePercent" : "94.44",
+      "voteYes" : 8
    }
 ]

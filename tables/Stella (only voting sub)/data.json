@@ -27,9 +27,9 @@
       "title" : "おにコア [如月]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=142&event=60",
       "url_diff" : "http://www.geocities.jp/dsks5456/bms.html",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "71.43",
+      "voteNeutral" : 2,
+      "voteNo" : 2,
+      "votePercent" : "62.50",
       "voteYes" : 4
    },
    {
@@ -64,6 +64,23 @@
       "voteNeutral" : 2,
       "voteNo" : 2,
       "votePercent" : "37.50",
+      "voteYes" : 1
+   },
+   {
+      "artist" : "void / Gt. HAKKYOU-KUN nokir / И",
+      "comment" : "3?",
+      "level" : "3",
+      "md5" : "a6ef12d214730216d1428d2e61994daf",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "fef828fb0dcfa73f7d1f948ed17c3bc9fcec3ac2358494d5eb95ef637312722a",
+      "submission" : 1018,
+      "title" : "Never Escape [Never Give Up]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=274&event=123",
+      "url_diff" : "https://bms.parksulab.xyz",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
       "voteYes" : 1
    },
    {
@@ -116,6 +133,23 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 4
+   },
+   {
+      "artist" : "黒皇帝 Movie: 6XeNoN9",
+      "comment" : "0~1?",
+      "level" : "0",
+      "md5" : "dc4bdb6b64a7147541f195079cc33cd5",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "9e900fb4a9a0da1c20304848371d06a44d0ccb9172d521f766959a46649e1497",
+      "submission" : 1019,
+      "title" : "Chronostasis [Futabather]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=252&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=364",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "さかみりと img:しぐれぷに子/obj:赤い人",
