@@ -14,7 +14,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "Se-U-Ra Movie:わっふゑ",
@@ -34,6 +34,22 @@
       "voteYes" : 8
    },
    {
+      "artist" : "P4koo/Thekara/obj:赤い人",
+      "level" : "8",
+      "md5" : "2fc9de092a418ba64d1747ba268494d8",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "a375111419d05cb4ba4192058c8a85f061e0e980b227591787c9728c6d9a8294",
+      "submission" : 1123,
+      "title" : "magia [HARDEST]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=296&event=110",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/MG_HARDEST.bme",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
       "artist" : "Music:しらいし obj:Fender",
       "level" : "6",
       "md5" : "3b2d67a4f985b08e2722d867af055d9a",
@@ -46,8 +62,8 @@
       "url_diff" : "https://obju.web.fc2.com/BOB2015/BOB2015_k_2_1_1.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "68.75",
-      "voteYes" : 4
+      "votePercent" : "72.22",
+      "voteYes" : 5
    },
    {
       "artist" : "ろうて",
@@ -115,7 +131,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 11
+      "voteYes" : 12
    },
    {
       "artist" : "Frums obj.fhyu",
@@ -133,6 +149,22 @@
       "voteNo" : 0,
       "votePercent" : 100,
       "voteYes" : 1
+   },
+   {
+      "artist" : "uma feat. ましろ obj:SUZUKAZEΛ",
+      "level" : "2",
+      "md5" : "bb51e06228e7279b47120b9a5c527421",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "1f288fcbed1b275be16e5e27f81ad6d4fa67fae68078d6cbfd43c37956648612",
+      "submission" : 1122,
+      "title" : "Love☆Spellcard [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=118",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "Soba Yamamori",
@@ -182,8 +214,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 3
+      "votePercent" : "90.00",
+      "voteYes" : 4
    },
    {
       "artist" : "hugepulse BGA:Micelle",
@@ -203,6 +235,23 @@
       "voteYes" : 7
    },
    {
+      "artist" : "Steяrite",
+      "comment" : "第二回BMS衆議院選、同時押し",
+      "level" : "2",
+      "md5" : "db52dd4481d6db6a20667125309be5bd",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "8a62601a27b0e3a4e17673cc60674ab8fafd0c771aabc464c507f55b176ddb9c",
+      "submission" : 1124,
+      "title" : "Requiemotion [INSANE]",
+      "url" : "https://venue.bmssearch.net/bmsshuin2/84",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "litmus* / movie : Kazari obj:SUZUKAZEΛ",
       "level" : "2",
       "md5" : "e22484ff579204847425de6a0cb93158",
@@ -217,6 +266,23 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 10
+   },
+   {
+      "artist" : "Simon Viklund Remixed by uet",
+      "comment" : "第二回BMS衆議院選、縦連、連打、トリル、皿",
+      "level" : "0",
+      "md5" : "f094fe820dcfdb58b7b626e59badc35d",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "18d1e067e6b95ab5a24dc0ec2a8cbdb3e5d0d6d84883a0c0931e4b411263ddda",
+      "submission" : 1125,
+      "title" : "I Will Give You My All(uet Remix) [MAYHEM]",
+      "url" : "https://venue.bmssearch.net/bmsshuin2/4",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "rate-dat + Cranky + hi-low + BKANOTHER",

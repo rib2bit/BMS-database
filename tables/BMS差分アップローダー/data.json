@@ -5235,6 +5235,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00454"
    },
    {
+      "adddate" : "2019/11/09 17:46",
+      "artist" : "ノクティス・江口・チェラム obj.Mallow♪",
+      "comment" : "TOTAL値若干低め、乱打",
+      "folder" : "2019/11",
+      "genre" : "IRREGULAR HI-BREAK",
+      "keys" : 7,
+      "level" : "2019/11",
+      "lr2_bmsid" : "279856",
+      "md5" : "15ebd2f3aca1c35876c795c94c8d6302",
+      "org_level" : null,
+      "title" : "ヒメタイプ [エヒメ]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=96",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03579"
+   },
+   {
       "adddate" : "2017/08/06 11:50",
       "artist" : "Framdoll a.k.a. TY-2/ obj:YAN*TS",
       "comment" : "[DP譜面]同色階段、隣接階段、縦連、トリル、LN、BPM変化",
@@ -32565,6 +32580,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01767"
    },
    {
+      "adddate" : "2019/11/09 14:07",
+      "artist" : "6yen / И",
+      "comment" : "前半は同時押し、後半は物量、検出される全てのエラーは意図的です。",
+      "folder" : "2019/11",
+      "genre" : "d'n'b",
+      "keys" : "7",
+      "level" : "2019/11",
+      "lr2_bmsid" : "",
+      "md5" : "83da3c5e8ab72154a4bcdcd139bdb86f",
+      "org_level" : null,
+      "title" : "on the sequence #3 [Apocalypsis]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03578"
+   },
+   {
       "adddate" : "2019/07/26 22:25",
       "artist" : "RANDO: obj:C4",
       "comment" : "同梱N譜面とA譜面の中間の譜面",
@@ -50486,7 +50516,7 @@
       "md5" : "ca302b07ae249b6c2ddaff06f403fc43",
       "org_level" : null,
       "title" : "Midnight Flux [Night Sky]",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=259&event=127",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03544"
    },
    {
@@ -62906,7 +62936,7 @@
       "md5" : "fc7b12594f633599837aa31b7c10a047",
       "org_level" : null,
       "title" : "MOBILYS [Endymion]",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=24&event=127",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03545"
    },
    {
