@@ -14,7 +14,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "Se-U-Ra Movie:わっふゑ",
@@ -164,7 +164,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 7
    },
    {
       "artist" : "Soba Yamamori",
@@ -214,25 +214,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 4
-   },
-   {
-      "artist" : "hugepulse BGA:Micelle",
-      "comment" : "第二回BMS衆議院選、ガチ押し、連打",
-      "level" : "4",
-      "md5" : "d65e60259aa7261ca03e2c3d0b99f3ee",
-      "proposer" : "ww",
-      "proposerLr2id" : 147642,
-      "sha256" : "48301f5624b6b39b53bb9cb9cbbd9063367fa87515b67f593eabc7c353027b35",
-      "submission" : 1100,
-      "title" : "Hazuki [INSANE]",
-      "url" : "https://venue.bmssearch.net/bmsshuin2/14",
-      "url_diff" : "",
-      "voteNeutral" : 2,
-      "voteNo" : 2,
-      "votePercent" : "69.23",
-      "voteYes" : 7
+      "votePercent" : "91.67",
+      "voteYes" : 5
    },
    {
       "artist" : "Steяrite",
@@ -248,8 +231,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 2
+      "votePercent" : "90.00",
+      "voteYes" : 4
    },
    {
       "artist" : "litmus* / movie : Kazari obj:SUZUKAZEΛ",
@@ -281,8 +264,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 4
+      "votePercent" : "91.67",
+      "voteYes" : 5
    },
    {
       "artist" : "rate-dat + Cranky + hi-low + BKANOTHER",
