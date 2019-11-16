@@ -66,6 +66,22 @@
       "voteYes" : 6
    },
    {
+      "artist" : "Y.W / A",
+      "level" : "5",
+      "md5" : "4170a29a2e6f924beba1bf73fea6cfb8",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "366c65c77c24872a652ed3a1424f7d0ab3c3ce028d8258743947c73699763846",
+      "submission" : 1127,
+      "title" : "ふゆいろ ドリーマー [冬]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=100",
+      "url_diff" : "http://www.yw-works.com/9keys2015/edit/detail.php?edits_no=11",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "ろうて",
       "comment" : "sl0~1?",
       "level" : "0",
@@ -147,8 +163,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=2938",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "66.67",
-      "voteYes" : 1
+      "votePercent" : "75.00",
+      "voteYes" : 2
    },
    {
       "artist" : "nmk feat.EUROBEATアイドル橘花音",
@@ -165,7 +181,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
    },
    {
       "artist" : "uma feat. ましろ obj:SUZUKAZEΛ",
@@ -181,7 +197,23 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 9
+   },
+   {
+      "artist" : "STARSTREAK CHAOS-TL12 Illustration by Neru / obj: Lennon",
+      "level" : "4",
+      "md5" : "bde6e746250d86e04619a5d7f527c4be",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "2934692936c9c1db6f38d34eeda9244adfd702faf9bc7b453a12652bff357486",
+      "submission" : 1128,
+      "title" : "VENUS INVADER [for A.]",
+      "url" : "http://k-bms.com/party_pabat/party2018.jsp?board_num=18&num=1&order=reg&odtype=a",
+      "url_diff" : "http://gnqg.rosx.net/upload/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "Soba Yamamori",
@@ -248,8 +280,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 4
+      "votePercent" : "85.71",
+      "voteYes" : 5
    },
    {
       "artist" : "litmus* / movie : Kazari obj:SUZUKAZEΛ",
@@ -265,7 +297,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 10
+      "voteYes" : 11
    },
    {
       "artist" : "Simon Viklund Remixed by uet",
@@ -281,8 +313,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "85.71",
-      "voteYes" : 5
+      "votePercent" : "87.50",
+      "voteYes" : 6
    },
    {
       "artist" : "rate-dat + Cranky + hi-low + BKANOTHER",
