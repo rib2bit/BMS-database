@@ -14,7 +14,23 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
+   },
+   {
+      "artist" : "秋山 澪 obj.Mallow♪",
+      "level" : "8",
+      "md5" : "24cc4e6f36cd17f79ec4f34a22baf924",
+      "proposer" : "TA2YA.",
+      "proposerLr2id" : 64145,
+      "sha256" : "8d348955e8f4b3d6531e2a5be7d4562791028cf6ed9854bf69ace222ba668206",
+      "submission" : 1129,
+      "title" : "水晶世界 [Quartz]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=44&event=65",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03356",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "Se-U-Ra Movie:わっふゑ",
@@ -47,7 +63,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "Music:しらいし obj:Fender",
@@ -116,40 +132,6 @@
       "voteYes" : 10
    },
    {
-      "artist" : "parakeet 41 obj:goe BGA:G",
-      "comment" : "st5 弱化版",
-      "level" : "12",
-      "md5" : "7e57e535cf8297e3b247619c15b4b77b",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "74f78a671993912b7056c480772d7e84f2544aee0e36634eab6f770588d53a01",
-      "submission" : 1108,
-      "title" : "wilis [G2]",
-      "url" : "http://www.is-m.jp/",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00970",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "88.89",
-      "voteYes" : 7
-   },
-   {
-      "artist" : "anubasu-anubasu / obj:sagoo BGA by 出前",
-      "comment" : "trick or treat!",
-      "level" : "1",
-      "md5" : "83c9297665649c503a8a71bb391ba7a6",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "8e433aeeb198db8103b4a8dc806bcea723af45f3ed5ced6675167904fe9631f2",
-      "submission" : 1107,
-      "title" : "Jack o' Lantern [sagANOTHER]",
-      "url" : "https://www.dropbox.com/s/ryhyrwnksin5o0d/JoLa_anu.zip?dl=0",
-      "url_diff" : "https://onedrive.live.com/?authkey=%21ADuXxYDZsf%5FL%2DI8&id=A972E7D14DCFAF93%21112&cid=A972E7D14DCFAF93",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 13
-   },
-   {
       "artist" : "Frums obj.fhyu",
       "comment" : "ズレ、ソフランなし、ハード難しい",
       "level" : "11",
@@ -163,7 +145,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=2938",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "75.00",
+      "votePercent" : "70.00",
       "voteYes" : 2
    },
    {
@@ -181,7 +163,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "uma feat. ましろ obj:SUZUKAZEΛ",
@@ -197,7 +179,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
+      "voteYes" : 10
    },
    {
       "artist" : "STARSTREAK CHAOS-TL12 Illustration by Neru / obj: Lennon",
@@ -216,38 +198,20 @@
       "voteYes" : 1
    },
    {
-      "artist" : "Soba Yamamori",
-      "comment" : "乱打 ",
-      "level" : "1",
-      "md5" : "c2097acb3be7e946ee849e431d6e4380",
-      "proposer" : "Fendou",
-      "proposerLr2id" : 128388,
-      "sha256" : "64a89c3e260b9738f8c36c0156e3826f6429e7d4d8fc14ab26c3588a2403a2ea",
-      "submission" : 1109,
-      "title" : "SYNTHETICS",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=285&event=123",
+      "artist" : "ZUN(Arr.sun3)",
+      "level" : "2",
+      "md5" : "be8148672736d2dd685f99478be02c9b",
+      "proposer" : "TA2YA.",
+      "proposerLr2id" : 64145,
+      "sha256" : "e15a1bfd246e534dc8ac8a933169b422970e5dd60ee97a129b5cec02e0afe5aa",
+      "submission" : 1130,
+      "title" : "Endeavor (ANOTHER)",
+      "url" : "http://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21274&ithint=file,zip&authkey=!AIkV4RYTe2QHyDE",
       "url_diff" : "",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "93.33",
-      "voteYes" : 14
-   },
-   {
-      "artist" : "すぎ",
-      "comment" : "同曲を提案したのですが差分を間違えてしまいました、本当に申し訳ございません",
-      "level" : "1",
-      "md5" : "c8a8027f25c1fafad0e48c62f83a1a5f",
-      "proposer" : "けーちゃん",
-      "proposerLr2id" : 137190,
-      "sha256" : "bb9e62c951f00a6970949005aec3f8d60e16673d48b0c886c07b2748599bf19e",
-      "submission" : 1105,
-      "title" : "とっとこハム",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=122",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02744",
-      "voteNeutral" : 2,
-      "voteNo" : 2,
-      "votePercent" : "71.43",
-      "voteYes" : 8
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "盟絵と詩乃 obj:SUZUKAZEΛ",
@@ -263,8 +227,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 5
+      "votePercent" : "92.86",
+      "voteYes" : 6
    },
    {
       "artist" : "Steяrite",
@@ -280,24 +244,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "85.71",
-      "voteYes" : 5
-   },
-   {
-      "artist" : "litmus* / movie : Kazari obj:SUZUKAZEΛ",
-      "level" : "2",
-      "md5" : "e22484ff579204847425de6a0cb93158",
-      "proposer" : "椒図",
-      "proposerLr2id" : 124809,
-      "sha256" : "2585d7dba06e33be32fef281c9bfa5f5bd7f23cf53959df07571014f8793d320",
-      "submission" : 1114,
-      "title" : "Good Life [ZOI]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=44&event=123",
-      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 11
+      "votePercent" : "87.50",
+      "voteYes" : 6
    },
    {
       "artist" : "Simon Viklund Remixed by uet",
@@ -313,8 +261,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 6
+      "votePercent" : "88.89",
+      "voteYes" : 7
    },
    {
       "artist" : "rate-dat + Cranky + hi-low + BKANOTHER",

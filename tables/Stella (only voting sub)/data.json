@@ -1,72 +1,5 @@
 [
    {
-      "artist" : "ルゼ ☆ えみゅう。 ☆ 石王マサト Obj:И",
-      "level" : "4",
-      "md5" : "0a4e8da3c5ac37bf4945bbb42e685307",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "7efb59cd5f72dfa4263e86e5784f18f3817fb73e0b18917154849de4eb688e21",
-      "submission" : 1012,
-      "title" : "運命論 [決定論]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=205&event=88",
-      "url_diff" : "https://bms.parksulab.xyz",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 3
-   },
-   {
-      "artist" : "sampling minor SUICA",
-      "comment" : "stellaっぽくて良い練習譜面かなあと",
-      "level" : "0",
-      "md5" : "1feb50f44a553fb7bec345e2667ecd86",
-      "proposer" : "けーちゃん",
-      "proposerLr2id" : 137190,
-      "sha256" : "2abe42917c685d15b34d0bd503bed0424b314acc00f385d7543e5448f37fe775",
-      "submission" : 1011,
-      "title" : "おにコア [如月]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=142&event=60",
-      "url_diff" : "http://www.geocities.jp/dsks5456/bms.html",
-      "voteNeutral" : 2,
-      "voteNo" : 2,
-      "votePercent" : "62.50",
-      "voteYes" : 4
-   },
-   {
-      "artist" : "taqumi obj:ringo BGA:kkkfff2",
-      "comment" : "横に広めのガチ押し st6~7?  IR備考参照",
-      "level" : "6",
-      "md5" : "88e765fdcdd99aa40ee0c6e89943c16a",
-      "proposer" : "いるしお",
-      "proposerLr2id" : 127532,
-      "sha256" : "b2c6195bd36f2018e8dc948ee5fae763192496985472749a9b714e8ab3b6b97c",
-      "submission" : 1020,
-      "title" : "Run Away [7keys Napather]",
-      "url" : "http://yatai.ath.cx/c03_shuffle2/detail.php?n=8",
-      "url_diff" : "https://www.dropbox.com/s/93rxezriv1suovn/RunAwayNapather.bms?dl=0",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 4
-   },
-   {
-      "artist" : "るるりえーる / selene.",
-      "comment" : "物量乱打",
-      "level" : "0",
-      "md5" : "91a3e765da4f1a52d2b53a5f3410cb90",
-      "proposer" : "nono22",
-      "proposerLr2id" : 122934,
-      "sha256" : "b4c769b7b2f90968cf6e36a9d086bc9d3aa1a75af41e7f3fa5f55b653e94cd6a",
-      "submission" : 1017,
-      "title" : "First Creation -Restart-",
-      "url" : "https://www.dropbox.com/s/fjccjz390i2vfbp/First%20Creation.rar?dl=1",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01925",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 5
-   },
-   {
       "artist" : "おみー obj: qtp13",
       "comment" : "超低TOTAL(1 POOR=-20%). でも、ノートを打つ認識力を上げられると思います...",
       "level" : "2",
@@ -98,7 +31,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "LUNEの右手と悠里おねぇちゃんの左脚 / SHOT-U",
@@ -166,23 +99,6 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
-   },
-   {
-      "artist" : "さかみりと img:しぐれぷに子/obj:赤い人",
-      "comment" : "st1~2?",
-      "level" : "1",
-      "md5" : "e1cf6ae1aae5f99561f31dd987a83b51",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "847fe82609cbd4916e17e0c4bd69f9cdc5c8e9477e1c0580ae8cebf8b48dd957",
-      "submission" : 1010,
-      "title" : "八大地獄邪魂転生狂葬散火歌 [HARDEST]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=116",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/G59_HARDEST.bms",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 4
    }
 ]
