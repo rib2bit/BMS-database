@@ -14,7 +14,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 10
    },
    {
       "artist" : "秋山 澪 obj.Mallow♪",
@@ -29,8 +29,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03356",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "90.00",
+      "voteYes" : 4
    },
    {
       "artist" : "Se-U-Ra Movie:わっふゑ",
@@ -63,7 +63,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 8
    },
    {
       "artist" : "Music:しらいし obj:Fender",
@@ -92,6 +92,23 @@
       "title" : "ふゆいろ ドリーマー [冬]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=100",
       "url_diff" : "http://www.yw-works.com/9keys2015/edit/detail.php?edits_no=11",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 4
+   },
+   {
+      "artist" : "mattaku / obj:Lavos",
+      "comment" : "But... the future refused to change. (Hardest+)",
+      "level" : "12",
+      "md5" : "43572c3e9acb73705b327599ee907d6f",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "ab7b73bcceca922d774856952b00de2215f22eff8af57af1d246a99eb31a4918",
+      "submission" : 1135,
+      "title" : "CHRONO TRIGGER ～世界変革の時～ (SP BLACK ANOTHER+)",
+      "url" : "http://oldgamebms.blog33.fc2.com/blog-entry-16.html",
+      "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 100,
@@ -132,6 +149,23 @@
       "voteYes" : 10
    },
    {
+      "artist" : "nmk feat.橘花音 BGA:アカツキユウ",
+      "comment" : "2~3?",
+      "level" : "2",
+      "md5" : "7cda74bdd1200b49a77a802ec3772f64",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "cb4e858abc42d52f4cad14d72bac8ff1d680ec3303ad6acd5f8db313bf5c1755",
+      "submission" : 1134,
+      "title" : "Shining Stage",
+      "url" : "https://venue.bmssearch.net/3/72",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "Frums obj.fhyu",
       "comment" : "ズレ、ソフランなし、ハード難しい",
       "level" : "11",
@@ -143,9 +177,9 @@
       "title" : "Pictured as Perfect [Unconfirmed]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=336&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=2938",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "70.00",
+      "voteNeutral" : 2,
+      "voteNo" : 2,
+      "votePercent" : "50.00",
       "voteYes" : 2
    },
    {
@@ -163,7 +197,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 7
    },
    {
       "artist" : "uma feat. ましろ obj:SUZUKAZEΛ",
@@ -179,7 +213,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 10
+      "voteYes" : 12
    },
    {
       "artist" : "STARSTREAK CHAOS-TL12 Illustration by Neru / obj: Lennon",
@@ -194,8 +228,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 5
    },
    {
       "artist" : "ZUN(Arr.sun3)",
@@ -208,10 +242,27 @@
       "title" : "Endeavor (ANOTHER)",
       "url" : "http://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21274&ithint=file,zip&authkey=!AIkV4RYTe2QHyDE",
       "url_diff" : "",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "60.00",
+      "voteYes" : 2
+   },
+   {
+      "artist" : "菊池俊輔 bms:Yosk! / obj:SUZUKAZEΛ",
+      "comment" : "曲は短いですが同時押しをしっかり押す練習になると思ったので",
+      "level" : "0",
+      "md5" : "c4c038a06d11fd8101a1776764d27518",
+      "proposer" : "けーちゃん",
+      "proposerLr2id" : 137190,
+      "sha256" : "ad9ae5ee3f7feae09b569d91cba1e101a74f1e2e7896429c423156f13d16a7b2",
+      "submission" : 1133,
+      "title" : "スネ夫が自慢話をするときに流れている曲 [ZOI]",
+      "url" : "https://drive.google.com/file/d/0B7qCw4hNijr4MVVVdTZZMkVCeGM/view",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "盟絵と詩乃 obj:SUZUKAZEΛ",
@@ -227,8 +278,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "92.86",
-      "voteYes" : 6
+      "votePercent" : "94.44",
+      "voteYes" : 8
    },
    {
       "artist" : "Steяrite",
@@ -242,10 +293,10 @@
       "title" : "Requiemotion [INSANE]",
       "url" : "https://venue.bmssearch.net/bmsshuin2/84",
       "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 6
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "80.00",
+      "voteYes" : 7
    },
    {
       "artist" : "Simon Viklund Remixed by uet",
@@ -261,8 +312,25 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "88.89",
-      "voteYes" : 7
+      "votePercent" : "86.36",
+      "voteYes" : 8
+   },
+   {
+      "artist" : "養土卵 光 / 浜 柔好 / selene.",
+      "comment" : "3~4?",
+      "level" : "4",
+      "md5" : "f26f2c8b3fda7112ca197fb01b56aafb",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "f5837c1f755d7ccfb21144c8f1263161b23a3bda7804cefba0da61ff006fc95b",
+      "submission" : 1132,
+      "title" : "electric butterfly -twilight-",
+      "url" : "http://www.qumarich.net/misstype/",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03587",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 4
    },
    {
       "artist" : "rate-dat + Cranky + hi-low + BKANOTHER",
