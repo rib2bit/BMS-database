@@ -2178,6 +2178,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Tlahuizcalpantecuhtli / И BGA: Air",
+      "comment" : "1~2?",
+      "level" : "2",
+      "md5" : "28334e4ffcc4e6fb393ccf8bc1bc842f",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "57f071056996a3f48b61ba6e4a5115b66cf44224f9af14ac6c0764c2e8da4939",
+      "submission" : 1021,
+      "title" : "Destroyer [Abgrund]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=170&event=104",
+      "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
       "artist" : "sasakure.UK/さ",
       "level" : "1",
       "md5" : "284ddd098db5be298c828fefcdd648e5",
@@ -2908,6 +2921,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "sak BGA:猫太郎 obj:BAECON",
+      "comment" : "2~3?",
+      "level" : "3",
+      "md5" : "34032273d045908a1f39870b44ad8e22",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "b7c35e0bf49e0a6b1ade33d163712d1ae518c436341a527a3323ce020da4753e",
+      "submission" : 1022,
+      "title" : "minimalim [INSANE]",
+      "url" : "http://colosseo.nekokan.dyndns.info/c04_shuffle3/detail/view/12/",
+      "url_diff" : ""
    },
    {
       "artist" : "scytheleg",
