@@ -132,6 +132,23 @@
       "voteYes" : 13
    },
    {
+      "artist" : "Is-m // あまね（COOL&CREATE） BGA:sveki hamalu",
+      "comment" : "sl11に同じ曲があるが、この差分のほうが好きなのに提案しました",
+      "level" : "11",
+      "md5" : "6e51bb9938a6858ab58b888c1994f98a",
+      "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
+      "sha256" : "94cea6e4fb814dbe414e74a4ed98e39d3a7bf9f3863979d8ff5c31478b1ed997",
+      "submission" : 1138,
+      "title" : "虹夜パレッド -SP INSANE-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=388&event=123",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "music:litmus* / bms:SeRu movie:litmus*",
       "comment" : "G2R2018、連打、ガチ押し、発狂",
       "level" : "3",
@@ -164,6 +181,22 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 4
+   },
+   {
+      "artist" : "Est/さ",
+      "level" : "7",
+      "md5" : "8ff8f7dca521b31d3097066e97874540",
+      "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
+      "sha256" : "3e4eba81f1877f56365821f26ae140c48a7da016fc06ab2c13300577503f86f5",
+      "submission" : 1137,
+      "title" : "cotton39% (EX)",
+      "url" : "https://onedrive.live.com/?cid=F61C1F8825F0CF46&id=F61C1F8825F0CF46%21159",
+      "url_diff" : "http://sabosabun.tank.jp/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "Frums obj.fhyu",
@@ -213,7 +246,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 12
+      "voteYes" : 13
    },
    {
       "artist" : "STARSTREAK CHAOS-TL12 Illustration by Neru / obj: Lennon",
@@ -242,9 +275,9 @@
       "title" : "Endeavor (ANOTHER)",
       "url" : "http://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21274&ithint=file,zip&authkey=!AIkV4RYTe2QHyDE",
       "url_diff" : "",
-      "voteNeutral" : 3,
-      "voteNo" : 3,
-      "votePercent" : "42.86",
+      "voteNeutral" : 4,
+      "voteNo" : 4,
+      "votePercent" : "37.50",
       "voteYes" : 2
    },
    {
@@ -278,8 +311,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "94.44",
-      "voteYes" : 8
+      "votePercent" : "95.00",
+      "voteYes" : 9
    },
    {
       "artist" : "Steяrite",
@@ -363,7 +396,7 @@
       "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpylxhdCpriXMZoi673?e=GOcslK",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "75.00",
-      "voteYes" : 1
+      "votePercent" : "83.33",
+      "voteYes" : 2
    }
 ]
