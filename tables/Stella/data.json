@@ -1471,6 +1471,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01654"
    },
    {
+      "artist" : "NIKITA / misokabocha/∞",
+      "comment" : "ラス殺し、ディレイ",
+      "level" : "9",
+      "md5" : "2c4e3404356bdb4b75108afdee91a792",
+      "proposer" : "Razuurene",
+      "sha256" : "a27cd811c7a0255efaccb712c6847773807124fcbe80a4119d6497df6a2ca637",
+      "submission" : 1026,
+      "title" : "夢、幻。 [infinity]",
+      "url" : "https://dl.dropboxusercontent.com/s/hbd3fm7tlkqp5np/yumemaboroshi_ogg.zip?dl=1&token_hash=AAHvr6XDAXuRGGo7pNfo7SukdijOHfLijMFTNSa05MT4RQ",
+      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up5656.rar"
+   },
+   {
       "artist" : "有賀 澪 BGA:しらたき Illust:Cleome obj: qtp13",
       "comment" : "CYCLONEリスペクト",
       "level" : "11",
@@ -3999,7 +4011,7 @@
    {
       "artist" : "void / obj:Tristan97 Momomi Aoyama",
       "comment" : "物量",
-      "level" : "1",
+      "level" : "0",
       "md5" : "71118bb5c2c92998df3379bebbe8691a",
       "proposer" : "poet=san",
       "proposerLr2id" : 104330,
@@ -4990,6 +5002,18 @@
       "title" : "the lost dedicated [life]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=89&event=65",
       "url_diff" : ""
+   },
+   {
+      "artist" : "itaojirou obj: かに",
+      "comment" : "2",
+      "level" : "2",
+      "md5" : "8f3cd17ee74b3367ca21b8dfb86624ad",
+      "proposer" : "MineC24",
+      "sha256" : "587843829cd757ddb68985af77317cafe6cc6e974009b7062192328c74cf7610",
+      "submission" : 1006,
+      "title" : "Way of Life! -life-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=392&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02683"
    },
    {
       "artist" : "vorbis / obj:夢瑠",
@@ -6038,7 +6062,7 @@
    {
       "artist" : "sound piercer feat.Ritsu / Limite mov : kkkfff2 & G-2000",
       "comment" : "すごいな差分",
-      "level" : "1",
+      "level" : "2",
       "md5" : "b0029142ff060a50188a6597f9deb258",
       "proposer" : "MineC24",
       "sha256" : "9edfaf04c0f06ad028d33854910ae1acae5d695cde00751ffd60445dcfe84873",
@@ -7594,6 +7618,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/"
    },
    {
+      "artist" : "黒皇帝 Movie: 6XeNoN9",
+      "comment" : "0~1?",
+      "level" : "0",
+      "md5" : "dc4bdb6b64a7147541f195079cc33cd5",
+      "proposer" : "MineC24",
+      "sha256" : "9e900fb4a9a0da1c20304848371d06a44d0ccb9172d521f766959a46649e1497",
+      "submission" : 1019,
+      "title" : "Chronostasis [Futabather]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=252&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=364"
+   },
+   {
       "artist" : "Irish Kappa / selene. BGA: Rinser",
       "comment" : "",
       "level" : "5",
@@ -7677,6 +7713,17 @@
       "title" : "エモ幼女爆発四散",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=474&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01230"
+   },
+   {
+      "artist" : "sasakure.UK m / Omino",
+      "level" : "2",
+      "md5" : "e05efbeee3fbf91c19be4aa1d4eec3f2",
+      "proposer" : "LUXURY♪",
+      "sha256" : "f06b2474746b3266252b4ba0404cd083c8e236e30685e3acf096e3c367ba3f3a",
+      "submission" : 1008,
+      "title" : "Sygnal [Other]",
+      "url" : "http://web.archive.org/web/20070817082130/http://sasakure.bms.ms/bms/sygnal.zip",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03390"
    },
    {
       "artist" : "こどものなみだ /差分 赤い人",

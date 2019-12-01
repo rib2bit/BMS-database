@@ -1568,9 +1568,9 @@
       "title" : "Karn Evil 7 [2 Player]"
    },
    {
-      "artist" : "紅蓮月影 obj:ucc *AVERAGE+70 R.MIR or FLIP R.MIR",
+      "artist" : "紅蓮月影 obj:ucc *SUD+ (MAX+50/AVE+70) R.MIR or FLIP R.MIR",
       "comment" : "ジャッジメント",
-      "level" : "★5",
+      "level" : "★6",
       "md5" : "08c603a6d775317c87137b06e06642f6",
       "title" : "marginated [試作14]"
    },
@@ -3824,7 +3824,7 @@
    {
       "artist" : "LeaF /obj: QJITAI Movie:To7  *FIXOFF 180",
       "comment" : "EINSAMKEIT",
-      "level" : "★5",
+      "level" : "★6",
       "md5" : "1638aa49b41b6240aa75a99f6a7efab9",
       "title" : "Doppelganger [DP LAST BOSS]"
    },
@@ -6629,7 +6629,7 @@
       "title" : "夜がずり落ちてくる [EX14]"
    },
    {
-      "artist" : "38k *L.MIRROR",
+      "artist" : "38k *FLIP",
       "comment" : "Retrogressive",
       "level" : "★2",
       "md5" : "26f7d6100583286d73ee5884c3c3759a",
@@ -13251,7 +13251,7 @@
       "title" : "幽雅に開け、青空の扉 -EXUSIA-"
    },
    {
-      "artist" : "Blacksparrow VS DeathisM *正規 or LR.RAN",
+      "artist" : "Blacksparrow VS DeathisM *LR.MIR or LR.RAN",
       "comment" : "Orchestral Drum'n Bass",
       "level" : "★6",
       "md5" : "4ff1019c2a61c8e2aa8a93315edc76bc",
@@ -14581,7 +14581,7 @@
       "title" : "Fantasmagoria -DP MANIAC-"
    },
    {
-      "artist" : "BOKKEN PINK obj:ED BOKKEN DODOME+MAGENTA  *正規 or FLIP R.MIR",
+      "artist" : "BOKKEN PINK obj:ED BOKKEN DODOME+MAGENTA  *L.MIR or FLIP R.MIR",
       "comment" : "BOKKEN FUSION",
       "level" : "★6",
       "md5" : "57848920aba3eab87faac0ffd12332c8",
@@ -18167,7 +18167,7 @@
    {
       "artist" : "ZUN(Arr.sun3)/obj:新橋 *R.RANDOM",
       "comment" : "drum&synth",
-      "level" : "★5",
+      "level" : "★6",
       "md5" : "6cc94dc4adf2114e4207706035893506",
       "title" : "Fate/fete (DP ANOTHER)"
    },
@@ -18179,9 +18179,9 @@
       "title" : "G e n g a o z o [S]"
    },
    {
-      "artist" : "mattaku *AVERAGE SUD+",
+      "artist" : "mattaku *SUD+ AVE-20 FLIP R.MIR",
       "comment" : "game music",
-      "level" : "★5",
+      "level" : "?",
       "md5" : "6cd482b082408fc79aafbbaeede8b924",
       "title" : "聖剣伝説2 ～危機～ (DP BLACK ANOTHER)"
    },
@@ -19245,7 +19245,7 @@
    {
       "artist" : "Plastiksoulman",
       "comment" : "electro disco punk",
-      "level" : "★6",
+      "level" : "★7",
       "md5" : "72f2f5d437c274769d0c942cc6039ec6",
       "title" : "Neverknows (but...) W"
    },
@@ -20134,7 +20134,7 @@
    {
       "artist" : "sumomo (& obj) // kusoX. *AVERAGE+0->-50",
       "comment" : "SuperNOVA MINIMAL",
-      "level" : "★5",
+      "level" : "★6",
       "md5" : "77ba1ae6c0b69a6ae0480af11bccf202",
       "title" : "ДESPOND survivor"
    },
@@ -23121,7 +23121,7 @@
       "title" : "リジットXXパラダイス"
    },
    {
-      "artist" : "Mastermind(xi+nora2r) iimo / obj.LetsOTL",
+      "artist" : "Mastermind(xi+nora2r) iimo / obj.LetsOTL　　*AVE",
       "comment" : "Breakthrough",
       "level" : "10",
       "md5" : "883f1330d2ced101e16aff12bdd0b8de",
@@ -26733,7 +26733,7 @@
       "title" : "さいこ゛のたたかい /たひ゛のおわり [14Key Another]"
    },
    {
-      "artist" : "M / obj : lemon_aided *FLIP L.MIR or FLIP R.MIR or FLIP LR.RAN",
+      "artist" : "M / obj : lemon_aided *FLIP",
       "comment" : "4096",
       "level" : "★5",
       "md5" : "9c8717af19609686427f4b5512ade424",
@@ -41666,7 +41666,7 @@
    {
       "artist" : "void obj:けろりん Momomi Aoyama",
       "comment" : "Sci-fi",
-      "level" : "4",
+      "level" : "6",
       "md5" : "f615e7b674524e9998ae70d932ec6459",
       "title" : "Valedict [Farewell song]"
    },
@@ -43134,7 +43134,7 @@
       "title" : "Road To Cherry Blossom [A14]"
    },
    {
-      "artist" : "メスクラ (エヴァたん＆メコたん) / midori / obj:h *FLIP R.MIRROR",
+      "artist" : "メスクラ (エヴァたん＆メコたん) / midori / obj:h *SUD+ FLIP R.MIRROR",
       "comment" : "ルネッサンスコア",
       "level" : "★3",
       "md5" : "fe96298bb48f44b91542badcf458f131",
