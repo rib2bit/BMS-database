@@ -2254,7 +2254,7 @@
    {
       "artist" : "Lime",
       "comment" : "BOFXV, 楽しい差分",
-      "level" : "1",
+      "level" : "0",
       "md5" : "20b5f54f74fd298272679493183f8d5f",
       "proposer" : "DK",
       "proposerLr2id" : 46697,
@@ -5153,6 +5153,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "mommy",
+      "comment" : "BOFXV、物量　3～4?",
+      "level" : "3",
+      "md5" : "4d1134c252eb5dfdf5dfa2424b035a89",
+      "proposer" : "selene.",
+      "proposerLr2id" : 84521,
+      "sha256" : "73210ae1166d9ea73bb8f4eb39ff373e598c138e198aa89b97a2f2543d0fb06f",
+      "submission" : 1148,
+      "title" : "Shamshir -rough Pt.2- [7key,Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=323&event=127",
+      "url_diff" : ""
    },
    {
       "artist" : "IZ Nit Feat. CH Wit obj:SANY",
@@ -8206,6 +8219,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "SEPHID obj Scely",
+      "comment" : "BOFXV、乱打",
+      "level" : "11",
+      "md5" : "7c62262761587ea39aaf836735136312",
+      "proposer" : "Scely",
+      "proposerLr2id" : 128281,
+      "sha256" : "0dfa0ccd1eed80653a4a704ccc23cd5927c66f48fc757f099f8891dcfc247f32",
+      "submission" : 1146,
+      "title" : "Subterranean Blastoff -Stellar Overhaul-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=63&event=127",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Nardis BGA: 鑓田 (alpha complex) OBJ: swa",
       "comment" : "LNあり",
       "level" : "4",
@@ -9355,6 +9381,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "BBBB / (obj:Mr.Faine) BGI:romusann",
+      "comment" : "BOFXV、多彩な物量",
+      "level" : "3",
+      "md5" : "8eb958b06d294ec88dc0620ce43e10b3",
+      "proposer" : "selene.",
+      "proposerLr2id" : 84521,
+      "sha256" : "f8141388d090fa0501ead76c74254d8fc65a1d48d99a11ef5515a28a726d279b",
+      "submission" : 1149,
+      "title" : "Wicked Laboratory",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=257&event=127",
+      "url_diff" : ""
    },
    {
       "artist" : "FOLiACETATE",
@@ -11031,7 +11070,7 @@
       "sha256" : "c4cda7b7cb99e1ad3745d85e358060a6bc6e394a40c0db0bd274545cb74f0a63",
       "submission" : 279,
       "title" : "Allie Stars [Insane]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=131&event=123",
+      "url" : "https://mega.nz/#F!sXZTFSxS!UX7Cpqoi03tRQ-jpzn8F6A",
       "url_diff" : "",
       "voteNo" : 0,
       "votePercent" : 0,
@@ -16681,6 +16720,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "立秋 feat.ちょこ / 月作ちゃんでより",
+      "comment" : "(ง '-' )ง うーっ ٩( 'o' )۶プナイプナイ〜っ！！(ラスト回復)",
+      "level" : "1",
+      "md5" : "f52a29ece44c140f9692f85af24ae657",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "a98c1eeee652f32b58800d6b6a0c12ba8e97b4be3c752dc6e94df7f1191d9930",
+      "submission" : 1147,
+      "title" : "プナイプナイげんそう [プナイプナイの右往左往ファンタジア]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=249&event=127",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03506"
    },
    {
       "artist" : "otoshi.b obj.Lapis",

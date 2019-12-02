@@ -13,8 +13,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 6
    },
    {
       "artist" : "Qayo mov:AnD + sho_ishida",
@@ -30,8 +30,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 5
    },
    {
       "artist" : "otoshi.b BGI:はしたかさん obj.mute",
@@ -48,12 +48,12 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 5
    },
    {
       "artist" : "Lime",
       "comment" : "BOFXV, 楽しい差分",
-      "level" : "1",
+      "level" : "0",
       "md5" : "20b5f54f74fd298272679493183f8d5f",
       "proposer" : "DK",
       "proposerLr2id" : 46697,
@@ -65,7 +65,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 8
    },
    {
       "artist" : "mattaku / obj:Lavos",
@@ -82,7 +82,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "Lime",
@@ -98,8 +98,25 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 7
+   },
+   {
+      "artist" : "mommy",
+      "comment" : "BOFXV、物量　3～4?",
+      "level" : "3",
+      "md5" : "4d1134c252eb5dfdf5dfa2424b035a89",
+      "proposer" : "selene.",
+      "proposerLr2id" : 84521,
+      "sha256" : "73210ae1166d9ea73bb8f4eb39ff373e598c138e198aa89b97a2f2543d0fb06f",
+      "submission" : 1148,
+      "title" : "Shamshir -rough Pt.2- [7key,Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=323&event=127",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "秋月アキラ feat. 保堂 京",
@@ -115,8 +132,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "91.67",
+      "voteYes" : 5
    },
    {
       "artist" : "Is-m // あまね（COOL&CREATE） BGA:sveki hamalu",
@@ -132,8 +149,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "78.57",
-      "voteYes" : 5
+      "votePercent" : "83.33",
+      "voteYes" : 7
    },
    {
       "artist" : "nmk feat.橘花音 BGA:アカツキユウ",
@@ -150,7 +167,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
+      "voteYes" : 10
+   },
+   {
+      "artist" : "BBBB / (obj:Mr.Faine) BGI:romusann",
+      "comment" : "BOFXV、多彩な物量",
+      "level" : "3",
+      "md5" : "8eb958b06d294ec88dc0620ce43e10b3",
+      "proposer" : "selene.",
+      "proposerLr2id" : 84521,
+      "sha256" : "f8141388d090fa0501ead76c74254d8fc65a1d48d99a11ef5515a28a726d279b",
+      "submission" : 1149,
+      "title" : "Wicked Laboratory",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=257&event=127",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "Est/さ",
@@ -182,58 +216,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
-   },
-   {
-      "artist" : "Frums obj.fhyu",
-      "comment" : "ズレ、ソフランなし、ハード難しい",
-      "level" : "11",
-      "md5" : "b013210619862aa6bb54d2d5eef97035",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "e9ededc6bcf58add962c4f90f98ba9ebe4ce080b3ee28efe84f823b1895499c0",
-      "submission" : 1121,
-      "title" : "Pictured as Perfect [Unconfirmed]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=336&event=123",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=2938",
-      "voteNeutral" : 2,
-      "voteNo" : 2,
-      "votePercent" : "61.11",
+      "votePercent" : "100.00",
       "voteYes" : 4
-   },
-   {
-      "artist" : "ZUN(Arr.sun3)",
-      "level" : "3",
-      "md5" : "be8148672736d2dd685f99478be02c9b",
-      "proposer" : "TA2YA.",
-      "proposerLr2id" : 64145,
-      "sha256" : "e15a1bfd246e534dc8ac8a933169b422970e5dd60ee97a129b5cec02e0afe5aa",
-      "submission" : 1130,
-      "title" : "Endeavor (ANOTHER)",
-      "url" : "http://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21274&ithint=file,zip&authkey=!AIkV4RYTe2QHyDE",
-      "url_diff" : "",
-      "voteNeutral" : 8,
-      "voteNo" : 8,
-      "votePercent" : "32.14",
-      "voteYes" : 3
-   },
-   {
-      "artist" : "菊池俊輔 bms:Yosk! / obj:SUZUKAZEΛ",
-      "comment" : "曲は短いですが同時押しをしっかり押す練習になると思ったので",
-      "level" : "0",
-      "md5" : "c4c038a06d11fd8101a1776764d27518",
-      "proposer" : "けーちゃん",
-      "proposerLr2id" : 137190,
-      "sha256" : "ad9ae5ee3f7feae09b569d91cba1e101a74f1e2e7896429c423156f13d16a7b2",
-      "submission" : 1133,
-      "title" : "スネ夫が自慢話をするときに流れている曲 [ZOI]",
-      "url" : "https://drive.google.com/file/d/0B7qCw4hNijr4MVVVdTZZMkVCeGM/view",
-      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
-      "voteNeutral" : 6,
-      "voteNo" : 6,
-      "votePercent" : "33.33",
-      "voteYes" : 2
    },
    {
       "artist" : "盟絵と詩乃 obj:SUZUKAZEΛ",
@@ -249,8 +233,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.45",
-      "voteYes" : 10
+      "votePercent" : "95.83",
+      "voteYes" : 11
    },
    {
       "artist" : "Steяrite",
@@ -266,8 +250,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "84.62",
-      "voteYes" : 10
+      "votePercent" : "85.71",
+      "voteYes" : 11
    },
    {
       "artist" : "Simon Viklund Remixed by uet",
@@ -283,8 +267,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "80.77",
-      "voteYes" : 9
+      "votePercent" : "82.14",
+      "voteYes" : 10
    },
    {
       "artist" : "養土卵 光 / 浜 柔好 / selene.",
@@ -301,24 +285,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
+      "voteYes" : 10
    },
    {
-      "artist" : "rate-dat + Cranky + hi-low + BKANOTHER",
-      "comment" : "乱打、皿複合",
-      "level" : "2",
-      "md5" : "f30a4ba83fc1f5aa63d985b21d1b812e",
-      "proposer" : "nono22",
-      "proposerLr2id" : 122934,
-      "sha256" : "871b5015e8b4540a2b5257618d07495c6fa1d9e7f3a93c185db360cb36931bbb",
-      "submission" : 1116,
-      "title" : "Rate Cranky Hi-roller BreaKdown",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=232&event=123",
-      "url_diff" : "http://beatkim.web.fc2.com/insane.html",
+      "artist" : "立秋 feat.ちょこ / 月作ちゃんでより",
+      "comment" : "(ง '-' )ง うーっ ٩( 'o' )۶プナイプナイ〜っ！！(ラスト回復)",
+      "level" : "1",
+      "md5" : "f52a29ece44c140f9692f85af24ae657",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "a98c1eeee652f32b58800d6b6a0c12ba8e97b4be3c752dc6e94df7f1191d9930",
+      "submission" : 1147,
+      "title" : "プナイプナイげんそう [プナイプナイの右往左往ファンタジア]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=249&event=127",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03506",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.83",
-      "voteYes" : 11
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "6yen obj.Restia",
@@ -334,7 +318,7 @@
       "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpylxhdCpriXMZoi673?e=GOcslK",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "88.89",
-      "voteYes" : 7
+      "votePercent" : "90.91",
+      "voteYes" : 9
    }
 ]
