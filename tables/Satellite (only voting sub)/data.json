@@ -1,5 +1,22 @@
 [
    {
+      "artist" : "LisicA movie : ルゼ(LuzeriA) / illust : Orphee / pattern : 岡部うすにごり",
+      "comment" : "TECHNO",
+      "level" : "6",
+      "md5" : "0da060f725dd82cd24397472a7d16884",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "ea97f74315c9252c850aa7a73967baedb0a03ea363680829743552e287afe176",
+      "submission" : 1152,
+      "title" : "テウメッサ [水中ステージ]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=127",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03440",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "sak with.ごくごくプリン Movie: げ～むばか",
       "comment" : "BOFXV、乱打、連打",
       "level" : "5",
@@ -14,7 +31,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 9
    },
    {
       "artist" : "Qayo mov:AnD + sho_ishida",
@@ -31,7 +48,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 7
    },
    {
       "artist" : "otoshi.b BGI:はしたかさん obj.mute",
@@ -48,7 +65,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "Lime",
@@ -65,7 +82,41 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 10
+   },
+   {
+      "artist" : "P4koo/つゆり花鈴/BlueArpeggio Illust GATTOMOTTO/Movie Ratif / obj:BAECON",
+      "comment" : "BOFXV　同時押し",
+      "level" : "6",
+      "md5" : "240e4603c81a12bfedc5a9bcddc52e88",
+      "proposer" : "3号君",
+      "proposerMinirid" : "7a7a5bdf-499d-4973-b5dc-23883f5e57f9",
+      "sha256" : "dbb8c0de6143b70c3adc91115cb4de1fab38d43c7a53365287389901771a4e88",
+      "submission" : 1151,
+      "title" : "カタリスト [Excitation]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=147&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
+      "artist" : "ETIA. feat. Jenga MV: わっふゑ",
+      "comment" : "BOFXV、ガチ押し、少し皿",
+      "level" : "0",
+      "md5" : "3e89ccd862b68def775438636c35f74e",
+      "proposer" : "けーちゃん",
+      "proposerLr2id" : 137190,
+      "sha256" : "95a0b692b6a93ac35f9d07aa3af3fbab59b0a0a26e5b4995cb3e244311419aad",
+      "submission" : 1150,
+      "title" : "XVOTO",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=127",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "91.67",
+      "voteYes" : 5
    },
    {
       "artist" : "mattaku / obj:Lavos",
@@ -82,7 +133,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
    },
    {
       "artist" : "Lime",
@@ -99,7 +150,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 9
    },
    {
       "artist" : "mommy",
@@ -116,7 +167,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
    },
    {
       "artist" : "秋月アキラ feat. 保堂 京",
@@ -132,8 +183,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 5
+      "votePercent" : "93.75",
+      "voteYes" : 7
    },
    {
       "artist" : "Is-m // あまね（COOL&CREATE） BGA:sveki hamalu",
@@ -147,9 +198,9 @@
       "title" : "虹夜パレッド -SP INSANE-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=388&event=123",
       "url_diff" : "",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "83.33",
+      "voteNeutral" : 3,
+      "voteNo" : 3,
+      "votePercent" : "68.18",
       "voteYes" : 7
    },
    {
@@ -184,7 +235,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 6
    },
    {
       "artist" : "Est/さ",
@@ -217,7 +268,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 6
    },
    {
       "artist" : "盟絵と詩乃 obj:SUZUKAZEΛ",
@@ -231,9 +282,9 @@
       "title" : "眼鏡の騎士と人魚姫 [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=76",
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "95.83",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "88.46",
       "voteYes" : 11
    },
    {
@@ -285,7 +336,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 10
+      "voteYes" : 11
    },
    {
       "artist" : "立秋 feat.ちょこ / 月作ちゃんでより",
@@ -302,7 +353,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 6
    },
    {
       "artist" : "6yen obj.Restia",

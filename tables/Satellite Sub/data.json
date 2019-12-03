@@ -1042,6 +1042,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "LisicA movie : ルゼ(LuzeriA) / illust : Orphee / pattern : 岡部うすにごり",
+      "comment" : "TECHNO",
+      "level" : "6",
+      "md5" : "0da060f725dd82cd24397472a7d16884",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "ea97f74315c9252c850aa7a73967baedb0a03ea363680829743552e287afe176",
+      "submission" : 1152,
+      "title" : "テウメッサ [水中ステージ]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=127",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03440"
+   },
+   {
       "artist" : "stereoberry/zero img teritory/obj:shion",
       "comment" : "同時押し",
       "level" : "3",
@@ -2417,6 +2430,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "P4koo/つゆり花鈴/BlueArpeggio Illust GATTOMOTTO/Movie Ratif / obj:BAECON",
+      "comment" : "BOFXV　同時押し",
+      "level" : "6",
+      "md5" : "240e4603c81a12bfedc5a9bcddc52e88",
+      "proposer" : "3号君",
+      "proposerMinirid" : "7a7a5bdf-499d-4973-b5dc-23883f5e57f9",
+      "sha256" : "dbb8c0de6143b70c3adc91115cb4de1fab38d43c7a53365287389901771a4e88",
+      "submission" : 1151,
+      "title" : "カタリスト [Excitation]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=147&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
    },
    {
       "artist" : "8284 / 差分 赤い人",
@@ -3943,6 +3969,19 @@
       "title" : "PEACE BREAKER [アヘ顔ダブルピ～ス]",
       "url" : "http://skydrive.live.com/?cid=d34bfc70cbe5e695&sc=documents&uc=1&id=D34BFC70CBE5E695!103",
       "url_diff" : "http://hiiiii.web.fc2.com/sabun/insane.html"
+   },
+   {
+      "artist" : "ETIA. feat. Jenga MV: わっふゑ",
+      "comment" : "BOFXV、ガチ押し、少し皿",
+      "level" : "0",
+      "md5" : "3e89ccd862b68def775438636c35f74e",
+      "proposer" : "けーちゃん",
+      "proposerLr2id" : 137190,
+      "sha256" : "95a0b692b6a93ac35f9d07aa3af3fbab59b0a0a26e5b4995cb3e244311419aad",
+      "submission" : 1150,
+      "title" : "XVOTO",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=127",
+      "url_diff" : ""
    },
    {
       "artist" : "uma vs. モリモリあつし obj.Lapis",
