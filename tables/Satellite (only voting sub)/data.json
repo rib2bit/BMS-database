@@ -13,8 +13,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03440",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "sak with.ごくごくプリン Movie: げ～むばか",
@@ -31,7 +31,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
+      "voteYes" : 10
    },
    {
       "artist" : "Qayo mov:AnD + sho_ishida",
@@ -48,7 +48,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
    },
    {
       "artist" : "otoshi.b BGI:はしたかさん obj.mute",
@@ -82,7 +82,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 10
+      "voteYes" : 11
    },
    {
       "artist" : "P4koo/つゆり花鈴/BlueArpeggio Illust GATTOMOTTO/Movie Ratif / obj:BAECON",
@@ -98,8 +98,8 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 4
    },
    {
       "artist" : "ETIA. feat. Jenga MV: わっふゑ",
@@ -115,8 +115,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 5
+      "votePercent" : "93.75",
+      "voteYes" : 7
    },
    {
       "artist" : "mattaku / obj:Lavos",
@@ -133,7 +133,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 9
    },
    {
       "artist" : "Lime",
@@ -149,7 +149,7 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "95.00",
       "voteYes" : 9
    },
    {
@@ -167,7 +167,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "秋月アキラ feat. 保堂 京",
@@ -181,10 +181,27 @@
       "title" : "黄昏のメロディア [ANOTHER7]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=325&event=127",
       "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "93.75",
-      "voteYes" : 7
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "85.00",
+      "voteYes" : 8
+   },
+   {
+      "artist" : "Sound piercer feat.DAZBEE NeLiME / CHERISH / fxxh / Feyrlin",
+      "comment" : "BOFXV 階段とラス殺,たの４",
+      "level" : "2",
+      "md5" : "6dd98afe070ed65cef6734cdeb813d02",
+      "proposer" : "Restia",
+      "proposerLr2id" : 115265,
+      "sha256" : "6c62f45d442064cc6b90c6f9b7f9e6678f7c5c28800c2d7e4e0a688a0b1c86d3",
+      "submission" : 1153,
+      "title" : "花たちに希望を [SP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=276&event=127",
+      "url_diff" : "",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "66.67",
+      "voteYes" : 2
    },
    {
       "artist" : "Is-m // あまね（COOL&CREATE） BGA:sveki hamalu",
@@ -198,9 +215,9 @@
       "title" : "虹夜パレッド -SP INSANE-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=388&event=123",
       "url_diff" : "",
-      "voteNeutral" : 3,
-      "voteNo" : 3,
-      "votePercent" : "68.18",
+      "voteNeutral" : 4,
+      "voteNo" : 4,
+      "votePercent" : "62.50",
       "voteYes" : 7
    },
    {
@@ -218,7 +235,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 10
+      "voteYes" : 12
    },
    {
       "artist" : "BBBB / (obj:Mr.Faine) BGI:romusann",
@@ -235,7 +252,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "Est/さ",
@@ -251,7 +268,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
    },
    {
       "artist" : "qfeileadh のあ / Maeus / obj:C4",
@@ -268,7 +285,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 8
    },
    {
       "artist" : "盟絵と詩乃 obj:SUZUKAZEΛ",
@@ -301,8 +318,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "85.71",
-      "voteYes" : 11
+      "votePercent" : "86.67",
+      "voteYes" : 12
    },
    {
       "artist" : "Simon Viklund Remixed by uet",
@@ -316,9 +333,9 @@
       "title" : "I Will Give You My All(uet Remix) [MAYHEM]",
       "url" : "https://venue.bmssearch.net/bmsshuin2/4",
       "url_diff" : "",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "82.14",
+      "voteNeutral" : 2,
+      "voteNo" : 2,
+      "votePercent" : "76.67",
       "voteYes" : 10
    },
    {
@@ -336,7 +353,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 11
+      "voteYes" : 12
    },
    {
       "artist" : "立秋 feat.ちょこ / 月作ちゃんでより",
@@ -352,8 +369,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03506",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 6
+      "votePercent" : "93.75",
+      "voteYes" : 7
    },
    {
       "artist" : "6yen obj.Restia",
@@ -369,7 +386,7 @@
       "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpylxhdCpriXMZoi673?e=GOcslK",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.91",
-      "voteYes" : 9
+      "votePercent" : "91.67",
+      "voteYes" : 10
    }
 ]
