@@ -14,7 +14,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "sak BGA:猫太郎 obj:BAECON",
@@ -34,6 +34,40 @@
       "voteYes" : 4
    },
    {
+      "artist" : "Dachs / И Movie : わっふゑ",
+      "comment" : "BOFXV ガチ押し",
+      "level" : "4",
+      "md5" : "390c99405cad2c49f91eeaa8153ba8c1",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "70ce249da21d439ce71f21793c153193c4072512e9974cc0bb82feee052e8c42",
+      "submission" : 1029,
+      "title" : "MOBILYS [nostalgie]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=24&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
+      "artist" : "Lime obj:Blocko",
+      "comment" : "BOFXV 乱打",
+      "level" : "0",
+      "md5" : "5580e8407abef96a303cba82a1eb605c",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "a43c7c7153586363e28ac2dca04d5b7b31b991c7212754ad61dc3ecd7e46f4a8",
+      "submission" : 1030,
+      "title" : "Aurora [Shine]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=330&event=127",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03509",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
       "artist" : "Judah BGA:Lucifer",
       "comment" : "st3の強化版、やばいわよ！",
       "level" : "5",
@@ -48,7 +82,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "nmk feat.橘花音 BGA:わっふゑ / obj:七海+И",
@@ -61,10 +95,27 @@
       "title" : "Electric Emotion -Negative Emotion-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=181&event=123",
       "url_diff" : "https://bms.parksulab.xyz",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "85.71",
+      "voteYes" : 6
+   },
+   {
+      "artist" : "Sound piercer feat.DAZBEE NeLiME / CHERISH / fxxh / Feyrlin / selene.",
+      "comment" : "0~1?",
+      "level" : "0",
+      "md5" : "99e5d4a4d83d6fb16a830c57361da49b",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "a5da986bfc302837af78cceb93f06459558fdd12a62ceb887bb2e439cbbbbb87",
+      "submission" : 1027,
+      "title" : "花たちに希望を -To the Future-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=276&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 7
    },
    {
       "artist" : "void / Gt. HAKKYOU-KUN nokir / И",
@@ -97,7 +148,24 @@
       "url_diff" : "http://sabosabun.tank.jp/",
       "voteNeutral" : 0,
       "voteNo" : 0,
+      "votePercent" : "92.86",
+      "voteYes" : 6
+   },
+   {
+      "artist" : "69 de 74 BGI:れおん",
+      "comment" : "1~2?",
+      "level" : "2",
+      "md5" : "d415aa79f5fbd7f1a1944146afd5f9af",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "7b66394648d6c5be637fb586c37d2300da133cd51ceb73f922e556a7e6fcfeea",
+      "submission" : 1028,
+      "title" : "マッドメチャクチャニズム [INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=127",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 2
    }
 ]

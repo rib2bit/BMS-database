@@ -1440,6 +1440,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "kanone obj:SUZUKAZEΛ",
+      "comment" : "乱打",
+      "level" : "5",
+      "md5" : "164efb64a46f8bd10b83c00b9436f5f8",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "8683b8805086c54db7df49445e1e6defa649f33b74fea67b603f25d25e071de6",
+      "submission" : 1154,
+      "title" : "Ground Z.E.R.O. [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=327&event=127",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html"
+   },
+   {
       "artist" : "Yunosuke obj.Lapis playing R6S",
       "level" : "2",
       "md5" : "1656187531c03dd7b4edcfb90de75e32",
@@ -16208,6 +16221,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Lokan",
+      "comment" : "BOFXV、乱打、少し皿",
+      "level" : "5",
+      "md5" : "ecbd20da05427e4fef8f3d3234f1c57b",
+      "proposer" : "realize",
+      "proposerLr2id" : 81440,
+      "sha256" : "a1206f42f70bbced526d6bc7510de4683bd29c4c1f32072b6a14ae564cc30431",
+      "submission" : 1156,
+      "title" : "introspect [KF7]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=211&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
+   },
+   {
       "artist" : "櫟井唯 / 岡野佳 / 制限",
       "level" : "1",
       "md5" : "ecd5b0b707442793384011b1713b5203",
@@ -17350,5 +17376,18 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Juggernaut. BGA:Cube Obj. DK",
+      "comment" : "BOFXV 乱打",
+      "level" : "2",
+      "md5" : "fffcdd50280873a3a6a8efb584b5454b",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "9b505317d2c3e480bcbf0a18aacb3f3d4e444f1584bef36cc84c8f9d3dd7d6f7",
+      "submission" : 1155,
+      "title" : "Apocaliptix [Doomsayer]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=233&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
    }
 ]

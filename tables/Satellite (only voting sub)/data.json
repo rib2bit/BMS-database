@@ -14,7 +14,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
+   },
+   {
+      "artist" : "kanone obj:SUZUKAZEΛ",
+      "comment" : "乱打",
+      "level" : "5",
+      "md5" : "164efb64a46f8bd10b83c00b9436f5f8",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "8683b8805086c54db7df49445e1e6defa649f33b74fea67b603f25d25e071de6",
+      "submission" : 1154,
+      "title" : "Ground Z.E.R.O. [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=327&event=127",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "50.00",
+      "voteYes" : 1
    },
    {
       "artist" : "sak with.ごくごくプリン Movie: げ～むばか",
@@ -31,7 +48,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 10
+      "voteYes" : 11
    },
    {
       "artist" : "Qayo mov:AnD + sho_ishida",
@@ -48,7 +65,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 10
    },
    {
       "artist" : "otoshi.b BGI:はしたかさん obj.mute",
@@ -65,7 +82,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 8
    },
    {
       "artist" : "Lime",
@@ -82,7 +99,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 11
+      "voteYes" : 13
    },
    {
       "artist" : "P4koo/つゆり花鈴/BlueArpeggio Illust GATTOMOTTO/Movie Ratif / obj:BAECON",
@@ -99,7 +116,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "ETIA. feat. Jenga MV: わっふゑ",
@@ -115,8 +132,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "93.75",
-      "voteYes" : 7
+      "votePercent" : "90.00",
+      "voteYes" : 8
    },
    {
       "artist" : "mattaku / obj:Lavos",
@@ -130,9 +147,9 @@
       "title" : "CHRONO TRIGGER ～世界変革の時～ (SP BLACK ANOTHER+)",
       "url" : "http://oldgamebms.blog33.fc2.com/blog-entry-16.html",
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "90.00",
       "voteYes" : 9
    },
    {
@@ -149,8 +166,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.00",
-      "voteYes" : 9
+      "votePercent" : "95.83",
+      "voteYes" : 11
    },
    {
       "artist" : "mommy",
@@ -167,7 +184,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 8
    },
    {
       "artist" : "秋月アキラ feat. 保堂 京",
@@ -183,8 +200,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "85.00",
-      "voteYes" : 8
+      "votePercent" : "87.50",
+      "voteYes" : 10
    },
    {
       "artist" : "Sound piercer feat.DAZBEE NeLiME / CHERISH / fxxh / Feyrlin",
@@ -198,10 +215,10 @@
       "title" : "花たちに希望を [SP ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=276&event=127",
       "url_diff" : "",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "66.67",
-      "voteYes" : 2
+      "voteNeutral" : 2,
+      "voteNo" : 2,
+      "votePercent" : "64.29",
+      "voteYes" : 4
    },
    {
       "artist" : "Is-m // あまね（COOL&CREATE） BGA:sveki hamalu",
@@ -217,8 +234,8 @@
       "url_diff" : "",
       "voteNeutral" : 4,
       "voteNo" : 4,
-      "votePercent" : "62.50",
-      "voteYes" : 7
+      "votePercent" : "65.38",
+      "voteYes" : 8
    },
    {
       "artist" : "nmk feat.橘花音 BGA:アカツキユウ",
@@ -251,8 +268,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 7
+      "votePercent" : "94.44",
+      "voteYes" : 8
    },
    {
       "artist" : "Est/さ",
@@ -267,7 +284,7 @@
       "url_diff" : "http://sabosabun.tank.jp/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "94.44",
       "voteYes" : 8
    },
    {
@@ -284,7 +301,7 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "94.44",
       "voteYes" : 8
    },
    {
@@ -316,10 +333,27 @@
       "title" : "Requiemotion [INSANE]",
       "url" : "https://venue.bmssearch.net/bmsshuin2/84",
       "url_diff" : "",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "86.67",
+      "voteNeutral" : 2,
+      "voteNo" : 2,
+      "votePercent" : "81.25",
       "voteYes" : 12
+   },
+   {
+      "artist" : "Lokan",
+      "comment" : "BOFXV、乱打、少し皿",
+      "level" : "5",
+      "md5" : "ecbd20da05427e4fef8f3d3234f1c57b",
+      "proposer" : "realize",
+      "proposerLr2id" : 81440,
+      "sha256" : "a1206f42f70bbced526d6bc7510de4683bd29c4c1f32072b6a14ae564cc30431",
+      "submission" : 1156,
+      "title" : "introspect [KF7]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=211&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "Simon Viklund Remixed by uet",
@@ -335,7 +369,7 @@
       "url_diff" : "",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "76.67",
+      "votePercent" : "75.00",
       "voteYes" : 10
    },
    {
@@ -369,8 +403,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03506",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "93.75",
-      "voteYes" : 7
+      "votePercent" : "90.00",
+      "voteYes" : 8
    },
    {
       "artist" : "6yen obj.Restia",
@@ -386,7 +420,24 @@
       "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpylxhdCpriXMZoi673?e=GOcslK",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 10
+      "votePercent" : "92.31",
+      "voteYes" : 11
+   },
+   {
+      "artist" : "Juggernaut. BGA:Cube Obj. DK",
+      "comment" : "BOFXV 乱打",
+      "level" : "2",
+      "md5" : "fffcdd50280873a3a6a8efb584b5454b",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "9b505317d2c3e480bcbf0a18aacb3f3d4e444f1584bef36cc84c8f9d3dd7d6f7",
+      "submission" : 1155,
+      "title" : "Apocaliptix [Doomsayer]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=233&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 4
    }
 ]
