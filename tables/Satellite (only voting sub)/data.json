@@ -30,8 +30,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "50.00",
-      "voteYes" : 1
+      "votePercent" : "75.00",
+      "voteYes" : 3
    },
    {
       "artist" : "sak with.ごくごくプリン Movie: げ～むばか",
@@ -48,7 +48,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 11
+      "voteYes" : 12
    },
    {
       "artist" : "Qayo mov:AnD + sho_ishida",
@@ -98,8 +98,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 13
+      "votePercent" : "96.67",
+      "voteYes" : 14
    },
    {
       "artist" : "P4koo/つゆり花鈴/BlueArpeggio Illust GATTOMOTTO/Movie Ratif / obj:BAECON",
@@ -132,8 +132,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 8
+      "votePercent" : "92.86",
+      "voteYes" : 12
    },
    {
       "artist" : "mattaku / obj:Lavos",
@@ -166,8 +166,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.83",
-      "voteYes" : 11
+      "votePercent" : "96.15",
+      "voteYes" : 12
    },
    {
       "artist" : "mommy",
@@ -184,7 +184,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 10
    },
    {
       "artist" : "秋月アキラ feat. 保堂 京",
@@ -200,8 +200,24 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "87.50",
-      "voteYes" : 10
+      "votePercent" : "89.29",
+      "voteYes" : 12
+   },
+   {
+      "artist" : "ROKINA / obj:sagoo BGA:REI-K",
+      "level" : "2",
+      "md5" : "6121bb44424847b74cb8aceab04bc79d",
+      "proposer" : "TA2YA.",
+      "proposerLr2id" : 64145,
+      "sha256" : "d68470dc4f55cf89574a29884fb642509ed4c0292009379ba4c4cde9c5304de6",
+      "submission" : 1160,
+      "title" : "キミとボクへの葬送歌 [sagANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=104&num=4",
+      "url_diff" : "https://onedrive.live.com/redir?resid=A972E7D14DCFAF93!110&authkey=!ADuXxYDZsf_L-I8&ithint=folder%2czip",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "Sound piercer feat.DAZBEE NeLiME / CHERISH / fxxh / Feyrlin",
@@ -217,8 +233,8 @@
       "url_diff" : "",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "64.29",
-      "voteYes" : 4
+      "votePercent" : "66.67",
+      "voteYes" : 5
    },
    {
       "artist" : "Is-m // あまね（COOL&CREATE） BGA:sveki hamalu",
@@ -268,8 +284,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "94.44",
-      "voteYes" : 8
+      "votePercent" : "95.00",
+      "voteYes" : 9
    },
    {
       "artist" : "Est/さ",
@@ -301,8 +317,25 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "94.44",
-      "voteYes" : 8
+      "votePercent" : "91.67",
+      "voteYes" : 10
+   },
+   {
+      "artist" : "しらいし",
+      "comment" : "1強～2弱？",
+      "level" : "2",
+      "md5" : "b54dd27fd708d8a5f291e118448d7d3f",
+      "proposer" : "TA2YA.",
+      "proposerLr2id" : 64145,
+      "sha256" : "9d3f2ee51d85919c1883c80d339b4ecfb9ab4a88b07bac8fafd404b7f8953827",
+      "submission" : 1159,
+      "title" : "殺戮の真千年女王 [HYPER]",
+      "url" : "http://goo.gl/yqGCNz",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "75.00",
+      "voteYes" : 1
    },
    {
       "artist" : "盟絵と詩乃 obj:SUZUKAZEΛ",
@@ -352,7 +385,7 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
+      "votePercent" : "75.00",
       "voteYes" : 1
    },
    {
@@ -370,7 +403,7 @@
       "voteNeutral" : 2,
       "voteNo" : 2,
       "votePercent" : "75.00",
-      "voteYes" : 10
+      "voteYes" : 11
    },
    {
       "artist" : "養土卵 光 / 浜 柔好 / selene.",
@@ -424,6 +457,40 @@
       "voteYes" : 11
    },
    {
+      "artist" : "nmk feat.橘花音 obj. w",
+      "comment" : "sl6~7",
+      "level" : "6",
+      "md5" : "fe2fbfefcdf57b56bb6aaa89d6ee11cc",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "00f0c854739a987d18f1879f04815b2cc12f5b13a333c0864ab9555deacc7509",
+      "submission" : 1157,
+      "title" : "Awaking Beat-From the next generation- [W]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=189&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
+      "artist" : "GUANA / LuCenT obj. Tristan97",
+      "comment" : "Beneath the waves, I find another day... (高TOTAL)",
+      "level" : "7",
+      "md5" : "ffd23e965436f9d6147cf872a8dec374",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "54d8b8c5dda491c78950ac6330f393cbba2d5d88523d075ff7ffe4431799c3a9",
+      "submission" : 1158,
+      "title" : "Another Day [Another Delay]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=82&event=127",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03696",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "Juggernaut. BGA:Cube Obj. DK",
       "comment" : "BOFXV 乱打",
       "level" : "2",
@@ -438,6 +505,6 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 7
    }
 ]

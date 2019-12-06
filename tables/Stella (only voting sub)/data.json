@@ -1,5 +1,22 @@
 [
    {
+      "artist" : "P4koo/つゆり花鈴/BlueArpeggio Illust GATTOMOTTO/Movie Ratif/obj:MiracleOnsen",
+      "comment" : "イージーは比較的簡単",
+      "level" : "1",
+      "md5" : "20d2dd0dfdb545a253a43cfa2f5aa7c9",
+      "proposer" : "Mallow♪",
+      "proposerLr2id" : 154796,
+      "sha256" : "8270aaade1b97a302967cc9831aa7d3894161ef096b9cadeffe91d44c72836aa",
+      "submission" : 1033,
+      "title" : "カタリスト [触媒]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=147&event=127",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03475",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "75.00",
+      "voteYes" : 1
+   },
+   {
       "artist" : "Tlahuizcalpantecuhtli / И BGA: Air",
       "comment" : "1~2?",
       "level" : "2",
@@ -48,7 +65,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "Lime obj:Blocko",
@@ -65,7 +82,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
    },
    {
       "artist" : "Judah BGA:Lucifer",
@@ -114,7 +131,7 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "93.75",
       "voteYes" : 7
    },
    {
@@ -152,6 +169,23 @@
       "voteYes" : 6
    },
    {
+      "artist" : "黒皇帝 Movie: inukoro / Illust: Tonosuke / Lyrics: Dolphin",
+      "comment" : "Loves me, loves me not. (st1~2)",
+      "level" : "2",
+      "md5" : "ce1e9fa564c403eef626433a1c836f88",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "1bb8b6a60c35bebd75fb18eca610c4555909c01529ce1e340a62c1d42ba2405b",
+      "submission" : 1031,
+      "title" : "alicemourn [INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=127",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "69 de 74 BGI:れおん",
       "comment" : "1~2?",
       "level" : "2",
@@ -162,6 +196,23 @@
       "submission" : 1028,
       "title" : "マッドメチャクチャニズム [INSANE]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=127",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
+      "artist" : "しらいし obj:C4",
+      "comment" : "st3~4",
+      "level" : "3",
+      "md5" : "da0019c09d434d470e73c91703c9454f",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "7bfa66a17bebb287d636676eca9084a195c14417bf5db63e1289f1bd413b5949",
+      "submission" : 1032,
+      "title" : "XIX [SP INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=132&event=127",
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
