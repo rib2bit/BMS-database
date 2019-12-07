@@ -14,7 +14,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "kanone obj:SUZUKAZEΛ",
@@ -30,8 +30,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 3
+      "votePercent" : "83.33",
+      "voteYes" : 5
    },
    {
       "artist" : "sak with.ごくごくプリン Movie: げ～むばか",
@@ -48,7 +48,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 12
+      "voteYes" : 13
    },
    {
       "artist" : "Qayo mov:AnD + sho_ishida",
@@ -65,7 +65,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 10
+      "voteYes" : 11
    },
    {
       "artist" : "otoshi.b BGI:はしたかさん obj.mute",
@@ -98,8 +98,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "96.67",
-      "voteYes" : 14
+      "votePercent" : "97.06",
+      "voteYes" : 16
    },
    {
       "artist" : "P4koo/つゆり花鈴/BlueArpeggio Illust GATTOMOTTO/Movie Ratif / obj:BAECON",
@@ -116,7 +116,23 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 7
+   },
+   {
+      "artist" : "ROKINA / C4 vs selene.",
+      "level" : "12",
+      "md5" : "3ca65d64697a61e3a0d705ed05696c22",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "fd3c21a879a4ff90d716aef0d9a532a3ba88c0871894d4504ae1615c0b108b37",
+      "submission" : 1161,
+      "title" : "emergency call: Xeno [Unknown Encountered]",
+      "url" : "https://onedrive.live.com/?id=A0C4279F1B037701%21351&cid=A0C4279F1B037701",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02936",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "ETIA. feat. Jenga MV: わっふゑ",
@@ -130,9 +146,9 @@
       "title" : "XVOTO",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=127",
       "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "92.86",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "86.67",
       "voteYes" : 12
    },
    {
@@ -153,6 +169,22 @@
       "voteYes" : 9
    },
    {
+      "artist" : "Junk",
+      "level" : "1",
+      "md5" : "4955417296bf67e6eab92cb047de5f7d",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "9964ec73e46d56b54f12c697b5ea18d1602cde80adf40e0a3c1acd7291918cc7",
+      "submission" : 1162,
+      "title" : "Life is PIANO [Etude]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=375&event=123",
+      "url_diff" : "https://bms.parksulab.xyz",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "83.33",
+      "voteYes" : 2
+   },
+   {
       "artist" : "Lime",
       "comment" : "BOFXV、乱打、微縦連",
       "level" : "2",
@@ -166,8 +198,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "96.15",
-      "voteYes" : 12
+      "votePercent" : "96.43",
+      "voteYes" : 13
    },
    {
       "artist" : "mommy",
@@ -184,7 +216,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 10
+      "voteYes" : 11
+   },
+   {
+      "artist" : "Aliesrite* (Ym1024 feat. lamie*) obj:monaka",
+      "comment" : "地力系乱打",
+      "level" : "1",
+      "md5" : "4dc22308eb254f088ead286be4acecde",
+      "proposer" : "STANK!",
+      "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
+      "sha256" : "39922362c8cc203a860802928ea27f0d8551a6da4f86871195517c544f303fa8",
+      "submission" : 1164,
+      "title" : "Second Synthesis [7key Extra]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=278&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "秋月アキラ feat. 保堂 京",
@@ -200,8 +249,25 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "89.29",
-      "voteYes" : 12
+      "votePercent" : "90.63",
+      "voteYes" : 14
+   },
+   {
+      "artist" : "A4paper mov:出前　obj:BANZAI",
+      "comment" : "BOFXV、皿、トリル、LN",
+      "level" : "1",
+      "md5" : "55a1b882ab4632e534fcfb2e9f59f00f",
+      "proposer" : "STANK!",
+      "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
+      "sha256" : "e5fc7996a86bf0cb949d4c5bc213d1fae1eaf46f440562526d9ae0c724e7aa9f",
+      "submission" : 1165,
+      "title" : "Nextreme Generation [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=201&event=127",
+      "url_diff" : "",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "50.00",
+      "voteYes" : 1
    },
    {
       "artist" : "ROKINA / obj:sagoo BGA:REI-K",
@@ -217,7 +283,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 5
    },
    {
       "artist" : "Sound piercer feat.DAZBEE NeLiME / CHERISH / fxxh / Feyrlin",
@@ -231,9 +297,9 @@
       "title" : "花たちに希望を [SP ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=276&event=127",
       "url_diff" : "",
-      "voteNeutral" : 2,
-      "voteNo" : 2,
-      "votePercent" : "66.67",
+      "voteNeutral" : 3,
+      "voteNo" : 3,
+      "votePercent" : "60.00",
       "voteYes" : 5
    },
    {
@@ -284,8 +350,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.00",
-      "voteYes" : 9
+      "votePercent" : "95.45",
+      "voteYes" : 10
    },
    {
       "artist" : "Est/さ",
@@ -317,8 +383,25 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 10
+      "votePercent" : "92.31",
+      "voteYes" : 11
+   },
+   {
+      "artist" : "-45",
+      "comment" : "１４の下位交換であり同梱譜面 ★4~5ぐらい",
+      "level" : "3",
+      "md5" : "ac8db2d116a1879bda19f6f9b0fc9d25",
+      "proposer" : "Restia",
+      "proposerLr2id" : 115265,
+      "sha256" : "8aa6bb5c4e467b9051d0fdb9fe408cc21c74077f3fb7f05094c0633c72a14cd2",
+      "submission" : 1163,
+      "title" : "The ArcticLight",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=313&event=104",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 4
    },
    {
       "artist" : "しらいし",
@@ -332,10 +415,10 @@
       "title" : "殺戮の真千年女王 [HYPER]",
       "url" : "http://goo.gl/yqGCNz",
       "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "75.00",
-      "voteYes" : 1
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "60.00",
+      "voteYes" : 2
    },
    {
       "artist" : "盟絵と詩乃 obj:SUZUKAZEΛ",
@@ -368,8 +451,8 @@
       "url_diff" : "",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "81.25",
-      "voteYes" : 12
+      "votePercent" : "82.35",
+      "voteYes" : 13
    },
    {
       "artist" : "Lokan",
@@ -385,8 +468,8 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "75.00",
-      "voteYes" : 1
+      "votePercent" : "87.50",
+      "voteYes" : 3
    },
    {
       "artist" : "Simon Viklund Remixed by uet",
@@ -400,9 +483,9 @@
       "title" : "I Will Give You My All(uet Remix) [MAYHEM]",
       "url" : "https://venue.bmssearch.net/bmsshuin2/4",
       "url_diff" : "",
-      "voteNeutral" : 2,
-      "voteNo" : 2,
-      "votePercent" : "75.00",
+      "voteNeutral" : 3,
+      "voteNo" : 3,
+      "votePercent" : "71.05",
       "voteYes" : 11
    },
    {
@@ -436,8 +519,24 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03506",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 8
+      "votePercent" : "91.67",
+      "voteYes" : 10
+   },
+   {
+      "artist" : "TKR feat.singo BGI:高松 / Obj.Triforce",
+      "level" : "4",
+      "md5" : "f7b8ef3c476bf2974e84e2798ed4633e",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "0fd9f8342014b4ee38eff21b8c1b53ac4d6bb24d51a56d4bf6a5858263d38cd6",
+      "submission" : 1166,
+      "title" : "oo i s oo - Perfection - [IDENTITY]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=545&event=110",
+      "url_diff" : "https://www.dropbox.com/s/4w88t40d1w6s2wn/ooisoo_triforce.bme?dl=0",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "6yen obj.Restia",
@@ -470,8 +569,8 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "GUANA / LuCenT obj. Tristan97",
@@ -487,8 +586,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03696",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "Juggernaut. BGA:Cube Obj. DK",
@@ -505,6 +604,6 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 10
    }
 ]
