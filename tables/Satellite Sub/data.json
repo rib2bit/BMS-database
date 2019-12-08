@@ -6211,6 +6211,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "canonball mukai obj:1008",
+      "comment" : "秒間30Noteの物量",
+      "level" : "10",
+      "md5" : "5a83440834244c025689dc463a08437f",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "b93f82338070e8cc7253bfc91be366a3f0bd4f5ee4aa690ff044e46e4b708eb3",
+      "submission" : 1167,
+      "title" : "island dream [lunatic]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=123&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02246"
+   },
+   {
       "artist" : "wa. vs ETIA. / obj:夢瑠 deadblue238",
       "level" : "12",
       "md5" : "5aa0517a13933707497024a8bb54100c",
