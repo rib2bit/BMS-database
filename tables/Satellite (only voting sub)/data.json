@@ -14,7 +14,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 11
+      "voteYes" : 12
    },
    {
       "artist" : "kanone obj:SUZUKAZEΛ",
@@ -30,8 +30,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "85.71",
-      "voteYes" : 6
+      "votePercent" : "87.50",
+      "voteYes" : 7
    },
    {
       "artist" : "sak with.ごくごくプリン Movie: げ～むばか",
@@ -48,7 +48,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 14
+      "voteYes" : 15
    },
    {
       "artist" : "Qayo mov:AnD + sho_ishida",
@@ -82,7 +82,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 10
+      "voteYes" : 11
    },
    {
       "artist" : "Lime",
@@ -98,8 +98,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "97.22",
-      "voteYes" : 17
+      "votePercent" : "97.37",
+      "voteYes" : 18
    },
    {
       "artist" : "P4koo/つゆり花鈴/BlueArpeggio Illust GATTOMOTTO/Movie Ratif / obj:BAECON",
@@ -116,7 +116,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 11
+      "voteYes" : 12
    },
    {
       "artist" : "ROKINA / C4 vs selene.",
@@ -216,7 +216,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 11
+      "voteYes" : 13
    },
    {
       "artist" : "Aliesrite* (Ym1024 feat. lamie*) obj:monaka",
@@ -233,7 +233,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
    },
    {
       "artist" : "秋月アキラ feat. 保堂 京",
@@ -264,9 +264,9 @@
       "title" : "Nextreme Generation [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=201&event=127",
       "url_diff" : "",
-      "voteNeutral" : 4,
-      "voteNo" : 4,
-      "votePercent" : "50.00",
+      "voteNeutral" : 5,
+      "voteNo" : 5,
+      "votePercent" : "45.00",
       "voteYes" : 4
    },
    {
@@ -284,7 +284,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 7
    },
    {
       "artist" : "ROKINA / obj:sagoo BGA:REI-K",
@@ -365,10 +365,10 @@
       "title" : "ruby",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=70&event=127",
       "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "80.00",
+      "voteYes" : 4
    },
    {
       "artist" : "BBBB / (obj:Mr.Faine) BGI:romusann",
@@ -384,8 +384,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "96.15",
-      "voteYes" : 12
+      "votePercent" : "96.43",
+      "voteYes" : 13
    },
    {
       "artist" : "Est/さ",
@@ -417,8 +417,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "92.31",
-      "voteYes" : 11
+      "votePercent" : "92.86",
+      "voteYes" : 12
    },
    {
       "artist" : "-45",
@@ -434,8 +434,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 5
+      "votePercent" : "93.75",
+      "voteYes" : 7
    },
    {
       "artist" : "しらいし",
@@ -487,6 +487,23 @@
       "voteNo" : 2,
       "votePercent" : "82.35",
       "voteYes" : 13
+   },
+   {
+      "artist" : "Snack",
+      "comment" : "☆11強？皿複合 高速乱打",
+      "level" : "0",
+      "md5" : "e50d342e7ba934b97080a5b070cca22b",
+      "proposer" : "姫川友紀",
+      "proposerLr2id" : 125835,
+      "sha256" : "c7209a6fc90a1465c099041c6b0b830fdc3abbe0d3e57eb0263aec0872c14ac9",
+      "submission" : 1169,
+      "title" : "Developers, Developers, Developers, Developers! [SP ANOTHER]",
+      "url" : "https://k-bms.com/party_pabat/party2015.jsp?board_num=15&num=16&order=reg&odtype=a",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "Lokan",
@@ -570,7 +587,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "6yen obj.Restia",
@@ -586,8 +603,8 @@
       "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpylxhdCpriXMZoi673?e=GOcslK",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "92.31",
-      "voteYes" : 11
+      "votePercent" : "92.86",
+      "voteYes" : 12
    },
    {
       "artist" : "nmk feat.橘花音 obj. w",
@@ -604,7 +621,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
    },
    {
       "artist" : "GUANA / LuCenT obj. Tristan97",
@@ -621,7 +638,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "Juggernaut. BGA:Cube Obj. DK",
