@@ -81,22 +81,6 @@
    },
    {
       "adddate" : "2019/11/03",
-      "artist" : "",
-      "comment" : "",
-      "folder" : "LEVEL 12~",
-      "level" : "12~",
-      "lr2_bmsid" : null,
-      "md5" : "00000000000000000000000000000000",
-      "name_diff" : null,
-      "org_level" : null,
-      "org_md5" : "",
-      "org_md5s" : [],
-      "title" : "",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
-      "adddate" : "2019/11/03",
       "artist" : "Yamajet obj:YOURI",
       "comment" : "ネタ差分　最後ゲー (^^) 秋田を偶に忘れてしまう",
       "folder" : "LEVEL ?",
@@ -415,6 +399,30 @@
       "title" : "エピトゥリカの祀 [PIETHER]",
       "url" : "http://web.archive.org/web/20120415195317/http://sasakure.bms.ms/bof2008/epitorica_mq.rar",
       "url_diff" : "https://www.dropbox.com/s/c8k0cownzwhqh2z/%E3%82%A8%E3%83%94%E3%83%88%E3%82%A5%E3%83%AA%E3%82%AB%E3%81%AE%E7%A5%80_PT.zip?dl=1"
+   },
+   {
+      "adddate" : "2019/12/13",
+      "artist" : "kooridori BGA:cosh obj:YOURI",
+      "comment" : "同梱INSANEから作成　LN、皿複合、物量乱打が入れ混じってる譜面です　自分のための譜面",
+      "folder" : "LEVEL 12~",
+      "level" : "12~",
+      "lr2_bmsid" : "281074",
+      "md5" : "d7868f638de86c2d7a93486e62d02e9a",
+      "name_diff" : "DOWNLOAD",
+      "org_level" : 21,
+      "org_md5" : "6d55cb9e0667a504cd7a08202adc951c",
+      "org_md5s" : [
+         "6d55cb9e0667a504cd7a08202adc951c",
+         "553798cec4f16303806342d9b18068df",
+         "a8bed2464c05fe391e5f788effa049ce",
+         "8c86a06e0fd2a9fc940f6f4340ffcac9",
+         "661a07d98f252453750704d4dd0bb9ae",
+         "08d1ddfe56f94dc4e8dd34e3806b4c5e",
+         "d7868f638de86c2d7a93486e62d02e9a"
+      ],
+      "title" : "stay glitter [PIETHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=115&event=127",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03737"
    },
    {
       "adddate" : "2019/11/03",

@@ -179,9 +179,9 @@
       "title" : "Life is PIANO [Etude]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=375&event=123",
       "url_diff" : "https://bms.parksulab.xyz",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "83.33",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "75.00",
       "voteYes" : 6
    },
    {
@@ -233,7 +233,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 9
    },
    {
       "artist" : "秋月アキラ feat. 保堂 京",
@@ -264,9 +264,9 @@
       "title" : "Nextreme Generation [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=201&event=127",
       "url_diff" : "",
-      "voteNeutral" : 5,
-      "voteNo" : 5,
-      "votePercent" : "45.45",
+      "voteNeutral" : 6,
+      "voteNo" : 6,
+      "votePercent" : "41.67",
       "voteYes" : 4
    },
    {
@@ -367,8 +367,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "80.00",
-      "voteYes" : 4
+      "votePercent" : "83.33",
+      "voteYes" : 5
    },
    {
       "artist" : "BBBB / (obj:Mr.Faine) BGI:romusann",
@@ -503,7 +503,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 5
    },
    {
       "artist" : "Snack",
@@ -517,10 +517,10 @@
       "title" : "Developers, Developers, Developers, Developers! [SP ANOTHER]",
       "url" : "https://k-bms.com/party_pabat/party2015.jsp?board_num=15&num=16&order=reg&odtype=a",
       "url_diff" : "",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 3
+      "voteNeutral" : 2,
+      "voteNo" : 2,
+      "votePercent" : "66.67",
+      "voteYes" : 4
    },
    {
       "artist" : "Lokan",
