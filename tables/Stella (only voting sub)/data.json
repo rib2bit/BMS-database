@@ -1,5 +1,22 @@
 [
    {
+      "artist" : "xi / air",
+      "comment" : "st8の餡蜜差分",
+      "level" : "4",
+      "md5" : "00bf71a60bf10e7eb7de2a252ba09b2b",
+      "proposer" : "ナナメ",
+      "proposerLr2id" : 1534,
+      "sha256" : "03580d10a79158d9954aa1e368631dbd092708bc070927f60064e4b302154a52",
+      "submission" : 1034,
+      "title" : "FREEDOM DiVE [FOUR DIMENSIONS]餡蜜",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=50",
+      "url_diff" : "https://ux.getuploader.com/anmitu/download/23",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "P4koo/つゆり花鈴/BlueArpeggio Illust GATTOMOTTO/Movie Ratif/obj:MiracleOnsen",
       "comment" : "イージーは比較的簡単",
       "level" : "1",
@@ -163,9 +180,9 @@
       "title" : "午後のこいしちゃん [EX]",
       "url" : "http://yaruki0.sakura.ne.jp/event/ondanyugi5/impression.cgi?no=5",
       "url_diff" : "http://sabosabun.tank.jp/",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "93.75",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "83.33",
       "voteYes" : 7
    },
    {
