@@ -2472,7 +2472,7 @@
    },
    {
       "artist" : "秋山 澪 obj.Mallow♪",
-      "level" : "8",
+      "level" : "9",
       "md5" : "24cc4e6f36cd17f79ec4f34a22baf924",
       "proposer" : "TA2YA.",
       "proposerLr2id" : 64145,
@@ -4074,7 +4074,7 @@
    {
       "artist" : "ETIA. vs MM Sequence",
       "comment" : "",
-      "level" : "10",
+      "level" : "9",
       "md5" : "3f874970e3824730b7b4d04d0271c360",
       "proposer" : "なつ",
       "proposerLr2id" : 65517,
@@ -4812,7 +4812,7 @@
    },
    {
       "artist" : "Junk",
-      "level" : "1",
+      "level" : "2",
       "md5" : "4955417296bf67e6eab92cb047de5f7d",
       "proposer" : "파이어",
       "proposerLr2id" : 7290,
@@ -5471,6 +5471,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "litmus* as Ester movie:なおや / obj:SUZUKAZEΛ vs litmus*",
+      "comment" : "BOFXV, 乱打, 高TOTAL",
+      "level" : "0",
+      "md5" : "500975f48ee67417d2c223bc18b80d8d",
+      "proposer" : "DK",
+      "proposerLr2id" : 46697,
+      "sha256" : "ccbd161bb4f8140ec19566f68c7403c0256c9dd09f60afb813ca645bcf7b4b35",
+      "submission" : 1171,
+      "title" : "Krave [Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=76&event=127",
+      "url_diff" : ""
    },
    {
       "artist" : "NEKI←T / obj.siokaze",
@@ -12325,7 +12338,7 @@
    {
       "artist" : "しらいし",
       "comment" : "1強～2弱？",
-      "level" : "2",
+      "level" : "3",
       "md5" : "b54dd27fd708d8a5f291e118448d7d3f",
       "proposer" : "TA2YA.",
       "proposerLr2id" : 64145,
@@ -14713,7 +14726,7 @@
    {
       "artist" : "Irish Kappa / selene. BGA: Rinser",
       "comment" : "高速",
-      "level" : "9",
+      "level" : "8",
       "md5" : "d5d29b974ac89d7a6c75e7e5ac9578fc",
       "proposer" : "matsu",
       "proposerLr2id" : 127851,
@@ -15697,7 +15710,7 @@
    },
    {
       "artist" : "Yu^ta",
-      "level" : "6",
+      "level" : "7",
       "md5" : "e318552be7647f44014dea14989af536",
       "proposer" : "rat",
       "proposerLr2id" : 83454,

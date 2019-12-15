@@ -1211,7 +1211,7 @@
       "title" : "まゆすき ~Deep Inside~"
    },
    {
-      "artist" : "Celas / obj:Chrono *FLIP LR.MIR or FLIP LR.RAN",
+      "artist" : "Celas / obj:Chrono *FLIP L.MIR or FLIP LR.RAN",
       "comment" : "GAME MUSIC",
       "level" : "★6",
       "md5" : "06adee9e7f05329d8c3fd1fe97dea41d",
@@ -7441,7 +7441,7 @@
       "title" : "Quad Queens [SP to DP]"
    },
    {
-      "artist" : "姉ヶ崎 寧々 / obj:綾 BGA : photonskyto  *FLIP",
+      "artist" : "姉ヶ崎 寧々 / obj:綾 BGA : photonskyto",
       "comment" : "FULL ON",
       "level" : "★4",
       "md5" : "2bd5e1b10bb11961f5c0ea42c8064605",
@@ -8785,7 +8785,7 @@
       "title" : "Meteor Lights [DP RedMeteor]"
    },
    {
-      "artist" : "xi obj:ucc *FLIP L.MIRROR",
+      "artist" : "xi obj:ucc *FLIP L.MIR or FLIP R.MIR",
       "comment" : "HAPPY HARDCORE",
       "level" : "★9",
       "md5" : "344270b1434da215f09d837cf282ca5c",
@@ -9968,7 +9968,7 @@
       "title" : "sunrise sky wave (ANOTHER14)"
    },
    {
-      "artist" : "Symphonian / Personality *FLIP L.RAN or L.MIR",
+      "artist" : "Symphonian / Personality *FLIP L.RAN or LR.MIR",
       "comment" : "Full On",
       "level" : "★6",
       "md5" : "3be9f48693f961db3c1db478910a5f86",
@@ -12320,7 +12320,7 @@
       "title" : "So true...(Club mix) [A14]"
    },
    {
-      "artist" : "NEKI←T  obj ; N *FLIP R.MIRROR",
+      "artist" : "NEKI←T  obj ; N *FLIP LR.MIRROR",
       "comment" : "HAPPY HARDCORE",
       "level" : "★2",
       "md5" : "4a5171b03c98fabe4d919ec16264c11b",
@@ -15547,7 +15547,7 @@
       "title" : "ＤＱⅢ　Battle -Hyper14-"
    },
    {
-      "artist" : "Lime / Roaring Flame *FLIP",
+      "artist" : "Lime / Roaring Flame",
       "comment" : "Hardcore",
       "level" : "★6",
       "md5" : "5d38da901cd742b233c85769f89844ad",
@@ -15834,7 +15834,7 @@
       "title" : "La notti bianche [LNA14]"
    },
    {
-      "artist" : "* (Asterisk) 前川みく×多田李衣菜  *正規 or FLIP or L.MIR",
+      "artist" : "* (Asterisk) 前川みく×多田李衣菜  *FLIP L.MIR",
       "comment" : "HOUSE",
       "level" : "★3",
       "md5" : "5eec61334ada9b17e6f9680283e312d8",
@@ -22731,7 +22731,7 @@
    {
       "artist" : "Ras obj:Hersh",
       "comment" : "Tech electro",
-      "level" : "★7",
+      "level" : "★6",
       "md5" : "863731609949991af64c0a42f5d0a124",
       "title" : "STAGER [Infinity STAGE]"
    },
@@ -23506,7 +23506,7 @@
       "title" : "AVALON [SHD]"
    },
    {
-      "artist" : "Team:SASAKURATION obj:ucc *L.MIR or FLIP LR.MIR or FLIP L.RAN R.MIR",
+      "artist" : "Team:SASAKURATION obj:ucc *FLIP L.RAN R.MIR",
       "comment" : "WORLDTRONICA",
       "level" : "★3",
       "md5" : "8a510d01be7147857b781f5d1b98a4d6",
@@ -24878,7 +24878,7 @@
       "title" : "地獄の業火で焼肉大会！？ [双・亜那坐阿]"
    },
    {
-      "artist" : "ZUN Remixed by くっちー Respect for L.E.D.-G vs Ryu☆ Illust:きさ Obj:ucc  *FLIP L.MIR or R.MIR or LR.RAN",
+      "artist" : "ZUN Remixed by くっちー Respect for L.E.D.-G vs Ryu☆ Illust:きさ Obj:ucc  *FLIP L.RAN",
       "comment" : "TRANCE CORE",
       "level" : "★7",
       "md5" : "91a65fd7aae9ddf40f4aab75e325ab39",
@@ -26782,7 +26782,7 @@
       "title" : "Hell Fire -さとり様（。∀゜）ぁ-"
    },
    {
-      "artist" : "xi (obj:k) *FLIP R.MIR or R.MIR",
+      "artist" : "xi (obj:k) *R.MIRROR",
       "comment" : "HAPPY HARDCORE",
       "level" : "10",
       "md5" : "9cccf22b9610bf67b2d9ad3955e89c2e",
@@ -32662,7 +32662,7 @@
       "title" : "Red Cave  [All Key]"
    },
    {
-      "artist" : "ridis(obj:A-4)",
+      "artist" : "ridis(obj:A-4) *FLIP",
       "comment" : "intelligence",
       "level" : "★2",
       "md5" : "be0b77021d030e2eb3ffd93f97d444ee",
@@ -40096,7 +40096,7 @@
       "title" : "Arxisia"
    },
    {
-      "artist" : "syatten *MINBPM",
+      "artist" : "syatten *MINBPM 653/365",
       "comment" : "Cosmic / Dutch Trance",
       "level" : "★2",
       "md5" : "ec913f21f5310992512896cfca0bab11",
@@ -42686,7 +42686,7 @@
       "title" : "Tiro finale [DP DELAY]"
    },
    {
-      "artist" : "くっちー / あっきー obj:ucc *FLIP or FLIP L.MIRROR",
+      "artist" : "くっちー / あっきー obj:ucc *FLIP L.MIRROR",
       "comment" : "PIANO CONCERTO",
       "level" : "★7",
       "md5" : "fbb1b8e6d46e801efcb4ae55c9510ac4",

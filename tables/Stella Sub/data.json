@@ -1796,7 +1796,7 @@
    {
       "artist" : "P4koo/つゆり花鈴/BlueArpeggio Illust GATTOMOTTO/Movie Ratif/obj:MiracleOnsen",
       "comment" : "イージーは比較的簡単",
-      "level" : "1",
+      "level" : "0",
       "md5" : "20d2dd0dfdb545a253a43cfa2f5aa7c9",
       "proposer" : "Mallow♪",
       "proposerLr2id" : 154796,
@@ -1804,7 +1804,7 @@
       "submission" : 1033,
       "title" : "カタリスト [触媒]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=147&event=127",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03475"
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
    },
    {
       "artist" : "Remixed by MSMcorp. obj.hex",
@@ -5176,6 +5176,19 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03242"
    },
    {
+      "artist" : "LisicA / movie : ルゼ(LuzeriA) / illust : Orphee obj:Mallow♪ + 七海",
+      "comment" : "物量、ディレイ",
+      "level" : "3",
+      "md5" : "543b86fd4db6e129123387331dd3b7fd",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "a770f7028800c9d7f1653d1f570e94a1b511a77ace6b22dab4a905067a651075",
+      "submission" : 1036,
+      "title" : "テウメッサ -Violence-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
+   },
+   {
       "artist" : "Yu^ta / obj:Monsta",
       "comment" : "物量",
       "level" : "4",
@@ -5759,7 +5772,7 @@
    {
       "artist" : "Yu^ta /obj.amirn",
       "comment" : "up7162",
-      "level" : "0",
+      "level" : "1",
       "md5" : "5ed1e7aab6eee4e30731365e0e4a601e",
       "proposer" : "qtp13",
       "sha256" : "1ca58768ae73193844505d9427575f2a722448094283ff236c8d52991735b8c5",
@@ -7444,7 +7457,7 @@
    {
       "artist" : "MA$AKI /obj.z",
       "comment" : "st7,st4の弱体版",
-      "level" : "0",
+      "level" : "1",
       "md5" : "7c5d9a794a1450d0cdd77c5d37f56295",
       "proposer" : "ずこ",
       "proposerLr2id" : 55971,
@@ -14074,6 +14087,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "鈎兎(KagiUsagi) obj.fhyu",
+      "comment" : "序盤難、後半難",
+      "level" : "3",
+      "md5" : "ee4670767aa78182058bb45feca59b02",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "284817e5e90c471336092671eacda808aaaaba6fc3b5b8d5bc0c0c955ef081c6",
+      "submission" : 1035,
+      "title" : "Physical damage -Past Scars- [Restitution]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=88&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
    },
    {
       "artist" : "Is-m obj:firi. BGA:coda obj:firi.",
