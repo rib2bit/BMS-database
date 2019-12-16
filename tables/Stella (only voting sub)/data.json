@@ -31,7 +31,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "sak BGA:猫太郎 obj:BAECON",
@@ -81,8 +81,25 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
+      "artist" : "ぽよみの暴力団",
+      "comment" : "5~6?",
+      "level" : "6",
+      "md5" : "b8f0653addfa82e730370f1955469724",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "65849bf00f53ad45d4bce41363724b7afdb6dd0d9cebd8599b8386560125b5c1",
+      "submission" : 1037,
+      "title" : "Little Prayer (ぽよを見るひと) [魂が飛び出る辛さ]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=116&event=127",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "黒皇帝 Movie: inukoro / Illust: Tonosuke / Lyrics: Dolphin",
