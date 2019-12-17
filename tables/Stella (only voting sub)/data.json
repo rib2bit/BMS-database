@@ -64,7 +64,7 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "90.00",
       "voteYes" : 4
    },
    {
@@ -82,7 +82,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
+   },
+   {
+      "artist" : "ASSASSIN",
+      "comment" : "TOTAL値未表記 。実TOTAL値は628程度(LR2)",
+      "level" : "4",
+      "md5" : "755faa09c5b8fdd1798bf470ac6e32cb",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "0daf621940c2c55ac77a359a892325c408bd74d0bd82324dc0bdd7c48c8413c4",
+      "submission" : 1038,
+      "title" : "The Angel That Announces Death",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=75&event=127",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "ぽよみの暴力団",
@@ -133,7 +150,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "しらいし obj:C4",
@@ -150,7 +167,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "鈎兎(KagiUsagi) obj.fhyu",
@@ -166,7 +183,7 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    }
 ]
