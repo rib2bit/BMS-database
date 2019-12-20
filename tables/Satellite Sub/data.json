@@ -3632,6 +3632,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Sakamiya feat.一花 mov:tolz img:ttv",
+      "comment" : "sl11翼の折れたみたいな",
+      "level" : "10",
+      "md5" : "3769518692a7a8acea1caa9b9aed756b",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "319db32c2e65a1b1ee98a4180f0b728c141e73263e39a30bbc24cbf2fbe9373d",
+      "submission" : 1180,
+      "title" : "煉情ミスティフィリア [Purgatory]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=127",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Hate / obj:C4 BGA : S.P.S.B.",
       "comment" : "ずれガチ押し ちなみにMAX-FIXが利きます",
       "level" : "12",
@@ -14093,6 +14106,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "srask",
+      "comment" : "sl0~2",
+      "level" : "1",
+      "md5" : "c96baabe8d2c62f14ddf75ac18c454bb",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "bb443a6c00be20590f9b88873ddc7b9583868017cef0d3124d1dd16f80d91088",
+      "submission" : 1181,
+      "title" : "αMe:TRiC -Another-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=173&event=127",
+      "url_diff" : ""
    },
    {
       "artist" : "anubasu-anubasu obj.B_K",

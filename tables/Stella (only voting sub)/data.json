@@ -102,6 +102,23 @@
       "voteYes" : 1
    },
    {
+      "artist" : "BilliumMoto",
+      "comment" : "▼24? (st4~5?)",
+      "level" : "4",
+      "md5" : "7b6ae77ea7a5c01b4ee0abd8f9cb9c16",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "b27b41c595a69935994895099f3d35308665f52f47e372b58f5c4a1528db0e2b",
+      "submission" : 1039,
+      "title" : "ruby",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=70&event=127",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
       "artist" : "ぽよみの暴力団",
       "comment" : "5~6?",
       "level" : "6",
