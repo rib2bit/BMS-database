@@ -17,6 +17,23 @@
       "voteYes" : 9
    },
    {
+      "artist" : "wa. / obj. Limite",
+      "comment" : "前兆",
+      "level" : "1",
+      "md5" : "33574e24420079080a85c41ebf80a51c",
+      "proposer" : "Fendou",
+      "proposerLr2id" : 128388,
+      "sha256" : "4cbab2c9257a3f8639d85dd5c667ac81c5f4047cc892c37802cf39489d971ffb",
+      "submission" : 1182,
+      "title" : "事象の地平 [事件の前兆]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=320&event=88",
+      "url_diff" : "https://1drv.ms/x/s!Aoi5esJwIYCChk0BTx_U1KkswzSf",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "66.67",
+      "voteYes" : 2
+   },
+   {
       "artist" : "Miloudi / movie: Ratif obj.onzonium",
       "comment" : "BOFXV、NORMAL判定、乱打",
       "level" : "1",
@@ -31,7 +48,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "Sakamiya feat.一花 mov:tolz img:ttv",
@@ -47,8 +64,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "Nego_tiator obj. DK",
@@ -64,7 +81,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "Junk",
@@ -114,7 +131,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 9
    },
    {
       "artist" : "ETIA. feat. Jenga MV: わっふゑ  / obj:SUZUKAZEΛ",
@@ -130,8 +147,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 5
+      "votePercent" : "92.86",
+      "voteYes" : 6
    },
    {
       "artist" : "Sound piercer feat.DAZBEE NeLiME / CHERISH / fxxh / Feyrlin / obj. DK",
@@ -247,8 +264,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "ProjectG",
@@ -265,7 +282,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "EmoCo. × NO|SER obj. Lapis",
@@ -298,7 +315,7 @@
       "url_diff" : "",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "77.27",
+      "votePercent" : "75.00",
       "voteYes" : 8
    },
    {
