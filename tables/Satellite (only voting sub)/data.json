@@ -1,5 +1,21 @@
 [
    {
+      "artist" : "Nizikawa feat. nayuta Movie: Air / obj: monaka",
+      "level" : "4",
+      "md5" : "13de96cd61a964464e4acb0e45be73c4",
+      "proposer" : "''",
+      "proposerLr2id" : 86456,
+      "sha256" : "299955373dd38d8c12ac317f3b2e890bbfecec7f8c90455fd0f6868bf8cc2320",
+      "submission" : 1184,
+      "title" : "Babel [Infinity Sky]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=29&event=110",
+      "url_diff" : "http://ux.getuploader.com/monaka_sabun_2/download/94/Babel.zip",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "75.00",
+      "voteYes" : 1
+   },
+   {
       "artist" : "kanone obj:SUZUKAZEΛ",
       "comment" : "乱打",
       "level" : "5",
@@ -30,8 +46,8 @@
       "url_diff" : "https://1drv.ms/x/s!Aoi5esJwIYCChk0BTx_U1KkswzSf",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "66.67",
-      "voteYes" : 2
+      "votePercent" : "75.00",
+      "voteYes" : 3
    },
    {
       "artist" : "Miloudi / movie: Ratif obj.onzonium",
@@ -66,6 +82,23 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 2
+   },
+   {
+      "artist" : "れおん obj:SUZUKAZEΛ",
+      "comment" : "BOFXV 乱打 ズレ AND MORE!",
+      "level" : "5",
+      "md5" : "39ad67fbdc031d92ea62e8bc0efdf2ca",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "4fff39d3631bcaa6f2bffbf567f87ece515127dfe8125ff766b1c7ca3070e4eb",
+      "submission" : 1185,
+      "title" : "Kirby in Luminous Land [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=56&event=127",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "Nego_tiator obj. DK",
@@ -130,7 +163,7 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "95.00",
       "voteYes" : 9
    },
    {
@@ -234,6 +267,40 @@
       "voteYes" : 3
    },
    {
+      "artist" : "otoshi.b BGI:はしたかさん",
+      "comment" : "EMOTIONAL HAPPYCORE",
+      "level" : "2",
+      "md5" : "96341b5c5a5f73cf06ffc8e46226dbe2",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "1114513b922a52f2e9532470d0a7fe96cf27a7630bfd6ebde5620a22ab706f31",
+      "submission" : 1186,
+      "title" : "Sparkling☆Sunshine!! [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=127",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
+      "artist" : "roop × Mentalstock / selene.",
+      "comment" : "乱打、微縦連",
+      "level" : "9",
+      "md5" : "9972c3c56cdd534bc0374d1c98d962aa",
+      "proposer" : "Fendou",
+      "proposerLr2id" : 128388,
+      "sha256" : "e93c83f8ad933eea8e9e098f6c675e635ea2b652667004f9bb79d4fa2609fd40",
+      "submission" : 1183,
+      "title" : "Disco Balls -Eclipse-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=183&event=60",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02540",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "-45",
       "comment" : "１４の下位交換であり同梱譜面 ★4~5ぐらい",
       "level" : "3",
@@ -265,7 +332,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 5
    },
    {
       "artist" : "ProjectG",
@@ -282,7 +349,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "EmoCo. × NO|SER obj. Lapis",
