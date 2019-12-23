@@ -33,6 +33,22 @@
       "voteYes" : 9
    },
    {
+      "artist" : "Sterrite",
+      "level" : "7",
+      "md5" : "2bcfda5864dfc99e74ff46ddaa0b5450",
+      "proposer" : "TA2YA.",
+      "proposerLr2id" : 64145,
+      "sha256" : "5d1360acb060231ef688012746b628509d951b7435509a5e8814cf3ab4f7ea2f",
+      "submission" : 1189,
+      "title" : "Σnergy -яevolution- [Steяrite]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=240&event=127",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "wa. / obj. Limite",
       "comment" : "前兆",
       "level" : "1",
@@ -97,8 +113,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "83.33",
+      "voteYes" : 2
    },
    {
       "artist" : "Nego_tiator obj. DK",
@@ -218,6 +234,38 @@
       "voteYes" : 3
    },
    {
+      "artist" : "Lokan Obj. DK",
+      "level" : "0",
+      "md5" : "7b1c1f836719de43e0bd288ec6f9c516",
+      "proposer" : "CATHERINE",
+      "proposerLr2id" : 119448,
+      "sha256" : "293c46c08ad415149ffd525bc8d8c3bcc6b662afa6235606a4497478043fe853",
+      "submission" : 1187,
+      "title" : "introspect [SP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=211&event=127",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 3
+   },
+   {
+      "artist" : "DJ TECHNORCH Remixed by tpa:pbr / obj:夢瑠",
+      "level" : "11",
+      "md5" : "824c719686aa341376ea86eb6800acea",
+      "proposer" : "*ふわうさ*",
+      "proposerLr2id" : 60626,
+      "sha256" : "4cdcdfad837d7a470b54b089268332a774953da90a548a68a29a93662f82ab7f",
+      "submission" : 1188,
+      "title" : "Gothic System -C.H.S_NRG Mix- [yumether]",
+      "url" : "https://onedrive.live.com/?cid=E6C08C2D3413101E&id=E6C08C2D3413101E%21255",
+      "url_diff" : "http://yumerusabun.web.fc2.com/nue_hakkyou.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "BilliumMoto",
       "comment" : "BOFXV/LN多め/ズレ系/皿",
       "level" : "9",
@@ -280,8 +328,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "roop × Mentalstock / selene.",
@@ -316,6 +364,22 @@
       "voteNo" : 1,
       "votePercent" : "88.46",
       "voteYes" : 11
+   },
+   {
+      "artist" : "みーに feat. 初音ミク",
+      "level" : "0",
+      "md5" : "be75d2aa1742255f3fdaa94d11ba166f",
+      "proposer" : "TA2YA.",
+      "proposerLr2id" : 64145,
+      "sha256" : "6c80304f22e16b9927e72a9e1f05381c3072e03100b9d55f35c852e2366cc485",
+      "submission" : 1190,
+      "title" : "Edge of bravery [VENGEANCE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=127",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "srask",

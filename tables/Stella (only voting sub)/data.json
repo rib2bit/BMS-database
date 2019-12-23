@@ -204,6 +204,23 @@
       "voteYes" : 6
    },
    {
+      "artist" : "Sakamiya feat.A.Dokuga img:HalHAL Lyrics:uoru notes:ELIGOS",
+      "comment" : "0~1 地力",
+      "level" : "1",
+      "md5" : "dc1ac1d67463892d957b1d410773557f",
+      "proposer" : "*ふわうさ*",
+      "proposerLr2id" : 60626,
+      "sha256" : "cbe9926f12631e84cd3866035b84c949b52ded17a99cc83bd08d38f4860d6986",
+      "submission" : 1041,
+      "title" : "Epic Bellum -universum- [BattleGalaxy]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=258&event=110",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "鈎兎(KagiUsagi) obj.fhyu",
       "comment" : "序盤難、後半難",
       "level" : "3",
