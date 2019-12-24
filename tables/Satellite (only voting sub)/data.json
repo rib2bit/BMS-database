@@ -45,8 +45,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "wa. / obj. Limite",
@@ -96,7 +96,7 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "83.33",
       "voteYes" : 2
    },
    {
@@ -147,6 +147,23 @@
       "voteNo" : 2,
       "votePercent" : "71.43",
       "voteYes" : 8
+   },
+   {
+      "artist" : "森きるは obj : 双葉杏",
+      "comment" : "同時押し",
+      "level" : "2",
+      "md5" : "4a11ad87a53029ad93eeaa7936cdcdb8",
+      "proposer" : "sera",
+      "proposerMinirid" : "8281b134-2da8-4f09-a4d0-22618e5611fd",
+      "sha256" : "231534e437d7e133f2b2ac7ea1813dff3b1e8cb952e4200b10d5cb2e2b19f0f9",
+      "submission" : 1191,
+      "title" : "森 [炎]",
+      "url" : "https://dl.dropboxusercontent.com/s/mnrohqx6o5db4rj/forestkiruha.zip?dl=0",
+      "url_diff" : "http://absolute.pv.land.to/uploader/src/up7092.zip",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "75.00",
+      "voteYes" : 1
    },
    {
       "artist" : "Aliesrite* (Ym1024 feat. lamie*) obj:monaka",
@@ -262,7 +279,7 @@
       "url_diff" : "http://yumerusabun.web.fc2.com/nue_hakkyou.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
+      "votePercent" : "75.00",
       "voteYes" : 1
    },
    {
@@ -345,8 +362,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02540",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "-45",
@@ -378,8 +395,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "srask",
