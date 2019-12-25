@@ -98,8 +98,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "BilliumMoto",
@@ -115,7 +115,24 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "66.67",
+      "votePercent" : "75.00",
+      "voteYes" : 3
+   },
+   {
+      "artist" : "tarolabo / obj:NoName",
+      "comment" : "NORMAL判定、ラストが難しい",
+      "level" : "4",
+      "md5" : "7e4313871af7914a8f969910a9bc45a0",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "1bbc659b8aff55446d338341dee7f16261d4e2bd3596bceffc5401319315c2f1",
+      "submission" : 1042,
+      "title" : "Gynandromorph [7key_★★]",
+      "url" : "http://www.mediafire.com/file/44680p3uf7dab41/Gynandromorph.zip",
+      "url_diff" : "http://kanki2.net/bme.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
       "voteYes" : 2
    },
    {
@@ -132,8 +149,8 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "ぽよみの暴力団",
@@ -217,8 +234,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "鈎兎(KagiUsagi) obj.fhyu",
