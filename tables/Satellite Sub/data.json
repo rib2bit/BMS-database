@@ -7009,6 +7009,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "cranky / RE",
+      "comment" : "★1あほざーから程よく縦連除去して密度あげました。sl4（★7)相当",
+      "level" : "4",
+      "md5" : "644c5f9b20805c4c12efb941975fb17a",
+      "proposer" : "RNKN",
+      "proposerLr2id" : 155575,
+      "sha256" : "a1b2c185990a4a923577444cdc019f0459310349c5b5eed3c7a9d48b9d1bb8f0",
+      "submission" : 1193,
+      "title" : "J219 (縦連嫌い)",
+      "url" : "http://web.archive.org/web/20051110125653/http://pal.mydns.to/cranky/up/5key/5k-j219.zip",
+      "url_diff" : "https://www.dropbox.com/s/ru78prfksuh109a/J219_ttrn.bme?dl=0"
+   },
+   {
       "artist" : "eoll obj.にゃむ",
       "comment" : "LNある",
       "level" : "1",
@@ -14537,6 +14550,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Clotho feat.Salita",
+      "comment" : "★2黒穴強化版。高速乱打。sl4(★7)相当",
+      "level" : "4",
+      "md5" : "ce4403b051eaf0baa6c68b07533e9f2c",
+      "proposer" : "RNKN",
+      "proposerLr2id" : 155575,
+      "sha256" : "cec27db793acc7a8b343adcbbd855f68d8846e7cd54fdf937c820f8dd1b56a9b",
+      "submission" : 1192,
+      "title" : "Blink [RE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=209&event=96",
+      "url_diff" : "https://www.dropbox.com/s/xsmvor8m9993c5p/Blink%28RE%29.bme?dl=0"
    },
    {
       "artist" : "Luxion /差分 赤い人",
