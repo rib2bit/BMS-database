@@ -1,56 +1,5 @@
 [
    {
-      "artist" : "xi / air",
-      "comment" : "st8の餡蜜差分",
-      "level" : "4",
-      "md5" : "00bf71a60bf10e7eb7de2a252ba09b2b",
-      "proposer" : "ナナメ",
-      "proposerLr2id" : 1534,
-      "sha256" : "03580d10a79158d9954aa1e368631dbd092708bc070927f60064e4b302154a52",
-      "submission" : 1034,
-      "title" : "FREEDOM DiVE [FOUR DIMENSIONS]餡蜜",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=50",
-      "url_diff" : "https://ux.getuploader.com/anmitu/download/23",
-      "voteNeutral" : 3,
-      "voteNo" : 3,
-      "votePercent" : "30.00",
-      "voteYes" : 1
-   },
-   {
-      "artist" : "Tlahuizcalpantecuhtli / И BGA: Air",
-      "comment" : "1~2?",
-      "level" : "2",
-      "md5" : "28334e4ffcc4e6fb393ccf8bc1bc842f",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "57f071056996a3f48b61ba6e4a5115b66cf44224f9af14ac6c0764c2e8da4939",
-      "submission" : 1021,
-      "title" : "Destroyer [Abgrund]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=170&event=104",
-      "url_diff" : "https://bms.parksulab.xyz",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 7
-   },
-   {
-      "artist" : "sak BGA:猫太郎 obj:BAECON",
-      "comment" : "2~3?",
-      "level" : "3",
-      "md5" : "34032273d045908a1f39870b44ad8e22",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "b7c35e0bf49e0a6b1ade33d163712d1ae518c436341a527a3323ce020da4753e",
-      "submission" : 1022,
-      "title" : "minimalim [INSANE]",
-      "url" : "http://colosseo.nekokan.dyndns.info/c04_shuffle3/detail/view/12/",
-      "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 4
-   },
-   {
       "artist" : "Dachs / И Movie : わっふゑ",
       "comment" : "BOFXV ガチ押し",
       "level" : "4",
@@ -68,23 +17,6 @@
       "voteYes" : 4
    },
    {
-      "artist" : "LisicA / movie : ルゼ(LuzeriA) / illust : Orphee obj:Mallow♪ + 七海",
-      "comment" : "物量、ディレイ",
-      "level" : "3",
-      "md5" : "543b86fd4db6e129123387331dd3b7fd",
-      "proposer" : "スノート",
-      "proposerLr2id" : 86393,
-      "sha256" : "a770f7028800c9d7f1653d1f570e94a1b511a77ace6b22dab4a905067a651075",
-      "submission" : 1036,
-      "title" : "テウメッサ -Violence-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=127",
-      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 5
-   },
-   {
       "artist" : "ASSASSIN",
       "comment" : "TOTAL値未表記 。実TOTAL値は628程度(LR2)",
       "level" : "4",
@@ -99,23 +31,6 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
-   },
-   {
-      "artist" : "BilliumMoto",
-      "comment" : "▼24? (st4~5?)",
-      "level" : "4",
-      "md5" : "7b6ae77ea7a5c01b4ee0abd8f9cb9c16",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "b27b41c595a69935994895099f3d35308665f52f47e372b58f5c4a1528db0e2b",
-      "submission" : 1039,
-      "title" : "ruby",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=70&event=127",
-      "url_diff" : "",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "66.67",
       "voteYes" : 3
    },
    {
@@ -187,40 +102,6 @@
       "voteYes" : 5
    },
    {
-      "artist" : "69 de 74 BGI:れおん",
-      "comment" : "1~2?",
-      "level" : "2",
-      "md5" : "d415aa79f5fbd7f1a1944146afd5f9af",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "7b66394648d6c5be637fb586c37d2300da133cd51ceb73f922e556a7e6fcfeea",
-      "submission" : 1028,
-      "title" : "マッドメチャクチャニズム [INSANE]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=127",
-      "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 6
-   },
-   {
-      "artist" : "しらいし obj:C4",
-      "comment" : "st3~4",
-      "level" : "3",
-      "md5" : "da0019c09d434d470e73c91703c9454f",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "7bfa66a17bebb287d636676eca9084a195c14417bf5db63e1289f1bd413b5949",
-      "submission" : 1032,
-      "title" : "XIX [SP INSANE]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=132&event=127",
-      "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 7
-   },
-   {
       "artist" : "Sakamiya feat.A.Dokuga img:HalHAL Lyrics:uoru notes:ELIGOS",
       "comment" : "0~1 地力",
       "level" : "1",
@@ -234,7 +115,7 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "83.33",
+      "votePercent" : "75.00",
       "voteYes" : 2
    },
    {
@@ -252,6 +133,6 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
    }
 ]

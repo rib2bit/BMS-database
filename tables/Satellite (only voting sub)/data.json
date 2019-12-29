@@ -13,7 +13,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "75.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "kanone obj:SUZUKAZEΛ",
@@ -45,8 +45,8 @@
       "url_diff" : "http://www1.axfc.net/uploader/so/2997091",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 4
+      "votePercent" : "87.50",
+      "voteYes" : 6
    },
    {
       "artist" : "Sterrite",
@@ -61,8 +61,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 4
+      "votePercent" : "91.67",
+      "voteYes" : 5
    },
    {
       "artist" : "wa. / obj. Limite",
@@ -78,8 +78,8 @@
       "url_diff" : "https://1drv.ms/x/s!Aoi5esJwIYCChk0BTx_U1KkswzSf",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "88.89",
-      "voteYes" : 8
+      "votePercent" : "90.00",
+      "voteYes" : 9
    },
    {
       "artist" : "Miloudi / movie: Ratif obj.onzonium",
@@ -96,24 +96,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
-   },
-   {
-      "artist" : "Sakamiya feat.一花 mov:tolz img:ttv",
-      "comment" : "sl11翼の折れたみたいな",
-      "level" : "10",
-      "md5" : "3769518692a7a8acea1caa9b9aed756b",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "319db32c2e65a1b1ee98a4180f0b728c141e73263e39a30bbc24cbf2fbe9373d",
-      "submission" : 1180,
-      "title" : "煉情ミスティフィリア [Purgatory]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=127",
-      "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "93.75",
-      "voteYes" : 7
+      "voteYes" : 9
    },
    {
       "artist" : "れおん obj:SUZUKAZEΛ",
@@ -129,8 +112,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 6
+      "votePercent" : "88.89",
+      "voteYes" : 7
    },
    {
       "artist" : "Nego_tiator obj. DK",
@@ -146,23 +129,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 10
    },
    {
-      "artist" : "Junk",
-      "level" : "2",
-      "md5" : "4955417296bf67e6eab92cb047de5f7d",
-      "proposer" : "파이어",
-      "proposerLr2id" : 7290,
-      "sha256" : "9964ec73e46d56b54f12c697b5ea18d1602cde80adf40e0a3c1acd7291918cc7",
-      "submission" : 1162,
-      "title" : "Life is PIANO [Etude]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=375&event=123",
-      "url_diff" : "https://bms.parksulab.xyz",
-      "voteNeutral" : 2,
-      "voteNo" : 2,
-      "votePercent" : "70.00",
-      "voteYes" : 8
+      "artist" : "Gabriel illust : VARD / movie : lapelistar / obj : BK",
+      "comment" : "BOFXV, 階段",
+      "level" : "0",
+      "md5" : "48273794e9019eb0338ff0b4e545f2e3",
+      "proposer" : "DK",
+      "proposerLr2id" : 46697,
+      "sha256" : "5fa6a43ad11e7b7cd07f58bf89ba657e95553c0a7126379df653992299a82b2e",
+      "submission" : 1195,
+      "title" : "Estella [SP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=127&num=340",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "森きるは obj : 双葉杏",
@@ -178,42 +162,8 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up7092.zip",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "92.86",
-      "voteYes" : 6
-   },
-   {
-      "artist" : "Aliesrite* (Ym1024 feat. lamie*) obj:monaka",
-      "comment" : "地力系乱打",
-      "level" : "1",
-      "md5" : "4dc22308eb254f088ead286be4acecde",
-      "proposer" : "STANK!",
-      "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
-      "sha256" : "39922362c8cc203a860802928ea27f0d8551a6da4f86871195517c544f303fa8",
-      "submission" : 1164,
-      "title" : "Second Synthesis [7key Extra]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=278&event=127",
-      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 14
-   },
-   {
-      "artist" : "litmus* as Ester movie:なおや / obj:SUZUKAZEΛ vs litmus*",
-      "comment" : "BOFXV, 乱打, 高TOTAL",
-      "level" : "0",
-      "md5" : "500975f48ee67417d2c223bc18b80d8d",
-      "proposer" : "DK",
-      "proposerLr2id" : 46697,
-      "sha256" : "ccbd161bb4f8140ec19566f68c7403c0256c9dd09f60afb813ca645bcf7b4b35",
-      "submission" : 1171,
-      "title" : "Krave [Another]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=76&event=127",
-      "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "92.31",
-      "voteYes" : 11
+      "votePercent" : "94.44",
+      "voteYes" : 8
    },
    {
       "artist" : "ETIA. feat. Jenga MV: わっふゑ  / obj:SUZUKAZEΛ",
@@ -229,8 +179,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "94.44",
-      "voteYes" : 8
+      "votePercent" : "95.00",
+      "voteYes" : 9
    },
    {
       "artist" : "Sound piercer feat.DAZBEE NeLiME / CHERISH / fxxh / Feyrlin / obj. DK",
@@ -246,8 +196,8 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.45",
-      "voteYes" : 10
+      "votePercent" : "95.83",
+      "voteYes" : 11
    },
    {
       "artist" : "Aoi mov:出前 / obj:BK + Lapis",
@@ -264,7 +214,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 7
    },
    {
       "artist" : "Lokan Obj. DK",
@@ -280,7 +230,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 10
    },
    {
       "artist" : "DJ TECHNORCH Remixed by tpa:pbr / obj:夢瑠",
@@ -295,8 +245,25 @@
       "url_diff" : "http://yumerusabun.web.fc2.com/nue_hakkyou.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 5
+      "votePercent" : "92.86",
+      "voteYes" : 6
+   },
+   {
+      "artist" : "7mai",
+      "comment" : "(sl0-1?) BOFXV、トリル、高速階段、高TOTAL、NORMAL判定",
+      "level" : "0",
+      "md5" : "877b442a3a3dc6650d9d5091b7790a7e",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "e4ea35fbce1f17a4ec75dee538a45dd951a587d7e1cf8c81867dd533696d95de",
+      "submission" : 1198,
+      "title" : "Boxel Adventure",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=138&event=127",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "BilliumMoto",
@@ -316,22 +283,6 @@
       "voteYes" : 8
    },
    {
-      "artist" : "Est/さ",
-      "level" : "7",
-      "md5" : "8ff8f7dca521b31d3097066e97874540",
-      "proposer" : "Haze*",
-      "proposerLr2id" : 112076,
-      "sha256" : "3e4eba81f1877f56365821f26ae140c48a7da016fc06ab2c13300577503f86f5",
-      "submission" : 1137,
-      "title" : "cotton39% (EX)",
-      "url" : "https://onedrive.live.com/?cid=F61C1F8825F0CF46&id=F61C1F8825F0CF46%21159",
-      "url_diff" : "http://sabosabun.tank.jp/",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "95.00",
-      "voteYes" : 9
-   },
-   {
       "artist" : "Nego_tiator BGI:*reinahitomi / obj:SUZUKAZEΛ",
       "level" : "4",
       "md5" : "92ff773f69e452df0784064d3dd29fb7",
@@ -344,8 +295,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "85.71",
-      "voteYes" : 5
+      "votePercent" : "87.50",
+      "voteYes" : 6
    },
    {
       "artist" : "otoshi.b BGI:はしたかさん",
@@ -362,7 +313,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 11
    },
    {
       "artist" : "roop × Mentalstock / selene.",
@@ -379,24 +330,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
-   },
-   {
-      "artist" : "-45",
-      "comment" : "１４の下位交換であり同梱譜面 ★4~5ぐらい",
-      "level" : "3",
-      "md5" : "ac8db2d116a1879bda19f6f9b0fc9d25",
-      "proposer" : "Restia",
-      "proposerLr2id" : 115265,
-      "sha256" : "8aa6bb5c4e467b9051d0fdb9fe408cc21c74077f3fb7f05094c0633c72a14cd2",
-      "submission" : 1163,
-      "title" : "The ArcticLight",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=313&event=104",
-      "url_diff" : "",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "89.29",
-      "voteYes" : 12
+      "voteYes" : 5
    },
    {
       "artist" : "みーに feat. 初音ミク",
@@ -412,12 +346,12 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 9
    },
    {
       "artist" : "srask",
       "comment" : "sl0~2",
-      "level" : "1",
+      "level" : "2",
       "md5" : "c96baabe8d2c62f14ddf75ac18c454bb",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -429,7 +363,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 9
    },
    {
       "artist" : "ProjectG",
@@ -446,41 +380,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 9
    },
    {
-      "artist" : "EmoCo. × NO|SER obj. Lapis",
-      "comment" : "BOFXV, 皿, 乱打",
-      "level" : "3",
-      "md5" : "de4b2ccfd35befc3aa9fd746343115c1",
-      "proposer" : "DK",
-      "proposerLr2id" : 46697,
-      "sha256" : "3c41da118c531054fe4df8546509cd3e2d63a7808d81195a9d141834cef9a0f2",
-      "submission" : 1170,
-      "title" : "MAGENTA POTION [INSANE]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=127&num=123",
-      "url_diff" : "",
+      "artist" : "Sound Souler mov : photonskyto / obj : litmus*",
+      "comment" : "同時押し、縦連、皿複合",
+      "level" : "1",
+      "md5" : "d647080d4103cfba91a1da896887320f",
+      "proposer" : "STANK!",
+      "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
+      "sha256" : "e9a9e8c3fac01f103b5d3bdfc9180daf028a48f953bcab0a02d704b703a89172",
+      "submission" : 1197,
+      "title" : "Dead Soul [KEMURI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01020",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 14
-   },
-   {
-      "artist" : "Snack",
-      "comment" : "☆11強？皿複合 高速乱打",
-      "level" : "0",
-      "md5" : "e50d342e7ba934b97080a5b070cca22b",
-      "proposer" : "姫川友紀",
-      "proposerLr2id" : 125835,
-      "sha256" : "c7209a6fc90a1465c099041c6b0b830fdc3abbe0d3e57eb0263aec0872c14ac9",
-      "submission" : 1169,
-      "title" : "Developers, Developers, Developers, Developers! [SP ANOTHER]",
-      "url" : "https://k-bms.com/party_pabat/party2015.jsp?board_num=15&num=16&order=reg&odtype=a",
-      "url_diff" : "",
-      "voteNeutral" : 3,
-      "voteNo" : 3,
-      "votePercent" : "66.67",
-      "voteYes" : 8
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "Lokan",
@@ -496,57 +413,24 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "79.17",
-      "voteYes" : 8
-   },
-   {
-      "artist" : "TKR feat.singo BGI:高松 / Obj.Triforce",
-      "level" : "4",
-      "md5" : "f7b8ef3c476bf2974e84e2798ed4633e",
-      "proposer" : "椒図",
-      "proposerLr2id" : 124809,
-      "sha256" : "0fd9f8342014b4ee38eff21b8c1b53ac4d6bb24d51a56d4bf6a5858263d38cd6",
-      "submission" : 1166,
-      "title" : "oo i s oo - Perfection - [IDENTITY]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=545&event=110",
-      "url_diff" : "https://www.dropbox.com/s/4w88t40d1w6s2wn/ooisoo_triforce.bme?dl=0",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 10
-   },
-   {
-      "artist" : "nmk feat.橘花音 obj. w",
-      "comment" : "sl6~7",
-      "level" : "6",
-      "md5" : "fe2fbfefcdf57b56bb6aaa89d6ee11cc",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "00f0c854739a987d18f1879f04815b2cc12f5b13a333c0864ab9555deacc7509",
-      "submission" : 1157,
-      "title" : "Awaking Beat-From the next generation- [W]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=189&event=127",
-      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 11
-   },
-   {
-      "artist" : "GUANA / LuCenT obj. Tristan97",
-      "comment" : "Beneath the waves, I find another day... (高TOTAL)",
-      "level" : "7",
-      "md5" : "ffd23e965436f9d6147cf872a8dec374",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "54d8b8c5dda491c78950ac6330f393cbba2d5d88523d075ff7ffe4431799c3a9",
-      "submission" : 1158,
-      "title" : "Another Day [Another Delay]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=82&event=127",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03696",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "95.00",
+      "votePercent" : "80.77",
       "voteYes" : 9
+   },
+   {
+      "artist" : "梅干茶漬け obj:rail",
+      "comment" : "乱打、皿複合、減速あり",
+      "level" : "3",
+      "md5" : "f66eb341ffa5988d50d67226fadc91c6",
+      "proposer" : "STANK!",
+      "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
+      "sha256" : "5be4241ba30693fe3491a69645dcb574dd170b14b4628993817ad518ab9faeb6",
+      "submission" : 1196,
+      "title" : "Panic! Pop'n! Picnic! [abysmal weather]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=519&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00198",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    }
 ]
