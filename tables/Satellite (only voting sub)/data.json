@@ -1,5 +1,22 @@
 [
    {
+      "artist" : "Fl00t mov:task228 / obj.2RLZ",
+      "comment" : "★9 Homuraが見たい",
+      "level" : "5",
+      "md5" : "06047207dfad48b69f0332117e69e7f6",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "be3b674328376b5ae1b02f463482edee94201d2808fee90e2d6a4c45fe97391b",
+      "submission" : 1200,
+      "title" : "Derve [Grief]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=310&event=127",
+      "url_diff" : "https://2rlz.github.io/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "90.00",
+      "voteYes" : 4
+   },
+   {
       "artist" : "Nizikawa feat. nayuta Movie: Air / obj: monaka",
       "level" : "4",
       "md5" : "13de96cd61a964464e4acb0e45be73c4",
@@ -12,8 +29,8 @@
       "url_diff" : "http://ux.getuploader.com/monaka_sabun_2/download/94/Babel.zip",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "75.00",
-      "voteYes" : 4
+      "votePercent" : "81.82",
+      "voteYes" : 7
    },
    {
       "artist" : "kanone obj:SUZUKAZEΛ",
@@ -29,8 +46,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "87.50",
-      "voteYes" : 10
+      "votePercent" : "88.46",
+      "voteYes" : 11
    },
    {
       "artist" : "Est / air　obj:EMERALD",
@@ -43,10 +60,27 @@
       "title" : "Angelic Snow -吹雪-",
       "url" : "http://estish.nobody.jp/",
       "url_diff" : "http://www1.axfc.net/uploader/so/2997091",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "80.00",
+      "voteYes" : 7
+   },
+   {
+      "artist" : "Epic Sprite vs S.C.T.L (obj: isocosa)",
+      "comment" : "BPM161、32分混じり乱打",
+      "level" : "5",
+      "md5" : "2041387d70474998bf74d2d793ef07cc",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "2e0f00da6facafa9e80a559e564d38ed641b7a28f8b90d2d87d5ae4fe584f628",
+      "submission" : 1204,
+      "title" : "MK-ULTRA [isocosa's 7k Insane]",
+      "url" : "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=53&order=reg&odtype=a",
+      "url_diff" : "https://isocosa.neocities.org/bms_sabun.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 6
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "Sterrite",
@@ -61,8 +95,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 5
+      "votePercent" : "92.86",
+      "voteYes" : 6
    },
    {
       "artist" : "wa. / obj. Limite",
@@ -78,8 +112,8 @@
       "url_diff" : "https://1drv.ms/x/s!Aoi5esJwIYCChk0BTx_U1KkswzSf",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "90.00",
-      "voteYes" : 9
+      "votePercent" : "92.31",
+      "voteYes" : 12
    },
    {
       "artist" : "Miloudi / movie: Ratif obj.onzonium",
@@ -96,7 +130,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
+      "voteYes" : 11
+   },
+   {
+      "artist" : "q/stol obj.Lapis",
+      "comment" : "ペンギン",
+      "level" : "4",
+      "md5" : "3441982d34ae4020b0fda27bb8aad78e",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "e6edb90b434ca4a1da71b6f79c08c04f2d9acfcf1abd590ca49ac28ded698ada",
+      "submission" : 1205,
+      "title" : "Immigrants From Fantasy [Penguins' Party]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=283&event=110",
+      "url_diff" : "http://lapisbms.web.fc2.com/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "れおん obj:SUZUKAZEΛ",
@@ -112,8 +163,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "88.89",
-      "voteYes" : 7
+      "votePercent" : "90.00",
+      "voteYes" : 8
    },
    {
       "artist" : "Nego_tiator obj. DK",
@@ -129,7 +180,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 10
+      "voteYes" : 12
    },
    {
       "artist" : "Gabriel illust : VARD / movie : lapelistar / obj : BK",
@@ -145,8 +196,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 7
    },
    {
       "artist" : "森きるは obj : 双葉杏",
@@ -162,8 +213,25 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up7092.zip",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "94.44",
-      "voteYes" : 8
+      "votePercent" : "95.45",
+      "voteYes" : 10
+   },
+   {
+      "artist" : "ルゼ obj:monaka",
+      "comment" : "高速乱打",
+      "level" : "7",
+      "md5" : "4fb29c567f091764d50c58fe152eebf8",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "abaffa7f5af438c90f89755f797f0c99e35ef1baaebaa12ed063389943c3a723",
+      "submission" : 1202,
+      "title" : "Titanomaquia [Capsule]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=330&event=110",
+      "url_diff" : "https://ux.getuploader.com/monaka_sabun_2/download/159",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "ETIA. feat. Jenga MV: わっふゑ  / obj:SUZUKAZEΛ",
@@ -179,8 +247,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.00",
-      "voteYes" : 9
+      "votePercent" : "95.45",
+      "voteYes" : 10
    },
    {
       "artist" : "Sound piercer feat.DAZBEE NeLiME / CHERISH / fxxh / Feyrlin / obj. DK",
@@ -196,8 +264,8 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.83",
-      "voteYes" : 11
+      "votePercent" : "96.43",
+      "voteYes" : 13
    },
    {
       "artist" : "Aoi mov:出前 / obj:BK + Lapis",
@@ -214,7 +282,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
+   },
+   {
+      "artist" : "Ino(chronoize) feat. 柳瀬マサキ obj. DK",
+      "comment" : "BOFXV、連打、階段、皿、乱打、軸",
+      "level" : "1",
+      "md5" : "72603328f9d1c824b9df35cc6396684f",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "01395b623caea49a664b1746f65614c0927ac83243174810f18a0987e12c10d9",
+      "submission" : 1203,
+      "title" : "カラッポ・ノンフィクション [みらい]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=127&num=288",
+      "url_diff" : "https://frozensat.github.io/sabun/KarappoNonfiction_DK.zip",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "Lokan Obj. DK",
@@ -230,7 +315,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 10
+      "voteYes" : 11
    },
    {
       "artist" : "DJ TECHNORCH Remixed by tpa:pbr / obj:夢瑠",
@@ -243,10 +328,10 @@
       "title" : "Gothic System -C.H.S_NRG Mix- [yumether]",
       "url" : "https://onedrive.live.com/?cid=E6C08C2D3413101E&id=E6C08C2D3413101E%21255",
       "url_diff" : "http://yumerusabun.web.fc2.com/nue_hakkyou.html",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "92.86",
-      "voteYes" : 6
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "86.36",
+      "voteYes" : 9
    },
    {
       "artist" : "7mai",
@@ -262,8 +347,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "80.00",
+      "voteYes" : 3
    },
    {
       "artist" : "BilliumMoto",
@@ -279,8 +364,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "88.89",
-      "voteYes" : 8
+      "votePercent" : "86.36",
+      "voteYes" : 9
    },
    {
       "artist" : "Nego_tiator BGI:*reinahitomi / obj:SUZUKAZEΛ",
@@ -295,8 +380,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 6
+      "votePercent" : "88.89",
+      "voteYes" : 7
    },
    {
       "artist" : "otoshi.b BGI:はしたかさん",
@@ -313,7 +398,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 11
+      "voteYes" : 13
    },
    {
       "artist" : "roop × Mentalstock / selene.",
@@ -329,8 +414,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02540",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 5
+      "votePercent" : "93.75",
+      "voteYes" : 7
    },
    {
       "artist" : "みーに feat. 初音ミク",
@@ -346,7 +431,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
+      "voteYes" : 10
    },
    {
       "artist" : "srask",
@@ -363,7 +448,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
+      "voteYes" : 11
    },
    {
       "artist" : "ProjectG",
@@ -380,24 +465,41 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
+      "voteYes" : 11
    },
    {
-      "artist" : "Sound Souler mov : photonskyto / obj : litmus*",
-      "comment" : "同時押し、縦連、皿複合",
-      "level" : "1",
-      "md5" : "d647080d4103cfba91a1da896887320f",
-      "proposer" : "STANK!",
-      "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
-      "sha256" : "e9a9e8c3fac01f103b5d3bdfc9180daf028a48f953bcab0a02d704b703a89172",
-      "submission" : 1197,
-      "title" : "Dead Soul [KEMURI]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=116",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01020",
+      "artist" : "xixuezique BGA : 空読無 白眼",
+      "comment" : "sl?",
+      "level" : "3",
+      "md5" : "d22adccd93634c2162ce7793c8c56a24",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "2ac2d5dbc066438760aabce97476416db5abd23bb4a0c2e66d4176db158d49fe",
+      "submission" : 1206,
+      "title" : "ophthalmomyiasis [SP HYPER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=38&event=123",
+      "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 100,
       "voteYes" : 1
+   },
+   {
+      "artist" : "U.N.E.",
+      "comment" : "BOFXV、中速乱打、皿",
+      "level" : "2",
+      "md5" : "dffc4992285e5d5022952dd62e4236c0",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "23208f846ae69594e3368590d1bc204220774688bb9f4192da60d57816d170fc",
+      "submission" : 1201,
+      "title" : "Unidentified New Emotion -7Keys Another-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=124&event=127",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "Lokan",
@@ -413,8 +515,25 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "80.77",
-      "voteYes" : 9
+      "votePercent" : "80.00",
+      "voteYes" : 10
+   },
+   {
+      "artist" : "KAH BGA:自動車 原付 illust:りゅうら / obj:SUZUKAZEΛ",
+      "comment" : "皿複合",
+      "level" : "5",
+      "md5" : "f241a30e980fbe11aa85d166f0959001",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "2986e7fcdd4da2b9e3ed648d4adfd2d317993bf3799ee95770b67e44ca778d63",
+      "submission" : 1199,
+      "title" : "boxiv! on! fight! [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=114&event=127",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "50.00",
+      "voteYes" : 1
    },
    {
       "artist" : "梅干茶漬け obj:rail",
@@ -430,7 +549,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00198",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 5
    }
 ]

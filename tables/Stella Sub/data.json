@@ -676,6 +676,19 @@
       "url_diff" : "https://obju.web.fc2.com/BMS/miaplacidus_U_bga.zip"
    },
    {
+      "artist" : "otoshi.b BGI:はしたかさん obj.mute",
+      "comment" : "はやい",
+      "level" : "3",
+      "md5" : "0cf1494b944bcb738e0e9cccf8f07609",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "55c3ace62881e99e5bb9252f12e5a208e6e621f7857a91f735b2f0856cdb9593",
+      "submission" : 1044,
+      "title" : "Sparkling☆Sunshine!! [ShinyStrike!!]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=127",
+      "url_diff" : ""
+   },
+   {
       "artist" : "daiji&sa10 / obj：mitsuba",
       "comment" : "ONION YANGPARING",
       "level" : "0",
@@ -15088,6 +15101,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "ProjectG / obj.2RLZ",
+      "comment" : "三(?)重乱打+微連打",
+      "level" : "2",
+      "md5" : "fe7588028c012ecbbf4e3930ccaf120e",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "5f2010b2ec041c3e6d3fb110217f1c33cb2c3f26d317685319fd4443aa51a5b8",
+      "submission" : 1045,
+      "title" : "Midnight Flux [Metropolis]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=259&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
    },
    {
       "artist" : "insanity tOY",

@@ -411,6 +411,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Fl00t mov:task228 / obj.2RLZ",
+      "comment" : "★9 Homuraが見たい",
+      "level" : "5",
+      "md5" : "06047207dfad48b69f0332117e69e7f6",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "be3b674328376b5ae1b02f463482edee94201d2808fee90e2d6a4c45fe97391b",
+      "submission" : 1200,
+      "title" : "Derve [Grief]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=310&event=127",
+      "url_diff" : "https://2rlz.github.io/"
+   },
+   {
       "artist" : "sound piercer (mov : EMSH) obj.subomi",
       "comment" : " ",
       "level" : "0",
@@ -2302,6 +2315,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Epic Sprite vs S.C.T.L (obj: isocosa)",
+      "comment" : "BPM161、32分混じり乱打",
+      "level" : "5",
+      "md5" : "2041387d70474998bf74d2d793ef07cc",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "2e0f00da6facafa9e80a559e564d38ed641b7a28f8b90d2d87d5ae4fe584f628",
+      "submission" : 1204,
+      "title" : "MK-ULTRA [isocosa's 7k Insane]",
+      "url" : "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=53&order=reg&odtype=a",
+      "url_diff" : "https://isocosa.neocities.org/bms_sabun.html"
+   },
+   {
       "artist" : "Lime",
       "comment" : "BOFXV, 楽しい差分",
       "level" : "0",
@@ -3449,6 +3475,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "q/stol obj.Lapis",
+      "comment" : "ペンギン",
+      "level" : "4",
+      "md5" : "3441982d34ae4020b0fda27bb8aad78e",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "e6edb90b434ca4a1da71b6f79c08c04f2d9acfcf1abd590ca49ac28ded698ada",
+      "submission" : 1205,
+      "title" : "Immigrants From Fantasy [Penguins' Party]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=283&event=110",
+      "url_diff" : "http://lapisbms.web.fc2.com/"
    },
    {
       "artist" : "Y.W / A",
@@ -5565,6 +5604,19 @@
       "title" : "Pangaea [IIDX]",
       "url" : "http://web.archive.org/web/20070727154611/http://sasakure.bms.ms/framemusic.htm",
       "url_diff" : ""
+   },
+   {
+      "artist" : "ルゼ obj:monaka",
+      "comment" : "高速乱打",
+      "level" : "7",
+      "md5" : "4fb29c567f091764d50c58fe152eebf8",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "abaffa7f5af438c90f89755f797f0c99e35ef1baaebaa12ed063389943c3a723",
+      "submission" : 1202,
+      "title" : "Titanomaquia [Capsule]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=330&event=110",
+      "url_diff" : "https://ux.getuploader.com/monaka_sabun_2/download/159"
    },
    {
       "artist" : "Silent Spica/さ",
@@ -7814,6 +7866,19 @@
       "title" : "c.s.q.n. -Modus ponens-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=223&event=127",
       "url_diff" : "http://beatkim.web.fc2.com/insane.html"
+   },
+   {
+      "artist" : "Ino(chronoize) feat. 柳瀬マサキ obj. DK",
+      "comment" : "BOFXV、連打、階段、皿、乱打、軸",
+      "level" : "1",
+      "md5" : "72603328f9d1c824b9df35cc6396684f",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "01395b623caea49a664b1746f65614c0927ac83243174810f18a0987e12c10d9",
+      "submission" : 1203,
+      "title" : "カラッポ・ノンフィクション [みらい]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=127&num=288",
+      "url_diff" : "https://frozensat.github.io/sabun/KarappoNonfiction_DK.zip"
    },
    {
       "artist" : "SANY/ZUN",
@@ -14800,6 +14865,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "xixuezique BGA : 空読無 白眼",
+      "comment" : "sl?",
+      "level" : "3",
+      "md5" : "d22adccd93634c2162ce7793c8c56a24",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "2ac2d5dbc066438760aabce97476416db5abd23bb4a0c2e66d4176db158d49fe",
+      "submission" : 1206,
+      "title" : "ophthalmomyiasis [SP HYPER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=38&event=123",
+      "url_diff" : ""
+   },
+   {
       "artist" : "隣の庭は青い(庭師+Aoi) obj.Lapis",
       "comment" : "総合",
       "level" : "6",
@@ -15851,6 +15929,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "U.N.E.",
+      "comment" : "BOFXV、中速乱打、皿",
+      "level" : "2",
+      "md5" : "dffc4992285e5d5022952dd62e4236c0",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "23208f846ae69594e3368590d1bc204220774688bb9f4192da60d57816d170fc",
+      "submission" : 1201,
+      "title" : "Unidentified New Emotion -7Keys Another-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=124&event=127",
+      "url_diff" : ""
    },
    {
       "artist" : "mommy",
@@ -17075,6 +17166,19 @@
       "title" : "Lebensumlauf [INSANE]",
       "url" : "https://event.yaruki0.net/VSevent/impression/29",
       "url_diff" : ""
+   },
+   {
+      "artist" : "KAH BGA:自動車 原付 illust:りゅうら / obj:SUZUKAZEΛ",
+      "comment" : "皿複合",
+      "level" : "5",
+      "md5" : "f241a30e980fbe11aa85d166f0959001",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "2986e7fcdd4da2b9e3ed648d4adfd2d317993bf3799ee95770b67e44ca778d63",
+      "submission" : 1199,
+      "title" : "boxiv! on! fight! [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=114&event=127",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html"
    },
    {
       "artist" : "養土卵 光 / 浜 柔好 / selene.",
