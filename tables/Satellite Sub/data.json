@@ -16052,6 +16052,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "hugepulse BGA:Micelle",
+      "comment" : "最後半 連打、低速、LN注意",
+      "level" : "8",
+      "md5" : "e207ff5fda09b5f38f7960e3409d3e18",
+      "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
+      "sha256" : "346e758b94de8309bd09cb955f10ba417434d727ba1e2bf65ccc1787f3112743",
+      "submission" : 1207,
+      "title" : "えいえんの　ゆめを　ください [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=127",
+      "url_diff" : ""
+   },
+   {
       "artist" : "litmus* / movie : Kazari obj:SUZUKAZEΛ",
       "level" : "2",
       "md5" : "e22484ff579204847425de6a0cb93158",
@@ -16062,6 +16075,19 @@
       "title" : "Good Life [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=44&event=123",
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html"
+   },
+   {
+      "artist" : "B4 (BBBB + C4) / BGA:tolz obj:C4",
+      "comment" : "ズレ、同時押し",
+      "level" : "3",
+      "md5" : "e2662efb3922276a4605d7e83c06174a",
+      "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
+      "sha256" : "dec612e304c2a2f53899200c59074dc2afd2669ff70f5cc712e4b81f405017a7",
+      "submission" : 1208,
+      "title" : "Zelena [SP INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=243&event=127",
+      "url_diff" : ""
    },
    {
       "artist" : "-RYO- / obj:秘密",

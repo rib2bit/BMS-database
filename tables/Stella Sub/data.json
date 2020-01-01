@@ -4265,6 +4265,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Arishima_Caprico + うまるつふり obj:うまるつふり",
+      "comment" : "st0? 1?",
+      "level" : "0",
+      "md5" : "451dc3a77b7e18d2d96c1589221dc45e",
+      "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
+      "sha256" : "da5883a79856dc277cc74a32850c5e9f7462fb09121c019e0cf30aa9a0737fd6",
+      "submission" : 1046,
+      "title" : "天ノ火～あめのひ～ [天破壌砕]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=37&event=127",
+      "url_diff" : ""
+   },
+   {
       "artist" : "TEKINA / obj:夢瑠",
       "comment" : "発狂九段４曲目",
       "level" : "1",
@@ -10541,6 +10554,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "立秋 feat.ちょこ / obj:七海",
+      "comment" : "LAST BOSS",
+      "level" : "1",
+      "md5" : "b0327839f587e2b9d5be204bfe58a9c9",
+      "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
+      "sha256" : "8013f23f79aaa42a7988a847c5df282c7136b3fa04a981d45c49cf8f2cc1b248",
+      "submission" : 1047,
+      "title" : "プナイプナイげんそう -LAST BOSS-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=249&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
    },
    {
       "artist" : "Arranged by Y.W / obj. Tristan97",

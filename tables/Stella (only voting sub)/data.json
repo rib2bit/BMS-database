@@ -13,8 +13,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "Dachs / И Movie : わっふゑ",
@@ -32,6 +32,23 @@
       "voteNo" : 0,
       "votePercent" : "90.00",
       "voteYes" : 4
+   },
+   {
+      "artist" : "Arishima_Caprico + うまるつふり obj:うまるつふり",
+      "comment" : "st0? 1?",
+      "level" : "0",
+      "md5" : "451dc3a77b7e18d2d96c1589221dc45e",
+      "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
+      "sha256" : "da5883a79856dc277cc74a32850c5e9f7462fb09121c019e0cf30aa9a0737fd6",
+      "submission" : 1046,
+      "title" : "天ノ火～あめのひ～ [天破壌砕]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=37&event=127",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "ASSASSIN",
@@ -85,6 +102,23 @@
       "voteYes" : 2
    },
    {
+      "artist" : "立秋 feat.ちょこ / obj:七海",
+      "comment" : "LAST BOSS",
+      "level" : "1",
+      "md5" : "b0327839f587e2b9d5be204bfe58a9c9",
+      "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
+      "sha256" : "8013f23f79aaa42a7988a847c5df282c7136b3fa04a981d45c49cf8f2cc1b248",
+      "submission" : 1047,
+      "title" : "プナイプナイげんそう -LAST BOSS-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=249&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "50.00",
+      "voteYes" : 1
+   },
+   {
       "artist" : "ぽよみの暴力団",
       "comment" : "5~6?",
       "level" : "6",
@@ -98,7 +132,7 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "90.00",
       "voteYes" : 4
    },
    {
@@ -116,7 +150,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 6
    },
    {
       "artist" : "Sakamiya feat.A.Dokuga img:HalHAL Lyrics:uoru notes:ELIGOS",
@@ -132,8 +166,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "75.00",
-      "voteYes" : 2
+      "votePercent" : "80.00",
+      "voteYes" : 3
    },
    {
       "artist" : "鈎兎(KagiUsagi) obj.fhyu",
@@ -167,6 +201,6 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
    }
 ]
