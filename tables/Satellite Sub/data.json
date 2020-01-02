@@ -6773,6 +6773,18 @@
       "voteYes" : 0
    },
    {
+      "artist" : "chocolate max /差分　赤い人",
+      "level" : "10",
+      "md5" : "600000595d703aabbfa8a2902d622a3d",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "772f26a00c688f04b74c839703ede4d0a9190359da1406299f3f19b10464ad0e",
+      "submission" : 1210,
+      "title" : "★SweeT DiscoverY★ [DELAY]",
+      "url" : "http://web.archive.org/web/20070727155719fw_/http://sasakure.bms.ms/music/sweet.htm",
+      "url_diff" : "http://akred.web.fc2.com/ak-red-new.html"
+   },
+   {
       "artist" : "void Momomi Aoyama / obj: ランダマイザ",
       "comment" : "乱打",
       "level" : "9",
@@ -16123,6 +16135,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Ym1024 feat. lamie* Movie : レク / obj.rat",
+      "comment" : "1かも バラエティに富んだ譜面",
+      "level" : "0",
+      "md5" : "e30d8e7e56894d326d88e5bbfe327872",
+      "proposer" : "C4",
+      "proposerLr2id" : 120385,
+      "sha256" : "df98731dcc0ec1a610f51af0b8afa37f079c21d8984ccc46b3001b9bcd00b581",
+      "submission" : 1209,
+      "title" : "Future MUSiC [rather]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=356&event=83",
+      "url_diff" : "http://rattoto10.web.fc2.com"
+   },
+   {
       "artist" : "Meisolate obj:Sar",
       "comment" : "乱打、後半難",
       "level" : "1",
@@ -17993,6 +18018,18 @@
       "title" : "LOSTSILVER",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=67",
       "url_diff" : ""
+   },
+   {
+      "artist" : "8284 / BGA: FleetingLovely /obj:BAECON",
+      "level" : "12",
+      "md5" : "fedde5c969d7b2162e363aa18311a166",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "cb6cd16141e1e55142a13d2e3665a3535002a8907508749e8315a030f2bd9a63",
+      "submission" : 1211,
+      "title" : "Orbital Period [INFINITY]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=44&event=78",
+      "url_diff" : "http://akred.web.fc2.com/baecon/OrbitalPeriod7keys_INF.bme"
    },
    {
       "artist" : "QURELESS obj:京都306",
