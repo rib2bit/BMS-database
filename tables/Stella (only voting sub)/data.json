@@ -48,7 +48,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 5
    },
    {
       "artist" : "ASSASSIN",
@@ -113,9 +113,9 @@
       "title" : "プナイプナイげんそう -LAST BOSS-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=249&event=127",
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "70.00",
+      "voteNeutral" : 2,
+      "voteNo" : 2,
+      "votePercent" : "58.33",
       "voteYes" : 3
    },
    {
