@@ -48,7 +48,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
+   },
+   {
+      "artist" : "秋月アキラ feat. 保堂 京 obj.Я х И",
+      "comment" : "ガチ押し、体力、後半難",
+      "level" : "2",
+      "md5" : "749d0e7676dff38580f1db98db8d8f65",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "966217201de38a6cd1d210cf2aa11c7f86b7273afd91eaa3326b3c604be43539",
+      "submission" : 1048,
+      "title" : "黄昏のメロディア [黄泉の歌]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=325&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "83.33",
+      "voteYes" : 2
    },
    {
       "artist" : "ASSASSIN",
@@ -134,6 +151,23 @@
       "voteNo" : 0,
       "votePercent" : "91.67",
       "voteYes" : 5
+   },
+   {
+      "artist" : "hapi⇒ feat. 初音ミク obj.ゆーきさん",
+      "comment" : "21.2世紀型KakushinFumen。それは希望なのか破滅なのか。",
+      "level" : "2",
+      "md5" : "c63c878df8c34f4dbfbc078fea1d756e",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "fe51133158915acaf9a06134784816bfb831e8d788c42a258693b0f4e9d59131",
+      "submission" : 1049,
+      "title" : "SUper.TEmplate.MArketing [7KEYS insane]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "黒皇帝 Movie: inukoro / Illust: Tonosuke / Lyrics: Dolphin",
