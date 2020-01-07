@@ -48,7 +48,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 9
    },
    {
       "artist" : "秋月アキラ feat. 保堂 京 obj.Я х И",
@@ -64,7 +64,7 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "83.33",
+      "votePercent" : "75.00",
       "voteYes" : 2
    },
    {
@@ -164,9 +164,9 @@
       "title" : "SUper.TEmplate.MArketing [7KEYS insane]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=127",
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 100,
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "50.00",
       "voteYes" : 1
    },
    {
@@ -200,8 +200,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "80.00",
-      "voteYes" : 3
+      "votePercent" : "83.33",
+      "voteYes" : 4
    },
    {
       "artist" : "鈎兎(KagiUsagi) obj.fhyu",
