@@ -246,8 +246,8 @@
       "url_diff" : "https://www.dropbox.com/s/b3npusj8m1un2hy/egao_%5B7-8_sssss%5D.bme?dl=0",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "87.50",
-      "voteYes" : 7
+      "votePercent" : "88.89",
+      "voteYes" : 8
    },
    {
       "artist" : "ルゼ obj:monaka",
@@ -483,6 +483,23 @@
       "voteYes" : 8
    },
    {
+      "artist" : "sound piercer obj:goe",
+      "comment" : "sl12~st0?",
+      "level" : "12",
+      "md5" : "9ce344c90254fae923d002757511fb87",
+      "proposer" : "MIUNA",
+      "proposerLr2id" : 122137,
+      "sha256" : "524b01e028acbff9086e0048a75cea45684b35a55a54f7c0e57f82b67a2563ea",
+      "submission" : 1215,
+      "title" : "Castorpollux [G2]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=381&event=104",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01763",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "みーに feat. 初音ミク",
       "level" : "0",
       "md5" : "be75d2aa1742255f3fdaa94d11ba166f",
@@ -497,6 +514,23 @@
       "voteNo" : 0,
       "votePercent" : "92.86",
       "voteYes" : 12
+   },
+   {
+      "artist" : "ETIA. feat.Jenga jubeated",
+      "comment" : "ガチ押し",
+      "level" : "11",
+      "md5" : "c431cc653778a749320ed146c7981567",
+      "proposer" : "のの",
+      "proposerLr2id" : 149743,
+      "sha256" : "21dd23748982f6c61917c766282b8f89f9115564de426026c8ecd8063e3f9466",
+      "submission" : 1216,
+      "title" : "Love Blood [BLOODY]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=59&event=76",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "srask",

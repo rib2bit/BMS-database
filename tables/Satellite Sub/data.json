@@ -10718,6 +10718,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "sound piercer obj:goe",
+      "comment" : "sl12~st0?",
+      "level" : "12",
+      "md5" : "9ce344c90254fae923d002757511fb87",
+      "proposer" : "MIUNA",
+      "proposerLr2id" : 122137,
+      "sha256" : "524b01e028acbff9086e0048a75cea45684b35a55a54f7c0e57f82b67a2563ea",
+      "submission" : 1215,
+      "title" : "Castorpollux [G2]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=381&event=104",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01763"
+   },
+   {
       "artist" : "ねこみみ魔法使い / obj:岡部うすにごり",
       "comment" : "微連打地力 sl10~11?",
       "level" : "11",
@@ -14003,6 +14016,19 @@
       "title" : "Signal Stars [Radiance Ark]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=348&event=104",
       "url_diff" : "http://ux.getuploader.com/monaka_sabun_2/download/84/%5BRe_Resolutions+-+Signal+Stars%5DMGA.zip"
+   },
+   {
+      "artist" : "ETIA. feat.Jenga jubeated",
+      "comment" : "ガチ押し",
+      "level" : "11",
+      "md5" : "c431cc653778a749320ed146c7981567",
+      "proposer" : "のの",
+      "proposerLr2id" : 149743,
+      "sha256" : "21dd23748982f6c61917c766282b8f89f9115564de426026c8ecd8063e3f9466",
+      "submission" : 1216,
+      "title" : "Love Blood [BLOODY]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=59&event=76",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
    },
    {
       "artist" : "Linne X SCTL Visualized by Keiyuu & RED-FOX / obj:monaka",
