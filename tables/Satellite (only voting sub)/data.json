@@ -1,5 +1,22 @@
 [
    {
+      "artist" : "sak feat.みゅい Movie: げ～むばか Illust: 球根 obj: 七海千秋",
+      "comment" : "高速階段、トリル、終盤難",
+      "level" : "12",
+      "md5" : "01109ff8ec2f7ed0192697737dad3e11",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "0838cca8355a5dc92a4f896cc483c831d8cbc579679d6ec2d8124c4342a9a483",
+      "submission" : 1217,
+      "title" : "Unleashed World [EXTRA]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=123",
+      "url_diff" : "https://www.dropbox.com/s/73ec3ps486ztczy/_Unleashed%20World_nanami01.bms?dl=0",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
       "artist" : "BTB Mov : mzet :-p & OLB / obj:sagoo",
       "level" : "4",
       "md5" : "01e785472e36fc2ad4d70d3e7f610f36",
@@ -12,8 +29,8 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up5113.zip",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "50.00",
-      "voteYes" : 1
+      "votePercent" : "62.50",
+      "voteYes" : 2
    },
    {
       "artist" : "Fl00t mov:task228 / obj.2RLZ",
@@ -146,7 +163,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 12
+      "voteYes" : 13
    },
    {
       "artist" : "q/stol obj.Lapis",
@@ -246,8 +263,8 @@
       "url_diff" : "https://www.dropbox.com/s/b3npusj8m1un2hy/egao_%5B7-8_sssss%5D.bme?dl=0",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "88.89",
-      "voteYes" : 8
+      "votePercent" : "90.00",
+      "voteYes" : 9
    },
    {
       "artist" : "ルゼ obj:monaka",
@@ -313,8 +330,8 @@
       "url_diff" : "http://akred.web.fc2.com/ak-red-new.html",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "50.00",
-      "voteYes" : 2
+      "votePercent" : "55.00",
+      "voteYes" : 3
    },
    {
       "artist" : "Aoi mov:出前 / obj:BK + Lapis",
@@ -331,7 +348,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 11
+      "voteYes" : 12
    },
    {
       "artist" : "Ino(chronoize) feat. 柳瀬マサキ obj. DK",
@@ -379,8 +396,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "80.00",
-      "voteYes" : 4
+      "votePercent" : "83.33",
+      "voteYes" : 5
    },
    {
       "artist" : "DJ TECHNORCH Remixed by tpa:pbr / obj:夢瑠",
@@ -496,8 +513,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01763",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "みーに feat. 初音ミク",
@@ -529,8 +546,8 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "srask",
@@ -652,6 +669,23 @@
       "voteYes" : 11
    },
    {
+      "artist" : "ROKINA BGA:TEKINA",
+      "comment" : "皿、ソフラン、乱打",
+      "level" : "2",
+      "md5" : "e93d0e6dec31dbe67e2fa4d446995cdf",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "e253873c4326760a38ded33a555d02a337a389ae32c8cc021f813cf0d77cf477",
+      "submission" : 1218,
+      "title" : "YUKINA [SP MASTER]",
+      "url" : "https://drive.google.com/file/d/1SyNIfxEjaTyn661d56ACDBX3gvzf7LhS/view",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "Lokan",
       "comment" : "BOFXV、乱打、少し皿",
       "level" : "5",
@@ -715,7 +749,7 @@
       "url_diff" : "http://akred.web.fc2.com/baecon/OrbitalPeriod7keys_INF.bme",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "85.71",
-      "voteYes" : 6
+      "votePercent" : "87.50",
+      "voteYes" : 7
    }
 ]

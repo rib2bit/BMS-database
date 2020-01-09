@@ -72,6 +72,19 @@
       "url_diff" : "http://akred.web.fc2.com/baecon/wagamani_EX.bms"
    },
    {
+      "artist" : "sak feat.みゅい Movie: げ～むばか Illust: 球根 obj: 七海千秋",
+      "comment" : "高速階段、トリル、終盤難",
+      "level" : "12",
+      "md5" : "01109ff8ec2f7ed0192697737dad3e11",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "0838cca8355a5dc92a4f896cc483c831d8cbc579679d6ec2d8124c4342a9a483",
+      "submission" : 1217,
+      "title" : "Unleashed World [EXTRA]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=123",
+      "url_diff" : "https://www.dropbox.com/s/73ec3ps486ztczy/_Unleashed%20World_nanami01.bms?dl=0"
+   },
+   {
       "artist" : "相 琴葉 / UNHAPPY MAKER",
       "comment" : "Chaos",
       "level" : "8",
@@ -16706,6 +16719,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "ROKINA BGA:TEKINA",
+      "comment" : "皿、ソフラン、乱打",
+      "level" : "2",
+      "md5" : "e93d0e6dec31dbe67e2fa4d446995cdf",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "e253873c4326760a38ded33a555d02a337a389ae32c8cc021f813cf0d77cf477",
+      "submission" : 1218,
+      "title" : "YUKINA [SP MASTER]",
+      "url" : "https://drive.google.com/file/d/1SyNIfxEjaTyn661d56ACDBX3gvzf7LhS/view",
+      "url_diff" : ""
    },
    {
       "artist" : "corok-Bb obj:SUZUKAZEΛ",
