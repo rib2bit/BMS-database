@@ -881,7 +881,7 @@
    },
    {
       "artist" : "ridis /obj. laner",
-      "level" : "1",
+      "level" : "0",
       "md5" : "1066a4dd2a935ef76487ad2970b83025",
       "proposer" : "파이어",
       "proposerLr2id" : 7290,
@@ -10184,6 +10184,18 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Saz obj: qtp13",
+      "level" : "4",
+      "md5" : "a94ebcf3a7e83901a416c7be95ff40da",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "f852be09e01638ab55c803cf85bec804d4a9f7b079acf20f4a5b753302fc6207",
+      "submission" : 1050,
+      "title" : "Act #000000 (short) [Extra]",
+      "url" : "http://1drv.ms/1zux72P",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03773"
+   },
+   {
       "artist" : "P4koo feat. A.Dokuga image : keiyuu/mov : VISREV / obj : O",
       "comment" : "",
       "level" : "6",
@@ -10936,7 +10948,7 @@
    },
    {
       "artist" : "remixed celas feat.ARU/さ",
-      "level" : "1",
+      "level" : "2",
       "md5" : "b61a8bcfc8f6595c42c6c003cd208cf5",
       "proposer" : "こめっと",
       "proposerLr2id" : 80964,
@@ -15110,6 +15122,18 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Junk obj.鰐",
+      "level" : "2",
+      "md5" : "fe100f7877adee1ef88de03e0ed7a6a0",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "fb5e750f7382af6071d2408601ab74310de9761436a38d5dfbfc70d9d548c2a4",
+      "submission" : 1051,
+      "title" : "Life is PIANO [Wander]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=375&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03366"
+   },
+   {
       "artist" : "uma vs. モリモリあつし obj.#",
       "comment" : "00283",
       "level" : "1",
@@ -15157,7 +15181,7 @@
    {
       "artist" : "ProjectG / obj.2RLZ",
       "comment" : "三(?)重乱打+微連打",
-      "level" : "2",
+      "level" : "3",
       "md5" : "fe7588028c012ecbbf4e3930ccaf120e",
       "proposer" : "SHAX.",
       "proposerLr2id" : 65624,
