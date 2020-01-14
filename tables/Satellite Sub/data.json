@@ -1440,6 +1440,18 @@
       "voteYes" : 0
    },
    {
+      "artist" : "mossari obj:SUZUKAZEΛ",
+      "level" : "6",
+      "md5" : "14aeaa74a92fb73baa3687d97f7e050f",
+      "proposer" : "dstorv",
+      "proposerLr2id" : 145158,
+      "sha256" : "040ad335c70d8490dcabeec5075c82a7abadef4b4ddcb8b8a8df06e46cb6c9e4",
+      "submission" : 1225,
+      "title" : "Coda [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=210&event=104",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html"
+   },
+   {
       "artist" : "11. House Team",
       "comment" : "BOFU2017, HOUSE",
       "level" : "0",
@@ -17150,6 +17162,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "eicateve / obj:Restia hrchem,Takamatsu,Sennzai,Yamaguchi,eoll",
+      "comment" : "同時押し",
+      "level" : "1",
+      "md5" : "edf3b5d7f64ea23cf04f70443632b782",
+      "proposer" : "dstorv",
+      "proposerLr2id" : 145158,
+      "sha256" : "c48101836126ce9296a0ed018563979cd949e9ee967a591019bdc6ceb7dfd103",
+      "submission" : 1224,
+      "title" : "Luca [ABNORMAL]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=466&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?"
    },
    {
       "artist" : "ああああ obj:SUZUKAZEΛ",
