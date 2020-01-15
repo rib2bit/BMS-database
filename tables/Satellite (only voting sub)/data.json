@@ -47,7 +47,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 9
+   },
+   {
+      "artist" : "ETIA. Movie: Freezer obj:Fender",
+      "comment" : "皿複合/ズレ/乱打",
+      "level" : "9",
+      "md5" : "0e44e4ac3b9955124859563def40c3a4",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "f2b7aa8dd5cb8a119bf3f829a10365004bc2a4da8a3d5349cd50f8dea259b80b",
+      "submission" : 1227,
+      "title" : "Damnation 565 [F]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=30&event=110",
+      "url_diff" : "https://www.dropbox.com/s/jdrn8bvx9em7wmd/Damnation565FFF.zip?dl=1",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "mossari obj:SUZUKAZEΛ",
@@ -62,8 +79,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 5
    },
    {
       "artist" : "Epic Sprite vs S.C.T.L (obj: isocosa)",
@@ -96,8 +113,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 5
+      "votePercent" : "92.86",
+      "voteYes" : 6
    },
    {
       "artist" : "q/stol obj.Lapis",
@@ -130,8 +147,8 @@
       "url_diff" : "https://frozensat.github.io/sabun/010_SKT.zip",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "93.75",
-      "voteYes" : 7
+      "votePercent" : "95.00",
+      "voteYes" : 9
    },
    {
       "artist" : "森きるは obj : 双葉杏",
@@ -164,8 +181,8 @@
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up1391.rar",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "87.50",
-      "voteYes" : 3
+      "votePercent" : "94.44",
+      "voteYes" : 8
    },
    {
       "artist" : "LiA obj:SUZUKAZEΛ",
@@ -198,7 +215,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 6
    },
    {
       "artist" : "ETIA. feat.Jenga jubeated",
@@ -248,8 +265,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "80.00",
+      "voteYes" : 3
    },
    {
       "artist" : "梅干茶漬け obj:rail",
@@ -267,5 +284,22 @@
       "voteNo" : 0,
       "votePercent" : "95.83",
       "voteYes" : 11
+   },
+   {
+      "artist" : "Lime obj : BAECON",
+      "comment" : "乱打/二重階段",
+      "level" : "10",
+      "md5" : "f6d9d7e536801d45e3126493842dbc40",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "00c4080f4b94766a6162c5f2b9a1a1825fcb117bd43ffa63ffdfa1819a4d57c8",
+      "submission" : 1228,
+      "title" : "Aurora [Northern Frontier]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=330&event=127",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03666",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    }
 ]

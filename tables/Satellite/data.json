@@ -2216,19 +2216,6 @@
       "url_diff" : "https://www.dropbox.com/s/wrrql6oz64marqf/late_summer_a%2B.bms?dl=0"
    },
    {
-      "artist" : "eicateve hrchem[illust] TOHRU MiTSUHASHi[movie] w[object]",
-      "comment" : "sl2-3? 微LN 微皿",
-      "level" : "3",
-      "md5" : "3a5f2fe6fc40ca6451e94ea52836c353",
-      "proposer" : "かに",
-      "proposerLr2id" : 115381,
-      "sha256" : "a93039547676dfe60ba702846d79e5ac0b15b9772bdb49dd62308e3777166169",
-      "submission" : 294,
-      "title" : "R.I.P. [W]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=123&num=339",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02399"
-   },
-   {
       "artist" : "Cosine obj.B_K",
       "comment" : "BOFU2016、ガチ押し、皿同時押し、階段",
       "level" : "3",
@@ -9519,6 +9506,18 @@
       "title" : "PLUS+INFINITY [ZOI]",
       "url" : "http://k-bms.com/party_pabat/party2018.jsp?board_num=18&num=34&order=reg&odtype=a",
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html"
+   },
+   {
+      "artist" : "eicateve hrchem[illust] TOHRU MiTSUHASHi[movie] w[object]",
+      "comment" : "fixed chart",
+      "level" : "3",
+      "md5" : "e3fa38ed30a52e5a388148df644817a3",
+      "proposer" : "LUXURY♪",
+      "sha256" : "14cbea667c4507510d0e395fbbad342430cde8fe520228e6e35e535eb5bb4cd9",
+      "submission" : 1226,
+      "title" : "R.I.P. [W] (fix)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=123&num=339",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03811"
    },
    {
       "artist" : "Lipschitz",

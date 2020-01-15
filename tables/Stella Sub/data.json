@@ -7408,6 +7408,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "saikoro",
+      "comment" : "微縦連",
+      "level" : "2",
+      "md5" : "7aa7e173c7ef7464579c513b74a08d7a",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "86c5e1ef5a6fb78af55952f27b4e13073da00db6642085354e8ff8bbbefec893",
+      "submission" : 1052,
+      "title" : "far in the blue sky... [remember...]",
+      "url" : "http://web.archive.org/web/20040601000000/http://www.digitaljunk.net/saikoro-fitbs.rar",
+      "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
       "artist" : "KaKi / obj:otoshi.b",
       "comment" : "2連打複合",
       "level" : "4",
@@ -11085,6 +11098,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "SUPER STAR 健人 obj.hex",
+      "comment" : "CHANさんのもの ディレイ 連打複合 アレンジ差分です。",
+      "level" : "4",
+      "md5" : "b8e1c338ba07ce8a7d46d4a1d795e672",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "9dd32b6ed06e924c3333baa1e3e2d4bda59836840244ea099c4f378048959866",
+      "submission" : 1053,
+      "title" : "Lonely One Christmas [Hexagon]",
+      "url" : "https://onedrive.live.com/?cid=F61C1F8825F0CF46&id=F61C1F8825F0CF46%21344&parId=F61C1F8825F0CF46%21159&o=OneUp",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html"
+   },
+   {
       "artist" : "LeaF / obj : LindBlum☆彡 Movie:Optie",
       "comment" : "mopemope",
       "level" : "9",
@@ -12526,6 +12552,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "11.Soccer Team",
+      "comment" : "高速物量 STOPシーケンスと拍子の修正に起因するズレている",
+      "level" : "8",
+      "md5" : "d0e8c3ea6fec34783b1e01ed661f4b28",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "7d047e1e8bf6967a935ef05c7774071124b670612c21ebc5a08db394781ef2be",
+      "submission" : 1054,
+      "title" : "ドキッ！けふぃーとひ・み・つｖのサッカータイム☆☆ニャホニャホしても、いいんですよ･･･？　 ～KEFIFAワールドカップ編 We love 汚滝健太郎～",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=600&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01626"
    },
    {
       "artist" : "uet vs Neun_jack / mov:Roaring Flame / obj:BAECON",
