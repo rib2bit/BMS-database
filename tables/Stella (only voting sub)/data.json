@@ -131,8 +131,8 @@
       "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "hapi⇒ feat. 初音ミク obj.ゆーきさん",
@@ -165,8 +165,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01626",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "Sakamiya feat.A.Dokuga img:HalHAL Lyrics:uoru notes:ELIGOS",
@@ -198,7 +198,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03366",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 3
    }
 ]

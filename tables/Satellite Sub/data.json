@@ -7871,6 +7871,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "SOMON",
+      "comment" : "BOFXV、皿同時押し",
+      "level" : "0",
+      "md5" : "6fac83c3c74236991cf12953a92d2a57",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "d665de78bda87f18fa628d8102661181ffc478067f376dade10e64b9c52f9d0b",
+      "submission" : 1229,
+      "title" : "-Never ending journey- [BLACKANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=113&event=127",
+      "url_diff" : ""
+   },
+   {
       "artist" : "punchhh",
       "comment" : "シャッフル高速乱打",
       "level" : "1",
@@ -11227,6 +11240,19 @@
       "submission" : 1057,
       "title" : "LOE4 Another",
       "url" : "https://venue.bmssearch.net/bmsshuin2/33",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "GUANA / LuCenT obj. Lapis",
+      "comment" : "BOFXV、乱打、隠し譜面",
+      "level" : "1",
+      "md5" : "a35d01bf77358e15ec980ac5dc5c891e",
+      "proposer" : "STANK!",
+      "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
+      "sha256" : "28f07340e380f5f7069157f5a847d40af586a98a209eb1ee04ba411418bbb9e8",
+      "submission" : 1232,
+      "title" : "Another Day [HIDDEN]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=82&event=127",
       "url_diff" : ""
    },
    {
@@ -16851,6 +16877,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "アクジ BGA:出まえ / obj:saaa",
+      "comment" : "同時押し、プチデニム",
+      "level" : "2",
+      "md5" : "e9fecae1750af64f758935a163205a98",
+      "proposer" : "STANK!",
+      "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
+      "sha256" : "6a1b9dbdd879fe69bd7e63f7d8fc497df7a0f8ed5816368ab10cc3479e9ce693",
+      "submission" : 1231,
+      "title" : "草 [lol]",
+      "url" : "https://dropbox.bms.ms/u/272956039/%E8%8D%89%20ogg.zip",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00829"
+   },
+   {
       "artist" : "Ras obj:YOURI",
       "comment" : "皿複合、繰り返し系物量",
       "level" : "0",
@@ -17638,6 +17677,19 @@
       "title" : "プナイプナイげんそう [プナイプナイの右往左往ファンタジア]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=249&event=127",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03506"
+   },
+   {
+      "artist" : "E0ri4 BGA:GAMEBAKA / obj : kaguya",
+      "comment" : "BOFXV、トリル、皿、軸、同時押し、階段、色々",
+      "level" : "0",
+      "md5" : "f53a4afa90779cbd094470e9377b53d4",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "8a7e468d31087048551f6e4dd3d052edcdd7068ab1096944e0f640ca9a55a2e0",
+      "submission" : 1230,
+      "title" : "Rainy Gate [Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=60&event=127",
+      "url_diff" : ""
    },
    {
       "artist" : "otoshi.b obj.Lapis",
