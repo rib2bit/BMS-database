@@ -6767,6 +6767,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "ALFOU obj.hex",
+      "comment" : "G2R2018 乱打",
+      "level" : "3",
+      "md5" : "6d8ec35af7fbd1647cfabdde5a9fc75f",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "7b0ccd52c17174167951529e4715371eca15373da054a85d74fb6fde3eb2b85f",
+      "submission" : 1056,
+      "title" : "Fluctuate [Pentagon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=429&event=123",
+      "url_diff" : "http://bms.hexlataia.xyz/sabun/%E2%98%85%E2%98%853%20%E2%98%85%E2%98%854%20Fluctuate%20%5BPentagon%5D%20%5BHexagon%5D.zip"
+   },
+   {
       "artist" : "黄泉路テヂーモ / 出前×篠乃ちよ / A",
       "level" : "0",
       "md5" : "6dc04f5f2faa96d4b94a9f13f4c22dd9",
@@ -8368,6 +8381,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "秋山 澪/obj:BAECON",
+      "comment" : "★★1,st3",
+      "level" : "1",
+      "md5" : "8b327890a493ead1825472d4c4f7bc79",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "3df62734e72d28c08e2ba5f53a1a89e715e6a30549e49e1a4eb6f62f109a6c19",
+      "submission" : 1055,
+      "title" : "水晶世界 ～Fracture～ [MANIAC]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=44&event=65",
+      "url_diff" : "http://akred.web.fc2.com/baecon/_crystal-world_r_7maniac.bme"
    },
    {
       "artist" : "xelloscope / obj.swa",

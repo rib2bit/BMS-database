@@ -12120,6 +12120,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "xelloscope / obj:Monsta",
+      "comment" : "ガチ押し",
+      "level" : "10",
+      "md5" : "ae9c27921ca2e2bca7aed1012e560be0",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "5a18905a68de40b4b44e1dd5a97b2f2c18e94472236a9313c4e7a5019b53ea28",
+      "submission" : 1234,
+      "title" : "Apollo [Monsther+]",
+      "url" : "http://www.luzeria.net/?p=387",
+      "url_diff" : "http://3228monsta.web.fc2.com/"
+   },
+   {
       "artist" : "Micelle",
       "comment" : "BMSをいっぱい作る2019、階段、皿同時押し",
       "level" : "0",
@@ -15686,6 +15699,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "siqlo BGA:将軍 / obj.JoeT",
+      "comment" : "物量乱打、微縦連、BHCs7",
+      "level" : "3",
+      "md5" : "d9d7984f8dd5d70f8d9b7e1a4994634c",
+      "proposer" : "Scely",
+      "proposerLr2id" : 128281,
+      "sha256" : "8e5003c6b7e2ff69a1e70d147b28985cc8b833655a1fe844ac46f5c402cdb4fb",
+      "submission" : 1233,
+      "title" : "Me & U [Q]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=218&event=127",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03880"
    },
    {
       "artist" : "witch's slave",

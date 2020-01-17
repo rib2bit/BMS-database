@@ -14,7 +14,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
    },
    {
       "artist" : "BTB Mov : mzet :-p & OLB / obj:sagoo",
@@ -47,7 +47,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
+      "voteYes" : 11
    },
    {
       "artist" : "ETIA. Movie: Freezer obj:Fender",
@@ -64,7 +64,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 6
    },
    {
       "artist" : "mossari obj:SUZUKAZEΛ",
@@ -79,8 +79,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 5
+      "votePercent" : "93.75",
+      "voteYes" : 7
    },
    {
       "artist" : "Epic Sprite vs S.C.T.L (obj: isocosa)",
@@ -97,7 +97,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 10
+      "voteYes" : 11
    },
    {
       "artist" : "ARForest / inukoro obj. Limite",
@@ -113,8 +113,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "92.86",
-      "voteYes" : 6
+      "votePercent" : "94.44",
+      "voteYes" : 8
    },
    {
       "artist" : "q/stol obj.Lapis",
@@ -147,8 +147,8 @@
       "url_diff" : "https://frozensat.github.io/sabun/010_SKT.zip",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.00",
-      "voteYes" : 9
+      "votePercent" : "95.83",
+      "voteYes" : 11
    },
    {
       "artist" : "森きるは obj : 双葉杏",
@@ -182,7 +182,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 9
    },
    {
       "artist" : "SHK / obj:ノワール",
@@ -198,8 +198,8 @@
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up1391.rar",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "94.44",
-      "voteYes" : 8
+      "votePercent" : "95.00",
+      "voteYes" : 9
    },
    {
       "artist" : "LiA obj:SUZUKAZEΛ",
@@ -214,8 +214,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "80.77",
-      "voteYes" : 10
+      "votePercent" : "82.14",
+      "voteYes" : 11
    },
    {
       "artist" : "しらいし / 奈那樹",
@@ -231,7 +231,7 @@
       "url_diff" : "http://flowermaster.web.fc2.com/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "92.86",
       "voteYes" : 6
    },
    {
@@ -246,6 +246,23 @@
       "title" : "Another Day [HIDDEN]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=82&event=127",
       "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 4
+   },
+   {
+      "artist" : "xelloscope / obj:Monsta",
+      "comment" : "ガチ押し",
+      "level" : "10",
+      "md5" : "ae9c27921ca2e2bca7aed1012e560be0",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "5a18905a68de40b4b44e1dd5a97b2f2c18e94472236a9313c4e7a5019b53ea28",
+      "submission" : 1234,
+      "title" : "Apollo [Monsther+]",
+      "url" : "http://www.luzeria.net/?p=387",
+      "url_diff" : "http://3228monsta.web.fc2.com/",
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 100,
@@ -265,8 +282,25 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "75.00",
-      "voteYes" : 6
+      "votePercent" : "80.77",
+      "voteYes" : 9
+   },
+   {
+      "artist" : "siqlo BGA:将軍 / obj.JoeT",
+      "comment" : "物量乱打、微縦連、BHCs7",
+      "level" : "3",
+      "md5" : "d9d7984f8dd5d70f8d9b7e1a4994634c",
+      "proposer" : "Scely",
+      "proposerLr2id" : 128281,
+      "sha256" : "8e5003c6b7e2ff69a1e70d147b28985cc8b833655a1fe844ac46f5c402cdb4fb",
+      "submission" : 1233,
+      "title" : "Me & U [Q]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=218&event=127",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03880",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "hugepulse BGA:Micelle",
@@ -282,7 +316,7 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "81.82",
+      "votePercent" : "79.17",
       "voteYes" : 7
    },
    {
@@ -299,8 +333,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00829",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 4
    },
    {
       "artist" : "eicateve / obj:Restia hrchem,Takamatsu,Sennzai,Yamaguchi,eoll",
@@ -316,8 +350,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "78.57",
-      "voteYes" : 4
+      "votePercent" : "83.33",
+      "voteYes" : 6
    },
    {
       "artist" : "E0ri4 BGA:GAMEBAKA / obj : kaguya",
@@ -334,7 +368,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 8
    },
    {
       "artist" : "梅干茶漬け obj:rail",
@@ -368,6 +402,6 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 5
    }
 ]
