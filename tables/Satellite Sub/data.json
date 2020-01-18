@@ -7917,6 +7917,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "RicoLys BGA : raii  obj : 「B」",
+      "comment" : "sl3? 皿、縦連 少し",
+      "level" : "3",
+      "md5" : "701e16fabee5967198c9349b2085b7b8",
+      "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
+      "sha256" : "3f518c2f3ca9c5eea180c8604e23b06ccf785c5c76df3f967528777e4fbee9a0",
+      "submission" : 1237,
+      "title" : "Verktix [SP INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=222&event=127",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Nitrix obj by sound piercer",
       "comment" : "ギアチェン猶予のあるソフランあり",
       "level" : "5",
@@ -8303,6 +8316,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Micelle",
+      "comment" : "sl8~9? 皿複合",
+      "level" : "8",
+      "md5" : "774f2c6f9635ea39a0d1b8480ff0f253",
+      "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
+      "sha256" : "0cf7ef769561d1609acccf7a5d571a0358fbd9e298d3172e92ac0485da797871",
+      "submission" : 1236,
+      "title" : "PhonDrome! [GALAPAGOS']",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=127",
+      "url_diff" : ""
    },
    {
       "artist" : "おみー obj:れもんるり",
@@ -17835,6 +17861,19 @@
       "title" : "Aurora [Northern Frontier]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=330&event=127",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03666"
+   },
+   {
+      "artist" : "しらいし obj: misty.ls04",
+      "comment" : "高速乱打(SPA基準ズレなし)",
+      "level" : "8",
+      "md5" : "f6fcf9d49a05f48ccc495a632d626c7f",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "1bb3ec267335d2bf7e1c8bca7ed11a5954e726b66148ee35c169ffe736186e1d",
+      "submission" : 1235,
+      "title" : "XIX [MM]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=132&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
    },
    {
       "artist" : "LeaF × kana / obj:chack Movie:To7",

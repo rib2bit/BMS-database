@@ -11,9 +11,9 @@
       "title" : "Unleashed World [EXTRA]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=123",
       "url_diff" : "https://www.dropbox.com/s/73ec3ps486ztczy/_Unleashed%20World_nanami01.bms?dl=0",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "88.89",
       "voteYes" : 8
    },
    {
@@ -64,7 +64,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "mossari obj:SUZUKAZEΛ",
@@ -147,8 +147,8 @@
       "url_diff" : "https://frozensat.github.io/sabun/010_SKT.zip",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.83",
-      "voteYes" : 11
+      "votePercent" : "96.15",
+      "voteYes" : 12
    },
    {
       "artist" : "森きるは obj : 双葉杏",
@@ -185,6 +185,23 @@
       "voteYes" : 9
    },
    {
+      "artist" : "RicoLys BGA : raii  obj : 「B」",
+      "comment" : "sl3? 皿、縦連 少し",
+      "level" : "3",
+      "md5" : "701e16fabee5967198c9349b2085b7b8",
+      "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
+      "sha256" : "3f518c2f3ca9c5eea180c8604e23b06ccf785c5c76df3f967528777e4fbee9a0",
+      "submission" : 1237,
+      "title" : "Verktix [SP INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=222&event=127",
+      "url_diff" : "",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "75.00",
+      "voteYes" : 3
+   },
+   {
       "artist" : "SHK / obj:ノワール",
       "comment" : "",
       "level" : "2",
@@ -198,8 +215,25 @@
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up1391.rar",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.00",
-      "voteYes" : 9
+      "votePercent" : "95.45",
+      "voteYes" : 10
+   },
+   {
+      "artist" : "Micelle",
+      "comment" : "sl8~9? 皿複合",
+      "level" : "8",
+      "md5" : "774f2c6f9635ea39a0d1b8480ff0f253",
+      "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
+      "sha256" : "0cf7ef769561d1609acccf7a5d571a0358fbd9e298d3172e92ac0485da797871",
+      "submission" : 1236,
+      "title" : "PhonDrome! [GALAPAGOS']",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=127",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "LiA obj:SUZUKAZEΛ",
@@ -265,8 +299,8 @@
       "url_diff" : "http://3228monsta.web.fc2.com/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "ETIA. feat.Jenga jubeated",
@@ -299,8 +333,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03880",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 5
    },
    {
       "artist" : "hugepulse BGA:Micelle",
@@ -334,7 +368,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "eicateve / obj:Restia hrchem,Takamatsu,Sennzai,Yamaguchi,eoll",
@@ -350,8 +384,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 6
+      "votePercent" : "86.36",
+      "voteYes" : 8
    },
    {
       "artist" : "E0ri4 BGA:GAMEBAKA / obj : kaguya",
@@ -403,5 +437,22 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 5
+   },
+   {
+      "artist" : "しらいし obj: misty.ls04",
+      "comment" : "高速乱打(SPA基準ズレなし)",
+      "level" : "8",
+      "md5" : "f6fcf9d49a05f48ccc495a632d626c7f",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "1bb3ec267335d2bf7e1c8bca7ed11a5954e726b66148ee35c169ffe736186e1d",
+      "submission" : 1235,
+      "title" : "XIX [MM]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=132&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
    }
 ]
