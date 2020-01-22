@@ -47,7 +47,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 14
+      "voteYes" : 15
    },
    {
       "artist" : "ETIA. Movie: Freezer obj:Fender",
@@ -113,8 +113,25 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "96.15",
-      "voteYes" : 12
+      "votePercent" : "96.43",
+      "voteYes" : 13
+   },
+   {
+      "artist" : "CELLON. (anubasu-anubasu)/さ",
+      "comment" : "物量",
+      "level" : "10",
+      "md5" : "2f35d319df82a59e04a46db24635f8a9",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "36a7c3641364fd1181dbdaed42982ede600f7a67fffd49eb2255e3fbba954e02",
+      "submission" : 1238,
+      "title" : "The island of albatross -8bit Style RMX- [EX]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=65&event=84",
+      "url_diff" : "https://web.archive.org/web/20190207151524/http://sabosabun.tank.jp/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "75.00",
+      "voteYes" : 1
    },
    {
       "artist" : "q/stol obj.Lapis",
@@ -147,8 +164,8 @@
       "url_diff" : "https://frozensat.github.io/sabun/010_SKT.zip",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "96.43",
-      "voteYes" : 13
+      "votePercent" : "96.67",
+      "voteYes" : 14
    },
    {
       "artist" : "森きるは obj : 双葉杏",
@@ -182,7 +199,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 14
+      "voteYes" : 15
    },
    {
       "artist" : "RicoLys BGA : raii  obj : 「B」",
@@ -198,8 +215,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "81.25",
-      "voteYes" : 6
+      "votePercent" : "83.33",
+      "voteYes" : 7
    },
    {
       "artist" : "SHK / obj:ノワール",
@@ -215,8 +232,8 @@
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up1391.rar",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "87.50",
-      "voteYes" : 10
+      "votePercent" : "88.46",
+      "voteYes" : 11
    },
    {
       "artist" : "Micelle",
@@ -232,8 +249,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 5
+      "votePercent" : "92.86",
+      "voteYes" : 6
    },
    {
       "artist" : "LiA obj:SUZUKAZEΛ",
@@ -269,6 +286,23 @@
       "voteYes" : 6
    },
    {
+      "artist" : "guna with チーム・キュッキュ / И",
+      "comment" : "同時押し",
+      "level" : "0",
+      "md5" : "9e8e5eab10786acf2c4418aa63b6ab4d",
+      "proposer" : "chouco",
+      "proposerLr2id" : 158333,
+      "sha256" : "3e3d4eb635573bfcd1fdec9f6d82b8065d9d01804cc0d6113464370814e4048d",
+      "submission" : 1239,
+      "title" : "subconsciousness [Freud]",
+      "url" : "http://aquaseeds.net/",
+      "url_diff" : "https://bms.parksulab.xyz",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 4
+   },
+   {
       "artist" : "GUANA / LuCenT obj. Lapis",
       "comment" : "BOFXV、乱打、隠し譜面",
       "level" : "1",
@@ -282,8 +316,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "94.44",
-      "voteYes" : 8
+      "votePercent" : "91.67",
+      "voteYes" : 10
    },
    {
       "artist" : "xelloscope / obj:Monsta",
@@ -300,7 +334,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 9
    },
    {
       "artist" : "ETIA. feat.Jenga jubeated",
@@ -334,7 +368,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 9
    },
    {
       "artist" : "hugepulse BGA:Micelle",
@@ -367,8 +401,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00829",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "93.75",
-      "voteYes" : 7
+      "votePercent" : "94.44",
+      "voteYes" : 8
    },
    {
       "artist" : "eicateve / obj:Restia hrchem,Takamatsu,Sennzai,Yamaguchi,eoll",
@@ -384,8 +418,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 8
+      "votePercent" : "84.62",
+      "voteYes" : 9
    },
    {
       "artist" : "E0ri4 BGA:GAMEBAKA / obj : kaguya",
@@ -402,7 +436,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 11
+      "voteYes" : 12
    },
    {
       "artist" : "梅干茶漬け obj:rail",
@@ -418,8 +452,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00198",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "96.15",
-      "voteYes" : 12
+      "votePercent" : "96.43",
+      "voteYes" : 13
    },
    {
       "artist" : "Lime obj : BAECON",
@@ -436,7 +470,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 9
    },
    {
       "artist" : "しらいし obj: misty.ls04",
@@ -453,6 +487,6 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    }
 ]
