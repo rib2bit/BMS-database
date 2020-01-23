@@ -1732,6 +1732,18 @@
       "voteYes" : 0
    },
    {
+      "artist" : "lazward / BGI:ミロ飲め夫 / obj:Sar",
+      "level" : "8",
+      "md5" : "1922023d01ef953493c15342a4c418ca",
+      "proposer" : "TA2YA.",
+      "proposerLr2id" : 64145,
+      "sha256" : "5caeb9291269000cf72c5d3b6baa88659ac5a3bb9731b08c2846f82527973729",
+      "submission" : 1241,
+      "title" : "Stokesia [NEXT]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=272&event=104",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
+   },
+   {
       "artist" : "Rethisly BGA:るっかるか / obj:monaka",
       "comment" : "物量",
       "level" : "4",
@@ -9907,6 +9919,18 @@
       "voteYes" : 0
    },
    {
+      "artist" : "暁美ほむら /差分 赤い人",
+      "level" : "2",
+      "md5" : "8cb8c32c1f06fdfc5b11d22de0731539",
+      "proposer" : "TA2YA.",
+      "proposerLr2id" : 64145,
+      "sha256" : "1a974f70951355157cc67f73b45ed7d27da6e0d475ac666129579a64896467d7",
+      "submission" : 1242,
+      "title" : "-if-扉のその向こう側へ [HARD]",
+      "url" : "http://web.archive.org/web/20140111153937/http://miohosina.moe.hm/bms/dl/homura_akemi_if.zip",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/if-HARD.bms"
+   },
+   {
       "artist" : "Aliesrite* (Ym1024 feat. lamie*) obj : BAECON",
       "comment" : "BOFU2016, 同時押し",
       "level" : "0",
@@ -10452,6 +10476,18 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Trinity BGA:q/stol obj:SANY",
+      "level" : "2",
+      "md5" : "95cc933f61be66e8f63fa0bdc464b49e",
+      "proposer" : "CATHERINE",
+      "proposerLr2id" : 119448,
+      "sha256" : "5b111354778db9ac280e45a2fb1c1772364551e43b5a22b9ee88af8c0497777d",
+      "submission" : 1240,
+      "title" : "char fleuri [Flower　Park]",
+      "url" : "https://drive.google.com/open?id=0B5DeFNA6-2ddRkVtRkFfZC1md0U",
+      "url_diff" : "https://ux.getuploader.com/SANY_sabun/"
    },
    {
       "artist" : "otoshi.b BGI:はしたかさん",
