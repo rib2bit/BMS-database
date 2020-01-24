@@ -50,6 +50,23 @@
       "voteYes" : 15
    },
    {
+      "artist" : "Gazan obj:monaka",
+      "comment" : "高速乱打(SPB基準ズレなし)",
+      "level" : "6",
+      "md5" : "0bf31b7065975f58a983142a3146da1d",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "70afa096361bde2bc3980a60647ddbd4a55f433b51f06ccbfa77da20975e8059",
+      "submission" : 1244,
+      "title" : "春夏秋冬少女 [All Season]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=169&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "ETIA. Movie: Freezer obj:Fender",
       "comment" : "皿複合/ズレ/乱打",
       "level" : "9",
@@ -146,8 +163,8 @@
       "url_diff" : "https://web.archive.org/web/20190207151524/http://sabosabun.tank.jp/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "66.67",
-      "voteYes" : 1
+      "votePercent" : "75.00",
+      "voteYes" : 2
    },
    {
       "artist" : "q/stol obj.Lapis",
@@ -385,6 +402,23 @@
       "voteYes" : 9
    },
    {
+      "artist" : "佐久間まゆ/星輝子/鷺沢文香",
+      "comment" : "ラス殺し",
+      "level" : "2",
+      "md5" : "bc23cdd089ecf4ace5c46db21cffb3d8",
+      "proposer" : "chouco",
+      "proposerLr2id" : 158333,
+      "sha256" : "affd3e17aa45e177613a4cd23f4a8ceb75180cf607cf0b4ba4b9413c34ae679a",
+      "submission" : 1243,
+      "title" : "恋愛シンドローム [forever]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=439&event=88",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=3023",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "ETIA. feat.Jenga jubeated",
       "comment" : "ガチ押し",
       "level" : "11",
@@ -398,8 +432,8 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "83.33",
-      "voteYes" : 11
+      "votePercent" : "84.38",
+      "voteYes" : 12
    },
    {
       "artist" : "siqlo BGA:将軍 / obj.JoeT",
@@ -518,7 +552,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 9
+      "voteYes" : 11
    },
    {
       "artist" : "しらいし obj: misty.ls04",

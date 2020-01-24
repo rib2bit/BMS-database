@@ -1004,6 +1004,19 @@
       "url_diff" : "http://siokazebms.web.fc2.com/"
    },
    {
+      "artist" : "Gazan obj:monaka",
+      "comment" : "高速乱打(SPB基準ズレなし)",
+      "level" : "6",
+      "md5" : "0bf31b7065975f58a983142a3146da1d",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "70afa096361bde2bc3980a60647ddbd4a55f433b51f06ccbfa77da20975e8059",
+      "submission" : 1244,
+      "title" : "春夏秋冬少女 [All Season]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=169&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
+   },
+   {
       "artist" : "wa. vs ETIA./さ deadblue238",
       "comment" : "修正後",
       "level" : "7",
@@ -13489,6 +13502,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "佐久間まゆ/星輝子/鷺沢文香",
+      "comment" : "ラス殺し",
+      "level" : "2",
+      "md5" : "bc23cdd089ecf4ace5c46db21cffb3d8",
+      "proposer" : "chouco",
+      "proposerLr2id" : 158333,
+      "sha256" : "affd3e17aa45e177613a4cd23f4a8ceb75180cf607cf0b4ba4b9413c34ae679a",
+      "submission" : 1243,
+      "title" : "恋愛シンドローム [forever]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=439&event=88",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=3023"
    },
    {
       "artist" : "SB_YUNE feat. 初音ミク/さ",
