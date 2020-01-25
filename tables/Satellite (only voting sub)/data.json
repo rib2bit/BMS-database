@@ -63,8 +63,8 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "ETIA. Movie: Freezer obj:Fender",
@@ -314,8 +314,8 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/if-HARD.bms",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 4
    },
    {
       "artist" : "Trinity BGA:q/stol obj:SANY",
@@ -331,7 +331,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 4
    },
    {
       "artist" : "しらいし / 奈那樹",
@@ -365,7 +365,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
    },
    {
       "artist" : "GUANA / LuCenT obj. Lapis",
@@ -381,8 +381,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "92.31",
-      "voteYes" : 11
+      "votePercent" : "92.86",
+      "voteYes" : 12
    },
    {
       "artist" : "xelloscope / obj:Monsta",
@@ -415,8 +415,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=3023",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "ETIA. feat.Jenga jubeated",
@@ -434,6 +434,23 @@
       "voteNo" : 1,
       "votePercent" : "84.38",
       "voteYes" : 12
+   },
+   {
+      "artist" : "ねこみりん scolded by 小宮真央 Movie:むらしん obj:七海千秋",
+      "comment" : "中盤難、皿複合、HS-FIXをMINですれば問題ないです。",
+      "level" : "9",
+      "md5" : "cc08ffc46f7ab454d024cf2ddf645e61",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "caf3792b780f48570b7f90ee693e4f7c85ad03c33ec8776e0fcfc9c58280d5f2",
+      "submission" : 1245,
+      "title" : "timeleeeess!!! -Despair-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=396&event=123",
+      "url_diff" : "https://www.dropbox.com/s/ppl1wsf546naklz/_99_nekomirin_timeless_nanami02.bme?dl=0",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "siqlo BGA:将軍 / obj.JoeT",
@@ -518,7 +535,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 13
+      "voteYes" : 14
    },
    {
       "artist" : "梅干茶漬け obj:rail",
