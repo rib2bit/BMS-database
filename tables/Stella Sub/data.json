@@ -1849,6 +1849,19 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00398"
    },
    {
+      "artist" : "saaa / obj:スノート",
+      "comment" : "0~1?",
+      "level" : "0",
+      "md5" : "21f413901b10b720cf5d9b287c914659",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "66b84370532df6088673ca235a20b0a0c16a5cd1ca0d1a1dba56289f7a9efe39",
+      "submission" : 1059,
+      "title" : "INSANER [Snother]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03882"
+   },
+   {
       "artist" : "NIKITA / misokabocha obj:ランダマイザ",
       "comment" : "up5662, 地力",
       "level" : "3",
@@ -6585,7 +6598,7 @@
    {
       "artist" : "Aota2. / ALESSA / obj:仙人掌の人",
       "comment" : "ガチ押し、後半難",
-      "level" : "4",
+      "level" : "3",
       "md5" : "6b06a96ca9566fcbefcf996d7f884285",
       "proposer" : "スノート",
       "proposerLr2id" : 86393,
@@ -7449,7 +7462,7 @@
    {
       "artist" : "saikoro",
       "comment" : "微縦連",
-      "level" : "2",
+      "level" : "3",
       "md5" : "7aa7e173c7ef7464579c513b74a08d7a",
       "proposer" : "SHAX.",
       "proposerLr2id" : 65624,
@@ -9122,6 +9135,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Widowmaker / selene.",
+      "comment" : "2?",
+      "level" : "2",
+      "md5" : "967a5e623b5a1e2a0c8672e78f9b3aca",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "aa03a1d00cfffbf7d39be9dee951beb7e398466412df0cdc0c8939c83c5fcb19",
+      "submission" : 1060,
+      "title" : "Gerard -Requiem-",
+      "url" : "https://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=72&order=reg&odtype=a",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01468"
+   },
+   {
       "artist" : "Team:SASAKURATION / selene.",
       "comment" : "物量・同時押し",
       "level" : "3",
@@ -10250,7 +10276,7 @@
    },
    {
       "artist" : "Saz obj: qtp13",
-      "level" : "4",
+      "level" : "3",
       "md5" : "a94ebcf3a7e83901a416c7be95ff40da",
       "proposer" : "MineC24",
       "proposerLr2id" : 84597,
