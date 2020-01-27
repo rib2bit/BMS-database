@@ -14,7 +14,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 11
    },
    {
       "artist" : "lazward / BGI:ミロ飲め夫 / obj:Sar",
@@ -30,7 +30,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 7
    },
    {
       "artist" : "CELLON. (anubasu-anubasu)/さ",
@@ -46,8 +46,8 @@
       "url_diff" : "https://web.archive.org/web/20190207151524/http://sabosabun.tank.jp/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 4
+      "votePercent" : "87.50",
+      "voteYes" : 6
    },
    {
       "artist" : "sasakure.UK Obj.Triforce",
@@ -63,8 +63,8 @@
       "url_diff" : "https://www.dropbox.com/s/udntep1i8bewlwx/imazinexo%5B10-triforce%5D.bme?dl=1",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "90.00",
+      "voteYes" : 4
    },
    {
       "artist" : "RicoLys BGA : raii  obj : 「B」",
@@ -80,8 +80,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "87.50",
-      "voteYes" : 10
+      "votePercent" : "89.29",
+      "voteYes" : 12
    },
    {
       "artist" : "暁美ほむら /差分 赤い人",
@@ -97,7 +97,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 11
+   },
+   {
+      "artist" : "xi 鑓田(alpha complex) obj. DK",
+      "comment" : "皿複合",
+      "level" : "3",
+      "md5" : "9308f366a8cefba1b3b6d53130a88171",
+      "proposer" : "chouco",
+      "proposerLr2id" : 158333,
+      "sha256" : "410d8e487577a8ef008b785de76adb850a1783a9f39aecd1f470da47c9d235e0",
+      "submission" : 1251,
+      "title" : "Bad Elixir [Power Elixir]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=316&event=123",
+      "url_diff" : "https://frozensat.github.io/sabun/Bad_Elixir_Power.zip",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 4
    },
    {
       "artist" : "kanoryo BGI.:MOAI WORKS / obj.:LuvTek",
@@ -114,7 +131,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 5
    },
    {
       "artist" : "Trinity BGA:q/stol obj:SANY",
@@ -130,7 +147,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 5
+      "voteYes" : 7
    },
    {
       "artist" : "Yosk! / И",
@@ -147,7 +164,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 5
    },
    {
       "artist" : "LechE",
@@ -163,8 +180,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "83.33",
+      "voteYes" : 4
    },
    {
       "artist" : "紅蓮月影 BGA:A-ZERO Project / obj:七海",
@@ -180,8 +197,8 @@
       "url_diff" : "https://www.dropbox.com/s/hqnx9cf2fjvi021/andro_fix.zip?dl=1",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "92.86",
-      "voteYes" : 6
+      "votePercent" : "95.45",
+      "voteYes" : 10
    },
    {
       "artist" : "佐久間まゆ/星輝子/鷺沢文香",
@@ -198,7 +215,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 10
    },
    {
       "artist" : "ねこみりん scolded by 小宮真央 Movie:むらしん obj:七海千秋",
@@ -212,10 +229,10 @@
       "title" : "timeleeeess!!! -Despair-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=396&event=123",
       "url_diff" : "https://www.dropbox.com/s/ppl1wsf546naklz/_99_nekomirin_timeless_nanami02.bme?dl=0",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "83.33",
-      "voteYes" : 5
+      "voteNeutral" : 3,
+      "voteNo" : 3,
+      "votePercent" : "70.00",
+      "voteYes" : 7
    },
    {
       "artist" : "アクジ BGA:出まえ / obj:saaa",
