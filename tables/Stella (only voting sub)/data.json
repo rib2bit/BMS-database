@@ -1,5 +1,22 @@
 [
    {
+      "artist" : "激辛マニア",
+      "comment" : "太く短い",
+      "level" : "11",
+      "md5" : "0466e59234c1e5998b1e114d38bf858a",
+      "proposer" : "Razuurene",
+      "proposerLr2id" : 121666,
+      "sha256" : "05cb40e5a7dd487e9d545ed8d1ebc4e4b879edeccbaa59b9066a8b8cf4983fac",
+      "submission" : 1063,
+      "title" : "Deublithick (CosmoCramp7)",
+      "url" : "http://uploader.bms.ms/data/bof2011okfquh83/HK/HK_Deublithick.rar",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "saaa / obj:スノート",
       "comment" : "0~1?",
       "level" : "0",
@@ -14,7 +31,41 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
+   },
+   {
+      "artist" : "xi / obj:Monsta",
+      "comment" : "激",
+      "level" : "11",
+      "md5" : "5a1666a1d517826b476f9a7ad732dfcc",
+      "proposer" : "MEES-♬",
+      "proposerLr2id" : 39693,
+      "sha256" : "f69b74b4cb144f53014afca906e8dc44e701a795a8346319c557758178cc8cf0",
+      "submission" : 1061,
+      "title" : "Halcyon　 [激シオン]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=237&event=65",
+      "url_diff" : "http://3228monsta.web.fc2.com/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
+      "artist" : "フロン / ラズベリル / obj: black train :Ds",
+      "comment" : "これが修羅。",
+      "level" : "10",
+      "md5" : "5d0a7996665b93a8406da8ffb1b0f497",
+      "proposer" : "MEES-♬",
+      "proposerLr2id" : 39693,
+      "sha256" : "703dbd6bbf4b77beb7de9b4471e0e6415f0a2eaaeb57507d345e7133c58f330b",
+      "submission" : 1062,
+      "title" : "Love & Justice [修羅&GOD]",
+      "url" : "http://boxism8500.sakura.ne.jp/",
+      "url_diff" : "http://sagena.harisen.jp/hyou.html",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "50.00",
+      "voteYes" : 1
    },
    {
       "artist" : "Aota2. / ALESSA / obj:仙人掌の人",
@@ -64,8 +115,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01468",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "100.00",
+      "voteYes" : 2
    },
    {
       "artist" : "Saz obj: qtp13",

@@ -30,7 +30,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
+   },
+   {
+      "artist" : "隣の庭は青い(庭師+Aoi) obj:Scely",
+      "comment" : "乱打 同时押",
+      "level" : "5",
+      "md5" : "235a67455f943d4d5f6adbd40dba8568",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "01edb66f8d6892af831b07618db5c502b1613f7c1b0892280c22852a980263c5",
+      "submission" : 1253,
+      "title" : "カリオストロの穿孔 [Key]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=310&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03957",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 4
    },
    {
       "artist" : "CELLON. (anubasu-anubasu)/さ",
@@ -46,8 +63,8 @@
       "url_diff" : "https://web.archive.org/web/20190207151524/http://sabosabun.tank.jp/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "88.89",
-      "voteYes" : 7
+      "votePercent" : "90.00",
+      "voteYes" : 8
    },
    {
       "artist" : "sasakure.UK Obj.Triforce",
@@ -63,7 +80,41 @@
       "url_diff" : "https://www.dropbox.com/s/udntep1i8bewlwx/imazinexo%5B10-triforce%5D.bme?dl=1",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "83.33",
+      "votePercent" : "85.71",
+      "voteYes" : 5
+   },
+   {
+      "artist" : "HyuN feat. rerone Visualized by MFW / obj:SUZUKAZEΛ",
+      "comment" : "LN,皿複合",
+      "level" : "5",
+      "md5" : "5f519d13ab3cdcadc1b3ecd188d2656d",
+      "proposer" : "dstorv",
+      "proposerLr2id" : 145158,
+      "sha256" : "cea1cc776eb7711ffbcd8282e3824c644f1fc30d10270c5a4cb824cf7f22f156",
+      "submission" : 1252,
+      "title" : "Untitled Soul [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=61&event=116",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "62.50",
+      "voteYes" : 2
+   },
+   {
+      "artist" : "ぜらにも×bj.HaLo×小宮真央×LUKASH obj:七海千秋",
+      "comment" : "LN, ズレ, 同時押し",
+      "level" : "4",
+      "md5" : "613f9ef44931e428223b74dd512a7b14",
+      "proposer" : "dstorv",
+      "proposerLr2id" : 145158,
+      "sha256" : "2101d8845f4db55026c4d6b12cededcd3475a1150f127733d65e22df430d8e78",
+      "submission" : 1254,
+      "title" : "Littlegirl Complex -Hope-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=221&event=123",
+      "url_diff" : "https://www.dropbox.com/s/9v5hjjeipb7kgr3/_littlegirl_complex_nanami01.bms?dl=0",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "80.00",
       "voteYes" : 4
    },
    {
@@ -80,8 +131,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "89.29",
-      "voteYes" : 12
+      "votePercent" : "90.00",
+      "voteYes" : 13
    },
    {
       "artist" : "暁美ほむら /差分 赤い人",
@@ -94,9 +145,9 @@
       "title" : "-if-扉のその向こう側へ [HARD]",
       "url" : "http://web.archive.org/web/20140111153937/http://miohosina.moe.hm/bms/dl/homura_akemi_if.zip",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/if-HARD.bms",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "91.67",
       "voteYes" : 11
    },
    {
@@ -114,7 +165,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "kanoryo BGI.:MOAI WORKS / obj.:LuvTek",
@@ -131,7 +182,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "Trinity BGA:q/stol obj:SANY",
@@ -147,7 +198,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 9
    },
    {
       "artist" : "Yosk! / И",
@@ -180,7 +231,7 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "78.57",
+      "votePercent" : "75.00",
       "voteYes" : 4
    },
    {
@@ -201,6 +252,23 @@
       "voteYes" : 12
    },
    {
+      "artist" : "無茶ρ/差分 赤い人",
+      "comment" : "ガチ押し、クリアに影響のないソフラン",
+      "level" : "2",
+      "md5" : "badbbdd2a896053cb4d947bbf1b7c209",
+      "proposer" : "けーちゃん",
+      "proposerLr2id" : 137190,
+      "sha256" : "90c34d11f67808870329d1fa3d6dfe7593d93bfba1bfd18f4f4afb397dcb9e8c",
+      "submission" : 1255,
+      "title" : "魔王決戦～クロノトリガー～ [HARD]",
+      "url" : "http://web.archive.org/web/20041216001324/http://lhacti.sakura.ne.jp/la/bmsest/magus.htm",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/jaki-HARD.bms",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 2
+   },
+   {
       "artist" : "佐久間まゆ/星輝子/鷺沢文香",
       "comment" : "ラス殺し",
       "level" : "2",
@@ -215,7 +283,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 12
+      "voteYes" : 13
    },
    {
       "artist" : "ねこみりん scolded by 小宮真央 Movie:むらしん obj:七海千秋",
@@ -231,8 +299,8 @@
       "url_diff" : "https://www.dropbox.com/s/ppl1wsf546naklz/_99_nekomirin_timeless_nanami02.bme?dl=0",
       "voteNeutral" : 3,
       "voteNo" : 3,
-      "votePercent" : "70.00",
-      "voteYes" : 7
+      "votePercent" : "72.73",
+      "voteYes" : 8
    },
    {
       "artist" : "アクジ BGA:出まえ / obj:saaa",
@@ -248,7 +316,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00829",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.83",
-      "voteYes" : 11
+      "votePercent" : "96.15",
+      "voteYes" : 12
    }
 ]
