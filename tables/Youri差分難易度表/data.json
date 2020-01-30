@@ -1,5 +1,21 @@
 [
    {
+      "adddate" : "2020/01/30",
+      "artist" : "",
+      "comment" : "",
+      "folder" : "LEVEL 3",
+      "level" : "3",
+      "lr2_bmsid" : null,
+      "md5" : "00000000000000000000000000000000",
+      "name_diff" : null,
+      "org_level" : null,
+      "org_md5" : "",
+      "org_md5s" : [],
+      "title" : "",
+      "url" : "",
+      "url_diff" : ""
+   },
+   {
       "adddate" : "2019/11/03",
       "artist" : "",
       "comment" : "",
@@ -218,11 +234,11 @@
       "url_diff" : "http://oneeighth.web.fc2.com/Event/sabunbattle.html"
    },
    {
-      "adddate" : "2020/01/28",
+      "adddate" : "2020/01/30",
       "artist" : "くるやのぶ BGA:CORAL obj:YOURI",
       "comment" : "同梱ANOTHERから作成　皿複合と乱打、対称な譜面です　終盤に発狂が来ます",
-      "folder" : "LEVEL 3",
-      "level" : "3",
+      "folder" : "LEVEL 2",
+      "level" : "2",
       "lr2_bmsid" : "282444",
       "md5" : "718467dcd656d7e76dc5fafe20bba653",
       "name_diff" : "DOWNLOAD",
