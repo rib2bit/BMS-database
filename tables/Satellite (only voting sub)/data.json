@@ -33,6 +33,23 @@
       "voteYes" : 9
    },
    {
+      "artist" : "NIKITA",
+      "comment" : "BOF2013 / 皿, 乱打",
+      "level" : "3",
+      "md5" : "1d1980c11ebb190068041af164ee0f32",
+      "proposer" : "DK",
+      "proposerLr2id" : 46697,
+      "sha256" : "26feb5c76fd009fccee207ac99bb226aef35d362bb504f533bf843050e08192d",
+      "submission" : 1257,
+      "title" : "Believe the Future -ANOTHER-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=88",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "隣の庭は青い(庭師+Aoi) obj:Scely",
       "comment" : "乱打 同时押",
       "level" : "5",
@@ -98,6 +115,40 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "83.33",
+      "voteYes" : 2
+   },
+   {
+      "artist" : "Nakaiankow obj:C4",
+      "comment" : "ズレ、微縦連",
+      "level" : "0",
+      "md5" : "5d5bf6d12a22394bdd8a815ee935fb8a",
+      "proposer" : "STANK!",
+      "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
+      "sha256" : "e7145cd9bfdd94d6f618886c92bf3bcfa058d356ec681cfd478bb971a991b52d",
+      "submission" : 1259,
+      "title" : "Smudge",
+      "url" : "http://starkey.ivory.ne.jp/bemusicwest/bmw2/detail/view/7/",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
+      "artist" : "EmoCo. / 玲架 obj. Lapis",
+      "comment" : "総合力、皿",
+      "level" : "4",
+      "md5" : "5dc7f4e0e0317ab5ea8ea3bdd5f83dbd",
+      "proposer" : "STANK!",
+      "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
+      "sha256" : "970f6456ea1049ae2dc2a7f318ed31aaeebf954ef64f675a05aa46302c3eb2df",
+      "submission" : 1260,
+      "title" : "This Club is not 4 U [SP INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=105&event=123",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
       "voteYes" : 2
    },
    {
@@ -214,8 +265,8 @@
       "url_diff" : "https://web.archive.org/web/20191027061937/http://rattoto10.jounin.jp/hokan/SANY.zip",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.00",
-      "voteYes" : 9
+      "votePercent" : "95.45",
+      "voteYes" : 10
    },
    {
       "artist" : "Yosk! / И",
@@ -232,7 +283,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "LechE",
@@ -250,6 +301,23 @@
       "voteNo" : 0,
       "votePercent" : "72.22",
       "voteYes" : 4
+   },
+   {
+      "artist" : "Dr.ReB",
+      "comment" : "PABAT!2014 / NORMAL判定, LN, 乱打",
+      "level" : "1",
+      "md5" : "a59ac661898eaf3f92e7d7fdfc001fe7",
+      "proposer" : "DK",
+      "proposerLr2id" : 46697,
+      "sha256" : "01bcf35f3a0fba1c658ce01a7e5e19771bd710c5de9927c7821366d097298761",
+      "submission" : 1258,
+      "title" : "Project DIARY * Dimension-Introjecting Artificial RealitY *",
+      "url" : "http://k-bms.com/party_pabat/party2014.jsp?board_num=11&num=54",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "紅蓮月影 BGA:A-ZERO Project / obj:七海",
@@ -282,7 +350,7 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/jaki-HARD.bms",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
+      "votePercent" : "93.75",
       "voteYes" : 7
    },
    {
