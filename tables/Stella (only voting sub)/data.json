@@ -1,5 +1,22 @@
 [
    {
+      "artist" : "tkqn14_Append BGI : Ju_E",
+      "comment" : "BOFXV ",
+      "level" : "3",
+      "md5" : "00e28aa13bf35b58c8ac53c5cc4d2f3b",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "0b55ec5eb2dd29c41c13805e95ac26a04cfdc28deb5a3f53da7b1d5a8915da8d",
+      "submission" : 1065,
+      "title" : "CHRONOMATiC [SP OKIMIH]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=234&event=127",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "激辛マニア",
       "comment" : "太く短い",
       "level" : "11",
@@ -31,7 +48,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "xi / obj:Monsta",
@@ -116,7 +133,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 2
+      "voteYes" : 3
    },
    {
       "artist" : "Saz obj: qtp13",
@@ -167,5 +184,22 @@
       "voteNo" : 1,
       "votePercent" : "80.00",
       "voteYes" : 4
+   },
+   {
+      "artist" : "ikaruga_nex / obj.2RLZ",
+      "comment" : "乱打 (SPH基準ズレなし)",
+      "level" : "0",
+      "md5" : "d5e4f35800ae1fae4a408d5bb4e25a08",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "28972b56cc2a6799d47e2c3a3d2e309b1eedac3cbcc1ca0bcb5b5ab7260e0756",
+      "submission" : 1064,
+      "title" : "ReviXy [CraZy]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=179&event=123",
+      "url_diff" : "https://2rlz.github.io/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    }
 ]
