@@ -30,7 +30,7 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
+      "votePercent" : "75.00",
       "voteYes" : 1
    },
    {
@@ -199,7 +199,7 @@
       "url_diff" : "https://2rlz.github.io/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "83.33",
+      "voteYes" : 2
    }
 ]
