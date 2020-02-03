@@ -50,6 +50,23 @@
       "voteYes" : 6
    },
    {
+      "artist" : "Arkplot（mov：NekoX） obj.fhyu",
+      "comment" : "BPM178 多要素",
+      "level" : "9",
+      "md5" : "1fff0e4060e2245cac6c2f02289bd57b",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "e99abae0b80929582961f06ae1786161916fedcba2a32fca7e7760ed113a4bb8",
+      "submission" : 1263,
+      "title" : "Decompozer [Resolution]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=254&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "隣の庭は青い(庭師+Aoi) obj:Scely",
       "comment" : "乱打 同时押",
       "level" : "5",
@@ -131,8 +148,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "62.50",
-      "voteYes" : 3
+      "votePercent" : "66.67",
+      "voteYes" : 4
    },
    {
       "artist" : "EmoCo. / 玲架 obj. Lapis",
@@ -314,9 +331,9 @@
       "title" : "Project DIARY * Dimension-Introjecting Artificial RealitY *",
       "url" : "http://k-bms.com/party_pabat/party2014.jsp?board_num=11&num=54",
       "url_diff" : "",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "62.50",
+      "voteNeutral" : 2,
+      "voteNo" : 2,
+      "votePercent" : "55.56",
       "voteYes" : 3
    },
    {
@@ -351,6 +368,22 @@
       "voteNeutral" : 3,
       "voteNo" : 3,
       "votePercent" : "30.00",
+      "voteYes" : 1
+   },
+   {
+      "artist" : "Ester mov : mi / powered by cymbidium / selene.",
+      "level" : "10",
+      "md5" : "ba075f9e227dd07d56b8ecf73d533995",
+      "proposer" : "''",
+      "proposerLr2id" : 86456,
+      "sha256" : "a435e756d0319c4b31a4f251cc60f625725c826a2261f4ebf9c497ce42d55186",
+      "submission" : 1262,
+      "title" : "Dizzolve -Eclipse-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=56&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02202",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
       "voteYes" : 1
    },
    {

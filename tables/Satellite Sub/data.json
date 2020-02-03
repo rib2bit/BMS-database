@@ -2401,6 +2401,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Arkplot（mov：NekoX） obj.fhyu",
+      "comment" : "BPM178 多要素",
+      "level" : "9",
+      "md5" : "1fff0e4060e2245cac6c2f02289bd57b",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "e99abae0b80929582961f06ae1786161916fedcba2a32fca7e7760ed113a4bb8",
+      "submission" : 1263,
+      "title" : "Decompozer [Resolution]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=254&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
+   },
+   {
       "artist" : "マピ子 obj:SUZUKAZEΛ",
       "level" : "5",
       "md5" : "203c411b3ec01d6556e634483f2c00a1",
@@ -13608,6 +13621,18 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Ester mov : mi / powered by cymbidium / selene.",
+      "level" : "10",
+      "md5" : "ba075f9e227dd07d56b8ecf73d533995",
+      "proposer" : "''",
+      "proposerLr2id" : 86456,
+      "sha256" : "a435e756d0319c4b31a4f251cc60f625725c826a2261f4ebf9c497ce42d55186",
+      "submission" : 1262,
+      "title" : "Dizzolve -Eclipse-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=56&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02202"
    },
    {
       "artist" : "無茶ρ/差分 赤い人",
