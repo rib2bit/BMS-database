@@ -2677,6 +2677,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Omnipotenx",
+      "comment" : "皿複合入門？",
+      "level" : "0",
+      "md5" : "259c6ff7871efb0492d1dac5d16fda17",
+      "proposer" : "のの",
+      "proposerLr2id" : 149743,
+      "sha256" : "fa0cfb3b9615200aa1474a954244e31c107eb84efc1b3adb6d67f073659b34cd",
+      "submission" : 1264,
+      "title" : "PEACE BREAKER [HYPER]",
+      "url" : "https://extrose.stoicsounds.jp/_bidc/_event/ev09_11.html",
+      "url_diff" : ""
+   },
+   {
       "artist" : "黒皇帝 Movie: Cirkass / Object: qune, w",
       "comment" : "同時押し?",
       "level" : "4",
@@ -12753,6 +12766,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "-45 / obj：mitsuba",
+      "comment" : "ディレイ気味の乱打",
+      "level" : "12",
+      "md5" : "b1f052bab19862e0be6d1cdd96fb312c",
+      "proposer" : "のの",
+      "proposerLr2id" : 149743,
+      "sha256" : "12b63f95ffbaed8abdc9e3c7e4d56fb37a87da86093c64057675d7264d77ce86",
+      "submission" : 1265,
+      "title" : "EXILE　 [7_Clover]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=184&event=65",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
    },
    {
       "artist" : "NASA / ZUN",

@@ -14,7 +14,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 12
+      "voteYes" : 13
    },
    {
       "artist" : "lazward / BGI:ミロ飲め夫 / obj:Sar",
@@ -30,7 +30,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 10
+      "voteYes" : 12
    },
    {
       "artist" : "NIKITA",
@@ -46,8 +46,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 6
+      "votePercent" : "90.91",
+      "voteYes" : 9
    },
    {
       "artist" : "Arkplot（mov：NekoX） obj.fhyu",
@@ -63,8 +63,8 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "70.00",
+      "voteYes" : 2
    },
    {
       "artist" : "隣の庭は青い(庭師+Aoi) obj:Scely",
@@ -81,7 +81,24 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 8
+      "voteYes" : 9
+   },
+   {
+      "artist" : "Omnipotenx",
+      "comment" : "皿複合入門？",
+      "level" : "0",
+      "md5" : "259c6ff7871efb0492d1dac5d16fda17",
+      "proposer" : "のの",
+      "proposerLr2id" : 149743,
+      "sha256" : "fa0cfb3b9615200aa1474a954244e31c107eb84efc1b3adb6d67f073659b34cd",
+      "submission" : 1264,
+      "title" : "PEACE BREAKER [HYPER]",
+      "url" : "https://extrose.stoicsounds.jp/_bidc/_event/ev09_11.html",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 6
    },
    {
       "artist" : "CELLON. (anubasu-anubasu)/さ",
@@ -97,8 +114,8 @@
       "url_diff" : "https://web.archive.org/web/20190207151524/http://sabosabun.tank.jp/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "92.31",
-      "voteYes" : 11
+      "votePercent" : "92.86",
+      "voteYes" : 12
    },
    {
       "artist" : "sasakure.UK Obj.Triforce",
@@ -112,9 +129,9 @@
       "title" : "+i m a z i n e x o+ [returned nemesis]",
       "url" : "http://web.archive.org/web/20070727154611/http://sasakure.bms.ms/framemusic.htm",
       "url_diff" : "https://www.dropbox.com/s/udntep1i8bewlwx/imazinexo%5B10-triforce%5D.bme?dl=1",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "87.50",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "75.00",
       "voteYes" : 6
    },
    {
@@ -129,10 +146,10 @@
       "title" : "Toki [Hrs]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=101&event=83",
       "url_diff" : "http://www.geocities.jp/hihihi4442/",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "85.71",
-      "voteYes" : 5
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "75.00",
+      "voteYes" : 6
    },
    {
       "artist" : "Nakaiankow obj:C4",
@@ -148,8 +165,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "66.67",
-      "voteYes" : 4
+      "votePercent" : "72.73",
+      "voteYes" : 6
    },
    {
       "artist" : "EmoCo. / 玲架 obj. Lapis",
@@ -163,10 +180,10 @@
       "title" : "This Club is not 4 U [SP INSANE]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=105&event=123",
       "url_diff" : "",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "62.50",
-      "voteYes" : 3
+      "voteNeutral" : 3,
+      "voteNo" : 3,
+      "votePercent" : "54.55",
+      "voteYes" : 4
    },
    {
       "artist" : "HyuN feat. rerone Visualized by MFW / obj:SUZUKAZEΛ",
@@ -180,9 +197,9 @@
       "title" : "Untitled Soul [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=61&event=116",
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "72.22",
+      "voteNeutral" : 3,
+      "voteNo" : 3,
+      "votePercent" : "59.09",
       "voteYes" : 5
    },
    {
@@ -199,7 +216,7 @@
       "url_diff" : "https://www.dropbox.com/s/9v5hjjeipb7kgr3/_littlegirl_complex_nanami01.bms?dl=0",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "80.00",
+      "votePercent" : "77.27",
       "voteYes" : 7
    },
    {
@@ -216,8 +233,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "91.18",
-      "voteYes" : 15
+      "votePercent" : "92.11",
+      "voteYes" : 17
    },
    {
       "artist" : "暁美ほむら /差分 赤い人",
@@ -232,7 +249,7 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/if-HARD.bms",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "92.31",
+      "votePercent" : "89.29",
       "voteYes" : 12
    },
    {
@@ -249,8 +266,8 @@
       "url_diff" : "https://frozensat.github.io/sabun/Bad_Elixir_Power.zip",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "86.36",
-      "voteYes" : 9
+      "votePercent" : "86.67",
+      "voteYes" : 12
    },
    {
       "artist" : "kanoryo BGI.:MOAI WORKS / obj.:LuvTek",
@@ -264,10 +281,10 @@
       "title" : "Seiren [Siren]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=235&event=127",
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "94.44",
-      "voteYes" : 8
+      "voteNeutral" : 2,
+      "voteNo" : 2,
+      "votePercent" : "79.17",
+      "voteYes" : 9
    },
    {
       "artist" : "Trinity BGA:q/stol obj:SANY",
@@ -282,7 +299,7 @@
       "url_diff" : "https://web.archive.org/web/20191027061937/http://rattoto10.jounin.jp/hokan/SANY.zip",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.83",
+      "votePercent" : "92.31",
       "voteYes" : 11
    },
    {
@@ -300,7 +317,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 11
+      "voteYes" : 13
    },
    {
       "artist" : "LechE",
@@ -314,10 +331,10 @@
       "title" : "翳月 [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=95",
       "url_diff" : "",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "68.18",
-      "voteYes" : 5
+      "voteNeutral" : 3,
+      "voteNo" : 3,
+      "votePercent" : "60.71",
+      "voteYes" : 6
    },
    {
       "artist" : "Dr.ReB",
@@ -331,10 +348,27 @@
       "title" : "Project DIARY * Dimension-Introjecting Artificial RealitY *",
       "url" : "http://k-bms.com/party_pabat/party2014.jsp?board_num=11&num=54",
       "url_diff" : "",
-      "voteNeutral" : 2,
-      "voteNo" : 2,
-      "votePercent" : "55.56",
+      "voteNeutral" : 4,
+      "voteNo" : 4,
+      "votePercent" : "45.83",
       "voteYes" : 3
+   },
+   {
+      "artist" : "-45 / obj：mitsuba",
+      "comment" : "ディレイ気味の乱打",
+      "level" : "12",
+      "md5" : "b1f052bab19862e0be6d1cdd96fb312c",
+      "proposer" : "のの",
+      "proposerLr2id" : 149743,
+      "sha256" : "12b63f95ffbaed8abdc9e3c7e4d56fb37a87da86093c64057675d7264d77ce86",
+      "submission" : 1265,
+      "title" : "EXILE　 [7_Clover]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=184&event=65",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "56.25",
+      "voteYes" : 2
    },
    {
       "artist" : "紅蓮月影 BGA:A-ZERO Project / obj:七海",
@@ -350,7 +384,7 @@
       "url_diff" : "https://www.dropbox.com/s/hqnx9cf2fjvi021/andro_fix.zip?dl=1",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "96.88",
+      "votePercent" : "94.12",
       "voteYes" : 15
    },
    {
@@ -365,10 +399,10 @@
       "title" : "Nde - Nde",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=110&event=36",
       "url_diff" : "",
-      "voteNeutral" : 3,
-      "voteNo" : 3,
-      "votePercent" : "30.00",
-      "voteYes" : 1
+      "voteNeutral" : 5,
+      "voteNo" : 5,
+      "votePercent" : "31.25",
+      "voteYes" : 2
    },
    {
       "artist" : "Ester mov : mi / powered by cymbidium / selene.",
@@ -383,8 +417,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02202",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "91.67",
+      "voteYes" : 5
    },
    {
       "artist" : "無茶ρ/差分 赤い人",
@@ -400,7 +434,7 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/jaki-HARD.bms",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "95.00",
+      "votePercent" : "87.50",
       "voteYes" : 9
    },
    {
@@ -415,9 +449,9 @@
       "title" : "恋愛シンドローム [forever]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=439&event=88",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=3023",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "92.86",
       "voteYes" : 13
    },
    {
@@ -432,10 +466,10 @@
       "title" : "timeleeeess!!! -Despair-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=396&event=123",
       "url_diff" : "https://www.dropbox.com/s/ppl1wsf546naklz/_99_nekomirin_timeless_nanami02.bme?dl=0",
-      "voteNeutral" : 3,
-      "voteNo" : 3,
-      "votePercent" : "76.92",
-      "voteYes" : 10
+      "voteNeutral" : 4,
+      "voteNo" : 4,
+      "votePercent" : "73.33",
+      "voteYes" : 11
    },
    {
       "artist" : "アクジ BGA:出まえ / obj:saaa",
