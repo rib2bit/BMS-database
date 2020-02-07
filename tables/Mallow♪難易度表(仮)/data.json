@@ -78,6 +78,19 @@
       "video2" : "aqlAnYtjPQo"
    },
    {
+      "artist" : "Dachs / Movie : わっふゑ",
+      "comment" : "修正版 / 物量とLN(TOTAL値若干低め)",
+      "level" : "12",
+      "md5" : "2e0b721babb8fb62ce977c23c9f364f9",
+      "name_diff" : "Mallow♪",
+      "state" : "",
+      "title" : "MOBILYS [Endymion (fixed)]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=24&event=127",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03996",
+      "video1" : "",
+      "video2" : "cOikW_gA3DA"
+   },
+   {
       "artist" : "Yusuke Takeuchi",
       "comment" : "横に広い比較的高速物量(TOTAL値若干低め)",
       "level" : "17",
@@ -235,8 +248,8 @@
    },
    {
       "artist" : "Dachs / Movie : わっふゑ",
-      "comment" : "物量,微低TOTAL値",
-      "level" : "12",
+      "comment" : "ズレ抜けがあったので修正版を公開",
+      "level" : "53",
       "md5" : "fc7b12594f633599837aa31b7c10a047",
       "name_diff" : "Mallow♪",
       "state" : "",
@@ -244,6 +257,6 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=24&event=127",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03545",
       "video1" : "",
-      "video2" : "JY-0Cj2q1RI"
+      "video2" : ""
    }
 ]
