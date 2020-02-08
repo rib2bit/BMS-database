@@ -1,5 +1,39 @@
 [
    {
+      "artist" : "kanoryo feat.Hanon U",
+      "comment" : "同時押し/皿複合/停止ギミックあり",
+      "level" : "9",
+      "md5" : "001003eb7179ba8a1c169175fd1aa0f0",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "1334a43c53c2efa83051b0bb21ec303d2a07557e98153f69405822e63f7861fc",
+      "submission" : 1268,
+      "title" : "Justitia [Redemption]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=311&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?mode=find&word=Justitia",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
+      "artist" : "nmk feat.かなえゆめ obj:goe",
+      "comment" : "連打/皿複合など",
+      "level" : "11",
+      "md5" : "007a06a7c2dd57439f63f6fa4bd006f9",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "1296dc7e15a52f0758b46be00e7727e878ceaf4b73635b3a2887a34772eb796a",
+      "submission" : 1267,
+      "title" : "Red -reduction division- [G2]",
+      "url" : "http://www1.axfc.net/uploader/H/so/117222.zip",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
+   },
+   {
       "artist" : "Gazan obj:monaka",
       "comment" : "高速乱打(SPB基準ズレなし)",
       "level" : "6",
@@ -14,7 +48,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 13
+      "voteYes" : 14
    },
    {
       "artist" : "lazward / BGI:ミロ飲め夫 / obj:Sar",
@@ -46,8 +80,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 10
+      "votePercent" : "92.31",
+      "voteYes" : 11
    },
    {
       "artist" : "Arkplot（mov：NekoX） obj.fhyu",
@@ -63,8 +97,8 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "78.57",
-      "voteYes" : 4
+      "votePercent" : "83.33",
+      "voteYes" : 6
    },
    {
       "artist" : "隣の庭は青い(庭師+Aoi) obj:Scely",
@@ -81,7 +115,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 11
+      "voteYes" : 12
    },
    {
       "artist" : "Omnipotenx",
@@ -98,7 +132,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 13
+      "voteYes" : 15
    },
    {
       "artist" : "CELLON. (anubasu-anubasu)/さ",
@@ -132,7 +166,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 6
    },
    {
       "artist" : "sasakure.UK Obj.Triforce",
@@ -148,8 +182,8 @@
       "url_diff" : "https://www.dropbox.com/s/udntep1i8bewlwx/imazinexo%5B10-triforce%5D.bme?dl=1",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "79.17",
-      "voteYes" : 8
+      "votePercent" : "80.77",
+      "voteYes" : 9
    },
    {
       "artist" : "puru / kkkfff2 / obj:秘密",
@@ -165,8 +199,8 @@
       "url_diff" : "http://www.geocities.jp/hihihi4442/",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "77.27",
-      "voteYes" : 7
+      "votePercent" : "80.77",
+      "voteYes" : 9
    },
    {
       "artist" : "Nakaiankow obj:C4",
@@ -182,8 +216,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "71.43",
-      "voteYes" : 7
+      "votePercent" : "75.00",
+      "voteYes" : 9
    },
    {
       "artist" : "EmoCo. / 玲架 obj. Lapis",
@@ -199,8 +233,8 @@
       "url_diff" : "",
       "voteNeutral" : 4,
       "voteNo" : 4,
-      "votePercent" : "50.00",
-      "voteYes" : 4
+      "votePercent" : "57.14",
+      "voteYes" : 6
    },
    {
       "artist" : "HyuN feat. rerone Visualized by MFW / obj:SUZUKAZEΛ",
@@ -216,8 +250,8 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "voteNeutral" : 3,
       "voteNo" : 3,
-      "votePercent" : "62.50",
-      "voteYes" : 6
+      "votePercent" : "67.86",
+      "voteYes" : 8
    },
    {
       "artist" : "ぜらにも×bj.HaLo×小宮真央×LUKASH obj:七海千秋",
@@ -233,8 +267,8 @@
       "url_diff" : "https://www.dropbox.com/s/9v5hjjeipb7kgr3/_littlegirl_complex_nanami01.bms?dl=0",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "76.92",
-      "voteYes" : 8
+      "votePercent" : "80.00",
+      "voteYes" : 10
    },
    {
       "artist" : "RicoLys BGA : raii  obj : 「B」",
@@ -266,7 +300,7 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/if-HARD.bms",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "81.25",
+      "votePercent" : "79.41",
       "voteYes" : 12
    },
    {
@@ -283,8 +317,8 @@
       "url_diff" : "https://frozensat.github.io/sabun/Bad_Elixir_Power.zip",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "86.67",
-      "voteYes" : 12
+      "votePercent" : "88.24",
+      "voteYes" : 14
    },
    {
       "artist" : "kanoryo BGI.:MOAI WORKS / obj.:LuvTek",
@@ -300,8 +334,8 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "79.17",
-      "voteYes" : 9
+      "votePercent" : "80.77",
+      "voteYes" : 10
    },
    {
       "artist" : "Trinity BGA:q/stol obj:SANY",
@@ -316,8 +350,8 @@
       "url_diff" : "https://web.archive.org/web/20191027061937/http://rattoto10.jounin.jp/hokan/SANY.zip",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "92.86",
-      "voteYes" : 12
+      "votePercent" : "93.33",
+      "voteYes" : 13
    },
    {
       "artist" : "Yosk! / И",
@@ -334,7 +368,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 13
+      "voteYes" : 14
    },
    {
       "artist" : "LechE",
@@ -350,8 +384,8 @@
       "url_diff" : "",
       "voteNeutral" : 3,
       "voteNo" : 3,
-      "votePercent" : "60.71",
-      "voteYes" : 6
+      "votePercent" : "63.33",
+      "voteYes" : 7
    },
    {
       "artist" : "Dr.ReB",
@@ -367,8 +401,8 @@
       "url_diff" : "",
       "voteNeutral" : 4,
       "voteNo" : 4,
-      "votePercent" : "53.33",
-      "voteYes" : 5
+      "votePercent" : "55.88",
+      "voteYes" : 6
    },
    {
       "artist" : "-45 / obj：mitsuba",
@@ -384,8 +418,8 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNeutral" : 2,
       "voteNo" : 2,
-      "votePercent" : "55.00",
-      "voteYes" : 3
+      "votePercent" : "59.09",
+      "voteYes" : 4
    },
    {
       "artist" : "紅蓮月影 BGA:A-ZERO Project / obj:七海",
@@ -416,9 +450,9 @@
       "title" : "Nde - Nde",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=110&event=36",
       "url_diff" : "",
-      "voteNeutral" : 6,
-      "voteNo" : 6,
-      "votePercent" : "27.78",
+      "voteNeutral" : 7,
+      "voteNo" : 7,
+      "votePercent" : "25.00",
       "voteYes" : 2
    },
    {
@@ -434,8 +468,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02202",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "93.75",
-      "voteYes" : 7
+      "votePercent" : "95.00",
+      "voteYes" : 9
    },
    {
       "artist" : "無茶ρ/差分 赤い人",
@@ -449,9 +483,9 @@
       "title" : "魔王決戦～クロノトリガー～ [HARD]",
       "url" : "http://web.archive.org/web/20041216001324/http://lhacti.sakura.ne.jp/la/bmsest/magus.htm",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/jaki-HARD.bms",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "89.29",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "81.25",
       "voteYes" : 11
    },
    {
