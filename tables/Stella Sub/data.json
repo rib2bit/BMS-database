@@ -2079,6 +2079,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "潮音きつねH / obj:LuvTek",
+      "comment" : "ラストがちょっと難しい",
+      "level" : "2",
+      "md5" : "25d3171fe166348423d6ab0e7feeb6ca",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "904b4bb9c0afd555b2d383f0d1b1db86cbddf0c8e0fd18b4cd17e8050d954827",
+      "submission" : 1069,
+      "title" : "sampleX [SP Xpert]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=128&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
+   },
+   {
       "artist" : "美月 正 / obj:夢瑠",
       "comment" : "SMAAAASH!!",
       "level" : "2",
@@ -4520,6 +4533,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "sak feat.みゅい Movie: げ～むばか Illust: 球根",
+      "comment" : "An Unleashed World born out of Desperation...",
+      "level" : "11",
+      "md5" : "48404c5953c0d63c08eecdc69ac12a01",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "cdb3e7c013118c65d14abda2dc84ce05cf096b7b24f61f57e0c67323b5b0e78f",
+      "submission" : 1067,
+      "title" : "Unleashed World [DESPERATE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=123",
+      "url_diff" : ""
+   },
+   {
       "artist" : "はがね obj:sak",
       "comment" : "ディレイ",
       "level" : "7",
@@ -5735,7 +5761,7 @@
    {
       "artist" : "フロン / ラズベリル / obj: black train :Ds",
       "comment" : "これが修羅。",
-      "level" : "10",
+      "level" : "9",
       "md5" : "5d0a7996665b93a8406da8ffb1b0f497",
       "proposer" : "MEES-♬",
       "proposerLr2id" : 39693,
@@ -6650,7 +6676,7 @@
    {
       "artist" : "Aota2. / ALESSA / obj:仙人掌の人",
       "comment" : "ガチ押し、後半難",
-      "level" : "3",
+      "level" : "4",
       "md5" : "6b06a96ca9566fcbefcf996d7f884285",
       "proposer" : "スノート",
       "proposerLr2id" : 86393,
@@ -6674,6 +6700,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Process 2.3.1.",
+      "comment" : "Long(?) Version",
+      "level" : "1",
+      "md5" : "6b57c862275bea0d2677d047826cedd2",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "38baf15ab2e58ab58b14b19a2d86afda0d9afdbb7e956c761be9b61d1fdc46ce",
+      "submission" : 1068,
+      "title" : "チョウの標本 [Amostra]",
+      "url" : "http://web.archive.org/web/20030609160042/http://www3.ocn.ne.jp/~yosu/tyou.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03978"
    },
    {
       "artist" : "sun3 vs EXCALIpUR / BGA:Johnny obj.Infinite Melodia(OXYGEN)",
@@ -7143,7 +7182,7 @@
    {
       "artist" : "parakeet41/2 BGA:HAINA / obj.hex",
       "comment" : "連打複合",
-      "level" : "3",
+      "level" : "4",
       "md5" : "71380a9a6608851fcddcb7956c46b0ea",
       "proposer" : "ZEUS",
       "proposerLr2id" : 80338,
@@ -9187,6 +9226,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "morigasigeru obj.hex",
+      "comment" : "大阪の力",
+      "level" : "0",
+      "md5" : "961618e954a9d2e870af548fce62c55f",
+      "proposer" : "Whip",
+      "proposerLr2id" : 145504,
+      "sha256" : "376f016eddf6d08c7205e170be3841b56f49a020740cc0c34996b0d207845f2d",
+      "submission" : 1070,
+      "title" : "情熱の大阪",
+      "url" : "http://web.archive.org/web/20070216150851/http://page.freett.com/mekurumeku/bms.html",
+      "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html"
+   },
+   {
       "artist" : "Widowmaker / selene.",
       "comment" : "2?",
       "level" : "2",
@@ -9543,6 +9595,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Ras / И",
+      "comment" : "ガチ押し",
+      "level" : "1",
+      "md5" : "9c1c5469307b9e138fe832884f3a8dd0",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "0b5e642304fd8beb56d681031f56c907555c9d67de5ca35d095ae2313434ac95",
+      "submission" : 1072,
+      "title" : "TURNDOWN [Excelsior]",
+      "url" : "https://dropbox.bms.ms/u/63612044/TURNDOWN_bms.rar",
+      "url_diff" : "https://bms.parksulab.xyz"
    },
    {
       "artist" : "daiji+lobsak",
@@ -11344,6 +11409,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "DOMINATOR VS SHREDDER obj:七海",
+      "comment" : "It's the power of Christ that compels you!",
+      "level" : "3",
+      "md5" : "ba0a6178b2d9d621a216bc544081a8b2",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "26570adebf308d8bf1f70dde1382384e84db8934e58f407162e78e6f25d71012",
+      "submission" : 1066,
+      "title" : "EXORCIST -Execution-",
+      "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/23/",
+      "url_diff" : "https://www.dropbox.com/s/8rpuf2tlfmploxe/exorcist_nanami.zip?dl=1"
+   },
+   {
       "artist" : "犬 / obj:Monsta",
       "comment" : "超物量",
       "level" : "11",
@@ -12516,6 +12594,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "BMS Sound Team\"DJ 筆箱\" / BMS Designers\"VJ 牛乳パック\" obj:七海",
+      "comment" : "今日も俺は＿＿＿＿＿＿＿＿＿",
+      "level" : "0",
+      "md5" : "cf44c1e88c6a5545728c0468040a63e4",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "0a9388f21ec4a8b3dcbef681c4f7d35e60aa62582e87815d222e277b9a1ce4db",
+      "submission" : 1071,
+      "title" : "DEATH†TENGOQ ～怒りの天地合体野郎～ -Dystopia-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=128",
+      "url_diff" : "https://www.dropbox.com/s/i5vdd5i4811zvij/deathtengoq.zip?dl=1"
    },
    {
       "artist" : "remixed celas / obj : cieu",
@@ -14852,7 +14943,7 @@
    {
       "artist" : "Lime / Roaring Flame obj:K-SPIN",
       "comment" : "",
-      "level" : "3",
+      "level" : "2",
       "md5" : "f63a7587f3e3ff2f26056b99862f8973",
       "proposer" : "chack♪",
       "sha256" : "27f98349c4b7de324b91156cecf146ad5cb972f2e4aa91cc3c1cb5d83337c811",
