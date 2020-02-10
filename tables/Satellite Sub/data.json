@@ -3980,6 +3980,19 @@
       "url_diff" : "https://www.dropbox.com/s/mub73zhqm8v7gfe/rengokupriestess.zip?dl=0"
    },
    {
+      "artist" : "DJ Ash Ketchum / obj : LindBlum",
+      "comment" : "Hyper差分基準ズレなし、高速乱打",
+      "level" : "10",
+      "md5" : "386b4eca3306d3a3b1c7726ff1f4c8b5",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "d8db65dd84b27f40c80288e6addabcf25da9f4ce000877b91e6d029fde6e4e08",
+      "submission" : 1280,
+      "title" : "LOSTSILVER .EXE",
+      "url" : "https://www.axfc.net/u/3464448",
+      "url_diff" : "http://1drv.ms/f/s!AsRicL2I3VhqgVJmXjya_y0a8nc4"
+   },
+   {
       "artist" : "鹿目まどか /差分　赤い人 佐倉杏子",
       "comment" : "私、魔法少女になる",
       "level" : "12",
@@ -10062,6 +10075,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "佐久間まゆ / 星輝子 / 制限",
+      "comment" : "2000 notes (no misalignment)",
+      "level" : "3",
+      "md5" : "8a4c0e2bfe93332965c29e9f75f7ec64",
+      "proposer" : "chouco",
+      "proposerLr2id" : 158333,
+      "sha256" : "4479304171149467f0b301ffc9527da8c1870e5ca08eaa7d650390abb78d1bef",
+      "submission" : 1278,
+      "title" : "恋愛シンドローム",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=439&event=88",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00603"
+   },
+   {
       "artist" : "Dr.ReB obj.subomi",
       "comment" : "",
       "level" : "3",
@@ -13508,6 +13534,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : " obj:七海千秋",
+      "comment" : "同封のh7差分と比較したら二つのズレが見つかります。これはノーツのない部分のキー音追加が原因です。",
+      "level" : "12",
+      "md5" : "b7c58b7887650df6e88a0d9ffb5350e4",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "db6f67526c44b0a1016b6cbf7af8794ad139bbb28c7c065b693621f6bb909b46",
+      "submission" : 1279,
+      "title" : "輪切りのLolita -Hopeless-",
+      "url" : "https://mega.nz/#F!EpgWgJqa!7OItZfYLQxZ0X8OB19yvNQ",
+      "url_diff" : "https://www.dropbox.com/s/o4j2x850lcxo3g8/lolita.zip?dl=1"
    },
    {
       "artist" : "EBIMAYO 柏駅東口から徒歩10分 / obj.Restia",
