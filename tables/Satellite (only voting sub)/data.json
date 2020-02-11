@@ -14,7 +14,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 7
+      "voteYes" : 8
    },
    {
       "artist" : "nmk feat.かなえゆめ obj:goe",
@@ -30,8 +30,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "71.43",
-      "voteYes" : 4
+      "votePercent" : "75.00",
+      "voteYes" : 5
    },
    {
       "artist" : "Arkplot（mov：NekoX） obj.fhyu",
@@ -47,7 +47,7 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "81.82",
+      "votePercent" : "79.17",
       "voteYes" : 7
    },
    {
@@ -64,8 +64,8 @@
       "url_diff" : "http://1drv.ms/f/s!AsRicL2I3VhqgVJmXjya_y0a8nc4",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
+      "votePercent" : "87.50",
+      "voteYes" : 3
    },
    {
       "artist" : "立秋 feat.ちょこ / selene.",
@@ -98,8 +98,8 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03805",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "96.15",
-      "voteYes" : 12
+      "votePercent" : "96.43",
+      "voteYes" : 13
    },
    {
       "artist" : "sasakure.UK Obj.Triforce",
@@ -132,8 +132,8 @@
       "url_diff" : "http://www.geocities.jp/hihihi4442/",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "83.33",
-      "voteYes" : 11
+      "votePercent" : "84.38",
+      "voteYes" : 12
    },
    {
       "artist" : "P4koo/Ruriling/Tofa Kim obj:七海千秋",
@@ -166,8 +166,8 @@
       "url_diff" : "",
       "voteNeutral" : 1,
       "voteNo" : 1,
-      "votePercent" : "70.00",
-      "voteYes" : 3
+      "votePercent" : "78.57",
+      "voteYes" : 5
    },
    {
       "artist" : "Saikoro //obj:R1N",
@@ -184,7 +184,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "天音/さ",
@@ -201,7 +201,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 6
+      "voteYes" : 7
    },
    {
       "artist" : "佐久間まゆ / 星輝子 / 制限",
@@ -217,8 +217,24 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00603",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 2
+      "votePercent" : "90.00",
+      "voteYes" : 4
+   },
+   {
+      "artist" : "ueotan obj:Fender",
+      "level" : "4",
+      "md5" : "aac66a606274fa131d754587f99693e1",
+      "proposer" : "btd",
+      "proposerLr2id" : 142495,
+      "sha256" : "07261e6b8c0595bc4d9d412ade4b01604130c76f67c9d3ada7feebdbb5449af5",
+      "submission" : 1282,
+      "title" : "Mario Paint (Time Regression Mix for BMS) [D-HYPER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=66&event=84",
+      "url_diff" : "http://fenderbms.web.fc2.com/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : " obj:七海千秋",
@@ -236,6 +252,23 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 2
+   },
+   {
+      "artist" : "xi/さ",
+      "comment" : "同时押  happy end of the world前作",
+      "level" : "7",
+      "md5" : "c3eacdb16cc5b965133a92af87e113f7",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "a3fb8e7cf961ead5b35199a3c14b0df432e91c5df7bc8a9f5d0bb3a35cd422bd",
+      "submission" : 1281,
+      "title" : "E-M(BMS edit) [EX]",
+      "url" : "http://web.archive.org/web/20140914000000/uploader.bms.ms/data/xi_E-M.zip",
+      "url_diff" : "http://sabosabun.tank.jp/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 3
    },
    {
       "artist" : "DOMINATOR VS SHREDDER obj:七海",
@@ -268,8 +301,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "91.67",
-      "voteYes" : 5
+      "votePercent" : "93.75",
+      "voteYes" : 7
    },
    {
       "artist" : "Caerula obj:monaka",
@@ -286,6 +319,6 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 6
    }
 ]

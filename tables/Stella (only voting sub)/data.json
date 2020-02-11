@@ -11,9 +11,9 @@
       "title" : "CHRONOMATiC [SP OKIMIH]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=234&event=127",
       "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "87.50",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "70.00",
       "voteYes" : 3
    },
    {
@@ -28,10 +28,27 @@
       "title" : "sampleX [SP Xpert]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=128&event=127",
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "66.67",
+      "voteYes" : 2
+   },
+   {
+      "artist" : "fmy. × TrioStaR × Lylica* × ｂ cislv × Mentalstock / Notes:キラ",
+      "comment" : "ガチ押し | st1~2",
+      "level" : "1",
+      "md5" : "428854a0ba981d8befba26db97dd5ae0",
+      "proposer" : "MIUNA",
+      "proposerLr2id" : 122137,
+      "sha256" : "a9c193aa1217eef48440e22fdf35910deb5a678fb03d2e904f05f42eb973a250",
+      "submission" : 1073,
+      "title" : "虚空グラデーション [CLEAR]",
+      "url" : "http://www1.axfc.net/uploader/O/so/181930.zip&key=xiv",
+      "url_diff" : "http://kirakitsune.web.fc2.com/sabun.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 2
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "Aota2. / ALESSA / obj:仙人掌の人",
@@ -47,8 +64,8 @@
       "url_diff" : "",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "90.00",
-      "voteYes" : 4
+      "votePercent" : "91.67",
+      "voteYes" : 5
    },
    {
       "artist" : "Process 2.3.1.",
@@ -96,9 +113,9 @@
       "title" : "Gerard -Requiem-",
       "url" : "https://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=72&order=reg&odtype=a",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01468",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
+      "voteNeutral" : 1,
+      "voteNo" : 1,
+      "votePercent" : "80.00",
       "voteYes" : 4
    },
    {
@@ -116,7 +133,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 4
+      "voteYes" : 5
    },
    {
       "artist" : "SUPER STAR 健人 obj.hex",
@@ -150,7 +167,7 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
-      "voteYes" : 3
+      "voteYes" : 4
    },
    {
       "artist" : "BMS Sound Team\"DJ 筆箱\" / BMS Designers\"VJ 牛乳パック\" obj:七海",
@@ -166,8 +183,8 @@
       "url_diff" : "https://www.dropbox.com/s/i5vdd5i4811zvij/deathtengoq.zip?dl=1",
       "voteNeutral" : 0,
       "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 2
+      "votePercent" : "90.00",
+      "voteYes" : 4
    },
    {
       "artist" : "ikaruga_nex / obj.2RLZ",
