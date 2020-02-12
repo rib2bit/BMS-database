@@ -6425,6 +6425,19 @@
       "url_diff" : "http://suna0bms.web.fc2.com/bmsabun.html"
    },
    {
+      "artist" : "Multipleton / Trompeuse",
+      "comment" : "Wire Puller IV, 皿複合",
+      "level" : "1",
+      "md5" : "5680b05650bd9f43ce5b474a615f96e4",
+      "proposer" : "dstorv",
+      "proposerLr2id" : 145158,
+      "sha256" : "b0b4ab45d9bca0124f15197d668ab77aa9f00c642fa119ddd72c819586760af0",
+      "submission" : 1285,
+      "title" : "F4C4D3 [Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=112",
+      "url_diff" : ""
+   },
+   {
       "artist" : "fether / FLR",
       "comment" : "縦連 物量",
       "level" : "1",
@@ -8510,6 +8523,19 @@
       "title" : "Burning Beat [B-Fight]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=359&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02962"
+   },
+   {
+      "artist" : "ハル×puia /差分 赤い人",
+      "comment" : "ズレ乱打",
+      "level" : "8",
+      "md5" : "75e3f17d1d9c2e14d2e0479fa4837d3c",
+      "proposer" : "けーちゃん",
+      "proposerLr2id" : 137190,
+      "sha256" : "3a0cd627e6f3d7ad1273752fb89097d1b6f3ea242d8768cadccbd036cb409b5a",
+      "submission" : 1286,
+      "title" : "死んであげない [HARDEST]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=91",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/shindeagenai_HARDEST.bms"
    },
    {
       "artist" : "D.J.Nero / obj:Monsta",
@@ -10940,6 +10966,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Lactic Acid Bacteria",
+      "comment" : "プチ",
+      "level" : "0",
+      "md5" : "98b4792f0f6cbae1f78986a895354375",
+      "proposer" : "dstorv",
+      "proposerLr2id" : 145158,
+      "sha256" : "c941c901d8b29125d9739325a13fb9ac68427f232ac33d90691d7baa80f4a9c0",
+      "submission" : 1284,
+      "title" : "Petit brave [7key another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=150&event=123",
+      "url_diff" : ""
    },
    {
       "artist" : "idzuchi takl feat. TEA",
@@ -18309,6 +18348,19 @@
       "title" : "Rainy Gate [Another]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=60&event=127",
       "url_diff" : ""
+   },
+   {
+      "artist" : "mattaku/ 差分 赤い人",
+      "comment" : "同時押し、皿絡み",
+      "level" : "1",
+      "md5" : "f5409a131e2b5f010c6f6683cfc909ec",
+      "proposer" : "けーちゃん",
+      "proposerLr2id" : 137190,
+      "sha256" : "1ec81d0d163a545e42fecb5155164860d8c1a9c2fb87704c6610b48b353cde9c",
+      "submission" : 1287,
+      "title" : "CHRONO TRIGGER ～時の回廊～ [HARD]",
+      "url" : "http://oldgamebms.blog33.fc2.com/blog-entry-7.html",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/ct-kairou-HARD.bms"
    },
    {
       "artist" : "otoshi.b obj.Lapis",
