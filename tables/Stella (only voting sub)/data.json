@@ -51,6 +51,23 @@
       "voteYes" : 4
    },
    {
+      "artist" : "tcheb / Roaring Flame × アカツキユウ obj:kusamochi009",
+      "comment" : "BPM155 いろいろな連打複合 (SPN基準ズレなし)",
+      "level" : "2",
+      "md5" : "4f6b7176c68533fbdcdf4b0a56e10ab7",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "13544b2bfb215d22443b8c136636725b6dce5c284175d6d90c84e8b85d929edf",
+      "submission" : 1076,
+      "title" : "Fate of Valkyrie [SP KS]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=262&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 1
+   },
+   {
       "artist" : "Aota2. / ALESSA / obj:仙人掌の人",
       "comment" : "ガチ押し、後半難",
       "level" : "4",
@@ -66,23 +83,6 @@
       "voteNo" : 0,
       "votePercent" : "91.67",
       "voteYes" : 5
-   },
-   {
-      "artist" : "Process 2.3.1.",
-      "comment" : "Long(?) Version",
-      "level" : "1",
-      "md5" : "6b57c862275bea0d2677d047826cedd2",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "38baf15ab2e58ab58b14b19a2d86afda0d9afdbb7e956c761be9b61d1fdc46ce",
-      "submission" : 1068,
-      "title" : "チョウの標本 [Amostra]",
-      "url" : "http://web.archive.org/web/20030609160042/http://www3.ocn.ne.jp/~yosu/tyou.rar",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03978",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "83.33",
-      "voteYes" : 2
    },
    {
       "artist" : "yassu obj.hex",
@@ -153,6 +153,23 @@
       "voteYes" : 5
    },
    {
+      "artist" : "SABREMISSILE (mov:jubeated) ランナー : あんた",
+      "comment" : "ディレイ、長距離も諦めずに走れ (SPN音源基盤)",
+      "level" : "3",
+      "md5" : "a5604183afc075ba7b730d4d2cb763a0",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "0d09df4be8af84077f275fd62eb66c77f24b7d66549af66cb4059645e4b11d85",
+      "submission" : 1075,
+      "title" : "Pernicious Deed [陸上]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=332&event=74",
+      "url_diff" : "https://bms.parksulab.xyz",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 1
+   },
+   {
       "artist" : "SUPER STAR 健人 obj.hex",
       "comment" : "CHANさんのもの ディレイ 連打複合 アレンジ差分です。",
       "level" : "4",
@@ -219,5 +236,18 @@
       "voteNo" : 0,
       "votePercent" : "91.67",
       "voteYes" : 5
+   },
+   {
+      "artist" : "------ obj: qtp13",
+      "comment" : "ディレイ 6~7? (ズレはなし)",
+      "level" : "6",
+      "md5" : "dad5a8d781bbff09379ecf4e82cff052",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "2dc01dec7d759442586faa653cd0c5cc243fb65f82042f607e24a779f1435c5d",
+      "submission" : 1077,
+      "title" : "LOSHAXI",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=119",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=1930"
    }
 ]

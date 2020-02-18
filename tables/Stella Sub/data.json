@@ -250,7 +250,7 @@
       "submission" : 701,
       "title" : "dolorosa melodia　 -EX-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=243&event=83",
-      "url_diff" : "http://sabosabun.tank.jp/",
+      "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -395,7 +395,7 @@
       "submission" : 68,
       "title" : "LaT [Buster]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=95",
-      "url_diff" : "http://sabosabun.tank.jp/"
+      "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/"
    },
    {
       "artist" : "keyc / Ds",
@@ -1067,7 +1067,7 @@
       "submission" : 982,
       "title" : "horizon [Ex]",
       "url" : "https://mega.nz/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA!UB8gABwB",
-      "url_diff" : "http://sabosabun.tank.jp/"
+      "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/"
    },
    {
       "artist" : "Frums obj. BK",
@@ -1733,7 +1733,7 @@
       "submission" : 722,
       "title" : "Fantasy (・∀・)",
       "url" : "http://silentman.blog51.fc2.com/",
-      "url_diff" : "http://sabosabun.tank.jp/",
+      "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -4643,7 +4643,7 @@
       "submission" : 320,
       "title" : "Drop! [EX]",
       "url" : "http://sound.jp/lobsak/bms.html",
-      "url_diff" : "http://sabosabun.tank.jp/",
+      "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -4959,6 +4959,23 @@
       "title" : "Cowardly Clime [GUILTY]",
       "url" : "http://kamineko.sakura.ne.jp/music.html ",
       "url_diff" : "http://obj42.web.fc2.com/"
+   },
+   {
+      "artist" : "tcheb / Roaring Flame × アカツキユウ obj:kusamochi009",
+      "comment" : "BPM155 いろいろな連打複合 (SPN基準ズレなし)",
+      "level" : "2",
+      "md5" : "4f6b7176c68533fbdcdf4b0a56e10ab7",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "13544b2bfb215d22443b8c136636725b6dce5c284175d6d90c84e8b85d929edf",
+      "submission" : 1076,
+      "title" : "Fate of Valkyrie [SP KS]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=262&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 0
    },
    {
       "artist" : "er obj:Fxi",
@@ -5541,7 +5558,7 @@
       "submission" : 948,
       "title" : "Fantasy (・ω・)",
       "url" : "http://silentman.blog51.fc2.com/blog-entry-25.html",
-      "url_diff" : "http://sabosabun.tank.jp/"
+      "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/"
    },
    {
       "artist" : "void feat. Hiroko / obj:発汗BMS",
@@ -6025,7 +6042,7 @@
       "submission" : 106,
       "title" : "Complex path(bms edit) [さぼてんのとげザ－]",
       "url" : "https://dropbox.bms.ms/u/51977836/Vector27vsBlue-J_Complex%20path.rar",
-      "url_diff" : "http://sabosabun.tank.jp/",
+      "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -6381,7 +6398,7 @@
       "submission" : 495,
       "title" : "あにまらいおっと (・∀・)",
       "url" : "http://www.likeside.net/2009/05/05/lolipicottemicknpop-animariot/",
-      "url_diff" : "http://sabosabun.tank.jp/",
+      "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -6882,6 +6899,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "yassu obj.hex",
+      "comment" : "総合練習（ディレイ、がち押し、地力）",
+      "level" : "1",
+      "md5" : "6cfac3e6c1663f491431d19b5af5be22",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "66099041c1c771cec90c12470deaa27109c13faed7011489e36061e930d66351",
+      "submission" : 1074,
+      "title" : "Memories of Sky -2018- [Hexagon]",
+      "url" : "https://www.dropbox.com/s/hl1c9cb5s2lrsyn/yassu_memories_2018.rar?dl=1",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html"
+   },
+   {
       "artist" : "toby fox Remixed by uet BGI : morph",
       "comment" : "",
       "level" : "6",
@@ -6904,7 +6934,7 @@
       "submission" : 731,
       "title" : "Reality [EX]",
       "url" : "http://www1.axfc.net/uploader/so/1754703&key=bms",
-      "url_diff" : "http://sabosabun.tank.jp/sabun/Reality%20sabun.zip",
+      "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -7666,7 +7696,7 @@
       "submission" : 779,
       "title" : "硬核機動 [EX]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=106&event=83",
-      "url_diff" : "http://sabosabun.tank.jp/",
+      "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -8961,7 +8991,7 @@
       "submission" : 508,
       "title" : "コスモワンダラー (･∀･)",
       "url" : "http://www.likeside.net/2012/02/05/new-release-cosmowanderer/",
-      "url_diff" : "http://sabosabun.tank.jp/",
+      "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -9289,7 +9319,7 @@
       "submission" : 777,
       "title" : "☆Traveling Sunstar☆　 [EX]",
       "url" : "http://web.archive.org/web/20160328151138/http://page.freett.com/takacyan930/takacyan930index.htm",
-      "url_diff" : "http://sabosabun.tank.jp/",
+      "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -9369,7 +9399,7 @@
       "submission" : 451,
       "title" : "ハローワールド (EX)",
       "url" : "http://jirai8.web.fc2.com/music.html",
-      "url_diff" : "http://sabosabun.tank.jp/",
+      "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -10175,6 +10205,23 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00695"
    },
    {
+      "artist" : "SABREMISSILE (mov:jubeated) ランナー : あんた",
+      "comment" : "ディレイ、長距離も諦めずに走れ (SPN音源基盤)",
+      "level" : "3",
+      "md5" : "a5604183afc075ba7b730d4d2cb763a0",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "0d09df4be8af84077f275fd62eb66c77f24b7d66549af66cb4059645e4b11d85",
+      "submission" : 1075,
+      "title" : "Pernicious Deed [陸上]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=332&event=74",
+      "url_diff" : "https://bms.parksulab.xyz",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : "100.00",
+      "voteYes" : 1
+   },
+   {
       "artist" : "Juggernaut./BGA:Sugar/OBJ.O",
       "comment" : "同時押し、高速物量",
       "level" : "7",
@@ -10573,7 +10620,7 @@
       "submission" : 521,
       "title" : "* Crow Solace * (・∀・)",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=61&event=83",
-      "url_diff" : "http://sabosabun.tank.jp/",
+      "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -10589,7 +10636,7 @@
       "submission" : 1024,
       "title" : "午後のこいしちゃん [EX]",
       "url" : "http://yaruki0.sakura.ne.jp/event/ondanyugi5/impression.cgi?no=5",
-      "url_diff" : "http://sabosabun.tank.jp/"
+      "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/"
    },
    {
       "artist" : "b-UMB /差分　赤い人",
@@ -11024,7 +11071,7 @@
       "submission" : 715,
       "title" : "Believe the Future -EX-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=88",
-      "url_diff" : "http://sabosabun.tank.jp/",
+      "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -11131,7 +11178,7 @@
       "submission" : 637,
       "title" : "失望Choco (・∀・)",
       "url" : "http://cerebralmuddystream.nekokan.dyndns.info/betoo/?mode=datail&no=106",
-      "url_diff" : "http://sabosabun.tank.jp/",
+      "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -11177,7 +11224,7 @@
       "submission" : 778,
       "title" : "BlythE:ExtenD [SABOTHER]",
       "url" : "http://oblivion.dip.jp/creation/index.htm",
-      "url_diff" : "http://sabosabun.tank.jp/",
+      "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -12195,7 +12242,7 @@
       "submission" : 544,
       "title" : "denebora (EX)",
       "url" : "http://estish.nobody.jp/",
-      "url_diff" : "http://sabosabun.tank.jp/",
+      "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -12986,7 +13033,7 @@
       "submission" : 384,
       "title" : "絵空事の世界と私　 [EX]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=381&event=83",
-      "url_diff" : "http://sabosabun.tank.jp/",
+      "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -13492,6 +13539,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "------ obj: qtp13",
+      "comment" : "ディレイ 6~7? (ズレはなし)",
+      "level" : "6",
+      "md5" : "dad5a8d781bbff09379ecf4e82cff052",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "2dc01dec7d759442586faa653cd0c5cc243fb65f82042f607e24a779f1435c5d",
+      "submission" : 1077,
+      "title" : "LOSHAXI",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=119",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=1930"
+   },
+   {
       "artist" : "Est obj.OXYGEN",
       "comment" : "ガチ押し",
       "level" : "9",
@@ -13793,7 +13853,7 @@
       "submission" : 488,
       "title" : "Fireball [SABOTHER]",
       "url" : "http://ofuton.tk/tarolabo/",
-      "url_diff" : "http://sabosabun.tank.jp/",
+      "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -14175,7 +14235,7 @@
       "submission" : 908,
       "title" : "Fireball [EX]",
       "url" : "http://ofuton.tk/tarolabo/",
-      "url_diff" : "http://sabosabun.tank.jp/",
+      "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
@@ -14611,7 +14671,7 @@
       "submission" : 182,
       "title" : "天空の城ヴェリエル [EX]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=156&event=83",
-      "url_diff" : "http://sabosabun.tank.jp/sabun/tennkuuno%20sabun.zip"
+      "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/"
    },
    {
       "artist" : "sampling minor SUICA / mikasa",
@@ -15154,7 +15214,7 @@
       "submission" : 456,
       "title" : "Highway Dancer (アウトバーン)",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=45&event=88",
-      "url_diff" : "http://sabosabun.tank.jp/",
+      "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
