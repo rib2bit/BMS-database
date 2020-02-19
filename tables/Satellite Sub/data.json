@@ -11601,6 +11601,18 @@
       "voteYes" : 0
    },
    {
+      "artist" : "sound piercer obj.sialua",
+      "level" : "5",
+      "md5" : "a1fc8f39becc3b3ee381a800b624b809",
+      "proposer" : "SANY",
+      "proposerLr2id" : 128405,
+      "sha256" : "4b5052d5bf1ff624ef899ccd0ba2726b4c267a88e725923b883be086594fc6b4",
+      "submission" : 1289,
+      "title" : "Castorpollux [SP INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=381&event=104",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Nizikawa feat. nayuta Movie: Air /obj:赤い人",
       "comment" : "sl7~8",
       "level" : "7",
@@ -15424,6 +15436,18 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Frums Obj.Triforce",
+      "level" : "8",
+      "md5" : "cdab52f88644b32917e7292d4a190cbf",
+      "proposer" : "''",
+      "proposerLr2id" : 86456,
+      "sha256" : "6814a91933020eed2d1b571916fe8058828f2ea531126994531eaefbf2256868",
+      "submission" : 1290,
+      "title" : "Credits [Corporation]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=113&event=104",
+      "url_diff" : "http://www.dropbox.com/s/bf2v6jnpit6jju6/_credits-triforce.bme?dl=0"
    },
    {
       "artist" : "enxel vs D.J.Nero / Shelcis",

@@ -224,7 +224,7 @@
    {
       "artist" : "suna",
       "comment" : "",
-      "level" : 7,
+      "level" : "7",
       "md5" : "086d4722e83aeaa818342a989335d31b",
       "proposer" : "firi.",
       "sha256" : "75c74cade02667e2a4e01f20ce9ae27773be5aa14bcbbe74626eb7304cda8677",
@@ -3533,7 +3533,7 @@
    {
       "artist" : "Vector27 vs Blue-J/さ",
       "comment" : "ディレイ",
-      "level" : 3,
+      "level" : "3",
       "md5" : "603cdd2809e952a60133e4b8cd8b015d",
       "proposer" : "Masa",
       "sha256" : "f888ebcb408443076aeb997807f06f2e1bbbde87c57aa88b5c59a22b7773fc59",

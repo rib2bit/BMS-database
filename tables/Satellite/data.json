@@ -85,6 +85,22 @@
       "voteYes" : 11
    },
    {
+      "artist" : "kyou1110 vs 九八式旋回機関銃 / obj:みっと",
+      "level" : "10",
+      "md5" : "44b67fc9a16975d036aa563ded206298",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "b26f4204bd2a4f9bd70a4c394929552d7ed363a5121ab4e29d2df70541950e86",
+      "submission" : 233,
+      "title" : "Six Pieces Dummy [A sharpness knife]",
+      "url" : "https://keysounds.net/events/event/1/impressions/id/4",
+      "url_diff" : "http://zzssccaxd.wixsite.com/bmsabun/sabunkikaku",
+      "voteNeutral" : 0,
+      "voteNo" : 6,
+      "votePercent" : 57.1428571428571,
+      "voteYes" : 8
+   },
+   {
       "artist" : "Ninja Action Team / selene.",
       "comment" : "正月",
       "level" : "1",
@@ -168,6 +184,22 @@
       "voteNo" : 1,
       "votePercent" : "90.00",
       "voteYes" : 9
+   },
+   {
+      "artist" : "音樂：佐倉翔一　譜面：七海拓哉 映像：山越矜介　原画：春見琴音",
+      "level" : "6",
+      "md5" : "5eac82485a4e1a9d5a8ed50957726194",
+      "proposer" : "SANY",
+      "proposerLr2id" : 128405,
+      "sha256" : "0a3a4fadd62a4370b65ef545d6a8f7ec70505ae6db5f80a7e524a5e0a79cd543",
+      "submission" : 621,
+      "title" : "メルヘニア -malchenia- [INSANE]",
+      "url" : "http://leafbms.web.fc2.com/song.html",
+      "url_diff" : "",
+      "voteNeutral" : 4,
+      "voteNo" : 2,
+      "votePercent" : 66.6666666666667,
+      "voteYes" : 6
    },
    {
       "artist" : "えびです meets ポート・フィリップ illust:Matsuba",
@@ -255,6 +287,18 @@
       "voteYes" : 4
    },
    {
+      "artist" : "sound piercer obj.sialua",
+      "level" : "5",
+      "md5" : "a1fc8f39becc3b3ee381a800b624b809",
+      "proposer" : "SANY",
+      "proposerLr2id" : 128405,
+      "sha256" : "4b5052d5bf1ff624ef899ccd0ba2726b4c267a88e725923b883be086594fc6b4",
+      "submission" : 1289,
+      "title" : "Castorpollux [SP INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=381&event=104",
+      "url_diff" : ""
+   },
+   {
       "artist" : "ueotan obj:Fender",
       "level" : "4",
       "md5" : "aac66a606274fa131d754587f99693e1",
@@ -320,6 +364,18 @@
       "voteNo" : 0,
       "votePercent" : "95.45",
       "voteYes" : 10
+   },
+   {
+      "artist" : "Frums Obj.Triforce",
+      "level" : "8",
+      "md5" : "cdab52f88644b32917e7292d4a190cbf",
+      "proposer" : "''",
+      "proposerLr2id" : 86456,
+      "sha256" : "6814a91933020eed2d1b571916fe8058828f2ea531126994531eaefbf2256868",
+      "submission" : 1290,
+      "title" : "Credits [Corporation]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=113&event=104",
+      "url_diff" : "http://www.dropbox.com/s/bf2v6jnpit6jju6/_credits-triforce.bme?dl=0"
    },
    {
       "artist" : "P.E. / A!key / RAY あ",

@@ -214,7 +214,7 @@
       "submission" : 1274,
       "title" : "綺雪朧月 (EX)",
       "url" : "http://loli.sakura.ne.jp/",
-      "url_diff" : "http://sabosabun.tank.jp/",
+      "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "100.00",
@@ -253,6 +253,18 @@
       "voteNo" : 4,
       "votePercent" : "50.00",
       "voteYes" : 4
+   },
+   {
+      "artist" : "sound piercer obj.sialua",
+      "level" : "5",
+      "md5" : "a1fc8f39becc3b3ee381a800b624b809",
+      "proposer" : "SANY",
+      "proposerLr2id" : 128405,
+      "sha256" : "4b5052d5bf1ff624ef899ccd0ba2726b4c267a88e725923b883be086594fc6b4",
+      "submission" : 1289,
+      "title" : "Castorpollux [SP INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=381&event=104",
+      "url_diff" : ""
    },
    {
       "artist" : "ueotan obj:Fender",
@@ -298,7 +310,7 @@
       "submission" : 1281,
       "title" : "E-M(BMS edit) [EX]",
       "url" : "http://web.archive.org/web/20140914000000/uploader.bms.ms/data/xi_E-M.zip",
-      "url_diff" : "http://sabosabun.tank.jp/",
+      "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "91.67",
@@ -371,5 +383,18 @@
       "voteNo" : 0,
       "votePercent" : "95.00",
       "voteYes" : 9
+   },
+   {
+      "artist" : "maru BGA:Johnny / obj:平成",
+      "comment" : "令和",
+      "level" : "3",
+      "md5" : "fdf4405ff892415cc3aac1048cedd1eb",
+      "proposer" : "SANY",
+      "proposerLr2id" : 128405,
+      "sha256" : "ff4cab016ba8761944a2cfc9f49e4749389419ff61c0088053a3b5ba8c7b1ad2",
+      "submission" : 1288,
+      "title" : "New period [令和]",
+      "url" : "https://dropbox.bms.ms/u/34120259/BOFU2016/maru-NewPeriod.zip",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02991"
    }
 ]
