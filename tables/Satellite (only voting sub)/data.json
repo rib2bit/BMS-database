@@ -68,6 +68,19 @@
       "voteYes" : 5
    },
    {
+      "artist" : "Feryquitous Sennzai / Dazzle / Cymby / obj:Ferberite",
+      "comment" : "sl0~1 (no misalignment)",
+      "level" : "0",
+      "md5" : "3f74ff490416c8e293d32f4b03c901ba",
+      "proposer" : "chouco",
+      "proposerLr2id" : 158333,
+      "sha256" : "f140ffe37657c17c9368b734639b5173fc58cc9f232665c26288e96c4122d8bf",
+      "submission" : 1291,
+      "title" : "Strahv [PAST]",
+      "url" : "https://mega.nz/#F!FNFDCQaT!wfv-iI4UuSIaGpP0oFZdtQ?4M00iTSC",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02645"
+   },
+   {
       "artist" : "立秋 feat.ちょこ / selene.",
       "comment" : "プナイプナイ！",
       "level" : "1",
@@ -83,6 +96,22 @@
       "voteNo" : 1,
       "votePercent" : "85.71",
       "voteYes" : 11
+   },
+   {
+      "artist" : "kyou1110 vs 九八式旋回機関銃 / obj:みっと",
+      "level" : "10",
+      "md5" : "44b67fc9a16975d036aa563ded206298",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "b26f4204bd2a4f9bd70a4c394929552d7ed363a5121ab4e29d2df70541950e86",
+      "submission" : 233,
+      "title" : "Six Pieces Dummy [A sharpness knife]",
+      "url" : "https://keysounds.net/events/event/1/impressions/id/4",
+      "url_diff" : "http://zzssccaxd.wixsite.com/bmsabun/sabunkikaku",
+      "voteNeutral" : 0,
+      "voteNo" : 6,
+      "votePercent" : 57.1428571428571,
+      "voteYes" : 8
    },
    {
       "artist" : "Ninja Action Team / selene.",
@@ -168,6 +197,22 @@
       "voteNo" : 1,
       "votePercent" : "90.00",
       "voteYes" : 9
+   },
+   {
+      "artist" : "音樂：佐倉翔一　譜面：七海拓哉 映像：山越矜介　原画：春見琴音",
+      "level" : "6",
+      "md5" : "5eac82485a4e1a9d5a8ed50957726194",
+      "proposer" : "SANY",
+      "proposerLr2id" : 128405,
+      "sha256" : "0a3a4fadd62a4370b65ef545d6a8f7ec70505ae6db5f80a7e524a5e0a79cd543",
+      "submission" : 621,
+      "title" : "メルヘニア -malchenia- [INSANE]",
+      "url" : "http://leafbms.web.fc2.com/song.html",
+      "url_diff" : "",
+      "voteNeutral" : 4,
+      "voteNo" : 2,
+      "votePercent" : 66.6666666666667,
+      "voteYes" : 6
    },
    {
       "artist" : "えびです meets ポート・フィリップ illust:Matsuba",
@@ -334,6 +379,18 @@
       "voteYes" : 10
    },
    {
+      "artist" : "Frums Obj.Triforce",
+      "level" : "8",
+      "md5" : "cdab52f88644b32917e7292d4a190cbf",
+      "proposer" : "''",
+      "proposerLr2id" : 86456,
+      "sha256" : "6814a91933020eed2d1b571916fe8058828f2ea531126994531eaefbf2256868",
+      "submission" : 1290,
+      "title" : "Credits [Corporation]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=113&event=104",
+      "url_diff" : "http://www.dropbox.com/s/bf2v6jnpit6jju6/_credits-triforce.bme?dl=0"
+   },
+   {
       "artist" : "P.E. / A!key / RAY あ",
       "comment" : "#7f7f7f",
       "level" : "2",
@@ -382,6 +439,22 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : "95.00",
+      "voteYes" : 9
+   },
+   {
+      "artist" : "LeaF × kana / obj:chack Movie:To7",
+      "level" : "6",
+      "md5" : "f77f591d575f2ad4aa7c1926d9f696e3",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "10212dd55b3feeee6a5197007e4abd82f5138484b7cae1f4beafcb84f05fe24e",
+      "submission" : 1063,
+      "title" : "◇スト [Tree]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/%e2%97%87%e3%82%b9%e3%83%88%20%5b%e3%81%88%e3%81%8b%e3%81%8d%e3%81%86%e3%81%9f%5d.rar",
+      "url_diff" : "http://chack3sabun.web.fc2.com/",
+      "voteNeutral" : 1,
+      "voteNo" : 0,
+      "votePercent" : 95,
       "voteYes" : 9
    },
    {
