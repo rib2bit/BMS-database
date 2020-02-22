@@ -34,6 +34,19 @@
       "voteYes" : 5
    },
    {
+      "artist" : "rider / obj:夢瑠",
+      "comment" : "低速なし（ズレあり）",
+      "level" : "6",
+      "md5" : "080c24d8abe265284cb30effe548ff50",
+      "proposer" : "のの",
+      "proposerLr2id" : 149743,
+      "sha256" : "29b34592439ac7e6713c3eb4dc86a4cf2bee48a50b1e87bf054196fd4d0ecd23",
+      "submission" : 1292,
+      "title" : "Freja [yumether]",
+      "url" : "http://flowermaster.web.fc2.com/riderbms/index.html",
+      "url_diff" : "http://flowermaster.web.fc2.com/"
+   },
+   {
       "artist" : "Arkplot（mov：NekoX） obj.fhyu",
       "comment" : "BPM178 多要素",
       "level" : "9",
@@ -450,7 +463,7 @@
       "sha256" : "10212dd55b3feeee6a5197007e4abd82f5138484b7cae1f4beafcb84f05fe24e",
       "submission" : 1063,
       "title" : "◇スト [Tree]",
-      "url" : "http://sunaneko.iptime.org/BMS_Library/%e2%97%87%e3%82%b9%e3%83%88%20%5b%e3%81%88%e3%81%8b%e3%81%8d%e3%81%86%e3%81%9f%5d.rar",
+      "url" : "https://mega.nz/#F!FNFDCQaT!wfv-iI4UuSIaGpP0oFZdtQ?hcEjnDQQ",
       "url_diff" : "http://chack3sabun.web.fc2.com/",
       "voteNeutral" : 1,
       "voteNo" : 0,
