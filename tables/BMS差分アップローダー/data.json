@@ -2955,6 +2955,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01969"
    },
    {
+      "adddate" : "2020/02/24 01:23",
+      "artist" : "エルリ鳥 obj:natsu",
+      "comment" : "7KEY化, 微縦連, ズレ",
+      "folder" : "2020/02",
+      "genre" : "duckweed",
+      "keys" : 7,
+      "level" : "2020/02",
+      "lr2_bmsid" : "",
+      "md5" : "0a077cc9bce6c23f055cb9d21d1969a8",
+      "org_level" : null,
+      "title" : "CG [↑Cut,Gravity↓] bms edit [Reality↓]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04052"
+   },
+   {
       "adddate" : "2018/01/13 20:08",
       "artist" : "カラフル・サウンズ・ポート obj : 99",
       "comment" : "地力（24分、32分なし）",
@@ -7573,6 +7588,21 @@
       "title" : "仮面歪ンダーツクヨミ変身音[アナザーフォーム]",
       "url" : "",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03300"
+   },
+   {
+      "adddate" : "2020/02/23 16:41",
+      "artist" : "SEPHID mov LankaNIK / obj:SUZUKAZEΛ",
+      "comment" : "乱打,高速階段,皿,物量",
+      "folder" : "2020/02",
+      "genre" : "レッツ・キャノン・ボール",
+      "keys" : 7,
+      "level" : "2020/02",
+      "lr2_bmsid" : "283253",
+      "md5" : "19dabfd5c632908c4de0cfe7dc8e9f20",
+      "org_level" : null,
+      "title" : "Critical Cannonball [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=129",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04043"
    },
    {
       "adddate" : "2019/11/11 22:07",
@@ -16005,6 +16035,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01421"
    },
    {
+      "adddate" : "2020/02/23 16:55",
+      "artist" : "BMS：Ｆ／Ａ１８　MIDI：徒桜　BGI：dairi obj:SUZUKAZEΛ",
+      "comment" : "ガチ押し,LN,ズレ",
+      "folder" : "2020/02",
+      "genre" : "東方緋想天",
+      "keys" : 7,
+      "level" : "2020/02",
+      "lr2_bmsid" : "283250",
+      "md5" : "38c943161f17035a932048c7f2d5e327",
+      "org_level" : null,
+      "title" : "彼岸帰航 － Riverside View [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=129",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04046"
+   },
+   {
       "adddate" : "2019/03/07 01:09",
       "artist" : "RikkaTachibana obj Amami",
       "comment" : "難易度順に、同時押し譜面、ディレイ譜面、LN譜面、ディレイ譜面。",
@@ -21225,6 +21270,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02384"
    },
    {
+      "adddate" : "2020/02/23 16:45",
+      "artist" : "dj MASTER obj:SUZUKAZEΛ",
+      "comment" : "高速階段,トリル,皿複合,ガチ押し,縦連(軸),ラス殺し",
+      "folder" : "2020/02",
+      "genre" : "Rotterdam Techno",
+      "keys" : 7,
+      "level" : "2020/02",
+      "lr2_bmsid" : "283252",
+      "md5" : "4897c51805ddb7312b2903e52ab122a6",
+      "org_level" : null,
+      "title" : "Bubbling Fairies （2020 BMS edit） [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=31&event=129",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04044"
+   },
+   {
       "adddate" : "2018/02/14 22:19",
       "artist" : "KaKi obj:monaka",
       "comment" : "乱打",
@@ -21568,6 +21628,21 @@
       "title" : "VISTA [windows]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01248"
+   },
+   {
+      "adddate" : "2020/02/23 17:00",
+      "artist" : "9-zen obj:SUZUKAZEΛ",
+      "comment" : "乱打,皿複合",
+      "folder" : "2020/02",
+      "genre" : "しんぴの楽園",
+      "keys" : 7,
+      "level" : "2020/02",
+      "lr2_bmsid" : "283248",
+      "md5" : "49cef425630875bd7d83e69bb76dbfea",
+      "org_level" : null,
+      "title" : "ルーネイトエルフ－霧の湖の物語－ [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=129",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04048"
    },
    {
       "adddate" : "2020/01/22 12:51",
@@ -25468,6 +25543,21 @@
       "title" : "星の器～STAR OF ANDROMEDA (EZ?)",
       "url" : "https://web.archive.org/web/20071210121840/http://www14.plala.or.jp/sun3_bms/Re_final.rar",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03841"
+   },
+   {
+      "adddate" : "2020/02/23 16:53",
+      "artist" : "NASA / BGI:Morph obj:SUZUKAZEΛ",
+      "comment" : "乱打,ソフラン,同時押し,LN",
+      "folder" : "2020/02",
+      "genre" : "Bitbreak Dream",
+      "keys" : 7,
+      "level" : "2020/02",
+      "lr2_bmsid" : "283251",
+      "md5" : "5602a8400f7d25e29f9b739d0c20a1d9",
+      "org_level" : null,
+      "title" : "蘇る幻騒郷のユメ。 [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=129",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04045"
    },
    {
       "adddate" : "2020/01/20 12:42",
@@ -35955,6 +36045,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03868"
    },
    {
+      "adddate" : "2020/02/23 16:57",
+      "artist" : "Violet Delta (feat. Slothington) / Slothington, Amen / obj:SUZUKAZEΛ",
+      "comment" : "物量,高速階段,微縦連,皿絡み",
+      "folder" : "2020/02",
+      "genre" : "Electro House",
+      "keys" : 7,
+      "level" : "2020/02",
+      "lr2_bmsid" : "283249",
+      "md5" : "7a92046429705ec34fd9801bf187215e",
+      "org_level" : null,
+      "title" : "MOON-1970 － LUNATIC DANCEFLOOR [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=129",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04047"
+   },
+   {
       "adddate" : "2017/08/04 00:37",
       "artist" : "pentate obj.quad",
       "comment" : "同時押し、縦連、 乱打",
@@ -40588,6 +40693,21 @@
       "title" : "Kalte",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01404"
+   },
+   {
+      "adddate" : "2020/02/23 15:45",
+      "artist" : "Situation VS KEI / obj.鼻",
+      "comment" : "乱打(04041からreadme書き換えました、bmsファイルは変更なし)",
+      "folder" : "2020/02",
+      "genre" : "HappyHardPore(7key)",
+      "keys" : "7",
+      "level" : "2020/02",
+      "lr2_bmsid" : "283258",
+      "md5" : "89f0a578f65d3fda7ef03485384b366d",
+      "org_level" : null,
+      "title" : "美しく逝きたい-2nd Mix- [hAnother]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04042"
    },
    {
       "adddate" : "2017/10/12 19:20",
@@ -46710,6 +46830,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01715"
    },
    {
+      "adddate" : "2020/02/23 23:24",
+      "artist" : "Columba (Daily vs Roon_kun) (obj: hokonekoqs )",
+      "comment" : "9K(PMS) 東方音弾遊戯9 追加N/H/EX譜面",
+      "folder" : "2020/02",
+      "genre" : "AKA J- (FRENCH) CORE",
+      "keys" : 9,
+      "level" : "2020/02",
+      "lr2_bmsid" : "",
+      "md5" : "9e959f61259134553928a55e6069ea0b",
+      "org_level" : null,
+      "title" : "赤 (原曲: 天衣無縫) [9K NORMAL]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04049"
+   },
+   {
       "adddate" : "2019/01/17 11:47",
       "artist" : "itaojirou obj: かに",
       "comment" : "物量、同時押し 02615の超弱化版？",
@@ -47818,6 +47953,21 @@
       "title" : "Positive Ignition [LN]",
       "url" : "",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03134"
+   },
+   {
+      "adddate" : "2020/02/23 23:24",
+      "artist" : "Columba (Daily vs Roon_kun) (obj: hokonekoqs )",
+      "comment" : "9K(PMS) 東方音弾遊戯9 追加N/H/EX譜面",
+      "folder" : "2020/02",
+      "genre" : "AKA J- (FRENCH) CORE",
+      "keys" : 9,
+      "level" : "2020/02",
+      "lr2_bmsid" : "",
+      "md5" : "a27a181e25e54b05341c55f6ebb3e5ed",
+      "org_level" : null,
+      "title" : "赤 (原曲: 天衣無縫) [9K HYPER]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04049"
    },
    {
       "adddate" : "2018/03/04 23:02",
@@ -57735,6 +57885,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02986"
    },
    {
+      "adddate" : "2020/02/23 23:24",
+      "artist" : "Columba (Daily vs Roon_kun) (obj: hokonekoqs )",
+      "comment" : "9K(PMS) 東方音弾遊戯9 追加N/H/EX譜面",
+      "folder" : "2020/02",
+      "genre" : "AKA J- (FRENCH) CORE",
+      "keys" : 9,
+      "level" : "2020/02",
+      "lr2_bmsid" : "",
+      "md5" : "c295743ee1d0f33a725009d4508b19e6",
+      "org_level" : null,
+      "title" : "赤 (原曲: 天衣無縫) [9K EX]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04049"
+   },
+   {
       "adddate" : "2017/01/05 21:21",
       "artist" : "Getty vs. DJ DiA BGA:わっふゑ vs. でこちんハンマー / selene.",
       "comment" : "物量・★23はバス連打・皿複合あり/難易度に影響を与える連皿は無し",
@@ -61800,6 +61965,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03010"
    },
    {
+      "adddate" : "2020/02/24 01:05",
+      "artist" : "mitssi feat. SeeU/さ Movie: Sabhwa Note: LiTaNia",
+      "comment" : "",
+      "folder" : "2020/02",
+      "genre" : "Long Piano Shuffle",
+      "keys" : 7,
+      "level" : "2020/02",
+      "lr2_bmsid" : "283292",
+      "md5" : "d05316b429abe8b446c6ffd137a980b8",
+      "org_level" : null,
+      "title" : "あなた -EX-5連奏",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=382&event=83",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04050"
+   },
+   {
       "adddate" : "2017/02/14 19:47",
       "artist" : "Yu^ta feat. みずにんじん / A",
       "comment" : "乱打、階段、ディレイ",
@@ -61873,6 +62053,21 @@
       "title" : "End Point [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=103&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00050"
+   },
+   {
+      "adddate" : "2020/02/24 01:09",
+      "artist" : "こどものなみだ / y",
+      "comment" : "7連奏",
+      "folder" : "2020/02",
+      "genre" : "ハッピーケアガール",
+      "keys" : 7,
+      "level" : "2020/02",
+      "lr2_bmsid" : "283293",
+      "md5" : "d0bbb9131388bcc993baab388e957b64",
+      "org_level" : null,
+      "title" : "白の魔法の七光[magiclight7×7連奏]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04051"
    },
    {
       "adddate" : "2017/08/24 19:52",

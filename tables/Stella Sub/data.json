@@ -5172,6 +5172,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Se-U-Ra / И",
+      "comment" : "st6~8",
+      "level" : "7",
+      "md5" : "51d6045371df6dd037c2ff3d9947f0c9",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "c472f1b773c064b5c8367ba418f9aedd922dc0da03cc7eb7582a49661330040c",
+      "submission" : 1078,
+      "title" : "QSHELL -拒色のシェルル- [Geraeusch]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=147&event=123",
+      "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
       "artist" : "Sakamiya obj.hex",
       "comment" : "高速物量",
       "level" : "7",
@@ -5341,7 +5354,7 @@
    },
    {
       "artist" : "Lubinn / obj. laner",
-      "level" : "2",
+      "level" : "3",
       "md5" : "55175a61f06b704b6c4849fbabd473cd",
       "proposer" : "파이어",
       "proposerLr2id" : 7290,
@@ -6093,7 +6106,7 @@
    {
       "artist" : "LV.4 / obj：mitsuba",
       "comment" : "地力,Abyss-",
-      "level" : "2",
+      "level" : "1",
       "md5" : "618dbc880bad4b1e1e860203ce19b06b",
       "proposer" : "LUXURY",
       "sha256" : "e2eeba49e2490c83e164116448f924e0c98c4c5e916bc65024ccc777557f56f9",
@@ -6901,7 +6914,7 @@
    {
       "artist" : "yassu obj.hex",
       "comment" : "総合練習（ディレイ、がち押し、地力）",
-      "level" : "1",
+      "level" : "2",
       "md5" : "6cfac3e6c1663f491431d19b5af5be22",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,
@@ -7340,7 +7353,7 @@
    {
       "artist" : "秋月アキラ feat. 保堂 京 obj.Я х И",
       "comment" : "ガチ押し、体力、後半難",
-      "level" : "2",
+      "level" : "3",
       "md5" : "749d0e7676dff38580f1db98db8d8f65",
       "proposer" : "スノート",
       "proposerLr2id" : 86393,
@@ -12654,19 +12667,6 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
-   },
-   {
-      "artist" : "BMS Sound Team\"DJ 筆箱\" / BMS Designers\"VJ 牛乳パック\" obj:七海",
-      "comment" : "今日も俺は＿＿＿＿＿＿＿＿＿",
-      "level" : "0",
-      "md5" : "cf44c1e88c6a5545728c0468040a63e4",
-      "proposer" : "氷城つるぎ",
-      "proposerLr2id" : 151185,
-      "sha256" : "0a9388f21ec4a8b3dcbef681c4f7d35e60aa62582e87815d222e277b9a1ce4db",
-      "submission" : 1071,
-      "title" : "DEATH†TENGOQ ～怒りの天地合体野郎～ -Dystopia-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=128",
-      "url_diff" : "https://www.dropbox.com/s/i5vdd5i4811zvij/deathtengoq.zip?dl=1"
    },
    {
       "artist" : "remixed celas / obj : cieu",
