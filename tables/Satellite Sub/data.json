@@ -14602,6 +14602,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "kanone",
+      "comment" : "ANOTHER",
+      "level" : "0",
+      "md5" : "bede4b0f47bef474f411f7c2d676b4d2",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "438aba53214bf74117929ac9d9bd53694e8c69249719249be9c1af21309cc1af",
+      "submission" : 1313,
+      "title" : "CO5M1C R4ILR0AD",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=220&event=110",
+      "url_diff" : ""
+   },
+   {
       "artist" : "SHIKI / obj.rat",
       "comment" : "階段、同時押し",
       "level" : "3",
