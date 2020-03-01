@@ -1,5 +1,18 @@
 [
    {
+      "artist" : "SHIKI",
+      "comment" : "総合力",
+      "level" : "5",
+      "md5" : "050f1250994dd3420df61fbd384b45a6",
+      "name_diff" : "IQ0",
+      "state" : "",
+      "title" : "Air -Zero-",
+      "url" : "https://srdbms.otodo.net/",
+      "url_diff" : "http://oneeighth.web.fc2.com/Event/sabunbattle.html",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "白",
       "comment" : "物量",
       "level" : "4",
@@ -131,7 +144,7 @@
    },
    {
       "artist" : "ETIA. Movie: iimo",
-      "comment" : "AM00を改造（BPM150）",
+      "comment" : "癖6、AM00を改造（BPM150）",
       "level" : "2",
       "md5" : "20c07f23c94241c0544bedab4a27616c",
       "name_diff" : "差分",
@@ -141,6 +154,19 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00093",
       "video1" : "",
       "video2" : "c-kW67yeOq8"
+   },
+   {
+      "artist" : "ROKINA",
+      "comment" : "毎小節ランダムソフラン3",
+      "level" : "13",
+      "md5" : "27819ccc024698ce25f09c0d8fac7fba",
+      "name_diff" : "gentlemaso",
+      "state" : "",
+      "title" : "Schwerkraft [Soflarf]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=263&event=110",
+      "url_diff" : "http://oneeighth.web.fc2.com/Event/sabunbattle.html",
+      "video1" : "",
+      "video2" : ""
    },
    {
       "artist" : "かたぎり illust:YuleOz",
@@ -261,7 +287,7 @@
    },
    {
       "artist" : "tanacoro BGA: 5argon",
-      "comment" : "ギミック（BPM128）",
+      "comment" : "癖6、ギミック（BPM128）",
       "level" : "1",
       "md5" : "51a91086bbf25cb202e7d90a90a96a23",
       "name_diff" : "京都306号研究所",
@@ -287,7 +313,7 @@
    },
    {
       "artist" : "wa. / 百舌谷",
-      "comment" : "ノリと勢いとソフラン",
+      "comment" : "癖s9、ノリと勢いとソフラン",
       "level" : "2",
       "md5" : "60250fc70980dc470e3661fc514c4b1b",
       "name_diff" : "差分",
@@ -300,7 +326,7 @@
    },
    {
       "artist" : "Shaman Cure-All",
-      "comment" : "ギミック詰め合わせ（BPM148）",
+      "comment" : "癖s5、ギミック詰め合わせ（BPM148）",
       "level" : "1",
       "md5" : "6491aef47c7959bce2e0a884abeb3bb2",
       "name_diff" : "差分",
@@ -338,8 +364,21 @@
       "video2" : "aPR3GVMeVfk"
    },
    {
+      "artist" : "ROKINA",
+      "comment" : "毎小節ランダムソフラン2",
+      "level" : "5",
+      "md5" : "6d5000b7960b444e735bcde5bbadcf67",
+      "name_diff" : "gentlemaso",
+      "state" : "",
+      "title" : "Schwerkraft [Soflanet]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=263&event=110",
+      "url_diff" : "http://oneeighth.web.fc2.com/Event/sabunbattle.html",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "ETIA. vs MM Sequence",
-      "comment" : "音頭（強化版、HS-FIX AVE）",
+      "comment" : "癖s21、音頭（強化版、HS-FIX AVE）",
       "level" : "8",
       "md5" : "6e2eb8d9c126656361b1bfd9211afde3",
       "name_diff" : "ソフラン差分祭り",
@@ -365,7 +404,7 @@
    },
    {
       "artist" : "PAMCYL",
-      "comment" : "無理ゲー",
+      "comment" : "癖s99、無理ゲー",
       "level" : "13",
       "md5" : "73cf8af05f23baf56f43b85e74c28e4b",
       "name_diff" : "差分",
@@ -468,6 +507,19 @@
       "video2" : ""
    },
    {
+      "artist" : "ｼﾞ･ｲﾝﾀｰﾈｯﾂﾛｰ(Kanata.S + Nakaiankow + uet) BGA : 空読無 白眼",
+      "comment" : "やどりぎ譜面",
+      "level" : "5",
+      "md5" : "864a68cbe94b4fbee0df9eb8d2e65f65",
+      "name_diff" : "同梱譜面",
+      "state" : "",
+      "title" : "Nビット攪拌SURFIN' [MISTLETOE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=207&event=127",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "ねこみりん Movie:iimo / and \"Noranekoxi\" all-star!",
       "comment" : "難所しかない",
       "level" : "2",
@@ -505,6 +557,19 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00112",
       "video1" : "",
       "video2" : "q4rVUxu-0KE"
+   },
+   {
+      "artist" : "nekomimi_STRaw & kju8",
+      "comment" : "MAX-FIX使えます",
+      "level" : "6",
+      "md5" : "9dfd19c33b08c9f710ca6a43bc0670f2",
+      "name_diff" : "同梱譜面",
+      "state" : "",
+      "title" : "Agree to disagree [Trap House]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=289&event=127",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
    },
    {
       "artist" : "立秋",
@@ -573,7 +638,7 @@
    },
    {
       "artist" : "LeaF Movie:Optie&Fiz",
-      "comment" : "R-18G",
+      "comment" : "癖23、R-18G",
       "level" : "10",
       "md5" : "a540c995e5a4cc114ee93db84ecd0d8d",
       "name_diff" : "差分",
@@ -586,7 +651,7 @@
    },
    {
       "artist" : "削除 feat. Nikki Simmons Movie:Radiosity&yoshimo",
-      "comment" : "癖の強いネタ譜面",
+      "comment" : "癖s11、癖の強いネタ譜面",
       "level" : "4",
       "md5" : "a5e08dc3211f3a5f5daaf56025050097",
       "name_diff" : "差分",
@@ -612,7 +677,7 @@
    },
    {
       "artist" : "ねこみりん scolded by 小宮真央 Movie:むらしん",
-      "comment" : "kusofumen",
+      "comment" : "癖s18、kusofumen",
       "level" : "5",
       "md5" : "a8cbfae060e9ce8f94a5c5cbcbee8df9",
       "name_diff" : "差分",
@@ -703,7 +768,7 @@
    },
    {
       "artist" : "kanone BGA:Eicar Shigino",
-      "comment" : "癖総合（BPM155）",
+      "comment" : "癖s16、癖総合（BPM155）",
       "level" : "6",
       "md5" : "ba19dad9cbc866ee4b1f0d4d9e84b683",
       "name_diff" : "差分",
@@ -806,8 +871,21 @@
       "video2" : "ru_i8h6wdTU"
    },
    {
+      "artist" : "eye burn Reading: 冬乃桜",
+      "comment" : "∞分縦連（HS-FIX MIN）",
+      "level" : "7",
+      "md5" : "d5db30e199d21fa4686e974db733ffe8",
+      "name_diff" : "夏一番",
+      "state" : "",
+      "title" : "SHI☆A☆WA☆SE [TA★TE★RE★N]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=226&event=116",
+      "url_diff" : "http://oneeighth.web.fc2.com/Event/sabunbattle.html",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "Is-m BGA:140/fth",
-      "comment" : "地雷小節線LNギミック（BPM150）",
+      "comment" : "癖22、地雷線小節線LNギミック（BPM150）",
       "level" : "9",
       "md5" : "d87f1b2a7436a13b4203c8269a5ce82a",
       "name_diff" : "東京243",
@@ -911,7 +989,7 @@
    },
    {
       "artist" : "Se-U-Ra",
-      "comment" : "ベリハLN混合不規則軸",
+      "comment" : "癖s20、ベリハLN混合不規則軸",
       "level" : "5",
       "md5" : "edd1c8208057e5df576526d63dbbedbe",
       "name_diff" : "差分",
@@ -924,7 +1002,7 @@
    },
    {
       "artist" : "recognize m. / BGAnimation retu",
-      "comment" : "ハード判定",
+      "comment" : "癖s4、ハード判定",
       "level" : "0",
       "md5" : "f29f623e82961c271eb7dab61d881c23",
       "name_diff" : "差分",
@@ -934,6 +1012,19 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00823",
       "video1" : "",
       "video2" : "wr3odkpuLV8"
+   },
+   {
+      "artist" : "ROKINA",
+      "comment" : "毎小節ランダムソフラン",
+      "level" : "4",
+      "md5" : "f7768c8027f456fd023e0047bab85e50",
+      "name_diff" : "gentlemaso",
+      "state" : "",
+      "title" : "Schwerkraft [Sofllite]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=263&event=110",
+      "url_diff" : "http://oneeighth.web.fc2.com/Event/sabunbattle.html",
+      "video1" : "",
+      "video2" : ""
    },
    {
       "artist" : "ETIA. Movie: iimo",
@@ -947,6 +1038,19 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00059",
       "video1" : "",
       "video2" : "L6sjFTeE0j0"
+   },
+   {
+      "artist" : "Feryquitous movie:Sight",
+      "comment" : "低TOTAL（BPM191）",
+      "level" : "7",
+      "md5" : "fd7c600950424c69f075b84f7e821413",
+      "name_diff" : "Yea",
+      "state" : "",
+      "title" : "Dstorv [Eco]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=212&event=96",
+      "url_diff" : "http://oneeighth.web.fc2.com/Event/sabunbattle.html",
+      "video1" : "",
+      "video2" : ""
    },
    {
       "artist" : "QURELESS",

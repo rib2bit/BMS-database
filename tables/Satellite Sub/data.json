@@ -622,6 +622,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "C4 / BGI:morph",
+      "comment" : "SLOW",
+      "level" : "1",
+      "md5" : "07792d652e8723324938bf188d88f970",
+      "proposer" : "chouco",
+      "proposerLr2id" : 158333,
+      "sha256" : "3a6da7bcc7a862d76a448146d144a51de660a61fc28e23f576d4f1c84b4de2ca",
+      "submission" : 1314,
+      "title" : "Chilly [SP INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=126",
+      "url_diff" : ""
+   },
+   {
       "artist" : "yuki.s",
       "comment" : "物量 sl8~9",
       "level" : "9",
@@ -14997,7 +15010,7 @@
    {
       "artist" : "Linne X SCTL Visualized by Keiyuu & RED-FOX / obj:monaka",
       "comment" : "",
-      "level" : "5",
+      "level" : "6",
       "md5" : "c4bb75ec414177e4c1d9f5bafae4cca2",
       "proposer" : "Restia",
       "proposerLr2id" : 115265,
