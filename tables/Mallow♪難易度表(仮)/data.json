@@ -27,8 +27,8 @@
    },
    {
       "artist" : "HEXAHEDRA",
-      "comment" : "乱打+同時押し,TOTAL値低め",
-      "level" : "4",
+      "comment" : "ズレ抜けがあったので修正版を公開",
+      "level" : "53",
       "md5" : "182fe6e3a4748a4d5cfd02a4724dcf85",
       "name_diff" : "Mallow♪",
       "state" : "",
@@ -245,6 +245,19 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03183",
       "video1" : "",
       "video2" : "TAF2oxtjIZs"
+   },
+   {
+      "artist" : "HEXAHEDRA",
+      "comment" : "修正版 / 乱打+同時押し,TOTAL値低め",
+      "level" : "4",
+      "md5" : "fb828a50261c68d1d2f883739a2d4d00",
+      "name_diff" : "Mallow♪",
+      "state" : "",
+      "title" : "KRAKEN [EXTRA (fixed)]",
+      "url" : "http://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21390&ithint=file,zip&authkey=!AGPAXusmRMWjV8s",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04090",
+      "video1" : "",
+      "video2" : "YsGyGErFgY4"
    },
    {
       "artist" : "Dachs / Movie : わっふゑ",
