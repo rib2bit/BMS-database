@@ -65,22 +65,6 @@
    },
    {
       "adddate" : "2019/11/03",
-      "artist" : "",
-      "comment" : "",
-      "folder" : "LEVEL 11",
-      "level" : "11",
-      "lr2_bmsid" : null,
-      "md5" : "00000000000000000000000000000000",
-      "name_diff" : null,
-      "org_level" : null,
-      "org_md5" : "",
-      "org_md5s" : [],
-      "title" : "",
-      "url" : "",
-      "url_diff" : ""
-   },
-   {
-      "adddate" : "2019/11/03",
       "artist" : "Yamajet obj:YOURI",
       "comment" : "ネタ差分　最後ゲー (^^) 秋田を偶に忘れてしまう",
       "folder" : "LEVEL ?",
@@ -498,6 +482,28 @@
       "title" : "BIOS起動チャレンジ [PIETHER]",
       "url" : "https://onedrive.live.com/?cid=e06cce2bd664249f&id=E06CCE2BD664249F%21288&authkey=!ABOsv387SjBDX58",
       "url_diff" : "https://www.dropbox.com/s/4yfj7ga8jd4xcu8/BIOS%E8%B5%B7%E5%8B%95%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8_PT.zip?dl=1"
+   },
+   {
+      "adddate" : "2020/03/08",
+      "artist" : "ZUN remixed by LeaF Movie:Optie/Illust:セシル◇タイト obj:Phantom Cats",
+      "comment" : "同梱未配置から作成　サテラ&ステラ[東方音弾遊戯9]参加作品　同時、連皿、皿複合、乱打　SANY_paroさんとの合作です",
+      "folder" : "LEVEL 11",
+      "level" : "11",
+      "lr2_bmsid" : "283865",
+      "md5" : "f32f725877814178c3413b5ee9da62a0",
+      "name_diff" : "DOWNLOAD",
+      "org_level" : 17,
+      "org_md5" : "a26fc202c698f6f9b0d4bfdb6bf2577f",
+      "org_md5s" : [
+         "a26fc202c698f6f9b0d4bfdb6bf2577f",
+         "e674607c06c4ed2fbe988f5461b40b73",
+         "48aee6a0166b03bcca207c1ddd18bf50",
+         "213b1a35be412f3a58c7aaec0d4e04fc",
+         "f32f725877814178c3413b5ee9da62a0"
+      ],
+      "title" : "Armageddon [Plutonium]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=129",
+      "url_diff" : ""
    },
    {
       "adddate" : "2018/12/24",
