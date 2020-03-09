@@ -1378,6 +1378,18 @@
       "voteYes" : 0
    },
    {
+      "artist" : "美樹さやか vs. 美樹さやか (fw. 美樹さやか)/差分　赤い人 BGA ： 美樹さやか",
+      "level" : "8",
+      "md5" : "10c5500b1b1bf08b56e4beb998a1c607",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "48d6d56dddef74ca5155f5dfd6136fbf8bee72c36c15eb622ec43146f79638fa",
+      "submission" : 1331,
+      "title" : "squartatrice [HARDEST]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=99&event=74",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/squartatriceHARDEST.bme"
+   },
+   {
       "artist" : "nora2r feat. カラフル・サウンズ・ポート iimo / B_K",
       "level" : "2",
       "md5" : "10dfec2e94eebb556fafa7e70616b16d",
@@ -4148,6 +4160,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "R*uLuru / obj:C4 + monaka BGA:自動車 原付",
+      "comment" : "fix ver",
+      "level" : "1",
+      "md5" : "37f5309c50a7cbc2d43243ace22c91ac",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "904746165e22c9a6e295f63062ebb80605d2d57ddf01b30e1cd5e2d684fb2a43",
+      "submission" : 1329,
+      "title" : "Alitatrieb [Madness]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=121",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04060"
+   },
+   {
       "artist" : "44teru-k / obj:pn",
       "comment" : "皿複合、縦連複合、sl4~5",
       "level" : "5",
@@ -4503,19 +4528,6 @@
       "title" : "Bouquet colore [Macuil]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=270&event=127",
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
-   },
-   {
-      "artist" : "えびです meets ポート・フィリップ illust:Matsuba / obj:うずらぴよ",
-      "comment" : "BOFXV, Swing Rhythm & 皿 & LN",
-      "level" : "0",
-      "md5" : "3e47dab76b7ffa7374face5b2209f2bd",
-      "proposer" : "DK",
-      "proposerLr2id" : 46697,
-      "sha256" : "abdfc7d0d987384ff2cf47a1a658374d75a01b4551990e097682b3a2728eb94e",
-      "submission" : 1273,
-      "title" : "SHERRY FLIP",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=345&event=127",
-      "url_diff" : ""
    },
    {
       "artist" : "Omnipotenx / obj:秘密",
@@ -5476,23 +5488,6 @@
       "title" : "円環の理 [HARDEST]",
       "url" : "http://3t1a.net/bms/madoka_kaname_ogg.zip ",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/_7keys3HARDESTf.bms"
-   },
-   {
-      "artist" : "kurenaissance/obj:颯 vs C4",
-      "comment" : "乱打、皿複合",
-      "level" : "5",
-      "md5" : "499020bcbac1e7ad0e728b9ddb281f9c",
-      "proposer" : "hayato87b",
-      "proposerLr2id" : 79657,
-      "sha256" : "ba7424021d7d79a1e6c0cffb50714f7e8b70c9fe20a9e8a2a427e21424cb5e42",
-      "submission" : 762,
-      "title" : "LivedaM (imagination)",
-      "url" : "http://web.archive.org/web/20140726074203/http://kurenaissance.web6.jp/bms/livedam.rar",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02048",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
    },
    {
       "artist" : "tanacoro BGA: 5argon obj : screw vs BAECON",
@@ -7289,6 +7284,19 @@
       "url_diff" : "http://gnqg.rosx.net/upload/"
    },
    {
+      "artist" : "渋谷凛 obj:ゆさこずえ",
+      "comment" : "連打絡みデニム？ラス殺し",
+      "level" : "12",
+      "md5" : "5efbdb1bcc8f9d5ff774207e1593fc4d",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "dc2c8b92adf7af36349feb78bbb722e5dc0ec8085bdbe3ac7338e4a5fb595109",
+      "submission" : 1330,
+      "title" : "ベストフレンド -しぬがよい-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=227&event=88",
+      "url_diff" : "https://www.dropbox.com/s/cxrs9oxyunw2k7n/_bestfriend-kozue.bme?dl=0"
+   },
+   {
       "artist" : "mossari feat.TEA obj:SUZUKAZEΛ",
       "level" : "1",
       "md5" : "5f3baf7f14f8aa028ea542ddb24e5f26",
@@ -9080,22 +9088,6 @@
       "title" : "バンバード ～Piano Version～ [sunny]",
       "url" : "http://ux.getuploader.com/BMS_share/",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00754",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
-      "artist" : "R*uLuru / obj:C4 + monaka BGA:自動車 原付",
-      "level" : "1",
-      "md5" : "797ded0efc357dea2f4cae56536ebd3b",
-      "proposer" : "파이어",
-      "proposerLr2id" : 7290,
-      "sha256" : "07f8350e8ef6676e4f771aa95762831fc937efb9302165204141dd3b3146c25c",
-      "submission" : 414,
-      "title" : "Alitatrieb [Madness]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=121",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02188",
-      "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -11436,22 +11428,6 @@
       "url_diff" : ""
    },
    {
-      "artist" : "R*uLuru / obj:C4 + monaka BGA:自動車 原付",
-      "comment" : "中速、高速乱打",
-      "level" : "8",
-      "md5" : "9a4f793c19d3f7b27187bf50b858e95d",
-      "proposer" : "C4",
-      "proposerLr2id" : 120385,
-      "sha256" : "e65fa1e222c8c19bf17758d221f92c77088f30db05ae1a2cbdd7d1734ba91005",
-      "submission" : 116,
-      "title" : "Alitatrieb [Insanity]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=121",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02188",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
       "artist" : "Azel",
       "comment" : "物量系乱打",
       "level" : "4",
@@ -12574,6 +12550,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "ポロロッカ obj.fhyu",
+      "comment" : "東方音弾遊戯9/ハネ/ズレ",
+      "level" : "11",
+      "md5" : "a9daa35398bbbd3e1aa3f0bd177ba1cc",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "0cfe58ff311edd2bebfe5ea2dd90a777b819cdc9995d8f88f1b6774b46d93f40",
+      "submission" : 1335,
+      "title" : "ハレタヨゾラとヤマヌオト [Swing]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=129",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/"
    },
    {
       "artist" : "qfeileadh feat. レゾナンスもえこ / obj:C4 Movie : 浪漫映像制作倶楽部",
@@ -14854,22 +14843,6 @@
       "voteYes" : 0
    },
    {
-      "artist" : "かたぎり illust:YuleOz",
-      "level" : "5",
-      "md5" : "c07acab43c8d901918e8902bccd6320f",
-      "proposer" : "matsu",
-      "proposerLr2id" : 127851,
-      "sha256" : "c08f3133e5ea6a4a9061a17e279bc136b2887b79e1844415882fd0b54cfc9bea",
-      "submission" : 513,
-      "title" : "Reso*nyan*ce Fever [ANOTHER]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=566&event=110",
-      "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
       "artist" : "ikaruga_nex feat. Salita / obj:shelther",
       "level" : "5",
       "md5" : "c07d08f3140366b0951b8528cee97e8d",
@@ -15961,6 +15934,19 @@
       "title" : "ハイパーミラクルシューティングスター [大車輪山嵐]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=137&event=88",
       "url_diff" : "http://swamelo.web.fc2.com/"
+   },
+   {
+      "artist" : "R*uLuru / obj:C4 + monaka BGA:自動車 原付",
+      "comment" : "fix ver",
+      "level" : "8",
+      "md5" : "ceedcf9712b3018c1fd7e7bf87454139",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "2b6459bcdf11f69be5bea01f2177fe50dbca60fc42f5742cee557a8680d55ecd",
+      "submission" : 1328,
+      "title" : "Alitatrieb [Insanity]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=121",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04060"
    },
    {
       "artist" : "BMS Sound Team\"DJ 筆箱\" / BMS Designers\"VJ 牛乳パック\" obj:七海",
@@ -17817,6 +17803,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "RainDrops obj.XYZ",
+      "comment" : "sl8-9 同時押し?",
+      "level" : "9",
+      "md5" : "e789c624302601452dfa39bb4183f096",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "4026ee122c3ca2710b2986e7b690b4e09082b7f9f5087705c4baa9c0b4ca150e",
+      "submission" : 1333,
+      "title" : "Misty DASH !",
+      "url" : "http://nekokan.dyndns.info/~anonymous/bms/kody/mistydash_bga3-ogg.zip",
+      "url_diff" : "https://www.dropbox.com/s/4nf7tey4iuise8e/%5E_%5Emistydash_bga3_XYZ.bms?dl=0"
+   },
+   {
       "artist" : "Freezer feat. 妃苺 obj : BAECON",
       "comment" : "Go Go Go",
       "level" : "4",
@@ -18684,6 +18683,19 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html"
    },
    {
+      "artist" : "ZUN remixed by LeaF Movie:Optie/Illust:セシル◇タイト obj:Phantom Cats",
+      "comment" : "東方音弾遊戯9/高速/皿複合/ガチ押し",
+      "level" : "11",
+      "md5" : "f32f725877814178c3413b5ee9da62a0",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "e9a48e22537c9a2d966f5aa576b3deaa5d7a4089d3b8b324b4f5cc6e07e27b3f",
+      "submission" : 1334,
+      "title" : "Armageddon [Plutonium]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=129",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/"
+   },
+   {
       "artist" : "isocosa / obj:NASA",
       "comment" : "PABAT!2019、★2?、連皿、同時押し、低TOTAL",
       "level" : "1",
@@ -19112,6 +19124,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "daisan Notes:薄杏",
+      "level" : "3",
+      "md5" : "f8cf31f64b15e44b27c0c04d8b73d3f3",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "78922c836967615c4578bffb9b4ff6bee9170adf3ff6b94c5998794ab45caed5",
+      "submission" : 1332,
+      "title" : "豊穣の都 プロウシア [DEMETRA]",
+      "url" : "http://clockxellox.sakura.ne.jp/index.html",
+      "url_diff" : "http://lalha.web.fc2.com/"
+   },
+   {
       "artist" : "remixed celas feat.ARU obj : LindBlum彡☆",
       "comment" : "a",
       "level" : "6",
@@ -19518,6 +19542,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "kurenaissance/obj:颯 vs C4",
+      "comment" : "fix ver",
+      "level" : "5",
+      "md5" : "ff9466e1b9fe2f8f703ab33f80c4803d",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "9b2b31ea12f494162dcbb4cbe5ddef5fc5d88acef5724c862ed6f75bd0d2cdbf",
+      "submission" : 1327,
+      "title" : "LivedaM (imagination)",
+      "url" : "http://web.archive.org/web/20140726074203/http://kurenaissance.web6.jp/bms/livedam.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04059"
    },
    {
       "artist" : "GUANA / LuCenT obj. Tristan97",

@@ -30,6 +30,22 @@
       "voteYes" : 2
    },
    {
+      "artist" : "H2SO4/DiodeP/Polymath9 feat. Mo obj:.ctc",
+      "level" : "1",
+      "md5" : "454d2e6762491f09893e0e6c605e115a",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "1a93fd5ef2b0acc66eef8cb3f5123a7e48b1985664cd84870b68754ad1d0819b",
+      "submission" : 847,
+      "title" : "C.T.C. [c.t.c.]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=451&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01345",
+      "voteNeutral" : 3,
+      "voteNo" : 0,
+      "votePercent" : 78.5714285714286,
+      "voteYes" : 4
+   },
+   {
       "artist" : "tcheb / Roaring Flame × アカツキユウ obj:kusamochi009",
       "comment" : "BPM155 いろいろな連打複合 (SPN基準ズレなし)",
       "level" : "2",
@@ -143,5 +159,18 @@
       "title" : "Geister [3155]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=328&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01302"
+   },
+   {
+      "artist" : "kurenaissance/obj:颯 vs C4",
+      "comment" : "fix ver",
+      "level" : "5",
+      "md5" : "ff9466e1b9fe2f8f703ab33f80c4803d",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "9b2b31ea12f494162dcbb4cbe5ddef5fc5d88acef5724c862ed6f75bd0d2cdbf",
+      "submission" : 1089,
+      "title" : "LivedaM (imagination)",
+      "url" : "http://web.archive.org/web/20140726074203/http://kurenaissance.web6.jp/bms/livedam.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04059"
    }
 ]

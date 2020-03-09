@@ -159,5 +159,34 @@
       "title" : "Geister [3155]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=328&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01302"
+   },
+   {
+      "artist" : "wa. remixed celas / obj:BAECON BGA:TOHRU MiTSUHASHi",
+      "level" : "3",
+      "md5" : "cd04e5f97fff7b0fc1d3f3129c5c3b92",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "15626b51aff90254107d6f04795ba20e5eda780eec83f7238dbac6038b996f11",
+      "submission" : 693,
+      "title" : "銀の風邪",
+      "url" : "http://mok2lnbms.6.ql.bz/nijihaifu.html",
+      "url_diff" : "http://akred.web.fc2.com/baecon/_silver_wind_kaze.bme",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 5
+   },
+   {
+      "artist" : "kurenaissance/obj:颯 vs C4",
+      "comment" : "fix ver",
+      "level" : "5",
+      "md5" : "ff9466e1b9fe2f8f703ab33f80c4803d",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "9b2b31ea12f494162dcbb4cbe5ddef5fc5d88acef5724c862ed6f75bd0d2cdbf",
+      "submission" : 1089,
+      "title" : "LivedaM (imagination)",
+      "url" : "http://web.archive.org/web/20140726074203/http://kurenaissance.web6.jp/bms/livedam.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04059"
    }
 ]

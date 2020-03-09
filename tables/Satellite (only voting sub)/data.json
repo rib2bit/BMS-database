@@ -52,6 +52,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "美樹さやか vs. 美樹さやか (fw. 美樹さやか)/差分　赤い人 BGA ： 美樹さやか",
+      "level" : "8",
+      "md5" : "10c5500b1b1bf08b56e4beb998a1c607",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "48d6d56dddef74ca5155f5dfd6136fbf8bee72c36c15eb622ec43146f79638fa",
+      "submission" : 1331,
+      "title" : "squartatrice [HARDEST]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=99&event=74",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/squartatriceHARDEST.bme"
+   },
+   {
       "artist" : "Warp-E /w BURST Vocal by Ruriling / Eyecatch by nueat / obj:Fender",
       "comment" : "sl1~2 trilly chordstream and minijacks",
       "level" : "1",
@@ -75,19 +87,6 @@
       "title" : "Colorful (roop remix) [MANIAC7]",
       "url" : "https://roopdesign.net/post/34827532860/roop-bms-works-2004-2012",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04058"
-   },
-   {
-      "artist" : "しらいし / obj:roman",
-      "comment" : "sl? st? Good KF...",
-      "level" : "9",
-      "md5" : "29263735a87a4569c2a3af61c27bff1a",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "91329e1632ffdf386eb0ce926a31be88a3090a150ca9b564cbf8db469a742b94",
-      "submission" : 1318,
-      "title" : "天叢雲剣 [All Key]",
-      "url" : "http://www1.axfc.net/uploader/He/so/355552",
-      "url_diff" : "https://ux.getuploader.com/the33ch/download/33"
    },
    {
       "artist" : "Hazel-D feat. Ms.Valentine / obj: 0samil0",
@@ -198,6 +197,19 @@
       "voteYes" : 6
    },
    {
+      "artist" : "渋谷凛 obj:ゆさこずえ",
+      "comment" : "連打絡みデニム？ラス殺し",
+      "level" : "12",
+      "md5" : "5efbdb1bcc8f9d5ff774207e1593fc4d",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "dc2c8b92adf7af36349feb78bbb722e5dc0ec8085bdbe3ac7338e4a5fb595109",
+      "submission" : 1330,
+      "title" : "ベストフレンド -しぬがよい-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=227&event=88",
+      "url_diff" : "https://www.dropbox.com/s/cxrs9oxyunw2k7n/_bestfriend-kozue.bme?dl=0"
+   },
+   {
       "artist" : "44teru-k remixed wa. / 差分 赤い人",
       "comment" : "乱打",
       "level" : "3",
@@ -289,6 +301,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "ポロロッカ obj.fhyu",
+      "comment" : "東方音弾遊戯9/ハネ/ズレ",
+      "level" : "11",
+      "md5" : "a9daa35398bbbd3e1aa3f0bd177ba1cc",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "0cfe58ff311edd2bebfe5ea2dd90a777b819cdc9995d8f88f1b6774b46d93f40",
+      "submission" : 1335,
+      "title" : "ハレタヨゾラとヤマヌオト [Swing]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=129",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/"
+   },
+   {
       "artist" : "Daily//NceS BMS:Scely//obj:Scely",
       "comment" : "Burn (Haocore Remix) sl2~3?",
       "level" : "3",
@@ -370,6 +395,19 @@
       "voteYes" : 9
    },
    {
+      "artist" : "RainDrops obj.XYZ",
+      "comment" : "sl8-9 同時押し?",
+      "level" : "9",
+      "md5" : "e789c624302601452dfa39bb4183f096",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "4026ee122c3ca2710b2986e7b690b4e09082b7f9f5087705c4baa9c0b4ca150e",
+      "submission" : 1333,
+      "title" : "Misty DASH !",
+      "url" : "http://nekokan.dyndns.info/~anonymous/bms/kody/mistydash_bga3-ogg.zip",
+      "url_diff" : "https://www.dropbox.com/s/4nf7tey4iuise8e/%5E_%5Emistydash_bga3_XYZ.bms?dl=0"
+   },
+   {
       "artist" : "Is-m BGA:fity / Obj : Mary_Sue",
       "comment" : "BPM170→200→85→170(SPA基準ズレなし)",
       "level" : "8",
@@ -381,6 +419,19 @@
       "title" : "comic magic [Farce]",
       "url" : "http://www.is-m.jp/bms/song/em32.html",
       "url_diff" : "https://www.dropbox.com/s/d1fpgvu0658n3m2/_32_14_MarySue_Farce.bme?dl=0"
+   },
+   {
+      "artist" : "ZUN remixed by LeaF Movie:Optie/Illust:セシル◇タイト obj:Phantom Cats",
+      "comment" : "東方音弾遊戯9/高速/皿複合/ガチ押し",
+      "level" : "11",
+      "md5" : "f32f725877814178c3413b5ee9da62a0",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "e9a48e22537c9a2d966f5aa576b3deaa5d7a4089d3b8b324b4f5cc6e07e27b3f",
+      "submission" : 1334,
+      "title" : "Armageddon [Plutonium]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=129",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/"
    },
    {
       "artist" : "田井中 律/中野　あず　さ",
@@ -410,6 +461,18 @@
       "voteNo" : 0,
       "votePercent" : 95,
       "voteYes" : 9
+   },
+   {
+      "artist" : "daisan Notes:薄杏",
+      "level" : "3",
+      "md5" : "f8cf31f64b15e44b27c0c04d8b73d3f3",
+      "proposer" : "椒図",
+      "proposerLr2id" : 124809,
+      "sha256" : "78922c836967615c4578bffb9b4ff6bee9170adf3ff6b94c5998794ab45caed5",
+      "submission" : 1332,
+      "title" : "豊穣の都 プロウシア [DEMETRA]",
+      "url" : "http://clockxellox.sakura.ne.jp/index.html",
+      "url_diff" : "http://lalha.web.fc2.com/"
    },
    {
       "artist" : "maru BGA:Johnny / obj:平成",
