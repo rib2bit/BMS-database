@@ -167,7 +167,7 @@
    {
       "artist" : "Flandre Scarlet",
       "comment" : "",
-      "level" : "未分類",
+      "level" : "★9",
       "lr2_bmsid" : "",
       "md5" : "022e421bff691256086447a4628b5de5",
       "name_diff" : "",
@@ -2046,6 +2046,17 @@
       "url_diff" : ""
    },
    {
+      "artist" : "M,Gumi. vs Syanamin",
+      "comment" : "東方音弾遊戯8",
+      "level" : "☆10",
+      "lr2_bmsid" : "",
+      "md5" : "16a98e823e60b97d08b7874b0d7d521f",
+      "name_diff" : "",
+      "title" : "神々が恋した幻想郷 -Happy hard m,gumix- Ver_B [HYPER]",
+      "url" : "http://nekonotsuka.com/ondan8/index.html",
+      "url_diff" : ""
+   },
+   {
       "artist" : "しらいし",
       "comment" : "東方音弾遊戯8",
       "level" : "☆12",
@@ -3575,13 +3586,13 @@
       "url_diff" : ""
    },
    {
-      "artist" : "BMS：Ｆ／Ａ１８　MIDI：た人　BGA：ありおと",
+      "artist" : "BMS：Ｆ／Ａ１８ MIDI：た人　BGA：ありおと",
       "comment" : "音弾遊戯3",
       "level" : "☆8",
       "lr2_bmsid" : 54187,
       "md5" : "274943596d72d24332d751d14e318394",
       "name_diff" : "",
-      "title" : "神さびた古戦場　～ Suwa Foughten Field　 (ロングノート HYPER)",
+      "title" : "神さびた古戦場 ～ Suwa Foughten Field  (ロングノート HYPER)",
       "url" : "http://fa18af.sakura.ne.jp/bmsfa18/toho3bms.html",
       "url_diff" : ""
    },
@@ -5170,6 +5181,17 @@
       "url_diff" : ""
    },
    {
+      "artist" : "dj MASTER",
+      "comment" : "東方音弾遊戯8",
+      "level" : "☆6",
+      "lr2_bmsid" : "",
+      "md5" : "39879e4baeb5ef4effaa945e43f55d22",
+      "name_diff" : "",
+      "title" : "Shanghai Symphonic Beats!! (BMS edit) [SP NORMAL]",
+      "url" : "http://nekonotsuka.com/ondan8/index.html",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Zun/Arr:kaztora/アクジ/obj：のれぽん ",
       "comment" : "東方音弾遊戯6",
       "level" : "☆12",
@@ -5632,7 +5654,7 @@
       "url_diff" : ""
    },
    {
-      "artist" : "M,Gumi vs Sanamoti obj:Kojou Chihiro",
+      "artist" : "M,Gumi vs Sanamoti",
       "comment" : "東方音弾遊戯8",
       "level" : "☆5",
       "lr2_bmsid" : "",
@@ -5673,6 +5695,17 @@
       "name_diff" : "",
       "title" : "Sound Heaven (NORMAL7)",
       "url" : "",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "M,Gumi. vs Syanamin",
+      "comment" : "東方音弾遊戯8",
+      "level" : "★4",
+      "lr2_bmsid" : "",
+      "md5" : "3dd6e7430a75b2d1ac7a88157b893bce",
+      "name_diff" : "",
+      "title" : "神々が恋した幻想郷 -Happy hard m,gumix- Ver_B [ANOTHER]",
+      "url" : "http://nekonotsuka.com/ondan8/index.html",
       "url_diff" : ""
    },
    {
@@ -7211,7 +7244,7 @@
       "lr2_bmsid" : 129533,
       "md5" : "4e9ac1bbdb4be238307b978a225b3068",
       "name_diff" : "",
-      "title" : "紅月夜想　 ～Scarlet Nocturne～",
+      "title" : "紅月夜想 ～Scarlet Nocturne～",
       "url" : "http://yaruki0.sakura.ne.jp/event/ondanyugi4/impression.cgi?no=27",
       "url_diff" : ""
    },
@@ -8866,6 +8899,17 @@
       "url_diff" : ""
    },
    {
+      "artist" : "dj MASTER",
+      "comment" : "東方音弾遊戯8",
+      "level" : "☆9",
+      "lr2_bmsid" : "",
+      "md5" : "640546fdca4d66b1950766b2783b7a5e",
+      "name_diff" : "",
+      "title" : "Shanghai Symphonic Beats!! (BMS edit) [SP HARD]",
+      "url" : "http://nekonotsuka.com/ondan8/index.html",
+      "url_diff" : ""
+   },
+   {
       "artist" : "o.s.gate / Ds ",
       "comment" : "東方音弾遊戯6",
       "level" : "???",
@@ -10249,6 +10293,17 @@
       "name_diff" : "",
       "title" : "Mystery Gift Originaled by 不思議なお祓い棒",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=List_def&event=102",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "dj MASTER",
+      "comment" : "東方音弾遊戯8",
+      "level" : "☆11",
+      "lr2_bmsid" : "",
+      "md5" : "7512157379173dd2b8633686c637d76a",
+      "name_diff" : "",
+      "title" : "Shanghai Symphonic Beats!! (BMS edit) [SP LUNATIC]",
+      "url" : "http://nekonotsuka.com/ondan8/index.html",
       "url_diff" : ""
    },
    {
@@ -12381,7 +12436,7 @@
       "lr2_bmsid" : "",
       "md5" : "8ec300ac12b2cb051fa147e244a97a61",
       "name_diff" : "",
-      "title" : "月時計　Last・Dial (NORMAL)",
+      "title" : "月時計 Last・Dial (NORMAL)",
       "url" : "",
       "url_diff" : ""
    },
@@ -12581,6 +12636,17 @@
       "name_diff" : "",
       "title" : "永夜の報い -full moon- <ANOTHER>",
       "url" : "http://creation-records.info/bms_old.htm",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "dawn-system feat. かゆき Illustration:うまるつふり / Original:ZUN",
+      "comment" : "東方音弾遊戯8",
+      "level" : "☆10",
+      "lr2_bmsid" : "",
+      "md5" : "910e99580a6a83e5f49b2022dc4a02a7",
+      "name_diff" : "",
+      "title" : "永劫の夜を翔べ",
+      "url" : "http://nekonotsuka.com/ondan8/index.html",
       "url_diff" : ""
    },
    {
@@ -12900,6 +12966,17 @@
       "name_diff" : "",
       "title" : "shimosuwa EVOLVED",
       "url" : "http://miohosina.moe.hm/",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "M,Gumi. vs Syanamin",
+      "comment" : "東方音弾遊戯8",
+      "level" : "☆7",
+      "lr2_bmsid" : "",
+      "md5" : "951711ecae181c6a1982e65c2cf6e333",
+      "name_diff" : "",
+      "title" : "神々が恋した幻想郷 -Happy hard m,gumix- Ver_B [NORMAL]",
+      "url" : "http://nekonotsuka.com/ondan8/index.html",
       "url_diff" : ""
    },
    {
@@ -14242,6 +14319,17 @@
       "name_diff" : "",
       "title" : "OceanFloors",
       "url" : "http://yaruki0.sakura.ne.jp/event/ondanyugi4/impression.cgi?no=37",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "M,Gumi vs Sanamoti",
+      "comment" : "東方音弾遊戯8",
+      "level" : "☆8",
+      "lr2_bmsid" : "",
+      "md5" : "a51e689d0014539dec2a91dcd072cf0b",
+      "name_diff" : "",
+      "title" : "神々が恋した幻想郷 -Ver A- [HARD]",
+      "url" : "http://nekonotsuka.com/ondan8/index.html",
       "url_diff" : ""
    },
    {
@@ -17292,6 +17380,17 @@
       "url_diff" : ""
    },
    {
+      "artist" : "M,Gumi vs Sanamoti",
+      "comment" : "東方音弾遊戯8",
+      "level" : "★3",
+      "lr2_bmsid" : "",
+      "md5" : "c3a943cda6f4b583356ad8398e00b3b7",
+      "name_diff" : "",
+      "title" : "神々が恋した幻想郷 -Ver A- [ILLUSIONARY DOMINANCE]",
+      "url" : "http://nekonotsuka.com/ondan8/index.html",
+      "url_diff" : ""
+   },
+   {
       "artist" : "ZUN remix by 44teru-k Notes:celas",
       "comment" : "東方音弾遊戯4",
       "level" : "☆8",
@@ -18950,6 +19049,17 @@
       "name_diff" : "",
       "title" : "静かなる東方のワルツ -Normal-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=283&event=74",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "M,Gumi vs Sanamoti",
+      "comment" : "東方音弾遊戯8",
+      "level" : "☆11",
+      "lr2_bmsid" : "",
+      "md5" : "d733f30cde7694ed7a3dd9c99319940c",
+      "name_diff" : "",
+      "title" : "神々が恋した幻想郷 -Ver A- [LUNATIC]",
+      "url" : "http://nekonotsuka.com/ondan8/index.html",
       "url_diff" : ""
    },
    {
