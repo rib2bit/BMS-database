@@ -131,6 +131,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Hate × tarolabo obj : LTFE♪",
+      "comment" : "5~6?",
+      "level" : "6",
+      "md5" : "b9c427ba4286cb9b962208f50935f87e",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "6747ab8d121e8b0e2d558667e79817a9fdf88bde9429116cde901df654e0fbfb",
+      "submission" : 1089,
+      "title" : "退屈シンクアロング [THREE DIMENSIONS]",
+      "url" : "https://mega.nz/#F!FNFDCQaT!wfv-iI4UuSIaGpP0oFZdtQ!UB8gABwB",
+      "url_diff" : "http://1drv.ms/1ImYtGZ"
+   },
+   {
       "artist" : "DOMINATOR VS SHREDDER obj:七海",
       "comment" : "It's the power of Christ that compels you!",
       "level" : "3",
@@ -175,5 +188,18 @@
       "voteNo" : 0,
       "votePercent" : 100,
       "voteYes" : 5
+   },
+   {
+      "artist" : "fnixkm obj:七海千秋",
+      "comment" : "0~1? ショートカットしたバージョンです。BGA注意",
+      "level" : "0",
+      "md5" : "ce1aa562f5d270e7df6343a86e13b99d",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "39b15fe3b7f1ba3544886db91901a0fc551918d53041e174f08eb4fcc6f9fce0",
+      "submission" : 1090,
+      "title" : "dwllns (short ver) -Despair-",
+      "url" : "http://uploader.bms.ms/data/bof2008/Magnificent_knights_LQ.zip?download=vfpq_dwllns_1001ogghq.rar",
+      "url_diff" : "https://www.dropbox.com/s/yvrgxa6zq35g9s7/dwllns.zip?dl=1"
    }
 ]
