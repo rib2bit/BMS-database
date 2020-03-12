@@ -2675,6 +2675,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "-45 U",
+      "comment" : "ディレイなどのズレあり",
+      "level" : "4",
+      "md5" : "2cbf5d48405b06d4d9947fcd665c5f30",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "e40d24d985851165e98092db650683cc8703cf273cd6ca8bcd62453b01ca7422",
+      "submission" : 1091,
+      "title" : "EXILE (´Ａ｀)",
+      "url" : "http://malie.noor.jp/",
+      "url_diff" : "https://obju.web.fc2.com/BOB2015/BOB2015_k_4_2_1.html"
+   },
+   {
       "artist" : "anubasu-anubasu / Note:薄杏 BGA by 出前",
       "comment" : "ガチ押し",
       "level" : "7",
@@ -7184,6 +7197,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "TAK / obj:Monsta",
+      "comment" : "ディレイ",
+      "level" : "4",
+      "md5" : "6f7115ca4ed5c2af57950ea47a713264",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "1c7353f9f16fe1a352192a6986175026203d935345c44eaba281a7fb53220bc1",
+      "submission" : 1092,
+      "title" : "Trinity [Monsther]",
+      "url" : "http://web.archive.org/web/20060213103146/http://www.ismusic.ne.jp/djtak/bms/trinity.zip",
+      "url_diff" : "http://3228monsta.web.fc2.com/trinity.zip"
    },
    {
       "artist" : "Flat:nique Dolls Orchestra Illustration : まど / selene.",
@@ -11921,6 +11947,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Naukorin obj.Mallow♪",
+      "comment" : "ガチ押し、徐々に難しくなる",
+      "level" : "1",
+      "md5" : "bf1d6e8f15d53bdd35c3160b1f4567a8",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "e2cb9bc61367a7b99549ab6a1d9a6014ca5441891b938558165e5415348b29c1",
+      "submission" : 1093,
+      "title" : "Luv of Magical Synth [サテラ×ステラ]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=129",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/"
    },
    {
       "artist" : "Cataclysmic Order BGI:FARNA / selene.",
