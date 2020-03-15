@@ -13580,6 +13580,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "kei iwata/xenothium",
+      "comment" : "★★4  伝統の地力譜面",
+      "level" : "6",
+      "md5" : "d7cae692a376eaeaa6355c8d2fa3d73b",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "259f81dd6609b18b7c58b48ffc6fe87ef4a61e0909612c45a7a31529de2a78a4",
+      "submission" : 1094,
+      "title" : "CODE-F -soar to the Frontier- [frontier]",
+      "url" : "http://flowermaster.web.fc2.com/iwatabms/index.html",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Le Dos-on arranged by s-don illust : jubeated / obj.hex",
       "comment" : "全押し、微縦連",
       "level" : "4",
@@ -14907,6 +14920,19 @@
       "title" : "VENDeTTA [AlterEgo]",
       "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/21/",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03184"
+   },
+   {
+      "artist" : "イズミケイ BGA : BKANOTHER / OBJ : И",
+      "comment" : "微縦複合物量 (bga append SPN基準ズレなし)",
+      "level" : "4",
+      "md5" : "f02ed8c8f032a9a7dad2f6bd7d7efd61",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "8dc051d049f30f7f02262576fa62ba2ff13905fb2140cc2de5080ab9995888d9",
+      "submission" : 1095,
+      "title" : "SIREN OF DAWN [AIR-RAID SIREN]",
+      "url" : "https://mega.nz/#F!FNFDCQaT!wfv-iI4UuSIaGpP0oFZdtQ?4F9mCZ5Z",
+      "url_diff" : "https://bms.parksulab.xyz"
    },
    {
       "artist" : "yukitani feat. DJ YKTN and DJ UMA",
