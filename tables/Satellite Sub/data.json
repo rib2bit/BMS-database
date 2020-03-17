@@ -56,7 +56,7 @@
    },
    {
       "artist" : "Team PAPERBOY obj. BK",
-      "comment" : "BK CALLS IT QUITS",
+      "comment" : "BK CALLS IT QUITS アレンジ差分",
       "level" : "6",
       "md5" : "008319f5eb89a4d4928629677bd03e65",
       "proposer" : "Lapis",
@@ -4413,7 +4413,7 @@
    },
    {
       "artist" : "Music : Lunatic Sounds / BGA : Photonskyto Obj.Triforce",
-      "comment" : "エラー発生。",
+      "comment" : "エラー発生。差分の場合序盤重複MRキー音を除去",
       "level" : "3",
       "md5" : "3a6a22225539656ef3274ab09c5d9bf8",
       "proposer" : "dstorv",

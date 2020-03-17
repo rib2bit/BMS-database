@@ -229,6 +229,19 @@
       "voteYes" : 5
    },
    {
+      "artist" : "SEPHID obj:Omino",
+      "comment" : "高速乱打 差分内readme: \"note番号\"KR\"および\"24\"はわざとズラしています\"",
+      "level" : "5",
+      "md5" : "d090cacfa84516b0cc8d4988c98e7a52",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "8120316d63cfb6c1825932fb46f9a705488f373f358f155a9890762f2efe3669",
+      "submission" : 1097,
+      "title" : "Critical Cannonball [Other]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=129",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/"
+   },
+   {
       "artist" : "kei iwata/xenothium",
       "comment" : "★★4  伝統の地力譜面",
       "level" : "6",
@@ -253,5 +266,18 @@
       "title" : "SIREN OF DAWN [AIR-RAID SIREN]",
       "url" : "https://mega.nz/#F!FNFDCQaT!wfv-iI4UuSIaGpP0oFZdtQ?4F9mCZ5Z",
       "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
+      "artist" : "Judah BGA:Lucifer obj:VINYL",
+      "comment" : "高速乱打 no misalignment",
+      "level" : "8",
+      "md5" : "f1609dbcfe0ff7f4eacc7d8ac5e960b5",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "06aa2c7ea6e7880c7d5d9f86bcf9107402175fab4a0fff22344b6c3895eb3eeb",
+      "submission" : 1096,
+      "title" : "F13 [Conclusion]",
+      "url" : "https://1drv.ms/1FHRWb9",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04145"
    }
 ]

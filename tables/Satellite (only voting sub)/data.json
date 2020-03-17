@@ -1,7 +1,7 @@
 [
    {
       "artist" : "Team PAPERBOY obj. BK",
-      "comment" : "BK CALLS IT QUITS",
+      "comment" : "BK CALLS IT QUITS アレンジ差分",
       "level" : "6",
       "md5" : "008319f5eb89a4d4928629677bd03e65",
       "proposer" : "Lapis",
@@ -63,18 +63,6 @@
       "title" : "The Typewriter [7KEYS ANOTHER]",
       "url" : "http://iroirokiba.web.fc2.com/bms.html",
       "url_diff" : ""
-   },
-   {
-      "artist" : "美樹さやか vs. 美樹さやか (fw. 美樹さやか)/差分　赤い人 BGA ： 美樹さやか",
-      "level" : "8",
-      "md5" : "10c5500b1b1bf08b56e4beb998a1c607",
-      "proposer" : "椒図",
-      "proposerLr2id" : 124809,
-      "sha256" : "48d6d56dddef74ca5155f5dfd6136fbf8bee72c36c15eb622ec43146f79638fa",
-      "submission" : 1331,
-      "title" : "squartatrice [HARDEST]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=99&event=74",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/squartatriceHARDEST.bme"
    },
    {
       "artist" : "Yu^ta feat. みずにんじん / obj:Azel",
@@ -180,7 +168,7 @@
    },
    {
       "artist" : "Music : Lunatic Sounds / BGA : Photonskyto Obj.Triforce",
-      "comment" : "エラー発生。",
+      "comment" : "エラー発生。差分の場合序盤重複MRキー音を除去",
       "level" : "3",
       "md5" : "3a6a22225539656ef3274ab09c5d9bf8",
       "proposer" : "dstorv",

@@ -11230,7 +11230,7 @@
       "submission" : 903,
       "title" : "Batrachotoxin -ADVANCED-",
       "url" : "https://dropbox.bms.ms/u/60346274/bms/yadoku_ogg.rar",
-      "url_diff" : "http://sabosabun.tank.jp/",
+      "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
@@ -12996,6 +12996,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "SEPHID obj:Omino",
+      "comment" : "高速乱打 差分内readme: \"note番号\"KR\"および\"24\"はわざとズラしています\"",
+      "level" : "5",
+      "md5" : "d090cacfa84516b0cc8d4988c98e7a52",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "8120316d63cfb6c1825932fb46f9a705488f373f358f155a9890762f2efe3669",
+      "submission" : 1097,
+      "title" : "Critical Cannonball [Other]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=129",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/"
    },
    {
       "artist" : "Sakamiya obj.hex",
@@ -15008,6 +15021,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Judah BGA:Lucifer obj:VINYL",
+      "comment" : "高速乱打 no misalignment",
+      "level" : "8",
+      "md5" : "f1609dbcfe0ff7f4eacc7d8ac5e960b5",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "06aa2c7ea6e7880c7d5d9f86bcf9107402175fab4a0fff22344b6c3895eb3eeb",
+      "submission" : 1096,
+      "title" : "F13 [Conclusion]",
+      "url" : "https://1drv.ms/1FHRWb9",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04145"
    },
    {
       "artist" : "-45 / obj;Nemes",
