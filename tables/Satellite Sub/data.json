@@ -4880,6 +4880,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "adamthix",
+      "comment" : "minijack chordstream, small amount of LN and delay",
+      "level" : "5",
+      "md5" : "41528078b793f7cebf5ca905a3031134",
+      "proposer" : "sera",
+      "proposerMinirid" : "8281b134-2da8-4f09-a4d0-22618e5611fd",
+      "sha256" : "b22394754307b71bf08aaa240265bd71d782cc77306d44c2783539cf500b5160",
+      "submission" : 1345,
+      "title" : "auf Wiedersehen [Qual]",
+      "url" : "https://dropbox.bms.ms/u/106449495/aufwiedersehen.zip",
+      "url_diff" : "http://hg2.ifdef.jp/bms/aufwiedersehen_hg.zip"
+   },
+   {
       "artist" : "Y.W / A",
       "level" : "5",
       "md5" : "4170a29a2e6f924beba1bf73fea6cfb8",
