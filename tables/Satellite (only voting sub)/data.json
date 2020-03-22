@@ -1,31 +1,5 @@
 [
    {
-      "artist" : "Team PAPERBOY obj. BK",
-      "comment" : "BK CALLS IT QUITS アレンジ差分",
-      "level" : "6",
-      "md5" : "008319f5eb89a4d4928629677bd03e65",
-      "proposer" : "Lapis",
-      "proposerLr2id" : 35410,
-      "sha256" : "e7f90a79bf5bca14788741d5046af81b01f0df15af6f7283e71592bc95136b90",
-      "submission" : 1338,
-      "title" : "CALLS IT QUITS [AMAZING PAPERBOY DELIVERS!]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=283&event=65",
-      "url_diff" : "http://beatkim.web.fc2.com/insane.html"
-   },
-   {
-      "artist" : "Columba (Daily vs Roon_kun) obj. w",
-      "comment" : "中盤にLNがあるが、クリアに影響するほどではない",
-      "level" : "4",
-      "md5" : "038cf0248a84abb1579cfefd8cdad050",
-      "proposer" : "Mallow♪",
-      "proposerLr2id" : 154796,
-      "sha256" : "eb6ca8ea482975ff6bcdbae1a4b6619a8cecce14f2049f6ac7ce982fc4b6f980",
-      "submission" : 1325,
-      "title" : "赤 [W]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=129",
-      "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/"
-   },
-   {
       "artist" : "Sobrem / obj ; LindBlum",
       "comment" : "sl1~2, BOFU2015, 地力",
       "level" : "2",
@@ -37,32 +11,6 @@
       "title" : "Encrux [Yesod]",
       "url" : "https://goo.gl/WQCtF7",
       "url_diff" : "https://onedrive.live.com/redir?resid=6A58DD88BD7062C4!210&authkey=!AGZePJr_LRrydzg&ithint=folder%2czip"
-   },
-   {
-      "artist" : "C4 / BGI:morph",
-      "comment" : "SLOW",
-      "level" : "1",
-      "md5" : "07792d652e8723324938bf188d88f970",
-      "proposer" : "chouco",
-      "proposerLr2id" : 158333,
-      "sha256" : "3a6da7bcc7a862d76a448146d144a51de660a61fc28e23f576d4f1c84b4de2ca",
-      "submission" : 1314,
-      "title" : "Chilly [SP INSANE]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=126",
-      "url_diff" : ""
-   },
-   {
-      "artist" : "Leroy Anderson MIDI:Akira BMS:krg",
-      "comment" : "同時押しと乱打",
-      "level" : "1",
-      "md5" : "0bf3617a8969d09d5d6b422b6bb20890",
-      "proposer" : "SANY",
-      "proposerLr2id" : 128405,
-      "sha256" : "76d59c30a0e514d8d3a37df6606a98c8f93b1209f3a1316b50786f748f8e01e3",
-      "submission" : 1323,
-      "title" : "The Typewriter [7KEYS ANOTHER]",
-      "url" : "http://iroirokiba.web.fc2.com/bms.html",
-      "url_diff" : ""
    },
    {
       "artist" : "Yu^ta feat. みずにんじん / obj:Azel",
@@ -77,42 +25,17 @@
       "url_diff" : ""
    },
    {
-      "artist" : "Warp-E /w BURST Vocal by Ruriling / Eyecatch by nueat / obj:Fender",
-      "comment" : "sl1~2 trilly chordstream and minijacks",
-      "level" : "1",
-      "md5" : "245911af8eeddeb678689c68387a94ac",
-      "proposer" : "sera",
-      "proposerMinirid" : "8281b134-2da8-4f09-a4d0-22618e5611fd",
-      "sha256" : "3e448834ef276977b936b7f83fdc6ff63b9629714af74fe6d505ba70b0d5dca0",
-      "submission" : 1316,
-      "title" : "New Island [F]",
-      "url" : "https://drive.google.com/open?id=1fWKPy0zr8p02lfxoVR1HWMq566VjA8fP",
-      "url_diff" : "https://obju.web.fc2.com/BOB2015/BOB2015_k_1_3_1.html"
-   },
-   {
-      "artist" : "sweez & Meine Meinung remixed by roop obj. vi",
-      "level" : "1",
-      "md5" : "2707e6b8274e9be7dd3ef76e8d9dfc0c",
-      "proposer" : "hd",
-      "proposerLr2id" : 156782,
-      "sha256" : "7b49cae365d9cc73ef220d5d69bf9722ab104cfa5be7166f41fb903541cf5993",
-      "submission" : 1311,
-      "title" : "Colorful (roop remix) [MANIAC7]",
-      "url" : "https://roopdesign.net/post/34827532860/roop-bms-works-2004-2012",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04058"
-   },
-   {
-      "artist" : "Hazel-D feat. Ms.Valentine / obj: 0samil0",
-      "comment" : "がちおし",
-      "level" : "0",
-      "md5" : "2d658e3b35abde484248a948cd55cd7e",
-      "proposer" : "Whip",
-      "proposerLr2id" : 145504,
-      "sha256" : "3d8800ad6f253906091e0818f05524740e140e0543be8c84a0a0f1d48f64fd59",
-      "submission" : 1300,
-      "title" : "Snow Black -Vendetta- [Finale]",
-      "url" : "https://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=28&order=reg&odtype=a",
-      "url_diff" : ""
+      "artist" : "Yu^ta obj.quad",
+      "comment" : "ディレイ",
+      "level" : "11",
+      "md5" : "25eaf10ef0085443932317c03a65f333",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "6b0d1951027358e77bffd816dcd77ffd83cdddd6dee29ba5975f5a46eea25c8d",
+      "submission" : 1350,
+      "title" : "Sunny [ディレイ&物量]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=201&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=2779"
    },
    {
       "artist" : "Dachs / Movie : わっふゑ obj.Mallow♪",
@@ -128,19 +51,6 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
    },
    {
-      "artist" : "さかみりな img:おまる氏 / obj:七海千秋",
-      "comment" : "36レーンで一つのズレがありますが、使わないキー音のズレです。プレーとは関係ないです。",
-      "level" : "12",
-      "md5" : "32b396f6773065b8e75afa3efbd6bae1",
-      "proposer" : "MarySue",
-      "proposerLr2id" : 147889,
-      "sha256" : "4b0e61e8d4d3a5b48203497ec0ba3117d3f8c6077ade51d85726dca1ffd90fa0",
-      "submission" : 1305,
-      "title" : "もーにんぐ☆えくすたしー！ (はぴがばみっくす) -でぃすぺあ-",
-      "url" : "http://colosseo.nekokan.dyndns.info/c04_shuffle3/detail/view/26/",
-      "url_diff" : "https://www.dropbox.com/s/vvpegqvr7m4p17j/moning_extacy_Sakamirina_nanami01.bms?dl=0"
-   },
-   {
       "artist" : "Duca/Scuderia K Remixed by Lemon beads / obj:sagoo",
       "comment" : "▼2",
       "level" : "1",
@@ -152,19 +62,6 @@
       "title" : "ネコイチ(Lemon beads Remix) -BMS edit- [sagANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=92&event=116",
       "url_diff" : "https://onedrive.live.com/redir?resid=A972E7D14DCFAF93!110&authkey=!ADuXxYDZsf_L-I8&ithint=folder%2czip"
-   },
-   {
-      "artist" : "FICY",
-      "comment" : "sl1~2? (renda, stop)",
-      "level" : "2",
-      "md5" : "369f93bc9d8856529f6759d97720888e",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "36d025e31eed3290f7eb87613de66f7b3ca30716c5b5e91ea1070e20a25699a3",
-      "submission" : 1299,
-      "title" : "Loop the beep [ANOTHER7]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=95",
-      "url_diff" : ""
    },
    {
       "artist" : "Music : Lunatic Sounds / BGA : Photonskyto Obj.Triforce",
@@ -180,19 +77,6 @@
       "url_diff" : "http://www.dropbox.com/s/zpis7gvoig7gn46/dataerr0r_triforce.bme?dl=1"
    },
    {
-      "artist" : "Feryquitous Sennzai / Dazzle / Cymby / obj:Ferberite",
-      "comment" : "sl0~1 (no misalignment)",
-      "level" : "0",
-      "md5" : "3f74ff490416c8e293d32f4b03c901ba",
-      "proposer" : "chouco",
-      "proposerLr2id" : 158333,
-      "sha256" : "f140ffe37657c17c9368b734639b5173fc58cc9f232665c26288e96c4122d8bf",
-      "submission" : 1291,
-      "title" : "Strahv [PAST]",
-      "url" : "https://mega.nz/#F!FNFDCQaT!wfv-iI4UuSIaGpP0oFZdtQ?4M00iTSC",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02645"
-   },
-   {
       "artist" : "adamthix",
       "comment" : "minijack chordstream, small amount of LN and delay",
       "level" : "5",
@@ -204,19 +88,6 @@
       "title" : "auf Wiedersehen [Qual]",
       "url" : "https://dropbox.bms.ms/u/106449495/aufwiedersehen.zip",
       "url_diff" : "http://hg2.ifdef.jp/bms/aufwiedersehen_hg.zip"
-   },
-   {
-      "artist" : "lixound mov:Xquid",
-      "comment" : "トリル、LN、皿",
-      "level" : "0",
-      "md5" : "448ccb9a5dfcd9a96d81123b53e1d29f",
-      "proposer" : "STANK!",
-      "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
-      "sha256" : "ca105a6b956cae12a06e78c654bca9e9f2beaf250b790284958ce69af0e1714e",
-      "submission" : 1303,
-      "title" : "Break Through The Barrier [HYPER]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=440&event=116",
-      "url_diff" : ""
    },
    {
       "artist" : "VeetaCrush mov NichRabbit / obj AZVW_2 & Gengetsu",
@@ -232,21 +103,17 @@
       "url_diff" : ""
    },
    {
-      "artist" : "Multipleton / Trompeuse",
-      "comment" : "Wire Puller IV, 皿複合",
-      "level" : "1",
-      "md5" : "5680b05650bd9f43ce5b474a615f96e4",
-      "proposer" : "dstorv",
-      "proposerLr2id" : 145158,
-      "sha256" : "b0b4ab45d9bca0124f15197d668ab77aa9f00c642fa119ddd72c819586760af0",
-      "submission" : 1285,
-      "title" : "F4C4D3 [Another]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=112",
-      "url_diff" : "",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "77.78",
-      "voteYes" : 6
+      "artist" : "litmus* as Ester movie:なおや / obj:SUZUKAZEΛ vs litmus*",
+      "comment" : "BOFXV",
+      "level" : "4",
+      "md5" : "5a9db579baf2e9cf23a1d7d773ca7487",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "906192e4e64d13f9fd9334e0d95960fde7d3347b97dd085bc397bb5b86d7db8d",
+      "submission" : 1353,
+      "title" : "Krave [Insane]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=76&event=127",
+      "url_diff" : ""
    },
    {
       "artist" : "渋谷凛 obj:ゆさこずえ",
@@ -275,19 +142,6 @@
       "url_diff" : "https://frozensat.github.io/sabun/Sterelogue_DK.zip"
    },
    {
-      "artist" : "44teru-k remixed wa. / 差分 赤い人",
-      "comment" : "乱打",
-      "level" : "3",
-      "md5" : "6ad63bdfce1072784d7903ca542e7608",
-      "proposer" : "椒図",
-      "proposerLr2id" : 124809,
-      "sha256" : "97b1daeab455ccbc60fdbc8b1ac795a31a7917bed692638975da51bd739caafd",
-      "submission" : 1301,
-      "title" : "異説彼岸花 第一 -原初のアマリリス- [HARD]",
-      "url" : "http://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21208",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/amaryllis_HARD.bms"
-   },
-   {
       "artist" : "Yuhgao as Nekosola OBJ:SANY/ BGA:Yuhgao / ILLUST:Lenu",
       "comment" : "乱打, 同時押し, 連打",
       "level" : "6",
@@ -299,19 +153,6 @@
       "title" : "410:Odyssey [7K/THE HORIZONS]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=79&event=127",
       "url_diff" : ""
-   },
-   {
-      "artist" : "Aliesrite* (Ym1024 feat. lamie*) obj:monaka",
-      "comment" : "BPM132の24分練習",
-      "level" : "1",
-      "md5" : "7a50c1f18e880ef646dfbac6f8117532",
-      "proposer" : "SHAX.",
-      "proposerLr2id" : 65624,
-      "sha256" : "90b2067d697355aa5660e87f45103b563e47af228814d87efc6d5c26c4df6080",
-      "submission" : 1319,
-      "title" : "Chimes [7key Extra]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=283&event=127",
-      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
    },
    {
       "artist" : "ポロロッカ / obj: Lennon",
@@ -353,17 +194,17 @@
       "url_diff" : "https://www.dropbox.com/s/5ze257zgjps140h/04_on_impetus_noobetus.bms?dl=0"
    },
    {
-      "artist" : "* (Asterisk) / obj:スノート 前川みく×多田李衣菜",
-      "comment" : "sl10~11? (no misalignment)",
-      "level" : "11",
-      "md5" : "872af952fb819d52bb11cefa25d61532",
-      "proposer" : "chouco",
-      "proposerLr2id" : 158333,
-      "sha256" : "08a080cba48901300ffd39a6ca0a38cf6a132671ac238118d9b7d355404ffa79",
-      "submission" : 1343,
-      "title" : "Lonely Cat [雨]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=48&event=110",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04140"
+      "artist" : "SP-#",
+      "comment" : "0~1",
+      "level" : "1",
+      "md5" : "872beeb6216d589a6d599072197c9bfb",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "782b0138d3d43c079e4abde61adf9293f87a1926f87c3cfa5c61886de020e9b1",
+      "submission" : 1349,
+      "title" : "mental blood [7 keys another]",
+      "url" : "https://www.dropbox.com/s/yc50as7hyxhgpth/mental%20blood.zip?dl=1",
+      "url_diff" : ""
    },
    {
       "artist" : "Superbia",
@@ -379,43 +220,30 @@
       "url_diff" : ""
    },
    {
-      "artist" : "- 4 5",
-      "comment" : "乱打、デニム、トリル 2強～3弱の間くらい？",
-      "level" : "2",
-      "md5" : "98da8541159bc70883dffa8d882722fc",
-      "proposer" : "める",
-      "proposerLr2id" : 89085,
-      "sha256" : "06f9bd61520e041d74c9e99eed6e6430d3ce62a010d406b979fdcaeb8b957bf7",
-      "submission" : 1344,
-      "title" : "A D D i c T i O N 4 5 0 0 0 0 0 (A)",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=121&event=116",
-      "url_diff" : ""
+      "artist" : "黒皇帝 Movie: Ratif Obj: tamate",
+      "comment" : "地力",
+      "level" : "9",
+      "md5" : "a752d3bf6f9c9e550efa865dcb08f7b2",
+      "proposer" : "Mallow♪",
+      "proposerLr2id" : 154796,
+      "sha256" : "c07a070c1471fde46ac5738551b12a6c977e4374aaee9fc87496e5eb4719a4c3",
+      "submission" : 1352,
+      "title" : "Lotus Life [Sugar and Spicy]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=129",
+      "url_diff" : "https://drive.google.com/open?id=1GsksADDZavj2b1ZmhF91-SNbjsycNd2V"
    },
    {
-      "artist" : "ポロロッカ obj.fhyu",
-      "comment" : "東方音弾遊戯9/ハネ/ズレ",
-      "level" : "11",
-      "md5" : "a9daa35398bbbd3e1aa3f0bd177ba1cc",
-      "proposer" : "かに",
-      "proposerLr2id" : 115381,
-      "sha256" : "0cfe58ff311edd2bebfe5ea2dd90a777b819cdc9995d8f88f1b6774b46d93f40",
-      "submission" : 1335,
-      "title" : "ハレタヨゾラとヤマヌオト [Swing]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=129",
-      "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/"
-   },
-   {
-      "artist" : "Daily//NceS BMS:Scely//obj:Scely",
-      "comment" : "Burn (Haocore Remix) sl2~3?",
-      "level" : "3",
-      "md5" : "c1395f67314e5c4b6734e5579624ea81",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "ec773d4743696d5ee554c3e3bb795b9a222f5fc7ebde7f8a28dc998fc74f5370",
-      "submission" : 1297,
-      "title" : "Burn [ahhh]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=55&event=128",
-      "url_diff" : ""
+      "artist" : "Qga obj.fhyu",
+      "comment" : "BPM120の8分同時押し(SPA基準ズレなし)",
+      "level" : "0",
+      "md5" : "b2b580c550f35d4e02db6fdb9e6103a7",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "babc4beb90fbec3fabcc5c99d1ffed04dd86d8763ac92800e981315069efa374",
+      "submission" : 1347,
+      "title" : "Drizzle -Parking Area-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=153&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
    },
    {
       "artist" : "awi",
@@ -431,59 +259,30 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00058"
    },
    {
-      "artist" : "Frums Obj.Triforce",
+      "artist" : "Nakaiankow / obj:C4 Original:ZUN - 神々が恋した幻想郷",
+      "comment" : "2連打多め",
       "level" : "8",
-      "md5" : "cdab52f88644b32917e7292d4a190cbf",
-      "proposer" : "''",
-      "proposerLr2id" : 86456,
-      "sha256" : "6814a91933020eed2d1b571916fe8058828f2ea531126994531eaefbf2256868",
-      "submission" : 1290,
-      "title" : "Credits [Corporation]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=113&event=104",
-      "url_diff" : "http://www.dropbox.com/s/bf2v6jnpit6jju6/_credits-triforce.bme?dl=0"
+      "md5" : "d9d7f3111a82dcb3ab638ca974aaeb7d",
+      "proposer" : "Mallow♪",
+      "proposerLr2id" : 154796,
+      "sha256" : "62b273c0530358781ca2c949a9750da7a54b1d5c25f5cb4da4e83b60486fbc7b",
+      "submission" : 1351,
+      "title" : "T.G.T.G.L. [fell in love]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=129",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/"
    },
    {
-      "artist" : "er / obj.swa",
-      "comment" : "高速、同時押し、乱打",
-      "level" : "5",
-      "md5" : "cee481e97bc36ec9b1146dbf8046bb97",
-      "proposer" : "けーちゃん",
-      "proposerLr2id" : 137190,
-      "sha256" : "aa905878bc53cf77f4c9ffdcc509c2db4bcdb9f3fb37983acdf72a81bb2ccd0c",
-      "submission" : 1312,
-      "title" : "ハイパーミラクルシューティングスター [大車輪山嵐]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=137&event=88",
-      "url_diff" : "http://swamelo.web.fc2.com/"
-   },
-   {
-      "artist" : "kanone obj:kaguya",
-      "comment" : "0~1?",
-      "level" : "1",
-      "md5" : "dbc7d01887e3a02ed502d76a0d842152",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "c73909853a7847bd76f65ec6f1ac91a9542ad0474cf4770a9797ceb0f91b2ed9",
-      "submission" : 1321,
-      "title" : "CO5M1C R4ILR0AD [M3←T→Я0]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=220&event=110",
-      "url_diff" : "http://kaguyasystem.web.fc2.com/sabun.html"
-   },
-   {
-      "artist" : "P.E. / A!key / RAY あ",
-      "comment" : "#7f7f7f",
-      "level" : "2",
-      "md5" : "dcb30f1d6117839e371c6d32ebca227f",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "c88515455979a329d0782b9f65c0df6cb4ad62f1fd651795b8fa3d674b3ba8fa",
-      "submission" : 1269,
-      "title" : "Central GRAY -rebirth-",
-      "url" : "https://onedrive.live.com/?authkey=%21AHtMH0imt8N3nn4&id=6316BF8DB3CB0BE%21125&cid=06316BF8DB3CB0BE",
-      "url_diff" : "",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "83.33",
-      "voteYes" : 9
+      "artist" : "Nami Haven",
+      "comment" : "(SPA) BPM137 乱打、トリル、32分",
+      "level" : "0",
+      "md5" : "db91b19c140138f278f0bd231d8a81d0",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "816a0197f389bb81903706dec2a7991d8ef27a3bff1c49d201e0d53e8faf803a",
+      "submission" : 1348,
+      "title" : "Save the Water",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=129",
+      "url_diff" : ""
    },
    {
       "artist" : "RainDrops obj.XYZ",
@@ -525,48 +324,6 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html"
    },
    {
-      "artist" : "ZUN remixed by LeaF Movie:Optie/Illust:セシル◇タイト obj:Phantom Cats",
-      "comment" : "東方音弾遊戯9/高速/皿複合/ガチ押し",
-      "level" : "11",
-      "md5" : "f32f725877814178c3413b5ee9da62a0",
-      "proposer" : "かに",
-      "proposerLr2id" : 115381,
-      "sha256" : "e9a48e22537c9a2d966f5aa576b3deaa5d7a4089d3b8b324b4f5cc6e07e27b3f",
-      "submission" : 1334,
-      "title" : "Armageddon [Plutonium]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=129",
-      "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/"
-   },
-   {
-      "artist" : "田井中 律/中野　あず　さ",
-      "comment" : "乱打 连皿 同时押",
-      "level" : "7",
-      "md5" : "f4cc17bcf6c9bc39853d61824e7fb16a",
-      "proposer" : "椒図",
-      "proposerLr2id" : 124809,
-      "sha256" : "5acab0b3fca7bd053bde5a0a34386aca1eab25da3f03b8db3cd70a2a4000f52f",
-      "submission" : 1302,
-      "title" : "異説彼岸花 第二 -終世のリコリス- [SABOTHER]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=141&event=65",
-      "url_diff" : "http://sabosabun.tank.jp/"
-   },
-   {
-      "artist" : "LeaF × kana / obj:chack Movie:To7",
-      "level" : "6",
-      "md5" : "f77f591d575f2ad4aa7c1926d9f696e3",
-      "proposer" : "かに",
-      "proposerLr2id" : 115381,
-      "sha256" : "10212dd55b3feeee6a5197007e4abd82f5138484b7cae1f4beafcb84f05fe24e",
-      "submission" : 1063,
-      "title" : "◇スト [Tree]",
-      "url" : "https://mega.nz/#F!FNFDCQaT!wfv-iI4UuSIaGpP0oFZdtQ?hcEjnDQQ",
-      "url_diff" : "http://chack3sabun.web.fc2.com/",
-      "voteNeutral" : 1,
-      "voteNo" : 0,
-      "votePercent" : 95,
-      "voteYes" : 9
-   },
-   {
       "artist" : "daisan Notes:薄杏",
       "level" : "3",
       "md5" : "f8cf31f64b15e44b27c0c04d8b73d3f3",
@@ -577,19 +334,6 @@
       "title" : "豊穣の都 プロウシア [DEMETRA]",
       "url" : "http://clockxellox.sakura.ne.jp/index.html",
       "url_diff" : "http://lalha.web.fc2.com/"
-   },
-   {
-      "artist" : "maru BGA:Johnny / obj:平成",
-      "comment" : "令和",
-      "level" : "3",
-      "md5" : "fdf4405ff892415cc3aac1048cedd1eb",
-      "proposer" : "SANY",
-      "proposerLr2id" : 128405,
-      "sha256" : "ff4cab016ba8761944a2cfc9f49e4749389419ff61c0088053a3b5ba8c7b1ad2",
-      "submission" : 1288,
-      "title" : "New period [令和]",
-      "url" : "https://dropbox.bms.ms/u/34120259/BOFU2016/maru-NewPeriod.zip",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02991"
    },
    {
       "artist" : "ueotan / kefia / obj.mn",
@@ -603,18 +347,5 @@
       "title" : "夢幻城デクシア [delay_beginner]",
       "url" : "https://mega.nz/#F!FNFDCQaT!wfv-iI4UuSIaGpP0oFZdtQ?cZsGUIAC",
       "url_diff" : "http://stairway.sakura.ne.jp/dosukoi/"
-   },
-   {
-      "artist" : "kanoryo BGI.:MOAI WORKS / obj.:LuvTek",
-      "comment" : "連皿があるけどこの地力帯なら余裕かと",
-      "level" : "12",
-      "md5" : "ffb3731fb348e4e193b3e8f7bf4fe2ce",
-      "proposer" : "氷城つるぎ",
-      "proposerLr2id" : 151185,
-      "sha256" : "152b59e342c60f5bea4bf097616d1d054373db86b9a1f9e386cdf4c31dcd5e2d",
-      "submission" : 1341,
-      "title" : "Seiren [Siren+]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=235&event=127",
-      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
    }
 ]

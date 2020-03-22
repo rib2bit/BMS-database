@@ -3267,9 +3267,22 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Hate / obj:C4 BGA : S.P.S.B.",
+      "comment" : "from Satellite",
+      "level" : "0",
+      "md5" : "3770428dc92aec7ba658a804af2344ec",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "843ead769266204f6614ee4146ff77c33f8420e21325b3a46e7b2b29330d5675",
+      "submission" : 1099,
+      "title" : "duty [act out of \"duty\"]",
+      "url" : "http://uploader.bms.ms/data/duty_mqwav.zip",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02787"
+   },
+   {
       "artist" : "403 ERROR Image by HEART CREATE / obj:秘密",
       "comment" : "BPM489.31",
-      "level" : "0",
+      "level" : "1",
       "md5" : "37bd5d43b121b45c9e6e92723622ed9a",
       "proposer" : "氷城つるぎ",
       "proposerLr2id" : 151185,
@@ -6277,7 +6290,7 @@
    {
       "artist" : "ZUN remixed by LeaF Movie:Optie Obj:И",
       "comment" : "32分複合物量",
-      "level" : "7",
+      "level" : "8",
       "md5" : "627b874e565a3c897858301851544a58",
       "proposer" : "otoshi.b",
       "proposerLr2id" : 87474,
@@ -12230,6 +12243,19 @@
       "url_diff" : "http://yahoo.jp/box/twZ9In"
    },
    {
+      "artist" : "ノクティス・江口・チェラム Obj:И",
+      "comment" : "1?",
+      "level" : "1",
+      "md5" : "c4881e70dfc2f65aca4e07d813425e4d",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "c9156c8b2e87f2c4437da736882b7204c8f68f07c4c71036fd4d35adcc3f5505",
+      "submission" : 1101,
+      "title" : "ヒメタイプ [Excelsior_Fix]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=96",
+      "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
       "artist" : "裏 吉 川 / obj:DDX, loxe1234",
       "level" : "5",
       "md5" : "c4a9a9cb65e09aab60870d68e19b5e8b",
@@ -14106,6 +14132,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "srask obj: qtp13",
+      "comment" : "32分ズレあり",
+      "level" : "3",
+      "md5" : "e1bd1d999a8d1ff5df27cc8ed60e840a",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "78b8934620463f41a6ddceddb268fe559c4066f9ef08dc7ec3407bd8e3ac263e",
+      "submission" : 1100,
+      "title" : "αMe:TRiC -RhYMeTRiX-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=173&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
    },
    {
       "artist" : "さかみりと img:しぐれぷに子/obj:赤い人",

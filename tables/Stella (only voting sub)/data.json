@@ -1,48 +1,5 @@
 [
    {
-      "artist" : "Luxion / Ds",
-      "comment" : "粛清",
-      "level" : "10",
-      "md5" : "0fd7cb15d296c8042085bf0a5b4b24b3",
-      "proposer" : "スノート",
-      "proposerLr2id" : 86393,
-      "sha256" : "edae8071cf8f6c8de78533ad38a57bcb3c7ddac62ce7a94dc7785af7ae9e61f2",
-      "submission" : 1086,
-      "title" : "High-Priestess  [転生オーラ]",
-      "url" : "http://bof2012bfg.web.fc2.com/nowcanyouclear.html",
-      "url_diff" : "http://sagena.harisen.jp/"
-   },
-   {
-      "artist" : "潮音きつねH / obj:LuvTek",
-      "comment" : "ラストがちょっと難しい",
-      "level" : "2",
-      "md5" : "25d3171fe166348423d6ab0e7feeb6ca",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "904b4bb9c0afd555b2d383f0d1b1db86cbddf0c8e0fd18b4cd17e8050d954827",
-      "submission" : 1069,
-      "title" : "sampleX [SP Xpert]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=128&event=127",
-      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : "66.67",
-      "voteYes" : 2
-   },
-   {
-      "artist" : "-45 U",
-      "comment" : "ディレイなどのズレあり",
-      "level" : "4",
-      "md5" : "2cbf5d48405b06d4d9947fcd665c5f30",
-      "proposer" : "氷城つるぎ",
-      "proposerLr2id" : 151185,
-      "sha256" : "e40d24d985851165e98092db650683cc8703cf273cd6ca8bcd62453b01ca7422",
-      "submission" : 1091,
-      "title" : "EXILE (´Ａ｀)",
-      "url" : "http://malie.noor.jp/",
-      "url_diff" : "https://obju.web.fc2.com/BOB2015/BOB2015_k_4_2_1.html"
-   },
-   {
       "artist" : "H2SO4/DiodeP/Polymath9 feat. Mo obj:.ctc",
       "level" : "1",
       "md5" : "454d2e6762491f09893e0e6c605e115a",
@@ -57,52 +14,6 @@
       "voteNo" : 0,
       "votePercent" : 78.5714285714286,
       "voteYes" : 4
-   },
-   {
-      "artist" : "tcheb / Roaring Flame × アカツキユウ obj:kusamochi009",
-      "comment" : "BPM155 いろいろな連打複合 (SPN基準ズレなし)",
-      "level" : "2",
-      "md5" : "4f6b7176c68533fbdcdf4b0a56e10ab7",
-      "proposer" : "SHAX.",
-      "proposerLr2id" : 65624,
-      "sha256" : "13544b2bfb215d22443b8c136636725b6dce5c284175d6d90c84e8b85d929edf",
-      "submission" : 1076,
-      "title" : "Fate of Valkyrie [SP KS]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=262&event=127",
-      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 1
-   },
-   {
-      "artist" : "Getty vs. DJ DiA BGA:わっふゑ vs. でこちんハンマー / OBJ:七海千秋",
-      "comment" : "連皿と発狂、ラス殺し",
-      "level" : "0",
-      "md5" : "61b121bbd27b499ae05f72da6cf14a0b",
-      "proposer" : "MarySue",
-      "proposerLr2id" : 147889,
-      "sha256" : "24bcf531a91eddb2414a53666dbc8ff90ace930b454ea36a94344744a95da80f",
-      "submission" : 1085,
-      "title" : "Grayed Out -Antifront- [Despair]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=561&event=110",
-      "url_diff" : "https://www.dropbox.com/s/dpexlpfilbqmz5d/_spnanami1.bml?dl=0"
-   },
-   {
-      "artist" : "ZUN remixed by LeaF Movie:Optie Obj:И",
-      "level" : "7",
-      "md5" : "627b874e565a3c897858301851544a58",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "bc90ad5ffb3884efde40b3c757d557e22d4279c6cc7504ca056f67a5ff4282b0",
-      "submission" : 978,
-      "title" : "Wizdomiot [XXX]",
-      "url" : "http://leafbms.web.fc2.com/song.html",
-      "url_diff" : "http://bms.parksulab.xyz",
-      "voteNeutral" : 0,
-      "voteNo" : 1,
-      "votePercent" : 66.6666666666667,
-      "voteYes" : 2
    },
    {
       "artist" : "TAK / obj:Monsta",
@@ -183,23 +94,6 @@
       "url_diff" : "http://1drv.ms/1ImYtGZ"
    },
    {
-      "artist" : "DOMINATOR VS SHREDDER obj:七海",
-      "comment" : "It's the power of Christ that compels you!",
-      "level" : "3",
-      "md5" : "ba0a6178b2d9d621a216bc544081a8b2",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "26570adebf308d8bf1f70dde1382384e84db8934e58f407162e78e6f25d71012",
-      "submission" : 1066,
-      "title" : "EXORCIST -Execution-",
-      "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/23/",
-      "url_diff" : "https://www.dropbox.com/s/8rpuf2tlfmploxe/exorcist_nanami.zip?dl=1",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : "100.00",
-      "voteYes" : 4
-   },
-   {
       "artist" : "Naukorin obj.Mallow♪",
       "comment" : "ガチ押し、徐々に難しくなる",
       "level" : "1",
@@ -213,6 +107,19 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/"
    },
    {
+      "artist" : "ノクティス・江口・チェラム Obj:И",
+      "comment" : "1?",
+      "level" : "1",
+      "md5" : "c4881e70dfc2f65aca4e07d813425e4d",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "c9156c8b2e87f2c4437da736882b7204c8f68f07c4c71036fd4d35adcc3f5505",
+      "submission" : 1101,
+      "title" : "ヒメタイプ [Excelsior_Fix]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=96",
+      "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
       "artist" : "RedMuffleR",
       "comment" : "Die Guten und Die Bosen (Hard End)",
       "level" : "3",
@@ -224,22 +131,6 @@
       "title" : "Geister [3155]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=328&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01302"
-   },
-   {
-      "artist" : "wa. remixed celas / obj:BAECON BGA:TOHRU MiTSUHASHi",
-      "level" : "3",
-      "md5" : "cd04e5f97fff7b0fc1d3f3129c5c3b92",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "15626b51aff90254107d6f04795ba20e5eda780eec83f7238dbac6038b996f11",
-      "submission" : 693,
-      "title" : "銀の風邪",
-      "url" : "http://mok2lnbms.6.ql.bz/nijihaifu.html",
-      "url_diff" : "http://akred.web.fc2.com/baecon/_silver_wind_kaze.bme",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 5
    },
    {
       "artist" : "SEPHID obj:Omino",
@@ -266,6 +157,19 @@
       "title" : "CODE-F -soar to the Frontier- [frontier]",
       "url" : "http://flowermaster.web.fc2.com/iwatabms/index.html",
       "url_diff" : ""
+   },
+   {
+      "artist" : "srask obj: qtp13",
+      "comment" : "32分ズレあり",
+      "level" : "3",
+      "md5" : "e1bd1d999a8d1ff5df27cc8ed60e840a",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "78b8934620463f41a6ddceddb268fe559c4066f9ef08dc7ec3407bd8e3ac263e",
+      "submission" : 1100,
+      "title" : "αMe:TRiC -RhYMeTRiX-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=173&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
    },
    {
       "artist" : "イズミケイ BGA : BKANOTHER / OBJ : И",

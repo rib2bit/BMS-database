@@ -569,7 +569,7 @@
    {
       "artist" : "kumorin obj:kuro",
       "comment" : "piano ambient",
-      "level" : "3",
+      "level" : "4",
       "md5" : "0341742ec4130a90f337158b10619c4c",
       "title" : "wadi [sub another]"
    },
@@ -1258,6 +1258,13 @@
       "level" : "5",
       "md5" : "06c16f18da498a526053f843270d5c0a",
       "title" : "Elvia [ANOTHER]"
+   },
+   {
+      "artist" : "阿久比ほたる vs 東浦未来 /obj:ue",
+      "comment" : "Piano Rock",
+      "level" : "2",
+      "md5" : "06cbd0de3a90da1bb5a24b3197880154",
+      "title" : "オリオンの歌 [DP Another]"
    },
    {
       "artist" : "Toby Fox//arr.Is-m BGA:Y.A.B.tutidama",
@@ -5264,6 +5271,13 @@
       "title" : "イーブイ"
    },
    {
+      "artist" : "痛男次郎 / obj:MANIAQ",
+      "comment" : "英國硬核",
+      "level" : "★9",
+      "md5" : "1e4b2e3a6305f27b1ac0c75e753a6dd7",
+      "title" : "自強號 -DUAL TRAIN-"
+   },
+   {
       "artist" : "NIKITA / misokabocha / obj:けろちゃんの臀部とゆっちゃんの尻尾 *R.MIRROR",
       "comment" : "SYMPHONIC BREAK BEATS",
       "level" : "9",
@@ -7530,6 +7544,13 @@
       "level" : "8",
       "md5" : "2bcc0c8997d68732860d1360f96280a1",
       "title" : "Quad Queens [SP to DP]"
+   },
+   {
+      "artist" : "Lipschitz",
+      "comment" : "Continuous",
+      "level" : "★8",
+      "md5" : "2bd293156f7d66d12307903ca4a0c4e9",
+      "title" : "exists Uniquely [DP_GOD]"
    },
    {
       "artist" : "姉ヶ崎 寧々 / obj:綾 BGA : photonskyto",
@@ -15099,6 +15120,13 @@
       "title" : "Ocean Memory [Double SPARK]"
    },
    {
+      "artist" : "G.G-G☆ / obj.m *FLIP",
+      "comment" : "FINAL ATTACK",
+      "level" : "★2",
+      "md5" : "58d84efd157d93b6b58752d9c41f761d",
+      "title" : "LEthAl wEApOn (FANTAZY)"
+   },
+   {
       "artist" : "Yosk! *FLIP",
       "comment" : "TRIBAL TECHNO",
       "level" : "9",
@@ -16233,6 +16261,13 @@
       "title" : "衛星ミカボシ [DPBLACKANOTHER]"
    },
    {
+      "artist" : "kurena Rustin  *SUD+",
+      "comment" : "Ancient Concerto",
+      "level" : "★4",
+      "md5" : "5fc023b42184828776908c208ba318f2",
+      "title" : "ピアノ狂騒曲第零番「?姫」"
+   },
+   {
       "artist" : "琥珀●た / obj:whenya",
       "comment" : "HardCorePorno",
       "level" : "★5",
@@ -16770,6 +16805,13 @@
       "level" : "8",
       "md5" : "62b9ba93d3e5de208ed9bb5c90c95f10",
       "title" : "Requiem -Dies irae-"
+   },
+   {
+      "artist" : "be5moti / うまるつふり *FLIP",
+      "comment" : "betrayer",
+      "level" : "★5",
+      "md5" : "62baa2f90692315abcdce623ae69298e",
+      "title" : "Trahison [EXPERT PREMIUM]"
    },
    {
       "artist" : "5argon",
@@ -19180,6 +19222,13 @@
       "title" : "皿投げプリンセス"
    },
    {
+      "artist" : "P4koo",
+      "comment" : "piano climax",
+      "level" : "★10",
+      "md5" : "70bdc5e1281acb02cd4ba5bdf48d4e9b",
+      "title" : "炎花 - flameflower - [14_UNDERGROUND]"
+   },
+   {
       "artist" : "daisan (obj:k) *SUD+",
       "comment" : "IDM",
       "level" : "4",
@@ -20319,6 +20368,13 @@
       "level" : "★15",
       "md5" : "769ceeec57cf6cb098e6110d1d6edbca",
       "title" : "アズール リミックス <DP JUATHER>"
+   },
+   {
+      "artist" : "sun3+Mik obj:k *FLIP L.MIR or L.MIR or FLIP R.MIR",
+      "comment" : "FREEFORM",
+      "level" : "4",
+      "md5" : "76a090cb16f3667b3cf825c18f5ce21f",
+      "title" : "うどんげ⇒ [DP]"
    },
    {
       "artist" : "光吉猛修の兄 *正規 or FLIP LR.MIRROR",
@@ -22092,6 +22148,13 @@
       "title" : "Fiore Tempesta (DPINSANE)"
    },
    {
+      "artist" : "daiji+lobsak remix aki / obj:sagoo",
+      "comment" : "tance pop",
+      "level" : "8",
+      "md5" : "80b076d2df6f6001ebc81abc5fb49597",
+      "title" : "Flowers(802 edit) [DP-sagINSANE]"
+   },
+   {
       "artist" : "O-SE OBJ:KLOC",
       "comment" : "HAPPY O-SE CORE",
       "level" : "★4",
@@ -23560,6 +23623,13 @@
       "level" : "10",
       "md5" : "88590389172727636dc4fc13f92284cf",
       "title" : "OVERDOSER (remix)"
+   },
+   {
+      "artist" : "ZUN Remixed by NoKANY obj MN3",
+      "comment" : "CRIMSON CORE",
+      "level" : "★7",
+      "md5" : "8863c6b9d957e663cd048290280953b0",
+      "title" : "禁忌と緋色幻想 -The Primary Plasm- [DP_Extra]"
    },
    {
       "artist" : "Kate Lesing feat. RANDO: / objeCraft respect for RANDO: *L.MIRROR",
@@ -25272,7 +25342,7 @@
    {
       "artist" : "nora2r 出前 / obj:みすげ～",
       "comment" : "SPEED RAVE / HARDCORE",
-      "level" : "8",
+      "level" : "6",
       "md5" : "9177623053a189fc1ac90956fa198b71",
       "title" : "GO BACK 2 YOUR RAVE [MG]"
    },
@@ -26269,6 +26339,13 @@
       "level" : "6",
       "md5" : "972b10226fe6fb1cb39028570a1f34c1",
       "title" : "Electric Emotion [DP Extension Energy]"
+   },
+   {
+      "artist" : "ねこみりん feat.みゆ Illust:わんびぃ obj. KENIN*",
+      "comment" : "E.G.S.",
+      "level" : "★1",
+      "md5" : "973d1b3e037d7c268a484df4d2d4137b",
+      "title" : "先天性エゴサ依存症候群 [草]"
    },
    {
       "artist" : "Kyuzo Sameura/obj.vectorla",
@@ -27349,6 +27426,13 @@
       "title" : "図書室のエルザ [定時下校]"
    },
    {
+      "artist" : "-45",
+      "comment" : "",
+      "level" : "★16",
+      "md5" : "9d7ce4dbec57fec426f0b2914124b037",
+      "title" : "EXILE[DOUBLE EXPERT]"
+   },
+   {
       "artist" : "siromaru / Mentalstock obj:nBel",
       "comment" : "schranz",
       "level" : "★5",
@@ -27713,7 +27797,7 @@
       "title" : "Auston -14GB-"
    },
    {
-      "artist" : "anubasu-anubasu / obj: JGh meets Pumpkin_Man BGA by 出前  *正規 or LR.MIR",
+      "artist" : "anubasu-anubasu / obj: JGh meets Pumpkin_Man BGA by 出前  *FLIP or LR.MIR",
       "comment" : "RAVE / HARD DANCE",
       "level" : "★6",
       "md5" : "9fbc494da8f271e564335e44e9c344ca",
@@ -32256,6 +32340,13 @@
       "title" : "Masquerade Wars"
    },
    {
+      "artist" : "ルゼ obj.m",
+      "comment" : "パンドラボックス[MANITHER]",
+      "level" : "★6",
+      "md5" : "b8ecf3914ca403f796c9f4d819383520",
+      "title" : "ZEUS"
+   },
+   {
       "artist" : "暁美ほむら/obj:epics-",
       "comment" : "RENAISSANCE",
       "level" : "7",
@@ -34608,6 +34699,13 @@
       "title" : "「韓国」について"
    },
    {
+      "artist" : "Team:SASAKURATION  /  Goten obj:ucc *R.MIRROR",
+      "comment" : "fgWood",
+      "level" : "3",
+      "md5" : "c656fcb3e011b4851cca2ef24e9a13ec",
+      "title" : "aballava(?) [H14]"
+   },
+   {
       "artist" : "紅蓮月影 / OREN-G",
       "comment" : "ジャッジメント",
       "level" : "1",
@@ -35215,6 +35313,13 @@
       "level" : "5",
       "md5" : "c9b28e157b6a38a8559ed6dd25fc5f7a",
       "title" : "オトゲラヴ！ [DPLOVE]"
+   },
+   {
+      "artist" : "LeaF Movie:To7 obj:M  *MAXBPM",
+      "comment" : "EINSAMKEIT",
+      "level" : "★5",
+      "md5" : "c9bb8968a958bdc225b282df10d1334e",
+      "title" : "Doppelganger [DP_HELL]"
    },
    {
       "artist" : "maxXx65535 / cyclia *FLIP LR.MIRROR",
@@ -35901,6 +36006,13 @@
       "level" : "★1",
       "md5" : "cd7898da11d3e6dc63519cf7dcbc8c8e",
       "title" : "theme of Maia [AFOTHER]"
+   },
+   {
+      "artist" : "ETIA. vs MM Sequence  obj.m",
+      "comment" : "ROTTERDAM TECHNO",
+      "level" : "?",
+      "md5" : "cd7f3f99af569f3b827a36f1a34beee3",
+      "title" : "DISCHARGE RUSH[ΩMAX]"
    },
    {
       "artist" : "次元大介 / 直之＆利之 / obj:hamburger *FLIP L.MIRROR",
@@ -36633,7 +36745,7 @@
    {
       "artist" : "Power Of Nature Arrange:Yosk!",
       "comment" : "ムラクモ－８ｂｉｔミックス",
-      "level" : "★7",
+      "level" : "★6",
       "md5" : "d2859dd2f075362209e9dfac7c54511e",
       "title" : "少年は空を辿る -8bit mix- 【DP14†leggendaria】"
    },
@@ -37744,6 +37856,13 @@
       "title" : "幽霊楽団(Prismriver's Dancefloor Style) [14keys Another]"
    },
    {
+      "artist" : "ねこみりん feat.みゆ Illust:わんびぃ obj. KENIN*",
+      "comment" : "E.G.S.",
+      "level" : "9",
+      "md5" : "d9e5d24be070ca1054b54da68e48a1f1",
+      "title" : "先天性エゴサ依存症候群 [ダントー]"
+   },
+   {
       "artist" : "篠螺悠那 feat. 鯛の小骨obj.係長 *R.RANDOM",
       "comment" : "Euro Rave",
       "level" : "6",
@@ -38120,6 +38239,13 @@
       "level" : "3",
       "md5" : "dbca6ed7638d046c799ae71b4c97f964",
       "title" : "Deep blue"
+   },
+   {
+      "artist" : "spine obj.quad",
+      "comment" : "fractal beats",
+      "level" : "7",
+      "md5" : "dbcc5930039af6c9f2baf3f06a2aa810",
+      "title" : "drumfxxk [DRUM & BASS]"
    },
    {
       "artist" : "金ラメタキシード / obj:ROCO *R.MIRROR",
@@ -39396,6 +39522,13 @@
       "title" : "Lyzoande for sacrifice [DP EXTRA]"
    },
    {
+      "artist" : "裏 吉 川 / obj: M",
+      "comment" : "t r a n c e",
+      "level" : "★10",
+      "md5" : "e42438263cbc91f2d6a539a3a7e7c2cc",
+      "title" : "A c i - L - D P G O D"
+   },
+   {
       "artist" : "mattaku",
       "comment" : "game music",
       "level" : "4",
@@ -40161,7 +40294,7 @@
    {
       "artist" : "kumorin obj:kuro",
       "comment" : "piano ambient",
-      "level" : "4",
+      "level" : "6",
       "md5" : "e8f0e25f5edd990010ee1a3cd670d4b8",
       "title" : "wadi [sub black another]"
    },
@@ -43685,6 +43818,13 @@
       "level" : "★3",
       "md5" : "fcfece1727a146dc5915274485b9f8ce",
       "title" : "jus†ice [DP Challenge]"
+   },
+   {
+      "artist" : "sun3 / BGA:Johnny / obj.M",
+      "comment" : "HARD TECHNO",
+      "level" : "★8",
+      "md5" : "fd001814444a7dcdf0b1320507d2c1f4",
+      "title" : "Messier 333 (Double_EX)"
    },
    {
       "artist" : "45Is-m obj:ado BGA:-45",

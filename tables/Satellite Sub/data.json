@@ -2883,6 +2883,19 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02612"
    },
    {
+      "artist" : "Yu^ta obj.quad",
+      "comment" : "ディレイ",
+      "level" : "11",
+      "md5" : "25eaf10ef0085443932317c03a65f333",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "6b0d1951027358e77bffd816dcd77ffd83cdddd6dee29ba5975f5a46eea25c8d",
+      "submission" : 1350,
+      "title" : "Sunny [ディレイ&物量]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=201&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=2779"
+   },
+   {
       "artist" : "うまるつふり obj.sitoras",
       "comment" : "高速総合力",
       "level" : "11",
@@ -4167,19 +4180,6 @@
       "title" : "煉情ミスティフィリア [Purgatory]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=127",
       "url_diff" : ""
-   },
-   {
-      "artist" : "Hate / obj:C4 BGA : S.P.S.B.",
-      "comment" : "ずれガチ押し ちなみにMAX-FIXが利きます",
-      "level" : "12",
-      "md5" : "3770428dc92aec7ba658a804af2344ec",
-      "proposer" : "C4",
-      "proposerLr2id" : 120385,
-      "sha256" : "843ead769266204f6614ee4146ff77c33f8420e21325b3a46e7b2b29330d5675",
-      "submission" : 912,
-      "title" : "duty [act out of \"duty\"]",
-      "url" : "https://mega.nz/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02787"
    },
    {
       "artist" : "影虎。",
@@ -7013,6 +7013,19 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02246"
    },
    {
+      "artist" : "litmus* as Ester movie:なおや / obj:SUZUKAZEΛ vs litmus*",
+      "comment" : "BOFXV",
+      "level" : "4",
+      "md5" : "5a9db579baf2e9cf23a1d7d773ca7487",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "906192e4e64d13f9fd9334e0d95960fde7d3347b97dd085bc397bb5b86d7db8d",
+      "submission" : 1353,
+      "title" : "Krave [Insane]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=76&event=127",
+      "url_diff" : ""
+   },
+   {
       "artist" : "wa. vs ETIA. / obj:夢瑠 deadblue238",
       "level" : "12",
       "md5" : "5aa0517a13933707497024a8bb54100c",
@@ -9776,7 +9789,7 @@
    {
       "artist" : "REX",
       "comment" : "同梱譜面",
-      "level" : "1",
+      "level" : "2",
       "md5" : "7f85bc9dae50ff37aa3f51a89c8e42f2",
       "proposer" : "OXYGEN",
       "proposerLr2id" : 133294,
@@ -10317,6 +10330,19 @@
       "title" : "Lonely Cat [雨]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=48&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04140"
+   },
+   {
+      "artist" : "SP-#",
+      "comment" : "0~1",
+      "level" : "1",
+      "md5" : "872beeb6216d589a6d599072197c9bfb",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "782b0138d3d43c079e4abde61adf9293f87a1926f87c3cfa5c61886de020e9b1",
+      "submission" : 1349,
+      "title" : "mental blood [7 keys another]",
+      "url" : "https://www.dropbox.com/s/yc50as7hyxhgpth/mental%20blood.zip?dl=1",
+      "url_diff" : ""
    },
    {
       "artist" : "LiTaNia feat. RYL notes: MineC24",
@@ -12412,6 +12438,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "黒皇帝 Movie: Ratif Obj: tamate",
+      "comment" : "地力",
+      "level" : "9",
+      "md5" : "a752d3bf6f9c9e550efa865dcb08f7b2",
+      "proposer" : "Mallow♪",
+      "proposerLr2id" : 154796,
+      "sha256" : "c07a070c1471fde46ac5738551b12a6c977e4374aaee9fc87496e5eb4719a4c3",
+      "submission" : 1352,
+      "title" : "Lotus Life [Sugar and Spicy]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=129",
+      "url_diff" : "https://drive.google.com/open?id=1GsksADDZavj2b1ZmhF91-SNbjsycNd2V"
+   },
+   {
       "artist" : "RYO/obj:980円の人+",
       "level" : "7",
       "md5" : "a77e4f26d901983f7ec9075e25cd2b0d",
@@ -13531,6 +13570,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Qga obj.fhyu",
+      "comment" : "BPM120の8分同時押し(SPA基準ズレなし)",
+      "level" : "0",
+      "md5" : "b2b580c550f35d4e02db6fdb9e6103a7",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "babc4beb90fbec3fabcc5c99d1ffed04dd86d8763ac92800e981315069efa374",
+      "submission" : 1347,
+      "title" : "Drizzle -Parking Area-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=153&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
    },
    {
       "artist" : "daisan",
@@ -16861,6 +16913,19 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03880"
    },
    {
+      "artist" : "Nakaiankow / obj:C4 Original:ZUN - 神々が恋した幻想郷",
+      "comment" : "2連打多め",
+      "level" : "8",
+      "md5" : "d9d7f3111a82dcb3ab638ca974aaeb7d",
+      "proposer" : "Mallow♪",
+      "proposerLr2id" : 154796,
+      "sha256" : "62b273c0530358781ca2c949a9750da7a54b1d5c25f5cb4da4e83b60486fbc7b",
+      "submission" : 1351,
+      "title" : "T.G.T.G.L. [fell in love]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=129",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/"
+   },
+   {
       "artist" : "witch's slave",
       "comment" : "乱打",
       "level" : "6",
@@ -16938,6 +17003,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Nami Haven",
+      "comment" : "(SPA) BPM137 乱打、トリル、32分",
+      "level" : "0",
+      "md5" : "db91b19c140138f278f0bd231d8a81d0",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "816a0197f389bb81903706dec2a7991d8ef27a3bff1c49d201e0d53e8faf803a",
+      "submission" : 1348,
+      "title" : "Save the Water",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=129",
+      "url_diff" : ""
    },
    {
       "artist" : "A Boy From Around 10'",
@@ -17437,18 +17515,6 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
-   },
-   {
-      "artist" : "sweez & Meine Meinung remixed by roop obj. vi",
-      "level" : "1",
-      "md5" : "e1cb47cf57dbaef03da31901ab58865e",
-      "proposer" : "hd",
-      "proposerLr2id" : 156782,
-      "sha256" : "aea5976161ecdc2d94015b3d546a2d0846c051461a377799d645f3c7b0f86231",
-      "submission" : 1308,
-      "title" : "Colorful (roop remix) [MANIAC7]",
-      "url" : "http://str3.org/",
-      "url_diff" : "https://drive.google.com/file/d/1nnLiqRVQexQRFg4mwG-8k-ARpKdmARnN/view?usp=sharing"
    },
    {
       "artist" : "hugepulse BGA:Micelle",
@@ -19437,7 +19503,7 @@
    {
       "artist" : "Mastermind(xi+nora2r) iimo / Notes:薄杏",
       "comment" : "加速無し",
-      "level" : "3",
+      "level" : "4",
       "md5" : "fcdf30a51d164f935445af5ea3c0f6fb",
       "proposer" : "Thaw",
       "proposerLr2id" : 145739,
