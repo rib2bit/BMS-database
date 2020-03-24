@@ -3293,22 +3293,6 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html"
    },
    {
-      "artist" : "GYAON Obj.Triforce",
-      "comment" : "NO FUTURE",
-      "level" : "2",
-      "md5" : "38136e3b7a51f367159001153af8e28d",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "b2c0d72c0eef6af5837c5a8df9fe6c7422929485965cddfeb862e5323acfff7e",
-      "submission" : 678,
-      "title" : "Last Battle-T260G- [EMERESS]",
-      "url" : "https://skydrive.live.com/?mkt=ja-JP#cid=EC550A4504DCD741&id=EC550A4504DCD741%21224",
-      "url_diff" : "https://www.dropbox.com/s/ooo7gcm7etf10q1/T260G_7triforce.bme?dl=0",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
       "artist" : "onoken / obj. hplaner",
       "level" : "3",
       "md5" : "38268274d560fbd4d421fdf9eaeea39d",
@@ -11076,6 +11060,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "ikaruga_nex obj:七海千秋",
+      "comment" : "1? st0のCraZyよりラス殺しが強かったです。",
+      "level" : "1",
+      "md5" : "b0ef9edc51999158d939bc8e607d3fd3",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "b3fda70c6b9bdc01b859505f23ffe019c5364fc008d7b082e7e6759a7cc1d382",
+      "submission" : 1102,
+      "title" : "ReviXy -DespAir",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=179&event=123",
+      "url_diff" : "https://www.dropbox.com/s/x9wkea5fja06z8i/ReviXy_nanami01.bms?dl=0"
+   },
+   {
       "artist" : "er",
       "comment" : "多要素(同時 微連打 ディレイ 皿 階段 )",
       "level" : "1",
@@ -12679,22 +12676,6 @@
       "title" : "Lambda Driver [Sorry.]",
       "url" : "http://3t1a.net/bms/lambda_driver_ogg.zip",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00952",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
-      "artist" : "近藤浩治　obj:華浩治 BMS:krg",
-      "comment" : "認識力系ガチ押し・連打っぽいディレイ・要体力",
-      "level" : "7",
-      "md5" : "cb70ab2985cc4bd3b06e71128376463e",
-      "proposer" : "otoshi.b",
-      "proposerLr2id" : 87474,
-      "sha256" : "9bfc2f34d25afd5174693caa9a97786694c6a742db3a7e027b0b0a763035401b",
-      "submission" : 472,
-      "title" : "ヨッシーアイランド 「クッパ」 [筋肉]",
-      "url" : "http://iroirokiba.web.fc2.com/bms.html",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01908",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0

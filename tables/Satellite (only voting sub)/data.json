@@ -25,6 +25,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Puella Voice : 結崎有理 / Illustration : Violpa",
+      "comment" : "同時押し、瞬間発狂",
+      "level" : "10",
+      "md5" : "23108f44859ef37e013fa9bd4df08b72",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "6dea75339dbef35095ab7254fb15b41d0455b9a0126091a2c23ea77522665be9",
+      "submission" : 1357,
+      "title" : "your wind, my blind [Etude]",
+      "url" : "https://venue.bmssearch.net/bmsshuin2/38",
+      "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
       "artist" : "Yu^ta obj.quad",
       "comment" : "ディレイ",
       "level" : "11",
@@ -155,6 +168,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "ProjectG Obj.Triforce",
+      "comment" : "BPM41で超低速、連打、低TOTAL",
+      "level" : "4",
+      "md5" : "77bfa134a9f03351ea6c98189553238a",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "00b236119b8c5feb7a2526263cdd5705fdf23505c08c9876d243d218685925b7",
+      "submission" : 1356,
+      "title" : "Theme [Omen]",
+      "url" : "https://drive.google.com/open?id=1nyoPVH3KPgCQYWABFG9SGjXHgOxb01y1",
+      "url_diff" : "https://triforce509.web.fc2.com/"
+   },
+   {
       "artist" : "ポロロッカ / obj: Lennon",
       "comment" : "後半に微縦連",
       "level" : "7",
@@ -205,6 +231,19 @@
       "title" : "mental blood [7 keys another]",
       "url" : "https://www.dropbox.com/s/yc50as7hyxhgpth/mental%20blood.zip?dl=1",
       "url_diff" : ""
+   },
+   {
+      "artist" : "SP-# obj:七海",
+      "comment" : " 角膜, 乱打, 同時押し",
+      "level" : "2",
+      "md5" : "88cf855ed9bb65ae434b60f6839962c4",
+      "proposer" : "dstorv",
+      "proposerLr2id" : 145158,
+      "sha256" : "7021a46da2a8ec9be98c3b5d4e0800705c1ab20a2346c1ceb77e949797e93269",
+      "submission" : 1354,
+      "title" : "corneal -Hope-",
+      "url" : "https://mega.nz/#F!FNFDCQaT!wfv-iI4UuSIaGpP0oFZdtQ",
+      "url_diff" : "https://www.dropbox.com/s/t3u2g9hcsiudcoa/corneal_hope.zip?dl=1"
    },
    {
       "artist" : "Superbia",
@@ -309,6 +348,18 @@
       "title" : "comic magic [Farce]",
       "url" : "http://www.is-m.jp/bms/song/em32.html",
       "url_diff" : "https://www.dropbox.com/s/d1fpgvu0658n3m2/_32_14_MarySue_Farce.bme?dl=0"
+   },
+   {
+      "artist" : "Εσοπτρον/差分 赤い人",
+      "level" : "5",
+      "md5" : "eadaff5b732c0b8dd6ecc7fa05803c6e",
+      "proposer" : "dstorv",
+      "proposerLr2id" : 145158,
+      "sha256" : "eeff02578b41cd3fc050a4493bd2d690dd92f526f945e85a5e92be8b9353b5ef",
+      "submission" : 1355,
+      "title" : "Απομνημονευμαι [HARDEST]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/%ce%91%cf%80%ce%bf%ce%bc%ce%bd%ce%b7%ce%bc%ce%bf%ce%bd%ce%b5%cf%85%ce%bc%ce%b1%ce%b9%20%28by%20%ce%95%cf%83%ce%bf%cf%80%cf%84%cf%81%ce%bf%ce%bd%29.rar",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/Apomnhmoneumai_HARDEST.bme"
    },
    {
       "artist" : "Puella Voice : 結崎有理 / Illustration : Violpa / obj:SUZUKAZEΛ",
