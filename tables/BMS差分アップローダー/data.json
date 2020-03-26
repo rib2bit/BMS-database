@@ -986,7 +986,7 @@
       "md5" : "02d3ce07e8862a502a8e9a9353039713",
       "org_level" : null,
       "title" : "Armageddon [Doomsday o'clock]",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=129",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04173"
    },
    {
@@ -1811,7 +1811,7 @@
       "md5" : "057c0c53f8cef8aa89d5673f78f8cbc8",
       "org_level" : null,
       "title" : "カリオストロの穿孔 [RODIO]",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=310&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04167"
    },
    {
@@ -60855,6 +60855,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00600"
    },
    {
+      "adddate" : "2020/03/27 03:06",
+      "artist" : "Arctures obj : Mary_Sue",
+      "comment" : "ガチ押し : https://youtu.be/nP-24MRJcKw",
+      "folder" : "2020/03",
+      "genre" : "Progressive Slowstep",
+      "keys" : 7,
+      "level" : "2020/03",
+      "lr2_bmsid" : "284545",
+      "md5" : "c31aca0f936caf9fbb3077edc2d09df5",
+      "org_level" : null,
+      "title" : "mnemogeny (7k another) [dust to dust_ver.1]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/mnemogeny%20%28by%20Arctures%29.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04208"
+   },
+   {
       "adddate" : "2020/03/08 19:45",
       "artist" : "新装姉妹 obj.新装YMD商店",
       "comment" : "",
@@ -75853,6 +75868,21 @@
       "title" : "マツユキソウ [ZOI]",
       "url" : "https://event.yaruki0.net/VSevent/impression/3",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02932"
+   },
+   {
+      "adddate" : "2020/03/26 19:59",
+      "artist" : "silcostones obj:Guanacoite",
+      "comment" : "ガチ押し 若干皿 サンバランド練習",
+      "folder" : "2020/03",
+      "genre" : "BOOT CAMP MUSIC",
+      "keys" : 7,
+      "level" : "2020/03",
+      "lr2_bmsid" : "284539",
+      "md5" : "f3242efa149acd3ccd92a3a79af38c02",
+      "org_level" : null,
+      "title" : "METABOKNIGHT [PIZZA]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=172&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04207"
    },
    {
       "adddate" : "2019/04/15 01:23",

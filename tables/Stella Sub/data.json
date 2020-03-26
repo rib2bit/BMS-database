@@ -13793,6 +13793,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "-45 obj:秘密",
+      "comment" : "1101011000001010111000000110101101101111101111",
+      "level" : "10",
+      "md5" : "dac8faa0a94fdf6152c38727445f2717",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "f92e1d78046683c7e299112d9743d4f8110cde2ed6a9b6583d1079f15e22f208",
+      "submission" : 1106,
+      "title" : "EXILE [1101011000001010111000000110101101101111101111]",
+      "url" : "http://malie.noor.jp/",
+      "url_diff" : "https://obju.web.fc2.com/BOB2015/BOB2015_k_4_2_1.html"
+   },
+   {
       "artist" : "------ obj: qtp13",
       "comment" : "ディレイ 6~7? (ズレはなし)",
       "level" : "6",
@@ -14036,6 +14049,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "腋亦/さ",
+      "comment" : "物量",
+      "level" : "3",
+      "md5" : "dfec343537eba6bfd0d89848c88dfc9c",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "7a3dd5bab0cc92217bdc8f9d85bb7ad73f2327a3e0f271ec14765297ae1bedcc",
+      "submission" : 1105,
+      "title" : "斬 -妖刀虎竹刀-",
+      "url" : "https://onedrive.live.com/?id=60D643BF1F28C41F%21132&cid=60D643BF1F28C41F",
+      "url_diff" : "https://web.archive.org/web/20190101181258/http://sabosabun.tank.jp/"
    },
    {
       "artist" : "DJKurara & 九八式旋回機関銃 & Kyou1110",

@@ -296,7 +296,7 @@
       "url" : "http://pwsl.sakura.ne.jp/?page_id=7",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04029",
       "video1" : "",
-      "video2" : ""
+      "video2" : "h55x9GOviY4"
    },
    {
       "artist" : "Frums",
@@ -470,7 +470,7 @@
    {
       "artist" : "ETIA.",
       "comment" : "演出ソフランと具現化",
-      "level" : "2",
+      "level" : "3",
       "md5" : "20c07f23c94241c0544bedab4a27616c",
       "name_diff" : "京都306",
       "state" : "",
@@ -1132,7 +1132,7 @@
    },
    {
       "artist" : "暮狛",
-      "comment" : "速度制御STOPとラスト、HARDのみクリア可",
+      "comment" : "速度制御STOPとラスト、<b>HARDのみクリア可</b>",
       "level" : "L",
       "md5" : "5092b596f79561f476d68a90e437843e",
       "name_diff" : "同梱",
@@ -1207,19 +1207,6 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01409",
       "video1" : "",
       "video2" : "hoZ25qf3xKA"
-   },
-   {
-      "artist" : "sabamiso",
-      "comment" : "STOPと演出ソフラン",
-      "level" : "0",
-      "md5" : "537e7def7e88516154ebd6e4612dca16",
-      "name_diff" : "同梱",
-      "state" : "",
-      "title" : "Flashbacked four piece of my foolish preconceptions about India (Hyper7)",
-      "url" : "https://dropbox.bms.ms/u/45360077/watasino_h0-mupe-ji.html",
-      "url_diff" : "",
-      "video1" : "",
-      "video2" : ""
    },
    {
       "artist" : "Shinobu Omiya(Sho Fish)",
@@ -3507,7 +3494,7 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=54&event=115",
       "url_diff" : "",
       "video1" : "",
-      "video2" : ""
+      "video2" : "49ZaFXsr054"
    },
    {
       "artist" : "ZUN remixed by LeaF",
@@ -3781,6 +3768,19 @@
       "url_diff" : "",
       "video1" : "",
       "video2" : "fQvIcb3LP5w"
+   },
+   {
+      "artist" : "sabamiso",
+      "comment" : "STOPと演出ソフラン",
+      "level" : "0",
+      "md5" : "f706443aac5e47dd9410f0273dc11e45",
+      "name_diff" : "同梱",
+      "state" : "",
+      "title" : "Flashbacked four piece of my foolish preconceptions about India (Hyper7)",
+      "url" : "https://dropbox.bms.ms/u/45360077/watasino_h0-mupe-ji.html",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
    },
    {
       "artist" : "ROKINA",
