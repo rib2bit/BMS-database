@@ -2233,6 +2233,13 @@
       "title" : "High-Priestess [OVERKILL]"
    },
    {
+      "artist" : "Reemen vs Koipond",
+      "comment" : "DnB",
+      "level" : "★6",
+      "md5" : "0c30080f54e9b1e3fb3c801320859cb5",
+      "title" : "Venice Venture"
+   },
+   {
       "artist" : "Ninja Action Team / （＾＾）",
       "comment" : "Trip お絵かき　（なるべく倍速落としましょう～。DDRでプレイしてはいけません）",
       "level" : "無理",
@@ -2879,7 +2886,7 @@
    {
       "artist" : "System SFM *FLIP LR.RANDOM",
       "comment" : "TRANCE",
-      "level" : "6",
+      "level" : "9",
       "md5" : "0ffe3cead34a1edc31685df91e7e7a29",
       "title" : "affected (ANOTHER14)"
    },
@@ -2910,6 +2917,13 @@
       "level" : "★5",
       "md5" : "100cca8bdb1f0a5fa4ca475ed3c19b55",
       "title" : "Phantom Whisper [D97%]"
+   },
+   {
+      "artist" : "ZUN Remixed by NoKANY",
+      "comment" : "CRIMSON CORE",
+      "level" : "★3",
+      "md5" : "1011b97b3522bf3c09f35ea88adab5fb",
+      "title" : "禁忌と緋色幻想 -The Primary Plasm- [DP ANOTHER]"
    },
    {
       "artist" : "Junk obj:Starfish",
@@ -5488,6 +5502,13 @@
       "title" : "electric butterfly [14papi*yon]"
    },
    {
+      "artist" : "er / obj:MANIAQ",
+      "comment" : "HI SPEED-TRANCE POP",
+      "level" : "★6",
+      "md5" : "1fedaca172a05b3497d634401b277c94",
+      "title" : "ハイパーミラクルシューティングスター [14_FESTA]"
+   },
+   {
       "artist" : "Kuwagata(obj:ka2o) *L.MIRROR",
       "comment" : "Melodic Trance",
       "level" : "2",
@@ -6680,7 +6701,7 @@
    {
       "artist" : "Cres *LR.RANDOM",
       "comment" : "ReQuiEm tRanCe",
-      "level" : "8",
+      "level" : "6",
       "md5" : "26b3b73e2c6286b318ebd7a87b75ba0e",
       "title" : "End Time [hyper]"
    },
@@ -7957,6 +7978,13 @@
       "level" : "無理",
       "md5" : "2e35d4d12b569951bfa480259536017a",
       "title" : "OMEGA IX -impossible-"
+   },
+   {
+      "artist" : "NiGHTS. / obj.M",
+      "comment" : "Trance",
+      "level" : "★7",
+      "md5" : "2e4386f5f8178a73629f3d0434e999e1",
+      "title" : "Zero Dimension [14_STRIKER]"
    },
    {
       "artist" : "Giude",
@@ -10355,7 +10383,7 @@
    {
       "artist" : "Ninja Action Team obj:肴",
       "comment" : "Bigbeat",
-      "level" : "★2",
+      "level" : "★1",
       "md5" : "3cd7e5f70cc06553f94510bf9556affe",
       "title" : "Wasabi [DP生山葵]"
    },
@@ -10628,7 +10656,7 @@
    {
       "artist" : "q/stol / obj:二代目IIDX16 *FLIP LR.RANDOM",
       "comment" : "ELECTRO FUNK",
-      "level" : "7",
+      "level" : "6",
       "md5" : "3eb02eb1762dfa2cf6f2689ba15977fe",
       "title" : "GIN TONIC FLAVOR [14KEYS_INTOXICATED]"
    },
@@ -15134,6 +15162,13 @@
       "title" : "break troll"
    },
    {
+      "artist" : "paraoka / Limite feat. 制限?",
+      "comment" : "progressive",
+      "level" : "★3",
+      "md5" : "59084302deb34b9bd015a1abe02d6b23",
+      "title" : "L9"
+   },
+   {
       "artist" : "beatMARIO / tomsfir (DPobject by tsk)",
       "comment" : "HyperEuroBeat",
       "level" : "★4",
@@ -16380,6 +16415,13 @@
       "title" : "Remilialized... [うー☆]"
    },
    {
+      "artist" : "ミク obj:msl",
+      "comment" : "ミクトランス[DP ANOTHER]",
+      "level" : "2",
+      "md5" : "6060c3410ef743f30c948f6db640fccd",
+      "title" : "flow"
+   },
+   {
       "artist" : "Sound Souler mov : Tagtraume / obj : tonbi",
       "comment" : "Artcore",
       "level" : "★5",
@@ -16483,6 +16525,13 @@
       "level" : "5",
       "md5" : "60e936acb1d1f2965dd8e7f3688c07a2",
       "title" : "Quark [Another]"
+   },
+   {
+      "artist" : "naotyu- feat. miyu",
+      "comment" : "Soul",
+      "level" : "5",
+      "md5" : "60ef83355b8d54082fd4393498a62c2a",
+      "title" : "コオリノバラ [radio edit] -14A-"
    },
    {
       "artist" : "白雛 obj:ucc",
@@ -17164,6 +17213,13 @@
       "title" : "異説彼岸花 第一 -原初のアマリリス- [LN14]"
    },
    {
+      "artist" : "ルゼ ☆ えみゅう。 ☆ 石王マサト",
+      "comment" : "CONDUCTOR",
+      "level" : "★7",
+      "md5" : "6498770d44c286fc170b2d6afdb4941d",
+      "title" : "運命論 [宿命]"
+   },
+   {
       "artist" : "NAGI Rustin  *FLIP",
       "comment" : "euro beat",
       "level" : "★5",
@@ -17278,7 +17334,7 @@
    {
       "artist" : "竜。 feat.結月ゆかり / obj:sagoo",
       "comment" : "Kawaii J-Pop",
-      "level" : "6",
+      "level" : "7",
       "md5" : "656f84cbf4c6d02c2cff16cb5da8bdba",
       "title" : "Re:Sound Sing Step [DP-sagINSANE]"
    },
@@ -17645,6 +17701,13 @@
       "level" : "10",
       "md5" : "675d76e05ad11f59c1de527188993a02",
       "title" : "ま/る/た(中6左手)280"
+   },
+   {
+      "artist" : "やっす～/竹ボーキ",
+      "comment" : "Instrumental Rock",
+      "level" : "★2",
+      "md5" : "67690c7baae32eb58a1e0197efc96eb8",
+      "title" : "Over the Sky [14_DURANDAL]"
    },
    {
       "artist" : "Magic Mash Man / New Genuine Magicial Girl Notes: pico*",
@@ -18991,6 +19054,13 @@
       "title" : "ULTRA PARTY PEOPLE!!　 [DPA]"
    },
    {
+      "artist" : "xelloscope / Limite *FLIP LR.MIRROR",
+      "comment" : "11",
+      "level" : "★5",
+      "md5" : "6f9b11e0ff8d347672bbd8e715f04ccd",
+      "title" : "Apollo [1970.04.11]"
+   },
+   {
       "artist" : "nmk / Obj:ゆ～兎",
       "comment" : "GABBA&HARDCORE/HIGH-SPEED DUBBEAT STYLE",
       "level" : "5",
@@ -19252,7 +19322,7 @@
    {
       "artist" : "celas respect for W.A.Mozart (obj:9X) *FLIP",
       "comment" : "hard nrg",
-      "level" : "8",
+      "level" : "9",
       "md5" : "70d5ace345aacefff2788ce79a74251e",
       "title" : "トルコ行進曲"
    },
@@ -19266,7 +19336,7 @@
    {
       "artist" : "mist-rose obj:noix *FLIP",
       "comment" : "センチュリー",
-      "level" : "6",
+      "level" : "4",
       "md5" : "70e440cec52720dab43d8cac928244c1",
       "title" : "flowers -14GB-"
    },
@@ -20011,6 +20081,13 @@
       "level" : "9",
       "md5" : "74e440874b9c1db966258bccf71ef8b8",
       "title" : "Angelic layer (DP)"
+   },
+   {
+      "artist" : "Festa 鑓田(alpha complex) / selene.",
+      "comment" : "LIFE STREAM",
+      "level" : "9",
+      "md5" : "74e6eddd74de162d7bc0ebab4af59797",
+      "title" : "Lemuria -DP Eclipse-"
    },
    {
       "artist" : "11.UK Hardcore Team",
@@ -20895,6 +20972,20 @@
       "title" : "Offertorium quia DaDass (DX)"
    },
    {
+      "artist" : "Festa 鑓田(alpha complex) / selene.",
+      "comment" : "LIFE STREAM",
+      "level" : "3",
+      "md5" : "79b5782cba91d9eec1bf79caac6d6fb3",
+      "title" : "Lemuria -DP Luna-"
+   },
+   {
+      "artist" : "Syatten / obj:sagoo",
+      "comment" : "Instrumental",
+      "level" : "6",
+      "md5" : "79bb5e8bcfa3e13903ffb20978a6acc1",
+      "title" : "The sinking world [DP-sagANOTHER]"
+   },
+   {
       "artist" : "EXAM.S a.k.a. 287 obj.@cyas",
       "comment" : "AniRock",
       "level" : "7",
@@ -21401,7 +21492,7 @@
    {
       "artist" : "Gari obj : j.pami",
       "comment" : "Electro",
-      "level" : "1",
+      "level" : "4",
       "md5" : "7c2daff3817c9df249fbfd2cb8da5ed4",
       "title" : "DanceNow"
    },
@@ -25314,7 +25405,7 @@
    {
       "artist" : "Hate vs Brilliance obj:ucc",
       "comment" : "FREEFORM",
-      "level" : "8",
+      "level" : "★1",
       "md5" : "912af66ef109a74386134549ae850583",
       "title" : "Quark [EX14]"
    },
@@ -25807,6 +25898,13 @@
       "level" : "2",
       "md5" : "93c0acfa401f79527a8613935c6ccbf2",
       "title" : "adolescent person [LN14]"
+   },
+   {
+      "artist" : "ridis(Rai)",
+      "comment" : "Ambient",
+      "level" : "2",
+      "md5" : "93cd39fb2812734e640e3b9af174dad9",
+      "title" : "searoad tracks (14KEYS)"
    },
    {
       "artist" : "バリネコ *L.MIRROR",
@@ -26423,6 +26521,13 @@
       "level" : "7",
       "md5" : "97a2ef62f32eb9abbca66c169b2d6f75",
       "title" : "X Another14key"
+   },
+   {
+      "artist" : "スーパーサイキッカー 藤井 -FUJY- / obj.M",
+      "comment" : "DARK FULL ON",
+      "level" : "★8",
+      "md5" : "97c2b2f5c37dd72042c77d0edfe5ba0a",
+      "title" : "ダーク・アヴァターラ・ビーム [INSANE_14]"
    },
    {
       "artist" : "er obj:ucc *FLIP",
@@ -28161,9 +28266,9 @@
       "title" : "Juliet [14key Hee]"
    },
    {
-      "artist" : "Symphoniac",
+      "artist" : "Symphoniac *L.MIRROR",
       "comment" : "Psytrance",
-      "level" : "6",
+      "level" : "9",
       "md5" : "a17ba78dbedd2eb5815bc6406345316b",
       "title" : "OrganIsMandala (DA)"
    },
@@ -29902,6 +30007,13 @@
       "level" : "★6",
       "md5" : "aaf161d1bd1fc41e6f85970792d87597",
       "title" : "label"
+   },
+   {
+      "artist" : "-45/SOA(obj:A-4) *FLIP",
+      "comment" : "FANTASIA",
+      "level" : "8",
+      "md5" : "aaf4a1eef238223c67d96994b66a66f1",
+      "title" : "新月舞踏 -DP ANOTHER-"
    },
    {
       "artist" : "h0pe (BGI:みかんまる)",
@@ -32396,6 +32508,13 @@
       "title" : "Nuclear Fusion DPA"
    },
    {
+      "artist" : "Yu^ta / obj:sagoo",
+      "comment" : "星のカービィ2",
+      "level" : "7",
+      "md5" : "b92c7fefd3fc1e914f254916f0ff4d7e",
+      "title" : "CLOUDY PARK [DP-sagINSANE]"
+   },
+   {
       "artist" : "Brilliance respect for L.E.D (obj:k)",
       "comment" : "Nu-style gabba",
       "level" : "3",
@@ -33397,6 +33516,13 @@
       "title" : "Happy Flight"
    },
    {
+      "artist" : "Reemen vs Koipond",
+      "comment" : "DnB",
+      "level" : "9",
+      "md5" : "bea73764834fa0b6eca822c5130159f4",
+      "title" : "Venice Venture"
+   },
+   {
       "artist" : "teranoid feat.MC Natsack *L.MIRROR",
       "comment" : "NUSTYLE GABBA",
       "level" : "1",
@@ -33770,7 +33896,7 @@
    {
       "artist" : "vorbis obj:azurite *R.MIRROR or FLIP",
       "comment" : "Death Hyper Techno Mission of Juliana's Tokyo",
-      "level" : "7",
+      "level" : "6",
       "md5" : "c0435afb47dc989146ea3ac2a56578f6",
       "title" : "Back 2 Oldskool [DP Maniac]"
    },
@@ -35063,6 +35189,13 @@
       "title" : "RE:START [DP-sagANOTHER]"
    },
    {
+      "artist" : "ミク",
+      "comment" : "ミクトランス[DP OTHER]",
+      "level" : "5",
+      "md5" : "c8413170ca77e6438a1b2a066529609f",
+      "title" : "flow"
+   },
+   {
       "artist" : "kagerow obj:irul",
       "comment" : "DREAMY POP CORE",
       "level" : "2",
@@ -36099,6 +36232,13 @@
       "title" : "私のヒトミ [Type/C]"
    },
    {
+      "artist" : "BACO M  *LR.RANDOM",
+      "comment" : "TRANCE REQUIEM [NIGHTMARE-14]",
+      "level" : "★14",
+      "md5" : "ceae7e20738cd5c98e3399bf1862ee40",
+      "title" : "夢逆行 -Backtrace your Dream-"
+   },
+   {
       "artist" : "suki/obj:Hersh",
       "comment" : "Toytronica",
       "level" : "★2",
@@ -36276,7 +36416,7 @@
    {
       "artist" : "Manaka Takane feat.Nananao obj:kuro",
       "comment" : "Maiden House",
-      "level" : "4",
+      "level" : "6",
       "md5" : "cff1fbf3b1b79cda3f6eb69b6793708e",
       "title" : "Once in my life [sub black another+]"
    },
@@ -37308,6 +37448,13 @@
       "level" : "4",
       "md5" : "d68398a69edc22436601cb1595621b7b",
       "title" : "死んだ子の影の上で踊る [DP ANOTHER]"
+   },
+   {
+      "artist" : "otokaz / obj:sagoo",
+      "comment" : "kirby pop",
+      "level" : "5",
+      "md5" : "d686748568f56840ec7e3e48be1d1225",
+      "title" : "聖戦ものがたり [DP-sagANOTHER]"
    },
    {
       "artist" : "Est / air",
@@ -38710,7 +38857,7 @@
       "title" : "Unexpected Encounter -DPEX-"
    },
    {
-      "artist" : "EBIMAYO *LR.RANDOM",
+      "artist" : "EBIMAYO *正規 or LR.RANDOM",
       "comment" : "GOODPUMP",
       "level" : "★7",
       "md5" : "deeb44482826bacbf915f5781fe87fb4",
@@ -39081,9 +39228,9 @@
       "title" : "天上のポリスルイン [DP ANOTHER]"
    },
    {
-      "artist" : "4G *R.MIRROR",
+      "artist" : "4G",
       "comment" : "CELTIC PROG",
-      "level" : "5",
+      "level" : "4",
       "md5" : "e144a7018fcc259c770f972883bbc135",
       "title" : "ASKAFROA -HYPER14-"
    },
@@ -40539,7 +40686,7 @@
    {
       "artist" : "Symphonian",
       "comment" : "Trance",
-      "level" : "6",
+      "level" : "2",
       "md5" : "ea7cb892e56ce9da9ddb697123c932b6",
       "title" : "Beginning of Sound (14key-DA)"
    },
@@ -41722,7 +41869,7 @@
    {
       "artist" : "ろうて Obj:ゆ～兎  *FLIP",
       "comment" : "Fantoccini",
-      "level" : "7",
+      "level" : "9",
       "md5" : "f0630eede115fab452c929357da27508",
       "title" : "アリスの空虚で愉快な人形劇 [DP INSANE]"
    },
@@ -44177,9 +44324,9 @@
       "title" : "FELYS [CONTACT]"
    },
    {
-      "artist" : "Symphonian *FLIP",
+      "artist" : "Symphonian *LR.MIRROR",
       "comment" : "Trance",
-      "level" : "2",
+      "level" : "3",
       "md5" : "ff239efdeb8d372ee1c254fd2db99def",
       "title" : "Beginning of Sound (14key-DH)"
    },

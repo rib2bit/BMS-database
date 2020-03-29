@@ -513,7 +513,7 @@
       "level" : "5",
       "lr2_bmsid" : "278085",
       "md5" : "0f72a18d708689f2f010da07658d64dd",
-      "name_diff" : "DL",
+      "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
       "title" : "Save and Continue [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=185&event=127",
@@ -753,8 +753,9 @@
       "level" : "10",
       "lr2_bmsid" : "279113",
       "md5" : "164efb64a46f8bd10b83c00b9436f5f8",
-      "name_diff" : "DL",
+      "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
+      "state" : 4,
       "title" : "Ground Z.E.R.O. [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=327&event=127",
       "url_diff" : "https://dl.dropbox.com/s/tb0lgqxh9gqbigf/%5Blilacubens_re%5Dkanone_gz_zoi.zip?dl=1"
@@ -892,6 +893,18 @@
       "title" : "LIGHTNING STAIRWAY [INNOCENT]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=268&event=104",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00640"
+   },
+   {
+      "artist" : "SEPHID mov LankaNIK / obj:SUZUKAZEΛ",
+      "comment" : "乱打,高速階段,皿,物量",
+      "level" : "12",
+      "lr2_bmsid" : "283253",
+      "md5" : "19dabfd5c632908c4de0cfe7dc8e9f20",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "Critical Cannonball [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=129",
+      "url_diff" : "https://dl.dropbox.com/s/y8pl85er1cme447/%5Bondan9%5Dcritical_cannonball_zoi.zip?dl=1"
    },
    {
       "artist" : "Ice / obj:夢瑠",
@@ -1347,7 +1360,7 @@
       "level" : "6",
       "lr2_bmsid" : "279198",
       "md5" : "25209aa177f6985b9daa486eb3605c35",
-      "name_diff" : "DL",
+      "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
       "title" : "Shamshir -rough Pt.2- [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=323&event=127",
@@ -1383,7 +1396,7 @@
       "level" : "6",
       "lr2_bmsid" : "280232",
       "md5" : "2673fdd4ff54696f3b8e2c8a41ec3ca7",
-      "name_diff" : "DL",
+      "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
       "title" : "Me & U [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=218&event=127",
@@ -1680,6 +1693,18 @@
       "url_diff" : "https://dl.dropbox.com/s/17wsu0bxmiezowo/unitary_bonds_zoi.zip?dl=1"
    },
    {
+      "artist" : "ZUN remixed by LeaF Movie:Optie/Illust:セシル◇タイト / obj:SUZUKAZEΛ",
+      "comment" : "割れ,乱打,ガチ押し,LN",
+      "level" : "10",
+      "lr2_bmsid" : "283835",
+      "md5" : "32b4cacffd00518662127b9a06661cf9",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "Armageddon [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=129",
+      "url_diff" : "https://dl.dropbox.com/s/5x8ghd32r5arg8a/%5Bleaf%5Darmageddon_zoi.zip?dl=1"
+   },
+   {
       "artist" : "dj sept-em / obj:sagoo",
       "comment" : "",
       "level" : "1",
@@ -1896,6 +1921,18 @@
       "url_diff" : "http://bmsagoo.web.fc2.com/list_sagoo.html"
    },
    {
+      "artist" : "BMS：Ｆ／Ａ１８　MIDI：徒桜　BGI：dairi obj:SUZUKAZEΛ",
+      "comment" : "ガチ押し,LN,ズレ",
+      "level" : "5",
+      "lr2_bmsid" : "283250",
+      "md5" : "38c943161f17035a932048c7f2d5e327",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "彼岸帰航 － Riverside View [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=129",
+      "url_diff" : "https://dl.dropbox.com/s/4qnxy9gh5492608/fa_higan_zoi.zip?dl=1"
+   },
+   {
       "artist" : "立秋 feat.ちょこ obj:SUZUKAZEΛ",
       "comment" : "同時押し,微縦連,高速階段,皿絡み",
       "level" : "7",
@@ -1976,8 +2013,9 @@
       "level" : "9",
       "lr2_bmsid" : "278032",
       "md5" : "39ad67fbdc031d92ea62e8bc0efdf2ca",
-      "name_diff" : "DL",
+      "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
+      "state" : 4,
       "title" : "Kirby in Luminous Land [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=56&event=127",
       "url_diff" : "https://dl.dropbox.com/s/45ref15j0s7zpo8/kirby_in_luminous_land_zoi.zip?dl=1"
@@ -2541,6 +2579,18 @@
       "url_diff" : "https://dl.dropbox.com/s/ay0481kklsfx1s8/Ryu0316_RS_zoi.zip?dl=1"
    },
    {
+      "artist" : "dj MASTER obj:SUZUKAZEΛ",
+      "comment" : "高速階段,トリル,皿複合,ガチ押し,縦連(軸),ラス殺し",
+      "level" : "13",
+      "lr2_bmsid" : "283252",
+      "md5" : "4897c51805ddb7312b2903e52ab122a6",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "Bubbling Fairies （2020 BMS edit） [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=31&event=129",
+      "url_diff" : "https://dl.dropbox.com/s/08yw4x50ur3gxg7/bubblingfairies_zoi.zip?dl=1"
+   },
+   {
       "artist" : "HOUJIROU / obj:BAECON",
       "comment" : "",
       "level" : "13",
@@ -2602,6 +2652,18 @@
       "url_diff" : "https://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=70&order=reg&odtype=a"
    },
    {
+      "artist" : "9-zen obj:SUZUKAZEΛ",
+      "comment" : "乱打,皿複合",
+      "level" : "4",
+      "lr2_bmsid" : "283248",
+      "md5" : "49cef425630875bd7d83e69bb76dbfea",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "ルーネイトエルフ－霧の湖の物語－ [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=129",
+      "url_diff" : "https://dl.dropbox.com/s/cg0wvazak3q0df6/%E9%9C%A7%E3%81%AE%E6%B9%96%E3%81%AE%E7%89%A9%E8%AA%9E_zoi.zip?dl=1"
+   },
+   {
       "artist" : "ああああ obj:いも",
       "comment" : "FILE:00868",
       "level" : "0",
@@ -2624,6 +2686,18 @@
       "title" : "Love & Justice [Lighter 乳首 ZOI edition］",
       "url" : "http://boxism8500.sakura.ne.jp/#",
       "url_diff" : "https://dl.dropbox.com/s/q228gdzsrqk84h8/love%20%EF%BC%86%20jutice%20lighter%20edition_zoi.zip?dl=1"
+   },
+   {
+      "artist" : "ZUN(Arr.髭姫) VOCAL:nmk BGA:NRF / obj:SUZUKAZEΛ",
+      "comment" : "乱打,皿複合",
+      "level" : "8",
+      "lr2_bmsid" : "282992",
+      "md5" : "4c1566dc2ed4890ee4dd09a6df9b8f2a",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "ゆゆこ▼パンツ [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=129",
+      "url_diff" : "https://dl.dropbox.com/s/djafvul2egipyzx/higehime_yp_zoi.zip?dl=1"
    },
    {
       "artist" : "litmus* as Ayano_quasar obj.quad",
@@ -2704,7 +2778,7 @@
       "level" : "6",
       "lr2_bmsid" : "279401",
       "md5" : "4e5d489d024637e07d4971625632a419",
-      "name_diff" : "DL",
+      "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
       "title" : "Sparkling☆Sunshine!! [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=127",
@@ -2795,6 +2869,18 @@
       "url_diff" : "https://dl.dropbox.com/s/roosxuzoufp0o9o/%5BNego_tiator-Fiz%5DYume_Aruiha_arishihino_zoi.zip?dl=1"
    },
    {
+      "artist" : "Nego_tiator obj:SUZUKAZEΛ",
+      "comment" : "乱打,微縦連,皿複合",
+      "level" : "7",
+      "lr2_bmsid" : "282252",
+      "md5" : "4fac0eedabd69258b207e7ea9a1fcbdf",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "Bouquet colore [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=270&event=127",
+      "url_diff" : "https://dl.dropbox.com/s/hk8g2tglvf43365/%5Bnego_tiator%5Dbouquet%20colore_zoi.zip?dl=1"
+   },
+   {
       "artist" : "litmus* as Ester movie:なおや / obj:SUZUKAZEΛ vs litmus*",
       "comment" : "☆12",
       "level" : "Λs",
@@ -2825,8 +2911,9 @@
       "level" : "4",
       "lr2_bmsid" : "279308",
       "md5" : "503fa3c8a93f4000b19857443e9edbf1",
-      "name_diff" : "DL",
+      "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
+      "state" : 4,
       "title" : "XVOTO [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=127",
       "url_diff" : "https://dl.dropbox.com/s/prlwebsxil5b5d0/xvoto_zoi.zip?dl=1"
@@ -2983,7 +3070,7 @@
       "level" : "Λ",
       "lr2_bmsid" : "279674",
       "md5" : "542836dd23e1dfab148dfa0945183080",
-      "name_diff" : "DL",
+      "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
       "title" : "Kirby in Luminous Land [ZOI-STAR]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=56&event=127",
@@ -3111,6 +3198,18 @@
       "url_diff" : "https://dl.dropbox.com/s/rf7k2ux0ik50uwv/ossan_zoi.zip?dl=1"
    },
    {
+      "artist" : "NASA / BGI:Morph obj:SUZUKAZEΛ",
+      "comment" : "乱打,ソフラン,同時押し,LN",
+      "level" : "6",
+      "lr2_bmsid" : "283251",
+      "md5" : "5602a8400f7d25e29f9b739d0c20a1d9",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "蘇る幻騒郷のユメ。 [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=129",
+      "url_diff" : "https://dl.dropbox.com/s/834nmaw8m94c89d/yume_bitbreak_zoi.zip?dl=1"
+   },
+   {
       "artist" : "BMS:Nego_tiator/Movie:Fiz obj : BAECON",
       "comment" : "FILE:00106",
       "level" : "3",
@@ -3176,7 +3275,7 @@
       "level" : "3",
       "lr2_bmsid" : "279187",
       "md5" : "587d3178d1d70100a376ae26efb2c598",
-      "name_diff" : "DL",
+      "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
       "title" : "カラッポ・ノンフィクション [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=288&event=127",
@@ -3188,7 +3287,7 @@
       "level" : "5",
       "lr2_bmsid" : "278859",
       "md5" : "5898af6b42242f6f0883dd982c82d9bb",
-      "name_diff" : "DL",
+      "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
       "title" : "breathe [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=287&event=127",
@@ -3274,7 +3373,7 @@
       "level" : "Λs",
       "lr2_bmsid" : "277469",
       "md5" : "5a9db579baf2e9cf23a1d7d773ca7487",
-      "name_diff" : "BOFUXV19",
+      "name_diff" : "BOFXV19",
       "reg_date" : " ",
       "state" : 3,
       "title" : "Krave [Insane]",
@@ -3504,7 +3603,7 @@
       "level" : "4",
       "lr2_bmsid" : "280591",
       "md5" : "619d1d55d938436a17da283d2d6938c1",
-      "name_diff" : "DL",
+      "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
       "title" : "悲劇のアニマルキングダム－BMS MIX－ [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=273&event=127",
@@ -3601,7 +3700,7 @@
       "level" : "5",
       "lr2_bmsid" : "279785",
       "md5" : "6498915d95424cd4fceaf25127444ea9",
-      "name_diff" : "DL",
+      "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
       "title" : "Run to Sausage [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=365&event=127",
@@ -3738,6 +3837,18 @@
       "title" : "The Heroine Appears. -Extra-",
       "url" : "http://keysounds.net/events/event/1/impressions/id/7",
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up6874.zip"
+   },
+   {
+      "artist" : "くっちー obj:SUZUKAZEΛ",
+      "comment" : "乱打,微縦連,皿複合",
+      "level" : "9",
+      "lr2_bmsid" : "283630",
+      "md5" : "68de518d0ab3235ef13647d5a8eca31a",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "Scarlet Extra [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=43&event=129",
+      "url_diff" : "https://dl.dropbox.com/s/ziv8azvp6exrmbn/k_scarlet_extra_zoi.zip?dl=1"
    },
    {
       "artist" : "ZUN / 乙UN / 奈那樹",
@@ -4047,7 +4158,7 @@
       "level" : "4",
       "lr2_bmsid" : "280188",
       "md5" : "72871032d1084ebf6311cd81bd3b6dbe",
-      "name_diff" : "DL",
+      "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
       "title" : "ステキナミライ [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=281&event=127",
@@ -4228,7 +4339,7 @@
       "level" : "6",
       "lr2_bmsid" : "280189",
       "md5" : "7737266768187aa7fa4924b5abcf4cf5",
-      "name_diff" : "DL",
+      "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
       "title" : "Edge of bravery [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=127",
@@ -4312,7 +4423,7 @@
       "level" : "6",
       "lr2_bmsid" : "278538",
       "md5" : "794d2fc808ae72baf0d18120bce75351",
-      "name_diff" : "DL",
+      "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
       "title" : "8bit Voyager [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=285&event=127",
@@ -4439,6 +4550,18 @@
       "title" : "呼無のカミサマ [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=120",
       "url_diff" : "https://dl.dropbox.com/s/7ooz5u7oprh8epb/Bacikami_zoi.zip?dl=1"
+   },
+   {
+      "artist" : "Violet Delta (feat. Slothington) / Slothington, Amen / obj:SUZUKAZEΛ",
+      "comment" : "物量,高速階段,微縦連,皿絡み",
+      "level" : "10",
+      "lr2_bmsid" : "283249",
+      "md5" : "7a92046429705ec34fd9801bf187215e",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "MOON-1970 － LUNATIC DANCEFLOOR [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=129",
+      "url_diff" : "https://dl.dropbox.com/s/o8wutvpiycurd6s/violetdelta_moon1970_zoi.zip?dl=1"
    },
    {
       "artist" : "譜蘭師須古・坐比栄流・feat.西川寅吉 obj:SUZUKAZEΛ",
@@ -4765,6 +4888,18 @@
       "title" : "Astronomical Twilight [Brilliant]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=371&event=104",
       "url_diff" : "http://kspinbms.web.fc2.com/insane.html"
+   },
+   {
+      "artist" : "Reku Mochizuki obj:SUZUKAZEΛ",
+      "comment" : "ガチ押し,皿複合",
+      "level" : "5",
+      "lr2_bmsid" : "283998",
+      "md5" : "8313bb4ec8cf14d96390cb77fbcc8ce7",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "Yorixiro [ZOI]",
+      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=5&order=reg&odtype=a",
+      "url_diff" : "https://dl.dropbox.com/s/nkggfgyzbljld5c/yorixiro_zoi.zip?dl=1"
    },
    {
       "artist" : "oto feat.きせの / 十六夜 ゴリラっ☆",
@@ -5267,8 +5402,9 @@
       "level" : "6",
       "lr2_bmsid" : "278936",
       "md5" : "92ff773f69e452df0784064d3dd29fb7",
-      "name_diff" : "DL",
+      "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
+      "state" : 4,
       "title" : "Paracelestia [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=127",
       "url_diff" : "https://dl.dropbox.com/s/ct94xrefco2qz8j/%5Bnego_tiator%5Dparacelestia_zoi.zip?dl=1"
@@ -5503,6 +5639,18 @@
       "url_diff" : "http://sabosabun.tank.jp/"
    },
    {
+      "artist" : "音狐 黒葉 obj:SUZUKAZEΛ",
+      "comment" : "乱打,皿複合",
+      "level" : "5",
+      "lr2_bmsid" : "283445",
+      "md5" : "9a6a6985e324bad7618034170e75c895",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "宵闇夜 －Leggendaria ver－ [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=50&event=129",
+      "url_diff" : "https://dl.dropbox.com/s/r9k01d76h47ynye/%5B%E9%9F%B3%E7%8B%90%20%E9%BB%92%E8%91%89%5D%20%E5%AE%B5%E9%97%87%E5%A4%9C%20-%20leggendaria%20ver_zoi.zip?dl=1"
+   },
+   {
       "artist" : "RYO/obj:980円の人+",
       "comment" : "",
       "level" : "1",
@@ -5659,6 +5807,18 @@
       "url_diff" : "http://akred.web.fc2.com/ak-red.html"
    },
    {
+      "artist" : "Kyuzo Sameura obj:SUZUKAZEΛ",
+      "comment" : "ハネ,皿複合,皿複合",
+      "level" : "6",
+      "lr2_bmsid" : "283977",
+      "md5" : "9f0a5bc2c7da22e668d76223f3ca0226",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "reflection [ZOI]",
+      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=33&order=reg&odtype=a",
+      "url_diff" : "https://dl.dropbox.com/s/boepcy5v1llqrsj/%5Bkyuzo_sameura%5Dreflection_zoi.zip?dl=1"
+   },
+   {
       "artist" : "みーに feat. 初音ミク obj:SUZUKAZEΛ",
       "comment" : "同時押し,乱打",
       "level" : "3",
@@ -5785,7 +5945,7 @@
       "level" : "7",
       "lr2_bmsid" : "278974",
       "md5" : "a2422738890e027460246bbd8a9285db",
-      "name_diff" : "DL",
+      "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
       "title" : "Kung-Gu Empire [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=105&event=127",
@@ -6195,7 +6355,7 @@
       "level" : "7",
       "lr2_bmsid" : "280190",
       "md5" : "ae3156ff728aaa6071c3f28b72d5dcad",
-      "name_diff" : "DL",
+      "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
       "title" : "Game Ride [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=364&event=127",
@@ -6308,6 +6468,18 @@
       "title" : "Break of the Day [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=68&event=120",
       "url_diff" : "https://dl.dropbox.com/s/m54lh45mo5imn1q/%5Braii%5DBreak%20of%20the%20Day_zoi.zip?dl=1"
+   },
+   {
+      "artist" : "69 de 74 BGI:れおん/黒鵜織羽 / obj:SUZUKAZEΛ",
+      "comment" : "同時押し,乱打,皿絡み",
+      "level" : "9",
+      "lr2_bmsid" : "283353",
+      "md5" : "b1bfc73fc06bdc2345eca9ea9286292d",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "5億円が欲しいRENAISSANCE [ZOI]",
+      "url" : "https://dropbox.com/s/z7ylf1l80grpybm/%5B69%20de%2074%5D5oku_RENAISSANCE_ogg.zip?dl=1",
+      "url_diff" : "https://dl.dropbox.com/s/qf3d918aixdvwle/%5B69%20de%2074%5D5oku_renaissance_zoi.zip?dl=1"
    },
    {
       "artist" : "ZUN bms:乙UИ / obj:sagoo",
@@ -7270,7 +7442,7 @@
       "level" : "7",
       "lr2_bmsid" : "278861",
       "md5" : "c82ba6232399a831d86e800b4619825f",
-      "name_diff" : "DL",
+      "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
       "title" : "GAME ON [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=127",
@@ -7360,6 +7532,18 @@
       "title" : "YAKUI [ZOI]",
       "url" : "http://colosseo.nekokan.dyndns.info/c04_shuffle3/detail/view/21/",
       "url_diff" : "http://dl.dropbox.com/s/j6c3k1i9qmfaa42/yakui_BMS_zoi.zip?dl=0"
+   },
+   {
+      "artist" : "Radiogazer obj:SUZUKAZEΛ",
+      "comment" : "LN,跳ね",
+      "level" : "3",
+      "lr2_bmsid" : "283003",
+      "md5" : "ca84442cd14daaf1565537da8c75e13d",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "Pure Caprice [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=129",
+      "url_diff" : "https://dl.dropbox.com/s/0teyj7nuq5qhcnj/%5Bradiogazer%5Dpure_caprice_zoi.zip?dl=1"
    },
    {
       "artist" : "Le Dos-on arranged by s-don illust : jubeated / 差分 赤い人",
@@ -7593,6 +7777,18 @@
       "url_diff" : "http://akred.web.fc2.com/ak-red.html"
    },
    {
+      "artist" : "54cm obj:SUZUKAZEΛ",
+      "comment" : "同時押し,ズレ,LN,ソフラン",
+      "level" : "4",
+      "lr2_bmsid" : "283390",
+      "md5" : "d24d7d08a64b6e15f34b36294491bb38",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "十七絃と箏と尺八のための東方萃夢想 [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=129",
+      "url_diff" : "https://dl.dropbox.com/s/fjeyom8o20us09a/%5B54cm%5Dsuimuso_for_sankyoku_zoi.zip?dl=1"
+   },
+   {
       "artist" : "サケとカワボとえかたん obj:monaka",
       "comment" : "",
       "level" : "3",
@@ -7646,7 +7842,7 @@
       "level" : "10",
       "lr2_bmsid" : "278221",
       "md5" : "d3a15235c0277f02d1415551492d3146",
-      "name_diff" : "DL",
+      "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
       "title" : "テウメッサ [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=127",
@@ -7878,7 +8074,7 @@
       "level" : "4",
       "lr2_bmsid" : "278975",
       "md5" : "d877c16fe6be071e6ad29aa9232ab565",
-      "name_diff" : "DL",
+      "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
       "title" : "Rush-More [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=127",
@@ -8085,7 +8281,7 @@
       "level" : "7",
       "lr2_bmsid" : "277747",
       "md5" : "df5c3346e5348e3d00d89a67d5a360c5",
-      "name_diff" : "DL",
+      "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
       "title" : "カタリスト [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=147&event=127",
@@ -8415,7 +8611,7 @@
       "level" : "6",
       "lr2_bmsid" : "278663",
       "md5" : "e5e710595da409f72d0315324a1e6ff2",
-      "name_diff" : "DL",
+      "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
       "title" : "positive dance -BM9820A HYPER TEQNO nekomix- [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=280&event=127",
@@ -8624,7 +8820,7 @@
       "level" : "5",
       "lr2_bmsid" : "279472",
       "md5" : "eb0391ab1770dcba83b71e0e0912ae07",
-      "name_diff" : "DL",
+      "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
       "title" : "White Howlerz [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=221&event=127",
@@ -8720,7 +8916,7 @@
       "level" : "11",
       "lr2_bmsid" : "278708",
       "md5" : "ed0a1473fbc1809c693eb21852e85557",
-      "name_diff" : "DL",
+      "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
       "title" : "プナイプナイげんそう ～５人の並行世界から来たてるやまたちが世界を救う！？　プナイプナイinワンダーランド～ [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=249&event=127",
@@ -8889,7 +9085,7 @@
       "level" : "6",
       "lr2_bmsid" : "277877",
       "md5" : "f1bac7d9dc0c848d897ff2c2a4042145",
-      "name_diff" : "DL",
+      "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
       "title" : "Sacred Scarlet ～ 真紅の魔奏 [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=142&event=127",
@@ -8949,7 +9145,7 @@
       "level" : "7",
       "lr2_bmsid" : "279273",
       "md5" : "f241a30e980fbe11aa85d166f0959001",
-      "name_diff" : "DL",
+      "name_diff" : "SUZUKAZEΛ",
       "reg_date" : " ",
       "title" : "boxiv! on! fight! [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=114&event=127",
@@ -9318,6 +9514,18 @@
       "title" : "CHICKEN for the WIN [Chicken Pizza]",
       "url" : "http://teracoya.nekokan.dyndns.info/g2r2014uop/",
       "url_diff" : "http://lapisbms.web.fc2.com/"
+   },
+   {
+      "artist" : "ZUN remixed by LeaF Movie:Optie/Illust:セシル◇タイト / obj:SUZUKAZEΛ",
+      "comment" : "トリル,乱打,ガチ押し,LN",
+      "level" : "3",
+      "lr2_bmsid" : "283834",
+      "md5" : "faeed4500b334486e04112c921075d5f",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "Armageddon [EZ-ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=129",
+      "url_diff" : "https://dl.dropbox.com/s/5x8ghd32r5arg8a/%5Bleaf%5Darmageddon_zoi.zip?dl=1"
    },
    {
       "artist" : "qfeileadh mov.アトリエ海百合　feat. レゾナンスもえこ / ハタイッセー / obj:SUZUKAZEΛ",

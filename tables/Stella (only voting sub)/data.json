@@ -1,5 +1,21 @@
 [
    {
+      "artist" : "TO-MAX remixed by LU / obj:SA",
+      "level" : "5",
+      "md5" : "079949de9a444aba5f34aa85fe68fcce",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "889e9054d23a7ecf741209e5c37f5fca3d9741a7ee11c7ef65dd8c9f8aca4753",
+      "submission" : 215,
+      "title" : "contact force sense(remix) -激辛フレンチクルーラー-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=72&event=96",
+      "url_diff" : "http://absolute.pv.land.to/uploader/src/up5443.rar",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 3
+   },
+   {
       "artist" : "pencil obj. LuvTek",
       "comment" : "???????????",
       "level" : "2",
@@ -39,7 +55,7 @@
       "submission" : 1092,
       "title" : "Trinity [Monsther]",
       "url" : "http://web.archive.org/web/20060213103146/http://www.ismusic.ne.jp/djtak/bms/trinity.zip",
-      "url_diff" : "http://3228monsta.web.fc2.com/trinity.zip"
+      "url_diff" : "https://web.archive.org/web/20200306165639/http://3228monsta.web.fc2.com/"
    },
    {
       "artist" : "tarolabo / obj:NoName",
