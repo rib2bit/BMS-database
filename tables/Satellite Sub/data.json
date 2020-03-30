@@ -10269,6 +10269,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Lokan Obj. DK",
+      "comment" : "1~2",
+      "level" : "2",
+      "md5" : "86312e5ac9a3afc35f58568942c3a61a",
+      "proposer" : "|/|",
+      "proposerLr2id" : 147895,
+      "sha256" : "afcf091ec59c4a435c7fec51fb23a0b3fd4c352d14dbbd6e18a6c8d4dc37180d",
+      "submission" : 1359,
+      "title" : "introspect [SP INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=211&event=127",
+      "url_diff" : ""
+   },
+   {
       "artist" : "m108 BGA:メツヤ Illust:flap /obj:monaka",
       "comment" : "BPM195→BPM186　ギアチェン可能",
       "level" : "9",
@@ -17549,6 +17562,19 @@
       "submission" : 1208,
       "title" : "Zelena [SP INSANE]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=243&event=127",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "qfeileadh feat.レゾナンスもえこ mov:自動車 原付",
+      "comment" : "PABAT! 2020 / sl0 上、地力、LN、皿複合",
+      "level" : "0",
+      "md5" : "e26844aabaa0348d3bece720d7bc4825",
+      "proposer" : "DK",
+      "proposerLr2id" : 46697,
+      "sha256" : "236b63fbe1aed678342c362832d931cafd5bf0c7e55b1ef0eb91ae1888ebfe45",
+      "submission" : 1360,
+      "title" : "Prismrose [SP ANOTHER]",
+      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=19&order=reg&odtype=a",
       "url_diff" : ""
    },
    {
