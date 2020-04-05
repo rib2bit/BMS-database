@@ -180,6 +180,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Triangle Waste (obj:HI)",
+      "comment" : "8?",
+      "level" : "8",
+      "md5" : "0fe0b055eb07f9feba4f9f26d8b725c7",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "1cb404731feb27cf1773ff4e73baabe703e3fd0e51ae689a9c303724b28cce6f",
+      "submission" : 275,
+      "title" : "Where To Feel [激鍵14]",
+      "url" : "https://venue.bmssearch.net/3/27",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Junk obj:Starfish",
       "comment" : "★10~★★2",
       "level" : "10",
@@ -203,6 +216,19 @@
       "title" : "searoad tracks =side blue= [DP MANIAC]",
       "url" : "http://web.archive.org/web/20070727155516/http://sasakure.bms.ms/music/searemix.htm",
       "url_diff" : "https://ux.getuploader.com/dpbms/download/642"
+   },
+   {
+      "artist" : "DJ TAKUAN 及び 佐倉アヤキ / obj:epics-",
+      "comment" : "3~4、押しづらい階段、トリル",
+      "level" : "3",
+      "md5" : "137821b71aee5d8444e7fcc38cd5690c",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "1125a5590f269b1e44b0f27e97e6d72fcba8577efc684fc56de519e3c3bfa1ea",
+      "submission" : 274,
+      "title" : "織姫 [dpinsane]",
+      "url" : "http://llllllllllll.sakura.ne.jp/djtakuan/",
+      "url_diff" : "https://drive.google.com/file/d/1x-5b7Fggvs-YkzPN7lnlG88Wr56Lg7Qz/view?usp=sharing"
    },
    {
       "artist" : "Remo-con Remixed by DJ LATI Obj:ゆ～兎",
@@ -229,6 +255,19 @@
       "title" : "Re:End of a Dream [DPH]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=543&event=110",
       "url_diff" : "https://w.atwiki.jp/14key/pages/23.html"
+   },
+   {
+      "artist" : "Iriss-Frantzz obj.LetsOTL",
+      "comment" : "2~3?",
+      "level" : "3",
+      "md5" : "1542e4cd8301369334457d3c6f4960bd",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "babe1d2827df9b16e3778d656d7dd126d813bb8a0a587472ba3c77b168464867",
+      "submission" : 272,
+      "title" : "Blacksphere [DP Noise mix]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=268&event=96",
+      "url_diff" : "http://www.dropbox.com/s/em85ufu8z90fcsg/_blacksphere_DPNoiz.zip?dl=0"
    },
    {
       "artist" : "ARForest / inukoro obj. Limite",
@@ -732,7 +771,7 @@
    {
       "artist" : "Ras obj:Hersh",
       "comment" : "★11(★★2~3?)",
-      "level" : "10",
+      "level" : "11",
       "md5" : "40f0c8314e93ea572f5ab6e0e2a81eda",
       "proposer" : "JHS",
       "proposerLr2id" : 128228,
@@ -950,7 +989,7 @@
    {
       "artist" : "anubasu-anubasu BGA by 出前 / obj:Lilium",
       "comment" : "★10~11、dpbms_1064.zip",
-      "level" : "10",
+      "level" : "11",
       "md5" : "581dfb81c885d9b7b6ea868bf3524a47",
       "proposer" : "JHS",
       "proposerLr2id" : 128228,
@@ -963,7 +1002,7 @@
    {
       "artist" : "立秋 feat.ちょこ obj:Starfish",
       "comment" : "★11(★★1~2?)、BOFXV",
-      "level" : "10",
+      "level" : "11",
       "md5" : "584450308e2b02b3a71a3979c16cdb4f",
       "proposer" : "JHS",
       "proposerLr2id" : 128228,
@@ -1629,6 +1668,19 @@
       "url_diff" : "http://epics.client.jp/"
    },
    {
+      "artist" : "Kei Izumi",
+      "comment" : "2?",
+      "level" : "2",
+      "md5" : "86335757e9ed29a86a00bd7d34cfe59a",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "fe5f62ef38e6dfb77bdcd73f8849ed02b2d85947f2326aedd1756c1027e4d7b1",
+      "submission" : 271,
+      "title" : "Lunar Pulse (DPA)",
+      "url" : "https://web.archive.org/web/20120111160002/http://prsq.sakura.ne.jp/data/lunarpulse_bms_ogg.zip",
+      "url_diff" : "https://w.atwiki.jp/14key/pages/23.html"
+   },
+   {
       "artist" : "Freezer feat. 妃苺 obj:kuro",
       "level" : "6",
       "md5" : "866db0f2e0305678ddaff33ede839f37",
@@ -2232,7 +2284,7 @@
    {
       "artist" : "LV.4+-  by Spelma",
       "comment" : "★12(★★5?)、物量、体力、dpbms_1350.zip、感じられないノートズレ５つあり",
-      "level" : "10",
+      "level" : "11",
       "md5" : "b1ca95e12d38a70429a166db3e93dc9b",
       "proposer" : "JHS",
       "proposerLr2id" : 128228,
@@ -2407,6 +2459,19 @@
       "title" : "すばらきしこのせかい [for Beginner]",
       "url" : "https://onedrive.live.com/?id=863934608D908CD0%21105&cid=863934608D908CD0",
       "url_diff" : "http://epics.client.jp/bms2011.html"
+   },
+   {
+      "artist" : "ixi's Movie : TAKRIDER obj:ucc",
+      "comment" : "3?、ラスト殺し",
+      "level" : "3",
+      "md5" : "bdb4babce537e06931f3f3dfcb2b0105",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "59ec5007cad70192cd63f25241e76db07e1aa99693cc404ced736eb53a57f860",
+      "submission" : 273,
+      "title" : "TRI-TECH [A14]",
+      "url" : "https://drive.google.com/file/d/1H2MDi13btEfXRL02ZuCFVttqQTbGjQYr/view?usp=sharing",
+      "url_diff" : "https://web.archive.org/web/20181106000819/http://www.geocities.jp/uccdpbms/bof2011/tritec.zip"
    },
    {
       "artist" : "scytheleg obj:Starfish",
