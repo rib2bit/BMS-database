@@ -90,7 +90,7 @@
    },
    {
       "artist" : "socer",
-      "comment" : "☆11<br><br>皿・皿複合",
+      "comment" : "☆11<br>皿・皿複合",
       "level" : "-1",
       "lr2_bmsid" : "0",
       "md5" : "15d0ed5ead8238bb8d0321335c36cf39",
@@ -115,7 +115,7 @@
    },
    {
       "artist" : "scytheleg",
-      "comment" : "☆10<br><br>LN",
+      "comment" : "☆10<br>LN",
       "level" : "-1",
       "lr2_bmsid" : "0",
       "md5" : "1a42a39ccd043547831d45ee42ce6184",
@@ -138,6 +138,19 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/theme of maia.zip"
    },
    {
+      "artist" : "Gun-SEKI",
+      "comment" : "皿・局所難",
+      "level" : "3",
+      "lr2_bmsid" : "0",
+      "md5" : "2d88eb54e50683662e098d3db8d900b8",
+      "name_diff" : "DL",
+      "name_pack" : "B.J.cup 5th stage",
+      "reg_date" : "2017-10-05",
+      "title" : "Victory (INSANE 7)",
+      "url" : "http://web.archive.org/web/20050215161210/http://www.bmsjournal.info:80/event/bjc5/54.html",
+      "url_diff" : "http://onzonium.at-ninja.jp/sabun/Victory.zip"
+   },
+   {
       "artist" : "Nacky",
       "comment" : "縦連・乱打",
       "level" : "2",
@@ -151,11 +164,11 @@
    },
    {
       "artist" : "Miloudi / movie: Ratif",
-      "comment" : "乱打・皿<br><br>差分企画「BOFXV差分二次会(仮)」参加作品<br>onzonium名義で参加",
-      "level" : "0",
+      "comment" : "St1<br>乱打・皿<br><br>差分企画「BOFXV差分二次会(仮)」参加作品<br>onzonium名義で参加",
+      "level" : "1",
       "lr2_bmsid" : "0",
       "md5" : "335f6c4437c32f81a3bf06861a8a5294",
-      "name_diff" : "DL",
+      "name_diff" : "差分企画ページへ",
       "reg_date" : "2019-11-27",
       "title" : "Mekhtalef [INSANE]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=38&amp;event=127",
@@ -176,7 +189,7 @@
    },
    {
       "artist" : "nausiuk",
-      "comment" : "☆7<br><br>皿・皿複合・縦連",
+      "comment" : "☆7<br>皿・皿複合・縦連",
       "level" : "-1",
       "lr2_bmsid" : "0",
       "md5" : "3f9f80c36817a059682145fdb63d91ce",
@@ -189,7 +202,7 @@
    },
    {
       "artist" : "skns",
-      "comment" : "☆11<br><br>乱打・皿　音源追加あり<br><br>差分企画「Initial A to Z 2019 -26 songs-」参加作品<br>onzonium名義で参加",
+      "comment" : "☆11<br>乱打・皿　音源追加あり<br><br>差分企画「Initial A to Z 2019 -26 songs-」参加作品<br>onzonium名義で参加",
       "level" : "-1",
       "lr2_bmsid" : "0",
       "md5" : "46584933b70a60c4c5efe31c3f2a6746",
@@ -213,7 +226,7 @@
    },
    {
       "artist" : "nausiuk / obj.ATOM",
-      "comment" : "☆9<br><br>皿・縦連",
+      "comment" : "☆9<br>皿・縦連",
       "level" : "-1",
       "lr2_bmsid" : "0",
       "md5" : "4dffee7846172f3d64872a383f355f09",
@@ -252,7 +265,7 @@
    },
    {
       "artist" : "aym",
-      "comment" : "☆11<br><br>階段・同時押し",
+      "comment" : "☆11<br>階段・同時押し",
       "level" : "-1",
       "lr2_bmsid" : "0",
       "md5" : "57d51d097df1ad530ecca9a1f5410638",
@@ -290,7 +303,7 @@
    },
    {
       "artist" : "YAMD",
-      "comment" : "☆10<br><br>乱打",
+      "comment" : "☆10<br>乱打",
       "level" : "-1",
       "lr2_bmsid" : "0",
       "md5" : "5ff5a641d2325515541eb5bf31191b1f",
@@ -426,19 +439,6 @@
       "url_diff" : "https://bmscharteditorsgroup.wixsite.com/initialatoz"
    },
    {
-      "artist" : "Gun-SEKI",
-      "comment" : "皿複合・デニム",
-      "level" : "17",
-      "lr2_bmsid" : "0",
-      "md5" : "7f6dc0b133b337c57d16cfd9cc8091ed",
-      "name_diff" : "DL",
-      "name_pack" : "B.J.cup 5th stage",
-      "reg_date" : "2017-10-05",
-      "title" : "Victory (BRUTAL 7)",
-      "url" : "http://web.archive.org/web/20050215161210/http://www.bmsjournal.info:80/event/bjc5/54.html",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/Victory.zip"
-   },
-   {
       "artist" : "sept",
       "comment" : "皿・皿複合",
       "level" : "？",
@@ -452,7 +452,7 @@
    },
    {
       "artist" : "skns",
-      "comment" : "☆9<br><br>皿・乱打",
+      "comment" : "☆9<br>皿・乱打",
       "level" : "-1",
       "lr2_bmsid" : "0",
       "md5" : "8a5180ba5cf293e051066d368df4f1bb",
@@ -463,8 +463,21 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/HIGH-ENERGY.zip"
    },
    {
+      "artist" : "Gun-SEKI",
+      "comment" : "皿複合・デニム",
+      "level" : "17",
+      "lr2_bmsid" : "0",
+      "md5" : "8cc3720df6d2b75f6c199dfd7736eaaf",
+      "name_diff" : "DL",
+      "name_pack" : "B.J.cup 5th stage",
+      "reg_date" : "2017-10-05",
+      "title" : "Victory (BRUTAL 7)",
+      "url" : "http://web.archive.org/web/20050215161210/http://www.bmsjournal.info:80/event/bjc5/54.html",
+      "url_diff" : "http://onzonium.at-ninja.jp/sabun/Victory.zip"
+   },
+   {
       "artist" : "paraoka",
-      "comment" : "☆11<br><br>乱打・階段・局所難",
+      "comment" : "☆11<br>乱打・階段・局所難",
       "level" : "-1",
       "lr2_bmsid" : "0",
       "md5" : "9c6f2c2e2498d573c23a8f3da7b0cef8",
@@ -486,6 +499,19 @@
       "title" : "Love's Rebirth '06 LEGEND MIX -insane-",
       "url" : "https://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21208",
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/Love's Rebirth '06.zip"
+   },
+   {
+      "artist" : "Lydian",
+      "comment" : "☆11<br>乱打",
+      "level" : "-1",
+      "lr2_bmsid" : "0",
+      "md5" : "adda8e99f70c51450e9402dea720aeb7",
+      "name_diff" : "DL",
+      "name_pack" : "LoZical Dash 02",
+      "reg_date" : "2020-04-06",
+      "title" : "code : Desert [INSANE]",
+      "url" : "https://drive.google.com/file/d/1kqY3mHWd_wCFAi2w4lpLVHmITx3vjH1Z/view",
+      "url_diff" : "http://onzonium.at-ninja.jp/sabun/code：Desert.zip"
    },
    {
       "artist" : "6yen",
@@ -538,7 +564,7 @@
    },
    {
       "artist" : "socer",
-      "comment" : "☆8<br><br>皿複合",
+      "comment" : "☆8<br>皿複合",
       "level" : "-1",
       "lr2_bmsid" : "0",
       "md5" : "bff126053b10388deab7d1ea4835b30a",
@@ -586,19 +612,6 @@
       "title" : "post mortal momentum -insane-",
       "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/post mortal momentum.zip"
-   },
-   {
-      "artist" : "Gun-SEKI",
-      "comment" : "皿・局所難",
-      "level" : "3",
-      "lr2_bmsid" : "0",
-      "md5" : "cd5c6f97fed6929cc5f28217c80f641e",
-      "name_diff" : "DL",
-      "name_pack" : "B.J.cup 5th stage",
-      "reg_date" : "2017-10-05",
-      "title" : "Victory (INSANE 7)",
-      "url" : "http://web.archive.org/web/20050215161210/http://www.bmsjournal.info:80/event/bjc5/54.html",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/Victory.zip"
    },
    {
       "artist" : "Professor S",

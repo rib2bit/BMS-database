@@ -55,6 +55,45 @@
       "url_diff" : "https://www.dropbox.com/s/4d09m5nfnb24axr/%E2%98%85%E2%98%851%20Angedicinae.zip?dl=1"
    },
    {
+      "artist" : "MILK / И",
+      "comment" : "st1 or 2?",
+      "level" : "1",
+      "md5" : "6112e485c3d9716724b73d5c7af07814",
+      "proposer" : "chouco",
+      "proposerLr2id" : 158333,
+      "sha256" : "8d895619e72c836ceb4f8bad8cf83f83057989d04f2985d379aa17af05a8fba4",
+      "submission" : 1113,
+      "title" : "RAY (EXCELSIOR)",
+      "url" : "https://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21208",
+      "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
+      "artist" : "ETIA. feat. Jenga MV: わっふゑ OBJ: Restia",
+      "comment" : "筋肉",
+      "level" : "5",
+      "md5" : "64ae6106e03d736b9ecd23a5358465fc",
+      "proposer" : "けーちゃん",
+      "proposerLr2id" : 137190,
+      "sha256" : "f7808c09713c94fa204d986818d0752e75d173a9d3aab403a51cb4304f52f7f6",
+      "submission" : 1115,
+      "title" : "XVOTO [ステラの法則は決まった]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
+   },
+   {
+      "artist" : "立秋 feat.ちょこ / obj:七海",
+      "comment" : "st1 or 0?",
+      "level" : "1",
+      "md5" : "70d09940988a0a483927a36f8bb73ae2",
+      "proposer" : "chouco",
+      "proposerLr2id" : 158333,
+      "sha256" : "e3721216c0bd338deb9fc3594799b88b857cd41c054d74df0d4b51ee9e361466",
+      "submission" : 1114,
+      "title" : "プナイプナイげんそう -LAST BOSS-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=249&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
+   },
+   {
       "artist" : "SHIKI / black train",
       "level" : "0",
       "md5" : "751738dea1169c5c39db935adfc9e85f",
@@ -85,6 +124,19 @@
       "voteNo" : 0,
       "votePercent" : 100,
       "voteYes" : 4
+   },
+   {
+      "artist" : "lixound mov:Xquid / obj.siokaze",
+      "comment" : "乱打 皿複合",
+      "level" : "3",
+      "md5" : "9e59b9340bbe882de28bbff2f6221e8a",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "9c1dc671de6b17cd49201e7e7f4c1211ceefa8085100303c5fb7ad02390914f1",
+      "submission" : 1116,
+      "title" : "Break Through The Barrier [MASTER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=440&event=116",
+      "url_diff" : "http://siokazebms.web.fc2.com/"
    },
    {
       "artist" : "Blue-J / LuvTek",
