@@ -1,5 +1,18 @@
 [
    {
+      "artist" : "ZUN / BMS:average BGA:のりろー / A",
+      "comment" : "高速連打複合",
+      "level" : "11",
+      "md5" : "03278f98734a370dfd340a766318f22f",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "1c0555d5c9a26ffcee9885b6f957fa30ae67b57cd025b4e8c095a3220f87e31c",
+      "submission" : 1117,
+      "title" : "Romantic Children [死の少女]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=73&event=102",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01883"
+   },
+   {
       "artist" : "TO-MAX remixed by LU / obj:SA",
       "level" : "5",
       "md5" : "079949de9a444aba5f34aa85fe68fcce",
@@ -14,6 +27,19 @@
       "voteNo" : 0,
       "votePercent" : 100,
       "voteYes" : 3
+   },
+   {
+      "artist" : "Rune Caster BGA : orto / Obj.Triforce",
+      "comment" : "NORMAL基準ズレ無し",
+      "level" : "0",
+      "md5" : "0d5d3ab9ce8bc463d51b5e1fd00c82f8",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "81bcd8220835b0d50d2cf7d1f15f4fb726bee4ac09f0c880010c02e988be52aa",
+      "submission" : 1118,
+      "title" : "TYR [Nemesis]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/TYR%20%28by%20Rune%20Caster%29.rar",
+      "url_diff" : "http://www.dropbox.com/s/rl7ldyx1j7rz2zj/_7ne.bme?dl=0"
    },
    {
       "artist" : "キメラのキタムラ",
@@ -123,6 +149,22 @@
       "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 100,
+      "voteYes" : 4
+   },
+   {
+      "artist" : "The Lovers / obj:七海千秋",
+      "level" : "2",
+      "md5" : "983f3a4976573b78d92f49fa8e4fde90",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "5997ad222598dd283ca2cf9b7e692917639e0034366a943c6ea2f64f98db9bd5",
+      "submission" : 825,
+      "title" : "虹微笑x1肌色扇情扇情 -Despair-",
+      "url" : "http://tm2.toymusical.net/download.html",
+      "url_diff" : "https://www.dropbox.com/s/5m87yphv4rvmkwe/2d_nanami02.bms?dl=0",
+      "voteNeutral" : 0,
+      "voteNo" : 3,
+      "votePercent" : 57.1428571428571,
       "voteYes" : 4
    },
    {

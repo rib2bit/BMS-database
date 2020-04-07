@@ -137,6 +137,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "ZUN / BMS:average BGA:のりろー / A",
+      "comment" : "高速連打複合",
+      "level" : "11",
+      "md5" : "03278f98734a370dfd340a766318f22f",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "1c0555d5c9a26ffcee9885b6f957fa30ae67b57cd025b4e8c095a3220f87e31c",
+      "submission" : 1117,
+      "title" : "Romantic Children [死の少女]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=73&event=102",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01883"
+   },
+   {
       "artist" : "flicknote vocals: MindaRyn / obj: sak",
       "comment" : "停止あり",
       "level" : "9",
@@ -773,6 +786,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Rune Caster BGA : orto / Obj.Triforce",
+      "comment" : "NORMAL基準ズレ無し",
+      "level" : "0",
+      "md5" : "0d5d3ab9ce8bc463d51b5e1fd00c82f8",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "81bcd8220835b0d50d2cf7d1f15f4fb726bee4ac09f0c880010c02e988be52aa",
+      "submission" : 1118,
+      "title" : "TYR [Nemesis]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/TYR%20%28by%20Rune%20Caster%29.rar",
+      "url_diff" : "http://www.dropbox.com/s/rl7ldyx1j7rz2zj/_7ne.bme?dl=0"
    },
    {
       "artist" : "Orange Strophe/ 博麗霊夢",
