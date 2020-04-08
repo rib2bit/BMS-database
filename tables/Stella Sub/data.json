@@ -5351,19 +5351,6 @@
       "voteYes" : 0
    },
    {
-      "artist" : "秋月アキラ feat.保堂 京 obj:Omino",
-      "comment" : "Other",
-      "level" : "1",
-      "md5" : "53d4d5011ec1ec3752fc5421ed210f68",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "73ba840d376738fd4072884e3566a4d1ae99b08cf9d04c3839aaed80ee866521",
-      "submission" : 1110,
-      "title" : "Angedicinae [Other]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=377&event=123",
-      "url_diff" : "https://www.dropbox.com/s/4d09m5nfnb24axr/%E2%98%85%E2%98%851%20Angedicinae.zip?dl=1"
-   },
-   {
       "artist" : "しらいし / 32 / obj:firi.",
       "comment" : "delay",
       "level" : "0",
@@ -9334,6 +9321,19 @@
       "title" : "ヒメタイプ (おに)",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=96",
       "url_diff" : "http://absolute.pv.land.to/bof/upload.html"
+   },
+   {
+      "artist" : "Fl00t mov:task228 / obj:LuvTek",
+      "comment" : "ギミック譜面。HS-FixはOFFで",
+      "level" : "1",
+      "md5" : "9353b36946aeee127e3b927de936b0cd",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "56aa44bfd77f0083ecef75c010a567bcc85c6b5aad5c51dd6c1a7efa1fb5f94f",
+      "submission" : 1119,
+      "title" : "Derve [Fallen]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=310&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
    },
    {
       "artist" : "er/ 差分 赤い人",

@@ -80,6 +80,19 @@
       "voteYes" : 4
    },
    {
+      "artist" : "上杉うた/obj:epics-",
+      "comment" : "高速階段",
+      "level" : "9",
+      "md5" : "4b2d84e3ee6fddaf678d30cb695d638a",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "ee7b8de367c2763abf46779d84c5b243122337ab426e309f751de718c26c9229",
+      "submission" : 278,
+      "title" : "Judah [DP INSANE]",
+      "url" : "https://web.archive.org/web/20170227051837/http://creation-records.info/bms/judah_ogg.rar",
+      "url_diff" : "http://epics.client.jp/"
+   },
+   {
       "artist" : "Getty vs. DJ DiA obj:けろりん vs. げろちゃん BGA:わっふゑ vs. でこちんハンマー",
       "comment" : "8?、高速乱打",
       "level" : "8",
@@ -91,6 +104,19 @@
       "title" : "Grayed Out -Antifront- [DPA]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=561&event=110",
       "url_diff" : "http://yaruki0.sakura.ne.jp/sabun/dp.html"
+   },
+   {
+      "artist" : "Arranged by Y.W obj : 71066",
+      "comment" : "9~10? 乱打",
+      "level" : "10",
+      "md5" : "594878a019df01f5412b72853b03484c",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "ebfd16a1eabe7f7025f0eeeaadf8d1ad6b36edfc1b8b35f3ba2dd228c589faf5",
+      "submission" : 277,
+      "title" : "ポケットモンスター BW2 アイリス戦 -One More Extra Stage-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=84",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/678"
    },
    {
       "artist" : "Kei Izumi",
@@ -155,6 +181,19 @@
       "title" : "TRI-TECH [A14]",
       "url" : "https://drive.google.com/file/d/1H2MDi13btEfXRL02ZuCFVttqQTbGjQYr/view?usp=sharing",
       "url_diff" : "https://web.archive.org/web/20181106000819/http://www.geocities.jp/uccdpbms/bof2011/tritec.zip"
+   },
+   {
+      "artist" : "wigen mov.Lepusnette / obj.quad",
+      "comment" : "乱打 56小節に音の重複あり",
+      "level" : "6",
+      "md5" : "cc2151f6ba99e25ee52cf2fb2899c2eb",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "7dabc17e34f5386da3041ca431a04088431b7f3a723fc809adc7b0f231fee47b",
+      "submission" : 276,
+      "title" : "PLASTIC GIRLS (ft. Seorryang) [DP MANIAC]",
+      "url" : "http://k-bms.com/party_pabat/party2014.jsp?board_num=11&num=38&order=reg&odtype=a",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/641"
    },
    {
       "artist" : "るるりえーる",

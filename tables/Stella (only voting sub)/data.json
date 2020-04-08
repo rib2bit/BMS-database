@@ -68,17 +68,20 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
    },
    {
-      "artist" : "秋月アキラ feat.保堂 京 obj:Omino",
-      "comment" : "Other",
-      "level" : "1",
-      "md5" : "53d4d5011ec1ec3752fc5421ed210f68",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "73ba840d376738fd4072884e3566a4d1ae99b08cf9d04c3839aaed80ee866521",
-      "submission" : 1110,
-      "title" : "Angedicinae [Other]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=377&event=123",
-      "url_diff" : "https://www.dropbox.com/s/4d09m5nfnb24axr/%E2%98%85%E2%98%851%20Angedicinae.zip?dl=1"
+      "artist" : "rider obj:42",
+      "level" : "5",
+      "md5" : "4f58aab2ad7fdb65a5dcec7ed5ef990c",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "3dc9640dd5c81edaffa1395959f825810d88a57c73309a057485b7c13e1fbd40",
+      "submission" : 962,
+      "title" : "Cowardly Clime [GUILTY]",
+      "url" : "http://kamineko.sakura.ne.jp/music.html ",
+      "url_diff" : "http://obj42.web.fc2.com/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 3
    },
    {
       "artist" : "MILK / И",
@@ -92,19 +95,6 @@
       "title" : "RAY (EXCELSIOR)",
       "url" : "https://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21208",
       "url_diff" : "https://bms.parksulab.xyz"
-   },
-   {
-      "artist" : "ETIA. feat. Jenga MV: わっふゑ OBJ: Restia",
-      "comment" : "筋肉",
-      "level" : "5",
-      "md5" : "64ae6106e03d736b9ecd23a5358465fc",
-      "proposer" : "けーちゃん",
-      "proposerLr2id" : 137190,
-      "sha256" : "f7808c09713c94fa204d986818d0752e75d173a9d3aab403a51cb4304f52f7f6",
-      "submission" : 1115,
-      "title" : "XVOTO [ステラの法則は決まった]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=127",
-      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
    },
    {
       "artist" : "立秋 feat.ちょこ / obj:七海",
@@ -150,6 +140,19 @@
       "voteNo" : 0,
       "votePercent" : 100,
       "voteYes" : 4
+   },
+   {
+      "artist" : "Fl00t mov:task228 / obj:LuvTek",
+      "comment" : "ギミック譜面。HS-FixはOFFで",
+      "level" : "1",
+      "md5" : "9353b36946aeee127e3b927de936b0cd",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "56aa44bfd77f0083ecef75c010a567bcc85c6b5aad5c51dd6c1a7efa1fb5f94f",
+      "submission" : 1119,
+      "title" : "Derve [Fallen]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=310&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
    },
    {
       "artist" : "The Lovers / obj:七海千秋",
