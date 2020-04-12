@@ -182,6 +182,13 @@
       "title" : "はるいろ こみち"
    },
    {
+      "artist" : "toby fox Remixed by uet BGI : morph obj:nBel  *L.MIR",
+      "comment" : "Hardtek",
+      "level" : "★6",
+      "md5" : "00de602c7f3d1adb81f21238e7e845bf",
+      "title" : "Spider Dance [AHUTHER]"
+   },
+   {
       "artist" : "Cres / obj : Hador",
       "comment" : "ReQuiEm tRanCe",
       "level" : "?",
@@ -1596,6 +1603,13 @@
       "title" : "Re:starting [DP INSANE]"
    },
    {
+      "artist" : "桃山と電波君 Rustin  *AVERAGE",
+      "comment" : "90's 電波?ングTM",
+      "level" : "6",
+      "md5" : "08c26a40631605e5120fa6958e707d8a",
+      "title" : "Hello! I am dempa is dead or alive"
+   },
+   {
       "artist" : "scamp",
       "comment" : "ドラゴンボール",
       "level" : "7",
@@ -2807,9 +2821,9 @@
       "title" : "虹のシンフォニー"
    },
    {
-      "artist" : "悠然 / bunta / obj:epics-",
+      "artist" : "悠然 / bunta / obj:epics- *L.MIRROR",
       "comment" : "HAPPY HARDCORE",
-      "level" : "1",
+      "level" : "4",
       "md5" : "0f6d2c3bd19fd3190309607ff38edfa4",
       "title" : "桜花撩乱 [DP HYPER]"
    },
@@ -4179,6 +4193,13 @@
       "title" : "秩序の秋桜 [皿皿-Hyper-]"
    },
    {
+      "artist" : "翡乃イスカ obj: shiba",
+      "comment" : "HAPPY HARDCORE",
+      "level" : "★2",
+      "md5" : "17fdb49d0cbf671c5b8eaecb250a24d7",
+      "title" : "Groovin Groovin!! [14key Hazardous]"
+   },
+   {
       "artist" : "RainDrops",
       "comment" : "JP Girl's Melodic Punk Rock",
       "level" : "5",
@@ -4681,6 +4702,13 @@
       "level" : "★3",
       "md5" : "1a8bef0e65e9ca79457c38eb462d21f5",
       "title" : "星の器～STAR OF ANDROMEDA [^_^]"
+   },
+   {
+      "artist" : "ROKINA BGI:REI-K / obj : 71066",
+      "comment" : "HARD BREAKS",
+      "level" : "★1",
+      "md5" : "1a8c2397edbff041c30ab31bdcea5619",
+      "title" : "Reinforced Soul [Forbidden14]"
    },
    {
       "artist" : "SOLVALOU obj:肴",
@@ -6020,6 +6048,13 @@
       "title" : "SPACE RAIDERS"
    },
    {
+      "artist" : "Duca/Scuderia K Remixed by Lemon beads / obj:sagoo",
+      "comment" : "ネコぱらVol.3 ~ネコたちのアロマティゼ~",
+      "level" : "4",
+      "md5" : "22bf61d1f427eefe76ef02a3ba90ab81",
+      "title" : "ネコイチ(Lemon beads Remix) -BMS edit- [DP-sagANOTHER]"
+   },
+   {
       "artist" : "原曲:ZUN　編曲:あかみ *AVERAGE-50 L.RANDOM",
       "comment" : "GRAND PIANO",
       "level" : "★9",
@@ -6879,6 +6914,13 @@
       "level" : "4",
       "md5" : "278e057ad673918e692fea7a0188f28c",
       "title" : "V804N [DP HYPER]"
+   },
+   {
+      "artist" : "toby fox Remixed by uet BGI : morph obj:nBel",
+      "comment" : "Hardtek",
+      "level" : "8",
+      "md5" : "27b2aa6d6739834c3f0a716494c10080",
+      "title" : "Spider Dance [ANOTHER]"
    },
    {
       "artist" : "Grand Thaw obj:けろりん",
@@ -8225,6 +8267,13 @@
       "title" : "nullpop [14another]"
    },
    {
+      "artist" : "上杉うた feat.ARU＆MIKU obj.LLL *FLIP LR.MIRROR",
+      "comment" : "jp-trance",
+      "level" : "5",
+      "md5" : "2fad046f04aca6989589340ca27524f2",
+      "title" : "You're My Shining Star [DPINSA.NE]"
+   },
+   {
       "artist" : "famichikitten (Is-m/Yamajet) BGA:140  *FLIP",
       "comment" : "EPILOGUE",
       "level" : "5",
@@ -8911,6 +8960,13 @@
       "title" : "ゴリ押しPrime Opening Rush150 [六人用譜面]"
    },
    {
+      "artist" : "toby fox Remixed by uet BGI : morph obj:nBel",
+      "comment" : "Hardtek",
+      "level" : "4",
+      "md5" : "339549c6cf7eebeb7b8f06e99e379ed9",
+      "title" : "Spider Dance [HYPER]"
+   },
+   {
       "artist" : "papyrus obj:ucc Movie: 浪漫映像制作倶楽部  *FLIP",
       "comment" : "Grand Finale",
       "level" : "3",
@@ -9319,7 +9375,7 @@
    {
       "artist" : "nmk feat.青井望 / PEN",
       "comment" : "Clarity",
-      "level" : "2",
+      "level" : "4",
       "md5" : "35e92f45e7464c5c928368ee8374dc14",
       "title" : "Dreaming in library"
    },
@@ -10999,7 +11055,7 @@
    {
       "artist" : "ルゼ / obj:lichtr *FLIP R.MIRROR",
       "comment" : "PSYTEC",
-      "level" : "3",
+      "level" : "2",
       "md5" : "4048a3558376356aac6a51ebc5ced9a1",
       "title" : "3.14"
    },
@@ -13293,6 +13349,13 @@
       "title" : "Evangelize (Radio Edit) [Gospel]"
    },
    {
+      "artist" : "xi / Limite + KENIN*",
+      "comment" : "postrock",
+      "level" : "★1",
+      "md5" : "4ea0a08a4656e3cdc7f6589886101ca0",
+      "title" : "E-M [ハッピーエンドオブザワールド]"
+   },
+   {
       "artist" : "P4koo /OBJ:key",
       "comment" : "Melodic NRG",
       "level" : "★5",
@@ -14119,7 +14182,7 @@
       "title" : "Act Beloved"
    },
    {
-      "artist" : "Music:しらいし obj:nBel *FLIP L.MIR or FLIP LR.MIR",
+      "artist" : "Music:しらいし obj:nBel *R.MIRROR",
       "comment" : "Crystal Trance",
       "level" : "★7",
       "md5" : "53480688781a3c0aba23812893081161",
@@ -14247,7 +14310,7 @@
    {
       "artist" : "田井中 律/obj:epics-",
       "comment" : "HARD RENAISSANCE",
-      "level" : "6",
+      "level" : "8",
       "md5" : "53efcb5399c4d52682d7fcbe782dae25",
       "title" : "異説彼岸花 第二 -終世のリコリス- [DP ANOTHER]"
    },
@@ -17383,7 +17446,7 @@
    {
       "artist" : "Ym1024 feat. lamie* / Obj:ゆ～兎",
       "comment" : "J-Baroque Pop",
-      "level" : "3",
+      "level" : "2",
       "md5" : "656e3bd36ceeebb19b1f9d27cd6094b7",
       "title" : "Az My Dear [DP ANOTHER]"
    },
@@ -21009,7 +21072,7 @@
    {
       "artist" : "nmk feat.かなえゆめ Notes:PEN",
       "comment" : "彼女たちの流儀",
-      "level" : "2",
+      "level" : "4",
       "md5" : "797b8e86b9b6ff2237076b825c9dd194",
       "title" : "Red -reduction division-"
    },
@@ -21721,9 +21784,9 @@
       "title" : "new earth [14k Second generation]"
    },
    {
-      "artist" : "cittan* feat. YUNA obj:けろりん *R.MIRROR",
+      "artist" : "cittan* feat. YUNA obj:けろりん *L.MIRROR",
       "comment" : "ENERGETIC TRANCE",
-      "level" : "1",
+      "level" : "2",
       "md5" : "7d215ec41ad8c0da9a610342f41266fd",
       "title" : "Guiding Star [DP ANOTHER]"
    },
@@ -21873,6 +21936,13 @@
       "level" : "★1",
       "md5" : "7de7573432826b20ad50ddb7d02df7b4",
       "title" : "Magus Logos [DPA]"
+   },
+   {
+      "artist" : "上杉うた feat.ARU＆MIKU obj.LLL",
+      "comment" : "jp-trance",
+      "level" : "★2",
+      "md5" : "7dfeb757e040b243bea208321beec394",
+      "title" : "You're My Shining Star [DPINSA.NE+]"
    },
    {
       "artist" : "wigen_ (feat.kana) obj:けろりん mov.石王マサト",
@@ -24915,7 +24985,7 @@
    {
       "artist" : "snowdrop / obj:Redrum",
       "comment" : "progressive jazz",
-      "level" : "8",
+      "level" : "9",
       "md5" : "8e171847ff4fd27ff8501e1ec2ced6cb",
       "title" : "Sicilian Kiss -14EX-"
    },
@@ -25606,6 +25676,13 @@
       "title" : "happy puppy [DP 300%]"
    },
    {
+      "artist" : "w_tre / Limite *R.MIRROR",
+      "comment" : "piano",
+      "level" : "★7",
+      "md5" : "9209372c13a427c06da51d0eba6623e7",
+      "title" : "mom [w_treの主題によるLimite風超絶技巧練習曲]"
+   },
+   {
       "artist" : "Nankumo / obj:lichtr",
       "comment" : "TECHNO",
       "level" : "3",
@@ -25797,7 +25874,7 @@
    {
       "artist" : "Yosk!",
       "comment" : "S/2013 J 1",
-      "level" : "3",
+      "level" : "2",
       "md5" : "93001c4a476b60aefb397cd47e016ee6",
       "title" : "Little Wizard"
    },
@@ -29400,7 +29477,7 @@
       "title" : "弦月の猫 [Double Another]"
    },
    {
-      "artist" : "ABE3",
+      "artist" : "ABE3 *R.MIRROR",
       "comment" : "PROGRESSIVE TRANCE",
       "level" : "6",
       "md5" : "a7406b8d57d4c9eb9f4d41f5e0a4129e",
@@ -29591,7 +29668,7 @@
    {
       "artist" : "beatMARIO (object arranged by tsk) *FLIP",
       "comment" : "TECHNO",
-      "level" : "2",
+      "level" : "5",
       "md5" : "a854bc282399f872658c82dee20a4d07",
       "title" : "HAMMER the TANGRAM [DP ANOTHER]"
    },
@@ -30938,6 +31015,13 @@
       "level" : "?",
       "md5" : "b011f0b0df93df5d0b4e654ded042ae4",
       "title" : "ドラゴンクエストⅣ　～４章～ (14ANOTHER)"
+   },
+   {
+      "artist" : "er/obj:WaterI *FLIP",
+      "comment" : "CUTIE POP",
+      "level" : "3",
+      "md5" : "b0173e9db80008d66934d2084c8a6de1",
+      "title" : "puppy love (DP Another)"
    },
    {
       "artist" : "unknown \"δ\" obj:kuro",
@@ -33161,7 +33245,7 @@
    {
       "artist" : "ダークサンバマスター佐藤 -SATOH- / obj.LetsOTL",
       "comment" : "ゆったり系Psychedelic Trance",
-      "level" : "★7",
+      "level" : "★6",
       "md5" : "bbf4940604c7fd332db2a49789450ff1",
       "title" : "ダークサンバランド -DP LAST BOSS-"
    },
@@ -36988,6 +37072,13 @@
       "title" : "locked girl@Scarlet-Devils Palace [ロイヤルダイアモンドリング]"
    },
    {
+      "artist" : "recognize m. ;bgaparty / obj:sagoo",
+      "comment" : "pops",
+      "level" : "3",
+      "md5" : "d294adfc2a5ba6dbea9795ce7b226a15",
+      "title" : "orangegirl sentiment [DP-sagINSANE]"
+   },
+   {
       "artist" : "USOTA FUMINORI design : absorb spanish",
       "comment" : "SF ELECTRO",
       "level" : "4",
@@ -37469,6 +37560,13 @@
       "level" : "★2",
       "md5" : "d607166ccd395fbfc010be1731f89d88",
       "title" : "THIS TIME; LAST TIME [14KEYS HYPER]"
+   },
+   {
+      "artist" : "翡乃イスカ obj: shiba",
+      "comment" : "HAPPY HARDCORE",
+      "level" : "★10",
+      "md5" : "d60bccb90bab306028ec74b93542e496",
+      "title" : "Groovin Groovin!! [14key Death]"
    },
    {
       "artist" : "ZUN(Arr.髭姫) / obj:如月結 VOCAL:しゆ LYRICS：ドラホス BGA：とみー",
@@ -39634,9 +39732,9 @@
       "title" : "Trichterwinde [DP ANOTHER]"
    },
    {
-      "artist" : "BACO",
+      "artist" : "BACO *FLIP R.MIRROR",
       "comment" : "ELECTROSHOCK",
-      "level" : "1",
+      "level" : "2",
       "md5" : "e34f60304c64da9d80865cbea6a835e5",
       "title" : "DENGEKI Tube [DP HYPER]"
    },
@@ -40754,7 +40852,7 @@
       "title" : "CROSSFIRE [CH14]"
    },
    {
-      "artist" : "paraoka *FLIP",
+      "artist" : "paraoka *R.MIRROR",
       "comment" : "Progressive",
       "level" : "3",
       "md5" : "ea4ac2dcc3a85299c2c16bedfd251429",
@@ -42140,6 +42238,13 @@
       "title" : "稲田姫様に叱られるから (obj:MGN)"
    },
    {
+      "artist" : "recognize m. ;bgaparty / obj:sagoo",
+      "comment" : "pops(14osarangegirl)",
+      "level" : "8",
+      "md5" : "f154d382def652a6aaaed66f2d08872e",
+      "title" : "orangegirl sentiment"
+   },
+   {
       "artist" : "SHIKI/-45[obj:MGN]",
       "comment" : "TRANCE",
       "level" : "4",
@@ -42278,6 +42383,13 @@
       "level" : "2",
       "md5" : "f206f9789281fedbd3d322cefa2dc0b2",
       "title" : "Spiral History [DP HYPER]"
+   },
+   {
+      "artist" : "knot / obj.にゃむ *FLIP",
+      "comment" : "TECHNO",
+      "level" : "?",
+      "md5" : "f21be9f5f1daa8e836798b0daddbc8cf",
+      "title" : "cold planet [コントローラ吹っ飛ぶ]"
    },
    {
       "artist" : "sa10",
@@ -44469,6 +44581,20 @@
       "level" : "5",
       "md5" : "ff5482630653e6b02a675c287239130f",
       "title" : "エトワール・エトワール [DP Another]"
+   },
+   {
+      "artist" : "xi / Limite",
+      "comment" : "ARTCORE",
+      "level" : "★13",
+      "md5" : "ff55f7d0695ed70e6a441d246e78eed0",
+      "title" : "Ascension to Heaven [私に世界終末の階段が舞い降りた。]"
+   },
+   {
+      "artist" : "w_tre respect for AT&HU obj : 71066",
+      "comment" : "PIANO ALGEBRA",
+      "level" : "★3",
+      "md5" : "ff5e94dff2c02bd74a74d4fd9e6eee2a",
+      "title" : "Schur's Theorem -fin-"
    },
    {
       "artist" : "Arranged by KA-KU original:\"Rude Buster\" from \"DELTARUNE\"  obj.nor",

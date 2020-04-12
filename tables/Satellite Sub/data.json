@@ -4109,6 +4109,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "光吉猛修の兄 / selene.",
+      "comment" : "0~1、皿、NORMAL基準ズレ無し",
+      "level" : "0",
+      "md5" : "35ad22403e217c9e3548e12b6b866457",
+      "proposer" : "|/|",
+      "proposerLr2id" : 147895,
+      "sha256" : "7bbd15d4e003a2a267f80daf3a1729c8c522b6a026313d9a5258872f578df031",
+      "submission" : 1378,
+      "title" : "Amphisbaena -evening-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=144&event=104",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03584"
+   },
+   {
       "artist" : "Lubinn / obj.siokaze",
       "comment" : "ガチ押し、ディレイ",
       "level" : "4",
@@ -18368,6 +18381,19 @@
       "title" : "草 [lol]",
       "url" : "https://dropbox.bms.ms/u/272956039/%E8%8D%89%20ogg.zip",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00829"
+   },
+   {
+      "artist" : "ZUN remixed by Ente / obj:tamate",
+      "comment" : "東方音弾遊戯9/微連打",
+      "level" : "3",
+      "md5" : "ea11747e7e63a272d4c60fc68c6431fa",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "2ba241a86fbc9ad38c47c6add67a4c86e6fbe78dbca9b84690fd3ae80a50571d",
+      "submission" : 1379,
+      "title" : "Sunken Memory [BEGINNER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=129",
+      "url_diff" : "https://drive.google.com/open?id=1EiWyX38G9awwhsb3g-5-fUWzCB9V2Arp"
    },
    {
       "artist" : "Ras obj:YOURI",

@@ -132,6 +132,18 @@
       "url_diff" : "http://yaruki0.sakura.ne.jp/sabun/dp.html"
    },
    {
+      "artist" : "U-hey　BGA:ユウノ obj:肴",
+      "level" : "9",
+      "md5" : "574e76b60bfdcfb6d8c8a75f13d6bcb2",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "58f6cd2a4f964b55372f8038ee40ce224106a6207218f4552e942677ca244823",
+      "submission" : 282,
+      "title" : "Take Me Away [DPA]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=150&event=104",
+      "url_diff" : "http://ux.getuploader.com/dpbms/download/11/Take+Me+Away+DP.zip"
+   },
+   {
       "artist" : "Arranged by Y.W obj : 71066",
       "comment" : "9~10? 乱打",
       "level" : "10",
@@ -143,6 +155,31 @@
       "title" : "ポケットモンスター BW2 アイリス戦 -One More Extra Stage-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=84",
       "url_diff" : "https://ux.getuploader.com/dpbms/download/678"
+   },
+   {
+      "artist" : "roop Obj.Triforce vs KENIN*",
+      "level" : "11",
+      "md5" : "5f5be91b44b0108d91c48e01b0e27c41",
+      "proposer" : "siyamaki",
+      "proposerLr2id" : 121577,
+      "sha256" : "50d869b82a4db6a36b6d82dc25e34b867c1c667d269f1972be95af7a5e77b479",
+      "submission" : 287,
+      "title" : "Chatblanc [blache]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=200&event=96",
+      "url_diff" : "http://sunaneko.iptime.org/dpsabun_kenin.html"
+   },
+   {
+      "artist" : "ETIA. feat. Jenga obj:けろりん Movie: HDLV",
+      "comment" : "9~10?",
+      "level" : "9",
+      "md5" : "61296a55d89ae86f957873df1cd011f1",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "af7029a6352e4b3edd0a632a8ff50c18ba8ed2d5d53ec4d0168f6eb64c52c373",
+      "submission" : 285,
+      "title" : "IKAROS [DP Nymph]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=110",
+      "url_diff" : "http://favokiti.info/bms/"
    },
    {
       "artist" : "w_tre / obj:Hador Lyrics by Sing_fUA",
@@ -235,6 +272,18 @@
       "url_diff" : "https://ux.getuploader.com/dpbms/download/641"
    },
    {
+      "artist" : "Sound piercer vs. Iriss / Obj. 0ne",
+      "level" : "9",
+      "md5" : "d820be8513cd93b29f14d1ee0182d553",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "bae014fc53d4520d84e87d54a4d642cb47769fd9345ba7ce3b1e62ec36691a2c",
+      "submission" : 284,
+      "title" : "BOUNCE THE TECH †LEGGENDARIA",
+      "url" : "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=27&order=reg&odtype=a",
+      "url_diff" : "https://drive.google.com/file/d/1zcK9yyVf7OlmsCWE9lPu1CrUCvBPqCHq/view"
+   },
+   {
       "artist" : "るるりえーる",
       "level" : "7",
       "md5" : "de8c6827b28bc4b92471e7065d0eb698",
@@ -249,5 +298,30 @@
       "voteNo" : 0,
       "votePercent" : 87.5,
       "voteYes" : 3
+   },
+   {
+      "artist" : "ETIA.",
+      "level" : "9",
+      "md5" : "e2e430faf05b6a5d2b0ab301cb03657a",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "c8b8dfdf85e86a4e477d5f4aa467afa377df141388710b386264011956063201",
+      "submission" : 283,
+      "title" : "Only Diversity [DPA]",
+      "url" : "https://pupuly.nekokan.dyndns.info/bms/v/69",
+      "url_diff" : "https://w.atwiki.jp/14key/pages/23.html"
+   },
+   {
+      "artist" : "Dachs obj.vectorla",
+      "comment" : "BOFXV",
+      "level" : "9",
+      "md5" : "eb2b5819d9bdda83d833055f16c0dde7",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "e40f7aa50c7d0b69cf3c8dbb3cc4ec88cddba0d0d2a1b2df48dc072f6f2734da",
+      "submission" : 286,
+      "title" : "MOBILYS [14keys ver.A]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=24&event=127",
+      "url_diff" : "http://sakuratone.blog.jp/"
    }
 ]

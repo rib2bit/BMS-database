@@ -90,6 +90,19 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html"
    },
    {
+      "artist" : "光吉猛修の兄 / selene.",
+      "comment" : "0~1、皿、NORMAL基準ズレ無し",
+      "level" : "0",
+      "md5" : "35ad22403e217c9e3548e12b6b866457",
+      "proposer" : "|/|",
+      "proposerLr2id" : 147895,
+      "sha256" : "7bbd15d4e003a2a267f80daf3a1729c8c522b6a026313d9a5258872f578df031",
+      "submission" : 1378,
+      "title" : "Amphisbaena -evening-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=144&event=104",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03584"
+   },
+   {
       "artist" : "ねこみりん feat. みゆ obj:七海千秋",
       "comment" : "同時押し、ラス殺し。ズレ、抜けはありませんでしたが、BMSEで開くとずれます。",
       "level" : "9",
@@ -258,22 +271,6 @@
       "url_diff" : "https://www.dropbox.com/s/t3u2g9hcsiudcoa/corneal_hope.zip?dl=1"
    },
    {
-      "artist" : "sasakure.UK/あめさん",
-      "level" : "3",
-      "md5" : "91ad562b105c253cee6ef2944282c30d",
-      "proposer" : "chouco",
-      "proposerLr2id" : 158333,
-      "sha256" : "6bf23ee59edfcc7a367e447e13954ad5033bbeb2d0f02bb1acc2fa9eb8605524",
-      "submission" : 235,
-      "title" : "海神寓拝 -fucker-",
-      "url" : "http://web.archive.org/web/20070727154611/http://sasakure.bms.ms/framemusic.htm",
-      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up0562.zip",
-      "voteNeutral" : 0,
-      "voteNo" : 8,
-      "votePercent" : 55.5555555555556,
-      "voteYes" : 10
-   },
-   {
       "artist" : "Superbia",
       "comment" : "Rche",
       "level" : "3",
@@ -389,6 +386,19 @@
       "title" : "comic magic [Farce]",
       "url" : "http://www.is-m.jp/bms/song/em32.html",
       "url_diff" : "https://www.dropbox.com/s/d1fpgvu0658n3m2/_32_14_MarySue_Farce.bme?dl=0"
+   },
+   {
+      "artist" : "ZUN remixed by Ente / obj:tamate",
+      "comment" : "東方音弾遊戯9/微連打",
+      "level" : "3",
+      "md5" : "ea11747e7e63a272d4c60fc68c6431fa",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "2ba241a86fbc9ad38c47c6add67a4c86e6fbe78dbca9b84690fd3ae80a50571d",
+      "submission" : 1379,
+      "title" : "Sunken Memory [BEGINNER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=129",
+      "url_diff" : "https://drive.google.com/open?id=1EiWyX38G9awwhsb3g-5-fUWzCB9V2Arp"
    },
    {
       "artist" : "Εσοπτρον/差分 赤い人",

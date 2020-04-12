@@ -2837,6 +2837,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "秋月アキラ feat. 保堂 京 obj:monaka",
+      "comment" : "BPM224 区切り8分同時押し、24分螺旋階段",
+      "level" : "0",
+      "md5" : "2fb3c7fabe478d17a58f8ed038d765dd",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "73ac635e6f15dde6da221133cef185a84d2b8277e0187171216403fb40055d98",
+      "submission" : 1123,
+      "title" : "黄昏のメロディア -終末の御伽噺-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=325&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
+   },
+   {
       "artist" : "Yosk! / A",
       "comment" : "FUTURE 2299",
       "level" : "2",
@@ -4251,6 +4264,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Yusuke Takeuchi obj.Mallow♪",
+      "comment" : "BPM196 8分同時押し、皿",
+      "level" : "2",
+      "md5" : "4328c75fbf572027f1c979a1834a7e8c",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "7a6cdd9ce2e9aaf045732b1c0526812abf93cd68bad56585fb95b7e838d87043",
+      "submission" : 1122,
+      "title" : "Vlll -Lachesis-",
+      "url" : "http://web.archive.org/web/20060621033630/http://www.commonsense.nu/songs/Vlll_lachesisHQ.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03974"
    },
    {
       "artist" : "Is-m BGA:murotani",

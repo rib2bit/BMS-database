@@ -55,6 +55,35 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04172"
    },
    {
+      "artist" : "秋月アキラ feat. 保堂 京 obj:monaka",
+      "comment" : "BPM224 区切り8分同時押し、24分螺旋階段",
+      "level" : "0",
+      "md5" : "2fb3c7fabe478d17a58f8ed038d765dd",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "73ac635e6f15dde6da221133cef185a84d2b8277e0187171216403fb40055d98",
+      "submission" : 1123,
+      "title" : "黄昏のメロディア -終末の御伽噺-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=325&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
+   },
+   {
+      "artist" : "sak BGA:猫太郎 obj:BAECON",
+      "level" : "3",
+      "md5" : "34032273d045908a1f39870b44ad8e22",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "b7c35e0bf49e0a6b1ade33d163712d1ae518c436341a527a3323ce020da4753e",
+      "submission" : 1022,
+      "title" : "minimalim [INSANE]",
+      "url" : "http://colosseo.nekokan.dyndns.info/c04_shuffle3/detail/view/12/",
+      "url_diff" : "",
+      "voteNeutral" : 1,
+      "voteNo" : 0,
+      "votePercent" : 90,
+      "voteYes" : 4
+   },
+   {
       "artist" : "キメラのキタムラ",
       "comment" : "BPM275 16分乱打、8分皿",
       "level" : "5",
@@ -79,6 +108,35 @@
       "title" : "TEXTURE",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=200&event=127",
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
+   },
+   {
+      "artist" : "Yusuke Takeuchi obj.Mallow♪",
+      "comment" : "BPM196 8分同時押し、皿",
+      "level" : "2",
+      "md5" : "4328c75fbf572027f1c979a1834a7e8c",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "7a6cdd9ce2e9aaf045732b1c0526812abf93cd68bad56585fb95b7e838d87043",
+      "submission" : 1122,
+      "title" : "Vlll -Lachesis-",
+      "url" : "http://web.archive.org/web/20060621033630/http://www.commonsense.nu/songs/Vlll_lachesisHQ.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03974"
+   },
+   {
+      "artist" : "UnLimited (Ural vs. Lian) BGA:SELDO",
+      "level" : "4",
+      "md5" : "4cae94c0cab5d4e1e811916e89c50db2",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "83cf40e8fffe784b4313571ab21b800b06f714b15994e4565ff4ec5715880e73",
+      "submission" : 960,
+      "title" : "Lebensumlauf [BEHEMOTH]",
+      "url" : "https://event.yaruki0.net/VSevent/impression/29",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 4
    },
    {
       "artist" : "rider obj:42",
@@ -223,6 +281,22 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
    },
    {
+      "artist" : "Saz obj: qtp13",
+      "level" : "3",
+      "md5" : "a94ebcf3a7e83901a416c7be95ff40da",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "f852be09e01638ab55c803cf85bec804d4a9f7b079acf20f4a5b753302fc6207",
+      "submission" : 1050,
+      "title" : "Act #000000 (short) [Extra]",
+      "url" : "http://1drv.ms/1zux72P",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03773",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 5
+   },
+   {
       "artist" : "ikaruga_nex obj:七海千秋",
       "comment" : "1? st0のCraZyよりラス殺しが強かったです。",
       "level" : "1",
@@ -299,6 +373,22 @@
       "title" : "Dead rabbit and Witch's blood -Despair-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=77&event=123",
       "url_diff" : "https://www.dropbox.com/s/bpat05u3w3la8mx/_dead%20rabbit_nanami01.bms?dl=0"
+   },
+   {
+      "artist" : "Sakamiya feat.A.Dokuga img:HalHAL Lyrics:uoru notes:ELIGOS",
+      "level" : "1",
+      "md5" : "dc1ac1d67463892d957b1d410773557f",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "cbe9926f12631e84cd3866035b84c949b52ded17a99cc83bd08d38f4860d6986",
+      "submission" : 1041,
+      "title" : "Epic Bellum -universum- [BattleGalaxy]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=258&event=110",
+      "url_diff" : "",
+      "voteNeutral" : 3,
+      "voteNo" : 0,
+      "votePercent" : 78.5714285714286,
+      "voteYes" : 4
    },
    {
       "artist" : "腋亦/さ",
