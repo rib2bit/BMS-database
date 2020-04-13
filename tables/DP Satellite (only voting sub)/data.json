@@ -93,6 +93,22 @@
       "voteYes" : 4
    },
    {
+      "artist" : "Festa  obj:右手が恋人 鑓田(alpha complex)",
+      "level" : "8",
+      "md5" : "3969aa2fbc8482d5ba23aafbc1a167db",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "1c16d2e6e25f0b9f4a30f4a3651a7f8002d0b1c488ce8fdec354534be0e3f497",
+      "submission" : 55,
+      "title" : "Lemuria [VerA]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=536&event=110",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/131",
+      "voteNeutral" : 2,
+      "voteNo" : 0,
+      "votePercent" : 75,
+      "voteYes" : 2
+   },
+   {
       "artist" : "P4koo /OBJ:key",
       "comment" : "階段、LN 差分は本体に同梱",
       "level" : "10",
@@ -144,6 +160,19 @@
       "url_diff" : "http://ux.getuploader.com/dpbms/download/11/Take+Me+Away+DP.zip"
    },
    {
+      "artist" : "paraoka / Limite feat. 制限?",
+      "comment" : "低速二中階段、正常なL9",
+      "level" : "11",
+      "md5" : "59084302deb34b9bd015a1abe02d6b23",
+      "proposer" : "KENIN*",
+      "proposerLr2id" : 67700,
+      "sha256" : "a9d2652c36e8956534853b47e2bcb16c1e832eb7886695b63dedd39138a8ffd6",
+      "submission" : 289,
+      "title" : "L9",
+      "url" : "http://web.archive.org/web/20070301141729/http://homepage1.nifty.com:80/paraoka/index38.html",
+      "url_diff" : "https://1drv.ms/x/s!Aoi5esJwIYCChk0BTx_U1KkswzSf"
+   },
+   {
       "artist" : "Arranged by Y.W obj : 71066",
       "comment" : "9~10? 乱打",
       "level" : "10",
@@ -180,6 +209,19 @@
       "title" : "IKAROS [DP Nymph]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=110",
       "url_diff" : "http://favokiti.info/bms/"
+   },
+   {
+      "artist" : "Marc-Andre' Hamelin",
+      "comment" : "階段,階段,階段,階段...",
+      "level" : "9",
+      "md5" : "773457357c979ad7602a52e16d986743",
+      "proposer" : "KENIN*",
+      "proposerLr2id" : 67700,
+      "sha256" : "782b02f69d71c26902d864bcbb63bc5ed1c91c49f591788dfedd7d905b25f666",
+      "submission" : 288,
+      "title" : "サーカス・ギャロップ -normal-",
+      "url" : "http://www1.axfc.net/uploader/Ne/so/82875",
+      "url_diff" : ""
    },
    {
       "artist" : "w_tre / obj:Hador Lyrics by Sing_fUA",
