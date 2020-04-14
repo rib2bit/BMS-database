@@ -1845,6 +1845,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00078"
    },
    {
+      "adddate" : "2020/04/14 00:43",
+      "artist" : "Hyparpax [obj. vi]",
+      "comment" : "乱打, 皿",
+      "folder" : "2020/04",
+      "genre" : "HARD RAVE EUPHORIA",
+      "keys" : 7,
+      "level" : "2020/04",
+      "lr2_bmsid" : "285269",
+      "md5" : "0565a4bfbe24d09fcbffaa97dcdbb884",
+      "org_level" : null,
+      "title" : "RAVE NIGHTINGALE [eagle+]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04260"
+   },
+   {
       "adddate" : "2020/03/16 21:45",
       "artist" : "隣の庭は青い(庭師+Aoi) obj:C4",
       "comment" : "2017 time capsule(KHRYSOS upper)",
@@ -5458,6 +5473,21 @@
       "title" : "SLAUGHTERTUNE(ANOTHER)",
       "url" : "",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00007"
+   },
+   {
+      "adddate" : "2020/04/14 07:03",
+      "artist" : "立秋 feat.ちょこ obj:dj hamu",
+      "comment" : "01934の修正版 連打",
+      "folder" : "2020/04",
+      "genre" : "プナイプナイPOP",
+      "keys" : "7",
+      "level" : "2020/04",
+      "lr2_bmsid" : "259030",
+      "md5" : "11603b2d19f4b51e6c3f6b1f51b8be80",
+      "org_level" : null,
+      "title" : "プナイプナイたいそう [HAMUPER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=227&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04262"
    },
    {
       "adddate" : "2018/07/03 06:13",
@@ -12375,6 +12405,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04200"
    },
    {
+      "adddate" : "2020/04/15 02:14",
+      "artist" : "Sound piercer obj. DK",
+      "comment" : "02882 ズレ修正",
+      "folder" : "2020/04",
+      "genre" : "Progressive Chill",
+      "keys" : "7",
+      "level" : "2020/04",
+      "lr2_bmsid" : "285283",
+      "md5" : "2823d28ec4923a97519b40ec827aa289",
+      "org_level" : null,
+      "title" : "Pourqaa [SP INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=284&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04265"
+   },
+   {
       "adddate" : "2018/12/24 18:42",
       "artist" : "std Illust:こくぼう / obj:monaka",
       "comment" : "二重階段、皿複合",
@@ -12568,6 +12613,21 @@
       "title" : "Meshimase!! Nyan-Nyan Nightmare [Eternyal Sweets]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=108&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02582"
+   },
+   {
+      "adddate" : "2020/04/12 21:44",
+      "artist" : "ALFOU/obj.c1tru2",
+      "comment" : "乱打/階段/皿複合　https://youtu.be/GWx_WZZe2z4",
+      "folder" : "2020/04",
+      "genre" : "OVERLOVE",
+      "keys" : 7,
+      "level" : "2020/04",
+      "lr2_bmsid" : "285213",
+      "md5" : "28c9ec93831346c7dd77be151fa9ba46",
+      "org_level" : null,
+      "title" : "Fluctuate【whitelily】",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04259"
    },
    {
       "adddate" : "2018/09/23 13:12",
@@ -16200,6 +16260,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03664"
    },
    {
+      "adddate" : "2020/04/12 14:01",
+      "artist" : "Azel / obj:スノート",
+      "comment" : "No.04252修正版、乱打",
+      "folder" : "2020/04",
+      "genre" : "Happy Anthem Core",
+      "keys" : 7,
+      "level" : "2020/04",
+      "lr2_bmsid" : "285215",
+      "md5" : "355c8c3df19b8a23a508139913ec9bf5",
+      "org_level" : null,
+      "title" : "Astraia [Snother]",
+      "url" : "https://dropbox.bms.ms/u/87297315/_Astraia_BOF2012.zip",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04256"
+   },
+   {
       "adddate" : "2019/06/29 19:36",
       "artist" : "EtudE obj:SUZUKAZEΛ",
       "comment" : "ハネ,皿絡み,LN",
@@ -19466,7 +19541,7 @@
       "md5" : "3f74ff490416c8e293d32f4b03c901ba",
       "org_level" : null,
       "title" : "Strahv [PAST]",
-      "url" : "",
+      "url" : "https://mega.nz/#F!FNFDCQaT!wfv-iI4UuSIaGpP0oFZdtQ?4M00iTSC",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02645"
    },
    {
@@ -19680,6 +19755,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03576"
    },
    {
+      "adddate" : "2020/04/12 20:05",
+      "artist" : "litmus* / movie : Kazari obj.7zs",
+      "comment" : "微縦連",
+      "folder" : "2020/04",
+      "genre" : "Electro House",
+      "keys" : 7,
+      "level" : "2020/04",
+      "lr2_bmsid" : "285150",
+      "md5" : "3fe9fafbc80aeab0fd4319c15f8e56f2",
+      "org_level" : null,
+      "title" : "Good Life [Avenir Iridescent]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04257"
+   },
+   {
       "adddate" : "2018/05/30 00:38",
       "artist" : "Iron Raven obj. Hyparpax",
       "comment" : "",
@@ -19708,6 +19798,21 @@
       "title" : "underwater sunset (ABNORMAL)",
       "url" : "https://1drv.ms/u/s!ApwaJAUHJdpyiCizcd3g3qPdAoXs",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00153"
+   },
+   {
+      "adddate" : "2020/04/14 07:03",
+      "artist" : "立秋 feat.ちょこ obj:dj hamu",
+      "comment" : "01934の修正版 連打",
+      "folder" : "2020/04",
+      "genre" : "プナイプナイPOP",
+      "keys" : 7,
+      "level" : "2020/04",
+      "lr2_bmsid" : "285255",
+      "md5" : "3ffd33ee5aa66c84410f31c935554bae",
+      "org_level" : null,
+      "title" : "プナイプナイたいそう [HAMUTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=227&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04262"
    },
    {
       "adddate" : "2018/07/19 15:50",
@@ -24360,6 +24465,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00965"
    },
    {
+      "adddate" : "2020/04/14 14:58",
+      "artist" : "Sound piercer feat.DAZBEE NeLiME / CHERISH / fxxh / Feyrlin obj.akasaka",
+      "comment" : "同梱穴比較音ズレ無",
+      "folder" : "2020/04",
+      "genre" : "FINALE",
+      "keys" : "7",
+      "level" : "2020/04",
+      "lr2_bmsid" : "285237",
+      "md5" : "4dfe267c203adc4d98989ccebd66271c",
+      "org_level" : null,
+      "title" : "花たちに希望を [akather]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04264"
+   },
+   {
       "adddate" : "2018/12/16 12:55",
       "artist" : "Y.W obj:Ferberite",
       "comment" : "ガチ押し,微縦連,全押し",
@@ -25513,6 +25633,21 @@
       "title" : "Virtual mode [Lucid Dreaming]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=398&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00334"
+   },
+   {
+      "adddate" : "2020/04/12 20:17",
+      "artist" : "しも fw. hapi⇒ / obj.Waddle Dee",
+      "comment" : "高速物量、同時押し、微縦連",
+      "folder" : "2020/04",
+      "genre" : "INSTRUMENTAL",
+      "keys" : 7,
+      "level" : "2020/04",
+      "lr2_bmsid" : "285214",
+      "md5" : "5154e666d21e79e347d8ca66b3ea138f",
+      "org_level" : null,
+      "title" : "風の塔 [Sky Tower]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=198&event=74",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04258"
    },
    {
       "adddate" : "2019/04/11 14:16",
@@ -33866,7 +34001,7 @@
       "md5" : "6c90b1c1dcdea3b6320d94d030941546",
       "org_level" : null,
       "title" : "Smiling [明けましておめでとうございます！]",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=441&event=104",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03905"
    },
    {
@@ -47621,7 +47756,7 @@
       "md5" : "983f3a4976573b78d92f49fa8e4fde90",
       "org_level" : null,
       "title" : "虹微笑x1肌色扇情扇情 -Despair-",
-      "url" : "http://tm2.toymusical.net/download.html",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/%e8%99%b9%e5%be%ae%e7%ac%91x1%e8%82%8c%e8%89%b2%e6%89%87%e6%83%85%e6%89%87%e6%83%85%20%28by%20The%20Lovers%29.rar",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02551"
    },
    {
@@ -52333,6 +52468,21 @@
       "title" : "風詠の祠 [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=354&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02420"
+   },
+   {
+      "adddate" : "2020/04/14 01:08",
+      "artist" : "Hyparpax obj. 縦グランマ",
+      "comment" : "糞",
+      "folder" : "2020/04",
+      "genre" : "HARD RAVE EUPHORIA",
+      "keys" : "7",
+      "level" : "2020/04",
+      "lr2_bmsid" : "285270",
+      "md5" : "a6cf284b3c692699c76c8b26e9e559ce",
+      "org_level" : null,
+      "title" : "RAVE NIGHTINGALE (FORTNIGHTINGALE)",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04261"
    },
    {
       "adddate" : "2018/11/17 02:26",
@@ -71055,6 +71205,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02028"
    },
    {
+      "adddate" : "2020/04/14 07:06",
+      "artist" : "立秋 feat.ちょこ obj:dj hamu",
+      "comment" : "手動ディレイ٩٩(( ''oo'' ))۶۶",
+      "folder" : "2020/04",
+      "genre" : "プナイプナイPOP",
+      "keys" : 7,
+      "level" : "2020/04",
+      "lr2_bmsid" : "285256",
+      "md5" : "e1c912da52db8369f522158876c69c37",
+      "org_level" : null,
+      "title" : "プナイプナイたいそう [DELAY-HAMUTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=227&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04263"
+   },
+   {
       "adddate" : "2020/02/25 07:01",
       "artist" : "sweez & Meine Meinung remixed by roop obj. vi",
       "comment" : "NORMAL, 同時押し, 皿",
@@ -74083,6 +74248,21 @@
       "title" : "ちくわvsかまぼこ(9EX)",
       "url" : "",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03930"
+   },
+   {
+      "adddate" : "2020/04/14 00:43",
+      "artist" : "Hyparpax [obj. vi]",
+      "comment" : "乱打, 皿",
+      "folder" : "2020/04",
+      "genre" : "HARD RAVE EUPHORIA",
+      "keys" : 7,
+      "level" : "2020/04",
+      "lr2_bmsid" : "285268",
+      "md5" : "eb4b00531784e0b886276626d2b70577",
+      "org_level" : null,
+      "title" : "RAVE NIGHTINGALE [eagle]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04260"
    },
    {
       "adddate" : "2020/01/13 16:05",
@@ -80188,6 +80368,21 @@
       "title" : "Mr. BLACKRUM [SP NIGHTMARE -151 Proof-]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02438"
+   },
+   {
+      "adddate" : "2020/04/14 07:06",
+      "artist" : "立秋 feat.ちょこ obj:dj hamu",
+      "comment" : "手動ディレイ٩٩(( ''oo'' ))۶۶",
+      "folder" : "2020/04",
+      "genre" : "プナイプナイPOP",
+      "keys" : 7,
+      "level" : "2020/04",
+      "lr2_bmsid" : "285257",
+      "md5" : "fef6f5f2b329f26f606315a4ba626666",
+      "org_level" : null,
+      "title" : "プナイプナイたいそう [DELAY-HAMUPER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=227&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04263"
    },
    {
       "adddate" : "2017/12/03 15:48",
