@@ -1,5 +1,18 @@
 [
    {
+      "artist" : "sak BGA:猫太郎",
+      "comment" : "同梱",
+      "level" : "0",
+      "md5" : "033878a236c130a324383b6b05aa98ca",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "02f3056e9991c46600e58e3fe7173e006c9e7876d828a29acb84427ce2c18847",
+      "submission" : 1382,
+      "title" : "minimalim [ANOTHER]",
+      "url" : "http://colosseo.nekokan.dyndns.info/c04_shuffle3/detail/view/12/?ref=pc_watch_description",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Sobrem / obj ; LindBlum",
       "comment" : "sl1~2, BOFU2015, 地力",
       "level" : "2",
@@ -23,6 +36,19 @@
       "title" : "Comet (BMS Edit) [SP ANOTHER]",
       "url" : "https://k-bms.com/party_pabat/party.jsp?board_num=20&num=38&order=reg&odtype=a",
       "url_diff" : ""
+   },
+   {
+      "artist" : "Liq_mmry obj:SUZUKAZEΛ",
+      "comment" : "Chiptune",
+      "level" : "3",
+      "md5" : "0f72a18d708689f2f010da07658d64dd",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "400036b904737c4c95b8fd7ed8cd7955d6d303da1788225feb48c2fb9bdb3041",
+      "submission" : 1381,
+      "title" : "Save and Continue [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=185&event=127",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html"
    },
    {
       "artist" : "sasakure.UK",
