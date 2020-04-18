@@ -3197,6 +3197,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Sound piercer obj. DK",
+      "comment" : "MAX-FIX、SPA基準ズレ無し",
+      "level" : "1",
+      "md5" : "2823d28ec4923a97519b40ec827aa289",
+      "proposer" : "|/|",
+      "proposerLr2id" : 147895,
+      "sha256" : "675759e4446d9f4e3f88a4776b2b13b3cde17ea53e555465cc7886c19c6d3e95",
+      "submission" : 1383,
+      "title" : "Pourqaa [SP INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=284&event=123",
+      "url_diff" : "https://frozensat.github.io/sabun/Pourqaa_DK_fix.zip"
+   },
+   {
       "artist" : "SuraN",
       "comment" : "DeNImeTRiC",
       "level" : "9",

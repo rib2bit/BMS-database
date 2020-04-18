@@ -22,6 +22,39 @@
       "url_diff" : ""
    },
    {
+      "artist" : "隣の庭は青い(庭師+Aoi)",
+      "comment" : "物量,皿複合,同時押し",
+      "level" : "24",
+      "lr2_bmsid" : 284274,
+      "md5" : "057c0c53f8cef8aa89d5673f78f8cbc8",
+      "name_diff" : "差分",
+      "title" : "カリオストロの穿孔 [RODIO]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=310&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04167"
+   },
+   {
+      "artist" : "C4",
+      "comment" : "VERY HARD判定,ポリリズム,階段,☆10相当",
+      "level" : "98",
+      "lr2_bmsid" : 277933,
+      "md5" : "059e5b0607fb9f207227f82d1b7cc24f",
+      "name_diff" : "同梱譜面",
+      "title" : "Mechanisches Spielzeug kaputt [SP HYPER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=157&event=127",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "TaW",
+      "comment" : "中速乱打,やや局所難",
+      "level" : "10",
+      "lr2_bmsid" : 284080,
+      "md5" : "066578e1183d04c4e32907bfd00f352c",
+      "name_diff" : "同梱譜面",
+      "title" : "Process [INSANE]",
+      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=54&order=reg&odtype=a",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Ernesto Nazareth arr. Lollipop",
       "comment" : "同時押し,体力",
       "level" : "23",
@@ -110,6 +143,28 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02732"
    },
    {
+      "artist" : "B4 (BBBB + C4)",
+      "comment" : "LN,ズレ,☆11相当",
+      "level" : "-1",
+      "lr2_bmsid" : 278462,
+      "md5" : "0e5d3b616cdebf022066f202be56fa88",
+      "name_diff" : "同梱譜面",
+      "title" : "Zelena [SP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=243&event=127",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "ShiraiC4",
+      "comment" : "同時押し,小節線ワープ,☆9相当",
+      "level" : "-2",
+      "lr2_bmsid" : 279748,
+      "md5" : "0f02132d0794dbd8f59b1978456c25ba",
+      "name_diff" : "同梱譜面",
+      "title" : "XALICE [SP HYPER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=355&event=127",
+      "url_diff" : ""
+   },
+   {
       "artist" : "siromaru + cranky",
       "comment" : "微縦連",
       "level" : "19",
@@ -176,6 +231,17 @@
       "url_diff" : ""
    },
    {
+      "artist" : "hayato87b + C4 + ALL NERD IS LOVE",
+      "comment" : "同時押し,皿複合,☆9相当",
+      "level" : "-2",
+      "lr2_bmsid" : 285178,
+      "md5" : "1d74b06016fcd7240babd0943623c673",
+      "name_diff" : "同梱譜面",
+      "title" : "yavailable [HYPER]",
+      "url" : "https://beatmaniauet.wixsite.com/kusekorebmspack2020",
+      "url_diff" : ""
+   },
+   {
       "artist" : "uet",
       "comment" : "高速乱打,LN,☆10相当",
       "level" : "-1",
@@ -207,6 +273,39 @@
       "title" : "Magus Logos [C4A]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=45&event=102",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02348"
+   },
+   {
+      "artist" : "Nakaiankow",
+      "comment" : "後半難,微縦連,ズレ",
+      "level" : "24",
+      "lr2_bmsid" : 282104,
+      "md5" : "25424c3d4c970f8d975a91bcb513960d",
+      "name_diff" : "同梱譜面",
+      "title" : "Smudge",
+      "url" : "http://starkey.ivory.ne.jp/bemusicwest/bmw2/detail/view/7/",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "C4",
+      "comment" : "VERY HARD判定,ポリリズム,☆6相当",
+      "level" : "98",
+      "lr2_bmsid" : 278072,
+      "md5" : "26c5c425a26203d74b748b095b8c885b",
+      "name_diff" : "同梱譜面",
+      "title" : "Mechanisches Spielzeug kaputt [SP NORMAL]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=157&event=127",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "B4 (BBBB + C4)",
+      "comment" : "LN,ズレ,☆9相当",
+      "level" : "-2",
+      "lr2_bmsid" : 278463,
+      "md5" : "275216a9d74f8bdc51e495346712eb66",
+      "name_diff" : "同梱譜面",
+      "title" : "Zelena [SP HYPER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=243&event=127",
+      "url_diff" : ""
    },
    {
       "artist" : "er",
@@ -242,6 +341,17 @@
       "url_diff" : ""
    },
    {
+      "artist" : "qfeileadh",
+      "comment" : "ガチ押し",
+      "level" : "23",
+      "lr2_bmsid" : 279667,
+      "md5" : "28bc82d0a78ad66f79fa8ab2a461032f",
+      "name_diff" : "本体未同梱(ここからDL可)",
+      "title" : "breathe [SP UNIVERSE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=287&event=127",
+      "url_diff" : "https://www.dropbox.com/s/3xqy2mronkqej4q/_breathe_i2.bms?dl=1"
+   },
+   {
       "artist" : "空読無 白眼",
       "comment" : "同梱譜面のVERY HARD判定のやつ,縦連",
       "level" : "98",
@@ -262,6 +372,17 @@
       "title" : "NS18 [7key kc]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=61",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02787"
+   },
+   {
+      "artist" : "Nakaiankow",
+      "comment" : "微縦連,階段,☆9相当",
+      "level" : "-2",
+      "lr2_bmsid" : 279379,
+      "md5" : "2de098c68ad5a3ae4a2f05ca3995dbc2",
+      "name_diff" : "同梱譜面",
+      "title" : "NowIt'sTimeToRaze!!!",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=337&event=127",
+      "url_diff" : ""
    },
    {
       "artist" : "toby fox Remixed by uet",
@@ -308,6 +429,39 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02736"
    },
    {
+      "artist" : "CAELUS",
+      "comment" : "同時押し,LN,微縦連",
+      "level" : "11",
+      "lr2_bmsid" : 282183,
+      "md5" : "35d31942dd3f1112073e81a395cac75c",
+      "name_diff" : "同梱譜面",
+      "title" : "Jandaya [7K INSANE]",
+      "url" : "http://starkey.ivory.ne.jp/bemusicwest/bmw2/detail/view/15/",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "hayato87b",
+      "comment" : "物量乱打,皿複合,低TOTAL(0.08%)",
+      "level" : "19",
+      "lr2_bmsid" : 283230,
+      "md5" : "3601d99a14eb77bddd4f9021b987111c",
+      "name_diff" : "同梱譜面",
+      "title" : "Invisible FullMoon 2021",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=129",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "C4 Remixed by uet",
+      "comment" : "物量,皿複合,局所難",
+      "level" : "25",
+      "lr2_bmsid" : 285198,
+      "md5" : "37649a6af76c0b41dea4d28b3bdf5342",
+      "name_diff" : "同梱譜面",
+      "title" : "Chilly (uet Remix) [tempest]",
+      "url" : "https://beatmaniauet.wixsite.com/kusekorebmspack2020",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Hate",
       "comment" : "ずれガチ押し,<b>stella st0</b>",
       "level" : "19",
@@ -317,6 +471,28 @@
       "title" : "duty [act out of ”duty”]",
       "url" : "https://mega.nz/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02787"
+   },
+   {
+      "artist" : "R*uLuru",
+      "comment" : "中速,高速乱打,<b>satellite sl1</b>",
+      "level" : "2",
+      "lr2_bmsid" : 283422,
+      "md5" : "37f5309c50a7cbc2d43243ace22c91ac",
+      "name_diff" : "差分(C4 + monaka)",
+      "title" : "Alitatrieb [Madness]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=121",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04060"
+   },
+   {
+      "artist" : "C4",
+      "comment" : "VERY HARD判定,ポリリズム,階段,皿,40分(?),80分(??)",
+      "level" : "98",
+      "lr2_bmsid" : 278109,
+      "md5" : "384140dff77477a46eccba1f65e94412",
+      "name_diff" : "同梱譜面",
+      "title" : "Mechanisches Spielzeug kaputt [SP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=157&event=127",
+      "url_diff" : ""
    },
    {
       "artist" : "qfeileadh feat. レゾナンスもえこ",
@@ -342,7 +518,7 @@
    },
    {
       "artist" : "tolz",
-      "comment" : "☆11相当,地雷アニメーション,低速,縦連,はい！,HSはFIX時の5/6推奨,<b>癖サブ¿¡4</b>",
+      "comment" : "☆11相当,地雷アニメーション,低速,縦連,はい！,やや低TOTAL,HSはFIX時の5/6推奨,<b>癖サブ¿¡4</b>",
       "level" : "0",
       "lr2_bmsid" : 275840,
       "md5" : "3a339209339f313939d173c2279b7602",
@@ -407,6 +583,17 @@
       "url_diff" : ""
    },
    {
+      "artist" : "ShiraiC4",
+      "comment" : "小節線ワープ,☆4相当",
+      "level" : "-3",
+      "lr2_bmsid" : 279744,
+      "md5" : "3e42f97023416e41b8b67fbb293c78ee",
+      "name_diff" : "同梱譜面",
+      "title" : "XALICE [SP NORMAL]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=355&event=127",
+      "url_diff" : ""
+   },
+   {
       "artist" : "69 de 74",
       "comment" : "総合力,<b>satellite sl9</b>",
       "level" : "14",
@@ -438,17 +625,6 @@
       "title" : "V804N [SP ANOTHER]",
       "url" : "http://www.mediafire.com/file/18wnwxx50a83drz/V804N.zip",
       "url_diff" : ""
-   },
-   {
-      "artist" : "kurenaissance",
-      "comment" : "皿複合,前半難気味,<b>satellite sl5</b>",
-      "level" : "8",
-      "lr2_bmsid" : 263592,
-      "md5" : "499020bcbac1e7ad0e728b9ddb281f9c",
-      "name_diff" : "差分(颯 vs C4)",
-      "title" : "LivedaM (imagination)",
-      "url" : "http://web.archive.org/web/20140726074203/http://kurenaissance.web6.jp/bms/livedam.rar",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02048"
    },
    {
       "artist" : "C4",
@@ -594,6 +770,17 @@
       "url_diff" : ""
    },
    {
+      "artist" : "r , ただの鯨 , 自由落下(FreeFall)",
+      "comment" : "トリル,終盤難",
+      "level" : "8",
+      "lr2_bmsid" : 278437,
+      "md5" : "5a6cd52d698606a4dfdd81cfed94819d",
+      "name_diff" : "同梱譜面",
+      "title" : "vivace tramonto [SP INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=224&event=127",
+      "url_diff" : ""
+   },
+   {
       "artist" : "plastic feat.サキト",
       "comment" : "ディレイ,<b>satellite sl4</b>",
       "level" : "7",
@@ -603,6 +790,17 @@
       "title" : "ひつぎとふたご [7KEY/A2]",
       "url" : "http://wayback.archive.org/web/20081003060805/http://placase.bms.ms:80/data/bms/pla_futago.rar",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02051"
+   },
+   {
+      "artist" : "Nakaiankow",
+      "comment" : "後半難,微縦連,ズレ,☆12相当",
+      "level" : "0",
+      "lr2_bmsid" : 282055,
+      "md5" : "5d5bf6d12a22394bdd8a815ee935fb8a",
+      "name_diff" : "同梱譜面",
+      "title" : "Smudge",
+      "url" : "http://starkey.ivory.ne.jp/bemusicwest/bmw2/detail/view/7/",
+      "url_diff" : ""
    },
    {
       "artist" : "fether",
@@ -759,6 +957,28 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Felisica",
+      "comment" : "VERY HARD判定,unreasonableな縦連",
+      "level" : "98",
+      "lr2_bmsid" : 278120,
+      "md5" : "72275eead9223d993dca3f307689b7e5",
+      "name_diff" : "同梱譜面",
+      "title" : "Roaming melancholy [unreasonable]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=85&event=127",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "C4",
+      "comment" : "階段,☆6相当",
+      "level" : "-3",
+      "lr2_bmsid" : 278081,
+      "md5" : "7302438caa6ccf44cbc689b89b0475bb",
+      "name_diff" : "同梱譜面",
+      "title" : "Rainfall In Grassland [SP NORMAL]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=177&event=127",
+      "url_diff" : ""
+   },
+   {
       "artist" : "しらいし",
       "comment" : "階段,縦連,☆10相当",
       "level" : "-1",
@@ -792,15 +1012,26 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01487"
    },
    {
-      "artist" : "R*uLuru",
-      "comment" : "中速,高速乱打,<b>satellite sl1</b>",
-      "level" : "2",
-      "lr2_bmsid" : 264763,
-      "md5" : "797ded0efc357dea2f4cae56536ebd3b",
-      "name_diff" : "差分(C4 + monaka)",
-      "title" : "Alitatrieb [Madness]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=121",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02188"
+      "artist" : "C4",
+      "comment" : "同時押し,小トリル,☆10相当",
+      "level" : "-1",
+      "lr2_bmsid" : 278600,
+      "md5" : "78aff5445a81a136e093bac8837bf055",
+      "name_diff" : "同梱譜面",
+      "title" : "Rainfall In Grassland [SP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=177&event=127",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "STS-88 (a.k.a. 九八式旋回機関銃&NASA)",
+      "comment" : "物量,低速,微縦連,ラスト殺し",
+      "level" : "16",
+      "lr2_bmsid" : 267304,
+      "md5" : "7da9469313e7d12e8ef54f2c101e181b",
+      "name_diff" : "同梱譜面",
+      "title" : "Halo [C4-Initial]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=251&event=123",
+      "url_diff" : ""
    },
    {
       "artist" : "STS-88 (a.k.a. 九八式旋回機関銃&NASA)",
@@ -836,6 +1067,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03216"
    },
    {
+      "artist" : "455",
+      "comment" : "運指崩しの高難易度化,最後は指の本数が足りない",
+      "level" : "24",
+      "lr2_bmsid" : 284522,
+      "md5" : "85e6fbd01363702e6b8800dca9ab2953",
+      "name_diff" : "差分",
+      "title" : "G e n g a o z o _ 関 節 崩 し",
+      "url" : "http://malie.noor.jp/",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04205"
+   },
+   {
       "artist" : "削除 feat. Nikki Simmons",
       "comment" : "縦連色々",
       "level" : "18",
@@ -855,6 +1097,17 @@
       "name_diff" : "同梱譜面",
       "title" : "カリオストロの穿孔 [KHRYSOS]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=310&event=116",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "B4 (BBBB + C4)",
+      "comment" : "☆2相当",
+      "level" : "-4",
+      "lr2_bmsid" : 278464,
+      "md5" : "89812600aed262b5e5b196149ce067d8",
+      "name_diff" : "同梱譜面",
+      "title" : "Zelena [SP BEGINNER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=243&event=127",
       "url_diff" : ""
    },
    {
@@ -968,6 +1221,28 @@
       "url_diff" : ""
    },
    {
+      "artist" : "B4 (BBBB + C4)",
+      "comment" : "緑は迷路,地雷アニメーション,小節線アニメーション,ズレ,地雷避け,やや低TOTAL",
+      "level" : "0",
+      "lr2_bmsid" : 278461,
+      "md5" : "9690b9878a5447f5edef03e219fd993e",
+      "name_diff" : "同梱譜面",
+      "title" : "Zelena [SP LABIRINT]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=243&event=127",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "ShiraiC4",
+      "comment" : "同時押し,小節線ワープ",
+      "level" : "4",
+      "lr2_bmsid" : 279749,
+      "md5" : "977ada326522b209ef05296bac85a14b",
+      "name_diff" : "同梱譜面",
+      "title" : "XALICE [SP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=355&event=127",
+      "url_diff" : ""
+   },
+   {
       "artist" : "C4",
       "comment" : "本当の初心者向け,☆1相当",
       "level" : "-4",
@@ -990,15 +1265,15 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02220"
    },
    {
-      "artist" : "R*uLuru",
-      "comment" : "中速、高速乱打,<b>satellite sl8</b>",
-      "level" : "13",
-      "lr2_bmsid" : 264764,
-      "md5" : "9a4f793c19d3f7b27187bf50b858e95d",
-      "name_diff" : "差分(C4 + monaka)",
-      "title" : "Alitatrieb [Insanity]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=121",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02188"
+      "artist" : "qfeileadh",
+      "comment" : "微縦連物量,序盤難",
+      "level" : "8",
+      "lr2_bmsid" : 278437,
+      "md5" : "9a482e0b697042322bc7cad50fa93c5c",
+      "name_diff" : "同梱譜面",
+      "title" : "breathe [SP INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=287&event=127",
+      "url_diff" : ""
    },
    {
       "artist" : "ZUN/arr.みょん",
@@ -1042,6 +1317,17 @@
       "name_diff" : "同梱譜面",
       "title" : "サカサマの空に在ったのは [SP PUDDLE]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=123",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "Setca.",
+      "comment" : "物量,微縦連",
+      "level" : "24",
+      "lr2_bmsid" : 283421,
+      "md5" : "a3d0fe26e62806a85e47b543b42c1dfd",
+      "name_diff" : "同梱譜面",
+      "title" : "Unlucky Tornado [Insane]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=58&event=129",
       "url_diff" : ""
    },
    {
@@ -1207,6 +1493,17 @@
       "name_diff" : "同梱譜面",
       "title" : "新いかBMSシRchHtりAnbkXyZしKKKKtTけどM早HamNsmL青白いSnPBpRssT常990",
       "url" : "https://event.yaruki0.net/VSevent/impression/6",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "Setca.",
+      "comment" : "トラップの嵐,低TOTAL(122TOTAL)",
+      "level" : "99",
+      "lr2_bmsid" : 283420,
+      "md5" : "b651cc3d611a78cdb577db3abd8d7c51",
+      "name_diff" : "同梱譜面(hina)",
+      "title" : "Unlucky Tornado [Trap Tornado]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=58&event=129",
       "url_diff" : ""
    },
    {
@@ -1397,6 +1694,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02138"
    },
    {
+      "artist" : "R*uLuru",
+      "comment" : "中速、高速乱打,局所難,<b>satellite sl8</b>",
+      "level" : "13",
+      "lr2_bmsid" : 283424,
+      "md5" : "ceedcf9712b3018c1fd7e7bf87454139",
+      "name_diff" : "差分(C4 + monaka)",
+      "title" : "Alitatrieb [Insanity]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=121",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04060"
+   },
+   {
       "artist" : "ROKINA",
       "comment" : "乱打,ディレイ,物量,<b>stella st10</b>",
       "level" : "26",
@@ -1428,6 +1736,28 @@
       "title" : "G-SHOCK [C4A]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=155&event=123",
       "url_diff" : "https://bmscharteditorsgroup.wixsite.com/initialatoz"
+   },
+   {
+      "artist" : "庭師",
+      "comment" : "物量,加速とワープ,低TOTAL(0.10%)",
+      "level" : "15",
+      "lr2_bmsid" : 279769,
+      "md5" : "d28568425cb67d2b429e0b77750bf24a",
+      "name_diff" : "同梱譜面",
+      "title" : "Cyclone-Joker [Insane]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=357&event=127",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "颯",
+      "comment" : "物量乱打,同時押し,皿複合",
+      "level" : "17",
+      "lr2_bmsid" : 278578,
+      "md5" : "d5058dcbb7f6386e78043e349379ec5e",
+      "name_diff" : "同梱譜面",
+      "title" : "excite cracker [INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=227&event=127",
+      "url_diff" : ""
    },
    {
       "artist" : "LeaF",
@@ -1485,6 +1815,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01872"
    },
    {
+      "artist" : "Nakaiankow Original:ZUN",
+      "comment" : "微縦連,中速乱打,中盤難",
+      "level" : "14",
+      "lr2_bmsid" : 283922,
+      "md5" : "d9d7f3111a82dcb3ab638ca974aaeb7d",
+      "name_diff" : "差分",
+      "title" : "T.G.T.G.L. [fell in love]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=129",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/"
+   },
+   {
       "artist" : "しらいし",
       "comment" : "32分混じりの物量,<b>stella st4</b>",
       "level" : "23",
@@ -1493,6 +1834,39 @@
       "name_diff" : "同梱譜面",
       "title" : "XIX [SP INSANE]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=132&event=127",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "C4",
+      "comment" : "同時押し,☆8相当",
+      "level" : "-2",
+      "lr2_bmsid" : 278136,
+      "md5" : "dbf1b0a5e64718cd67a0f74ea358a9db",
+      "name_diff" : "同梱譜面",
+      "title" : "Rainfall In Grassland [SP HYPER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=177&event=127",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "CAELUS",
+      "comment" : "同時押し,LN,微縦連,☆10相当",
+      "level" : "-2",
+      "lr2_bmsid" : 282169,
+      "md5" : "de02226e7edda736ee12a6495a7bcf48",
+      "name_diff" : "同梱譜面",
+      "title" : "Jandaya [7K ANOTHER]",
+      "url" : "http://starkey.ivory.ne.jp/bemusicwest/bmw2/detail/view/15/",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "B4 (BBBB + C4)",
+      "comment" : "同時押し,ズレ,終盤難,細かい配置,<b>satellite sl3</b>",
+      "level" : "5",
+      "lr2_bmsid" : 278466,
+      "md5" : "e2662efb3922276a4605d7e83c06174a",
+      "name_diff" : "同梱譜面",
+      "title" : "Zelena [SP INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=243&event=127",
       "url_diff" : ""
    },
    {
@@ -1516,6 +1890,17 @@
       "title" : "Anarchist [SP NORMAL]",
       "url" : "http://beatmaniauet.sakura.ne.jp/BMS/uet_Anarchist_ogg.zip",
       "url_diff" : ""
+   },
+   {
+      "artist" : "Yonder Voice",
+      "comment" : "微縦連,物量,やや局所難",
+      "level" : "25",
+      "lr2_bmsid" : 283924,
+      "md5" : "e5820d94259154bff12b6ad106997420",
+      "name_diff" : "差分(AnyOasis(C4&NASA))",
+      "title" : "Black or White [Abyss Nova]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=129",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/"
    },
    {
       "artist" : "ZUN/arr.みょん",
@@ -1551,6 +1936,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02130"
    },
    {
+      "artist" : "Aoi",
+      "comment" : "物量,ラスト殺し",
+      "level" : "16",
+      "lr2_bmsid" : 279907,
+      "md5" : "e8c0497e466e1b20c31430a95b1deea5",
+      "name_diff" : "同梱譜面",
+      "title" : "c.s.q.n. [BUT FOR CONDITION]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=223&event=127",
+      "url_diff" : ""
+   },
+   {
       "artist" : "しらいし",
       "comment" : "交互押し,縦連,16分,☆7相当",
       "level" : "-3",
@@ -1559,6 +1955,17 @@
       "name_diff" : "同梱譜面",
       "title" : "XIX [SP NORMAL]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=132&event=127",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "B4 (BBBB + C4)",
+      "comment" : "同時押し,ズレ,終盤難,細かい配置",
+      "level" : "23",
+      "lr2_bmsid" : 278467,
+      "md5" : "ed5fb48f239030d24f7136935080732e",
+      "name_diff" : "同梱譜面",
+      "title" : "Zelena [SP NARAVA]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=243&event=127",
       "url_diff" : ""
    },
    {
@@ -1604,6 +2011,17 @@
       "title" : "物怪舞踏 [河童]",
       "url" : "http://tsubu.ath.cx/~electrogic/bms/mononoke.rar",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01973"
+   },
+   {
+      "artist" : "庭師",
+      "comment" : "二重乱打,ワープ,前半難,☆12相当",
+      "level" : "0",
+      "lr2_bmsid" : 279764,
+      "md5" : "f17b3c8fbf09823c31c5ec65b19b3003",
+      "name_diff" : "同梱譜面",
+      "title" : "Cyclone-Joker [Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=357&event=127",
+      "url_diff" : ""
    },
    {
       "artist" : "RANDO:",
@@ -1716,6 +2134,17 @@
       "url_diff" : ""
    },
    {
+      "artist" : "II-L",
+      "comment" : "微縦連,リズム難のNORMAL判定,皿複合,やや高TOTAL(0.31%)",
+      "level" : "20",
+      "lr2_bmsid" : 278294,
+      "md5" : "fbfc9b8e816548da46509d63c4d90035",
+      "name_diff" : "同梱譜面",
+      "title" : "VANGUARD-1",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=204&event=127",
+      "url_diff" : ""
+   },
+   {
       "artist" : "keyc",
       "comment" : "ガチ押し,高速物量",
       "level" : "26",
@@ -1725,5 +2154,27 @@
       "title" : "Revenger [(^^)retuned]",
       "url" : "http://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02206"
+   },
+   {
+      "artist" : "C4",
+      "comment" : "同時押し",
+      "level" : "18",
+      "lr2_bmsid" : 278088,
+      "md5" : "fd64b204997a497eb378a89cc4dd74f8",
+      "name_diff" : "同梱譜面",
+      "title" : "Rainfall In Grassland [SP HARD MODE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=177&event=127",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "kurenaissance",
+      "comment" : "皿複合,前半難気味,<b>satellite sl5</b>",
+      "level" : "8",
+      "lr2_bmsid" : 283423,
+      "md5" : "ff9466e1b9fe2f8f703ab33f80c4803d",
+      "name_diff" : "差分(颯 vs C4)",
+      "title" : "LivedaM (imagination)",
+      "url" : "http://web.archive.org/web/20140726074203/http://kurenaissance.web6.jp/bms/livedam.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04059"
    }
 ]
