@@ -1115,7 +1115,7 @@
    {
       "artist" : "sak with.ごくごくプリン Movie: げ～むばか",
       "comment" : "BOFXV、乱打、連打",
-      "level" : "5",
+      "level" : "4",
       "md5" : "1b3a69ba41f4755f0b566a348c2eb4b0",
       "proposer" : "ww",
       "sha256" : "7c8fe2ba63c0d613eee0d18351ad65f55103ed65729e39d5e7c3c88022e30c96",
@@ -1658,6 +1658,18 @@
       "title" : "Astar [ANOTHER+]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=176&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02612"
+   },
+   {
+      "artist" : "Yu^ta obj.quad",
+      "comment" : "ディレイ",
+      "level" : "11",
+      "md5" : "25eaf10ef0085443932317c03a65f333",
+      "proposer" : "MineC24",
+      "sha256" : "6b0d1951027358e77bffd816dcd77ffd83cdddd6dee29ba5975f5a46eea25c8d",
+      "submission" : 1350,
+      "title" : "Sunny [ディレイ&物量]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=201&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=2779"
    },
    {
       "artist" : "うまるつふり obj.sitoras",
@@ -2442,7 +2454,7 @@
    {
       "artist" : "れおん obj:SUZUKAZEΛ",
       "comment" : "BOFXV 乱打 ズレ AND MORE!",
-      "level" : "5",
+      "level" : "6",
       "md5" : "39ad67fbdc031d92ea62e8bc0efdf2ca",
       "proposer" : "氷城つるぎ",
       "sha256" : "4fff39d3631bcaa6f2bffbf567f87ece515127dfe8125ff766b1c7ca3070e4eb",
@@ -3078,7 +3090,7 @@
    },
    {
       "artist" : "TetraElemental obj:SUZUKAZEΛ",
-      "level" : "4",
+      "level" : "5",
       "md5" : "493f012b3b095b1a9958e7da49152e8e",
       "proposer" : "''",
       "proposerLr2id" : 86456,
@@ -4004,6 +4016,18 @@
       "title" : "island dream [lunatic]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=123&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02246"
+   },
+   {
+      "artist" : "litmus* as Ester movie:なおや / obj:SUZUKAZEΛ vs litmus*",
+      "comment" : "BOFXV",
+      "level" : "4",
+      "md5" : "5a9db579baf2e9cf23a1d7d773ca7487",
+      "proposer" : "氷城つるぎ",
+      "sha256" : "906192e4e64d13f9fd9334e0d95960fde7d3347b97dd085bc397bb5b86d7db8d",
+      "submission" : 1353,
+      "title" : "Krave [Insane]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=76&event=127",
+      "url_diff" : ""
    },
    {
       "artist" : "wa. vs ETIA. / obj:夢瑠 deadblue238",
@@ -5808,6 +5832,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "鳩 Obj.Triforce",
+      "comment" : "体力系、難易度自体は★4~5級ですが疲れやすいのでsl4に",
+      "level" : "4",
+      "md5" : "83855e7be644eef3af16b58a704fc77b",
+      "proposer" : "MarySue",
+      "sha256" : "ec729fb68597915190bcea69812f726c3838592bd19b7630d191151a2de53495",
+      "submission" : 1324,
+      "title" : "Alastor [Nigh]",
+      "url" : "http://skydrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21111",
+      "url_diff" : "https://trfce.github.io/sabun/(107)Alastor_Triforce.zip"
+   },
+   {
       "artist" : "anubasu-anubasu / obj:sagoo BGA by 出前",
       "comment" : "trick or treat!",
       "level" : "1",
@@ -5906,6 +5942,18 @@
       "url_diff" : "https://bms.parksulab.xyz/"
    },
    {
+      "artist" : "Lokan Obj. DK",
+      "comment" : "1~2",
+      "level" : "2",
+      "md5" : "86312e5ac9a3afc35f58568942c3a61a",
+      "proposer" : "|/|",
+      "sha256" : "afcf091ec59c4a435c7fec51fb23a0b3fd4c352d14dbbd6e18a6c8d4dc37180d",
+      "submission" : 1359,
+      "title" : "introspect [SP INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=211&event=127",
+      "url_diff" : ""
+   },
+   {
       "artist" : "m108 BGA:メツヤ Illust:flap /obj:monaka",
       "comment" : "BPM195→BPM186　ギアチェン可能",
       "level" : "9",
@@ -5965,6 +6013,18 @@
       "title" : "Lonely Cat [雨]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=48&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04140"
+   },
+   {
+      "artist" : "SP-#",
+      "comment" : "0~1",
+      "level" : "1",
+      "md5" : "872beeb6216d589a6d599072197c9bfb",
+      "proposer" : "MineC24",
+      "sha256" : "782b0138d3d43c079e4abde61adf9293f87a1926f87c3cfa5c61886de020e9b1",
+      "submission" : 1349,
+      "title" : "mental blood [7 keys another]",
+      "url" : "https://www.dropbox.com/s/yc50as7hyxhgpth/mental%20blood.zip?dl=1",
+      "url_diff" : ""
    },
    {
       "artist" : "7mai",
@@ -6508,7 +6568,7 @@
    {
       "artist" : "くるぶっこちゃん BGA : geniway / obj:SUZUKAZEΛ",
       "comment" : "ガチ押し？",
-      "level" : "5",
+      "level" : "4",
       "md5" : "94916bd3f13b647cee521defd5baaedf",
       "proposer" : "w2w2",
       "sha256" : "ece0f8ed95fd58adb25229ab64bc759a0899ed2f12e542e3d9ccef60574a55c9",
@@ -7514,6 +7574,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "54cm obj.2RLZ",
+      "comment" : "超短距離走ディレイ",
+      "level" : "1",
+      "md5" : "ac8f91b6b7da90badb18fea021e38c0a",
+      "proposer" : "SHAX.",
+      "sha256" : "696d547a4f51fa66ad96a4ce882c7fda83ce5324f2ed1e5cfadf1d8daad002aa",
+      "submission" : 1364,
+      "title" : "十七絃と箏と尺八のための萃夢想 [十七メートル走]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=129",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/"
+   },
+   {
       "artist" : "Cres/*8284* obj:monaka",
       "comment" : "from Stella",
       "level" : "12",
@@ -7576,7 +7648,7 @@
    {
       "artist" : "LeaF Movie:To7",
       "comment" : "8分乱打?",
-      "level" : "4",
+      "level" : "5",
       "md5" : "ae1f33b3beeb299dc9a775437b5e0a1b",
       "proposer" : "Thaw",
       "sha256" : "9d1112fb797613e900c5f310d9bf151059ce50cf987fa5e523bc7aedd45cd214",
@@ -7852,7 +7924,7 @@
    },
    {
       "artist" : "sasakure.UK/差分　赤い人",
-      "level" : "3",
+      "level" : "4",
       "md5" : "b2adb12fa61641b332875c290b6e0901",
       "proposer" : "파이어",
       "proposerLr2id" : 7290,
@@ -9269,7 +9341,7 @@
    {
       "artist" : "BMS Sound Team\"DJ 筆箱\" / BMS Designers\"VJ 牛乳パック\" obj:七海",
       "comment" : "from Stella",
-      "level" : "12",
+      "level" : "11",
       "md5" : "cf44c1e88c6a5545728c0468040a63e4",
       "proposer" : "LUXURY♪",
       "sha256" : "0a9388f21ec4a8b3dcbef681c4f7d35e60aa62582e87815d222e277b9a1ce4db",
@@ -10135,6 +10207,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "qfeileadh feat.レゾナンスもえこ mov:自動車 原付",
+      "comment" : "PABAT! 2020 / sl0 上、地力、LN、皿複合",
+      "level" : "0",
+      "md5" : "e26844aabaa0348d3bece720d7bc4825",
+      "proposer" : "DK",
+      "sha256" : "236b63fbe1aed678342c362832d931cafd5bf0c7e55b1ef0eb91ae1888ebfe45",
+      "submission" : 1360,
+      "title" : "Prismrose [SP ANOTHER]",
+      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=19&order=reg&odtype=a",
+      "url_diff" : ""
+   },
+   {
       "artist" : "-RYO- / obj:秘密",
       "level" : "2",
       "md5" : "e27a5d3958df862a2fb38a8fa393a18f",
@@ -10581,6 +10665,17 @@
       "url_diff" : "http://siokazebms.web.fc2.com/"
    },
    {
+      "artist" : "Εσοπτρον/差分 赤い人",
+      "level" : "5",
+      "md5" : "eadaff5b732c0b8dd6ecc7fa05803c6e",
+      "proposer" : "dstorv",
+      "sha256" : "eeff02578b41cd3fc050a4493bd2d690dd92f526f945e85a5e92be8b9353b5ef",
+      "submission" : 1355,
+      "title" : "Απομνημονευμαι [HARDEST]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/%ce%91%cf%80%ce%bf%ce%bc%ce%bd%ce%b7%ce%bc%ce%bf%ce%bd%ce%b5%cf%85%ce%bc%ce%b1%ce%b9%20%28by%20%ce%95%cf%83%ce%bf%cf%80%cf%84%cf%81%ce%bf%ce%bd%29.rar",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/Apomnhmoneumai_HARDEST.bme"
+   },
+   {
       "artist" : "Xect. SeibaR/obj.sitoras",
       "comment" : "皿複合、ズレ地帯、階段、乱打、二重階段、ラス殺し、少しLN\t",
       "level" : "10",
@@ -10822,6 +10917,18 @@
       "title" : "Ice Festival",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=421&event=116",
       "url_diff" : ""
+   },
+   {
+      "artist" : "Puella Voice : 結崎有理 / Illustration : Violpa / obj:SUZUKAZEΛ",
+      "comment" : "モノローグ",
+      "level" : "4",
+      "md5" : "f06660c61e2db1da1e3b2e6853c5bdd2",
+      "proposer" : "dstorv",
+      "sha256" : "9b1e0641b1e9ea951cdb0fd6167cbf856e46c57387f74666ff3bcd394f9f49c6",
+      "submission" : 1336,
+      "title" : "your wind, my blind [ZOI]",
+      "url" : "https://venue.bmssearch.net/bmsshuin2/38",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html"
    },
    {
       "artist" : "sukuramu42 Illust:恋々 / obj:LIEF",
@@ -11195,7 +11302,7 @@
    {
       "artist" : "Mathfabric ft. Aoki Lapis obj:kaguya",
       "comment" : "回復多め",
-      "level" : "1",
+      "level" : "2",
       "md5" : "f91b84f955467b31524d64ce4e557857",
       "proposer" : "MineC24",
       "sha256" : "7c35db4df2b745c135dfb7b6413cf76dc104985f6f01ef91bc817dcdeda905c7",

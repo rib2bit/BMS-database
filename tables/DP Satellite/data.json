@@ -37,7 +37,7 @@
    {
       "artist" : "ueotan /obj:松魚 reobj:k",
       "comment" : "8?、4つ同時押し",
-      "level" : "8",
+      "level" : "9",
       "md5" : "091001b3a2865a7c463f882de5377679",
       "proposer" : "JHS",
       "sha256" : "b4d67a170970bbb44ebd60fec2c89889348af80994589a9959348dd741e837fb",
@@ -95,6 +95,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "田井中 律/obj:epics-",
+      "comment" : "同時押し、乱打",
+      "level" : "10",
+      "md5" : "0c828e4a9805195c688972d2d58b89ad",
+      "proposer" : "にゃむ",
+      "sha256" : "fb76c6378ab092d937d33d245f8e71159386ec8c1906fde11ed77a82f5572da2",
+      "submission" : 279,
+      "title" : "異説彼岸花 第二 -終世のリコリス- [DP INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=141&event=65",
+      "url_diff" : "http://epics.client.jp/"
+   },
+   {
       "artist" : "zest:rave / Obj:ゆ～兎",
       "comment" : "乱打、階段",
       "level" : "10",
@@ -130,6 +142,53 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Triangle Waste (obj:HI)",
+      "comment" : "8?",
+      "level" : "8",
+      "md5" : "0fe0b055eb07f9feba4f9f26d8b725c7",
+      "proposer" : "JHS",
+      "sha256" : "1cb404731feb27cf1773ff4e73baabe703e3fd0e51ae689a9c303724b28cce6f",
+      "submission" : 275,
+      "title" : "Where To Feel [激鍵14]",
+      "url" : "https://venue.bmssearch.net/3/27",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "Junk obj:Starfish",
+      "comment" : "★10~★★2",
+      "level" : "10",
+      "md5" : "101c37c44d865b61b391fae7614eaaea",
+      "proposer" : "KENIN*",
+      "sha256" : "eddf175726e26b2fbebb3c684318430130c5d9a03ad4d11a6695d4ed91a6a670",
+      "submission" : 270,
+      "title" : "Life is PIANO [DP INS☆NE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=375&event=123",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/522"
+   },
+   {
+      "artist" : "sasakure.UK obj.quad",
+      "level" : "4",
+      "md5" : "103f559a7cecad6789109a21296d2371",
+      "proposer" : "coco",
+      "sha256" : "ad2131dfc394377d824a5666929f86d60fbcc1ad270279c6c2809ca7a3fe3d73",
+      "submission" : 267,
+      "title" : "searoad tracks =side blue= [DP MANIAC]",
+      "url" : "http://web.archive.org/web/20070727155516/http://sasakure.bms.ms/music/searemix.htm",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/642"
+   },
+   {
+      "artist" : "DJ TAKUAN 及び 佐倉アヤキ / obj:epics-",
+      "comment" : "3~4、押しづらい階段、トリル",
+      "level" : "3",
+      "md5" : "137821b71aee5d8444e7fcc38cd5690c",
+      "proposer" : "JHS",
+      "sha256" : "1125a5590f269b1e44b0f27e97e6d72fcba8577efc684fc56de519e3c3bfa1ea",
+      "submission" : 274,
+      "title" : "織姫 [dpinsane]",
+      "url" : "http://llllllllllll.sakura.ne.jp/djtakuan/",
+      "url_diff" : "https://drive.google.com/file/d/1x-5b7Fggvs-YkzPN7lnlG88Wr56Lg7Qz/view?usp=sharing"
+   },
+   {
       "artist" : "Remo-con Remixed by DJ LATI Obj:ゆ～兎",
       "comment" : "Luminous Package",
       "level" : "6",
@@ -152,6 +211,18 @@
       "title" : "Re:End of a Dream [DPH]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=543&event=110",
       "url_diff" : "https://w.atwiki.jp/14key/pages/23.html"
+   },
+   {
+      "artist" : "Iriss-Frantzz obj.LetsOTL",
+      "comment" : "2~3?",
+      "level" : "3",
+      "md5" : "1542e4cd8301369334457d3c6f4960bd",
+      "proposer" : "JHS",
+      "sha256" : "babe1d2827df9b16e3778d656d7dd126d813bb8a0a587472ba3c77b168464867",
+      "submission" : 272,
+      "title" : "Blacksphere [DP Noise mix]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=268&event=96",
+      "url_diff" : "http://www.dropbox.com/s/em85ufu8z90fcsg/_blacksphere_DPNoiz.zip?dl=0"
    },
    {
       "artist" : "ARForest / inukoro obj. Limite",
@@ -202,7 +273,7 @@
    },
    {
       "artist" : "天音",
-      "level" : "1",
+      "level" : "0",
       "md5" : "1cf006b02e60d21cef593be4a142d96e",
       "proposer" : "Jabberwock",
       "sha256" : "46e0afa589a02f91f9da7b25c9ecb5d3790f797a1e64d65d7ead7a6546cfadb0",
@@ -521,7 +592,7 @@
    {
       "artist" : "妻コロッケ / obj:OSR",
       "comment" : "9?、ズレ、ラスト殺し、Toy Musical2 カロセンリーチ、dpbms_1323.zip",
-      "level" : "9",
+      "level" : "10",
       "md5" : "470c74d414f15d5f2ae9b4c3f65ca787",
       "proposer" : "JHS",
       "sha256" : "7b71449d80208d0ef82114a5332538da06e18bd619264b6588b120a9cac05061",
@@ -545,7 +616,7 @@
    {
       "artist" : "sept",
       "comment" : "両手物量、前半難、前半に隣接皿3枚",
-      "level" : "0",
+      "level" : "1",
       "md5" : "48d0c83af7af94c25501d16d7f9bae09",
       "proposer" : "sagoo",
       "sha256" : "b91253c96b0545ffe4696360aecb9836b25dbb5c6335072abcc1321def75788c",
@@ -564,6 +635,30 @@
       "title" : "The Green Light [14KEYS INSANE]",
       "url" : "http://qstol.info/events/venue/detail?event=3&id=13",
       "url_diff" : "https://ux.getuploader.com/dpbms/download/231"
+   },
+   {
+      "artist" : "P4koo /OBJ:key",
+      "comment" : "階段、LN 差分は本体に同梱",
+      "level" : "10",
+      "md5" : "4a4fbf7e7c9a95a0b1dd34685331b9a3",
+      "proposer" : "にゃむ",
+      "sha256" : "cabe24070e802df6cd67b59d0c17b2999cc3b926d582bf8508e4bc9b60262a82",
+      "submission" : 280,
+      "title" : "Illusion of Mind [DP Another]",
+      "url" : "http://k-bms.com/party_pabat/party2014.jsp?board_num=11&num=24&order=reg&odtype=a",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "上杉うた/obj:epics-",
+      "comment" : "高速階段",
+      "level" : "9",
+      "md5" : "4b2d84e3ee6fddaf678d30cb695d638a",
+      "proposer" : "にゃむ",
+      "sha256" : "ee7b8de367c2763abf46779d84c5b243122337ab426e309f751de718c26c9229",
+      "submission" : 278,
+      "title" : "Judah [DP INSANE]",
+      "url" : "https://web.archive.org/web/20170227051837/http://creation-records.info/bms/judah_ogg.rar",
+      "url_diff" : "http://epics.client.jp/"
    },
    {
       "artist" : "-45 / obj: black train",
@@ -600,6 +695,18 @@
       "title" : "perfume of reunion -DP ANOTHER-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=75&event=120",
       "url_diff" : ""
+   },
+   {
+      "artist" : "Getty vs. DJ DiA obj:けろりん vs. げろちゃん BGA:わっふゑ vs. でこちんハンマー",
+      "comment" : "8?、高速乱打",
+      "level" : "8",
+      "md5" : "50e2f39b3d1904bbb16d308549901a19",
+      "proposer" : "JHS",
+      "sha256" : "5ed5d80391a61b93fcb53e78fa5dbfd8ad6bc977e22e2c8bfb98fbc5597a3b69",
+      "submission" : 257,
+      "title" : "Grayed Out -Antifront- [DPA]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=561&event=110",
+      "url_diff" : "http://yaruki0.sakura.ne.jp/sabun/dp.html"
    },
    {
       "artist" : "Lokan 0bj. 0ne",
@@ -662,9 +769,21 @@
       "url_diff" : "https://ux.getuploader.com/dpbms/download/629"
    },
    {
+      "artist" : "Arranged by Y.W obj : 71066",
+      "comment" : "9~10? 乱打",
+      "level" : "10",
+      "md5" : "594878a019df01f5412b72853b03484c",
+      "proposer" : "にゃむ",
+      "sha256" : "ebfd16a1eabe7f7025f0eeeaadf8d1ad6b36edfc1b8b35f3ba2dd228c589faf5",
+      "submission" : 277,
+      "title" : "ポケットモンスター BW2 アイリス戦 -One More Extra Stage-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=84",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/678"
+   },
+   {
       "artist" : "spine",
       "comment" : "BOF2016, normal judge",
-      "level" : "0",
+      "level" : "1",
       "md5" : "5dedb908c2d0fc61a09a2499ace14ee7",
       "proposer" : "Tyro",
       "sha256" : "cd8a96fe9e6830fa68398afd541dfa97c309bafecce27198a1437266b4251791",
@@ -684,6 +803,17 @@
       "title" : "４２２ [DP HYPER]",
       "url" : "http://qstol.info/events/venue/detail?event=3&id=42",
       "url_diff" : "https://drive.google.com/file/d/0B7qCw4hNijr4VFZJbzhVcEhTd28/view"
+   },
+   {
+      "artist" : "roop Obj.Triforce vs KENIN*",
+      "level" : "11",
+      "md5" : "5f5be91b44b0108d91c48e01b0e27c41",
+      "proposer" : "siyamaki",
+      "sha256" : "50d869b82a4db6a36b6d82dc25e34b867c1c667d269f1972be95af7a5e77b479",
+      "submission" : 287,
+      "title" : "Chatblanc [blache]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=200&event=96",
+      "url_diff" : "http://sunaneko.iptime.org/dpsabun_kenin.html"
    },
    {
       "artist" : "wigen mov.Lepusnette / obj.そにちゃん",
@@ -721,9 +851,21 @@
       "url_diff" : "http://epics.client.jp/"
    },
    {
+      "artist" : "ETIA. feat. Jenga obj:けろりん Movie: HDLV",
+      "comment" : "9~10?",
+      "level" : "9",
+      "md5" : "61296a55d89ae86f957873df1cd011f1",
+      "proposer" : "coco",
+      "sha256" : "af7029a6352e4b3edd0a632a8ff50c18ba8ed2d5d53ec4d0168f6eb64c52c373",
+      "submission" : 285,
+      "title" : "IKAROS [DP Nymph]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=110",
+      "url_diff" : "http://favokiti.info/bms/"
+   },
+   {
       "artist" : "Larimar / obj:3z Movie : Hauynite",
       "comment" : "11.6~11.8?",
-      "level" : "0",
+      "level" : "1",
       "md5" : "635523cefcb62fadaa7ba04fee92520b",
       "proposer" : "RIVERSTAR",
       "sha256" : "89bccb6978b098d75a47b5cda573f42500acf4c921ef549923e633f5911a30a5",
@@ -946,6 +1088,18 @@
       "url_diff" : "https://1drv.ms/x/s!Aoi5esJwIYCChk0BTx_U1KkswzSf"
    },
    {
+      "artist" : "w_tre / obj:Hador Lyrics by Sing_fUA",
+      "comment" : "元dp stelaで投票数不足により入らなかった譜面です。",
+      "level" : "12",
+      "md5" : "7a26d0eda820c694576926482b5ef5a6",
+      "proposer" : "よーすくBM",
+      "sha256" : "040296157cd792ef5b48e0f4152000cbc5b0e33f184623dd35367cf18b0b7a2e",
+      "submission" : 281,
+      "title" : "FIONA [Enjoy]",
+      "url" : "https://onedrive.live.com/?id=8C929E3095157692%21105&cid=8C929E3095157692",
+      "url_diff" : "https://drive.google.com/open?id=1RmlxtdEGAXZwkEk--64BEoWGM10GvSek"
+   },
+   {
       "artist" : "nmk feat.EUROBEATアイドル橘花音 / obj:2y",
       "comment" : "乱打, 階段",
       "level" : "1",
@@ -995,7 +1149,7 @@
    {
       "artist" : "oxygen / object by meteor*",
       "comment" : "A-1 ClimaX 4th",
-      "level" : "1",
+      "level" : "2",
       "md5" : "7d3a0c6cbd5f377bda50b0be87b86f2d",
       "proposer" : "Tyro",
       "sha256" : "7f2399584b5bdc48ec490bb9b24ea6952bba531ceb9814e2a191a7a97b41863f",
@@ -1133,6 +1287,18 @@
       "title" : "Ms.Naive Princess [Symmetry14]",
       "url" : "http://wayback.archive.org/web/20140803145510/http://roaraddiction.mods.jp/bms/x006_mnp_ogg.rar",
       "url_diff" : "http://epics.client.jp/"
+   },
+   {
+      "artist" : "Kei Izumi",
+      "comment" : "2?",
+      "level" : "2",
+      "md5" : "86335757e9ed29a86a00bd7d34cfe59a",
+      "proposer" : "JHS",
+      "sha256" : "fe5f62ef38e6dfb77bdcd73f8849ed02b2d85947f2326aedd1756c1027e4d7b1",
+      "submission" : 271,
+      "title" : "Lunar Pulse (DPA)",
+      "url" : "https://web.archive.org/web/20120111160002/http://prsq.sakura.ne.jp/data/lunarpulse_bms_ogg.zip",
+      "url_diff" : "https://w.atwiki.jp/14key/pages/23.html"
    },
    {
       "artist" : "ETIA. feat. Jenga obj:けろりん Movie: HDLV",
@@ -1369,6 +1535,18 @@
       "url_diff" : "https://www.dropbox.com/s/o436tq9egp4ylyb/Grisaille_DP.zip?dl=0"
    },
    {
+      "artist" : "Ploutonendou",
+      "comment" : "BOFXV",
+      "level" : "5",
+      "md5" : "a3a0fe509b86ba843ae1559397427844",
+      "proposer" : "coco",
+      "sha256" : "cefea9028abaa70f933a3ea6e89f95e79a9a64da08da29a41e8de20d8281dd67",
+      "submission" : 266,
+      "title" : "Shape [14Ex]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=109&event=127",
+      "url_diff" : ""
+   },
+   {
       "artist" : "minun♂ Remixed by AMAZE",
       "comment" : "0~1, unusual chart",
       "level" : "0",
@@ -1500,6 +1678,18 @@
       "url_diff" : "http://epics.client.jp/bms2011.html"
    },
    {
+      "artist" : "Yonder Voice",
+      "comment" : "3~4? 同時押し、後半回復",
+      "level" : "4",
+      "md5" : "adaba76dca4f2d8eb5518f79d6a0dbd3",
+      "proposer" : "にゃむ",
+      "sha256" : "ae63d02e83e74ebc43e479625dd833eb869c80ca4de3855db3d177f0a81cdbbc",
+      "submission" : 260,
+      "title" : "Black or White",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=129",
+      "url_diff" : ""
+   },
+   {
       "artist" : "daisan / object by meteor*",
       "comment" : "dpbms_0825.zip",
       "level" : "4",
@@ -1561,7 +1751,7 @@
    {
       "artist" : "sak feat.みゅい Movie: げ～むばか Illust: 球根 obj:nBel",
       "comment" : "9?",
-      "level" : "9",
+      "level" : "10",
       "md5" : "b0f4e90d2b48d2f57b035a5a5ae5afde",
       "proposer" : "JHS",
       "sha256" : "51348817b982957f9395d30f4217f10d54cbc1a7ccd1937c789ae3aebecce63a",
@@ -1573,7 +1763,7 @@
    {
       "artist" : "LV.4+-  by Spelma",
       "comment" : "★12(★★5?)、物量、体力、dpbms_1350.zip、感じられないノートズレ５つあり",
-      "level" : "11",
+      "level" : "12",
       "md5" : "b1ca95e12d38a70429a166db3e93dc9b",
       "proposer" : "JHS",
       "sha256" : "0780c60312cdde5f0d25f9117e2a0ed20a447348acfec5b456488ea5061a59f5",
@@ -1642,6 +1832,17 @@
       "url_diff" : "http://satchanvx.web.fc2.com/main/bms/"
    },
    {
+      "artist" : "ダージリン / obj:sagoo",
+      "level" : "4",
+      "md5" : "bb648bb7b6d71d24ae931c3140cb806c",
+      "proposer" : "coco",
+      "sha256" : "7beb5e282a162c1b7a2997f37a1822f5e9f5eef212eb380b1bea5b7f226fda2d",
+      "submission" : 268,
+      "title" : "Noblesse Gloria [DP-sagANOTHER]",
+      "url" : "http://nekokan.dyndns.info/~lobsak/genocide/grade.html",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/549"
+   },
+   {
       "artist" : "qfeileadh mov.アトリエ海百合　feat. レゾナンスもえこ / ハタイッセー",
       "comment" : "中速物量",
       "level" : "5",
@@ -1656,7 +1857,7 @@
    {
       "artist" : "麦コロッケ/obj:epics-",
       "comment" : "繰り返し、階段、多少着地",
-      "level" : "1",
+      "level" : "2",
       "md5" : "bcf1bb11c0174bb2deafc9dfc64d9254",
       "proposer" : "にゃむ",
       "sha256" : "650f729da6e342ac897a6222161c1447036a2582b872adb5c844ded9f55091ec",
@@ -1784,6 +1985,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "wigen mov.Lepusnette / obj.quad",
+      "comment" : "乱打 56小節に音の重複あり",
+      "level" : "6",
+      "md5" : "cc2151f6ba99e25ee52cf2fb2899c2eb",
+      "proposer" : "にゃむ",
+      "sha256" : "7dabc17e34f5386da3041ca431a04088431b7f3a723fc809adc7b0f231fee47b",
+      "submission" : 276,
+      "title" : "PLASTIC GIRLS (ft. Seorryang) [DP MANIAC]",
+      "url" : "http://k-bms.com/party_pabat/party2014.jsp?board_num=11&num=38&order=reg&odtype=a",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/641"
+   },
+   {
       "artist" : "STASTA TEKINA",
       "level" : "4",
       "md5" : "ce7d6db9389dea40079e947f2d83a2c5",
@@ -1901,6 +2114,17 @@
       "url_diff" : "https://ux.getuploader.com/dpbms/download/260"
    },
    {
+      "artist" : "Sound piercer vs. Iriss / Obj. 0ne",
+      "level" : "9",
+      "md5" : "d820be8513cd93b29f14d1ee0182d553",
+      "proposer" : "coco",
+      "sha256" : "bae014fc53d4520d84e87d54a4d642cb47769fd9345ba7ce3b1e62ec36691a2c",
+      "submission" : 284,
+      "title" : "BOUNCE THE TECH †LEGGENDARIA",
+      "url" : "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=27&order=reg&odtype=a",
+      "url_diff" : "https://drive.google.com/file/d/1zcK9yyVf7OlmsCWE9lPu1CrUCvBPqCHq/view"
+   },
+   {
       "artist" : "P4koo/Ruriling/Tofa Kim Obj. KENIN*",
       "comment" : "差分は本体に同梱、片手16分乱打",
       "level" : "2",
@@ -1984,6 +2208,18 @@
       "url_diff" : "http://flowermaster.web.fc2.com/kikaku/kikaku10.zip"
    },
    {
+      "artist" : "るるりえーる",
+      "comment" : "片手階段、LN",
+      "level" : "7",
+      "md5" : "de8c6827b28bc4b92471e7065d0eb698",
+      "proposer" : "にゃむ",
+      "sha256" : "0850adebb02f8e0439a07efa37fda0a93ce39e0ac83a4045621565e9ff03e6d2",
+      "submission" : 72,
+      "title" : "jus†ice [ANOTHER]",
+      "url" : "https://www.dropbox.com/s/ia27p6rqwhpwz70/jus%E2%80%A0ice_%E3%82%8B%E3%82%8B%E3%82%8A%E3%81%88%E3%83%BC%E3%82%8B.zip?dl=1",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Cosine BGA:うまうや、Kaoru Miyazaki / obj:Thulium",
       "level" : "1",
       "md5" : "dff6930e3435fe6552d4670c689d2270",
@@ -1997,7 +2233,7 @@
    {
       "artist" : "Cosine BGA:うまうや、Kaoru Miyazaki / obj:RaiN",
       "comment" : "7~8? 階段、同時押し",
-      "level" : "8",
+      "level" : "7",
       "md5" : "e0230ece736eac26896ec947f264dd2e",
       "proposer" : "にゃむ",
       "sha256" : "0483c9fc208196bf8b96063f81f73a9bc7851973aa22ee2fdd98139bd57caec7",
@@ -2016,6 +2252,17 @@
       "title" : "Nuts to You! [14KEYS ANOTHER]",
       "url" : "https://web.archive.org/web/20140818133628/http://roaraddiction.mods.jp/bms/x017_nty_ogg.rar",
       "url_diff" : "http://dpbms.at-ninja.jp/startarpackage/index.html"
+   },
+   {
+      "artist" : "ETIA.",
+      "level" : "9",
+      "md5" : "e2e430faf05b6a5d2b0ab301cb03657a",
+      "proposer" : "coco",
+      "sha256" : "c8b8dfdf85e86a4e477d5f4aa467afa377df141388710b386264011956063201",
+      "submission" : 283,
+      "title" : "Only Diversity [DPA]",
+      "url" : "https://pupuly.nekokan.dyndns.info/bms/v/69",
+      "url_diff" : "https://w.atwiki.jp/14key/pages/23.html"
    },
    {
       "artist" : "Tanchiky  obj:右手が恋人",
@@ -2149,7 +2396,7 @@
    {
       "artist" : "BilliumMoto Pattern: Liquart",
       "comment" : "ending is easy",
-      "level" : "1",
+      "level" : "2",
       "md5" : "f47dd3cd5f16c3e5f0372d6a35f4e5fc",
       "proposer" : "Tyro",
       "sha256" : "baaaeb97308bceb1341983f1a49a4d5cd21385a143e54d40435a917b5b6466c2",
@@ -2185,7 +2432,7 @@
    {
       "artist" : "NEKI←T＋Frost_Shrike (obj:k)",
       "comment" : "物量、トリル",
-      "level" : "2",
+      "level" : "3",
       "md5" : "f59aedc595217b62eed54f5ecf663fba",
       "proposer" : "Jabberwock",
       "sha256" : "a784057168b99fb5bd1dba96f92773898ca963fe2cc811ad2cb52368f74b12eb",

@@ -544,6 +544,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "WONDERTRAVELER Project",
+      "comment" : "G2R2018 / 中殺",
+      "level" : "1",
+      "md5" : "067dbb1ac3114cde10f90fb597cf83c8",
+      "proposer" : "DK",
+      "proposerLr2id" : 46697,
+      "sha256" : "7303f8391cd01969687c17e79d844a81f9d2ab7e6250f81c2cdc42aa8e5298cc",
+      "submission" : 1388,
+      "title" : "ASTRAEA [SP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=248&event=123",
+      "url_diff" : ""
+   },
+   {
       "artist" : "にょろも",
       "comment" : "同梱譜面",
       "level" : "2",
@@ -2146,7 +2159,7 @@
    {
       "artist" : "sak with.ごくごくプリン Movie: げ～むばか",
       "comment" : "BOFXV、乱打、連打",
-      "level" : "5",
+      "level" : "4",
       "md5" : "1b3a69ba41f4755f0b566a348c2eb4b0",
       "proposer" : "ww",
       "proposerLr2id" : 147642,
@@ -3208,6 +3221,19 @@
       "title" : "Pourqaa [SP INSANE]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=284&event=123",
       "url_diff" : "https://frozensat.github.io/sabun/Pourqaa_DK_fix.zip"
+   },
+   {
+      "artist" : "void / obj：甲殻類",
+      "comment" : "BPM120 16分軸 (キー音アレンジ差分)",
+      "level" : "11",
+      "md5" : "2852efb0e8bc9582876a67ce0d0a61eb",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "4c6c7d5d45b011a37578e5b1d6f81023f78a48cfdf03ec479ff1003f8cfcbf31",
+      "submission" : 1386,
+      "title" : "Painless Rain (KU☆SO)",
+      "url" : "http://mournfinale.com/bof2008/bms-painless_rain.zip",
+      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up1744.zip"
    },
    {
       "artist" : "SuraN",
@@ -4471,7 +4497,7 @@
    {
       "artist" : "れおん obj:SUZUKAZEΛ",
       "comment" : "BOFXV 乱打 ズレ AND MORE!",
-      "level" : "5",
+      "level" : "6",
       "md5" : "39ad67fbdc031d92ea62e8bc0efdf2ca",
       "proposer" : "氷城つるぎ",
       "proposerLr2id" : 151185,
@@ -5600,7 +5626,7 @@
    {
       "artist" : "TetraElemental obj:SUZUKAZEΛ",
       "comment" : "",
-      "level" : "4",
+      "level" : "5",
       "md5" : "493f012b3b095b1a9958e7da49152e8e",
       "proposer" : "''",
       "proposerLr2id" : 86456,
@@ -11408,7 +11434,7 @@
    {
       "artist" : "くるぶっこちゃん BGA : geniway / obj:SUZUKAZEΛ",
       "comment" : "ガチ押し？",
-      "level" : "5",
+      "level" : "4",
       "md5" : "94916bd3f13b647cee521defd5baaedf",
       "proposer" : "w2w2",
       "proposerLr2id" : 112172,
@@ -12421,6 +12447,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "tkqn14_Append mov:McGyber",
+      "comment" : "BPM155 縦連、二重階段",
+      "level" : "3",
+      "md5" : "a387ccc02c4562da6acf3cea50a26a32",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "bf19e9bc4f6ab6384aacbe0d46751634c8d2fed5afe8d8cdba138dd993923c8a",
+      "submission" : 1387,
+      "title" : "#00FFFF [SP SEDNEM]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=237&event=127",
+      "url_diff" : ""
+   },
+   {
       "artist" : "ああああ [Lyrics：あゆむ]  [Vocal：seaside-metro]  [BGA：TOYCAT]",
       "level" : "0",
       "md5" : "a40af0bc31c2324abca47fb93a6c38dc",
@@ -13330,7 +13369,7 @@
    {
       "artist" : "LeaF Movie:To7",
       "comment" : "8分乱打?",
-      "level" : "4",
+      "level" : "5",
       "md5" : "ae1f33b3beeb299dc9a775437b5e0a1b",
       "proposer" : "Thaw",
       "proposerLr2id" : 145739,
@@ -13697,6 +13736,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "69 de 74 BGI:れおん/黒鵜織羽 / obj:SUZUKAZEΛ",
+      "comment" : "欲しい！",
+      "level" : "5",
+      "md5" : "b1bfc73fc06bdc2345eca9ea9286292d",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "ac462dc591074df3d027e71cc6a688ed978008937091f6ae4e291fa43ca2c6bd",
+      "submission" : 1385,
+      "title" : "5億円が欲しいRENAISSANCE [ZOI]",
+      "url" : "https://dropbox.com/s/z7ylf1l80grpybm/%5B69%20de%2074%5D5oku_RENAISSANCE_ogg.zip?dl=1",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html"
+   },
+   {
       "artist" : "-45 / obj：mitsuba",
       "comment" : "ディレイ気味の乱打",
       "level" : "12",
@@ -13783,7 +13835,7 @@
    },
    {
       "artist" : "sasakure.UK/差分　赤い人",
-      "level" : "3",
+      "level" : "4",
       "md5" : "b2adb12fa61641b332875c290b6e0901",
       "proposer" : "파이어",
       "proposerLr2id" : 7290,
@@ -16335,7 +16387,7 @@
    {
       "artist" : "BMS Sound Team\"DJ 筆箱\" / BMS Designers\"VJ 牛乳パック\" obj:七海",
       "comment" : "from Stella",
-      "level" : "12",
+      "level" : "11",
       "md5" : "cf44c1e88c6a5545728c0468040a63e4",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,
@@ -16432,6 +16484,19 @@
       "title" : "G-SHOCK [C4A]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=155&event=123",
       "url_diff" : "https://bmscharteditorsgroup.wixsite.com/initialatoz"
+   },
+   {
+      "artist" : "eicateve hrchem[illust] TOHRU MiTSUHASHi[movie] Restia[",
+      "comment" : "10~12",
+      "level" : "11",
+      "md5" : "d16be312a24c49e10bc7db6030972d92",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "85eb3bce59eb4c2b062fe9df66989ee2daa672d429abc4cfce92b7a0187e1b03",
+      "submission" : 1384,
+      "title" : "R.I.P. [GOD]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=123&num=339",
+      "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpyly9nqiFdy3EoArYZ?e=o6AG3p"
    },
    {
       "artist" : "Qayo feat.美島愛音 mov:140/fth",
@@ -19616,7 +19681,7 @@
    {
       "artist" : "Mathfabric ft. Aoki Lapis obj:kaguya",
       "comment" : "回復多め",
-      "level" : "1",
+      "level" : "2",
       "md5" : "f91b84f955467b31524d64ce4e557857",
       "proposer" : "MineC24",
       "proposerLr2id" : 84597,

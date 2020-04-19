@@ -51,6 +51,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02575"
    },
    {
+      "artist" : "ZUN / BMS:average BGA:のりろー / A",
+      "comment" : "高速連打複合",
+      "level" : "11",
+      "md5" : "03278f98734a370dfd340a766318f22f",
+      "proposer" : "スノート",
+      "sha256" : "1c0555d5c9a26ffcee9885b6f957fa30ae67b57cd025b4e8c095a3220f87e31c",
+      "submission" : 1117,
+      "title" : "Romantic Children [死の少女]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=73&event=102",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01883"
+   },
+   {
       "artist" : "flicknote vocals: MindaRyn / obj: sak",
       "comment" : "停止あり",
       "level" : "9",
@@ -163,7 +175,7 @@
    {
       "artist" : "kei iwata/obj:Charlotte.",
       "comment" : "",
-      "level" : "2",
+      "level" : "3",
       "md5" : "0638c5aaa79a3d748eb6d49f9d6ad1b2",
       "proposer" : "firi.",
       "sha256" : "e5cae5b5a724098717a81211bc148547551815e6d5f87fcb59f043c1b66c9c8e",
@@ -280,18 +292,6 @@
       "title" : "squartatrice",
       "url" : "http://web.archive.org/web/20190406024100/http://gmtn.sub.jp/_hard_renaissayaka_ogg.zip",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02819"
-   },
-   {
-      "artist" : "Ester obj:sharo mov : mi",
-      "comment" : "総合譜面",
-      "level" : "4",
-      "md5" : "09375c19227dd63bbc9b5620c43c8cf6",
-      "proposer" : "キルシー",
-      "sha256" : "162aa169a7ece343d50e10ecf2467b31aa02374d999d13fda5e724ccbc42d5a2",
-      "submission" : 257,
-      "title" : "Dizzolve [Rebuild]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=56&event=116",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01617"
    },
    {
       "artist" : "tarolabo obj:MineC24",
@@ -4452,6 +4452,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "ASSASSIN",
+      "comment" : "TOTAL値未表記 。実TOTAL値は628程度(LR2)",
+      "level" : "4",
+      "md5" : "755faa09c5b8fdd1798bf470ac6e32cb",
+      "proposer" : "SHAX.",
+      "sha256" : "0daf621940c2c55ac77a359a892325c408bd74d0bd82324dc0bdd7c48c8413c4",
+      "submission" : 1038,
+      "title" : "The Angel That Announces Death",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=75&event=127",
+      "url_diff" : ""
+   },
+   {
       "artist" : "BOKKEN PINK / 差分 赤い人 BOKKEN DODOME+MAGENTA",
       "level" : "1",
       "md5" : "75c3582014ccff736fd5d2f5ce22f7d0",
@@ -5287,6 +5299,18 @@
       "title" : "Nhelv [_]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=386&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01117"
+   },
+   {
+      "artist" : "sak with.ごくごくプリン Movie: げ～むばか obj: BAECON",
+      "comment" : "同梱譜面、ガチ押し",
+      "level" : "4",
+      "md5" : "8d0e53f4d314d4bfdef57372c9bbf7ac",
+      "proposer" : "スノート",
+      "sha256" : "33823a5c6f59f7d0a73e697d211df32956dfae13710145ecf9a55aab6cd19d35",
+      "submission" : 1121,
+      "title" : "Cutee☆NeverLand [LAST BOSS]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=127",
+      "url_diff" : ""
    },
    {
       "artist" : "DJ HoppingRabbit obj:けーすぴん",
@@ -6815,18 +6839,6 @@
       "title" : "プナイプナイたいそう",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=227&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01059"
-   },
-   {
-      "artist" : "ノクティス・江口・チェラム obj: qtp13",
-      "comment" : "ディレイ(32分~96分)、ラス殺し",
-      "level" : "10",
-      "md5" : "b76e212a46569482c5803a5834544175",
-      "proposer" : "qtp13",
-      "sha256" : "4fba876964db890aa6d890403b4b3dfa6b6e137bebba147592623bab26ea1419",
-      "submission" : 297,
-      "title" : "ヒメタイプ [???]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=96",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00811"
    },
    {
       "artist" : "parakeet 41 obj:goe BGA:G",
@@ -8949,7 +8961,7 @@
    {
       "artist" : "Cataclysmic Order / O BGI:FARNA",
       "comment" : "物量　ディレイ発狂",
-      "level" : "6",
+      "level" : "7",
       "md5" : "efeac2a980d65ef6afb2e4e654a0e94b",
       "proposer" : "otoshi.b",
       "sha256" : "122375d32b53e4796b442086cfcd207c0862e8594ba880e66a239adb74fe5d11",

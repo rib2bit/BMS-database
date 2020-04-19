@@ -302,7 +302,7 @@
    {
       "artist" : "kei iwata/obj:Charlotte.",
       "comment" : "",
-      "level" : "2",
+      "level" : "3",
       "md5" : "0638c5aaa79a3d748eb6d49f9d6ad1b2",
       "proposer" : "firi.",
       "sha256" : "e5cae5b5a724098717a81211bc148547551815e6d5f87fcb59f043c1b66c9c8e",
@@ -5012,6 +5012,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Sound piercer feat.DAZBEE NeLiME / CHERISH / fxxh / Feyrlin obj.akasaka",
+      "comment" : "st3?",
+      "level" : "3",
+      "md5" : "4dfe267c203adc4d98989ccebd66271c",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "813842a8f3d336053de84002cd3af0a5ad040bf7b9166884e5e1755d6158a821",
+      "submission" : 1124,
+      "title" : "花たちに希望を [akather]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=276&event=127",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04264"
    },
    {
       "artist" : "polysha / obj : LindBlum",
@@ -12603,6 +12616,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "ねこみりん feat.小宮真央×みゆ×えみゅう。 Movie:kkkfff2 / Illust:永山ゆうのん obj.ブレイブマン",
+      "comment" : "Full",
+      "level" : "7",
+      "md5" : "c73c2066207c940da3a94e5f32419287",
+      "proposer" : "MEES-♬",
+      "proposerLr2id" : 39693,
+      "sha256" : "a0d947d2ceac3bf56b0416198c93da8aead7fdd0ba623c944c453d91ad358c8e",
+      "submission" : 1125,
+      "title" : "オトゲラヴ！ [フルプライス]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=201&event=96",
+      "url_diff" : "https://stellabms.xyz/upload/93"
+   },
+   {
       "artist" : "sukuramu42 Illust:恋々/ obj:numuto",
       "comment" : "連打複合",
       "level" : "7",
@@ -15191,7 +15217,7 @@
    {
       "artist" : "Cataclysmic Order / O BGI:FARNA",
       "comment" : "物量　ディレイ発狂",
-      "level" : "6",
+      "level" : "7",
       "md5" : "efeac2a980d65ef6afb2e4e654a0e94b",
       "proposer" : "otoshi.b",
       "proposerLr2id" : 87474,
