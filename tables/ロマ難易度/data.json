@@ -1,15 +1,5 @@
 [
    {
-      "alllevel" : "☆3 ☆8 ☆12",
-      "append" : "",
-      "artist" : "東京アリス幻樂団",
-      "comment" : "",
-      "event" : "Be Happy! 3rd season",
-      "level" : "12",
-      "md5" : "0011b2d402f5c15c38b6a33377f15079",
-      "title" : "稲田姫様ご乱心 [ANOTHER]"
-   },
-   {
       "alllevel" : "☆3 ☆6 ☆8 ☆11",
       "append" : "",
       "artist" : "wint",
@@ -28,16 +18,6 @@
       "level" : "11",
       "md5" : "013a3b8f857057fde481b626d204fed6",
       "title" : "Heart To Heart -collect sky blue- (another)"
-   },
-   {
-      "alllevel" : "☆3 ☆6 ☆8 ☆11",
-      "append" : "black train",
-      "artist" : "wint / obj: black train",
-      "comment" : "",
-      "event" : "BOF2004",
-      "level" : "11",
-      "md5" : "018803a0a9b83571a0b6f84963575951",
-      "title" : "Red-rize \"B172 mix\" // 7keys 虎のAnother"
    },
    {
       "alllevel" : "☆8",
@@ -88,26 +68,6 @@
       "level" : "4",
       "md5" : "032949ac2895714ef7d22855d49d67dd",
       "title" : "追憶の森 -Voices of the Earth- [Light7]"
-   },
-   {
-      "alllevel" : "☆9 ☆11",
-      "append" : "",
-      "artist" : "MILK",
-      "comment" : "",
-      "event" : "",
-      "level" : "11",
-      "md5" : "03448af7799be5b0c2115be85eb2df9f",
-      "title" : "RAY (ANOTHER7)"
-   },
-   {
-      "alllevel" : "☆5 ☆9 ☆11",
-      "append" : "",
-      "artist" : "SHIKI",
-      "comment" : "",
-      "event" : "BOF2008",
-      "level" : "11",
-      "md5" : "03c906bf1229a701a0471165242e1233",
-      "title" : "Pure Ruby [Another]"
    },
    {
       "alllevel" : "☆7 ☆10 ☆11",
@@ -210,6 +170,16 @@
       "title" : "★LittlE HearTs★"
    },
    {
+      "alllevel" : "☆4 ☆7 ☆9 ☆11",
+      "append" : "INU",
+      "artist" : "sweet smeller / obj-INU",
+      "comment" : "",
+      "event" : "第一回 \"なんちゃって\"無名BMS作家が物申す！",
+      "level" : "11",
+      "md5" : "092306d5989d41ceed12f826df2749a6",
+      "title" : "サクライロフワリ (INUther)"
+   },
+   {
       "alllevel" : "☆2 ☆7 ☆12",
       "append" : "",
       "artist" : "Yamajet × Mentalstock",
@@ -248,6 +218,16 @@
       "level" : "7",
       "md5" : "0a951f995aa304fb23f99107c9acf006",
       "title" : "クリック☆マスターヒロシ (HYPER)"
+   },
+   {
+      "alllevel" : "☆6 ☆9 ☆11",
+      "append" : "",
+      "artist" : "sound piercer x ginkiha (mov : 1B)",
+      "comment" : "",
+      "event" : "PABAT! 2014",
+      "level" : "6",
+      "md5" : "0aede07a23efa598fe2304008a7550bd",
+      "title" : "BLAZE YOUR SOUL [SP NORMAL]"
    },
    {
       "alllevel" : "☆6 ☆9 ☆11",
@@ -298,6 +278,16 @@
       "level" : "6",
       "md5" : "0cc47c2696e92a2bf2cc9a95fe13b6b8",
       "title" : "アズール"
+   },
+   {
+      "alllevel" : "☆3 ☆8 ☆11",
+      "append" : "",
+      "artist" : "anubasu-anubasu BGA by 出前",
+      "comment" : "",
+      "event" : "",
+      "level" : "11",
+      "md5" : "0db1e83d28eda1d37f0ffafaff725dae",
+      "title" : "Jack o' Lantern [ANOTHER]"
    },
    {
       "alllevel" : "☆12",
@@ -380,6 +370,16 @@
       "title" : "eth剣"
    },
    {
+      "alllevel" : "☆3 ☆8 ☆11",
+      "append" : "",
+      "artist" : "anubasu-anubasu BGA by 出前",
+      "comment" : "",
+      "event" : "",
+      "level" : "3",
+      "md5" : "104af7cc6562c3034c2f408b579ee8bd",
+      "title" : "Jack o' Lantern [NORMAL]"
+   },
+   {
       "alllevel" : "☆3 ☆7 ☆10",
       "append" : "",
       "artist" : "wint",
@@ -450,6 +450,16 @@
       "title" : "Midnight Tears(nuepic*hard Radio Edit) [ Another]"
    },
    {
+      "alllevel" : "☆6 ☆10 ☆11",
+      "append" : "",
+      "artist" : "mommy",
+      "comment" : "",
+      "event" : "G2R2014",
+      "level" : "10",
+      "md5" : "16c8529027d090f21404859ff7d35482",
+      "title" : "Funny Funky Freaky [7key,Hyper]"
+   },
+   {
       "alllevel" : "☆10",
       "append" : "",
       "artist" : "tarolabo",
@@ -490,6 +500,16 @@
       "title" : "WATER STOP DOTx4 [Another]"
    },
    {
+      "alllevel" : "☆6 ☆9 ☆11",
+      "append" : "",
+      "artist" : "sound piercer x ginkiha (mov : 1B)",
+      "comment" : "",
+      "event" : "PABAT! 2014",
+      "level" : "9",
+      "md5" : "1853d77704fcd188db32c4c399f27121",
+      "title" : "BLAZE YOUR SOUL [SP HYPER]"
+   },
+   {
       "alllevel" : "☆2 ☆4 ☆7 ☆8",
       "append" : "",
       "artist" : "λ口.lzh.jpg",
@@ -508,6 +528,16 @@
       "level" : "5",
       "md5" : "18b07d92713c5e8ed999a5d260d2e7b5",
       "title" : "Fading Star"
+   },
+   {
+      "alllevel" : "☆4",
+      "append" : "",
+      "artist" : "AKITO",
+      "comment" : "",
+      "event" : "",
+      "level" : "4",
+      "md5" : "18d9a3ebfb0812056378a2d7fbae52b1",
+      "title" : "それは、遠い夏の日 [7Key]"
    },
    {
       "alllevel" : "☆6 ☆9 ☆12",
@@ -930,6 +960,16 @@
       "title" : "Red-rize \"B172 mix\" // 7keys"
    },
    {
+      "alllevel" : "☆4 ☆7 ☆11",
+      "append" : "",
+      "artist" : "都来りねとKeisuke Hattoriと#ねここ14歳",
+      "comment" : "",
+      "event" : "BOF2011",
+      "level" : "11",
+      "md5" : "2a2aa5d2b76aa74b903eda8b0ffc182e",
+      "title" : "てんてん [7keys ANOTHER]"
+   },
+   {
       "alllevel" : "☆5 ☆9",
       "append" : "",
       "artist" : "LOKI",
@@ -1100,16 +1140,6 @@
       "title" : "Circe (7keys)"
    },
    {
-      "alllevel" : "☆7 ☆11",
-      "append" : "",
-      "artist" : "SHIKI/fity",
-      "comment" : "",
-      "event" : "BGA BATTLE",
-      "level" : "11",
-      "md5" : "332ab0d1df1adc712fb90f857bdb13dc",
-      "title" : "Xecus 7key [Another]"
-   },
-   {
       "alllevel" : "☆8 ☆10 ☆12",
       "append" : "black train",
       "artist" : "しろ / black train",
@@ -1118,6 +1148,16 @@
       "level" : "8",
       "md5" : "33fd61dd667429b1156508857aab1290",
       "title" : "J2U (crazy remix 7keys)"
+   },
+   {
+      "alllevel" : "☆3 ☆5 ☆8 ☆11",
+      "append" : "",
+      "artist" : "カラフル・サウンズ・ポート",
+      "comment" : "",
+      "event" : "BOF2010",
+      "level" : "11",
+      "md5" : "3451600cf26211f9bb9960e99fe3eb45",
+      "title" : "風仁雷仁 (Another)"
    },
    {
       "alllevel" : "☆4 ☆7 ☆11",
@@ -1330,16 +1370,6 @@
       "title" : "Here we go！ (TM edit)"
    },
    {
-      "alllevel" : "☆7 ☆11 ☆12",
-      "append" : "",
-      "artist" : "くっちー vs あっきー",
-      "comment" : "",
-      "event" : "BOF2009",
-      "level" : "11",
-      "md5" : "3d13b9cd6ff57db1ba83231502a09e34",
-      "title" : "Yakumo >>JOINT STRUGGLE [SP HYPER 2]"
-   },
-   {
       "alllevel" : "☆7",
       "append" : "",
       "artist" : "sa10",
@@ -1470,14 +1500,14 @@
       "title" : "ε-δ (HYPER)"
    },
    {
-      "alllevel" : "☆11 ☆12",
+      "alllevel" : "☆5",
       "append" : "",
-      "artist" : "s-don / jubeated",
+      "artist" : "kanone",
       "comment" : "",
-      "event" : "BOF2012",
-      "level" : "11",
-      "md5" : "43d161cf80d214a8a24ff2ccb323892e",
-      "title" : "WATER STOP DOTx4 [Hyper]"
+      "event" : "KBP2012",
+      "level" : "5",
+      "md5" : "4457a2e8b7dd40986c0a4312a6256313",
+      "title" : "Blue Dragoon [Normal]"
    },
    {
       "alllevel" : "☆3 ☆5 ☆8 ☆11",
@@ -1500,14 +1530,14 @@
       "title" : "P.S : Plasma Strike - 7EZ"
    },
    {
-      "alllevel" : "☆99",
+      "alllevel" : "☆4 ☆7 ☆9 ☆11",
       "append" : "",
-      "artist" : "Transin",
+      "artist" : "otokaz",
       "comment" : "",
-      "event" : "BOF2006",
-      "level" : "99",
-      "md5" : "46a99e37503694c626a3e321a9be9852",
-      "title" : "Exit (7 Key Hard Mixing)"
+      "event" : "",
+      "level" : "11",
+      "md5" : "461953b5f5be24b46dd375eba19342c9",
+      "title" : "妹様は彼女なのだっ！"
    },
    {
       "alllevel" : "☆6 ☆9 ☆11",
@@ -1558,6 +1588,16 @@
       "level" : "10",
       "md5" : "48fe9800c3b29f1bea58fe408b46349a",
       "title" : "conflict [HYPER]"
+   },
+   {
+      "alllevel" : "☆8 ☆11 ☆12",
+      "append" : "MiiA",
+      "artist" : "SAMBA MASTER 佐藤 -SATOH-/obj*MiiA",
+      "comment" : "",
+      "event" : "GENRE-SHUFFLE",
+      "level" : "11",
+      "md5" : "494441eccc75fe53d5fabcfbd1217383",
+      "title" : "サンバランド [Akianother]"
    },
    {
       "alllevel" : "☆4 ☆7 ☆10",
@@ -1630,6 +1670,16 @@
       "title" : "started [7key/Hyper]"
    },
    {
+      "alllevel" : "☆5 ☆8 ☆11",
+      "append" : "",
+      "artist" : "Arranged by Y.W bga:kotomi",
+      "comment" : "",
+      "event" : "BOF2011",
+      "level" : "11",
+      "md5" : "4e28bb21c73f4dea3ef8606bad9a800e",
+      "title" : "闘気に満ちた草原"
+   },
+   {
       "alllevel" : "☆4 ☆7 ☆10",
       "append" : "",
       "artist" : "Nene Anegasaki feat. Salita Movie : Ryuka",
@@ -1698,26 +1748,6 @@
       "level" : "4",
       "md5" : "5065549009e62d25c0d5cb2e2580fc36",
       "title" : "started [7key/Normal]"
-   },
-   {
-      "alllevel" : "☆4 ☆7 ☆12 ☆99",
-      "append" : "自重しないJLS",
-      "artist" : "源屋feat.ユスラ　/obj：自重しないJLS",
-      "comment" : "",
-      "event" : "BOF2006",
-      "level" : "99",
-      "md5" : "508330b4bc4513536aea7945d90909e2",
-      "title" : "マジカル縦連打"
-   },
-   {
-      "alllevel" : "☆4 ☆7 ☆11",
-      "append" : "",
-      "artist" : "Rabbit Bat",
-      "comment" : "",
-      "event" : "BOF2009",
-      "level" : "11",
-      "md5" : "518061bccc4cef0c0f737a923122f80e",
-      "title" : "rainy beauty"
    },
    {
       "alllevel" : "☆4 ☆7 ☆11",
@@ -1880,24 +1910,14 @@
       "title" : "Dream Rocket* [Normal]"
    },
    {
-      "alllevel" : "☆6 ☆12 ☆99",
+      "alllevel" : "☆6 ☆9 ☆10",
       "append" : "",
-      "artist" : "wa. remixed celas Notes:mew BGA:TOHRU MiTSUHASHi",
+      "artist" : "chocolate max",
       "comment" : "",
-      "event" : "",
-      "level" : "99",
-      "md5" : "5cac7e6e5f5a69afb67cb59412be4b25",
-      "title" : "銀の風 [HYPER]"
-   },
-   {
-      "alllevel" : "☆6 ☆10 ☆12",
-      "append" : "えらる",
-      "artist" : "Ras / misokabocha /obj えらる",
-      "comment" : "",
-      "event" : "BOF2012",
-      "level" : "12",
-      "md5" : "5e3129c1abf59f68d900791beb0f9a8d",
-      "title" : "テキトウInfinite love (BMS edit) [SARATHER]"
+      "event" : "Be Happy! 3rd season",
+      "level" : "6",
+      "md5" : "5e9dc53aa70cd924ff757dcb31c93b5d",
+      "title" : "P-ChicK-ParK(・◇・)"
    },
    {
       "alllevel" : "☆6 ☆9 ☆11",
@@ -2060,6 +2080,16 @@
       "title" : "SHI☆O☆KA☆RA"
    },
    {
+      "alllevel" : "☆6 ☆10 ☆11",
+      "append" : "",
+      "artist" : "mommy",
+      "comment" : "",
+      "event" : "G2R2014",
+      "level" : "6",
+      "md5" : "652fa459b9526929aa3d7a0fe45eab60",
+      "title" : "Funny Funky Freaky [7key,Normal]"
+   },
+   {
       "alllevel" : "☆7 ☆9 ☆10 ☆12",
       "append" : "",
       "artist" : "Sampling Disaster 咲-SAKI- Movie : Limit_cancel",
@@ -2108,16 +2138,6 @@
       "level" : "6",
       "md5" : "67dc3047099f98f9988c0daf4024a66a",
       "title" : "えがおをキミに　 [HYPER]"
-   },
-   {
-      "alllevel" : "☆5 ☆9 ☆11",
-      "append" : "",
-      "artist" : "Ym1024",
-      "comment" : "",
-      "event" : "",
-      "level" : "11",
-      "md5" : "6834810e6d041128743f63b210dac004",
-      "title" : "SAKURA RECOLLECTIONS　 [7key/Another]"
    },
    {
       "alllevel" : "☆7 ☆9",
@@ -2178,6 +2198,16 @@
       "level" : "11",
       "md5" : "69d940b5451a848cfe60e09c92455b34",
       "title" : "歪んだ神 [7key_hard]"
+   },
+   {
+      "alllevel" : "☆6 ☆9 ☆10",
+      "append" : "",
+      "artist" : "chocolate max",
+      "comment" : "",
+      "event" : "Be Happy! 3rd season",
+      "level" : "9",
+      "md5" : "6a44f600c8766b2f040f44fad68eb06d",
+      "title" : "P-ChicK-ParK(・◇・)"
    },
    {
       "alllevel" : "☆3 ☆6 ☆8 ☆11",
@@ -2268,6 +2298,16 @@
       "level" : "9",
       "md5" : "6ed976e927fbc4ce5685c3e75c4c387b",
       "title" : "Brandnew Mind [7Key Normal]"
+   },
+   {
+      "alllevel" : "☆4 ☆7 ☆11",
+      "append" : "JELLY",
+      "artist" : "AKITO obj:JELLY",
+      "comment" : "",
+      "event" : "LiZ vs OMT",
+      "level" : "11",
+      "md5" : "6efe2975a6df47286c47d9a4dc1ed328",
+      "title" : "追憶の森 -Voices of the Earth- [7key 疎林]"
    },
    {
       "alllevel" : "☆6 ☆9",
@@ -2570,6 +2610,16 @@
       "title" : "macaron (NORMAL)"
    },
    {
+      "alllevel" : "☆6 ☆10 ☆11",
+      "append" : "",
+      "artist" : "mommy",
+      "comment" : "",
+      "event" : "G2R2014",
+      "level" : "11",
+      "md5" : "840fe75145697a672e93c3cc1d6237a7",
+      "title" : "Funny Funky Freaky [7key,Another]"
+   },
+   {
       "alllevel" : "☆2 ☆5 ☆8",
       "append" : "",
       "artist" : "naotyu-",
@@ -2620,16 +2670,6 @@
       "title" : "Drive me Dancin'! [7key]"
    },
    {
-      "alllevel" : "☆4 ☆9 ☆11",
-      "append" : "",
-      "artist" : "AMAZE / 灰猫ユキハル",
-      "comment" : "",
-      "event" : "",
-      "level" : "11",
-      "md5" : "88fe208a8f671dfb326d3ba87dd75374",
-      "title" : "SCARLET ZONE [7ANOTHER]"
-   },
-   {
       "alllevel" : "☆3 ☆6 ☆8 ☆11",
       "append" : "",
       "artist" : "Team Shanghai Alice (Remixed by Est)",
@@ -2638,6 +2678,16 @@
       "level" : "3",
       "md5" : "8b817323cf7588011eadd4102166d280",
       "title" : "In a dream (LIGHT7)"
+   },
+   {
+      "alllevel" : "☆3 ☆8 ☆11",
+      "append" : "",
+      "artist" : "anubasu-anubasu BGA by 出前",
+      "comment" : "",
+      "event" : "",
+      "level" : "8",
+      "md5" : "8bde79d83fd06480883602f62e2c7f2f",
+      "title" : "Jack o' Lantern [HYPER]"
    },
    {
       "alllevel" : "☆6 ☆11 ☆12",
@@ -2828,6 +2878,16 @@
       "level" : "12",
       "md5" : "9944df31956bb5152802c66b72542b36",
       "title" : "G e n g a o z o _ more穴クエ"
+   },
+   {
+      "alllevel" : "☆6 ☆11 ☆12",
+      "append" : "",
+      "artist" : "上杉うた",
+      "comment" : "",
+      "event" : "BOF2008",
+      "level" : "11",
+      "md5" : "99ee9a4b46e38d5a3cde64c0cb9daa2b",
+      "title" : "旧地獄街道を行く ～反逆のパルスィ～ [ANOTHER]"
    },
    {
       "alllevel" : "☆6 ☆9 ☆11",
@@ -3160,16 +3220,6 @@
       "title" : "Heart To Heart -collect sky blue-"
    },
    {
-      "alllevel" : "☆99",
-      "append" : "Symphonian",
-      "artist" : "しらいし / Symphonian",
-      "comment" : "",
-      "event" : "",
-      "level" : "99",
-      "md5" : "b25e877fd053080df2701351f741a4d3",
-      "title" : "Odin [^"
-   },
-   {
       "alllevel" : "☆6 ☆9",
       "append" : "",
       "artist" : "ねこみみ魔法使い",
@@ -3178,16 +3228,6 @@
       "level" : "6",
       "md5" : "b279cb2025d464d45ffb5ca4d81196a4",
       "title" : "theme of Maia -light-"
-   },
-   {
-      "alllevel" : "☆6 ☆11 ☆12",
-      "append" : "ztar",
-      "artist" : "ZUN remix by 44teru-k Notes:ztar",
-      "comment" : "",
-      "event" : "東方音弾遊戯3",
-      "level" : "12",
-      "md5" : "b3326cf41692fa2b5d0bacfb38957083",
-      "title" : "感情の摩天楼～PandoraBox [ANOTHER]"
    },
    {
       "alllevel" : "☆6 ☆10 ☆12",
@@ -3320,16 +3360,6 @@
       "title" : "十十日月"
    },
    {
-      "alllevel" : "☆8 ☆12",
-      "append" : "",
-      "artist" : "ZUN (Arr.sun3)",
-      "comment" : "",
-      "event" : "",
-      "level" : "12",
-      "md5" : "b8b8062cd450411a12dd91411c30fc5e",
-      "title" : "竹取はっぴー"
-   },
-   {
       "alllevel" : "☆5 ☆9 ☆10",
       "append" : "",
       "artist" : "ginkiha",
@@ -3350,16 +3380,6 @@
       "title" : "zodiac (ANOTHER7)"
    },
    {
-      "alllevel" : "☆6 ☆12 ☆99",
-      "append" : "",
-      "artist" : "wa. remixed celas Notes:mew BGA:TOHRU MiTSUHASHi",
-      "comment" : "▼3",
-      "event" : "",
-      "level" : "12",
-      "md5" : "b9f6b45ee3455172e829f2c2b5390d6c",
-      "title" : "銀の風 [ANOTHER]"
-   },
-   {
       "alllevel" : "☆7 ☆9",
       "append" : "",
       "artist" : "SHIKI",
@@ -3368,6 +3388,16 @@
       "level" : "7",
       "md5" : "bb17d6e06313cca519ce6db737f0c5c5",
       "title" : "Angelic layer [Light]"
+   },
+   {
+      "alllevel" : "☆6 ☆9 ☆11",
+      "append" : "",
+      "artist" : "sound piercer x ginkiha (mov : 1B)",
+      "comment" : "",
+      "event" : "PABAT! 2014",
+      "level" : "11",
+      "md5" : "bb5d0716c18b37f9687bbcea17fc646c",
+      "title" : "BLAZE YOUR SOUL [SP ANOTHER]"
    },
    {
       "alllevel" : "☆2 ☆5 ☆9 ☆10",
@@ -3508,16 +3538,6 @@
       "level" : "10",
       "md5" : "c32f3831de55f9cb1666bfd045f12814",
       "title" : "The Ray of Sunlight"
-   },
-   {
-      "alllevel" : "☆99",
-      "append" : "",
-      "artist" : "ルゼ",
-      "comment" : "",
-      "event" : "SUIKA CRASH",
-      "level" : "99",
-      "md5" : "c35ea1a680b15bdf8c7ea2b59795c9ad",
-      "title" : "WALL BATTLE"
    },
    {
       "alllevel" : "☆4 ☆9",
@@ -3700,6 +3720,16 @@
       "title" : "The Ray of Sunlight"
    },
    {
+      "alllevel" : "☆5 ☆8 ☆11",
+      "append" : "",
+      "artist" : "アスカ",
+      "comment" : "",
+      "event" : "BOF2006",
+      "level" : "11",
+      "md5" : "ca65de8f16d3181f5d064ac12dc76e33",
+      "title" : "ソウキュウ*スカイスクレイパー [HARD7]"
+   },
+   {
       "alllevel" : "☆5 ☆7 ☆10",
       "append" : "",
       "artist" : "Dickson",
@@ -3728,16 +3758,6 @@
       "level" : "10",
       "md5" : "cbc23ee9d5f2164306577fce988121fa",
       "title" : "ZENITHALIZE [SP HYPER]"
-   },
-   {
-      "alllevel" : "☆4 ☆7 ☆99",
-      "append" : "JLS",
-      "artist" : "激辛マニア / obj：JLS",
-      "comment" : "",
-      "event" : "BOF2009",
-      "level" : "99",
-      "md5" : "cc497b8d7cdc581e08771257566d053f",
-      "title" : "Auston (T-HYPER)"
    },
    {
       "alllevel" : "☆5 ☆8 ☆11",
@@ -3838,16 +3858,6 @@
       "level" : "10",
       "md5" : "d0dd0b28063d3fc7eea0c61c8d0b1ce0",
       "title" : "orange tea　 [7key/Another]"
-   },
-   {
-      "alllevel" : "☆6 ☆10 ☆11",
-      "append" : "",
-      "artist" : "CHAN",
-      "comment" : "",
-      "event" : "BOF2009",
-      "level" : "11",
-      "md5" : "d0e54650fc77eab4e38a88c6d54c2a59",
-      "title" : "Shining On -ANOTHER-"
    },
    {
       "alllevel" : "☆5 ☆9 ☆11 ☆12",
@@ -4180,16 +4190,6 @@
       "title" : "Magical Love Words (Normal)"
    },
    {
-      "alllevel" : "☆3 ☆6 ☆11",
-      "append" : "",
-      "artist" : "哀愁マニア",
-      "comment" : "",
-      "event" : "BOF2010",
-      "level" : "11",
-      "md5" : "de3c9a8f256d27e573e7e73e3dfea2d3",
-      "title" : "the lost dedicated (another)"
-   },
-   {
       "alllevel" : "☆5 ☆8 ☆11",
       "append" : "",
       "artist" : "P.E.",
@@ -4270,16 +4270,6 @@
       "title" : "★LittlE HearTs★"
    },
    {
-      "alllevel" : "☆5 ☆9 ☆12",
-      "append" : "",
-      "artist" : "秋山 澪 Notes:平沢 憂",
-      "comment" : "",
-      "event" : "BOF2010",
-      "level" : "12",
-      "md5" : "e0005f553b5ea8e0e53d0424f1b95b6f",
-      "title" : "水晶世界 ～Fracture～ [ANOTHER]"
-   },
-   {
       "alllevel" : "☆4 ☆8",
       "append" : "",
       "artist" : "ねこみみ魔法使い",
@@ -4298,6 +4288,16 @@
       "level" : "12",
       "md5" : "e0156d8bc5168b41605ded12957022ec",
       "title" : "Turndup [Another]"
+   },
+   {
+      "alllevel" : "☆6 ☆9 ☆10",
+      "append" : "",
+      "artist" : "chocolate max",
+      "comment" : "",
+      "event" : "Be Happy! 3rd season",
+      "level" : "10",
+      "md5" : "e180cb2c8b69061a54b15c714210b5b6",
+      "title" : "P-ChicK-ParK(・◇・)"
    },
    {
       "alllevel" : "☆8 ☆11",
@@ -4338,6 +4338,16 @@
       "level" : "12",
       "md5" : "e36b78e5fa7de9df3da7bdfd9ec55878",
       "title" : "LOVE☆BEAM (orange summer mix)　 -Biginner-"
+   },
+   {
+      "alllevel" : "☆6 ☆11 ☆12",
+      "append" : "",
+      "artist" : "ZUN remix by 44teru-k",
+      "comment" : "",
+      "event" : "東方音弾遊戯3",
+      "level" : "11",
+      "md5" : "e386976aa036e17d42bf6c0c87b7d4aa",
+      "title" : "感情の摩天楼～PandoraBox [HYPER]"
    },
    {
       "alllevel" : "☆7 ☆11",
@@ -4510,16 +4520,6 @@
       "title" : "DRAGONLADY (7keyHYPER)"
    },
    {
-      "alllevel" : "☆6 ☆8 ☆11",
-      "append" : "",
-      "artist" : "Ras",
-      "comment" : "",
-      "event" : "GENRE-SHUFFLE",
-      "level" : "11",
-      "md5" : "ecf31fb5b1f1062eddf3f8e201f8dbd8",
-      "title" : "PrayStation [7_another]"
-   },
-   {
       "alllevel" : "☆10 ☆11 ☆12",
       "append" : "Lestia",
       "artist" : "Kinato Note:Lestia",
@@ -4548,16 +4548,6 @@
       "level" : "7",
       "md5" : "ee33d8f37e81d7ab6a538b0b1b301421",
       "title" : "More Selfish [7key,Normal]"
-   },
-   {
-      "alllevel" : "☆6 ☆11 ☆12",
-      "append" : "",
-      "artist" : "上杉うた",
-      "comment" : "",
-      "event" : "BOF2008",
-      "level" : "12",
-      "md5" : "efbf553ec8a1777384237fa73868297c",
-      "title" : "旧地獄街道を行く ～反逆のパルスィ～ [NANATHER]"
    },
    {
       "alllevel" : "☆7 ☆11",
@@ -4800,16 +4790,6 @@
       "title" : "☆Traveling Sunstar☆　 [7key　ミ★]"
    },
    {
-      "alllevel" : "☆8 ☆10 ☆99",
-      "append" : "JLS",
-      "artist" : "tarolabo vo：小宮真央 / obj：JLS",
-      "comment" : "",
-      "event" : "BOF2006",
-      "level" : "99",
-      "md5" : "f9ece4d1f2648d963ace6ff956d95f88",
-      "title" : "路上のタテレン -MEGA T Mix-"
-   },
-   {
       "alllevel" : "☆7 ☆11 ☆12",
       "append" : "",
       "artist" : "honey princess",
@@ -4858,6 +4838,26 @@
       "level" : "4",
       "md5" : "fbb308247dbd733ac3dec99ebe261957",
       "title" : "Turndup [Normal]"
+   },
+   {
+      "alllevel" : "☆8 ☆11",
+      "append" : "",
+      "artist" : "ねこひめたん",
+      "comment" : "",
+      "event" : "BOF2006",
+      "level" : "11",
+      "md5" : "fc03bbbbb83091090606fef60ce786c5",
+      "title" : "スプラッシュコード－０６ [HYPER7]"
+   },
+   {
+      "alllevel" : "☆11",
+      "append" : "",
+      "artist" : "ねこひめたん",
+      "comment" : "",
+      "event" : "BOF2006",
+      "level" : "11",
+      "md5" : "fc03bbbbb83091090606fef60ce786c5",
+      "title" : "スプラッシュコード－０６ [HYPER7]"
    },
    {
       "alllevel" : "☆4 ☆8",

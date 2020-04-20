@@ -26,6 +26,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Zris feat. Katie obj. LuvTek",
+      "comment" : "ノーマル判定、連打、発狂、皿",
+      "level" : "12",
+      "md5" : "0b19727cf80ebd690efcd1f4cfccd239",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "434cedb9beaa58f3f41c332b2c9b32bb2040ae62995839c42bc5c117700436a4",
+      "submission" : 1393,
+      "title" : "IN [SANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=354&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
+   },
+   {
       "artist" : "Cosmograph obj. BK",
       "level" : "1",
       "md5" : "0efe4d95c4a3cf0988cff8228f41af15",
@@ -245,6 +258,19 @@
       "url_diff" : "https://drive.google.com/open?id=1GsksADDZavj2b1ZmhF91-SNbjsycNd2V"
    },
    {
+      "artist" : "sky_delta obj.Lapis",
+      "comment" : "bpm 174 同時押し",
+      "level" : "7",
+      "md5" : "b047cd30dc747891da0678a5c1ee26a3",
+      "proposer" : "dstorv",
+      "proposerLr2id" : 145158,
+      "sha256" : "e23f0156be6c507e5b16ead2e4376ed32d7a5f06709b38d49ec7280a6d5b0c34",
+      "submission" : 1389,
+      "title" : "Earthlight [Twilight]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=497&event=110",
+      "url_diff" : "http://lapisbms.web.fc2.com/"
+   },
+   {
       "artist" : "69 de 74 BGI:れおん/黒鵜織羽 / obj:SUZUKAZEΛ",
       "comment" : "欲しい！",
       "level" : "5",
@@ -269,6 +295,19 @@
       "title" : "R.I.P. [GOD]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=123&num=339",
       "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpyly9nqiFdy3EoArYZ?e=o6AG3p"
+   },
+   {
+      "artist" : "P.E. / 海示 / obj:夢瑠",
+      "comment" : "連打打打打打打打打打打打打打打打打打打打打",
+      "level" : "11",
+      "md5" : "d9c8bf035c438d1137ff8a070c9fd3d8",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "3ae9b02bac96a51f5244b53e17f955a4b96bc47ea5476a7408e56b6ff453c5c1",
+      "submission" : 1394,
+      "title" : "HAL -Eternal Girl- [Morse]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/HAL%20-Eternal%20Girl-%20%28by%20P.E.%ef%bc%8f%e6%b5%b7%e7%a4%ba%29.rar",
+      "url_diff" : "http://yumerusabun.web.fc2.com/bmssabun/hal_eternal.zip"
    },
    {
       "artist" : "Y.W / A",

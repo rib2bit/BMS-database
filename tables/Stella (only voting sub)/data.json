@@ -171,6 +171,19 @@
       "voteYes" : 3
    },
    {
+      "artist" : "Lime / И",
+      "comment" : "BOFXV 乱打 神曲",
+      "level" : "4",
+      "md5" : "59870e6c1b936fe10f8a8ed36f75b6be",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "ca014f386ab83d2de643928ba182191712b4148537ab31baea215433a417e7c5",
+      "submission" : 1127,
+      "title" : "Aurora [64.96°N, 19.02°W]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=330&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
+   },
+   {
       "artist" : "MILK / И",
       "comment" : "st1 or 2?",
       "level" : "1",
@@ -181,6 +194,19 @@
       "submission" : 1113,
       "title" : "RAY (EXCELSIOR)",
       "url" : "https://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21208",
+      "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
+      "artist" : "Cosmograph",
+      "comment" : "乱打",
+      "level" : "2",
+      "md5" : "695f6004928bd6573f1c7366014677a7",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "9748859c9380fc613e1bd1850091fcb67fa9f479386e94db117442815ccbf208",
+      "submission" : 1128,
+      "title" : "Comet (BMS Edit) [CHOCOMINT=CRIME]",
+      "url" : "https://k-bms.com/party_pabat/party.jsp?board_num=20&num=38&order=reg&odtype=a",
       "url_diff" : "https://bms.parksulab.xyz"
    },
    {
@@ -239,6 +265,19 @@
       "url_diff" : "https://www.dropbox.com/s/x9wkea5fja06z8i/ReviXy_nanami01.bms?dl=0"
    },
    {
+      "artist" : "髭姫 feat.しゆ＆橘花音＆えみゅう。 LYRICS：やんばるん BGA：髭姫 Arr.Milk_tya obj：もさ子",
+      "comment" : "しぇるーどっきんぐ！！　同梱譜面",
+      "level" : "1",
+      "md5" : "b8ca835f36058c0d413f3ec1bdd660d2",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "543a7e80ddcf5c27cd8035373309c96065657143c408aa2545874ad9053cbad1",
+      "submission" : 1126,
+      "title" : "私たちの恋は観音開き (†れじぇんだりあ)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=217&event=96",
+      "url_diff" : ""
+   },
+   {
       "artist" : "ノクティス・江口・チェラム Obj:И",
       "comment" : "1?",
       "level" : "1",
@@ -262,7 +301,7 @@
       "submission" : 1125,
       "title" : "オトゲラヴ！ [フルプライス]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=201&event=96",
-      "url_diff" : "https://stellabms.xyz/upload/93"
+      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up5229.rar"
    },
    {
       "artist" : "Rabbit House / Ratif obj. 七海千秋",
