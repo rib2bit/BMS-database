@@ -173,6 +173,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "ATEMAK / obj:GN",
+      "comment" : "高速",
+      "level" : "8",
+      "md5" : "018d4ec84c4b30a19dbd2df7f77cba5b",
+      "proposer" : "のの",
+      "proposerLr2id" : 149743,
+      "sha256" : "f4d2f101d68883300b958fa49078adc5c215b0c1f0eb7e95cad73ba528718919",
+      "submission" : 1399,
+      "title" : "ロッカー [Another＋]",
+      "url" : "http://leucine.web.fc2.com/",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
+   },
+   {
       "artist" : "BTB Mov : mzet :-p & OLB / obj:sagoo",
       "level" : "4",
       "md5" : "01e785472e36fc2ad4d70d3e7f610f36",
@@ -3395,6 +3408,19 @@
       "title" : "DOLL [F]",
       "url" : "https://web.archive.org/web/20151030093509/http://mikihara.cheap.jp/bms/BOF2015/doll_ogg.zip",
       "url_diff" : "http://fenderbms.web.fc2.com/"
+   },
+   {
+      "artist" : "kanone ランナー : あんた",
+      "comment" : "ディレイ",
+      "level" : "10",
+      "md5" : "2afe1c76b5c4e4c866146719899d6b5a",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "2a95c39e91733f21f1b193337878531dae183f8f2c5de234e82116fe96c1f425",
+      "submission" : 1397,
+      "title" : "Blue Dragoon [ストレッチ]",
+      "url" : "https://www.axfc.net/u/2299297",
+      "url_diff" : "https://bms.parksulab.xyz"
    },
    {
       "artist" : "Yu^ta",
@@ -11542,6 +11568,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "MisomyL obj:mathath",
+      "comment" : "高速 下の難易度でもやりたい",
+      "level" : "2",
+      "md5" : "972df3944b86a052d615c8e11863e365",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "3861ead229e658c230e9f53ba664bd26bb1d838e98427519e85b6fa1296bf138",
+      "submission" : 1398,
+      "title" : "Amnehilesie [SP Another]",
+      "url" : "https://drive.google.com/file/d/1gDntOHay_V16d7D1sf4v1d-0hQpnhwJW/view?usp=sharing",
+      "url_diff" : ""
+   },
+   {
       "artist" : "しらいし / 奈那樹",
       "comment" : "乱打、物量",
       "level" : "12",
@@ -11823,6 +11862,18 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "ZUN remixed by LeaF Movie:Optie/Illust:セシル◇タイト / obj. DK",
+      "level" : "3",
+      "md5" : "9a8937eb993fa8d8b9206c46b5782f4d",
+      "proposer" : "chouco",
+      "proposerLr2id" : 158333,
+      "sha256" : "d46eeba0969517841875a7b207fa5b744cf7fe46d5c8b718119b02b595e80a9d",
+      "submission" : 1396,
+      "title" : "Armageddon [Calamity]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=129",
+      "url_diff" : "https://frozensat.github.io/sabun/Armageddon_7DK.zip"
    },
    {
       "artist" : "Music : Lunatic Sounds / BGA : Photonskyto",

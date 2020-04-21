@@ -100,6 +100,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "ETIA. / obj.fhyu Movie: Freezer",
+      "level" : "1",
+      "md5" : "3e70b21df5d475b503ab74a92ea3a26e",
+      "proposer" : "chouco",
+      "proposerLr2id" : 158333,
+      "sha256" : "2590d4480f2e1649e46860eb4b1cb73f4ce4a2367466a21db1a051de0a8a985a",
+      "submission" : 1129,
+      "title" : "Damnation 565 [BWV]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=30&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=3166"
+   },
+   {
       "artist" : "pencil obj. LuvTek",
       "comment" : "???????????",
       "level" : "2",
@@ -331,6 +343,19 @@
       "voteNo" : 0,
       "votePercent" : 78.5714285714286,
       "voteYes" : 4
+   },
+   {
+      "artist" : "Yosk! / SubAtrist / И",
+      "comment" : "ガチ押し、発狂",
+      "level" : "1",
+      "md5" : "de7c678fc38a5831d01b772f35ced46b",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "4887172a9fe730ad0457132f3e7fd5bcca6b16ebe2112abbe0a9d73443a48b64",
+      "submission" : 1130,
+      "title" : "FUTURE 1999 [FUTURE 2020]",
+      "url" : "http://yosk.ojaru.jp/bmsyosk2.html#106",
+      "url_diff" : "https://fsrs.github.io"
    },
    {
       "artist" : "腋亦/さ",
