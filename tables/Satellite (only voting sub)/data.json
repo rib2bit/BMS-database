@@ -39,6 +39,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "7mai obj: udonfor",
+      "comment" : "高速/階段/ズレ",
+      "level" : "10",
+      "md5" : "0767b28a8b20a792a185761bee33940d",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "d13c669e1b60f7921e636c7e176442a32279c20e8f8370e2079aef4476f1975e",
+      "submission" : 1401,
+      "title" : "Boxel Adventure [7-1]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=138&event=127",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04156"
+   },
+   {
       "artist" : "Zris feat. Katie obj. LuvTek",
       "comment" : "ノーマル判定、連打、発狂、皿",
       "level" : "12",
@@ -249,6 +262,19 @@
       "title" : "銀の風 [アルマゲドン]",
       "url" : "http://creation-records.info/",
       "url_diff" : "http://ukita2.web.fc2.com/chiraura.html"
+   },
+   {
+      "artist" : "Sakamiya feat.前野 img:きの Lyrics:girlsaid",
+      "comment" : "sl0~1?",
+      "level" : "0",
+      "md5" : "879c144fcedbe05b80233a55b8546008",
+      "proposer" : "dstorv",
+      "proposerLr2id" : 145158,
+      "sha256" : "6e8d71e9adb617ed1e46105d0628ba3710d4acd0a7d4b0672256dfc9cd60f25c",
+      "submission" : 1400,
+      "title" : "過日の呪いは少女の鎖 [Another]",
+      "url" : "https://venue.bmssearch.net/3/104",
+      "url_diff" : ""
    },
    {
       "artist" : "SP-# obj:七海",

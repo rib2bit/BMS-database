@@ -18581,7 +18581,7 @@
       "md5" : "3bf1d605ec07bee78e355486af0855d7",
       "org_level" : null,
       "title" : "アトロポスと最果の探求者 [Endroll]",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=246&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04268"
    },
    {
@@ -22948,6 +22948,21 @@
       "title" : "サクライロフワリ(mania7)",
       "url" : "http://csport.me/",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01605"
+   },
+   {
+      "adddate" : "2020/04/23 17:03",
+      "artist" : "isocosa obj:R1N",
+      "comment" : "[SCR]:皿同時譜面　軸　地力寄り　[SCR pro.]:連皿譜面　24分有",
+      "folder" : "2020/04",
+      "genre" : "RECONSTRUCT",
+      "keys" : 7,
+      "level" : "2020/04",
+      "lr2_bmsid" : "285498",
+      "md5" : "48fd8e97ef90a25ba99a98e045236458",
+      "org_level" : null,
+      "title" : "data lake [7k SCR]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04289"
    },
    {
       "adddate" : "2018/11/21 17:30",
@@ -71428,6 +71443,21 @@
       "title" : "GOODBOUNCE [サイコパス]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=64&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00075"
+   },
+   {
+      "adddate" : "2020/04/23 17:03",
+      "artist" : "isocosa obj:R1N",
+      "comment" : "[SCR]:皿同時譜面　軸　地力寄り　[SCR pro.]:連皿譜面　24分有",
+      "folder" : "2020/04",
+      "genre" : "RECONSTRUCT",
+      "keys" : "7",
+      "level" : "2020/04",
+      "lr2_bmsid" : "285499",
+      "md5" : "e0fc44eb2fa00c63c6b3458144d0fc0a",
+      "org_level" : null,
+      "title" : "data lake [7k SCR pro.]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04289"
    },
    {
       "adddate" : "2018/07/06 22:11",

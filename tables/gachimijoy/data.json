@@ -220,6 +220,16 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01579"
    },
    {
+      "artist" : "Naukorin α-Gorila",
+      "comment" : "",
+      "level" : "3",
+      "md5" : "0be4d1d469fab7326850e5273200f855",
+      "name_diff" : "差分",
+      "title" : "Luv of Magical Synth [LuvTek's Magical Sabun]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=129",
+      "url_diff" : "https://fsrs.github.io/sabun/LuvTek/Luv_of_Magical_Synth_LuvTek.zip"
+   },
+   {
       "artist" : "taqumi BGA: HEART CREATE obj.udonfor",
       "comment" : "",
       "level" : "0",
@@ -250,7 +260,17 @@
       "url_diff" : "http://www.hyper-laner.com/sabun.html"
    },
    {
-      "artist" : "-45 / selene.",
+      "artist" : "nemumi obj.hex",
+      "comment" : "",
+      "level" : "4",
+      "md5" : "0d99016bc9451755e3633d814a9d2a23",
+      "name_diff" : "差分",
+      "title" : "mandarinduck [Hexagon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=190&event=110",
+      "url_diff" : "https://bms.hexlataia.xyz/"
+   },
+   {
+      "artist" : "#NAME?",
       "comment" : "",
       "level" : "3",
       "md5" : "0e2b662aa03b4b0669605b3557757c41",
@@ -268,6 +288,16 @@
       "title" : "Gamegame(bms edit) -Challenge-",
       "url" : "http://suudooon.web.fc2.com/",
       "url_diff" : "http://akred.web.fc2.com/baecon/_gamegame_challenge.bms"
+   },
+   {
+      "artist" : "哀愁マニア / obj:tamate",
+      "comment" : "",
+      "level" : "1",
+      "md5" : "0eae4a8aa3ee2afd3a797179949dcf49",
+      "name_diff" : "差分",
+      "title" : "the lost dedicated [謎シチュー]",
+      "url" : "",
+      "url_diff" : "https://drive.google.com/open?id=1TXHCAQb4_W1OWZo4Cm4Wkt7NwCW73Hn8"
    },
    {
       "artist" : "Nurm/さ BGA:Roaring Flame",
@@ -438,6 +468,16 @@
       "title" : "道しるべ [ごめんなさい...]",
       "url" : "",
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html"
+   },
+   {
+      "artist" : "keyc obj. (^ω<)/",
+      "comment" : "",
+      "level" : "3",
+      "md5" : "173d1f5f3977647bc3ddb8412f10a151",
+      "name_diff" : "差分",
+      "title" : "blue traces [(>ω^)/]",
+      "url" : "https://onedrive.live.com/?cid=F881BCC298BA2E47&id=F881BCC298BA2E47!104",
+      "url_diff" : "https://fsrs.github.io/sabun/M-SPIN/blue_traces_23.zip"
    },
    {
       "artist" : "38k/obj：双六",
@@ -880,6 +920,16 @@
       "url_diff" : ""
    },
    {
+      "artist" : "nektar obj:hoi2",
+      "comment" : "",
+      "level" : "0",
+      "md5" : "31332503a54a79cc9e78dc2bf4e651a2",
+      "name_diff" : "差分",
+      "title" : "Le danseur de Blancs Manteaux -Another+-",
+      "url" : "https://dropbox.bms.ms/u/38466798/Le%20danseur%20de%20Blancs%20Manteaux%20.zip",
+      "url_diff" : "http://hoi2.web.fc2.com/"
+   },
+   {
       "artist" : "くるぶっこちゃん BGA : geniway / OBJ : Omino",
       "comment" : "",
       "level" : "5",
@@ -930,7 +980,7 @@
       "url_diff" : "http://yahoo.jp/box/twZ9In"
    },
    {
-      "artist" : "Satsuki Akatsuka　 obj.綾地寧々ちゃん(ヤンデレ)",
+      "artist" : "Satsuki Akatsuka obj.綾地寧々ちゃん(ヤンデレ)",
       "comment" : "",
       "level" : "6",
       "md5" : "35c44e81b71ac11da00828df1c4a2902",
@@ -938,6 +988,16 @@
       "title" : "Servus Meum(Radio Edit) [血祭り]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=148&event=104",
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html"
+   },
+   {
+      "artist" : "麻布じゅばーん obj.nuts",
+      "comment" : "",
+      "level" : "2",
+      "md5" : "362b3cede7171d0d9d96458a644403e7",
+      "name_diff" : "差分",
+      "title" : "カゼノマヘノチリ (タケキモノモ...)",
+      "url" : "https://web.archive.org/web/20130702195633/http://www.geocities.jp/c_azabu/bms.html",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03254"
    },
    {
       "artist" : "Hate / obj:C4 BGA : S.P.S.B.",
@@ -995,7 +1055,7 @@
       "level" : "3",
       "md5" : "38a3596583ea2e9153b36a32145709d2",
       "name_diff" : "差分",
-      "title" : "Little Light　 (SP twinkle)",
+      "title" : "Little Light (SP twinkle)",
       "url" : "http://www.nekomirin.com/",
       "url_diff" : "http://endymionsan.web.fc2.com/mikasabun.html"
    },
@@ -1048,6 +1108,16 @@
       "title" : "Poison AND÷OR Affection -PANDORA-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=149&event=96",
       "url_diff" : "http://akred.web.fc2.com/baecon/_P7.bms"
+   },
+   {
+      "artist" : "しーけー obj.mute",
+      "comment" : "",
+      "level" : "2",
+      "md5" : "3bf1d605ec07bee78e355486af0855d7",
+      "name_diff" : "差分",
+      "title" : "アトロポスと最果の探求者 [Endroll]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=246&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04268"
    },
    {
       "artist" : "Hope / obj:sarao3",
@@ -1170,7 +1240,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01210"
    },
    {
-      "artist" : "-45 / selene.",
+      "artist" : "#NAME?",
       "comment" : "",
       "level" : "4",
       "md5" : "4319590deabdd1897c7b887aacb04613",
@@ -1250,7 +1320,7 @@
       "url_diff" : "http://www.hyper-laner.com/sabun/esc_laner.zip"
    },
    {
-      "artist" : "Ym1024 feat. lamie*　/obj:Leva BGA : Mentalstock",
+      "artist" : "Ym1024 feat. lamie* /obj:Leva BGA : Mentalstock",
       "comment" : "",
       "level" : "4",
       "md5" : "45294a6908dc4a0beb46702f142f864b",
@@ -1860,6 +1930,16 @@
       "url_diff" : "https://vinylhouse.web.fc2.com/"
    },
    {
+      "artist" : "MINT BGA : Can.D-mtmrw",
+      "comment" : "",
+      "level" : "3",
+      "md5" : "666cf5d3472e5fbd026607147e8a7360",
+      "name_diff" : "差分",
+      "title" : "CYCLONE ［微縦］",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=37&event=96",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03753"
+   },
+   {
       "artist" : "⑮ obj:星屑あかり BGA:えらる",
       "comment" : "",
       "level" : "6",
@@ -1935,7 +2015,7 @@
       "level" : "4",
       "md5" : "695543c1fa363b783d7a749524663102",
       "name_diff" : "差分",
-      "title" : "HAMMER the TANGRAM　（ボケ+）",
+      "title" : "HAMMER the TANGRAM （ボケ+）",
       "url" : "http://cool-create.cc/bms/index.html",
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up5638.zip"
    },
@@ -2160,6 +2240,16 @@
       "url_diff" : "http://www.hyper-laner.com/sabun.html"
    },
    {
+      "artist" : "Lifespoiler obj.hex",
+      "comment" : "",
+      "level" : "5",
+      "md5" : "7348b7978b248f0f9cff19c4743305ea",
+      "name_diff" : "差分",
+      "title" : "Clacking tower [Hexagon]",
+      "url" : "http://www.axfc.net/u/2982570",
+      "url_diff" : "https://bms.hexlataia.xyz/"
+   },
+   {
       "artist" : "38k / obj : LindBlum",
       "comment" : "",
       "level" : "5",
@@ -2350,6 +2440,16 @@
       "url_diff" : "http://yumerusabun.web.fc2.com/nue.html"
    },
    {
+      "artist" : "LV.4(original 篠螺悠那) obj:LIEF",
+      "comment" : "",
+      "level" : "2",
+      "md5" : "8384c1971b41d1242c00caf3b81d2bb4",
+      "name_diff" : "差分",
+      "title" : "Moonless night -LV.4 fly with you tonight remix- [iL]",
+      "url" : "https://onedrive.live.com/?id=863934608D908CD0%21105&cid=863934608D908CD0",
+      "url_diff" : "https://www.dropbox.com/s/kjdvu0hjguulw78/lv4moon7Li_22.bme?dl=1"
+   },
+   {
       "artist" : "橘花音 かなえゆめ composed by nmk / Obj:lightX Illustration:かぜっと",
       "comment" : "",
       "level" : "5",
@@ -2450,6 +2550,16 @@
       "url_diff" : "https://onedrive.live.com/?authkey=%21AMZA9%5FFbmFwTK5c&id=24FA0FF10D1064DB%21117&cid=24FA0FF10D1064DB"
    },
    {
+      "artist" : "taqumi obj:ringo BGA:kkkfff2",
+      "comment" : "",
+      "level" : "5",
+      "md5" : "88e765fdcdd99aa40ee0c6e89943c16a",
+      "name_diff" : "差分",
+      "title" : "Run Away [7keys Napather]",
+      "url" : "",
+      "url_diff" : "https://www.dropbox.com/s/93rxezriv1suovn/RunAwayNapather.bms?dl=0"
+   },
+   {
       "artist" : "69 de 74 feat.小宮真央 BG:ユーロビートたけし(西野武) obj.sak",
       "comment" : "",
       "level" : "3",
@@ -2505,7 +2615,7 @@
       "level" : "4",
       "md5" : "8cc781885c71404488aee2bace3ef2ac",
       "name_diff" : "差分",
-      "title" : "Sky Ride　 -EX-",
+      "title" : "Sky Ride -EX-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=123&event=83",
       "url_diff" : "http://sabosabun.tank.jp/"
    },
@@ -2810,6 +2920,16 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02716"
    },
    {
+      "artist" : "mo_no_chrome obj:Omino",
+      "comment" : "",
+      "level" : "5",
+      "md5" : "9c7fbabfb781ccce6a92a6c61385109e",
+      "name_diff" : "差分",
+      "title" : "Shiratsuyu [Other]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=159&event=88",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02577"
+   },
+   {
       "artist" : "xarva / op. laner",
       "comment" : "",
       "level" : "4",
@@ -2870,7 +2990,7 @@
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up3827.zip"
    },
    {
-      "artist" : "KAH (BGA:自動車原付　イラスト:手鞠鈴) obj : BAECON vs sak",
+      "artist" : "KAH (BGA:自動車原付 イラスト:手鞠鈴) obj : BAECON vs sak",
       "comment" : "",
       "level" : "5",
       "md5" : "a2ac6d4325ca2296427d5401b09789a9",
@@ -2915,7 +3035,7 @@
       "level" : "5",
       "md5" : "a54df6b1a41ab3a91cc3df33678cfcef",
       "name_diff" : "差分",
-      "title" : "HAMMER the TANGRAM　（ぶちち）",
+      "title" : "HAMMER the TANGRAM （ぶちち）",
       "url" : "",
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html"
    },
@@ -3320,7 +3440,7 @@
       "url_diff" : "http://3228monsta.web.fc2.com/"
    },
    {
-      "artist" : "qfeileadh mov.アトリエ海百合　feat. レゾナンスもえこ / ハタイッセー",
+      "artist" : "qfeileadh mov.アトリエ海百合 feat. レゾナンスもえこ / ハタイッセー",
       "comment" : "",
       "level" : "2",
       "md5" : "ba6965631ba463756ad2f1725d2f445b",
@@ -3410,6 +3530,16 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03221"
    },
    {
+      "artist" : "ridis(Rai) / object by R1N",
+      "comment" : "",
+      "level" : "1",
+      "md5" : "be172641f41dd40e940d335c4c5ed315",
+      "name_diff" : "差分",
+      "title" : "時計仕掛けの少女 [七七四式]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03761"
+   },
+   {
       "artist" : "Is-m / obj. laner BGA:yuru",
       "comment" : "",
       "level" : "1",
@@ -3478,6 +3608,16 @@
       "title" : "Ain't in sooth [Hexagon]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=385&event=104",
       "url_diff" : "http://bms.hexlataia.xyz/"
+   },
+   {
+      "artist" : "Arctures obj : Mary_Sue",
+      "comment" : "",
+      "level" : "3",
+      "md5" : "c31aca0f936caf9fbb3077edc2d09df5",
+      "name_diff" : "差分",
+      "title" : "mnemogeny [dust to dust_ver.1]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/mnemogeny%20%28by%20Arctures%29.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04208"
    },
    {
       "artist" : "イズミケイ BGA : BKANOTHER / selene.",
@@ -3630,6 +3770,26 @@
       "url_diff" : "http://www.hyper-laner.com/sabun.html"
    },
    {
+      "artist" : "nmk remixed by litmus* / obj.くー",
+      "comment" : "",
+      "level" : "5",
+      "md5" : "cbe6c92099b686c9230725a4f9c0f93d",
+      "name_diff" : "差分",
+      "title" : "図書室のエルザ (litmus* Remix) [All-3]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=128&event=104",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03760"
+   },
+   {
+      "artist" : "roop × Mentalstock / selene.",
+      "comment" : "",
+      "level" : "2",
+      "md5" : "cc49d9845cc9af02177308b20290e148",
+      "name_diff" : "差分",
+      "title" : "Disco Balls -Genocide-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=183&event=60",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02540"
+   },
+   {
       "artist" : "椎名まゆり / obj:Monsta",
       "comment" : "",
       "level" : "6",
@@ -3648,6 +3808,16 @@
       "title" : "Quickening 2 the RED [Hi]",
       "url" : "",
       "url_diff" : "http://www.geocities.jp/hihihi4442/"
+   },
+   {
+      "artist" : "Rururu obj:ゆっきー",
+      "comment" : "",
+      "level" : "0",
+      "md5" : "ce90ad2193d2a604727e946e7ded1eda",
+      "name_diff" : "",
+      "title" : "鏡花水月 [SP Y+]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=164&event=104",
+      "url_diff" : ""
    },
    {
       "artist" : "うまるつふり / obj: sa-ta",
@@ -3850,7 +4020,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01931"
    },
    {
-      "artist" : "qfeileadh mov.アトリエ海百合　feat. レゾナンスもえこ / ハタイッセー",
+      "artist" : "qfeileadh mov.アトリエ海百合 feat. レゾナンスもえこ / ハタイッセー",
       "comment" : "",
       "level" : "1",
       "md5" : "d986fb99cf1e76fd2ff9cd19c035de1e",
@@ -3900,6 +4070,16 @@
       "url_diff" : "http://www.hyper-laner.com/sabun.html"
    },
    {
+      "artist" : "Est obj.OXYGEN",
+      "comment" : "",
+      "level" : "6",
+      "md5" : "db27fee3af1bd6da2ef16429ca27ef17",
+      "name_diff" : "差分",
+      "title" : "Angelic Snow -XenoBurst-",
+      "url" : "http://estish.nobody.jp",
+      "url_diff" : "https://drive.google.com/drive/folders/0B4chFHpe-ae4UG9zMDlwcGZiM0U"
+   },
+   {
       "artist" : "るいまる obj : BAECON",
       "comment" : "",
       "level" : "2",
@@ -3910,7 +4090,7 @@
       "url_diff" : "http://akred.web.fc2.com/baecon/bokurano-firmament.bms"
    },
    {
-      "artist" : "MALVA. BGA : 焼き鳥　Illustration : しえろ。+ 萬田 / selene.",
+      "artist" : "MALVA. BGA : 焼き鳥 Illustration : しえろ。+ 萬田 / selene.",
       "comment" : "",
       "level" : "5",
       "md5" : "dd79321fa52676ddf9e8f169aaecbe88",
@@ -3950,7 +4130,7 @@
       "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html"
    },
    {
-      "artist" : "ワケアニ　（イラスト・クロ） / 壁殴り代行",
+      "artist" : "ワケアニ （イラスト・クロ） / 壁殴り代行",
       "comment" : "",
       "level" : "6",
       "md5" : "df112e71e1f864ded44a623e02042ff9",
@@ -4040,7 +4220,7 @@
       "url_diff" : "http://www.hyper-laner.com/sabun/subcons_a7_lanerlaner.bme"
    },
    {
-      "artist" : "DJ TAKUAN 及び 佐倉アヤキ 　及　び obj:BAECON",
+      "artist" : "DJ TAKUAN 及び 佐倉アヤキ 及 び obj:BAECON",
       "comment" : "",
       "level" : "5",
       "md5" : "e313f2cacd75e39b45e61f439ede55a7",
@@ -4060,6 +4240,16 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01457"
    },
    {
+      "artist" : "nektar obj:hoi2",
+      "comment" : "",
+      "level" : "4",
+      "md5" : "e722e15b2e0efd1e3873a678a4319b01",
+      "name_diff" : "差分",
+      "title" : "Le danseur de Blancs Manteaux -BlackAnother-",
+      "url" : "https://dropbox.bms.ms/u/38466798/Le%20danseur%20de%20Blancs%20Manteaux%20.zip",
+      "url_diff" : "http://hoi2.web.fc2.com/"
+   },
+   {
       "artist" : "ゴリラ愛花(＾＾ω＾＾) BGA : 室谷",
       "comment" : "",
       "level" : "1",
@@ -4068,6 +4258,26 @@
       "title" : "gorillante",
       "url" : "http://electro-planet.net/loveplus/",
       "url_diff" : "http://akred.web.fc2.com/baecon/gorillante.bme"
+   },
+   {
+      "artist" : "momo★yama obj:ほまれ (BGA:アカツキユウ)",
+      "comment" : "",
+      "level" : "2",
+      "md5" : "e802f41e9baaa8e55ad757ba8dc583e4",
+      "name_diff" : "差分",
+      "title" : "JUMMER (BARRAGE)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=103",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
+   },
+   {
+      "artist" : "Nami Haven obj.Guanacoite",
+      "comment" : "",
+      "level" : "3",
+      "md5" : "e8776cf32615ff4a8f536bd463fda1e5",
+      "name_diff" : "差分",
+      "title" : "Save the Water [Refrain From Swilling Water]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=129",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/"
    },
    {
       "artist" : "2TORI obj:Monsta",
@@ -4130,6 +4340,16 @@
       "url_diff" : "http://www.hyper-laner.com/sabun.html"
    },
    {
+      "artist" : "nitro obj.#",
+      "comment" : "",
+      "level" : "6",
+      "md5" : "ee25ef34cfbf91a6993a159f3b49bab0",
+      "name_diff" : "差分",
+      "title" : "ophiuchi_endpoint [#]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=257&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04249"
+   },
+   {
       "artist" : "Lunatic Sounds / Yusi. obj.Lapis",
       "comment" : "",
       "level" : "2",
@@ -4138,6 +4358,16 @@
       "title" : "ZERODAY [Heartbleed]",
       "url" : "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=51",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00605"
+   },
+   {
+      "artist" : "イズミケイ BGA : BKANOTHER / OBJ : И",
+      "comment" : "",
+      "level" : "4",
+      "md5" : "f02ed8c8f032a9a7dad2f6bd7d7efd61",
+      "name_diff" : "差分",
+      "title" : "SIREN OF DAWN [AIR-RAID SIREN]",
+      "url" : "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/4F9mCZ5Z",
+      "url_diff" : "https://bms.parksulab.xyz"
    },
    {
       "artist" : "Kuwagata obj:七海千秋",
@@ -4180,7 +4410,7 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02018"
    },
    {
-      "artist" : "高嶺　愛花",
+      "artist" : "高嶺 愛花",
       "comment" : "",
       "level" : "4",
       "md5" : "f5002664a1d93367e25c82c67a9425f7",
