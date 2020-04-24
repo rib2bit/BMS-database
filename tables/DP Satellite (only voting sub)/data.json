@@ -13,6 +13,19 @@
       "url_diff" : "http://epics.client.jp/"
    },
    {
+      "artist" : "kanone obj:肴",
+      "comment" : "BOFU2016",
+      "level" : "8",
+      "md5" : "257797cdfa68681a5dec319466905a2b",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "0ee1dfe83b7864923d458bc6f6cb072b5a3b0280cab26d024efe8a14ef119263",
+      "submission" : 305,
+      "title" : "CO5M1C R4ILR0AD [DP EXTRA]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=220&event=110",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/174"
+   },
+   {
       "artist" : "テヅカ ? Qayo BGI: MUSH.T ? PHage / obj:Starfish",
       "comment" : "★★5~6?",
       "level" : "12",
@@ -68,6 +81,18 @@
       "url_diff" : "https://drive.google.com/file/d/0B4Lag8JPHqO3LU1BMnZVMmNhR0k/view"
    },
    {
+      "artist" : "Lime / 温泉の力 / obj:ue",
+      "level" : "8",
+      "md5" : "43860f1b6f642c6026966e62f913c6f1",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "28f419ea8dffcde863e6b18091fa78fb4182b3be30f2ea8f1ab675e378b7e489",
+      "submission" : 303,
+      "title" : "Summertime(2013 mix) [DP Master]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=176&event=88",
+      "url_diff" : "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download"
+   },
+   {
       "artist" : "paraoka / Limite feat. 制限?",
       "comment" : "低速二中階段、正常なL9",
       "level" : "11",
@@ -79,6 +104,18 @@
       "title" : "L9",
       "url" : "http://web.archive.org/web/20070301141729/http://homepage1.nifty.com:80/paraoka/index38.html",
       "url_diff" : "https://1drv.ms/x/s!Aoi5esJwIYCChk0BTx_U1KkswzSf"
+   },
+   {
+      "artist" : "paraoka",
+      "level" : "8",
+      "md5" : "5ad08be587d9d42971084fc701df0693",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "a4ca31aba3c55802c8bf651a017bceb464c9a18b87085f79de5721616a7f65e2",
+      "submission" : 304,
+      "title" : "witchcraft [14A]",
+      "url" : "http://web.archive.org/web/20020919173139/http://homepage1.nifty.com/paraoka/bms/wc.html",
+      "url_diff" : "https://w.atwiki.jp/14key/pages/23.html"
    },
    {
       "artist" : "goangra/obj:松魚 BGA:karoeya",
@@ -118,6 +155,18 @@
       "title" : "VALLISTA [DP VALLISTANDARD]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=301&event=74",
       "url_diff" : "http://epics.client.jp/bof2011/sakuzyo_vallista_ogg_EP.zip"
+   },
+   {
+      "artist" : "BELUGA Movie : highluin",
+      "level" : "8",
+      "md5" : "93086ca5d235d4b32016cf44520f50b9",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "d31e37d124800253bafd254003bdd7084a103f10f9ab8026be15fce4fbf95787",
+      "submission" : 301,
+      "title" : "New Windy Paradise [DP MANIAC]",
+      "url" : "http://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21111",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/643"
    },
    {
       "artist" : "立秋 feat.ちょこ obj:Starfish",
@@ -183,5 +232,17 @@
       "title" : "ふしぎなおくりもの [DPH]",
       "url" : "http://9zen.dip.jp/page/contents.cgi?page=%A1%DABMS%A1%DB%A4%D5%A4%B7%A4%AE%A4%CA%A4%AA%A4%AF%A4%EA%A4%E2%A4%CE",
       "url_diff" : "https://ux.getuploader.com/dpbms/download/424"
+   },
+   {
+      "artist" : "polysha feat.Eir&Sasara",
+      "level" : "8",
+      "md5" : "ffa8beca32b6552e6fd003183a074faf",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "78c7a46e4adcb7d481d57699fbcdb0933852882b5756ea7ebf7b021c7d612f17",
+      "submission" : 302,
+      "title" : "Bogus of True (DPA)",
+      "url" : "http://sdrv.ms/18yFb36",
+      "url_diff" : "https://www8.atwiki.jp/14key/pages/23.html"
    }
 ]
