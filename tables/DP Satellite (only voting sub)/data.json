@@ -208,6 +208,19 @@
       "url_diff" : "https://ux.getuploader.com/dpbms/download/494"
    },
    {
+      "artist" : "-45/SOA(obj:A-4)",
+      "comment" : "1.5乱打の練習譜面",
+      "level" : "4",
+      "md5" : "aaf4a1eef238223c67d96994b66a66f1",
+      "proposer" : "メロリーヌ",
+      "proposerLr2id" : 7482,
+      "sha256" : "8178c92dcd01504372f881e1613530953eae8dae9e87e5006672cf8149bf4ed2",
+      "submission" : 308,
+      "title" : "新月舞踏 -DP ANOTHER-",
+      "url" : "http://web.archive.org/web/20040807112115/http://mugimugi-70.hp.infoseek.co.jp/htm/music.htm",
+      "url_diff" : "https://drive.google.com/file/d/173hEa0C_ifAIfpEAhWidS9kwD7A48LFu/view"
+   },
+   {
       "artist" : "punchhh",
       "comment" : "4~5? 乱打",
       "level" : "5",
@@ -219,6 +232,32 @@
       "title" : "cold world [DP ANOTHER]",
       "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=65&order=reg&odtype=a",
       "url_diff" : ""
+   },
+   {
+      "artist" : "SHANG0 / obj:A-BONE",
+      "comment" : "11.8～12.0想定です",
+      "level" : "1",
+      "md5" : "c86f0339c4c83cb29304fa64f915ecf2",
+      "proposer" : "メロリーヌ",
+      "proposerLr2id" : 7482,
+      "sha256" : "9889b77923a32049712e98e6cf9bd483d03e123e09058b697a6436d0bb00ef6d",
+      "submission" : 309,
+      "title" : "Lovers, [DP ABATHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=290&event=74",
+      "url_diff" : "https://www.axfc.net/u/3921557"
+   },
+   {
+      "artist" : "qfeileadh feat.レゾナンスもえこ mov:自動車 原付 / obj. 0ne",
+      "comment" : "★1くらい",
+      "level" : "1",
+      "md5" : "d02c8e12c4678a01566f42937444eb79",
+      "proposer" : "KENIN*",
+      "proposerLr2id" : 67700,
+      "sha256" : "f33a2f814e3f6f20eb5316f52bc07b3ea47041bbdf51c9569b88e187283e2b34",
+      "submission" : 307,
+      "title" : "Prismrose [DP ANOTHER]",
+      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=19&order=reg&odtype=a",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/735"
    },
    {
       "artist" : "Lime/obj:epics-",

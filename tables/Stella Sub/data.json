@@ -89,6 +89,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Xakyo / obj : LindBlum",
+      "comment" : "BPM 177 微縦 (SPA基準ズレなし)",
+      "level" : "4",
+      "md5" : "0138e1e77097d347c3d53265e9e4d8ca",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "b4b9aaeccc702193a9674917d363724ae40569b96082f2bf85922275a6eb2e54",
+      "submission" : 1132,
+      "title" : "ROCKET KID [RE:LOAD]",
+      "url" : "http://dropbox.bms.ms/u/63612044/ROCKET%20KID_bms.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03393"
+   },
+   {
       "artist" : "nmk / わっふゑ / selene.",
       "comment" : "高速物量",
       "level" : "5",
@@ -8069,6 +8082,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Laur obj:mute",
+      "comment" : "st0-1?/超高速/ガチ押し/乱打",
+      "level" : "0",
+      "md5" : "7eedbaf6cd676513de0b0d3575da3fac",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "ac4d3576313f43e9efaf5cd4b2f26625947c5e1d090c07bdc69bec9c132c002e",
+      "submission" : 1131,
+      "title" : "SERIOUS ERROR [#DIV/0!]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=266&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00390"
+   },
+   {
       "artist" : "しーけー obj:七海千秋",
       "comment" : "ガチ押し",
       "level" : "0",
@@ -8729,6 +8755,19 @@
       "title" : "Replica -LAST BOSS-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=417&event=123",
       "url_diff" : "http://bms.parksulab.xyz"
+   },
+   {
+      "artist" : "sa10 / obj:けろささ",
+      "comment" : "BPM 186 乱打、ディレイのようなズレ (音源定義の拡張子差のみ存在)",
+      "level" : "4",
+      "md5" : "8a4327fac32beaa98779e80ca9785e24",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "4296698b50c4de8964c9ae671199dd25689bc1a9d2d45adaa72827dbef1ac23c",
+      "submission" : 1133,
+      "title" : "Revelator [kerother]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=68&event=102",
+      "url_diff" : "https://drive.google.com/open?id=0B6gzvhYqRdovMm9SdXNwbF9LcTg"
    },
    {
       "artist" : "Nizikawa feat. nayuta / selene. Movie: Air",
