@@ -196,6 +196,22 @@
       "voteYes" : 3
    },
    {
+      "artist" : "ROKINA あ",
+      "level" : "3",
+      "md5" : "515ef0685a13ed7432702bde38011112",
+      "proposer" : "常磐久遠",
+      "proposerLr2id" : 78142,
+      "sha256" : "2148d90b5fa0c9d2c20b83a8772fa15010439ec4cbad65ab053e1e120f101be1",
+      "submission" : 636,
+      "title" : "Happy Ending Story☆ -TrueEND-",
+      "url" : "http://livrenoir.web.fc2.com/",
+      "url_diff" : "http://drowsy.hannnari.com/",
+      "voteNeutral" : 0,
+      "voteNo" : 2,
+      "votePercent" : 71.4285714285714,
+      "voteYes" : 5
+   },
+   {
       "artist" : "Lime / И",
       "comment" : "BOFXV 乱打 神曲",
       "level" : "4",
@@ -327,6 +343,22 @@
       "title" : "私たちの恋は観音開き (†れじぇんだりあ)",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=217&event=96",
       "url_diff" : ""
+   },
+   {
+      "artist" : "SUPER STAR 健人 obj.hex",
+      "level" : "4",
+      "md5" : "b8e1c338ba07ce8a7d46d4a1d795e672",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "9dd32b6ed06e924c3333baa1e3e2d4bda59836840244ea099c4f378048959866",
+      "submission" : 1053,
+      "title" : "Lonely One Christmas [Hexagon]",
+      "url" : "https://onedrive.live.com/?cid=F61C1F8825F0CF46&id=F61C1F8825F0CF46%21344&parId=F61C1F8825F0CF46%21159&o=OneUp",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html",
+      "voteNeutral" : 1,
+      "voteNo" : 0,
+      "votePercent" : 90,
+      "voteYes" : 4
    },
    {
       "artist" : "ノクティス・江口・チェラム Obj:И",
