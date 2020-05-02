@@ -26,6 +26,19 @@
       "url_diff" : "https://ux.getuploader.com/dpbms/download/174"
    },
    {
+      "artist" : "Xacla a.k.a. fen / iimode-do",
+      "comment" : "同時押し、乱打、3分弱",
+      "level" : "0",
+      "md5" : "26d636df170f970e5e837525ccab77be",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "992eac604f05c93811c92bb77890dbecad89006c89a026fbd73662b809302b2b",
+      "submission" : 312,
+      "title" : "deep blue sunrise (Another)",
+      "url" : "http://iimode-do.jp/?p=60",
+      "url_diff" : ""
+   },
+   {
       "artist" : "テヅカ ? Qayo BGI: MUSH.T ? PHage / obj:Starfish",
       "comment" : "★★5~6?",
       "level" : "12",
@@ -104,6 +117,19 @@
       "title" : "Summertime(2013 mix) [DP Master]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=176&event=88",
       "url_diff" : "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download"
+   },
+   {
+      "artist" : "m108 / obj:段位認定スレの17 BGA : 砂糖天麩羅 / シキイチル",
+      "comment" : "(音抜け修正,差分作者名追記) 高速階段",
+      "level" : "11",
+      "md5" : "51fe7ee56efa0c29890749f058679669",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "eb583606e4df53c7d5e113f6fb8d672901859947761972fbc110bc36ec9454ad",
+      "submission" : 313,
+      "title" : "* Crow Solace * [DPA]",
+      "url" : "https://dropbox.bms.ms/u/1235551/bms/crow_solace.zip",
+      "url_diff" : "https://www.dropbox.com/s/quli82l697jr4sp/_crow_DPA_f.zip?dl=1"
    },
    {
       "artist" : "paraoka / Limite feat. 制限?",
@@ -232,19 +258,6 @@
       "title" : "cold world [DP ANOTHER]",
       "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=65&order=reg&odtype=a",
       "url_diff" : ""
-   },
-   {
-      "artist" : "SHANG0 / obj:A-BONE",
-      "comment" : "11.8～12.0想定です",
-      "level" : "1",
-      "md5" : "c86f0339c4c83cb29304fa64f915ecf2",
-      "proposer" : "メロリーヌ",
-      "proposerLr2id" : 7482,
-      "sha256" : "9889b77923a32049712e98e6cf9bd483d03e123e09058b697a6436d0bb00ef6d",
-      "submission" : 309,
-      "title" : "Lovers, [DP ABATHER]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=290&event=74",
-      "url_diff" : "https://www.axfc.net/u/3921557"
    },
    {
       "artist" : "qfeileadh feat.レゾナンスもえこ mov:自動車 原付 / obj. 0ne",

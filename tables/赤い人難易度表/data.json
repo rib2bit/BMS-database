@@ -4991,22 +4991,6 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/Moon-gate_DELAYMASTERplus.bms"
    },
    {
-      "artist" : "美樹さやか",
-      "comment" : "",
-      "eval" : 0,
-      "level" : "7",
-      "lr2_bmsid" : 118766,
-      "md5" : "d43354147a1aa74557960d42617290a2",
-      "name_diff" : "右クリック保存",
-      "name_pack" : null,
-      "state" : 0,
-      "tag" : null,
-      "title" : "squartatrice [HARD]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=99&event=74",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/squartatriceHARD.bme",
-      "url_pack" : null
-   },
-   {
       "artist" : "mattaku /obj:赤い人",
       "comment" : null,
       "eval" : 0,
@@ -5104,15 +5088,35 @@
       "url_pack" : null
    },
    {
+      "artist" : "美樹さやか vs. 美樹さやか (fw. 美樹さやか)/差分　赤い人 BGA ： 美樹さやか",
+      "comment" : null,
+      "eval" : 0,
+      "level" : "7",
+      "md5" : "d5414294b120d5f2dbfec4eb6cd59f38",
+      "name_diff" : "右クリックで保存",
+      "name_pack" : null,
+      "state" : 0,
+      "tag" : null,
+      "title" : "squartatrice [HARD]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=99&event=74",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/squartatriceHARD.bme",
+      "url_pack" : null
+   },
+   {
       "artist" : "BMS/GYAON作曲/井上",
       "comment" : "▼06",
+      "eval" : 0,
       "level" : "6",
       "lr2_bmsid" : 139559,
       "md5" : "d56aabca7be74b033c0fca5c4a44c487",
       "name_diff" : "右クリック保存",
+      "name_pack" : null,
+      "state" : 0,
+      "tag" : null,
       "title" : "SING THE LIGHT [HARD]",
       "url" : "http://gyaon.sakura.ne.jp/bmbm_Ori_.html",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/SingTheLight-HARD.bme"
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/SingTheLight-HARD.bme",
+      "url_pack" : null
    },
    {
       "artist" : "SECRET HEROINE 朝霧-ASAGI-",
