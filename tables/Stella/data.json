@@ -417,6 +417,30 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01129"
    },
    {
+      "artist" : "Rune Caster BGA : orto / Obj.Triforce",
+      "comment" : "NORMAL基準ズレ無し",
+      "level" : "0",
+      "md5" : "0d5d3ab9ce8bc463d51b5e1fd00c82f8",
+      "proposer" : "MarySue",
+      "sha256" : "81bcd8220835b0d50d2cf7d1f15f4fb726bee4ac09f0c880010c02e988be52aa",
+      "submission" : 1118,
+      "title" : "TYR [Nemesis]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/TYR%20%28by%20Rune%20Caster%29.rar",
+      "url_diff" : "http://www.dropbox.com/s/rl7ldyx1j7rz2zj/_7ne.bme?dl=0"
+   },
+   {
+      "artist" : "ZUN remixed by LeaF Movie:Optie/Illust:セシル◇タイト/selene.",
+      "comment" : "Armageddon",
+      "level" : "2",
+      "md5" : "0e4c0450550b096de606cb1233658ad0",
+      "proposer" : "MineC24",
+      "sha256" : "233675354bf303970ebea28d8bc4cc822ff0284834a2875e39f71a4d47c1a027",
+      "submission" : 1120,
+      "title" : "Armageddon -Eclipse-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=129",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04172"
+   },
+   {
       "artist" : "kagerow",
       "comment" : "8分メイン",
       "level" : "4",
@@ -2922,6 +2946,18 @@
       "url_diff" : "http://akred.web.fc2.com/baecon/04_Titanomaquia_Tartarus.bme"
    },
    {
+      "artist" : "UnLimited (Ural vs. Lian) BGA:SELDO",
+      "comment" : "st3~4 高速 fix ver",
+      "level" : "4",
+      "md5" : "4cae94c0cab5d4e1e811916e89c50db2",
+      "proposer" : "LUXURY♪",
+      "sha256" : "83cf40e8fffe784b4313571ab21b800b06f714b15994e4565ff4ec5715880e73",
+      "submission" : 960,
+      "title" : "Lebensumlauf [BEHEMOTH]",
+      "url" : "https://event.yaruki0.net/VSevent/impression/29",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Vector27 vs Blue-J",
       "comment" : "",
       "level" : "8",
@@ -3624,6 +3660,18 @@
       "title" : "corneal -Over The Limit-",
       "url" : "http://k-bms.com/party_pabat/party2014.jsp?board_num=11&num=48",
       "url_diff" : "http://app.box.com/s/mgxeban5yeqbicazs9ts"
+   },
+   {
+      "artist" : "MILK / И",
+      "comment" : "st1 or 2?",
+      "level" : "1",
+      "md5" : "6112e485c3d9716724b73d5c7af07814",
+      "proposer" : "chouco",
+      "sha256" : "8d895619e72c836ceb4f8bad8cf83f83057989d04f2985d379aa17af05a8fba4",
+      "submission" : 1113,
+      "title" : "RAY (EXCELSIOR)",
+      "url" : "https://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21208",
+      "url_diff" : "https://bms.parksulab.xyz"
    },
    {
       "artist" : "翡翠茶漬け / obj : LindBlum",
@@ -7247,6 +7295,18 @@
       "url_diff" : "http://yahoo.jp/box/twZ9In"
    },
    {
+      "artist" : "ノクティス・江口・チェラム Obj:И",
+      "comment" : "1?",
+      "level" : "1",
+      "md5" : "c4881e70dfc2f65aca4e07d813425e4d",
+      "proposer" : "MineC24",
+      "sha256" : "c9156c8b2e87f2c4437da736882b7204c8f68f07c4c71036fd4d35adcc3f5505",
+      "submission" : 1101,
+      "title" : "ヒメタイプ [Excelsior_Fix]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=96",
+      "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
       "artist" : "痛男次郎 obj:ELIGOS",
       "comment" : "初挑戦です！！",
       "level" : "0",
@@ -7317,6 +7377,18 @@
       "title" : "スネ夫がFDFDをしてるときに流れてるガバ (ANOTHER)",
       "url" : "http://uploader.bms.ms/data/suneo_ogg.zip",
       "url_diff" : "http://onmacodayo.web.fc2.com/0117/suneo7fd.bms"
+   },
+   {
+      "artist" : "ねこみりん feat.小宮真央×みゆ×えみゅう。 Movie:kkkfff2 / Illust:永山ゆうのん obj.ブレイブマン",
+      "comment" : "Full",
+      "level" : "7",
+      "md5" : "c73c2066207c940da3a94e5f32419287",
+      "proposer" : "MEES-♬",
+      "sha256" : "a0d947d2ceac3bf56b0416198c93da8aead7fdd0ba623c944c453d91ad358c8e",
+      "submission" : 1125,
+      "title" : "オトゲラヴ！ [フルプライス]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=201&event=96",
+      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up5229.rar"
    },
    {
       "artist" : "sukuramu42 Illust:恋々/ obj:numuto",
@@ -7662,18 +7734,6 @@
       "title" : "Planisphere [Hexagon]",
       "url" : "https://dl.dropboxusercontent.com/s/ad3ejg0zi71i23j/planisphere-another.zip",
       "url_diff" : "https://dl.dropboxusercontent.com/s/z3x3dg8060078d8/%E2%98%85%E2%98%853%20Planisphere%20%5BHexagon%5D.zip"
-   },
-   {
-      "artist" : "Yu^ta feat. みずにんじん / A",
-      "comment" : "",
-      "level" : "5",
-      "md5" : "d0595448f9aed636bdc0b03d6445bc5f",
-      "proposer" : "chack♪",
-      "sha256" : "d910755d93da4f9014102ffab6b6669b9f485c913cfacc42719176ce893d66ce",
-      "submission" : 13,
-      "title" : "Strawberry Mint Chocolate [Despair & Hope]",
-      "url" : "http://yuinore.net/2017/02/smc-package/",
-      "url_diff" : "https://www.dropbox.com/s/qca5kfbcs2sdpqx/_44_smcn-kill.zip?dl=0"
    },
    {
       "artist" : "234 / obj: black train",
@@ -8235,6 +8295,18 @@
       "title" : "先手必勝戦闘機　鳳 [Vent Divin]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=171&event=96",
       "url_diff" : "http://gnqg.rosx.net/upload/"
+   },
+   {
+      "artist" : "Sakamiya feat.A.Dokuga img:HalHAL Lyrics:uoru notes:ELIGOS",
+      "comment" : "0~1 地力",
+      "level" : "1",
+      "md5" : "dc1ac1d67463892d957b1d410773557f",
+      "proposer" : "*ふわうさ*",
+      "sha256" : "cbe9926f12631e84cd3866035b84c949b52ded17a99cc83bd08d38f4860d6986",
+      "submission" : 1041,
+      "title" : "Epic Bellum -universum- [BattleGalaxy]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=258&event=110",
+      "url_diff" : ""
    },
    {
       "artist" : "黒皇帝 Movie: 6XeNoN9",

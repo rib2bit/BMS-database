@@ -11565,6 +11565,18 @@
       "voteYes" : 0
    },
    {
+      "artist" : "鈎兎(KagiUsagi) obj.fhyu",
+      "level" : "0",
+      "md5" : "b4f78730b27aa95164fae41a331afe63",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "0184c026329cdba0c5da982c40aa8184cd73a78288b5ff0d3e3f187c14de56e6",
+      "submission" : 1134,
+      "title" : "Physical damage -Past Scars- [Intense]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=88&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
+   },
+   {
       "artist" : "ZUN /  BMS:average BGA:のりろー",
       "comment" : "中速物量",
       "level" : "2",
@@ -13262,18 +13274,6 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
-   },
-   {
-      "artist" : "Yu^ta feat. みずにんじん / A",
-      "comment" : "",
-      "level" : "5",
-      "md5" : "d0595448f9aed636bdc0b03d6445bc5f",
-      "proposer" : "chack♪",
-      "sha256" : "d910755d93da4f9014102ffab6b6669b9f485c913cfacc42719176ce893d66ce",
-      "submission" : 13,
-      "title" : "Strawberry Mint Chocolate [Despair & Hope]",
-      "url" : "http://yuinore.net/2017/02/smc-package/",
-      "url_diff" : "https://www.dropbox.com/s/qca5kfbcs2sdpqx/_44_smcn-kill.zip?dl=0"
    },
    {
       "artist" : "234 / obj: black train",

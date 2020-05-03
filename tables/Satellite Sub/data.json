@@ -2344,6 +2344,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Hyparpax / obj.Sterrite",
+      "comment" : "fix ver (Re:ANOTHER) add one note",
+      "level" : "4",
+      "md5" : "1cc3ef8d8b7dec5515d7168e5e03cfa7",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "7eecbf5c4f56ba7d5be729f933887513940ba72b03bd98e4d8aaa9d58e4b9184",
+      "submission" : 1411,
+      "title" : "Transfixation [STERRITE]",
+      "url" : "https://k-bms.com/party_pabat/party2019.jsp?board_num=19&num=51&order=reg&odtype=a",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04304"
+   },
+   {
       "artist" : "saikoro / obj.rat",
       "comment" : "★2Loki的な",
       "level" : "1",
@@ -3421,6 +3434,19 @@
       "title" : "DOLL [F]",
       "url" : "https://web.archive.org/web/20151030093509/http://mikihara.cheap.jp/bms/BOF2015/doll_ogg.zip",
       "url_diff" : "http://fenderbms.web.fc2.com/"
+   },
+   {
+      "artist" : "Arctures BGA: 鑓田(alpha complex) / obj. DK",
+      "comment" : "HS-FIXはMAXでOK、HS-FIXのためのズレがあります。",
+      "level" : "4",
+      "md5" : "2af0865bfac13fef86cf7ece8a4eb877",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "7d164ad43b52a9179a8cfc4da7b996bc6c84f1737a204ba2a15ea719689b0422",
+      "submission" : 1414,
+      "title" : "Auburn Halo [Strauss]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=322&event=116",
+      "url_diff" : "https://frozensat.github.io/sabun/auburnhalo_DK.zip"
    },
    {
       "artist" : "kanone ランナー : あんた",
@@ -6642,7 +6668,7 @@
       "sha256" : "a5730e6721f225ba9affa664cdfe87f09da918eeacffa571795ef47b7423c7a3",
       "submission" : 1372,
       "title" : "the lost dedicated (extra)",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=89&event=65",
+      "url" : "https://onedrive.live.com/?id=EDC72D529484CBCB%21212&cid=EDC72D529484CBCB",
       "url_diff" : ""
    },
    {
@@ -8227,6 +8253,19 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03305"
    },
    {
+      "artist" : "tdef / ZUN / obj. 子",
+      "comment" : "BPM180 多要素",
+      "level" : "12",
+      "md5" : "66efb916d034011260a72d7c7ec1c6aa",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "1f095d05594e8a80764a75cd998598b4bd31d185d6049fff4e994b148374cd36",
+      "submission" : 1407,
+      "title" : "the moon as seen from the void (GOD)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=37&event=129",
+      "url_diff" : ""
+   },
+   {
       "artist" : "ak+q/obj:凩",
       "comment" : "階段　皿複合　中盤同時押し",
       "level" : "3",
@@ -8606,6 +8645,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Se-U-Ra obj:七海",
+      "comment" : "高 速 乱 打",
+      "level" : "7",
+      "md5" : "6e11da8e42c4d65619f2bdf50e9d45d9",
+      "proposer" : "dstorv",
+      "proposerLr2id" : 145158,
+      "sha256" : "f9c7abe1b7836bec2b72e3e346dd3b10fa2688b9a98b6fd28ec6de8ff51bb61f",
+      "submission" : 1408,
+      "title" : "LOSHAXI -Hopeless-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=119",
+      "url_diff" : "https://www.dropbox.com/s/85xffo5sp1zp8if/loshaxi_nanami.zip?dl=1"
    },
    {
       "artist" : "ああああ illust:いかお / A",
@@ -9432,6 +9484,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "uma feat. ましろ obj.Mallow♪",
+      "comment" : "AnzutoolでSPN基準ズレ無し",
+      "level" : "5",
+      "md5" : "790817a7a4305d03e64dcba4413407d1",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "64d0e47a893cf06093b4486d0fb5f1143bfc15f24eaee1b7774020a8d1d08184",
+      "submission" : 1413,
+      "title" : "take me to the moon [サテラ×ステラ]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=129",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/"
+   },
+   {
       "artist" : "Nush obj.Lapis",
       "comment" : "これは面白い",
       "level" : "2",
@@ -9707,7 +9772,7 @@
    {
       "artist" : "ポロロッカ / obj: Lennon",
       "comment" : "後半に微縦連",
-      "level" : "7",
+      "level" : "8",
       "md5" : "7ba0d771cc462499d97d20a537accdf6",
       "proposer" : "Mallow♪",
       "proposerLr2id" : 154796,
@@ -9851,7 +9916,7 @@
    {
       "artist" : "ETIA. feat. Jenga Movie: わっふゑ obj:YOURI",
       "comment" : "色々",
-      "level" : "2",
+      "level" : "1",
       "md5" : "7d2715cf75fc0b5c33f8d0c7cce26f57",
       "proposer" : "C4",
       "proposerLr2id" : 120385,
@@ -10395,7 +10460,7 @@
    {
       "artist" : "HARD RENAISSAMBA MASTER 佐藤 -SATOH- / obj:sagoo",
       "comment" : "3~4?",
-      "level" : "4",
+      "level" : "3",
       "md5" : "841c19446e282d1422e7fb7e0ecdfbef",
       "proposer" : "MineC24",
       "proposerLr2id" : 84597,
@@ -11391,19 +11456,6 @@
       "title" : "Giselle [Leggiero]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=262&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02659"
-   },
-   {
-      "artist" : "Hyparpax / obj りゅー",
-      "comment" : "PABAT!2019、皿、トリル、乱打",
-      "level" : "4",
-      "md5" : "938e16b0434c357e62409213db8fb445",
-      "proposer" : "ww",
-      "proposerLr2id" : 147642,
-      "sha256" : "2e0d283149255898954ce812dbdabb5f8cbd725d8cc15d571d3498e7dd9d378f",
-      "submission" : 969,
-      "title" : "Transfixation [Re:ANOTHER]",
-      "url" : "http://k-bms.com/party_pabat/party2019.jsp?board_num=19&num=51&order=reg&odtype=a",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02949"
    },
    {
       "artist" : "STASTA BGA : nanairo / obj.7zs",
@@ -14037,7 +14089,7 @@
    },
    {
       "artist" : "きゃと composed by TiS /  差分 赤い人 CinerariaStudio",
-      "level" : "1",
+      "level" : "2",
       "md5" : "b328e36d0b6c5d4d4d6ff6da78601446",
       "proposer" : "파이어",
       "proposerLr2id" : 7290,
@@ -14396,6 +14448,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "corok-Bb obj. BK",
+      "comment" : "fix ver",
+      "level" : "5",
+      "md5" : "b6f2c8d798b81f67a14ce05c50cb3b07",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "9f15243c2180ea97f3522a9bba801a1cc0c23165cfa4460ad851d7e0e2c94756",
+      "submission" : 1412,
+      "title" : "Signager -HONGKONG EXPRESS_FIX-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=121",
+      "url_diff" : "http://beatkim.web.fc2.com/insane.html"
    },
    {
       "artist" : "nora2r 出前 / obj.LAPIS",
@@ -15308,23 +15373,6 @@
       "title" : "Number Y [INSANE]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=342&event=116",
       "url_diff" : "",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
-      "artist" : "corok-Bb obj. BK",
-      "comment" : "",
-      "level" : "5",
-      "md5" : "bf50b63ea7bce6272ca71a76bce39826",
-      "proposer" : "_sr",
-      "proposerLr2id" : 103940,
-      "sha256" : "f01032d8deba1c8f25d2d3a3983f246614070a75b1cb22a98937883680c5fb64",
-      "submission" : 510,
-      "title" : "Signager -HONGKONG EXPRESS-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=121",
-      "url_diff" : "http://beatkim.web.fc2.com/",
-      "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -16785,23 +16833,6 @@
       "title" : "Operation_ALTAIR [CodeName-V.E.G.A.]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=125&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
-      "artist" : "美樹さやか vs. 美樹さやか (fw. 美樹さやか)/差分　赤い人 BGA ： 美樹さやか",
-      "comment" : "さやかちゃん",
-      "level" : "4",
-      "md5" : "d43354147a1aa74557960d42617290a2",
-      "proposer" : "かに",
-      "proposerLr2id" : 115381,
-      "sha256" : "e5fcc846f80e111a541c8ff0f9e23ba1761f3d614d039f0af49d860ecd084f98",
-      "submission" : 357,
-      "title" : "squartatrice [HARD]",
-      "url" : "http://web.archive.org/web/20190406024100/http://gmtn.sub.jp/_hard_renaissayaka_ogg.zip",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/squartatriceHARD.bme",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -16908,6 +16939,19 @@
       "title" : "Black Lotus  [SP CHALLENGER+]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=138&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?mode=find&word=black+lotus+kuro"
+   },
+   {
+      "artist" : "美樹さやか vs. 美樹さやか (fw. 美樹さやか)/差分　赤い人 BGA ： 美樹さやか",
+      "comment" : "fix ver",
+      "level" : "4",
+      "md5" : "d5414294b120d5f2dbfec4eb6cd59f38",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "d4b1cdfe0c24b39bca2c540a70a111192dd004dcb2d5ed5722d6d054c09bdc28",
+      "submission" : 1410,
+      "title" : "squartatrice [HARD]",
+      "url" : "http://web.archive.org/web/20190406024100/http://gmtn.sub.jp/_hard_renaissayaka_ogg.zip",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/squartatriceHARD.bme"
    },
    {
       "artist" : "er / obj:五月雨雀",
@@ -17709,6 +17753,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Lime obj.2RLZ",
+      "comment" : "BPM178 軸なし乱打 _ophelia_main7.bme基準ズレなし",
+      "level" : "12",
+      "md5" : "de568a953fd06180b6b0462cb20e0789",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "25228cad5fc67973dab2e2c866c764f3818bc683048a1a782425116e3f50fbc3",
+      "submission" : 1409,
+      "title" : "Ophelia [Phamrsolone]",
+      "url" : "http://kanki2.net/bms.html",
+      "url_diff" : "http://2rlz.github.io/"
+   },
+   {
       "artist" : "あとぅす BGI:Micelle",
       "comment" : "乱打、重発狂　st0~1あるかもしれない",
       "level" : "12",
@@ -17728,7 +17785,7 @@
    {
       "artist" : "8284 vs wa.",
       "comment" : "難易度に影響しないLNあり",
-      "level" : "5",
+      "level" : "4",
       "md5" : "deab2d7c66503690608c04e5c5211f6d",
       "proposer" : "氷城つるぎ",
       "proposerLr2id" : 151185,

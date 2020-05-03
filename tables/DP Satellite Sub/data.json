@@ -631,7 +631,7 @@
    {
       "artist" : "レトリー vocal:シアン Illust:チュチュ Scripts:モア",
       "comment" : "同時押し",
-      "level" : "1",
+      "level" : "2",
       "md5" : "2e1d905b08d65ad49333586bfbc9a7b5",
       "proposer" : "sagoo",
       "proposerLr2id" : 72753,
@@ -1092,7 +1092,7 @@
    {
       "artist" : "DJ MEGA ROSERADE",
       "comment" : "9~10?",
-      "level" : "9",
+      "level" : "10",
       "md5" : "52fdcccccfe731534f011e4c3e500a6a",
       "proposer" : "JHS",
       "proposerLr2id" : 128228,
@@ -1113,19 +1113,6 @@
       "title" : "Take Me Away [DPA]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=150&event=104",
       "url_diff" : "http://ux.getuploader.com/dpbms/download/11/Take+Me+Away+DP.zip"
-   },
-   {
-      "artist" : "TAG underground Arranged by Orina/obj:epics-",
-      "comment" : "12分同時押し、軸連打",
-      "level" : "8",
-      "md5" : "5755ee24efcd0612273a29d9016f684a",
-      "proposer" : "JHS",
-      "proposerLr2id" : 128228,
-      "sha256" : "671b4420e35b104aa6adb54cd40f47a9a3975713a778c3f9e77b5b63fe32457f",
-      "submission" : 77,
-      "title" : "POSSESSION(Deceptive Hardcore Mix) [DP]",
-      "url" : "https://drive.google.com/file/d/1xEA9kIefqKRApCfrJphBsL-Ay0I_6agc/view?usp=sharing",
-      "url_diff" : ""
    },
    {
       "artist" : "shimizushi obj:肴 BGA : vol-t & a.a",
@@ -1348,7 +1335,7 @@
    {
       "artist" : "Nameless14 Sound Team \"alfear vs crim\" obj.にゃむ",
       "comment" : "4?、片手同時、片手階段",
-      "level" : "4",
+      "level" : "5",
       "md5" : "637302837e71bae8d1e6528eb1464481",
       "proposer" : "JHS",
       "proposerLr2id" : 128228,
@@ -1901,7 +1888,7 @@
    {
       "artist" : "削除 / 石像くん / obj:epics-",
       "comment" : "乱打",
-      "level" : "4",
+      "level" : "5",
       "md5" : "829a8cfe13136f18e25003bab8b7ba06",
       "proposer" : "にゃむ",
       "proposerLr2id" : 139958,
@@ -2027,7 +2014,7 @@
    {
       "artist" : "ぽよみの暴力団",
       "comment" : "階段、縦連",
-      "level" : "6",
+      "level" : "5",
       "md5" : "8c576b6e2dd855a0ae1a7ea755221f36",
       "proposer" : "にゃむ",
       "proposerLr2id" : 139958,
@@ -2655,7 +2642,7 @@
    },
    {
       "artist" : "Is-m BGA:ハマドメハマル",
-      "level" : "4",
+      "level" : "5",
       "md5" : "b73c05f5bc653e4d2a801129d58f2297",
       "proposer" : "JHS",
       "proposerLr2id" : 128228,
@@ -2743,21 +2730,8 @@
       "url_diff" : "http://dpbmsdelta.web.fc2.com/info/links.html"
    },
    {
-      "artist" : "void feat. Hiroko / obj:QJITAI",
-      "comment" : "6?、軸階段、差分は右クリック→「ファイルに保存」で保存できます。",
-      "level" : "6",
-      "md5" : "bb5592771c94e943ef2f16d769641ad2",
-      "proposer" : "JHS",
-      "proposerLr2id" : 128228,
-      "sha256" : "e6ebb8eb219ecbec769f43f2c7919b54afb288160162d1a38bb914401ec553b7",
-      "submission" : 191,
-      "title" : "world devoid of you (fairydust radio edit // DP Anqther)",
-      "url" : "http://wayback.archive.org/web/20130726173552/http://www.mournfinale.com/bof2008/bmsogg_world_devoid.zip",
-      "url_diff" : "http://satchanvx.web.fc2.com/main/bms/"
-   },
-   {
       "artist" : "ダージリン / obj:sagoo",
-      "level" : "4",
+      "level" : "5",
       "md5" : "bb648bb7b6d71d24ae931c3140cb806c",
       "proposer" : "coco",
       "proposerLr2id" : 147123,
@@ -2861,7 +2835,7 @@
    {
       "artist" : "NIKITA / misokabocha obj:コトネとしずくちゃん",
       "comment" : "dpbms_1178",
-      "level" : "1",
+      "level" : "2",
       "md5" : "bf3b35fd1f6361818a635d2130a31e69",
       "proposer" : "Tyro",
       "proposerMinirid" : "771c245a-497e-4bc2-9bd1-c1531fa29e86",
@@ -3394,19 +3368,6 @@
       "url_diff" : "http://ux.getuploader.com/dpbms/download/11/Take+Me+Away+DP.zip"
    },
    {
-      "artist" : "A4paper / obj:Lilium",
-      "comment" : "8~9? 片手二重乱打、LN dpbms_0990.zip",
-      "level" : "8",
-      "md5" : "e8264193492ec640327c934f9f37b02c",
-      "proposer" : "にゃむ",
-      "proposerLr2id" : 139958,
-      "sha256" : "f661d6e1f1f198b13ea5dacab7ac7b4d794d9d38d6370cb874c2287cf3dff031",
-      "submission" : 181,
-      "title" : "Lisa(BMS Edit) -14keys-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=88",
-      "url_diff" : "http://dpbmsdelta.web.fc2.com/info/links.html"
-   },
-   {
       "artist" : "FIG",
       "comment" : "高速乱打",
       "level" : "10",
@@ -3472,7 +3433,7 @@
    },
    {
       "artist" : "yukitani / DKN / obj.LetsOTL",
-      "level" : "2",
+      "level" : "3",
       "md5" : "eed0b50b688f8e5c1bbb21a9a45b47e1",
       "proposer" : "Tyro",
       "proposerMinirid" : "771c245a-497e-4bc2-9bd1-c1531fa29e86",
@@ -3704,7 +3665,7 @@
    {
       "artist" : "mommy",
       "comment" : "階段、同時押し",
-      "level" : "6",
+      "level" : "5",
       "md5" : "fb72b922a144a6ef029d0c809cd66479",
       "proposer" : "にゃむ",
       "proposerLr2id" : 139958,
@@ -3712,18 +3673,6 @@
       "submission" : 203,
       "title" : "Shamshir -rough Pt.2- [14key,Another]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=323&event=127",
-      "url_diff" : ""
-   },
-   {
-      "artist" : "あかりちゃん BGA:Frantzz / obj:hi-low",
-      "level" : "7",
-      "md5" : "fc7b6990bee9ccd98a0e8504ccc8f8af",
-      "proposer" : "coco",
-      "proposerLr2id" : 147123,
-      "sha256" : "a4fcb4f33c68588de23c71ef1239b5e25e72761d7d195b7b274bd464b789af5f",
-      "submission" : 227,
-      "title" : "PARAMOUNT ANTHEM! [DP ANOTHER]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=279&event=110",
       "url_diff" : ""
    },
    {
