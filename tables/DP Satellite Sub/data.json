@@ -155,6 +155,19 @@
       "url_diff" : "http://yaruki0.sakura.ne.jp/sabun/dp.html"
    },
    {
+      "artist" : "void / tes / obj:十六夜",
+      "comment" : "4~5? 階段、微縦連",
+      "level" : "4",
+      "md5" : "0c5f9d1948d964fb20696261f632a199",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "bd4f1d7a0119fef01229279529f1ab263ff7ce869993ee86929c20c0a676119f",
+      "submission" : 316,
+      "title" : "reverieland [DPYoither]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=120",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/573"
+   },
+   {
       "artist" : "田井中 律/obj:epics-",
       "comment" : "同時押し、乱打",
       "level" : "10",
@@ -631,7 +644,7 @@
    {
       "artist" : "レトリー vocal:シアン Illust:チュチュ Scripts:モア",
       "comment" : "同時押し",
-      "level" : "2",
+      "level" : "3",
       "md5" : "2e1d905b08d65ad49333586bfbc9a7b5",
       "proposer" : "sagoo",
       "proposerLr2id" : 72753,
@@ -1665,6 +1678,19 @@
       "title" : "Smiling",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=441&event=104",
       "url_diff" : "https://1drv.ms/x/s!Aoi5esJwIYCChk0BTx_U1KkswzSf"
+   },
+   {
+      "artist" : "Silentroom × mommy × Nate / obj.LetsOTL",
+      "comment" : "#55に音追加あり 階段、同時押し、LN",
+      "level" : "2",
+      "md5" : "79d513270d899b4ee308aca0a0a0422b",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "e6642eb4134e5e87c5ce2f482d3aafefe452b092aad0c516dac2f3cdcde5e8ae",
+      "submission" : 314,
+      "title" : "Implexrough [SRBOFU2017DP]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=365&event=116",
+      "url_diff" : "https://www.dropbox.com/s/13a7kz5spsebf7v/SRBOFU2017DP.zip?dl=0"
    },
    {
       "artist" : "Lime / LetsOTL + Limite",
@@ -2731,7 +2757,7 @@
    },
    {
       "artist" : "ダージリン / obj:sagoo",
-      "level" : "5",
+      "level" : "6",
       "md5" : "bb648bb7b6d71d24ae931c3140cb806c",
       "proposer" : "coco",
       "proposerLr2id" : 147123,
@@ -3253,6 +3279,19 @@
       "title" : "jus†ice [ANOTHER]",
       "url" : "https://www.dropbox.com/s/ia27p6rqwhpwz70/jus%E2%80%A0ice_%E3%82%8B%E3%82%8B%E3%82%8A%E3%81%88%E3%83%BC%E3%82%8B.zip?dl=1",
       "url_diff" : ""
+   },
+   {
+      "artist" : "佐久間まゆ / 星輝子 obj;kuro",
+      "comment" : "階段、着地",
+      "level" : "7",
+      "md5" : "df4ebdbcdeefa79103c57ea315d2f166",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "6a40eb2c6841a755c7223b5ad97ca6b8551777ad30c2915f8986caa480547894",
+      "submission" : 315,
+      "title" : "恋愛シンドローム [sub Black Another]",
+      "url" : "https://dropbox.bms.ms/u/59509271/BOF2013/renai_syndrome_ogg.zip",
+      "url_diff" : "https://1drv.ms/u/s!AhTuCFLHGy4lhGq0GfVF6ft9isxw"
    },
    {
       "artist" : "Cosine BGA:うまうや、Kaoru Miyazaki / obj:Thulium",

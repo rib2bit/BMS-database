@@ -3735,6 +3735,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Kuwagata obj:七海",
+      "level" : "0",
+      "md5" : "3b3d206a284b5b246b3b413b75e41582",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "6a93796e20f2b37703a31cda5ffb24de66158dda06a462a5594c9da0d6555a61",
+      "submission" : 1138,
+      "title" : "Charlotte, -To The Future-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=217&event=110",
+      "url_diff" : "https://www.dropbox.com/s/mfhxt4wxqi7c9l6/charlotte_fix.zip?dl=1",
+      "zureCount" : 0
+   },
+   {
       "artist" : "キメラのキタムラ",
       "comment" : "BPM275 16分乱打、8分皿",
       "level" : "5",
@@ -11846,6 +11859,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "azu obj.hex",
+      "comment" : "kawaii delay",
+      "level" : "5",
+      "md5" : "b920ac8e15cc1e096f023198ec9b65ee",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "4662fb3f6bce7767c67e553aeab13b0a758b7d4d50c90bab3de893021670cbbc",
+      "submission" : 1137,
+      "title" : "Hybrid Galaxy [Delay Sandbox]",
+      "url" : "http://uploader.bms.ms/data/bof2011/azu/hybrid_galaxy.zip",
+      "url_diff" : "http://bms.hexlataia.xyz/sabun/%E2%98%85%E2%98%854%20Hybrid%20Galaxy%20%5BDelay%20Sandbox%5D.zip"
+   },
+   {
       "artist" : "Est /obj:月門",
       "comment" : "RAGNALOS",
       "level" : "1",
@@ -13376,6 +13402,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "ROKINA BGA:TEKINA/obj:Mary_Sue",
+      "comment" : "0~1?",
+      "level" : "1",
+      "md5" : "d1146edb960bf7cccb22f4134333e533",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "7ed41967da4090629953285317d298e114497760d32fe753ae3d3efb2ff14122",
+      "submission" : 1135,
+      "title" : "YUKINA [Maryther]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=93",
+      "url_diff" : "https://stellabms.xyz/upload/109"
+   },
+   {
       "artist" : "STR ALL STARS / obj : 0samil0",
       "comment" : "サンバランドみたいな",
       "level" : "2",
@@ -14387,6 +14426,19 @@
       "title" : "Sygnal [Other]",
       "url" : "http://web.archive.org/web/20070817082130/http://sasakure.bms.ms/bms/sygnal.zip",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03390"
+   },
+   {
+      "artist" : "SEPHID mov LankaNIK / obj : LindBlum",
+      "comment" : "キャノン・ボール",
+      "level" : "2",
+      "md5" : "e065513d6b16c941c9d540e2cf20d7d7",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "21de851ca6bd47f619107b0ce87f8629b716d4d6020b44c0282a4add3e04f7cb",
+      "submission" : 1136,
+      "title" : "Critical Cannonball -Xe-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=129",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04206"
    },
    {
       "artist" : "こどものなみだ /差分 赤い人",

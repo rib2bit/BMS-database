@@ -1,5 +1,34 @@
 [
    {
+      "artist" : "void / tes / obj:十六夜",
+      "comment" : "4~5? 階段、微縦連",
+      "level" : "4",
+      "md5" : "0c5f9d1948d964fb20696261f632a199",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "bd4f1d7a0119fef01229279529f1ab263ff7ce869993ee86929c20c0a676119f",
+      "submission" : 316,
+      "title" : "reverieland [DPYoither]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=120",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/573"
+   },
+   {
+      "artist" : "立秋 feat.ちょこ obj:Starfish",
+      "level" : "9",
+      "md5" : "24946be731a25ce1470bb7a8d4e403e7",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "7044c9e4a14fdae5c9e674e222cd1af5c91afdf9d2ffd4d751dfb1c612b5d4ac",
+      "submission" : 136,
+      "title" : "プナイプナイたいそう [DP ☆NOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=227&event=116",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/353",
+      "voteNeutral" : 1,
+      "voteNo" : 0,
+      "votePercent" : 83.3333333333333,
+      "voteYes" : 2
+   },
+   {
       "artist" : "Festa  obj:右手が恋人 鑓田(alpha complex)",
       "level" : "8",
       "md5" : "3969aa2fbc8482d5ba23aafbc1a167db",
@@ -40,5 +69,31 @@
       "title" : "Smiling",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=441&event=104",
       "url_diff" : "https://1drv.ms/x/s!Aoi5esJwIYCChk0BTx_U1KkswzSf"
+   },
+   {
+      "artist" : "Silentroom × mommy × Nate / obj.LetsOTL",
+      "comment" : "#55に音追加あり 階段、同時押し、LN",
+      "level" : "2",
+      "md5" : "79d513270d899b4ee308aca0a0a0422b",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "e6642eb4134e5e87c5ce2f482d3aafefe452b092aad0c516dac2f3cdcde5e8ae",
+      "submission" : 314,
+      "title" : "Implexrough [SRBOFU2017DP]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=365&event=116",
+      "url_diff" : "https://www.dropbox.com/s/13a7kz5spsebf7v/SRBOFU2017DP.zip?dl=0"
+   },
+   {
+      "artist" : "佐久間まゆ / 星輝子 obj;kuro",
+      "comment" : "階段、着地",
+      "level" : "7",
+      "md5" : "df4ebdbcdeefa79103c57ea315d2f166",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "6a40eb2c6841a755c7223b5ad97ca6b8551777ad30c2915f8986caa480547894",
+      "submission" : 315,
+      "title" : "恋愛シンドローム [sub Black Another]",
+      "url" : "https://dropbox.bms.ms/u/59509271/BOF2013/renai_syndrome_ogg.zip",
+      "url_diff" : "https://1drv.ms/u/s!AhTuCFLHGy4lhGq0GfVF6ft9isxw"
    }
 ]

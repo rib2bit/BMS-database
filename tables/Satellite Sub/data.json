@@ -9231,6 +9231,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Sigma X3 / yusi obj. DK",
+      "comment" : "LN、皿",
+      "level" : "0",
+      "md5" : "7600a3199bbade63b070983f51102623",
+      "proposer" : "realize",
+      "proposerLr2id" : 81440,
+      "sha256" : "98de6a235c019f0e57a84f37b19ebcb85efe4842acf86c65a175bc7a625bd3bb",
+      "submission" : 1416,
+      "title" : "Celeste [Atlantis]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=284&event=127",
+      "url_diff" : "https://frozensat.github.io/sabun/Celeste_DK.zip",
+      "zureCount" : 0
+   },
+   {
       "artist" : "fether (Remixed by Yamajet) obj:goe",
       "comment" : "",
       "level" : "3",
@@ -11411,6 +11425,20 @@
       "title" : "Bad Elixir [Power Elixir]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=316&event=123",
       "url_diff" : "https://frozensat.github.io/sabun/Bad_Elixir_Power.zip"
+   },
+   {
+      "artist" : "CRUNCH + JunkoBAND@A.I. obj : Mary_Sue",
+      "comment" : "皿複合、連打、後半難",
+      "level" : "5",
+      "md5" : "933a2688d78d4dfdb3b7a0531658c61c",
+      "proposer" : "realize",
+      "proposerLr2id" : 81440,
+      "sha256" : "fcaea4cb13b8375493af1d4a6ccb2bd9bd532c7e0af6c42b25be7bac8c4f468b",
+      "submission" : 1415,
+      "title" : "メシア -この世界に救いを-",
+      "url" : "http://uploader.bms.ms/data/messiah.rar",
+      "url_diff" : "https://stellabms.xyz/upload/31",
+      "zureCount" : 0
    },
    {
       "artist" : "roop × Mentalstock / selene.",
