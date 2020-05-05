@@ -91,6 +91,20 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html"
    },
    {
+      "artist" : "Shaman Cure-All obj.Restia",
+      "comment" : "3~4? トリル",
+      "level" : "3",
+      "md5" : "2633164385b0e3e769ee3279e3624260",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "7af8c911d498dcd692b0230017a7cb50a7b2492e4cd2dd7a90f99f726d2e64ca",
+      "submission" : 1417,
+      "title" : "Soy Sauce Candy [AbNormal]",
+      "url" : "https://www.dropbox.com/s/h6pmqb6u502pwzm/SoySauceCandy.zip?dl=0",
+      "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpylzGygnfJ94yEkErL?e=7WgLsl",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Sound piercer obj. DK",
       "comment" : "MAX-FIX、SPA基準ズレ無し",
       "level" : "1",
@@ -141,6 +155,19 @@
       "title" : "SAMBISTA [sio-another]",
       "url" : "http://onedrive.live.com/?cid=FC95A680740CA8C9&id=FC95A680740CA8C9!111",
       "url_diff" : "http://siokazebms.web.fc2.com/"
+   },
+   {
+      "artist" : "ZUN RMX By 44teru-k/差分 赤い人",
+      "comment" : "初投票です。",
+      "level" : "12",
+      "md5" : "3e762583197cfaa79572118cd862160f",
+      "proposer" : "ラフレシア",
+      "proposerLr2id" : 146129,
+      "sha256" : "53171e565f378bf968a1b59baae334443541a11769a7810438da329565882b78",
+      "submission" : 1419,
+      "title" : "ハルトマンの妖怪少女～VirusⅤ [INFERNO]",
+      "url" : "http://web.archive.org/web/20160101135626/http://creation-records.info/bms/koishi_virus5_44teru-k_ogg.rar",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/_koishi_virus5_INFERNO.bme"
    },
    {
       "artist" : "うまるつふり / selene.",
@@ -347,6 +374,20 @@
       "title" : "5億円が欲しいRENAISSANCE [ZOI]",
       "url" : "https://dropbox.com/s/z7ylf1l80grpybm/%5B69%20de%2074%5D5oku_RENAISSANCE_ogg.zip?dl=1",
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html"
+   },
+   {
+      "artist" : "Yonder Voice / obj.かに",
+      "comment" : "11~12? ラスト回復",
+      "level" : "12",
+      "md5" : "c8e5a63d16a07b4df9ef7d87be6cfe08",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "c3f33e2d1df63a31bc9947f62e4c7eecac7bb437591d25bea9f372b4ccbc4b35",
+      "submission" : 1418,
+      "title" : "Black or White [KANITHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=129",
+      "url_diff" : "http://kanisabun.gozaru.jp/index.html",
+      "zureCount" : 0
    },
    {
       "artist" : "mommy obj:monaka",
