@@ -3008,6 +3008,33 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03356"
    },
    {
+      "artist" : "秋月アキラ feat. 保堂 京 obj.2RLZ",
+      "comment" : "ガチ押し",
+      "level" : "12",
+      "md5" : "24ccef65138cbd461f82780aca4f7e47",
+      "proposer" : "Triforce",
+      "proposerLr2id" : 18553,
+      "sha256" : "98613607061312daac5fb4aa7e6f205bdc453fd1d10494074ad6a303e9410b9c",
+      "submission" : 1421,
+      "title" : "黄昏のメロディア [トワイライト]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=325&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "qfeileadh",
+      "comment" : "Low total, Renda",
+      "level" : "4",
+      "md5" : "25254b610f84c2d602b5fc73202a27dc",
+      "proposer" : "Triforce",
+      "proposerLr2id" : 18553,
+      "sha256" : "904230c13f87c0d90f5f692fce604d43d28bedfdbbbb91bd9a9b55e0dec12907",
+      "submission" : 1420,
+      "title" : "whither [7keys another]",
+      "url" : "https://k-bms.com/party_pabat/party2019.jsp?board_num=19&num=59&order=reg&odtype=a",
+      "url_diff" : ""
+   },
+   {
       "artist" : "魔界都市ニイガタ（黄泉路テヂーモ×dawn-system×かゆき） BGA:自動車原付 / obj:黄泉路テヂーモ",
       "comment" : "Fix ver.",
       "level" : "1",
