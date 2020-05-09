@@ -1382,6 +1382,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "daisan/obj.もにもに",
+      "comment" : "st6-7 (Hard ~st9) 24+16/48",
+      "level" : "6",
+      "md5" : "175195e735b0d22e45a9f905b605afdb",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "954c058593ddf7151fbe30c6773eccdff04e0af54aa9d04f7a820c4f6d04f4cf",
+      "submission" : 1140,
+      "title" : "平衡世界 [miracle]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=83",
+      "url_diff" : "https://stellabms.xyz/upload/132"
+   },
+   {
       "artist" : "秋山 澪 / obj:BAECON",
       "comment" : "少し連打の混じる物量",
       "level" : "3",
