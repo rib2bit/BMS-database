@@ -57,7 +57,7 @@
       "level" : "4",
       "md5" : "02d3ce07e8862a502a8e9a9353039713",
       "name_diff" : "NASA",
-      "state" : "1",
+      "state" : "",
       "title" : "Armageddon [Doomsday o'clock]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=129",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04173",
@@ -109,7 +109,7 @@
       "level" : "1",
       "md5" : "07dc880a5b95c559746ac02a2ddc84c7",
       "name_diff" : "同梱(NOEL WALKER)",
-      "state" : "1",
+      "state" : "",
       "title" : "INSERT COIN",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=98&event=104",
       "url_diff" : "",
@@ -141,6 +141,19 @@
       "url_diff" : "",
       "video1" : "",
       "video2" : "tSIF7YgzY3w"
+   },
+   {
+      "artist" : "Yamajet",
+      "comment" : "ルミナルソフラン",
+      "level" : "1",
+      "md5" : "09c37b85c047ff882f4253c6076fe490",
+      "name_diff" : "同梱",
+      "state" : "1",
+      "title" : "スーパールミナルガール",
+      "url" : "https://www.likeside.net/event/soflan/detail.php?n=21",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : "q_C6rxc4smU"
    },
    {
       "artist" : "kireji",
@@ -299,6 +312,19 @@
       "video2" : "h55x9GOviY4"
    },
    {
+      "artist" : "Sho Fish",
+      "comment" : "Sho Fish式ソフラン",
+      "level" : "0",
+      "md5" : "198a1aa1cc5be001e9a42811b2823505",
+      "name_diff" : "同梱",
+      "state" : "1",
+      "title" : "Magnon [HYPER_B]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=169&event=104",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "Frums",
       "comment" : "特殊な具現化",
       "level" : "4",
@@ -338,6 +364,19 @@
       "video2" : ""
    },
    {
+      "artist" : "ZUN remixed by LeaF",
+      "comment" : "ソフランする時は常識にとらわれてはいけないのですね！*`・▽・´*",
+      "level" : "1",
+      "md5" : "1af3b5cdefb1285587116aef7055416a",
+      "name_diff" : "MOK2",
+      "state" : "1",
+      "title" : "Calamity Fortune [常識にとらわれない]",
+      "url" : "http://leafbms.web.fc2.com/song.html",
+      "url_diff" : "http://flowermaster.web.fc2.com/kikaku/kikaku7.zip",
+      "video1" : "",
+      "video2" : "vsz3x96vxI8"
+   },
+   {
       "artist" : "felisica",
       "comment" : "京都式1バスと太鼓の達人",
       "level" : "3",
@@ -364,12 +403,25 @@
       "video2" : "GdDVWfY1_Pc"
    },
    {
+      "artist" : "MONOLITH feat.FG75",
+      "comment" : "小節線",
+      "level" : "0",
+      "md5" : "1d6849d54fe37cf32e44d0b69ddca4d9",
+      "name_diff" : "同梱",
+      "state" : "1",
+      "title" : "宮子",
+      "url" : "https://web.archive.org/web/20140224181206/http://plugout4.com/bof2012/%5BULTIMATE-lopears%5D-miyako.zip",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : "9o2gdbcEsdc"
+   },
+   {
       "artist" : "litmus*",
       "comment" : "#RANDOMで運試し",
       "level" : "X",
       "md5" : "1e5e699b986f4c23d09eff0e217085b8",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "TEST YOUR LUCK (slot machine)",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=105",
       "url_diff" : "",
@@ -395,7 +447,7 @@
       "level" : "0",
       "md5" : "1ecccbefd68a0a086a2305341669935f",
       "name_diff" : "同梱",
-      "state" : "1",
+      "state" : "",
       "title" : "Zonlicht",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=162&event=60",
       "url_diff" : "",
@@ -533,6 +585,19 @@
       "video2" : ""
    },
    {
+      "artist" : "かたぎり",
+      "comment" : "演出ソフラン",
+      "level" : "0",
+      "md5" : "23b1e56d236a6a8f8eb2e01018ed4f07",
+      "name_diff" : "KANS",
+      "state" : "1",
+      "title" : "Lu*nya*cy Act 2017 [CHAOS]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=379&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01061",
+      "video1" : "",
+      "video2" : "3thEg0WH7mo"
+   },
+   {
       "artist" : "Sho Fish",
       "comment" : "地雷",
       "level" : "1",
@@ -544,6 +609,19 @@
       "url_diff" : "",
       "video1" : "",
       "video2" : "WgiuzzFgPH8"
+   },
+   {
+      "artist" : "kagerow",
+      "comment" : "やっぱり今回もダメだったよ",
+      "level" : "X",
+      "md5" : "25402db80324219bf47190e565826947",
+      "name_diff" : "同梱",
+      "state" : "1",
+      "title" : "おのれフルファイアー",
+      "url" : "http://kagerow.net/bms_file/kgrw_odore.zip",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
    },
    {
       "artist" : "Hammer Switch",
@@ -564,12 +642,25 @@
       "level" : "0",
       "md5" : "2b08009a75e795e7aa12818ae96714ff",
       "name_diff" : "同梱",
-      "state" : "1",
+      "state" : "",
       "title" : "Redestruct (Hyper7)",
       "url" : "https://web.archive.org/web/20110722141312/http://kurenaissance.web6.jp/bms/redestruct.rar",
       "url_diff" : "",
       "video1" : "",
       "video2" : ""
+   },
+   {
+      "artist" : "LeaF",
+      "comment" : "RPG <b>ハードゲージ以上推奨</b>",
+      "level" : "X",
+      "md5" : "2b26cd9c0535473865d2242f9399ce8b",
+      "name_diff" : "同梱",
+      "state" : "1",
+      "title" : "テールストーリー物語 Ⅱ [HYPER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=97",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : "U2BtQIbNJPE"
    },
    {
       "artist" : "STS-88 (a.k.a. 九八式旋回機関銃&NASA) remixed by Kyou1110",
@@ -583,6 +674,19 @@
       "url_diff" : "",
       "video1" : "",
       "video2" : "ECG3CKGYOkU"
+   },
+   {
+      "artist" : "QWertism",
+      "comment" : "演出ソフランと地雷アニメで踊る人",
+      "level" : "2",
+      "md5" : "2c3d2cce8699ee73fb996def865dabe8",
+      "name_diff" : "Quree",
+      "state" : "1",
+      "title" : "Necromancer -The story of a Hero-",
+      "url" : "http://drive.google.com/open?id=0B-2VRSu0l-tDS25rUzZKUEVWMm8",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04301",
+      "video1" : "",
+      "video2" : ""
    },
    {
       "artist" : "urimu",
@@ -754,6 +858,19 @@
       "video2" : "GR5E-UnAICM"
    },
    {
+      "artist" : "ZUN remixed by LeaF",
+      "comment" : "演出ソフランとワープ",
+      "level" : "1",
+      "md5" : "32c6ba743a07dbc5795fa1c0c0ea5850",
+      "name_diff" : "夢瑠",
+      "state" : "1",
+      "title" : "Calamity Fortune [デザイアソフラン]",
+      "url" : "http://leafbms.web.fc2.com/song.html",
+      "url_diff" : "http://flowermaster.web.fc2.com/kikaku/kikaku7.zip",
+      "video1" : "",
+      "video2" : "pzPiliDdQHM"
+   },
+   {
       "artist" : "Trinity",
       "comment" : "地雷に惑わされないように",
       "level" : "3",
@@ -778,6 +895,19 @@
       "url_diff" : "http://rattoto10.blog.fc2.com/blog-entry-2.html",
       "video1" : "",
       "video2" : "B7aUTPMcVLw"
+   },
+   {
+      "artist" : "Nakaith",
+      "comment" : "うねうねソフラン",
+      "level" : "0",
+      "md5" : "343c8dcb7ebcdd3ef2f7b4bb28680b61",
+      "name_diff" : "同梱",
+      "state" : "1",
+      "title" : "Deepesced Linkz",
+      "url" : "http://starkey.ivory.ne.jp/bts/bts/detail/view/1/",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : "vbjnvrhe3vo"
    },
    {
       "artist" : "trapman",
@@ -876,7 +1006,7 @@
       "level" : "1",
       "md5" : "3bcd7327066ff5872d414ec6d72d841a",
       "name_diff" : "oxygen",
-      "state" : "1",
+      "state" : "",
       "title" : "YInMn Blue [CHAOS]",
       "url" : "https://www.dropbox.com/sh/64zrcrdziyn7wl0/AABAoS33c6oBfPcJjzMbCwjTa/BOFU2017/siqlo_-_YInMn_Blue%5Bogg%5D?dl=1        siqlo",
       "url_diff" : "http://zatsuzatsu.sakura.ne.jp/diff-bms/",
@@ -980,7 +1110,7 @@
       "level" : "X",
       "md5" : "3fa08036424eb4abd45dff9e5a44d053",
       "name_diff" : "同梱",
-      "state" : "1",
+      "state" : "",
       "title" : "おみくじ [100円]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=105",
       "url_diff" : "",
@@ -1110,7 +1240,7 @@
       "level" : "3",
       "md5" : "4b259e6b165f3de8f11d7e39960605b0",
       "name_diff" : "同梱(DJ.END)",
-      "state" : "1",
+      "state" : "",
       "title" : "YInMn Blue [Junkie]",
       "url" : "https://www.dropbox.com/sh/64zrcrdziyn7wl0/AABAoS33c6oBfPcJjzMbCwjTa/BOFU2017/siqlo_-_YInMn_Blue%5Bogg%5D?dl=1",
       "url_diff" : "",
@@ -1235,6 +1365,19 @@
       "video2" : "TvytIDBkxNQ"
    },
    {
+      "artist" : "cybermiso",
+      "comment" : "演出ソフラン",
+      "level" : "0",
+      "md5" : "54cfa9639d8d64d693e7bc81813430c1",
+      "name_diff" : "18",
+      "state" : "",
+      "title" : "eccentric ghost channel as Poltergeist [Extra]",
+      "url" : "https://dropbox.bms.ms/u/45360077/watasino_h0-mupe-ji.html",
+      "url_diff" : "http://absolute.pv.land.to/uploader/src/up1073.zip",
+      "video1" : "",
+      "video2" : "YWcwJsywxXY"
+   },
+   {
       "artist" : "美月 正",
       "comment" : "S乱をかけると……？",
       "level" : "L",
@@ -1279,12 +1422,25 @@
       "level" : "2",
       "md5" : "580e0af320c33f973fad6244bf4b4f2a",
       "name_diff" : "(^v^)/+(^ω^)/",
-      "state" : "1",
+      "state" : "",
       "title" : "take me kuso moon",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=129",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04178",
       "video1" : "",
       "video2" : "afKMSczRU0E"
+   },
+   {
+      "artist" : "xi",
+      "comment" : "カッコイイ光譜面完全版",
+      "level" : "L",
+      "md5" : "59bcb9155f85c3640b482bc8527e1f63",
+      "name_diff" : "paraph as Wingweaver",
+      "state" : "1",
+      "title" : "Halcyon [CULMINATION: REMASTERED]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=237&event=65",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01864",
+      "video1" : "",
+      "video2" : "N1afuZucJnQ"
    },
    {
       "artist" : "暮狛",
@@ -1298,6 +1454,19 @@
       "url_diff" : "",
       "video1" : "",
       "video2" : "6euVS-MNxJE"
+   },
+   {
+      "artist" : "cybermiso",
+      "comment" : "cybermiso式ソフラン",
+      "level" : "1",
+      "md5" : "59f551616a67778b64f70cc1a29e0d86",
+      "name_diff" : "同梱",
+      "state" : "1",
+      "title" : "魔カい造ﾖd STEAMPUNK Frankenstein",
+      "url" : "https://dropbox.bms.ms/u/45360077/watasino_h0-mupe-ji.html",
+      "url_diff" : "",
+      "video1" : "17121317",
+      "video2" : ""
    },
    {
       "artist" : "Aoi+Trerey-U",
@@ -1352,6 +1521,19 @@
       "video2" : "7RSbJebGqxM"
    },
    {
+      "artist" : "Ｕ咲",
+      "comment" : "演出ソフランと小節線",
+      "level" : "1",
+      "md5" : "5cf693e2a54e548503611554bd949fbd",
+      "name_diff" : "同梱",
+      "state" : "1",
+      "title" : "Lost Templar [HYPER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=326&event=104",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : "fm4yDQqK468"
+   },
+   {
       "artist" : "urimu",
       "comment" : "地雷具現化とワープ",
       "level" : "1",
@@ -1404,6 +1586,32 @@
       "video2" : ""
    },
    {
+      "artist" : "cybermiso",
+      "comment" : "cybermiso式ソフラン",
+      "level" : "0",
+      "md5" : "6346fefb3d3f10eefcc3c78d7daa081a",
+      "name_diff" : "同梱",
+      "state" : "1",
+      "title" : "Gut Shot",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=467&event=110",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "ZUN / Arranged by SANY-ON",
+      "comment" : "演出ソフランと小節線",
+      "level" : "0",
+      "md5" : "635360e6a557007c94876f3f7ae6977a",
+      "name_diff" : "ctc",
+      "state" : "1",
+      "title" : "TIME LIMIT (bms edit) [7key LN-Abusive]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=175&event=60",
+      "url_diff" : "http://ctconnected.blog.fc2.com/blog-entry-1.html",
+      "video1" : "",
+      "video2" : "kkPDDeEt1D0"
+   },
+   {
       "artist" : "東京スKanata.Sオーケストラ",
       "comment" : "トリルに即死地雷を挟むな",
       "level" : "0",
@@ -1415,6 +1623,19 @@
       "url_diff" : "",
       "video1" : "",
       "video2" : "yKd1hVIhqFU"
+   },
+   {
+      "artist" : "Yoshitoshi Abo",
+      "comment" : "小節線とワープ",
+      "level" : "1",
+      "md5" : "642e8446ea6bb88d3667d9e87c1f1353",
+      "name_diff" : "同梱",
+      "state" : "1",
+      "title" : "Keiren [7keys]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=106&event=115",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : "O5mLxTMaDC0"
    },
    {
       "artist" : "Shaman Cure-All",
@@ -1444,7 +1665,7 @@
    },
    {
       "artist" : "8 to 7",
-      "comment" : "地雷",
+      "comment" : "地雷 <b>5keys</b>",
       "level" : "1",
       "md5" : "66c989bb8fc4be90240272f102aef2c1",
       "name_diff" : "同梱(wosderge)",
@@ -1526,7 +1747,7 @@
       "level" : "L",
       "md5" : "6ca565baecfc417b04b5a97547036574",
       "name_diff" : "1/8",
-      "state" : "1",
+      "state" : "",
       "title" : "Al-raune [Toxic-Pollen]",
       "url" : "https://sites.google.com/view/yuruyurubms/phase-1?authuser=0",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04181",
@@ -1625,6 +1846,19 @@
       "video2" : "NccwuH5g4dc"
    },
    {
+      "artist" : "BTB",
+      "comment" : "演出ソフランとコマ送り",
+      "level" : "2",
+      "md5" : "6f595419b6a47b49196bc24f259f8a2e",
+      "name_diff" : "NASA",
+      "state" : "1",
+      "title" : "ChocoMintLover [MintParfait]",
+      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=35&order=reg&odtype=a",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04084",
+      "video1" : "",
+      "video2" : "nvT6HSHpTnE"
+   },
+   {
       "artist" : "Est",
       "comment" : "地雷入門",
       "level" : "0",
@@ -1638,12 +1872,25 @@
       "video2" : "9uZkRt7_1KY"
    },
    {
+      "artist" : "うまるつふり",
+      "comment" : "初見殺しソフラン",
+      "level" : "0",
+      "md5" : "72a18e7791179a870b0e73d259da299b",
+      "name_diff" : "同梱",
+      "state" : "1",
+      "title" : "静雀 -ざわ...-",
+      "url" : "https://wumalutsufuri.wixsite.com/wumalutsufuri/bms",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : "s-5UPQLhovA"
+   },
+   {
       "artist" : "削除",
       "comment" : "ﾃﾛﾘｰﾝSTOPがランダム分岐",
       "level" : "0",
       "md5" : "72f120200fde9fc056bc65599a7a4906",
       "name_diff" : "同梱",
-      "state" : "1",
+      "state" : "",
       "title" : "became happy",
       "url" : "http://uploader.bms.ms/data/became_happy_ogg.zip",
       "url_diff" : "",
@@ -1695,7 +1942,7 @@
       "level" : "X",
       "md5" : "75cde6cceabe2b0bb5f4b1731b97dd08",
       "name_diff" : "同梱",
-      "state" : "1",
+      "state" : "",
       "title" : "Grape.exe?",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=128",
       "url_diff" : "",
@@ -1708,7 +1955,7 @@
       "level" : "1",
       "md5" : "77e3c9a12c3f439d8a688cd7104c6945",
       "name_diff" : "KEH",
-      "state" : "1",
+      "state" : "",
       "title" : "VALLISTA [DEATH LABEL]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=301&event=74",
       "url_diff" : "https://www.dropbox.com/s/1250n8ft1u6aplo/vallista_k7.zip?dl=1",
@@ -1753,6 +2000,19 @@
       "url_diff" : "https://nekokan.dyndns.info/~otlovers/bin/pforum/file/14947-1.zip",
       "video1" : "",
       "video2" : "tGrh1PVcOEA"
+   },
+   {
+      "artist" : "削除 feat. Nikki Simmons",
+      "comment" : "ビームにかかるビームとBPM表記",
+      "level" : "0",
+      "md5" : "7a780449282194d9d390fc9305dfc5c5",
+      "name_diff" : "同梱",
+      "state" : "1",
+      "title" : "Destr0yer [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=123",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : "CLBoQ2RUsvc"
    },
    {
       "artist" : "Crimsona",
@@ -1851,7 +2111,7 @@
       "level" : "X",
       "md5" : "80c30fd234cefa21fd37528b1f28fcca",
       "name_diff" : "同梱",
-      "state" : "1",
+      "state" : "",
       "title" : "反響定位シミュレータ",
       "url" : "https://sites.google.com/view/yuruyurubms/phase-3?authuser=0",
       "url_diff" : "",
@@ -1994,7 +2254,7 @@
       "level" : "0",
       "md5" : "8808f736cb16968a5e0647a80e6aee47",
       "name_diff" : "同梱",
-      "state" : "1",
+      "state" : "",
       "title" : "Reason of being [genesis]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=107",
       "url_diff" : "",
@@ -2007,12 +2267,25 @@
       "level" : "L",
       "md5" : "883bf84c4fa37b5413301b5248a6d3b0",
       "name_diff" : "同梱",
-      "state" : "1",
+      "state" : "",
       "title" : "池の雨 FOR はじめてのFOONBMS",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=128",
       "url_diff" : "",
       "video1" : "",
       "video2" : ""
+   },
+   {
+      "artist" : "rat Remixed by uet",
+      "comment" : "地雷具現化と演出ソフラン",
+      "level" : "2",
+      "md5" : "89979bb137ae4f908c35b7385a6a9803",
+      "name_diff" : "同梱(rat)",
+      "state" : "1",
+      "title" : "Betrayer (uet Remix) [rather]",
+      "url" : "https://pupuly.nekokan.dyndns.info/bms/v/152",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : "VtLHrM3J-ak"
    },
    {
       "artist" : "LeaF",
@@ -2026,6 +2299,19 @@
       "url_diff" : "",
       "video1" : "",
       "video2" : "IU5K5Ckj668"
+   },
+   {
+      "artist" : "阿吽a.k.a水無月☆★",
+      "comment" : "「Down」という度に減速するソフラン",
+      "level" : "0",
+      "md5" : "8c1d61915a41b426719d7824d1c91596",
+      "name_diff" : "rat",
+      "state" : "1",
+      "title" : "Back Back Down [rather]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=80&event=123",
+      "url_diff" : "http://rattoto10.web.fc2.com/bms/rat_backbackdown.zip",
+      "video1" : "",
+      "video2" : "1rsu2r_7qZA"
    },
    {
       "artist" : "NASA",
@@ -2052,6 +2338,19 @@
       "url_diff" : "http://dl.dropboxusercontent.com/s/ogx3ti6aye7o8l1/CB%5BCHAOS_DE%5D.zip",
       "video1" : "27619617",
       "video2" : ""
+   },
+   {
+      "artist" : "DJ TAKUAN",
+      "comment" : "滑らかソフランとワープ",
+      "level" : "2",
+      "md5" : "8fd621f40dee88ac00d659c3185637d6",
+      "name_diff" : "MINI* vs MEATω",
+      "state" : "1",
+      "title" : "Which do you like MINIMAL or TECHNO? -MM Sequence Unlimited-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=31&event=120",
+      "url_diff" : "https://www.dropbox.com/s/cpyijhn5e0jbv4k/which-7MMsu.bme?dl=1",
+      "video1" : "",
+      "video2" : "WigW8u0i3LY"
    },
    {
       "artist" : "MM Sequence",
@@ -2085,7 +2384,7 @@
       "level" : "X",
       "md5" : "9207526277f1bc81817769eff74dc6b9",
       "name_diff" : "同梱",
-      "state" : "1",
+      "state" : "",
       "title" : "Sofa $15 -> $2014",
       "url" : "http://www1.axfc.net/u/3271188",
       "url_diff" : "",
@@ -2104,6 +2403,19 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03147",
       "video1" : "",
       "video2" : "0TwanYULcmA"
+   },
+   {
+      "artist" : "brz1128",
+      "comment" : "イタズラソフランと甘くない記憶",
+      "level" : "2",
+      "md5" : "948f11fa12f4ec69c271666406eeeb0d",
+      "name_diff" : "1/8",
+      "state" : "1",
+      "title" : "Howlin' Pumplin [Trick or Treat]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=140&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02628",
+      "video1" : "",
+      "video2" : ""
    },
    {
       "artist" : "NASA",
@@ -2184,19 +2496,6 @@
       "video2" : ""
    },
    {
-      "artist" : "cybermiso",
-      "comment" : "演出ソフラン",
-      "level" : "0",
-      "md5" : "9858ed636a94617df957d29816e10166",
-      "name_diff" : "18",
-      "state" : "",
-      "title" : "eccentric ghost channel as Poltergeist [Extra]",
-      "url" : "https://dropbox.bms.ms/u/45360077/watasino_h0-mupe-ji.html",
-      "url_diff" : "http://absolute.pv.land.to/uploader/src/up1073.zip",
-      "video1" : "",
-      "video2" : "YWcwJsywxXY"
-   },
-   {
       "artist" : "Widowmaker",
       "comment" : "地雷アニメと小節線",
       "level" : "3",
@@ -2208,6 +2507,19 @@
       "url_diff" : "",
       "video1" : "",
       "video2" : "_jV1FbrTAlc"
+   },
+   {
+      "artist" : "ZUN remixed by LeaF",
+      "comment" : "演出ソフランとワープ",
+      "level" : "1",
+      "md5" : "99e5b9b370478b65c44ce18dadcbc281",
+      "name_diff" : "akusil",
+      "state" : "1",
+      "title" : "Calamity Fortune -storm causer-",
+      "url" : "http://leafbms.web.fc2.com/song.html",
+      "url_diff" : "http://flowermaster.web.fc2.com/kikaku/kikaku7.zip",
+      "video1" : "",
+      "video2" : "tuXV3P6ZXbM"
    },
    {
       "artist" : "Ino",
@@ -2244,6 +2556,32 @@
       "state" : "",
       "title" : "ecstatic ghost party as Nightmare",
       "url" : "https://dropbox.bms.ms/u/45360077/watasino_h0-mupe-ji.html",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "cybermiso",
+      "comment" : "cybermiso式ソフラン",
+      "level" : "0",
+      "md5" : "9b80d25b5b98636695f0e903932c9bd0",
+      "name_diff" : "同梱",
+      "state" : "1",
+      "title" : "ecstatic ghost party as Nightmare",
+      "url" : "https://dropbox.bms.ms/u/45360077/watasino_h0-mupe-ji.html",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : "1iTk0LehRmc"
+   },
+   {
+      "artist" : "John \"De Bello\" Cage",
+      "comment" : "RANDOM分岐のベンチマーク　<b><font color=\"#FF0000\">オ</font><font color=\"#FF4F02\">ー</font><font color=\"#FFFF00\">ト</font><font color=\"#00FF00\">メ</font><font color=\"#00ECFF\">ー</font><font color=\"#005FFF\">シ</font><font color=\"#0000FF\">ョ</font><font color=\"#8B008B\">ン</font><font color=\"#FF00FF\">工</font><font color=\"#FF0461\">場</font></b>",
+      "level" : "X",
+      "md5" : "9cbea4427d7e8caff0d28f9d7600cdec",
+      "name_diff" : "同梱",
+      "state" : "1",
+      "title" : "風雲！寝る",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=45",
       "url_diff" : "",
       "video1" : "",
       "video2" : ""
@@ -2314,6 +2652,19 @@
       "video2" : ""
    },
    {
+      "artist" : "bms:Yosk!",
+      "comment" : "驚きのBGM集",
+      "level" : "X",
+      "md5" : "9e4546091b7bf30d44473ada7a17634b",
+      "name_diff" : "同梱",
+      "state" : "1",
+      "title" : "ポケモンラジオ（金銀編）",
+      "url" : "https://pupuly.nekokan.dyndns.info/bms/v/179",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : "uzIv9Io-DS8"
+   },
+   {
       "artist" : "Hammer Switch",
       "comment" : "演出ソフラン",
       "level" : "1",
@@ -2367,7 +2718,7 @@
    },
    {
       "artist" : "Hammer Switch",
-      "comment" : "演出ソフラン",
+      "comment" : "Sho Fish式ソフラン",
       "level" : "1",
       "md5" : "a2952c930468f3434e196ea0c91d31e3",
       "name_diff" : "同梱",
@@ -2462,7 +2813,7 @@
       "level" : "3",
       "md5" : "a7593a68c1497e58edd957b818cd0380",
       "name_diff" : "sera",
-      "state" : "1",
+      "state" : "",
       "title" : "New period <G>",
       "url" : "https://dropbox.bms.ms/u/34120259/BOFU2016/maru-NewPeriod.zip",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04175",
@@ -2507,6 +2858,19 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04068",
       "video1" : "",
       "video2" : "o5WcoAckg7U"
+   },
+   {
+      "artist" : "Hawk",
+      "comment" : "DDR+冥ソフラン",
+      "level" : "1",
+      "md5" : "a9b7ce57c4d2a5923d78091a4b8aed98",
+      "name_diff" : "同梱",
+      "state" : "1",
+      "title" : "CRYPTIC",
+      "url" : "https://www.dropbox.com/s/etuuk19nd24a5gp/CRYPTIC.ZIP?dl=1",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
    },
    {
       "artist" : "ikaruga_nex",
@@ -2600,6 +2964,19 @@
       "video2" : "ggbWDg-WUwM"
    },
    {
+      "artist" : "witch's slave",
+      "comment" : "地雷具現化と光譜面ソフラン",
+      "level" : "2",
+      "md5" : "b0093e091faf118587f85638b8cdeb84",
+      "name_diff" : "paraph",
+      "state" : "1",
+      "title" : "furioso melodia [PRIME2]",
+      "url" : "https://web.archive.org/web/20120201085807/http://gmtn.sub.jp/_carage_furioso_melodia_ogg.zip",
+      "url_diff" : "https://paraphrohn.hateblo.jp/entry/2018/05/29/215801",
+      "video1" : "",
+      "video2" : "bhiN5pbWjqY"
+   },
+   {
       "artist" : "小宮真央 with Na+",
       "comment" : "瞳を閉じて　心を開いて",
       "level" : "2",
@@ -2624,6 +3001,32 @@
       "url_diff" : "",
       "video1" : "",
       "video2" : "pZWindKPdXw"
+   },
+   {
+      "artist" : "sta feat.DJ MRYM",
+      "comment" : "丸山　ランダム分岐",
+      "level" : "X",
+      "md5" : "b4530667334ccdec608611afa283d263",
+      "name_diff" : "同梱",
+      "state" : "1",
+      "title" : "Sofa $15 -> $1",
+      "url" : "https://web.archive.org/web/20060622071019/http://soflan.hp.infoseek.co.jp/mrym.zip",
+      "url_diff" : "",
+      "video1" : "4809390",
+      "video2" : ""
+   },
+   {
+      "artist" : "北条加蓮、千川ちひろ、プロデューサー",
+      "comment" : "展開合わせソフランと小節線",
+      "level" : "1",
+      "md5" : "b5819dcb12b14d232ad3db3d6683e666",
+      "name_diff" : "同梱",
+      "state" : "1",
+      "title" : "加蓮の純情な愛情 ～または私はいかにしてその夢から目覚めたか～",
+      "url" : "http://nekokan.dyndns.info/~anonymous/bms/triad-prims/_triad_prims-junjo-karen.zip",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : "BNhKcER7Vdw"
    },
    {
       "artist" : "raii",
@@ -2665,6 +3068,19 @@
       "video2" : ""
    },
    {
+      "artist" : "BACO vs G.S. Patch crew",
+      "comment" : "DJバトル歌詞合わせ演出",
+      "level" : "0",
+      "md5" : "b7ad781d539c39fa85e4d2be9eae3ca5",
+      "name_diff" : "同梱",
+      "state" : "1",
+      "title" : "BATTLE against 4 MICROPHONEs [7KEYS for DJ]",
+      "url" : "https://dropbox.bms.ms/u/32124994/gs_mc_battle.rar",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "Dr. Mortimer, Agent Barrett, Agent Preis(BACO)",
       "comment" : "ｼﾞｼﾞｯソフランと小節線",
       "level" : "1",
@@ -2683,7 +3099,7 @@
       "level" : "2",
       "md5" : "b9d068b8a986331f8e96de60b4ee3760",
       "name_diff" : "sera",
-      "state" : "1",
+      "state" : "",
       "title" : "groundbreaker (Zzz)",
       "url" : "http://web.archive.org/web/20060621033636/http://www.commonsense.nu:80/songs/groundbreaker.zip",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04190",
@@ -2748,7 +3164,7 @@
       "level" : "X",
       "md5" : "bb2f66a96ba27a11ff8bd9f32412226d",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "ヱピロギ",
       "url" : "https://venue.bmssearch.net/vfpq02/4",
       "url_diff" : "",
@@ -2761,7 +3177,7 @@
       "level" : "O",
       "md5" : "bb71ab72d9008b92825b043932927990",
       "name_diff" : "同梱",
-      "state" : "1",
+      "state" : "",
       "title" : "SMBプロトコルを用いたオンデマンドリソース配信型BMSの作成と運用 -The BMS as a Service-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=128",
       "url_diff" : "",
@@ -2834,6 +3250,19 @@
       "video2" : ""
    },
    {
+      "artist" : "cybermiso",
+      "comment" : "ワープと演出ソフラン",
+      "level" : "0",
+      "md5" : "bdde6208f2562db84d7b171755ec4d9a",
+      "name_diff" : "いい靴",
+      "state" : "1",
+      "title" : "ecstatic ghost party as Nightmare [Eb]",
+      "url" : "https://dropbox.bms.ms/u/45360077/watasino_h0-mupe-ji.html",
+      "url_diff" : "http://eboots.ashigaru.jp/",
+      "video1" : "29700401",
+      "video2" : ""
+   },
+   {
       "artist" : "ILusMin",
       "comment" : "演出ソフラン",
       "level" : "0",
@@ -2852,7 +3281,7 @@
       "level" : "X",
       "md5" : "be4a9651fc5992be75c593a50f17e4fa",
       "name_diff" : "同梱",
-      "state" : "1",
+      "state" : "",
       "title" : "miss",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=79&event=128",
       "url_diff" : "",
@@ -2899,19 +3328,6 @@
       "video2" : "qKYcwkYiH50"
    },
    {
-      "artist" : "nekomimi_STRaw & kju8 remixed by Nakaiankow",
-      "comment" : "飛ぶ譜面",
-      "level" : "2",
-      "md5" : "c2f3ec24002cf65ba7685731198c563c",
-      "name_diff" : "同梱",
-      "state" : "",
-      "title" : "Agree to disagree (Reverse Bass Mix)",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=289&event=127",
-      "url_diff" : "",
-      "video1" : "",
-      "video2" : ""
-   },
-   {
       "artist" : "455",
       "comment" : "地雷予告",
       "level" : "0",
@@ -2923,6 +3339,19 @@
       "url_diff" : "http://infinity.s60.xrea.com/bms/",
       "video1" : "",
       "video2" : "nGY_Dx8ytkk"
+   },
+   {
+      "artist" : "モリモリあつし",
+      "comment" : "ワープとSTOP低速",
+      "level" : "0",
+      "md5" : "c412dc04fabbae024bfa891562932751",
+      "name_diff" : "同梱",
+      "state" : "1",
+      "title" : "MilK",
+      "url" : "https://dropbox.bms.ms/u/37251493/MilK.zip",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
    },
    {
       "artist" : "litmus*",
@@ -2975,6 +3404,19 @@
       "url_diff" : "",
       "video1" : "",
       "video2" : "XbviJwP8un4"
+   },
+   {
+      "artist" : "MONOLITH feat.FG75 +kju8",
+      "comment" : "演出ソフランと小節線",
+      "level" : "0",
+      "md5" : "c6cbeac8ce776c3a823a3f48964eadcf",
+      "name_diff" : "同梱",
+      "state" : "1",
+      "title" : "宮子 (SUBCULTURE MIX)",
+      "url" : "https://web.archive.org/web/20140224181206/http://plugout4.com/bof2012/%5BULTIMATE-lopears%5D-miyako.zip",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : "L-ZmlQPi6GQ"
    },
    {
       "artist" : "Festa",
@@ -3094,6 +3536,19 @@
       "video2" : "_ge5WI3f3x8"
    },
    {
+      "artist" : "suna",
+      "comment" : "ワープと演出ソフラン",
+      "level" : "0",
+      "md5" : "cb6976bf44559c2baeaebe878d59eed1",
+      "name_diff" : "同梱",
+      "state" : "1",
+      "title" : "Feces of religion [ANOTHER]",
+      "url" : "https://mega.nz/#F!IP4iTAyI!jkwvNbkccH-EUATbGI4SWg!8WhDEQyD",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : "_ge5WI3f3x8"
+   },
+   {
       "artist" : "Freezer feat. 妃苺",
       "comment" : "吹っ飛ぶノーツ",
       "level" : "2",
@@ -3164,7 +3619,7 @@
       "level" : "X",
       "md5" : "d227f25d2fec870921f490264cf10d4d",
       "name_diff" : "同梱",
-      "state" : "1",
+      "state" : "",
       "title" : "けーねのおとげーきょうしつ",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=53&event=129",
       "url_diff" : "",
@@ -3222,6 +3677,19 @@
       "url_diff" : "http://beatkim.web.fc2.com/insane.html",
       "video1" : "",
       "video2" : "6TLdxsm7twM"
+   },
+   {
+      "artist" : "nekomimi_STRaw & kju8 remixed by Nakaiankow",
+      "comment" : "飛ぶ譜面",
+      "level" : "2",
+      "md5" : "d50b608a1e4898b6528aa7172069b166",
+      "name_diff" : "同梱",
+      "state" : "",
+      "title" : "Agree to disagree (Reverse Bass Mix)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=289&event=127",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
    },
    {
       "artist" : "eye burn",
@@ -3294,7 +3762,7 @@
       "level" : "0",
       "md5" : "d9d7f3111a82dcb3ab638ca974aaeb7d",
       "name_diff" : "C4",
-      "state" : "1",
+      "state" : "",
       "title" : "T.G.T.G.L. [fell in love]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=129",
       "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/",
@@ -3398,7 +3866,7 @@
       "level" : "0",
       "md5" : "e03cf174706f7b547e07ad2d20337a06",
       "name_diff" : "同梱",
-      "state" : "1",
+      "state" : "",
       "title" : "&#x2B;n",
       "url" : "http://uploader.bms.ms/data/130/130bms_no17.zip",
       "url_diff" : "",
@@ -3437,7 +3905,7 @@
       "level" : "0",
       "md5" : "e3d4e27322b63ea5e8d18eb55cc572ae",
       "name_diff" : "同梱(rat)",
-      "state" : "1",
+      "state" : "",
       "title" : "Sectionβ [HYPER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=195&event=127",
       "url_diff" : "",
@@ -3472,7 +3940,7 @@
    },
    {
       "artist" : "Sound piercer & Puru feat.Emma J.",
-      "comment" : "ワープと小節線",
+      "comment" : "ワープと小節線 <b>5keys</b>",
       "level" : "2",
       "md5" : "e7c0c9038869a1ef82a5679cc1d0bbf2",
       "name_diff" : "NASA",
@@ -3482,6 +3950,32 @@
       "url_diff" : "http://rattoto10.blog.fc2.com/blog-entry-3.html",
       "video1" : "",
       "video2" : "ZHngIOaIe6E"
+   },
+   {
+      "artist" : "☆よっつ～☆",
+      "comment" : "丸山リスペクト　ランダム分岐",
+      "level" : "X",
+      "md5" : "e81ac8710f19eef8ee3f055427987e5a",
+      "name_diff" : "同梱",
+      "state" : "1",
+      "title" : "64分の1ってどのくらい？",
+      "url" : "http://www.mediafire.com/file/oizyeda83di8y91/64bunno1.zip/file",
+      "url_diff" : "",
+      "video1" : "15553834",
+      "video2" : ""
+   },
+   {
+      "artist" : "Sho Fish",
+      "comment" : "Sho Fish式ソフラン",
+      "level" : "0",
+      "md5" : "e832cd335550a342852fb23a99ac414a",
+      "name_diff" : "同梱",
+      "state" : "1",
+      "title" : "Excited State [HYPER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=18&event=95",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : "qz9l-N9lMFc"
    },
    {
       "artist" : "Two-seam",
@@ -3534,6 +4028,19 @@
       "url_diff" : "https://paraphrohn.hateblo.jp/",
       "video1" : "",
       "video2" : "ad0pW9v-yS0"
+   },
+   {
+      "artist" : "Lunatic Sounds",
+      "comment" : "演出ソフラン",
+      "level" : "0",
+      "md5" : "ea87d051e4d9a62c74051f9f1f773679",
+      "name_diff" : "rat",
+      "state" : "1",
+      "title" : "DataErr0r [rather]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=104",
+      "url_diff" : "http://rattoto10.web.fc2.com/bms/rat_dataerr0r.zip",
+      "video1" : "",
+      "video2" : ""
    },
    {
       "artist" : "daph",
@@ -3840,7 +4347,7 @@
       "level" : "X",
       "md5" : "fae4e84f14c254da4efffad34ef10b5c",
       "name_diff" : "LuvTek",
-      "state" : "1",
+      "state" : "",
       "title" : "The Clock Song [Clockwise]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=246&event=127",
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",

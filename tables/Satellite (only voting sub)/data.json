@@ -282,6 +282,22 @@
       "url_diff" : "https://www.dropbox.com/s/85xffo5sp1zp8if/loshaxi_nanami.zip?dl=1"
    },
    {
+      "artist" : "kanone feat. かぼちゃ obj:kaguya",
+      "level" : "1",
+      "md5" : "759408e8a0549292963b2948f67111f3",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "2a74d09aff3381c6270b7063c35eeed82af77c2d0bde4777555aeee9c1a9d8ac",
+      "submission" : 928,
+      "title" : "Burning Beat [B-Fight]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=359&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02962",
+      "voteNeutral" : 1,
+      "voteNo" : 0,
+      "votePercent" : 95.4545454545455,
+      "voteYes" : 10
+   },
+   {
       "artist" : "Sigma X3 / yusi obj. DK",
       "comment" : "LN、皿",
       "level" : "0",
@@ -320,6 +336,22 @@
       "title" : "locked girl@Scarlet-Devils Palace [D-HYPER]",
       "url" : "http://wayback.archive.org/web/20150723062313/http://page.freett.com/ykyk00/",
       "url_diff" : "http://www.dropbox.com/s/0fuhg1ib8qfrawq/_D_H.bms"
+   },
+   {
+      "artist" : "ルゼ obj. AYhaz",
+      "level" : "2",
+      "md5" : "869cc79745fd54db3aa1824c2cc1ce5d",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "f7f2b1eb59ef673dcd17ff8b24ca68befa8e8be900fd2277337358ca2f27d4ca",
+      "submission" : 1293,
+      "title" : "on impetus -for noobetus-",
+      "url" : "https://event.yaruki0.net/VSevent/impression/32",
+      "url_diff" : "https://www.dropbox.com/s/5ze257zgjps140h/04_on_impetus_noobetus.bms?dl=0",
+      "voteNeutral" : 1,
+      "voteNo" : 2,
+      "votePercent" : 83.3333333333333,
+      "voteYes" : 12
    },
    {
       "artist" : "Sakamiya feat.前野 img:きの Lyrics:girlsaid",
@@ -417,6 +449,20 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html"
    },
    {
+      "artist" : "Music:庭師/BGA:SELDO/OBJ.sitoras",
+      "comment" : "二重階段、皿複合、LN",
+      "level" : "3",
+      "md5" : "c88e57f308cba2574e37e6ee0440f0e7",
+      "proposer" : "STANK!",
+      "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
+      "sha256" : "1e5e3e17de67a86625cfe80283ab58c6d888693e072b60b3e2504930776e8470",
+      "submission" : 1424,
+      "title" : "Cyclone-Joker 【M4X1MUM-DЯ1V3】",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=357&event=127",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04305",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Yonder Voice / obj.かに",
       "comment" : "11~12? ラスト回復",
       "level" : "12",
@@ -429,6 +475,22 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=129",
       "url_diff" : "http://kanisabun.gozaru.jp/index.html",
       "zureCount" : 0
+   },
+   {
+      "artist" : "Frums Obj.Triforce",
+      "level" : "8",
+      "md5" : "cdab52f88644b32917e7292d4a190cbf",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "6814a91933020eed2d1b571916fe8058828f2ea531126994531eaefbf2256868",
+      "submission" : 1290,
+      "title" : "Credits [Corporation]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=113&event=104",
+      "url_diff" : "http://www.dropbox.com/s/bf2v6jnpit6jju6/_credits-triforce.bme?dl=0",
+      "voteNeutral" : 4,
+      "voteNo" : 1,
+      "votePercent" : 76.9230769230769,
+      "voteYes" : 8
    },
    {
       "artist" : "mommy obj:monaka",
