@@ -243,6 +243,22 @@
       "voteYes" : 10
    },
    {
+      "artist" : "LeaF Movie:Optie / obj:LTFE♪",
+      "level" : "7",
+      "md5" : "465d418e371077e71c08ebcfc1200e1d",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "5f251ed64368f08d5be12e74ec761a638318e9112f3788fcbc7ea75ce768be93",
+      "submission" : 873,
+      "title" : "Evanescent [Realitat]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=96&event=93",
+      "url_diff" : "http://1drv.ms/1kE1jlU",
+      "voteNeutral" : 10,
+      "voteNo" : 1,
+      "votePercent" : 62.5,
+      "voteYes" : 5
+   },
+   {
       "artist" : "tdef / ZUN / obj. 子",
       "comment" : "BPM180 多要素",
       "level" : "12",
