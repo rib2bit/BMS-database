@@ -2101,6 +2101,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "wigen",
+      "comment" : "乱打、加速ギミックあり(LNであれば影響なし)",
+      "level" : "5",
+      "md5" : "19f67cefa09051fb3371bfd918b259bf",
+      "proposer" : "QoL",
+      "proposerMinirid" : "20d7e5bb-38ae-4722-bd0e-da0b07cc57cf",
+      "sha256" : "215a678d1952880bcf649afca109e3edb7a386b4900763c185204e937510ab5b",
+      "submission" : 1425,
+      "title" : "Stellaria media",
+      "url" : "http://web.archive.org/web/20160401202909/http://musicgamelab.dnip.net:88/KBSP2009.exe",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00498",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Ym1024 feat. lamie* / obj:BAECON",
       "comment" : "神曲",
       "level" : "2",
