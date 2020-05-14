@@ -5201,6 +5201,18 @@
       "url_diff" : "https://bmscharteditorsgroup.wixsite.com/punaipunaisensou"
    },
    {
+      "artist" : "TEKINA",
+      "level" : "6",
+      "md5" : "40f8ac8bff465dcbf5829480fdc438e1",
+      "proposer" : "re零",
+      "proposerLr2id" : 78570,
+      "sha256" : "9df23ab4e9d64ca785ff325f8272b0538088e4fed1c4e11dffe73fad99f242c5",
+      "submission" : 1428,
+      "title" : "地下街 [Hogther]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=26&event=89",
+      "url_diff" : "http://hg2.ifdef.jp/bms/"
+   },
+   {
       "artist" : "EBIMAYO / obj.7zs",
       "comment" : "高速",
       "level" : "11",
@@ -10536,6 +10548,19 @@
       "submission" : 921,
       "title" : "ANOZER [ANOTHER]",
       "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/24/",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "mommy",
+      "comment" : "同梱、sl0入門",
+      "level" : "0",
+      "md5" : "840fe75145697a672e93c3cc1d6237a7",
+      "proposer" : "|/|",
+      "proposerLr2id" : 147895,
+      "sha256" : "7d37e448362d60467f3919554c9b95e28e09a786c45c74f329473860faa84cb8",
+      "submission" : 1427,
+      "title" : "Funny Funky Freaky [7key,Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=225&event=96",
       "url_diff" : ""
    },
    {
