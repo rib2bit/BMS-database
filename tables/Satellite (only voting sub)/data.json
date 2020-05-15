@@ -285,6 +285,20 @@
       "voteYes" : 5
    },
    {
+      "artist" : "69 de 74 BGA:иоио",
+      "comment" : "G2R2018, 2018Notes,  乱打",
+      "level" : "3",
+      "md5" : "5d5e7c9bda03f1975dbb9a67e5328c74",
+      "proposer" : "dstorv",
+      "proposerLr2id" : 145158,
+      "sha256" : "1c249eb71c570f14ff5c6f9450a974b155bfd96dcd03dc573d5a22fb43cb8d8c",
+      "submission" : 1429,
+      "title" : "Grievous Fate [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=123",
+      "url_diff" : "",
+      "zureCount" : 0
+   },
+   {
       "artist" : "tdef / ZUN / obj. 子",
       "comment" : "BPM180 多要素",
       "level" : "12",
