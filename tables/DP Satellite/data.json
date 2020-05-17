@@ -757,6 +757,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "m108 / obj:段位認定スレの17 BGA : 砂糖天麩羅 / シキイチル",
+      "comment" : "(音抜け修正,差分作者名追記) 高速階段",
+      "level" : "11",
+      "md5" : "51fe7ee56efa0c29890749f058679669",
+      "proposer" : "にゃむ",
+      "sha256" : "eb583606e4df53c7d5e113f6fb8d672901859947761972fbc110bc36ec9454ad",
+      "submission" : 313,
+      "title" : "* Crow Solace * [DPA]",
+      "url" : "https://dropbox.bms.ms/u/1235551/bms/crow_solace.zip",
+      "url_diff" : "https://www.dropbox.com/s/quli82l697jr4sp/_crow_DPA_f.zip?dl=1"
+   },
+   {
       "artist" : "DJ MEGA ROSERADE",
       "comment" : "9~10?",
       "level" : "10",
@@ -900,7 +912,7 @@
    {
       "artist" : "ETIA. feat. Jenga obj:けろりん Movie: HDLV",
       "comment" : "9~10?",
-      "level" : "9",
+      "level" : "10",
       "md5" : "61296a55d89ae86f957873df1cd011f1",
       "proposer" : "coco",
       "sha256" : "af7029a6352e4b3edd0a632a8ff50c18ba8ed2d5d53ec4d0168f6eb64c52c373",
@@ -1135,6 +1147,18 @@
       "url_diff" : "http://ux.getuploader.com/dpbms/download/103/MANHATTAN%5BStarlight%5D.zip"
    },
    {
+      "artist" : "櫟井唯 / 岡野佳 / Limite from.制限",
+      "comment" : "2~3?",
+      "level" : "3",
+      "md5" : "7870ad2dee9a20f592192c08e815efbf",
+      "proposer" : "KENIN*",
+      "sha256" : "8d86098d9d6bc71691acedf371ab1a54136ce39c688e4673dcf1333258076f44",
+      "submission" : 310,
+      "title" : "Smiling",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=441&event=104",
+      "url_diff" : "https://1drv.ms/x/s!Aoi5esJwIYCChk0BTx_U1KkswzSf"
+   },
+   {
       "artist" : "Lime / LetsOTL + Limite",
       "comment" : "物量",
       "level" : "6",
@@ -1303,7 +1327,7 @@
    {
       "artist" : "Est / obj:2y",
       "comment" : "8~9?、物量",
-      "level" : "8",
+      "level" : "9",
       "md5" : "81fb3b4f09be4959426ee5c2441a4184",
       "proposer" : "JHS",
       "sha256" : "1a59a74ea1afd72424652e4468a82ed251bc883f3b707381656353fd21f1f09c",
@@ -1512,18 +1536,6 @@
       "url_diff" : "https://ux.getuploader.com/dpbms/download/771"
    },
    {
-      "artist" : "Grand thaw/obj.novu",
-      "comment" : "４?、LN、階段、ソフラン",
-      "level" : "4",
-      "md5" : "957351da89e69f0214a7fab118183e52",
-      "proposer" : "JHS",
-      "sha256" : "7dbc4ad2c35c2f65c3a80995c0f5d40ee3bab36b48ca42e0aa62bdf7b3220d68",
-      "submission" : 151,
-      "title" : "AutumnBreeze (Another style)",
-      "url" : "http://sougr3428.web.fc2.com/",
-      "url_diff" : "https://drive.google.com/file/d/1onE9-xZJLZpapzw98DQX-8ZNNIusM9ny/view?usp=sharing"
-   },
-   {
       "artist" : "sak feat.みゅい obj:msl BGI:球根",
       "comment" : "2?",
       "level" : "2",
@@ -1667,7 +1679,7 @@
    {
       "artist" : "litmus* / movie : Kazari / obj : yphan",
       "comment" : "",
-      "level" : "2",
+      "level" : "3",
       "md5" : "a52cd28568ed5d56a571362f94a35007",
       "proposer" : "Tyro",
       "sha256" : "56296cd981b8509e49e069dc15e422554945a98d607d7ca58a555007f71c6e65",
@@ -1857,7 +1869,7 @@
    {
       "artist" : "Yosk!",
       "comment" : "9~10?、同時押し、4つ押し",
-      "level" : "10",
+      "level" : "11",
       "md5" : "afac99105d812beffa8de61b3f47ea51",
       "proposer" : "JHS",
       "sha256" : "364476b6ed32e559e1b923bfab191635ed439b168da13d3ea862d42d12ea06c0",
@@ -1904,7 +1916,7 @@
    {
       "artist" : "stereoberry / srof",
       "comment" : "同時押し、073小節にperc7.oggの音追加",
-      "level" : "4",
+      "level" : "5",
       "md5" : "b8a1552944a45a43e14125a85cb9803f",
       "proposer" : "にゃむ",
       "sha256" : "c35d93e8054fd9f4ca20264ac839896b1840f033c6085a70e3faeb53ea84938c",
@@ -2397,7 +2409,7 @@
    },
    {
       "artist" : "ETIA.",
-      "level" : "9",
+      "level" : "10",
       "md5" : "e2e430faf05b6a5d2b0ab301cb03657a",
       "proposer" : "coco",
       "sha256" : "c8b8dfdf85e86a4e477d5f4aa467afa377df141388710b386264011956063201",
@@ -2433,7 +2445,7 @@
    {
       "artist" : "U-hey　BGA:ユウノ obj:肴",
       "comment" : "3~4? 混フレ、同時押し",
-      "level" : "3",
+      "level" : "4",
       "md5" : "e80b8d644b47e94cda1c90ca27014a3b",
       "proposer" : "にゃむ",
       "sha256" : "a01f0729dcade004f1a94efd2b1841d1c78e711ddef15ff76228492276be15f7",

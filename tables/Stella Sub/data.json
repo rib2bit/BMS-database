@@ -437,6 +437,20 @@
       "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/"
    },
    {
+      "artist" : "HyuN obj:七海",
+      "comment" : "8分同時押しと16分物量",
+      "level" : "2",
+      "md5" : "087f77e584f4d0e3cca833e4a868ab19",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "78bb67cd838086cdf6ef71c219a45abcbd3f3b2c18f53908ee844a7067e12f11",
+      "submission" : 1147,
+      "title" : "Disorder -Despair-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=123",
+      "url_diff" : "https://www.dropbox.com/s/b6ewxj4za9ozruc/disorder.zip?dl=1",
+      "zureCount" : 0
+   },
+   {
       "artist" : "keyc / Ds",
       "comment" : "↓joy",
       "level" : "5",
@@ -876,7 +890,7 @@
    },
    {
       "artist" : "horoscope / selene.",
-      "level" : "4",
+      "level" : "3",
       "md5" : "0ec589043f9527e1290b8cdcce1d8d71",
       "proposer" : "파이어",
       "proposerLr2id" : 7290,
@@ -1058,6 +1072,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Arch movie:Roaring Flame obj:Guanacoite",
+      "comment" : "st3~4 (物量)",
+      "level" : "3",
+      "md5" : "1224830aeab9f9e0a8c967a19b04d4bb",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "507cf3182fe8c4ca844b5e725cb514829901d929c81fef7541d11b1dcd985a09",
+      "submission" : 1146,
+      "title" : "Evoltex [Eventual Epoch]",
+      "url" : "https://dropbox.bms.ms/u/59482273/arch_avoltex_ogg.zip",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04342",
+      "zureCount" : 0
    },
    {
       "artist" : "syatten obj : BAECON",
@@ -1863,7 +1891,7 @@
    {
       "artist" : "ねこみりん / obj:Pearl-C.",
       "comment" : "連打多めガチ押し",
-      "level" : "6",
+      "level" : "7",
       "md5" : "209c34ac793b048927dcea64b051aef2",
       "proposer" : "APRICOT",
       "sha256" : "5195710eda4d4ea7df9486f110b19c32dae0445a219171b5a4d8e0bfcf3ff4f0",
@@ -2301,21 +2329,6 @@
       "title" : "H.S : Hadron Strike [Monsther++]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=26&event=85",
       "url_diff" : "https://web.archive.org/web/20200306165639/http://3228monsta.web.fc2.com/"
-   },
-   {
-      "artist" : "Mystinia /差分　obj. Tristan97",
-      "comment" : "Please Enjoy!",
-      "level" : "3",
-      "md5" : "27532f261195cfa1cf8bee0d55f4dd44",
-      "proposer" : "Tristan97",
-      "sha256" : "3cd00ff6ba09e2e0606ce962dd4479f410cad65e7e7483127f212c209d370390",
-      "submission" : 223,
-      "title" : "She's An Esper -Esper Mode- [Terra]",
-      "url" : "https://onedrive.live.com/?cid=EC550A4504DCD741&id=EC550A4504DCD741%21244&parId=EC550A4504DCD741%21224&o=OneUp",
-      "url_diff" : "https://drive.google.com/open?id=1oo0wa4eMHBsQBv5cF2BEmiQ5e8vALxth",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
    },
    {
       "artist" : "うまるつふり",
@@ -3398,6 +3411,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "SHANG0 obj:zowni",
+      "comment" : "st0~1? ガチ押し",
+      "level" : "1",
+      "md5" : "38490fdc959ecfb13d943e1cc7cc7aaf",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "eb4a2f087c2942748e1a414de481a8feb8881401c4330bd821f08b98a0109924",
+      "submission" : 1149,
+      "title" : "Lovers, [Hoppers,]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=290&event=74",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04344",
+      "zureCount" : 0
    },
    {
       "artist" : "Caerula",
@@ -6483,19 +6510,6 @@
       "voteYes" : 0
    },
    {
-      "artist" : "Cres / obj:v",
-      "comment" : "Will I go to the heaven...?",
-      "level" : "7",
-      "md5" : "634cf05fd32e38a968b9aa08cce47a15",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "04f857d6c669bccbcf72343e1c30035fbc580e64e52882b7e06e5aebe3d6de67",
-      "submission" : 914,
-      "title" : "End Time -to the heaven-",
-      "url" : "https://mega.nz/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02842"
-   },
-   {
       "artist" : "plastic feat.呉舞かなと obj:七海千秋",
       "comment" : "Hopeless",
       "level" : "4",
@@ -7001,6 +7015,19 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03978"
    },
    {
+      "artist" : "SP-# obj:sak",
+      "comment" : "常人向け音頭",
+      "level" : "5",
+      "md5" : "6b6ad39ebec015a0113a7eb6a402a619",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "1fb4d0c6aaedfc4aa925797262107a76da3063713844c006a22da33699b682fd",
+      "submission" : 1148,
+      "title" : "tinnitus音頭 体験版",
+      "url" : "https://drive.google.com/drive/folders/1V11aBH7c6vZZ38XNFpefpHSw4EKYzF61",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01305"
+   },
+   {
       "artist" : "sun3 vs EXCALIpUR / BGA:Johnny obj.Infinite Melodia(OXYGEN)",
       "comment" : "皿複合多め",
       "level" : "1",
@@ -7392,7 +7419,7 @@
    {
       "artist" : "TAK / obj:Monsta",
       "comment" : "ディレイ",
-      "level" : "4",
+      "level" : "5",
       "md5" : "6f7115ca4ed5c2af57950ea47a713264",
       "proposer" : "氷城つるぎ",
       "proposerLr2id" : 151185,
@@ -7773,7 +7800,7 @@
    {
       "artist" : "ねこみりん / Apollo Sampling Machine feat.ilder×焔すばる / obj:秘密",
       "comment" : "★★2 強化版 st3~4くらい",
-      "level" : "5",
+      "level" : "6",
       "md5" : "7722f93ce5a0358e080a3e1d24308981",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -7804,7 +7831,7 @@
    {
       "artist" : "sun3/ds",
       "comment" : "LUXURY",
-      "level" : "1",
+      "level" : "2",
       "md5" : "78872e9e2bdf8216c4364900beb4d76f",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,
@@ -10116,6 +10143,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "KAH BGA:自動車 原付 illust:りゅうら obj:LuvTek",
+      "level" : "1",
+      "md5" : "9df6c993453aae1bc08b5272c15bf436",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "936ddc1ad51f092d6e41a943c8e6eb818cda0b80e9424488851b08ce18c02a98",
+      "submission" : 1145,
+      "title" : "boxiv! on! fight! [or! flight!]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=114&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "佐久丸(sak vs wumalutsufuri) obj:sak",
       "comment" : "st4の強化版",
       "level" : "8",
@@ -10546,7 +10586,7 @@
    {
       "artist" : "姉ヶ崎 寧々 BGA : photonskyto/obj:Monsta",
       "comment" : "up2763",
-      "level" : "3",
+      "level" : "4",
       "md5" : "a453ecdda9bf2161f38aa69dd5493ed9",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,
@@ -11049,6 +11089,19 @@
       "title" : "午後のこいしちゃん [EX]",
       "url" : "http://yaruki0.sakura.ne.jp/event/ondanyugi5/impression.cgi?no=5",
       "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/"
+   },
+   {
+      "artist" : "momo★yama　(BGA:アカツキユウ) obj. BK",
+      "comment" : "st0~1? delay. (maybe no misalignment)",
+      "level" : "1",
+      "md5" : "ad5917cc6e4c4c681cfc2e91620e3eb8",
+      "proposer" : "chouco",
+      "proposerLr2id" : 158333,
+      "sha256" : "4ce5369f25adba7ce8ff77a7fc935225532d377c0009ac4428b5243e1cdbe2b3",
+      "submission" : 1143,
+      "title" : "JUMMER -Delayed-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=103",
+      "url_diff" : "http://beatkim.web.fc2.com/insane.html"
    },
    {
       "artist" : "b-UMB /差分　赤い人",
@@ -11754,6 +11807,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "猫の人/obj.はしたかさん",
+      "comment" : "2?",
+      "level" : "2",
+      "md5" : "b7cf7363d6722d7c2a216a5aed650599",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "a44e41efef6d7a7c5751e5bc5a66fe57729347b852e22a203b374934fcde407c",
+      "submission" : 1150,
+      "title" : "空飛ぶニワトリ [Fried Chicken]",
+      "url" : "https://web.archive.org/web/20060222032645/http://page.freett.com/nekonohito/niwa2.htm",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04332",
+      "zureCount" : 0
    },
    {
       "artist" : "Alicia*  /差分 赤い人",
@@ -12713,21 +12780,6 @@
       "voteYes" : 0
    },
    {
-      "artist" : "DJ SUNECHAMA",
-      "comment" : "240 短い",
-      "level" : "9",
-      "md5" : "c688e75f05dd271fa15b7d6c9ac737af",
-      "proposer" : "onmaco",
-      "sha256" : "d5db75a4f617bde4177c3a376761cdcd7a6d239a0ac120c2b229601ae7dfd379",
-      "submission" : 362,
-      "title" : "スネ夫がFDFDをしてるときに流れてるガバ (ANOTHER)",
-      "url" : "http://uploader.bms.ms/data/suneo_ogg.zip",
-      "url_diff" : "http://onmacodayo.web.fc2.com/0117/suneo7fd.bms",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
       "artist" : "P4koo /差分　赤い人",
       "comment" : "tanosi",
       "level" : "0",
@@ -12746,7 +12798,7 @@
    {
       "artist" : "ねこみりん feat.小宮真央×みゆ×えみゅう。 Movie:kkkfff2 / Illust:永山ゆうのん obj.ブレイブマン",
       "comment" : "Full",
-      "level" : "7",
+      "level" : "6",
       "md5" : "c73c2066207c940da3a94e5f32419287",
       "proposer" : "MEES-♬",
       "proposerLr2id" : 39693,
@@ -14052,7 +14104,7 @@
    {
       "artist" : "wigen mov.Lepusnette / obj:Omino",
       "comment" : "ガチ押し",
-      "level" : "5",
+      "level" : "6",
       "md5" : "d97a2a85dca765f958ac7e90247e2985",
       "proposer" : "双六",
       "proposerLr2id" : 87756,
@@ -14441,6 +14493,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "LV.4 かに",
+      "comment" : "st1?",
+      "level" : "1",
+      "md5" : "dfa03b5772241cbec0945ebc7a41b964",
+      "proposer" : "chouco",
+      "proposerLr2id" : 158333,
+      "sha256" : "b2d8ec4508b424c7292d43929a221f2c6a3a0dad5dea68318bba6c70c971ca67",
+      "submission" : 1144,
+      "title" : "Angel dust -C17H25N-",
+      "url" : "https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
+      "url_diff" : "http://kanisabun.gozaru.jp/index.html",
+      "zureCount" : 0
    },
    {
       "artist" : "腋亦/さ",
@@ -15082,20 +15148,6 @@
       "title" : "Luna Express 2032 [Run off]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=116",
       "url_diff" : "https://www.dropbox.com/s/wf991z42uwazdq8/LunaExpress2032_sabun-ms.zip?dl=0",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
-      "artist" : "哀愁マニア",
-      "level" : "0",
-      "md5" : "eb2528879be2b76b68f0f3c1a658a0d9",
-      "proposer" : "KusoK",
-      "sha256" : "2daaee6943a823c92696055bc6ed879207639313f4b653a98fb0ed2079c9fdf1",
-      "submission" : 448,
-      "title" : "the lost dedicated [memory]",
-      "url" : "http://onedrive.live.com/?cid=EDC72D529484CBCB&id=EDC72D529484CBCB!212",
-      "url_diff" : "",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0

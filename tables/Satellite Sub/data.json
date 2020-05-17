@@ -1739,6 +1739,20 @@
       "url_diff" : ""
    },
    {
+      "artist" : "ノクティス・江口・チェラム obj.Mallow♪",
+      "comment" : "sl3~4?",
+      "level" : "4",
+      "md5" : "15ebd2f3aca1c35876c795c94c8d6302",
+      "proposer" : "chouco",
+      "proposerLr2id" : 158333,
+      "sha256" : "f6df4a8a00d1e458520f3f00f408bf79c53420de5e70a60e2b218ab63e3bba38",
+      "submission" : 1431,
+      "title" : "ヒメタイプ [エヒメ]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=96",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03579",
+      "zureCount" : 0
+   },
+   {
       "artist" : "ROKINA/obj:M BGA:アカツキユウ",
       "comment" : "G2R2018、高速階段",
       "level" : "3",
@@ -1863,6 +1877,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "しらいし",
+      "comment" : "乱打",
+      "level" : "1",
+      "md5" : "16b6a51ba878f60dd3a4eb8cdf4e179e",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "ce0a932d810714c96133a972794763391f76651fc5f45446519fea7bd0686d15",
+      "submission" : 1439,
+      "title" : "彼女なのか [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=118",
+      "url_diff" : ""
+   },
+   {
       "artist" : "ginkiha",
       "level" : "0",
       "md5" : "16fbc506283b3630d7c5289deef5a8ec",
@@ -1959,7 +1986,7 @@
    {
       "artist" : "sasakure.UK",
       "comment" : "アレンジ",
-      "level" : "12",
+      "level" : "11",
       "md5" : "1811a0d0f5d12b6a2c06f1bbd58232b9",
       "proposer" : "MarySue",
       "proposerLr2id" : 147889,
@@ -3821,6 +3848,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "奏 mov:いとう まさき",
+      "level" : "6",
+      "md5" : "2faa811e3ded6e3030e2b13772958dc9",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "e9d66ebc9a3cac81ef278ff607ce6f96485a347e094febb05207f4ad3cb20bb7",
+      "submission" : 1440,
+      "title" : "The Lies [SP Black Another]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/The%20Lies%20%28by%20%e5%a5%8f%29.rar",
+      "url_diff" : "",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Alicia* / BGA:Fleeting Lovely/ 差分 赤い人",
       "comment" : "good",
       "level" : "7",
@@ -4765,6 +4805,20 @@
       "url_diff" : ""
    },
    {
+      "artist" : "ridis",
+      "comment" : "BPM 168 乱打とか",
+      "level" : "9",
+      "md5" : "3add0eb683b2590e912ba1c6404eea9e",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "f05e9a67dba9d6f1ab49007a486c926f2e091c42a71f25d758571c866e2b6ea2",
+      "submission" : 1435,
+      "title" : "whisper (KF7)",
+      "url" : "https://1drv.ms/f/s!AsmoDHSAppX8gYp5ivi_0xYFitL2Hw",
+      "url_diff" : "https://bms.parksulab.xyz",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Music:しらいし obj:Fender",
       "level" : "6",
       "md5" : "3b2d67a4f985b08e2722d867af055d9a",
@@ -5384,6 +5438,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "455-/ obj :yama",
+      "comment" : "foon体験版 ディレイ",
+      "level" : "7",
+      "md5" : "42bfdf7cf00e6cc66830ed387224a29d",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "b6162a291135451f369d4cd0a232aef64107e5b36271253cba68e9f17df4e529",
+      "submission" : 1438,
+      "title" : "G e n g a o z o - f u u n",
+      "url" : "http://malie.noor.jp/",
+      "url_diff" : "http://absolute.pv.land.to/uploader/src/up1984.zip"
+   },
+   {
       "artist" : "Lime / inukoro",
       "level" : "2",
       "md5" : "431bce1dce0c5c293dacc09c79e86b9b",
@@ -5688,7 +5755,7 @@
    {
       "artist" : "LeaF Movie:Optie / obj:LTFE♪",
       "comment" : "乱打?",
-      "level" : "7",
+      "level" : "8",
       "md5" : "465d418e371077e71c08ebcfc1200e1d",
       "proposer" : "氷城つるぎ",
       "proposerLr2id" : 151185,
@@ -7473,18 +7540,6 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
-   },
-   {
-      "artist" : "Tanzanite obj:Guanacoite",
-      "level" : "7",
-      "md5" : "5c4bd17e6b13b05337a2c8a1cc72156c",
-      "proposer" : "AXION",
-      "proposerLr2id" : 37523,
-      "sha256" : "e59e27968c04e221cf993e132f9760f634c4291495d8c7add150d5a1d0d0e351",
-      "submission" : 968,
-      "title" : "Polymorphism [Obscure]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=110",
-      "url_diff" : "http://gnqg.rosx.net/upload/"
    },
    {
       "artist" : "P4koo/Ruriling/Tofa Kim obj:七海千秋",
@@ -9546,6 +9601,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Tanzanite obj:Guanacoite",
+      "comment" : "fix ver",
+      "level" : "7",
+      "md5" : "782b981f7f8f050ab406ae1e96578227",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "0f3116e2816dd88160e209d87d6750998b76e459723b602c54a90beb7cf2b0c2",
+      "submission" : 1436,
+      "title" : "Polymorphism [Obscure_Fixed]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04349",
+      "zureCount" : 0
+   },
+   {
       "artist" : "るり / A",
       "comment" : "sl0入門",
       "level" : "0",
@@ -10154,19 +10223,6 @@
       "voteYes" : 0
    },
    {
-      "artist" : "黒皇帝 Movie: SquidMaker",
-      "comment" : "from Stella",
-      "level" : "11",
-      "md5" : "7e30e90244d41f431d0b8fb75fdd0583",
-      "proposer" : "LUXURY♪",
-      "proposerLr2id" : 23110,
-      "sha256" : "9a38cd31a4e379da379827b44c6bde363659e5ae3c8a154192872d0e397893db",
-      "submission" : 1131,
-      "title" : "Neurotoxicity [INSANE]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=191&event=123",
-      "url_diff" : ""
-   },
-   {
       "artist" : "polysha/ 差分 赤い人",
       "level" : "11",
       "md5" : "7e32af584080fb9965bbf497947de99f",
@@ -10212,7 +10268,7 @@
    {
       "artist" : "mossari feat.TEA obj.B_K",
       "comment" : "皿,跳ねリズム",
-      "level" : "1",
+      "level" : "2",
       "md5" : "7ed81895343bb928baaef5916c78f441",
       "proposer" : "SANY",
       "proposerLr2id" : 128405,
@@ -10357,22 +10413,6 @@
       "title" : "Berry Go!! [HARDEST]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=116",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/Berry-Go_HARDEST.bme",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
-      "artist" : "DJ Michelle/奥沢美咲 illust. マルノ",
-      "comment" : "物量",
-      "level" : "8",
-      "md5" : "81995ece99c69ac369740059a80e7d96",
-      "proposer" : "鷺沢文香",
-      "proposerLr2id" : 133436,
-      "sha256" : "c4153891c1de32cc51c93182e99ade87e7207c429b9a6bb2a8488a1e27cedf4d",
-      "submission" : 292,
-      "title" : "Happiness Magical Kanon [HAPPY]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=394&event=123",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02451",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -13116,6 +13156,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "judithz / И",
+      "level" : "0",
+      "md5" : "a89ac1090bceeca352bccfc0801bc5c4",
+      "proposer" : "chouco",
+      "proposerLr2id" : 158333,
+      "sha256" : "6621bacab90434132d06e4553beae42240135f84397ef222f4a51bd5faed04d0",
+      "submission" : 1430,
+      "title" : "Egypt [EZ]",
+      "url" : "http://onedrive.live.com/?cid=F881BCC298BA2E47&id=F881BCC298BA2E47!104",
+      "url_diff" : "https://bms.parksulab.xyz",
+      "zureCount" : 0
+   },
+   {
       "artist" : "MALVA. vs. Venstant Illustration:Mare.S",
       "level" : "4",
       "md5" : "a8a6926a8d01f2df55de52babd59c7ad",
@@ -13713,7 +13766,7 @@
    },
    {
       "artist" : "Is-m BGA:Y.A.B.tutidama / obj:nullest",
-      "level" : "7",
+      "level" : "8",
       "md5" : "af4f6e14957bfe52449ac9ce07a4c300",
       "proposer" : "こめっと",
       "proposerLr2id" : 80964,
@@ -14599,6 +14652,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "くるやのぶ BGA:CORAL / obj : Mary_Sue",
+      "comment" : "sl8~10? ラストが難しい",
+      "level" : "9",
+      "md5" : "b6e3ea7827ae0002da3d506faf4d7963",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "23fb2627b70b1af523b19ab388857a172c1a2fd1ebd79d013aaee9432c3472b4",
+      "submission" : 1441,
+      "title" : "鬼哭 [修羅道]",
+      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=17&order=reg&odtype=a",
+      "url_diff" : "https://stellabms.xyz/upload/72",
+      "zureCount" : 0
+   },
+   {
       "artist" : "corok-Bb obj. BK",
       "comment" : "fix ver",
       "level" : "5",
@@ -14610,6 +14677,20 @@
       "title" : "Signager -HONGKONG EXPRESS_FIX-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=121",
       "url_diff" : "http://beatkim.web.fc2.com/insane.html"
+   },
+   {
+      "artist" : "DJ Michelle illust. マルノ/奥沢美咲",
+      "comment" : "fix ver",
+      "level" : "8",
+      "md5" : "b7148c7e0a7a5fd58232c85f3b4b8692",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "c3bbd98a8e74efef5ccfe85ab888348f521ff1067a85997d87a5cc08d9d3c8f6",
+      "submission" : 1434,
+      "title" : "Happiness Magical Kanon [HAPPY]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=394&event=123",
+      "url_diff" : "https://stellabms.xyz/upload/127",
+      "zureCount" : 0
    },
    {
       "artist" : "nora2r 出前 / obj.LAPIS",
@@ -16455,6 +16536,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "mommy",
+      "level" : "11",
+      "md5" : "cb8de500653a3c8259966d635774827c",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "2fbd4e17b87c99c645e370e0a9a1b43aac08ac2175a2d226ce7a6691eb6d6c44",
+      "submission" : 1433,
+      "title" : "More Selfish [Social Distancing]",
+      "url" : "http://mommy16807.seesaa.net/article/148541992.html",
+      "url_diff" : "https://bms.parksulab.xyz",
+      "zureCount" : 0
+   },
+   {
       "artist" : "にっすぃー obj:SUZUKAZEΛ",
       "level" : "6",
       "md5" : "cbad68665993c552b9f5d30a5af3ea19",
@@ -17757,6 +17851,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "キメラのキタムラ",
+      "comment" : "BPM275 16分階段と8分皿",
+      "level" : "5",
+      "md5" : "dce3b9c33cf6a5418667311214d4245d",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "4d7dbd0022e6dfa952ddc7b0115519803e1f1cc9ec48d7f747cbda3513f6039c",
+      "submission" : 1437,
+      "title" : "Conglomerate [ANOTHER]",
+      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=7",
+      "url_diff" : ""
+   },
+   {
       "artist" : "white crystal / selene.",
       "comment" : "センシゴ",
       "level" : "11",
@@ -18930,6 +19037,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "哀愁マニア",
+      "comment" : "from Stella",
+      "level" : "12",
+      "md5" : "eb2528879be2b76b68f0f3c1a658a0d9",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "2daaee6943a823c92696055bc6ed879207639313f4b653a98fb0ed2079c9fdf1",
+      "submission" : 1432,
+      "title" : "the lost dedicated [memory]",
+      "url" : "http://onedrive.live.com/?cid=EDC72D529484CBCB&id=EDC72D529484CBCB!212",
+      "url_diff" : "",
+      "zureCount" : 0
    },
    {
       "artist" : "LSD / obj:K-SPIN",

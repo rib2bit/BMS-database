@@ -488,6 +488,20 @@
       "url_diff" : "https://ux.getuploader.com/dpbms/download/353"
    },
    {
+      "artist" : "Ryo Nakamura Movie : Photonskyto / obj. Onedict",
+      "comment" : "2?",
+      "level" : "2",
+      "md5" : "24990b5348187bfd53c897ed4b1ff120",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "75fb899e07662407e69697060f1731c3e37152dcf1d41a8a904ac6702c405217",
+      "submission" : 320,
+      "title" : "Late Summer [nostalgia]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=79&event=88",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/744",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Chart BGA:二条せらふ / obj:みすげ～",
       "comment" : "BOF2017",
       "level" : "0",
@@ -1322,7 +1336,7 @@
    {
       "artist" : "ETIA. feat. Jenga obj:けろりん Movie: HDLV",
       "comment" : "9~10?",
-      "level" : "9",
+      "level" : "10",
       "md5" : "61296a55d89ae86f957873df1cd011f1",
       "proposer" : "coco",
       "proposerLr2id" : 147123,
@@ -1396,6 +1410,20 @@
       "title" : "010 [1110]",
       "url" : "http://sdrv.ms/1bdMj6h",
       "url_diff" : "http://dpbmsdelta.web.fc2.com/info/links.html"
+   },
+   {
+      "artist" : "竜。 feat.結月ゆかり / obj:sagoo",
+      "comment" : "7?、物量",
+      "level" : "7",
+      "md5" : "656f84cbf4c6d02c2cff16cb5da8bdba",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "7fb02fa088d7675335ba64231e6e8995c71f3c1ec8083a1b09e0a4b4113f92fe",
+      "submission" : 322,
+      "title" : "Re:Sound Sing Step [DP-sagINSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=116",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/705",
+      "zureCount" : 0
    },
    {
       "artist" : "Tetra≠Elemental obj. 深海",
@@ -1499,6 +1527,20 @@
       "title" : "Tuk Tuk Boshi [セミ]",
       "url" : "https://drive.google.com/file/d/1yr8oVFIFd8veT6jN32OOecNz1oFPuBI6/view?usp=sharing",
       "url_diff" : ""
+   },
+   {
+      "artist" : "xelloscope / Limite",
+      "comment" : "★★4~5?",
+      "level" : "12",
+      "md5" : "6f9b11e0ff8d347672bbd8e715f04ccd",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "fa3b9fb3314a23d229c433273a8d0f6d32e21c6c8e9bc4a7f9fce4aa26859030",
+      "submission" : 318,
+      "title" : "Apollo [1970.04.11]",
+      "url" : "http://www.luzeria.net/?m=199808",
+      "url_diff" : "https://1drv.ms/x/s!Aoi5esJwIYCChk0BTx_U1KkswzSf",
+      "zureCount" : 0
    },
    {
       "artist" : "urimu Movie:RAIDEN / Obj:ゆ～兎",
@@ -1901,7 +1943,7 @@
    {
       "artist" : "Est / obj:2y",
       "comment" : "8~9?、物量",
-      "level" : "8",
+      "level" : "9",
       "md5" : "81fb3b4f09be4959426ee5c2441a4184",
       "proposer" : "JHS",
       "proposerLr2id" : 128228,
@@ -2140,19 +2182,6 @@
       "url_diff" : "https://ux.getuploader.com/dpbms/download/771"
    },
    {
-      "artist" : "Grand thaw/obj.novu",
-      "comment" : "４?、LN、階段、ソフラン",
-      "level" : "4",
-      "md5" : "957351da89e69f0214a7fab118183e52",
-      "proposer" : "JHS",
-      "proposerLr2id" : 128228,
-      "sha256" : "7dbc4ad2c35c2f65c3a80995c0f5d40ee3bab36b48ca42e0aa62bdf7b3220d68",
-      "submission" : 151,
-      "title" : "AutumnBreeze (Another style)",
-      "url" : "http://sougr3428.web.fc2.com/",
-      "url_diff" : "https://drive.google.com/file/d/1onE9-xZJLZpapzw98DQX-8ZNNIusM9ny/view?usp=sharing"
-   },
-   {
       "artist" : "sak feat.みゅい obj:msl BGI:球根",
       "comment" : "2?",
       "level" : "2",
@@ -2347,7 +2376,7 @@
    {
       "artist" : "litmus* / movie : Kazari / obj : yphan",
       "comment" : "",
-      "level" : "2",
+      "level" : "3",
       "md5" : "a52cd28568ed5d56a571362f94a35007",
       "proposer" : "Tyro",
       "proposerMinirid" : "771c245a-497e-4bc2-9bd1-c1531fa29e86",
@@ -2604,7 +2633,7 @@
    {
       "artist" : "Yosk!",
       "comment" : "9~10?、同時押し、4つ押し",
-      "level" : "10",
+      "level" : "11",
       "md5" : "afac99105d812beffa8de61b3f47ea51",
       "proposer" : "JHS",
       "proposerLr2id" : 128228,
@@ -2681,7 +2710,7 @@
    {
       "artist" : "stereoberry / srof",
       "comment" : "同時押し、073小節にperc7.oggの音追加",
-      "level" : "4",
+      "level" : "5",
       "md5" : "b8a1552944a45a43e14125a85cb9803f",
       "proposer" : "にゃむ",
       "proposerLr2id" : 139958,
@@ -3217,6 +3246,20 @@
       "url_diff" : ""
    },
    {
+      "artist" : "カラフル・サウンズ・ポート obj.にゃむ",
+      "comment" : "4?、同時押し",
+      "level" : "4",
+      "md5" : "daa91f5884399436c2c29c6b3f830f87",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "0d63fd197b8631d5bb30ab6526f681613fc905a3d262466f66c715623cd290fe",
+      "submission" : 321,
+      "title" : "村 [そんそん]",
+      "url" : "https://web.archive.org/web/20180316032554/http://csport.me/bms/csp_mura_bms.zip",
+      "url_diff" : "https://stellabms.xyz/upload/122",
+      "zureCount" : 0
+   },
+   {
       "artist" : "EmoCo. / 玲架 obj. Onedict",
       "comment" : "scratch",
       "level" : "3",
@@ -3346,7 +3389,7 @@
    },
    {
       "artist" : "ETIA.",
-      "level" : "9",
+      "level" : "10",
       "md5" : "e2e430faf05b6a5d2b0ab301cb03657a",
       "proposer" : "coco",
       "proposerLr2id" : 147123,
@@ -3355,6 +3398,20 @@
       "title" : "Only Diversity [DPA]",
       "url" : "https://pupuly.nekokan.dyndns.info/bms/v/69",
       "url_diff" : "https://w.atwiki.jp/14key/pages/23.html"
+   },
+   {
+      "artist" : "Sobrem (Vo. Boksoong) obj:Starfish",
+      "comment" : "★5?、ズレ、ラストだけかも",
+      "level" : "5",
+      "md5" : "e30c5af1577f36d24fb2b0a8e3b6f3b9",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "6b73bbeece12660d175c4483e1e72fcb501f82be58e84f3e8344465ce0c825cc",
+      "submission" : 319,
+      "title" : "Yay or Nay [DP ☆NOTHER]",
+      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=50&order=reg&odtype=a",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/740",
+      "zureCount" : 0
    },
    {
       "artist" : "eicateve hrchem[illust] TOHRU MiTSUHASHi[movie] w[object]",
@@ -3410,7 +3467,7 @@
    {
       "artist" : "U-hey　BGA:ユウノ obj:肴",
       "comment" : "3~4? 混フレ、同時押し",
-      "level" : "3",
+      "level" : "4",
       "md5" : "e80b8d644b47e94cda1c90ca27014a3b",
       "proposer" : "にゃむ",
       "proposerLr2id" : 139958,
