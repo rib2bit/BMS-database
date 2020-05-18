@@ -1,5 +1,15 @@
 [
    {
+      "alllevel" : "☆3 ☆8 ☆12",
+      "append" : "",
+      "artist" : "東京アリス幻樂団",
+      "comment" : "",
+      "event" : "Be Happy! 3rd season",
+      "level" : "12",
+      "md5" : "0011b2d402f5c15c38b6a33377f15079",
+      "title" : "稲田姫様ご乱心 [ANOTHER]"
+   },
+   {
       "alllevel" : "☆3 ☆6 ☆8 ☆11",
       "append" : "",
       "artist" : "wint",
@@ -18,6 +28,16 @@
       "level" : "11",
       "md5" : "013a3b8f857057fde481b626d204fed6",
       "title" : "Heart To Heart -collect sky blue- (another)"
+   },
+   {
+      "alllevel" : "☆3 ☆6 ☆8 ☆11",
+      "append" : "black train",
+      "artist" : "wint / obj: black train",
+      "comment" : "",
+      "event" : "BOF2004",
+      "level" : "11",
+      "md5" : "018803a0a9b83571a0b6f84963575951",
+      "title" : "Red-rize \"B172 mix\" // 7keys 虎のAnother"
    },
    {
       "alllevel" : "☆8",
@@ -68,6 +88,26 @@
       "level" : "4",
       "md5" : "032949ac2895714ef7d22855d49d67dd",
       "title" : "追憶の森 -Voices of the Earth- [Light7]"
+   },
+   {
+      "alllevel" : "☆9 ☆11",
+      "append" : "",
+      "artist" : "MILK",
+      "comment" : "",
+      "event" : "",
+      "level" : "11",
+      "md5" : "03448af7799be5b0c2115be85eb2df9f",
+      "title" : "RAY (ANOTHER7)"
+   },
+   {
+      "alllevel" : "☆5 ☆9 ☆11",
+      "append" : "",
+      "artist" : "SHIKI",
+      "comment" : "",
+      "event" : "BOF2008",
+      "level" : "11",
+      "md5" : "03c906bf1229a701a0471165242e1233",
+      "title" : "Pure Ruby [Another]"
    },
    {
       "alllevel" : "☆7 ☆10 ☆11",
@@ -770,6 +810,16 @@
       "title" : "SHI☆O☆KA☆RA"
    },
    {
+      "alllevel" : "☆6 ☆9 ☆11",
+      "append" : "",
+      "artist" : "2TORI",
+      "comment" : "",
+      "event" : "第七回自称無名BMS作家が物申す！",
+      "level" : "6",
+      "md5" : "2260a366fff11c86fe529d9d31ff5d43",
+      "title" : "飛燕草"
+   },
+   {
       "alllevel" : "☆8",
       "append" : "",
       "artist" : "naotyu- / iimode-do",
@@ -828,6 +878,16 @@
       "level" : "11",
       "md5" : "2468a69727f2c3bf480abde6bb39dd21",
       "title" : "HI-TENSION みすちー☆ (ANOTHER)"
+   },
+   {
+      "alllevel" : "☆5 ☆7 ☆9",
+      "append" : "",
+      "artist" : "Sora",
+      "comment" : "",
+      "event" : "BOF2006",
+      "level" : "7",
+      "md5" : "248593c0f2d05a0236105a0f4fdbf90b",
+      "title" : "baby blue blanket -SP HYPER-"
    },
    {
       "alllevel" : "☆8 ☆11 ☆12",
@@ -1140,6 +1200,16 @@
       "title" : "Circe (7keys)"
    },
    {
+      "alllevel" : "☆7 ☆11",
+      "append" : "",
+      "artist" : "SHIKI/fity",
+      "comment" : "",
+      "event" : "BGA BATTLE",
+      "level" : "11",
+      "md5" : "332ab0d1df1adc712fb90f857bdb13dc",
+      "title" : "Xecus 7key [Another]"
+   },
+   {
       "alllevel" : "☆8 ☆10 ☆12",
       "append" : "black train",
       "artist" : "しろ / black train",
@@ -1370,6 +1440,16 @@
       "title" : "Here we go！ (TM edit)"
    },
    {
+      "alllevel" : "☆7 ☆11 ☆12",
+      "append" : "",
+      "artist" : "くっちー vs あっきー",
+      "comment" : "",
+      "event" : "BOF2009",
+      "level" : "11",
+      "md5" : "3d13b9cd6ff57db1ba83231502a09e34",
+      "title" : "Yakumo >>JOINT STRUGGLE [SP HYPER 2]"
+   },
+   {
       "alllevel" : "☆7",
       "append" : "",
       "artist" : "sa10",
@@ -1500,6 +1580,16 @@
       "title" : "ε-δ (HYPER)"
    },
    {
+      "alllevel" : "☆11 ☆12",
+      "append" : "",
+      "artist" : "s-don / jubeated",
+      "comment" : "",
+      "event" : "BOF2012",
+      "level" : "11",
+      "md5" : "43d161cf80d214a8a24ff2ccb323892e",
+      "title" : "WATER STOP DOTx4 [Hyper]"
+   },
+   {
       "alllevel" : "☆5",
       "append" : "",
       "artist" : "kanone",
@@ -1538,6 +1628,16 @@
       "level" : "11",
       "md5" : "461953b5f5be24b46dd375eba19342c9",
       "title" : "妹様は彼女なのだっ！"
+   },
+   {
+      "alllevel" : "☆99",
+      "append" : "",
+      "artist" : "Transin",
+      "comment" : "",
+      "event" : "BOF2006",
+      "level" : "99",
+      "md5" : "46a99e37503694c626a3e321a9be9852",
+      "title" : "Exit (7 Key Hard Mixing)"
    },
    {
       "alllevel" : "☆6 ☆9 ☆11",
@@ -1680,6 +1780,16 @@
       "title" : "闘気に満ちた草原"
    },
    {
+      "alllevel" : "☆4 ☆8",
+      "append" : "",
+      "artist" : "SHK / pattern by NaBuSi",
+      "comment" : "",
+      "event" : "BOF2010",
+      "level" : "8",
+      "md5" : "4e5093df6687c1efd94091520ebf67bb",
+      "title" : "Reality [7keys Hard]"
+   },
+   {
       "alllevel" : "☆4 ☆7 ☆10",
       "append" : "",
       "artist" : "Nene Anegasaki feat. Salita Movie : Ryuka",
@@ -1748,6 +1858,26 @@
       "level" : "4",
       "md5" : "5065549009e62d25c0d5cb2e2580fc36",
       "title" : "started [7key/Normal]"
+   },
+   {
+      "alllevel" : "☆4 ☆7 ☆12 ☆99",
+      "append" : "自重しないJLS",
+      "artist" : "源屋feat.ユスラ　/obj：自重しないJLS",
+      "comment" : "",
+      "event" : "BOF2006",
+      "level" : "99",
+      "md5" : "508330b4bc4513536aea7945d90909e2",
+      "title" : "マジカル縦連打"
+   },
+   {
+      "alllevel" : "☆4 ☆7 ☆11",
+      "append" : "",
+      "artist" : "Rabbit Bat",
+      "comment" : "",
+      "event" : "BOF2009",
+      "level" : "11",
+      "md5" : "518061bccc4cef0c0f737a923122f80e",
+      "title" : "rainy beauty"
    },
    {
       "alllevel" : "☆4 ☆7 ☆11",
@@ -1908,6 +2038,26 @@
       "level" : "6",
       "md5" : "5bdaa3acd237c322658ff115a0b85fcb",
       "title" : "Dream Rocket* [Normal]"
+   },
+   {
+      "alllevel" : "☆6 ☆12 ☆99",
+      "append" : "",
+      "artist" : "wa. remixed celas Notes:mew BGA:TOHRU MiTSUHASHi",
+      "comment" : "",
+      "event" : "",
+      "level" : "99",
+      "md5" : "5cac7e6e5f5a69afb67cb59412be4b25",
+      "title" : "銀の風 [HYPER]"
+   },
+   {
+      "alllevel" : "☆6 ☆10 ☆12",
+      "append" : "えらる",
+      "artist" : "Ras / misokabocha /obj えらる",
+      "comment" : "",
+      "event" : "BOF2012",
+      "level" : "12",
+      "md5" : "5e3129c1abf59f68d900791beb0f9a8d",
+      "title" : "テキトウInfinite love (BMS edit) [SARATHER]"
    },
    {
       "alllevel" : "☆6 ☆9 ☆10",
@@ -2140,6 +2290,16 @@
       "title" : "えがおをキミに　 [HYPER]"
    },
    {
+      "alllevel" : "☆5 ☆9 ☆11",
+      "append" : "",
+      "artist" : "Ym1024",
+      "comment" : "",
+      "event" : "",
+      "level" : "11",
+      "md5" : "6834810e6d041128743f63b210dac004",
+      "title" : "SAKURA RECOLLECTIONS　 [7key/Another]"
+   },
+   {
       "alllevel" : "☆7 ☆9",
       "append" : "",
       "artist" : "みここ ＆ 虹野ひかり",
@@ -2350,6 +2510,26 @@
       "title" : "Central GRAY [NORMAL]"
    },
    {
+      "alllevel" : "☆6 ☆9 ☆11",
+      "append" : "",
+      "artist" : "2TORI",
+      "comment" : "",
+      "event" : "第七回自称無名BMS作家が物申す！",
+      "level" : "11",
+      "md5" : "73fb4847967683227b3a348b0076b13c",
+      "title" : "飛燕草"
+   },
+   {
+      "alllevel" : "☆5 ☆7",
+      "append" : "",
+      "artist" : "Syatten",
+      "comment" : "",
+      "event" : "Spring Phase",
+      "level" : "5",
+      "md5" : "740ff598cf25870f4641cda953914cf7",
+      "title" : "beyond the limit -7keyeasy-"
+   },
+   {
       "alllevel" : "☆5 ☆8 ☆11",
       "append" : "RAY",
       "artist" : "DJ TAKUAN 及び 白羽美依 Notes:RAY",
@@ -2550,6 +2730,16 @@
       "title" : "innocent infant -SP ANOTHER-"
    },
    {
+      "alllevel" : "☆5 ☆7 ☆9",
+      "append" : "",
+      "artist" : "Sora",
+      "comment" : "",
+      "event" : "BOF2006",
+      "level" : "9",
+      "md5" : "8155ada731a1086d84cd3271525db2a5",
+      "title" : "baby blue blanket -SP ANOTHER-"
+   },
+   {
       "alllevel" : "☆4 ☆7 ☆10",
       "append" : "",
       "artist" : "Ym1024",
@@ -2670,6 +2860,16 @@
       "title" : "Drive me Dancin'! [7key]"
    },
    {
+      "alllevel" : "☆4 ☆9 ☆11",
+      "append" : "",
+      "artist" : "AMAZE / 灰猫ユキハル",
+      "comment" : "",
+      "event" : "",
+      "level" : "11",
+      "md5" : "88fe208a8f671dfb326d3ba87dd75374",
+      "title" : "SCARLET ZONE [7ANOTHER]"
+   },
+   {
       "alllevel" : "☆3 ☆6 ☆8 ☆11",
       "append" : "",
       "artist" : "Team Shanghai Alice (Remixed by Est)",
@@ -2720,6 +2920,16 @@
       "title" : "positive 3rd \"LV mix\""
    },
    {
+      "alllevel" : "☆6 ☆9 ☆11",
+      "append" : "",
+      "artist" : "2TORI",
+      "comment" : "",
+      "event" : "第七回自称無名BMS作家が物申す！",
+      "level" : "9",
+      "md5" : "8ca47aa8c698b586922eace76b89960b",
+      "title" : "飛燕草"
+   },
+   {
       "alllevel" : "☆4 ☆7 ☆10",
       "append" : "",
       "artist" : "カラフル・サウンズ・ポート",
@@ -2728,6 +2938,16 @@
       "level" : "4",
       "md5" : "8d18663a845be0eedef1f6c2784a4622",
       "title" : "CHERRY DOLL (Normal)"
+   },
+   {
+      "alllevel" : "☆7 ☆9 ☆11",
+      "append" : "",
+      "artist" : "cittan*",
+      "comment" : "",
+      "event" : "BOF2011",
+      "level" : "7",
+      "md5" : "8d238c2454ab685a838c5f0554118d30",
+      "title" : "Leviathan (SP NOMAL)"
    },
    {
       "alllevel" : "☆6 ☆8 ☆11",
@@ -2818,6 +3038,16 @@
       "level" : "10",
       "md5" : "948ad41007aeb42ab7b724cc918e853d",
       "title" : "桜華月 [7key Another]"
+   },
+   {
+      "alllevel" : "☆4 ☆8",
+      "append" : "",
+      "artist" : "SHK",
+      "comment" : "",
+      "event" : "BOF2010",
+      "level" : "4",
+      "md5" : "94981f6326be95feb1518220d5a86f89",
+      "title" : "Reality [7key Easy2]"
    },
    {
       "alllevel" : "☆6 ☆7 ☆10",
@@ -3220,6 +3450,16 @@
       "title" : "Heart To Heart -collect sky blue-"
    },
    {
+      "alllevel" : "☆99",
+      "append" : "Symphonian",
+      "artist" : "しらいし / Symphonian",
+      "comment" : "",
+      "event" : "",
+      "level" : "99",
+      "md5" : "b25e877fd053080df2701351f741a4d3",
+      "title" : "Odin [^"
+   },
+   {
       "alllevel" : "☆6 ☆9",
       "append" : "",
       "artist" : "ねこみみ魔法使い",
@@ -3228,6 +3468,16 @@
       "level" : "6",
       "md5" : "b279cb2025d464d45ffb5ca4d81196a4",
       "title" : "theme of Maia -light-"
+   },
+   {
+      "alllevel" : "☆6 ☆11 ☆12",
+      "append" : "ztar",
+      "artist" : "ZUN remix by 44teru-k Notes:ztar",
+      "comment" : "",
+      "event" : "東方音弾遊戯3",
+      "level" : "12",
+      "md5" : "b3326cf41692fa2b5d0bacfb38957083",
+      "title" : "感情の摩天楼～PandoraBox [ANOTHER]"
    },
    {
       "alllevel" : "☆6 ☆10 ☆12",
@@ -3360,6 +3610,16 @@
       "title" : "十十日月"
    },
    {
+      "alllevel" : "☆8 ☆12",
+      "append" : "",
+      "artist" : "ZUN (Arr.sun3)",
+      "comment" : "",
+      "event" : "",
+      "level" : "12",
+      "md5" : "b8b8062cd450411a12dd91411c30fc5e",
+      "title" : "竹取はっぴー"
+   },
+   {
       "alllevel" : "☆5 ☆9 ☆10",
       "append" : "",
       "artist" : "ginkiha",
@@ -3378,6 +3638,16 @@
       "level" : "12",
       "md5" : "b9f6b45ee3455172e829f2c2b5390d6c",
       "title" : "zodiac (ANOTHER7)"
+   },
+   {
+      "alllevel" : "☆6 ☆12 ☆99",
+      "append" : "",
+      "artist" : "wa. remixed celas Notes:mew BGA:TOHRU MiTSUHASHi",
+      "comment" : "▼3",
+      "event" : "",
+      "level" : "12",
+      "md5" : "b9f6b45ee3455172e829f2c2b5390d6c",
+      "title" : "銀の風 [ANOTHER]"
    },
    {
       "alllevel" : "☆7 ☆9",
@@ -3530,6 +3800,16 @@
       "title" : "x-Aria -light-"
    },
    {
+      "alllevel" : "☆7 ☆9 ☆11",
+      "append" : "",
+      "artist" : "cittan*",
+      "comment" : "",
+      "event" : "BOF2011",
+      "level" : "11",
+      "md5" : "c2c88883d9b7003b589ba593647dba4d",
+      "title" : "Leviathan (SP ANOTHER)"
+   },
+   {
       "alllevel" : "☆4 ☆8 ☆10",
       "append" : "",
       "artist" : "P*Light",
@@ -3538,6 +3818,16 @@
       "level" : "10",
       "md5" : "c32f3831de55f9cb1666bfd045f12814",
       "title" : "The Ray of Sunlight"
+   },
+   {
+      "alllevel" : "☆99",
+      "append" : "",
+      "artist" : "ルゼ",
+      "comment" : "",
+      "event" : "SUIKA CRASH",
+      "level" : "99",
+      "md5" : "c35ea1a680b15bdf8c7ea2b59795c9ad",
+      "title" : "WALL BATTLE"
    },
    {
       "alllevel" : "☆4 ☆9",
@@ -3760,6 +4050,16 @@
       "title" : "ZENITHALIZE [SP HYPER]"
    },
    {
+      "alllevel" : "☆4 ☆7 ☆99",
+      "append" : "JLS",
+      "artist" : "激辛マニア / obj：JLS",
+      "comment" : "",
+      "event" : "BOF2009",
+      "level" : "99",
+      "md5" : "cc497b8d7cdc581e08771257566d053f",
+      "title" : "Auston (T-HYPER)"
+   },
+   {
       "alllevel" : "☆5 ☆8 ☆11",
       "append" : "",
       "artist" : "Arranged by Y.W bga:kotomi",
@@ -3858,6 +4158,16 @@
       "level" : "10",
       "md5" : "d0dd0b28063d3fc7eea0c61c8d0b1ce0",
       "title" : "orange tea　 [7key/Another]"
+   },
+   {
+      "alllevel" : "☆6 ☆10 ☆11",
+      "append" : "",
+      "artist" : "CHAN",
+      "comment" : "",
+      "event" : "BOF2009",
+      "level" : "11",
+      "md5" : "d0e54650fc77eab4e38a88c6d54c2a59",
+      "title" : "Shining On -ANOTHER-"
    },
    {
       "alllevel" : "☆5 ☆9 ☆11 ☆12",
@@ -4130,6 +4440,16 @@
       "title" : "Evangelize (Radio Edit) (SP NORMAL)"
    },
    {
+      "alllevel" : "☆5 ☆7",
+      "append" : "",
+      "artist" : "Syatten",
+      "comment" : "",
+      "event" : "Spring Phase",
+      "level" : "7",
+      "md5" : "db16da7ebc333b4d5f5d23e8f65542c4",
+      "title" : "beyond the limit -7key-"
+   },
+   {
       "alllevel" : "☆5 ☆7 ☆10",
       "append" : "",
       "artist" : "Ym1024 BGA : Mentalstock",
@@ -4188,6 +4508,16 @@
       "level" : "4",
       "md5" : "ddf2957973127a708142a17811c18fe3",
       "title" : "Magical Love Words (Normal)"
+   },
+   {
+      "alllevel" : "☆3 ☆6 ☆11",
+      "append" : "",
+      "artist" : "哀愁マニア",
+      "comment" : "",
+      "event" : "BOF2010",
+      "level" : "11",
+      "md5" : "de3c9a8f256d27e573e7e73e3dfea2d3",
+      "title" : "the lost dedicated (another)"
    },
    {
       "alllevel" : "☆5 ☆8 ☆11",
@@ -4268,6 +4598,16 @@
       "level" : "9",
       "md5" : "dfed0519ae1dcf9ae8fe9f7882cc2814",
       "title" : "★LittlE HearTs★"
+   },
+   {
+      "alllevel" : "☆5 ☆9 ☆12",
+      "append" : "",
+      "artist" : "秋山 澪 Notes:平沢 憂",
+      "comment" : "",
+      "event" : "BOF2010",
+      "level" : "12",
+      "md5" : "e0005f553b5ea8e0e53d0424f1b95b6f",
+      "title" : "水晶世界 ～Fracture～ [ANOTHER]"
    },
    {
       "alllevel" : "☆4 ☆8",
@@ -4520,6 +4860,16 @@
       "title" : "DRAGONLADY (7keyHYPER)"
    },
    {
+      "alllevel" : "☆6 ☆8 ☆11",
+      "append" : "",
+      "artist" : "Ras",
+      "comment" : "",
+      "event" : "GENRE-SHUFFLE",
+      "level" : "11",
+      "md5" : "ecf31fb5b1f1062eddf3f8e201f8dbd8",
+      "title" : "PrayStation [7_another]"
+   },
+   {
       "alllevel" : "☆10 ☆11 ☆12",
       "append" : "Lestia",
       "artist" : "Kinato Note:Lestia",
@@ -4528,6 +4878,16 @@
       "level" : "11",
       "md5" : "eda49328f751d17cc7dc25cae8f1b6d8",
       "title" : "P.S: Plasma Strike [HARD]"
+   },
+   {
+      "alllevel" : "☆7 ☆9 ☆11",
+      "append" : "",
+      "artist" : "cittan*",
+      "comment" : "",
+      "event" : "BOF2011",
+      "level" : "9",
+      "md5" : "ede7b6126ad8e06efb9d4a41549a9c3f",
+      "title" : "Leviathan (SP HYPER)"
    },
    {
       "alllevel" : "☆2 ☆4 ☆9",
@@ -4548,6 +4908,16 @@
       "level" : "7",
       "md5" : "ee33d8f37e81d7ab6a538b0b1b301421",
       "title" : "More Selfish [7key,Normal]"
+   },
+   {
+      "alllevel" : "☆6 ☆11 ☆12",
+      "append" : "",
+      "artist" : "上杉うた",
+      "comment" : "",
+      "event" : "BOF2008",
+      "level" : "12",
+      "md5" : "efbf553ec8a1777384237fa73868297c",
+      "title" : "旧地獄街道を行く ～反逆のパルスィ～ [NANATHER]"
    },
    {
       "alllevel" : "☆7 ☆11",
@@ -4730,6 +5100,16 @@
       "title" : "Arcadia -NORMAL-"
    },
    {
+      "alllevel" : "☆5 ☆7 ☆9",
+      "append" : "",
+      "artist" : "Sora",
+      "comment" : "",
+      "event" : "BOF2006",
+      "level" : "5",
+      "md5" : "f737fea1fde1810e5e4c8e9dffea7ff2",
+      "title" : "baby blue blanket -SP NORMAL-"
+   },
+   {
       "alllevel" : "☆3 ☆6",
       "append" : "",
       "artist" : "Sentire",
@@ -4788,6 +5168,16 @@
       "level" : "11",
       "md5" : "f9a52bec020b0b946c31d069326e24d0",
       "title" : "☆Traveling Sunstar☆　 [7key　ミ★]"
+   },
+   {
+      "alllevel" : "☆8 ☆10 ☆99",
+      "append" : "JLS",
+      "artist" : "tarolabo vo：小宮真央 / obj：JLS",
+      "comment" : "",
+      "event" : "BOF2006",
+      "level" : "99",
+      "md5" : "f9ece4d1f2648d963ace6ff956d95f88",
+      "title" : "路上のタテレン -MEGA T Mix-"
    },
    {
       "alllevel" : "☆7 ☆11 ☆12",
