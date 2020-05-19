@@ -54,6 +54,20 @@
       "url_diff" : ""
    },
    {
+      "artist" : "SEPHID mov LankaNIK / obj:SUZUKAZEΛ",
+      "comment" : "高速/皿複合/階段",
+      "level" : "8",
+      "md5" : "19dabfd5c632908c4de0cfe7dc8e9f20",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "7ef691111dd767eb8cce428ff5528d3c8c7cfc1bce8d70d1abd687129b9be91c",
+      "submission" : 1445,
+      "title" : "Critical Cannonball [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=129",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "wigen",
       "comment" : "乱打、加速ギミックあり(LNであれば影響なし)",
       "level" : "5",
@@ -204,6 +218,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Sakamiya feat.前野 img:mirina notes:OSR",
+      "comment" : "同梱",
+      "level" : "2",
+      "md5" : "6a6c493cd1ea5260500b314211a9913e",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "73dba8be971cf0900e22a215bdb07bc5ce7f361b6198db9244769be19c7409b4",
+      "submission" : 1444,
+      "title" : "星霜回廊 [BlackAnother]",
+      "url" : "http://seapulse.net/event/bmsippai2017/eventpage.php",
+      "url_diff" : ""
+   },
+   {
       "artist" : "kanone feat. かぼちゃ obj:kaguya",
       "level" : "1",
       "md5" : "759408e8a0549292963b2948f67111f3",
@@ -260,6 +287,34 @@
       "title" : "メシア -この世界に救いを-",
       "url" : "http://uploader.bms.ms/data/messiah.rar",
       "url_diff" : "https://stellabms.xyz/upload/31",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "tarolabo vo：小宮真央 / po",
+      "comment" : "同時押し, ズレ, NORMAL 判定\t",
+      "level" : "6",
+      "md5" : "93ca4ed9f381d4ab14d2c0a41f8bcce7",
+      "proposer" : "◆polynya",
+      "proposerLr2id" : 161749,
+      "sha256" : "75d8b48dd304d1983c831879703bac1dd0662eebacae82243ba2e168e6f19cab",
+      "submission" : 1443,
+      "title" : "路上のギリジン-Shou+rt Mix- [7key_ANOTHER+]",
+      "url" : "http://ofuton.tk/tarolabo/",
+      "url_diff" : "http://rareheror.web.fc2.com/po.html",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "ZUN remixed by LeaF Movie:Optie/Illust:セシル◇タイト/selene.",
+      "comment" : "超高速/ズレ/皿複合/乱打/階段",
+      "level" : "10",
+      "md5" : "9e8e7e04e1ce7709c9fb94ad85837550",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "2cc1e6b462a7d359252cdecced5e32e581b5d82fc1c5e606d3fafa5c6012b709",
+      "submission" : 1446,
+      "title" : "Armageddon -Luna-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=129",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04172",
       "zureCount" : 0
    },
    {
