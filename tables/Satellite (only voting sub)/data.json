@@ -191,6 +191,20 @@
       "voteYes" : 5
    },
    {
+      "artist" : "HOLY SAMBA MASTER 佐藤 -SATOH- obj:BAECON",
+      "comment" : "SAMBA MASTER",
+      "level" : "8",
+      "md5" : "47045de25d9d2f9d7a36fec1fa6b86af",
+      "proposer" : "Fendou",
+      "proposerLr2id" : 128388,
+      "sha256" : "072cbb55477ad7e83d2ef7a53e6f6bebedf58739c3bb2e7de5fe0a16c78b40b2",
+      "submission" : 1447,
+      "title" : "ホーリーサンバランド [FIRST BOSS]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=193&event=96",
+      "url_diff" : "",
+      "zureCount" : 0
+   },
+   {
       "artist" : "69 de 74 BGA:иоио",
       "comment" : "G2R2018, 2018Notes,  乱打",
       "level" : "3",
