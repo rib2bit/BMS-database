@@ -219,6 +219,20 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Arctures obj : Mary_Sue",
+      "comment" : "sl0入門、トリル、同時押し",
+      "level" : "0",
+      "md5" : "5f4b53ee4cca3d6d341909728c64a0b6",
+      "proposer" : "|/|",
+      "proposerLr2id" : 147895,
+      "sha256" : "60d37a86af88a83a2bd8fbfb0c7009b1328716b2f54abbecf9f8d0870b814deb",
+      "submission" : 1448,
+      "title" : "mnemogeny [earth to earth_ver.2]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/mnemogeny%20%28by%20Arctures%29.rar",
+      "url_diff" : "https://stellabms.xyz/upload/148",
+      "zureCount" : 0
+   },
+   {
       "artist" : "tdef / ZUN / obj. 子",
       "comment" : "BPM180 多要素",
       "level" : "12",
@@ -330,6 +344,22 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=129",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04172",
       "zureCount" : 0
+   },
+   {
+      "artist" : "koorijake obj:bazurineko",
+      "level" : "4",
+      "md5" : "a3781855d9f6417cbd4f583f0b3a7347",
+      "proposer" : "Lollipop",
+      "proposerLr2id" : 137553,
+      "sha256" : "54202b6a0688d927603422cb386678f0960bb1867689f683c6c8393475c6288a",
+      "submission" : 593,
+      "title" : "Bluish mood [凍結]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=73&event=123",
+      "url_diff" : "",
+      "voteNeutral" : 3,
+      "voteNo" : 3,
+      "votePercent" : 65.3846153846154,
+      "voteYes" : 7
    },
    {
       "artist" : "judithz / И",
