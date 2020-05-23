@@ -1285,6 +1285,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Alicia* obj:kinoko",
+      "comment" : "sl3~4、同時押し、乱打、皿複合",
+      "level" : "4",
+      "md5" : "0d19baa3a0f4bc5c5dca3e5fb7e2a182",
+      "proposer" : "ぶんぺ～",
+      "proposerMinirid" : "3708ebc6-f813-4964-a5e4-deb86620233a",
+      "sha256" : "c2a2e7e218e863733555038743ad90938dcb6e2c8a28298fcb0f9bc9a7971749",
+      "submission" : 1450,
+      "title" : "アイーシャの剣-Forcing breakthrough- [KINOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=174&event=74",
+      "url_diff" : "https://onedrive.live.com/?id=112C8A66E980514D%21164&cid=112C8A66E980514D"
+   },
+   {
       "artist" : "kooridori BGA:SELDO",
       "comment" : "第二回BMS衆議院選、ズレ、連打、LNあり、トリル",
       "level" : "0",
@@ -9832,6 +9845,20 @@
       "url_diff" : "https://www.dropbox.com/s/wtpea1lvy5yjzf1/specimen_triforce_fix.bme?dl=1"
    },
    {
+      "artist" : "卯月",
+      "comment" : "たのしー！",
+      "level" : "1",
+      "md5" : "79ccce1da419f1792c653d6f7bf6348d",
+      "proposer" : "鷺沢文香",
+      "proposerLr2id" : 133436,
+      "sha256" : "9d29fadfba8cfd95ffed49db926c189c71d69e0e8d59b793d4f457c289a08071",
+      "submission" : 1452,
+      "title" : "Blooming Jump! [SP あなざー]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=109",
+      "url_diff" : "",
+      "zureCount" : 0
+   },
+   {
       "artist" : "tetorimino",
       "comment" : "ガチ押し",
       "level" : "12",
@@ -12104,6 +12131,19 @@
       "title" : "Entschadigung",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=114",
       "url_diff" : ""
+   },
+   {
+      "artist" : "うえつ氏 // Note:薄杏",
+      "comment" : "sl3~4、乱打",
+      "level" : "4",
+      "md5" : "98d4300b17b0c45472284eff4fcdc4db",
+      "proposer" : "ぶんぺ～",
+      "proposerMinirid" : "3708ebc6-f813-4964-a5e4-deb86620233a",
+      "sha256" : "7643d587f1d8d9793432de079f4ce259042add6a1d8c5b3ee102cf34ae358a9f",
+      "submission" : 1451,
+      "title" : "天空の城ヴェリエル -Another Story-",
+      "url" : "http://ueotan.com/",
+      "url_diff" : "http://lalha.web.fc2.com/sabun.html"
    },
    {
       "artist" : "- 4 5",
