@@ -2198,6 +2198,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Nakaiankow obj:C4",
+      "comment" : "BPM145 ズレ",
+      "level" : "4",
+      "md5" : "25424c3d4c970f8d975a91bcb513960d",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "efb149a6824601276761314b8cab5194f35cb3858e6e01fbcf0d7c2eda717869",
+      "submission" : 1152,
+      "title" : "Smudge",
+      "url" : "http://starkey.ivory.ne.jp/bemusicwest/bmw2/detail/view/7/",
+      "url_diff" : ""
+   },
+   {
       "artist" : "潮音きつねH / obj:LuvTek",
       "comment" : "ラストがちょっと難しい",
       "level" : "2",
@@ -7546,6 +7559,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Neun_jack mov:squidboy/obj:Mary_Sue",
+      "comment" : "BPM210(-230) ggtt.bms基準ズレ無し",
+      "level" : "3",
+      "md5" : "718c41af9ff148a9833489cedd1d43dd",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "b1e173bb8bdaf978882c3d815d9900ed63cd3423c0ef89a68d0676c32ef93773",
+      "submission" : 1153,
+      "title" : "Gypsy gets the Tek [Maryther]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/Gypsy%20gets%20the%20Tek%20%28by%20Neun_jack%29.rar",
+      "url_diff" : "https://stellabms.xyz/upload/82"
    },
    {
       "artist" : "Extrose / selene.",

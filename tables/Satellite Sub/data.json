@@ -7733,6 +7733,18 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Yu^ta / obj:Azel",
+      "level" : "5",
+      "md5" : "5dda8688e245ec4dfd377a44fe6cc6c5",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "ac4b09a60e0eb5c2fc9ef53cf4aba58b8ccce57a37e9e60f5b25ec60fc4acd3d",
+      "submission" : 1454,
+      "title" : "My Little Sweet Kitty [Append]",
+      "url" : "http://famousbms.web.fc2.com/",
+      "url_diff" : ""
+   },
+   {
       "artist" : "NS-Factory / obj.siokaze",
       "comment" : "11～12",
       "level" : "11",
@@ -13478,6 +13490,18 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "ORC / obj:みっと",
+      "level" : "10",
+      "md5" : "aa0df8bed54cbcc7dfa10d7347c8730b",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "c54bb07705e733f181c8e30bf088265d28db391d22221b22070e9070a985ba8b",
+      "submission" : 1453,
+      "title" : "Ninja's betrayal [アイエエエ！？]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=189&event=88",
+      "url_diff" : "http://zzssccaxd.wix.com/bmsabun"
    },
    {
       "artist" : "Flat:nique (mov:びびらぜ obj:SANY)",

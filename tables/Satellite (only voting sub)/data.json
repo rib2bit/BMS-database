@@ -280,6 +280,18 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Yu^ta / obj:Azel",
+      "level" : "5",
+      "md5" : "5dda8688e245ec4dfd377a44fe6cc6c5",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "ac4b09a60e0eb5c2fc9ef53cf4aba58b8ccce57a37e9e60f5b25ec60fc4acd3d",
+      "submission" : 1454,
+      "title" : "My Little Sweet Kitty [Append]",
+      "url" : "http://famousbms.web.fc2.com/",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Arctures obj : Mary_Sue",
       "comment" : "sl0入門、トリル、同時押し",
       "level" : "0",
@@ -331,6 +343,22 @@
       "title" : "星霜回廊 [BlackAnother]",
       "url" : "http://seapulse.net/event/bmsippai2017/eventpage.php",
       "url_diff" : ""
+   },
+   {
+      "artist" : "VeetaCrush obj. DK",
+      "level" : "7",
+      "md5" : "6abc6a1fab2751a28f76f398820b04b3",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "72faf6f573c3a2ff4326525931752dbe5cdea5140d06a37c4f88533c77666734",
+      "submission" : 1346,
+      "title" : "Sterelogue [Dash]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=294&event=123",
+      "url_diff" : "https://frozensat.github.io/sabun/Sterelogue_DK.zip",
+      "voteNeutral" : 2,
+      "voteNo" : 0,
+      "votePercent" : 90.9090909090909,
+      "voteYes" : 9
    },
    {
       "artist" : "kanone feat. かぼちゃ obj:kaguya",
@@ -420,19 +448,6 @@
       "zureCount" : 0
    },
    {
-      "artist" : "うえつ氏 // Note:薄杏",
-      "comment" : "sl3~4、乱打",
-      "level" : "4",
-      "md5" : "98d4300b17b0c45472284eff4fcdc4db",
-      "proposer" : "ぶんぺ～",
-      "proposerMinirid" : "3708ebc6-f813-4964-a5e4-deb86620233a",
-      "sha256" : "7643d587f1d8d9793432de079f4ce259042add6a1d8c5b3ee102cf34ae358a9f",
-      "submission" : 1451,
-      "title" : "天空の城ヴェリエル -Another Story-",
-      "url" : "http://ueotan.com/",
-      "url_diff" : "http://lalha.web.fc2.com/sabun.html"
-   },
-   {
       "artist" : "ZUN remixed by LeaF Movie:Optie/Illust:セシル◇タイト/selene.",
       "comment" : "超高速/ズレ/皿複合/乱打/階段",
       "level" : "10",
@@ -474,6 +489,18 @@
       "url" : "http://onedrive.live.com/?cid=F881BCC298BA2E47&id=F881BCC298BA2E47!104",
       "url_diff" : "https://bms.parksulab.xyz",
       "zureCount" : 0
+   },
+   {
+      "artist" : "ORC / obj:みっと",
+      "level" : "10",
+      "md5" : "aa0df8bed54cbcc7dfa10d7347c8730b",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "c54bb07705e733f181c8e30bf088265d28db391d22221b22070e9070a985ba8b",
+      "submission" : 1453,
+      "title" : "Ninja's betrayal [アイエエエ！？]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=189&event=88",
+      "url_diff" : "http://zzssccaxd.wix.com/bmsabun"
    },
    {
       "artist" : "fether obj: qtp13",
