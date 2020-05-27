@@ -423,6 +423,20 @@
       "url_diff" : "https://web.archive.org/web/20150729001705/http://www42.tok2.com/home/dpbms/cgi-bin/uploader/src/dpbms_1502.zip"
    },
    {
+      "artist" : "TiS obj:ucc",
+      "comment" : "3~4? 二重階段、乱打",
+      "level" : "4",
+      "md5" : "20f9e3a8e3f317c8e1ba3ce866f82fd4",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "957dcf717625927c8d81df1a236fb2191d84ef14e1db1fd9381a28d9df76ba66",
+      "submission" : 325,
+      "title" : "Nature of the Earth [A14]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=144&event=74",
+      "url_diff" : "https://web.archive.org/web/20181105105352/http://www.geocities.jp/uccdpbms/bof2011.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Ark-Z  Illustration by 春雨 / Obj:ゆ～兎",
       "comment" : "3~4? 階段、乱打　第8回合同差分作成企画",
       "level" : "3",
@@ -1655,6 +1669,19 @@
       "title" : "STEPPING WIND -Wake Full Style-",
       "url" : "http://kbwnk.net/bms_oto08.htm",
       "url_diff" : "https://ux.getuploader.com/dpbms/download/534"
+   },
+   {
+      "artist" : "Yosk!",
+      "comment" : "同時押し、階段",
+      "level" : "5",
+      "md5" : "762258885246b239006c8294e08b1165",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "ade1915d6d0a68e6b1b212891766c9753a7b0f1ad4a3f4d94ec890ea1af8de27",
+      "submission" : 324,
+      "title" : "Modern Times",
+      "url" : "https://yosk.ojaru.jp/bmsyosk.html",
+      "url_diff" : ""
    },
    {
       "artist" : "SAMBA MASTER 佐藤 -SATOH- obj@PEN",
