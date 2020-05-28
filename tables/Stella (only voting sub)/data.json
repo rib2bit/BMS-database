@@ -168,6 +168,22 @@
       "zureCount" : 0
    },
    {
+      "artist" : "LeaF Movie:Optie&Fiz/obj:赤い人",
+      "level" : "3",
+      "md5" : "ac206b2a1f8d63da94660078855977ab",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "723cdea3aa70ecb0bd891393c518563dfd7b004e3ca97847c55554b88a677513",
+      "submission" : 807,
+      "title" : "MARENOL [INFERNO]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=370&event=123",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/MARENOL_INFERNO.bms",
+      "voteNeutral" : 0,
+      "voteNo" : 3,
+      "votePercent" : 57.1428571428571,
+      "voteYes" : 4
+   },
+   {
       "artist" : "momo★yama　(BGA:アカツキユウ) obj. BK",
       "comment" : "st0~1? delay. (maybe no misalignment)",
       "level" : "1",
@@ -207,6 +223,22 @@
       "url_diff" : "https://web.archive.org/web/20200306165639/http://3228monsta.web.fc2.com/",
       "voteNeutral" : 0,
       "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 0
+   },
+   {
+      "artist" : "uet vs Neun_jack / mov:Roaring Flame / obj:Monsta",
+      "level" : "8",
+      "md5" : "ca25633fa0b28e7edfc5c59ccf648e77",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "e98bc2ec1085f4eb2de36663454af8830e29245fe722b47a56caaf3eecf476d2",
+      "submission" : 691,
+      "title" : "U.F.O. [ Extra Delay ]",
+      "url" : "https://www.dropbox.com/s/upfj82su6vtryj4/U.F.O.zip?dl=0",
+      "url_diff" : "https://web.archive.org/web/20200306165639/http://3228monsta.web.fc2.com/",
+      "voteNeutral" : 0,
+      "voteNo" : 3,
       "votePercent" : 0,
       "voteYes" : 0
    },

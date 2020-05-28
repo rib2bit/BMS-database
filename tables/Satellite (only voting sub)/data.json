@@ -266,6 +266,22 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Is-m BGA:ハマドメハマル",
+      "level" : "12",
+      "md5" : "5ae0afb8bcd94330254bd16612150fb8",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "670f815038d7abd076c021ec1b0f1d14a69315e73917c749caab7cda6c9a5548",
+      "submission" : 108,
+      "title" : "Anti Function -SP ANOTHER-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=120",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 10,
+      "votePercent" : 50,
+      "voteYes" : 10
+   },
+   {
       "artist" : "69 de 74 BGA:иоио",
       "comment" : "G2R2018, 2018Notes,  乱打",
       "level" : "3",
@@ -601,6 +617,22 @@
       "title" : "Conglomerate [ANOTHER]",
       "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=7",
       "url_diff" : ""
+   },
+   {
+      "artist" : "Is-m BGA:fity / Obj : Mary_Sue",
+      "level" : "8",
+      "md5" : "e884b4e8653a6d8c4ee05fe28b29b85e",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "2a4d307f77b3dc25b0a06668ea9d9df1627b798930fc60edfe59080342288778",
+      "submission" : 1320,
+      "title" : "comic magic [Farce]",
+      "url" : "http://www.is-m.jp/bms/song/em32.html",
+      "url_diff" : "https://www.dropbox.com/s/d1fpgvu0658n3m2/_32_14_MarySue_Farce.bme?dl=0",
+      "voteNeutral" : 1,
+      "voteNo" : 2,
+      "votePercent" : 77.2727272727273,
+      "voteYes" : 8
    },
    {
       "artist" : "toby fox Remixed by uet BGI : morph / obj : krg",
