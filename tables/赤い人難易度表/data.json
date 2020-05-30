@@ -1468,6 +1468,21 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/_koishi_virus5_INFERNO.bme"
    },
    {
+      "artist" : "立秋 feat.ちょこ/obj:赤い人",
+      "comment" : "",
+      "eval" : 0,
+      "level" : "9",
+      "md5" : "3ebff947be429e7bb194c70510290d1f",
+      "name_diff" : "右クリックで保存",
+      "name_pack" : null,
+      "state" : 1,
+      "tag" : null,
+      "title" : "プナイプナイげんそう〜５人の並行世界から来たてるやまたちが世界を救う！？　プナイプナイinワンダーランド〜 [HARDEST]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=249&amp;event=127&amp;ref=pc_watch_description",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/_punaipunai_genso_HARDEST.bms",
+      "url_pack" : null
+   },
+   {
       "artist" : "ginkiha",
       "comment" : "",
       "eval" : 0,
@@ -2179,6 +2194,21 @@
       "url_pack" : null
    },
    {
+      "artist" : "立秋 feat.ちょこ/obj:赤い人",
+      "comment" : "",
+      "eval" : 0,
+      "level" : "23",
+      "md5" : "5d499f1d4a563f5a3c98e037c39601d8",
+      "name_diff" : "右クリックで保存",
+      "name_pack" : null,
+      "state" : 1,
+      "tag" : null,
+      "title" : "プナイプナイげんそう〜５人の並行世界から来たてるやまたちが世界を救う！？　プナイプナイinワンダーランド〜 [INFERNO]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=249&amp;event=127&amp;ref=pc_watch_description",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/_punaipunai_genso_INFERNO.bms",
+      "url_pack" : null
+   },
+   {
       "artist" : "sasakure.∩K",
       "comment" : "",
       "eval" : 0,
@@ -2646,7 +2676,7 @@
       "md5" : "73cf122e78dec318136399c71936cc58",
       "name_diff" : "右クリックで保存",
       "name_pack" : null,
-      "state" : 1,
+      "state" : 0,
       "tag" : null,
       "title" : "翼の折れた天使たちのレクイエム [HARDEST]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=3&amp;event=123",
@@ -3037,13 +3067,18 @@
    {
       "artist" : "daisan ",
       "comment" : "",
+      "eval" : 0,
       "level" : "12",
       "lr2_bmsid" : 177707,
       "md5" : "86eb7c34cc719ab728096f54194e9eeb",
       "name_diff" : "右クリック保存",
+      "name_pack" : null,
+      "state" : 0,
+      "tag" : null,
       "title" : "ClowN CrowN [HARDEST]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=89",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/CLCR_HARDEST.bms"
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/CLCR_HARDEST.bms",
+      "url_pack" : null
    },
    {
       "artist" : "黄泉路テヂーモ / 差分 赤い人 BGA:鑓田",
@@ -4833,7 +4868,7 @@
       "md5" : "d05b069006aae6989ccb5ab4fafe9982",
       "name_diff" : "右クリックで保存",
       "name_pack" : null,
-      "state" : 1,
+      "state" : 0,
       "tag" : null,
       "title" : "翼の折れた天使たちのレクイエム [HARD]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=3&amp;event=123",
