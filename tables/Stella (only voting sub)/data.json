@@ -1,30 +1,29 @@
 [
    {
-      "artist" : "Xakyo / obj : LindBlum",
-      "comment" : "BPM 177 微縦 (SPA基準ズレなし)",
-      "level" : "4",
-      "md5" : "0138e1e77097d347c3d53265e9e4d8ca",
-      "proposer" : "SHAX.",
-      "proposerLr2id" : 65624,
-      "sha256" : "b4b9aaeccc702193a9674917d363724ae40569b96082f2bf85922275a6eb2e54",
-      "submission" : 1132,
-      "title" : "ROCKET KID [RE:LOAD]",
-      "url" : "http://dropbox.bms.ms/u/63612044/ROCKET%20KID_bms.rar",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03393"
+      "artist" : "しらいし / 32 / obj:firi.",
+      "comment" : "ディレイ差分(st0の強化版)",
+      "level" : "8",
+      "md5" : "054f1cac1a60185013605e3d06612ed8",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "6f9537e47f3853138c039da9d2c65dcd73161d646ead3597708c82358077a41e",
+      "submission" : 1158,
+      "title" : "超絶速鍵練習曲第一番「銀世界」 [DELAY-GOD]",
+      "url" : "https://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21208",
+      "url_diff" : "http://absolute.pv.land.to/uploader/src/up4076.zip"
    },
    {
-      "artist" : "HyuN obj:七海",
-      "comment" : "8分同時押しと16分物量",
-      "level" : "2",
-      "md5" : "087f77e584f4d0e3cca833e4a868ab19",
-      "proposer" : "氷城つるぎ",
-      "proposerLr2id" : 151185,
-      "sha256" : "78bb67cd838086cdf6ef71c219a45abcbd3f3b2c18f53908ee844a7067e12f11",
-      "submission" : 1147,
-      "title" : "Disorder -Despair-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=123",
-      "url_diff" : "https://www.dropbox.com/s/b6ewxj4za9ozruc/disorder.zip?dl=1",
-      "zureCount" : 0
+      "artist" : "ETIA. obj.mn",
+      "comment" : "Maximum",
+      "level" : "9",
+      "md5" : "0f43891f8000436eff6d7cfee3527094",
+      "proposer" : "MEES-♬",
+      "proposerLr2id" : 39693,
+      "sha256" : "5e293942805363e2e56056aaef3d54be8192368b0a9b653e0119f751b499db05",
+      "submission" : 1156,
+      "title" : "HARDCORE MACHINEGUN [maximum]",
+      "url" : "https://web.archive.org/web/20130820214520/http://3t1a.net/bms/etia_hardcore_machinegun_ogg.zip",
+      "url_diff" : "https://drive.google.com/file/d/1fAqS2lmghmuqyFaX5WHwPxZpKyWrgbnm/view?usp=sharing"
    },
    {
       "artist" : "Arch movie:Roaring Flame obj:Guanacoite",
@@ -39,6 +38,22 @@
       "url" : "https://dropbox.bms.ms/u/59482273/arch_avoltex_ogg.zip",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04342",
       "zureCount" : 0
+   },
+   {
+      "artist" : "ておくれ(.gate) / UnK-now/37X",
+      "level" : "5",
+      "md5" : "14555e1fc4e22f66bd9c05bff3d6fb18",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "cf464cb209a8428ee33737b9753645fab5009ea2c1f0373f6acfafb0db6d4885",
+      "submission" : 258,
+      "title" : "ディレイ鎮守府 母港のテーマ",
+      "url" : "https://onedrive.live.com/?authkey=%21AHVb22I2pnUZK1g&id=CE038C7E1045ACD3%21173&cid=CE038C7E1045ACD3",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 4,
+      "votePercent" : 0,
+      "voteYes" : 0
    },
    {
       "artist" : "ATEMAK / obj:GN",
@@ -70,17 +85,17 @@
       "url_diff" : ""
    },
    {
-      "artist" : "SHANG0 obj:zowni",
-      "comment" : "st0~1? ガチ押し",
-      "level" : "1",
-      "md5" : "38490fdc959ecfb13d943e1cc7cc7aaf",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "eb4a2f087c2942748e1a414de481a8feb8881401c4330bd821f08b98a0109924",
-      "submission" : 1149,
-      "title" : "Lovers, [Hoppers,]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=290&event=74",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04344",
+      "artist" : "anubasu-anubasu / obj:七海 BGA by 出前",
+      "comment" : "皿多いけど良い差分",
+      "level" : "0",
+      "md5" : "4fad2befab26e842e125e69e385acc17",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "72fb924012b80744232148b423dfc3de822f4bd7add6d6ede77d9a88b34d2001",
+      "submission" : 1159,
+      "title" : "Jack o' Lantern -Despair-",
+      "url" : "http://bmssearch.net/bms?id=5163",
+      "url_diff" : "https://www.dropbox.com/s/hazuu5ce5p93mul/jacko_fix.zip?dl=1",
       "zureCount" : 0
    },
    {
@@ -100,17 +115,18 @@
       "voteYes" : 0
    },
    {
-      "artist" : "SP-# obj:sak",
-      "comment" : "常人向け音頭",
-      "level" : "5",
-      "md5" : "6b6ad39ebec015a0113a7eb6a402a619",
-      "proposer" : "氷城つるぎ",
-      "proposerLr2id" : 151185,
-      "sha256" : "1fb4d0c6aaedfc4aa925797262107a76da3063713844c006a22da33699b682fd",
-      "submission" : 1148,
-      "title" : "tinnitus音頭 体験版",
-      "url" : "https://drive.google.com/drive/folders/1V11aBH7c6vZZ38XNFpefpHSw4EKYzF61",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01305"
+      "artist" : "TEKINA / obj:夢瑠",
+      "comment" : "BGA GIRL KAWAII",
+      "level" : "2",
+      "md5" : "6d414db9614a750bbb097c2f8661723e",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "6572be916f40cb152ddc4359c24664b80c17b159e66125ce52ef1fce17f56b6f",
+      "submission" : 1154,
+      "title" : "地下街",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/%e5%9c%b0%e4%b8%8b%e8%a1%97%20%28by%20TEKINA%29.rar",
+      "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
+      "zureCount" : 0
    },
    {
       "artist" : "Neun_jack mov:squidboy/obj:Mary_Sue",
@@ -126,17 +142,17 @@
       "url_diff" : "https://stellabms.xyz/upload/82"
    },
    {
-      "artist" : "TOMA / obj:MineC24",
-      "comment" : "Anzutool基準キー音ズレ無し",
-      "level" : "0",
-      "md5" : "88c4a60a4be94dd73169ea8f6fc3c7f0",
-      "proposer" : "MarySue",
-      "proposerLr2id" : 147889,
-      "sha256" : "2e2b87392b1ee4f02cfd677d959c7e7266af1cb4a660872e796cb34bc66590b5",
-      "submission" : 1151,
-      "title" : "DANCE & (wish me a) MERRY CHRISTMAS! -Nightmare of CHRISTMAS-",
-      "url" : "http://sunaneko.iptime.org/BMS_Library/DANCE%20%26%20%28wish%20me%20a%29%20MERRY%20CHRISTMAS%21%20%28by%20TOMA%29.rar",
-      "url_diff" : "https://www.dropbox.com/s/d596wvfwcdd2zfk/dmc_egs%28fix%29.zip?dl=1"
+      "artist" : "SP-#",
+      "comment" : "同梱, st0~1?",
+      "level" : "1",
+      "md5" : "931f56544fef6980fcc099219bd5ccad",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "6773b8950645d5faaa07eac471c1d8767f2a1ef96ade0b072a85479102021c83",
+      "submission" : 1157,
+      "title" : "Epsilon Wave [SP black another]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/Epsilon%20Wave%20%28by%20SP-%23%29.rar",
+      "url_diff" : ""
    },
    {
       "artist" : "judithz / И",
@@ -155,35 +171,6 @@
       "voteYes" : 4
    },
    {
-      "artist" : "ZUN RMX By 44teru-k / obj:夢瑠",
-      "level" : "6",
-      "md5" : "99bacb3c81efb069023beaaf3fb14b94",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "a76e8b0e7ffd94fe5c00c717af98ff43f93ceaf1721508a2e9c678d4ad069ecf",
-      "submission" : 70,
-      "title" : "ハルトマンの妖怪少女～VirusⅤ [id]",
-      "url" : "http://creation-records.info/bms.htm",
-      "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 2
-   },
-   {
-      "artist" : "KAH BGA:自動車 原付 illust:りゅうら obj:LuvTek",
-      "level" : "1",
-      "md5" : "9df6c993453aae1bc08b5272c15bf436",
-      "proposer" : "MarySue",
-      "proposerLr2id" : 147889,
-      "sha256" : "936ddc1ad51f092d6e41a943c8e6eb818cda0b80e9424488851b08ce18c02a98",
-      "submission" : 1145,
-      "title" : "boxiv! on! fight! [or! flight!]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=114&event=127",
-      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
-      "zureCount" : 0
-   },
-   {
       "artist" : "LeaF Movie:Optie&Fiz/obj:赤い人",
       "level" : "3",
       "md5" : "ac206b2a1f8d63da94660078855977ab",
@@ -198,33 +185,6 @@
       "voteNo" : 3,
       "votePercent" : 57.1428571428571,
       "voteYes" : 4
-   },
-   {
-      "artist" : "momo★yama　(BGA:アカツキユウ) obj. BK",
-      "comment" : "st0~1? delay. (maybe no misalignment)",
-      "level" : "1",
-      "md5" : "ad5917cc6e4c4c681cfc2e91620e3eb8",
-      "proposer" : "chouco",
-      "proposerLr2id" : 158333,
-      "sha256" : "4ce5369f25adba7ce8ff77a7fc935225532d377c0009ac4428b5243e1cdbe2b3",
-      "submission" : 1143,
-      "title" : "JUMMER -Delayed-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=103",
-      "url_diff" : "http://beatkim.web.fc2.com/insane.html"
-   },
-   {
-      "artist" : "猫の人/obj.はしたかさん",
-      "comment" : "2?",
-      "level" : "2",
-      "md5" : "b7cf7363d6722d7c2a216a5aed650599",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "a44e41efef6d7a7c5751e5bc5a66fe57729347b852e22a203b374934fcde407c",
-      "submission" : 1150,
-      "title" : "空飛ぶニワトリ [Fried Chicken]",
-      "url" : "https://web.archive.org/web/20060222032645/http://page.freett.com/nekonohito/niwa2.htm",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04332",
-      "zureCount" : 0
    },
    {
       "artist" : "犬 / obj:Monsta",
@@ -243,6 +203,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "翡乃イスカ obj : BAECON",
+      "comment" : "st2-3 高速物量・皿複合",
+      "level" : "2",
+      "md5" : "bb353d5079ada6a9d0e9a90964a11ee0",
+      "proposer" : "otoshi.b",
+      "proposerLr2id" : 87474,
+      "sha256" : "a553a6b30a15a2435c965a611cd38dac75fad4f1badd434ec5cf83fa03c9694f",
+      "submission" : 1155,
+      "title" : "#be_fortunate [unfortunate]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=387&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04366",
+      "zureCount" : 0
+   },
+   {
       "artist" : "uet vs Neun_jack / mov:Roaring Flame / obj:Monsta",
       "level" : "8",
       "md5" : "ca25633fa0b28e7edfc5c59ccf648e77",
@@ -259,20 +233,6 @@
       "voteYes" : 0
    },
    {
-      "artist" : "ProjectG / И",
-      "comment" : "BPM 166 物量的縦連",
-      "level" : "4",
-      "md5" : "ca302b07ae249b6c2ddaff06f403fc43",
-      "proposer" : "SHAX.",
-      "proposerLr2id" : 65624,
-      "sha256" : "f9f68813390c004f7e223d2280b6aefd7b524c417e881c548207224dbf05d294",
-      "submission" : 1142,
-      "title" : "Midnight Flux [Night Sky]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=259&event=127",
-      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
-      "zureCount" : 0
-   },
-   {
       "artist" : "あとぅす / obj:Rian",
       "comment" : "BPM155 縦連",
       "level" : "2",
@@ -284,20 +244,6 @@
       "title" : "Crossion [X-TREME]",
       "url" : "https://event.yaruki0.net/VSevent/impression/24",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03017",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "LV.4 かに",
-      "comment" : "st1?",
-      "level" : "1",
-      "md5" : "dfa03b5772241cbec0945ebc7a41b964",
-      "proposer" : "chouco",
-      "proposerLr2id" : 158333,
-      "sha256" : "b2d8ec4508b424c7292d43929a221f2c6a3a0dad5dea68318bba6c70c971ca67",
-      "submission" : 1144,
-      "title" : "Angel dust -C17H25N-",
-      "url" : "https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
-      "url_diff" : "http://kanisabun.gozaru.jp/index.html",
       "zureCount" : 0
    },
    {

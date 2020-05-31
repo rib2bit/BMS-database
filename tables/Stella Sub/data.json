@@ -267,6 +267,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "しらいし / 32 / obj:firi.",
+      "comment" : "ディレイ差分(st0の強化版)",
+      "level" : "8",
+      "md5" : "054f1cac1a60185013605e3d06612ed8",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "6f9537e47f3853138c039da9d2c65dcd73161d646ead3597708c82358077a41e",
+      "submission" : 1158,
+      "title" : "超絶速鍵練習曲第一番「銀世界」 [DELAY-GOD]",
+      "url" : "https://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21208",
+      "url_diff" : "http://absolute.pv.land.to/uploader/src/up4076.zip"
+   },
+   {
       "artist" : "がむつ氏 + けえ氏/さ (a.k.a. witch's slave)",
       "level" : "1",
       "md5" : "058166279df278ff728ff04067a83aa3",
@@ -904,6 +917,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "ETIA. obj.mn",
+      "comment" : "Maximum",
+      "level" : "9",
+      "md5" : "0f43891f8000436eff6d7cfee3527094",
+      "proposer" : "MEES-♬",
+      "proposerLr2id" : 39693,
+      "sha256" : "5e293942805363e2e56056aaef3d54be8192368b0a9b653e0119f751b499db05",
+      "submission" : 1156,
+      "title" : "HARDCORE MACHINEGUN [maximum]",
+      "url" : "https://web.archive.org/web/20130820214520/http://3t1a.net/bms/etia_hardcore_machinegun_ogg.zip",
+      "url_diff" : "https://drive.google.com/file/d/1fAqS2lmghmuqyFaX5WHwPxZpKyWrgbnm/view?usp=sharing"
+   },
+   {
       "artist" : "紅蓮月影 obj.m BGA:A-ZERO Project",
       "comment" : "微縦連とズレ",
       "level" : "10",
@@ -945,7 +971,7 @@
    {
       "artist" : "kurenaissance / obj:夢瑠",
       "comment" : "",
-      "level" : "2",
+      "level" : "3",
       "md5" : "0fc81033a391b48872b689ce0836e24e",
       "proposer" : "firi.",
       "sha256" : "c4d5d04db1b3a5a11112e27ebbbe0b5cd9b398bef7658f9b8ae352460109ad11",
@@ -978,21 +1004,6 @@
       "title" : "Lu*nya*cy Act 2017 [Lunatic]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=379&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01229",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
-      "artist" : "xi / air / Ds",
-      "comment" : "FDFD強 9上位か10下位か微妙かも",
-      "level" : "9",
-      "md5" : "0fec4ef0a473d0a888f63be79a90b001",
-      "proposer" : "sepe",
-      "sha256" : "3c6a8856d7a7ca4a2a0526e1908cd0a91f1a343e128d0f31f9e848abcd0910b0",
-      "submission" : 266,
-      "title" : "FREEDOM DiVE [FOUR DIMENSIONS:PRO]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=50",
-      "url_diff" : "http://sagena.harisen.jp/",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -1805,7 +1816,7 @@
    },
    {
       "artist" : "daisan /差分 赤い人",
-      "level" : "0",
+      "level" : "1",
       "md5" : "1f7bf846bd8b68b2ad8edc28df1c0b34",
       "proposer" : "椒図",
       "proposerLr2id" : 124809,
@@ -2066,7 +2077,7 @@
    },
    {
       "artist" : "Yu^ta feat. みずにんじん",
-      "level" : "4",
+      "level" : "3",
       "md5" : "23356bb3d1a9c39e5440d1ff9f2763b4",
       "proposer" : "파이어",
       "proposerLr2id" : 7290,
@@ -2912,22 +2923,6 @@
       "title" : "FUTURE 1999 [2299.06.15]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=56&event=120",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01849",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
-      "artist" : "ねこみみ魔法使い for 御庭つみき / obj:Ds BGA:石王マサト",
-      "comment" : "つみきちゃんかわいい",
-      "level" : "1",
-      "md5" : "2fe8436c6c2c1f17d2accc9b80242951",
-      "proposer" : "MEES-♬",
-      "proposerLr2id" : 39693,
-      "sha256" : "99a10675fae4c49315b4585f3628a24c6abee8ee5591cd499f22ce8923c3e5eb",
-      "submission" : 598,
-      "title" : "弦月の猫 [S_EX]",
-      "url" : "http://necoco.2-d.jp/",
-      "url_diff" : "http://sagena.harisen.jp/",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -5239,6 +5234,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "anubasu-anubasu / obj:七海 BGA by 出前",
+      "comment" : "皿多いけど良い差分",
+      "level" : "0",
+      "md5" : "4fad2befab26e842e125e69e385acc17",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "72fb924012b80744232148b423dfc3de822f4bd7add6d6ede77d9a88b34d2001",
+      "submission" : 1159,
+      "title" : "Jack o' Lantern -Despair-",
+      "url" : "http://bmssearch.net/bms?id=5163",
+      "url_diff" : "https://www.dropbox.com/s/hazuu5ce5p93mul/jacko_fix.zip?dl=1",
+      "zureCount" : 0
+   },
+   {
       "artist" : "sasakure.UK / obj. laner",
       "comment" : "i'm feeling...(kachifushi)",
       "level" : "2",
@@ -7220,6 +7229,20 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00763"
    },
    {
+      "artist" : "TEKINA / obj:夢瑠",
+      "comment" : "BGA GIRL KAWAII",
+      "level" : "2",
+      "md5" : "6d414db9614a750bbb097c2f8661723e",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "6572be916f40cb152ddc4359c24664b80c17b159e66125ce52ef1fce17f56b6f",
+      "submission" : 1154,
+      "title" : "地下街",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/%e5%9c%b0%e4%b8%8b%e8%a1%97%20%28by%20TEKINA%29.rar",
+      "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "SHK/さ",
       "comment" : "ガチ押し",
       "level" : "1",
@@ -8941,7 +8964,7 @@
    {
       "artist" : "dj sept-em obj:VINYL",
       "comment" : "lastkill kachifushi",
-      "level" : "5",
+      "level" : "6",
       "md5" : "8ac6b285c4d9ca7f712698f086728b62",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,
@@ -9262,19 +9285,6 @@
       "url_diff" : "https://web.archive.org/web/20190322230138/http://www.hyper-laner.com/sabun/all201807_laner.rar"
    },
    {
-      "artist" : "橘花音 かなえゆめ composed by nmk Illustration:かぜっと / obj. Elsa de la Bibliotheque",
-      "comment" : "st2~3? ディレイ",
-      "level" : "2",
-      "md5" : "8eea328148fa1ad7a1bfea6ee7399e4f",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "f3adaf524171793dfd56672461477d30286febb42245c4ae6337cdcbf710a8b2",
-      "submission" : 1084,
-      "title" : "図書室のエルザ [Elsa de la Bibliotheque]",
-      "url" : "http://tosyosituno-elsa.tumblr.com/",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03972"
-   },
-   {
       "artist" : "哀愁マニア",
       "comment" : "★★5",
       "level" : "8",
@@ -9542,6 +9552,19 @@
       "title" : "ヒメタイプ (おに)",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=96",
       "url_diff" : "http://absolute.pv.land.to/bof/upload.html"
+   },
+   {
+      "artist" : "SP-#",
+      "comment" : "同梱, st0~1?",
+      "level" : "1",
+      "md5" : "931f56544fef6980fcc099219bd5ccad",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "6773b8950645d5faaa07eac471c1d8767f2a1ef96ade0b072a85479102021c83",
+      "submission" : 1157,
+      "title" : "Epsilon Wave [SP black another]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/Epsilon%20Wave%20%28by%20SP-%23%29.rar",
+      "url_diff" : ""
    },
    {
       "artist" : "Fl00t mov:task228 / obj:LuvTek",
@@ -12141,7 +12164,7 @@
    {
       "artist" : "猫蟹丸(obj.WAS)",
       "comment" : "地力",
-      "level" : "3",
+      "level" : "4",
       "md5" : "bb1f191526ff2ae97fdf274ca33873b8",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,
@@ -12153,6 +12176,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "翡乃イスカ obj : BAECON",
+      "comment" : "st2-3 高速物量・皿複合",
+      "level" : "2",
+      "md5" : "bb353d5079ada6a9d0e9a90964a11ee0",
+      "proposer" : "otoshi.b",
+      "proposerLr2id" : 87474,
+      "sha256" : "a553a6b30a15a2435c965a611cd38dac75fad4f1badd434ec5cf83fa03c9694f",
+      "submission" : 1155,
+      "title" : "#be_fortunate [unfortunate]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=387&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04366",
+      "zureCount" : 0
    },
    {
       "artist" : "Irish Kappa / selene. BGA: Rinser",
@@ -12317,7 +12354,7 @@
    {
       "artist" : "sak feat.みゅい Movie: げ～むばか Illust: 球根 obj: BAECON",
       "comment" : "Desperate never ends",
-      "level" : "6",
+      "level" : "5",
       "md5" : "bda605e76d263c8fd5d62ab4c5dfc3e1",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -14188,21 +14225,6 @@
       "voteYes" : 0
    },
    {
-      "artist" : "HARD RENAISSAMBA MASTER 佐藤 -SATOH-",
-      "comment" : "総合難　同梱譜面",
-      "level" : "8",
-      "md5" : "d9ef7046e967310fbeeaaf4911acc1b7",
-      "proposer" : "APRICOT",
-      "sha256" : "80302e6aa610fffd7344a4b520e6f243f512ad4762675721f70158c4fe1e6076",
-      "submission" : 116,
-      "title" : "ハードルネッサンバ -LAST BOSS-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=409&event=104",
-      "url_diff" : "",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
       "artist" : "6yen // BGA : SonicPulse /obj.D-BLUE",
       "comment" : "総合力　途中まで低速",
       "level" : "2",
@@ -14375,7 +14397,7 @@
    {
       "artist" : "黒皇帝 Movie: 6XeNoN9",
       "comment" : "0~1?",
-      "level" : "0",
+      "level" : "1",
       "md5" : "dc4bdb6b64a7147541f195079cc33cd5",
       "proposer" : "MineC24",
       "proposerLr2id" : 84597,
@@ -14559,21 +14581,6 @@
       "title" : "斬 -妖刀虎竹刀-",
       "url" : "https://onedrive.live.com/?id=60D643BF1F28C41F%21132&cid=60D643BF1F28C41F",
       "url_diff" : "https://web.archive.org/web/20190101181258/http://sabosabun.tank.jp/"
-   },
-   {
-      "artist" : "DJKurara & 九八式旋回機関銃 & Kyou1110",
-      "comment" : "lolicore 真ん中に超発狂降ってきて最後回復できる奴",
-      "level" : "9",
-      "md5" : "e030b55943d450c35e8ed5db9fa7aeb7",
-      "proposer" : "onmaco",
-      "sha256" : "8939b009bb6d425c57e92488f602924c2158039b999895c29448b1b4c930d9d5",
-      "submission" : 429,
-      "title" : "エモ幼女爆発四散",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=474&event=110",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01230",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
    },
    {
       "artist" : "sasakure.UK m / Omino",
@@ -14765,22 +14772,6 @@
       "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/12/",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02578",
       "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
-      "artist" : "DJ TAKUAN 及び 佐倉アヤキ 　及　び obj:BAECON",
-      "comment" : "kachifushi",
-      "level" : "8",
-      "md5" : "e313f2cacd75e39b45e61f439ede55a7",
-      "proposer" : "LUXURY♪",
-      "proposerLr2id" : 23110,
-      "sha256" : "afe26027092d5a63c0856e037db386c7e0b3616dd42fd3d31297ecf579c5485a",
-      "submission" : 550,
-      "title" : "ゴリ姫",
-      "url" : "http://llllllllllll.sakura.ne.jp/djtakuan/",
-      "url_diff" : "http://akred.web.fc2.com/baecon/gorihime.bms",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0

@@ -258,6 +258,18 @@
       "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/"
    },
    {
+      "artist" : "HyuN obj:七海",
+      "comment" : "8分同時押しと16分物量",
+      "level" : "2",
+      "md5" : "087f77e584f4d0e3cca833e4a868ab19",
+      "proposer" : "氷城つるぎ",
+      "sha256" : "78bb67cd838086cdf6ef71c219a45abcbd3f3b2c18f53908ee844a7067e12f11",
+      "submission" : 1147,
+      "title" : "Disorder -Despair-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=123",
+      "url_diff" : "https://www.dropbox.com/s/b6ewxj4za9ozruc/disorder.zip?dl=1"
+   },
+   {
       "artist" : "keyc / Ds",
       "comment" : "↓joy",
       "level" : "5",
@@ -515,7 +527,7 @@
    {
       "artist" : "kurenaissance / obj:夢瑠",
       "comment" : "",
-      "level" : "2",
+      "level" : "3",
       "md5" : "0fc81033a391b48872b689ce0836e24e",
       "proposer" : "firi.",
       "sha256" : "c4d5d04db1b3a5a11112e27ebbbe0b5cd9b398bef7658f9b8ae352460109ad11",
@@ -547,18 +559,6 @@
       "title" : "Lu*nya*cy Act 2017 [Lunatic]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=379&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01229"
-   },
-   {
-      "artist" : "xi / air / Ds",
-      "comment" : "FDFD強 9上位か10下位か微妙かも",
-      "level" : "9",
-      "md5" : "0fec4ef0a473d0a888f63be79a90b001",
-      "proposer" : "sepe",
-      "sha256" : "3c6a8856d7a7ca4a2a0526e1908cd0a91f1a343e128d0f31f9e848abcd0910b0",
-      "submission" : 266,
-      "title" : "FREEDOM DiVE [FOUR DIMENSIONS:PRO]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=50",
-      "url_diff" : "http://sagena.harisen.jp/"
    },
    {
       "artist" : "ridis /obj. laner",
@@ -1071,7 +1071,7 @@
    },
    {
       "artist" : "daisan /差分 赤い人",
-      "level" : "0",
+      "level" : "1",
       "md5" : "1f7bf846bd8b68b2ad8edc28df1c0b34",
       "proposer" : "椒図",
       "sha256" : "5938faaf026b51d51743018cdefde4635ce8971961e44e8b9c61e20ce81f2fa7",
@@ -1240,7 +1240,7 @@
    },
    {
       "artist" : "Yu^ta feat. みずにんじん",
-      "level" : "4",
+      "level" : "3",
       "md5" : "23356bb3d1a9c39e5440d1ff9f2763b4",
       "proposer" : "파이어",
       "proposerLr2id" : 7290,
@@ -1724,19 +1724,6 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01849"
    },
    {
-      "artist" : "ねこみみ魔法使い for 御庭つみき / obj:Ds BGA:石王マサト",
-      "comment" : "つみきちゃんかわいい",
-      "level" : "1",
-      "md5" : "2fe8436c6c2c1f17d2accc9b80242951",
-      "proposer" : "MEES-♬",
-      "proposerLr2id" : 39693,
-      "sha256" : "99a10675fae4c49315b4585f3628a24c6abee8ee5591cd499f22ce8923c3e5eb",
-      "submission" : 598,
-      "title" : "弦月の猫 [S_EX]",
-      "url" : "http://necoco.2-d.jp/",
-      "url_diff" : "http://sagena.harisen.jp/"
-   },
-   {
       "artist" : "nitro / obj:mezna",
       "comment" : "st7-8 ディレイ",
       "level" : "9",
@@ -2029,6 +2016,18 @@
       "title" : "saucy plume [yumether]",
       "url" : "http://onedrive.live.com/?cid=e6c08c2d3413101e&sc=documents&uc=1&nl=1&id=E6C08C2D3413101E%21255",
       "url_diff" : "http://yumerusabun.web.fc2.com/nue.html"
+   },
+   {
+      "artist" : "SHANG0 obj:zowni",
+      "comment" : "st0~1? ガチ押し",
+      "level" : "1",
+      "md5" : "38490fdc959ecfb13d943e1cc7cc7aaf",
+      "proposer" : "MineC24",
+      "sha256" : "eb4a2f087c2942748e1a414de481a8feb8881401c4330bd821f08b98a0109924",
+      "submission" : 1149,
+      "title" : "Lovers, [Hoppers,]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=290&event=74",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04344"
    },
    {
       "artist" : "Caerula",
@@ -5152,6 +5151,18 @@
       "url_diff" : "https://bmscharteditorsgroup.wixsite.com/initialatoz"
    },
    {
+      "artist" : "TOMA / obj:MineC24",
+      "comment" : "Anzutool基準キー音ズレ無し",
+      "level" : "0",
+      "md5" : "88c4a60a4be94dd73169ea8f6fc3c7f0",
+      "proposer" : "MarySue",
+      "sha256" : "2e2b87392b1ee4f02cfd677d959c7e7266af1cb4a660872e796cb34bc66590b5",
+      "submission" : 1151,
+      "title" : "DANCE & (wish me a) MERRY CHRISTMAS! -Nightmare of CHRISTMAS-",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/DANCE%20%26%20%28wish%20me%20a%29%20MERRY%20CHRISTMAS%21%20%28by%20TOMA%29.rar",
+      "url_diff" : "https://www.dropbox.com/s/d596wvfwcdd2zfk/dmc_egs%28fix%29.zip?dl=1"
+   },
+   {
       "artist" : "taqumi obj:ringo BGA:kkkfff2",
       "comment" : "横に広めのガチ押し st6~7?  IR備考参照",
       "level" : "6",
@@ -5287,7 +5298,7 @@
    {
       "artist" : "dj sept-em obj:VINYL",
       "comment" : "lastkill kachifushi",
-      "level" : "5",
+      "level" : "6",
       "md5" : "8ac6b285c4d9ca7f712698f086728b62",
       "proposer" : "LUXURY♪",
       "sha256" : "1d95d29b5a38fd3266a04940ff3347246a033b724300651b609959cf1cefaac3",
@@ -5513,18 +5524,6 @@
       "title" : "stairway to the universe [laner]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=50&event=96",
       "url_diff" : "https://web.archive.org/web/20190322230138/http://www.hyper-laner.com/sabun/all201807_laner.rar"
-   },
-   {
-      "artist" : "橘花音 かなえゆめ composed by nmk Illustration:かぜっと / obj. Elsa de la Bibliotheque",
-      "comment" : "st2~3? ディレイ",
-      "level" : "2",
-      "md5" : "8eea328148fa1ad7a1bfea6ee7399e4f",
-      "proposer" : "MineC24",
-      "sha256" : "f3adaf524171793dfd56672461477d30286febb42245c4ae6337cdcbf710a8b2",
-      "submission" : 1084,
-      "title" : "図書室のエルザ [Elsa de la Bibliotheque]",
-      "url" : "http://tosyosituno-elsa.tumblr.com/",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03972"
    },
    {
       "artist" : "哀愁マニア",
@@ -6065,6 +6064,17 @@
       "url_diff" : "https://drive.google.com/file/d/1UkCRWzg6AJEqG0KnlXfifsWl_oux1fdx/view?usp=drive_open"
    },
    {
+      "artist" : "KAH BGA:自動車 原付 illust:りゅうら obj:LuvTek",
+      "level" : "1",
+      "md5" : "9df6c993453aae1bc08b5272c15bf436",
+      "proposer" : "MarySue",
+      "sha256" : "936ddc1ad51f092d6e41a943c8e6eb818cda0b80e9424488851b08ce18c02a98",
+      "submission" : 1145,
+      "title" : "boxiv! on! fight! [or! flight!]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=114&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
+   },
+   {
       "artist" : "佐久丸(sak vs wumalutsufuri) obj:sak",
       "comment" : "st4の強化版",
       "level" : "8",
@@ -6590,6 +6600,18 @@
       "title" : "午後のこいしちゃん [EX]",
       "url" : "http://yaruki0.sakura.ne.jp/event/ondanyugi5/impression.cgi?no=5",
       "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/"
+   },
+   {
+      "artist" : "momo★yama　(BGA:アカツキユウ) obj. BK",
+      "comment" : "st0~1? delay. (maybe no misalignment)",
+      "level" : "1",
+      "md5" : "ad5917cc6e4c4c681cfc2e91620e3eb8",
+      "proposer" : "chouco",
+      "sha256" : "4ce5369f25adba7ce8ff77a7fc935225532d377c0009ac4428b5243e1cdbe2b3",
+      "submission" : 1143,
+      "title" : "JUMMER -Delayed-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=103",
+      "url_diff" : "http://beatkim.web.fc2.com/insane.html"
    },
    {
       "artist" : "chocolate max obj:otoshi.b",
@@ -7119,7 +7141,7 @@
    {
       "artist" : "猫蟹丸(obj.WAS)",
       "comment" : "地力",
-      "level" : "3",
+      "level" : "4",
       "md5" : "bb1f191526ff2ae97fdf274ca33873b8",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,
@@ -7230,7 +7252,7 @@
    {
       "artist" : "sak feat.みゅい Movie: げ～むばか Illust: 球根 obj: BAECON",
       "comment" : "Desperate never ends",
-      "level" : "6",
+      "level" : "5",
       "md5" : "bda605e76d263c8fd5d62ab4c5dfc3e1",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -7643,6 +7665,18 @@
       "title" : "aballava (???????)",
       "url" : "http://onedrive.live.com/?cid=43C7447B3E45559B&id=43C7447B3E45559B%21105",
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
+   },
+   {
+      "artist" : "ProjectG / И",
+      "comment" : "BPM 166 物量的縦連",
+      "level" : "4",
+      "md5" : "ca302b07ae249b6c2ddaff06f403fc43",
+      "proposer" : "SHAX.",
+      "sha256" : "f9f68813390c004f7e223d2280b6aefd7b524c417e881c548207224dbf05d294",
+      "submission" : 1142,
+      "title" : "Midnight Flux [Night Sky]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=259&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
    },
    {
       "artist" : "SP-# obj:C4+七海千秋",
@@ -8318,18 +8352,6 @@
       "url_diff" : "http://swamelo.web.fc2.com/BD_sls.bms"
    },
    {
-      "artist" : "HARD RENAISSAMBA MASTER 佐藤 -SATOH-",
-      "comment" : "総合難　同梱譜面",
-      "level" : "8",
-      "md5" : "d9ef7046e967310fbeeaaf4911acc1b7",
-      "proposer" : "APRICOT",
-      "sha256" : "80302e6aa610fffd7344a4b520e6f243f512ad4762675721f70158c4fe1e6076",
-      "submission" : 116,
-      "title" : "ハードルネッサンバ -LAST BOSS-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=409&event=104",
-      "url_diff" : ""
-   },
-   {
       "artist" : "しらいし obj:C4",
       "comment" : "st3~4",
       "level" : "4",
@@ -8452,7 +8474,7 @@
    {
       "artist" : "黒皇帝 Movie: 6XeNoN9",
       "comment" : "0~1?",
-      "level" : "0",
+      "level" : "1",
       "md5" : "dc4bdb6b64a7147541f195079cc33cd5",
       "proposer" : "MineC24",
       "sha256" : "9e900fb4a9a0da1c20304848371d06a44d0ccb9172d521f766959a46649e1497",
@@ -8547,16 +8569,16 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01389"
    },
    {
-      "artist" : "DJKurara & 九八式旋回機関銃 & Kyou1110",
-      "comment" : "lolicore 真ん中に超発狂降ってきて最後回復できる奴",
-      "level" : "9",
-      "md5" : "e030b55943d450c35e8ed5db9fa7aeb7",
-      "proposer" : "onmaco",
-      "sha256" : "8939b009bb6d425c57e92488f602924c2158039b999895c29448b1b4c930d9d5",
-      "submission" : 429,
-      "title" : "エモ幼女爆発四散",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=474&event=110",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01230"
+      "artist" : "LV.4 かに",
+      "comment" : "st1?",
+      "level" : "1",
+      "md5" : "dfa03b5772241cbec0945ebc7a41b964",
+      "proposer" : "chouco",
+      "sha256" : "b2d8ec4508b424c7292d43929a221f2c6a3a0dad5dea68318bba6c70c971ca67",
+      "submission" : 1144,
+      "title" : "Angel dust -C17H25N-",
+      "url" : "https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
+      "url_diff" : "http://kanisabun.gozaru.jp/index.html"
    },
    {
       "artist" : "sasakure.UK m / Omino",
@@ -8680,19 +8702,6 @@
       "title" : "ブラーブルー [Other]",
       "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/12/",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02578"
-   },
-   {
-      "artist" : "DJ TAKUAN 及び 佐倉アヤキ 　及　び obj:BAECON",
-      "comment" : "kachifushi",
-      "level" : "8",
-      "md5" : "e313f2cacd75e39b45e61f439ede55a7",
-      "proposer" : "LUXURY♪",
-      "proposerLr2id" : 23110,
-      "sha256" : "afe26027092d5a63c0856e037db386c7e0b3616dd42fd3d31297ecf579c5485a",
-      "submission" : 550,
-      "title" : "ゴリ姫",
-      "url" : "http://llllllllllll.sakura.ne.jp/djtakuan/",
-      "url_diff" : "http://akred.web.fc2.com/baecon/gorihime.bms"
    },
    {
       "artist" : "Kankitsu feat. Salita / obj. Tristan97",

@@ -1,32 +1,5 @@
 [
    {
-      "artist" : "カンナ / obj.siokaze",
-      "comment" : "地力、こまかい連打、Toy Musical",
-      "level" : "6",
-      "md5" : "0000c7e949345056897b4396deb85c8f",
-      "proposer" : "Whip",
-      "proposerLr2id" : 145504,
-      "sha256" : "ef51d97f4c7c711f78e56c14960065916274eb1728d05f09254094ba5d341404",
-      "submission" : 1404,
-      "title" : "深淵 - Farthest World - [Maniac]",
-      "url" : "http://tm1.toymusical.net/",
-      "url_diff" : "http://siokazebms.web.fc2.com/"
-   },
-   {
-      "artist" : "Toti obj : Mary_Sue",
-      "comment" : "TOTAL 190",
-      "level" : "0",
-      "md5" : "02ed2ec57d1c97363ce408677c61341b",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "8a069a54543107cefe53e455df3f54c9238ac1eb06e8597a7649a39a0d4f1b02",
-      "submission" : 1442,
-      "title" : "カタコンベ ミュージアム [オサレ]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=101&event=36",
-      "url_diff" : "https://www.dropbox.com/s/wtpkzds0mygntb6/03_katako_MarySue_osare.bms?dl=0",
-      "zureCount" : 0
-   },
-   {
       "artist" : "Alicia* obj:kinoko",
       "comment" : "sl3~4、同時押し、乱打、皿複合",
       "level" : "4",
@@ -38,20 +11,6 @@
       "title" : "アイーシャの剣-Forcing breakthrough- [KINOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=174&event=74",
       "url_diff" : "https://onedrive.live.com/?id=112C8A66E980514D%21164&cid=112C8A66E980514D"
-   },
-   {
-      "artist" : "ノクティス・江口・チェラム obj.Mallow♪",
-      "comment" : "sl3~4?",
-      "level" : "4",
-      "md5" : "15ebd2f3aca1c35876c795c94c8d6302",
-      "proposer" : "chouco",
-      "proposerLr2id" : 158333,
-      "sha256" : "f6df4a8a00d1e458520f3f00f408bf79c53420de5e70a60e2b218ab63e3bba38",
-      "submission" : 1431,
-      "title" : "ヒメタイプ [エヒメ]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=96",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03579",
-      "zureCount" : 0
    },
    {
       "artist" : "しらいし",
@@ -95,36 +54,6 @@
       "zureCount" : 0
    },
    {
-      "artist" : "wigen",
-      "comment" : "乱打、加速ギミックあり(LNであれば影響なし)",
-      "level" : "5",
-      "md5" : "19f67cefa09051fb3371bfd918b259bf",
-      "proposer" : "QoL",
-      "proposerMinirid" : "20d7e5bb-38ae-4722-bd0e-da0b07cc57cf",
-      "sha256" : "215a678d1952880bcf649afca109e3edb7a386b4900763c185204e937510ab5b",
-      "submission" : 1425,
-      "title" : "Stellaria media",
-      "url" : "http://web.archive.org/web/20160401202909/http://musicgamelab.dnip.net:88/KBSP2009.exe",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00498",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "さかみりと img:しぐれぷに子/obj:wak",
-      "level" : "11",
-      "md5" : "22b582748fa323718b49e8a7316eb3f4",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "31b791c0f13f1370300e98c9ee5361fec4f107ec76a06c15e97f164e38134ce3",
-      "submission" : 1307,
-      "title" : "地獄の業火で焼肉大会！？ [加瑠毘]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=110",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02894",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
-   },
-   {
       "artist" : "Shaman Cure-All obj.Restia",
       "comment" : "3~4? トリル",
       "level" : "3",
@@ -137,19 +66,6 @@
       "url" : "https://www.dropbox.com/s/h6pmqb6u502pwzm/SoySauceCandy.zip?dl=0",
       "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpylzGygnfJ94yEkErL?e=7WgLsl",
       "zureCount" : 0
-   },
-   {
-      "artist" : "Arctures BGA: 鑓田(alpha complex) / obj. DK",
-      "comment" : "HS-FIXはMAXでOK、HS-FIXのためのズレがあります。",
-      "level" : "4",
-      "md5" : "2af0865bfac13fef86cf7ece8a4eb877",
-      "proposer" : "MarySue",
-      "proposerLr2id" : 147889,
-      "sha256" : "7d164ad43b52a9179a8cfc4da7b996bc6c84f1737a204ba2a15ea719689b0422",
-      "submission" : 1414,
-      "title" : "Auburn Halo [Strauss]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=322&event=116",
-      "url_diff" : "https://frozensat.github.io/sabun/auburnhalo_DK.zip"
    },
    {
       "artist" : "Dachs / Movie : わっふゑ obj.Mallow♪",
@@ -166,19 +82,6 @@
       "voteNo" : 0,
       "votePercent" : 95,
       "voteYes" : 9
-   },
-   {
-      "artist" : "奏 mov:いとう まさき",
-      "level" : "6",
-      "md5" : "2faa811e3ded6e3030e2b13772958dc9",
-      "proposer" : "MarySue",
-      "proposerLr2id" : 147889,
-      "sha256" : "e9d66ebc9a3cac81ef278ff607ce6f96485a347e094febb05207f4ad3cb20bb7",
-      "submission" : 1440,
-      "title" : "The Lies [SP Black Another]",
-      "url" : "http://sunaneko.iptime.org/BMS_Library/The%20Lies%20%28by%20%e5%a5%8f%29.rar",
-      "url_diff" : "",
-      "zureCount" : 0
    },
    {
       "artist" : "空読無 白眼 obj : Sakamiya",
@@ -211,20 +114,6 @@
       "zureCount" : 0
    },
    {
-      "artist" : "U-hey Seta feat.橘花音×A.Dokuga Movie:Sugar obj:七海千秋",
-      "comment" : "0~1、同時押し",
-      "level" : "0",
-      "md5" : "3c1b0c08bb95416e97a385bb6b0d241b",
-      "proposer" : "|/|",
-      "proposerLr2id" : 147895,
-      "sha256" : "e159048a56219921cfed097294af06e58e0eef11fdac6dedad66cd0141962def",
-      "submission" : 1422,
-      "title" : "on the WAVE -EXTRA-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=126",
-      "url_diff" : "https://www.dropbox.com/s/gts7ft9dlrkdven/_on%20the%20WAVE-nanami01.bms?dl=1",
-      "zureCount" : 0
-   },
-   {
       "artist" : "TEKINA",
       "level" : "6",
       "md5" : "40f8ac8bff465dcbf5829480fdc438e1",
@@ -237,47 +126,47 @@
       "url_diff" : "http://hg2.ifdef.jp/bms/"
    },
    {
-      "artist" : "455-/ obj :yama",
-      "comment" : "foon体験版 ディレイ",
-      "level" : "7",
-      "md5" : "42bfdf7cf00e6cc66830ed387224a29d",
-      "proposer" : "氷城つるぎ",
-      "proposerLr2id" : 151185,
-      "sha256" : "b6162a291135451f369d4cd0a232aef64107e5b36271253cba68e9f17df4e529",
-      "submission" : 1438,
-      "title" : "G e n g a o z o - f u u n",
-      "url" : "http://malie.noor.jp/",
-      "url_diff" : "http://absolute.pv.land.to/uploader/src/up1984.zip"
+      "artist" : "Yusuke Takeuchi",
+      "comment" : "BPM112 縦連",
+      "level" : "3",
+      "md5" : "4c0d0a89ed624019cddeae8409acfa71",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "f7cbe185fa1994c57551812f1b164b27facf82d9f4f86758e7e2eff269af3126",
+      "submission" : 1459,
+      "title" : "evidence (ANOTHER)",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/evidence%20%28by%20Yusuke%20Takeuchi%29.rar",
+      "url_diff" : ""
    },
    {
-      "artist" : "LeaF Movie:Optie / obj:LTFE♪",
-      "level" : "8",
-      "md5" : "465d418e371077e71c08ebcfc1200e1d",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "5f251ed64368f08d5be12e74ec761a638318e9112f3788fcbc7ea75ce768be93",
-      "submission" : 873,
-      "title" : "Evanescent [Realitat]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=96&event=93",
-      "url_diff" : "http://1drv.ms/1kE1jlU",
-      "voteNeutral" : 10,
-      "voteNo" : 1,
-      "votePercent" : 62.5,
-      "voteYes" : 5
-   },
-   {
-      "artist" : "HOLY SAMBA MASTER 佐藤 -SATOH- obj:BAECON",
-      "comment" : "SAMBA MASTER",
-      "level" : "8",
-      "md5" : "47045de25d9d2f9d7a36fec1fa6b86af",
-      "proposer" : "Fendou",
-      "proposerLr2id" : 128388,
-      "sha256" : "072cbb55477ad7e83d2ef7a53e6f6bebedf58739c3bb2e7de5fe0a16c78b40b2",
-      "submission" : 1447,
-      "title" : "ホーリーサンバランド [FIRST BOSS]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=193&event=96",
-      "url_diff" : "",
+      "artist" : "uet / obj:NASA",
+      "comment" : "BPM200 多要素",
+      "level" : "4",
+      "md5" : "4cd7fff24ca0da80cbc90b6371e0e136",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "cdc856013b0ed985d78cf8010e158833879572f2e0ce426fc9bd1851d60d9362",
+      "submission" : 1458,
+      "title" : "Phantribe [Stygian Riverside]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=42&event=129",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/",
       "zureCount" : 0
+   },
+   {
+      "artist" : "Iriss-Frantzz obj support : Cymby",
+      "level" : "0",
+      "md5" : "52265862e46b3d12f65c84f30ab7895f",
+      "proposer" : "|/|",
+      "proposerLr2id" : 147895,
+      "sha256" : "737784c15699128566336c51c7bf063374d68e98c1f9af8684a34aeaf20954e4",
+      "submission" : 273,
+      "title" : "Blacksphere [SP Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=268&event=96",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 11,
+      "votePercent" : 42.1052631578947,
+      "voteYes" : 8
    },
    {
       "artist" : "Is-m BGA:ハマドメハマル",
@@ -296,18 +185,17 @@
       "voteYes" : 10
    },
    {
-      "artist" : "69 de 74 BGA:иоио",
-      "comment" : "G2R2018, 2018Notes,  乱打",
-      "level" : "3",
-      "md5" : "5d5e7c9bda03f1975dbb9a67e5328c74",
-      "proposer" : "dstorv",
-      "proposerLr2id" : 145158,
-      "sha256" : "1c249eb71c570f14ff5c6f9450a974b155bfd96dcd03dc573d5a22fb43cb8d8c",
-      "submission" : 1429,
-      "title" : "Grievous Fate [ANOTHER]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=123",
-      "url_diff" : "",
-      "zureCount" : 0
+      "artist" : "wa. remixed celas BGA:TOHRU MiTSUHASHi",
+      "comment" : "同梱",
+      "level" : "0",
+      "md5" : "5cac7e6e5f5a69afb67cb59412be4b25",
+      "proposer" : "realize",
+      "proposerLr2id" : 81440,
+      "sha256" : "b18b100f933d725a4f76d8210cfa48f7ab7ffac859e9def445bd7f42339501cc",
+      "submission" : 1460,
+      "title" : "銀の風 [HYPER]",
+      "url" : "http://web.archive.org/web/20170227063438/http://creation-records.info/bms/silver_wind_ogg.rar",
+      "url_diff" : ""
    },
    {
       "artist" : "Yu^ta / obj:Azel",
@@ -334,6 +222,33 @@
       "url" : "http://sunaneko.iptime.org/BMS_Library/mnemogeny%20%28by%20Arctures%29.rar",
       "url_diff" : "https://stellabms.xyz/upload/148",
       "zureCount" : 0
+   },
+   {
+      "artist" : "usomitaina twins obj:SUZUKAZEΛ",
+      "comment" : "BPM151同時押し・微縦連・LN",
+      "level" : "3",
+      "md5" : "619d1d55d938436a17da283d2d6938c1",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "34f6ab6e8380e913cc2e820fa7531ddd6eb29c7adf279cf69c142870e1ad9ae5",
+      "submission" : 1465,
+      "title" : "悲劇のアニマルキングダム－BMS MIX－ [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=273&event=127",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "ねこみりん feat.小宮真央 Movie:むらしん Obj:IIIIIIIIIIIIIIIII",
+      "comment" : "魔法少女になるしかねぇ ",
+      "level" : "10",
+      "md5" : "63ed90945f5fb67c7a5d77f9ec9904c1",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "2b2ee4fb849826bf22635186d7307d51f1f2866f329b59aaf89b23b7d886dbcd",
+      "submission" : 1463,
+      "title" : "魔法少女になるしかねぇ [ベラトリックス]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=430&event=116",
+      "url_diff" : "https://bms.parksulab.xyz/"
    },
    {
       "artist" : "tdef / ZUN / obj. 子",
@@ -391,6 +306,20 @@
       "voteYes" : 9
    },
    {
+      "artist" : "Aliesrite* (Ym1024 feat. lamie*) / matarin",
+      "comment" : "4~5?",
+      "level" : "5",
+      "md5" : "72e1a9db5f466fd37986486adbb213fd",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "464a0038cd7ece0eac52d3ebee22095785994661ab25d508e3d68f181ebef3cd",
+      "submission" : 1461,
+      "title" : "Second Synthesis [Eternity]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=278&event=127",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04362",
+      "zureCount" : 0
+   },
+   {
       "artist" : "kanone feat. かぼちゃ obj:kaguya",
       "level" : "1",
       "md5" : "759408e8a0549292963b2948f67111f3",
@@ -437,19 +366,6 @@
       "voteYes" : 1
    },
    {
-      "artist" : "mommy",
-      "comment" : "同梱、sl0入門",
-      "level" : "0",
-      "md5" : "840fe75145697a672e93c3cc1d6237a7",
-      "proposer" : "|/|",
-      "proposerLr2id" : 147895,
-      "sha256" : "7d37e448362d60467f3919554c9b95e28e09a786c45c74f329473860faa84cb8",
-      "submission" : 1427,
-      "title" : "Funny Funky Freaky [7key,Another]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=225&event=96",
-      "url_diff" : ""
-   },
-   {
       "artist" : "ルゼ obj. AYhaz",
       "level" : "2",
       "md5" : "869cc79745fd54db3aa1824c2cc1ce5d",
@@ -466,20 +382,6 @@
       "voteYes" : 12
    },
    {
-      "artist" : "CRUNCH + JunkoBAND@A.I. obj : Mary_Sue",
-      "comment" : "皿複合、連打、後半難",
-      "level" : "5",
-      "md5" : "933a2688d78d4dfdb3b7a0531658c61c",
-      "proposer" : "realize",
-      "proposerLr2id" : 81440,
-      "sha256" : "fcaea4cb13b8375493af1d4a6ccb2bd9bd532c7e0af6c42b25be7bac8c4f468b",
-      "submission" : 1415,
-      "title" : "メシア -この世界に救いを-",
-      "url" : "http://uploader.bms.ms/data/messiah.rar",
-      "url_diff" : "https://stellabms.xyz/upload/31",
-      "zureCount" : 0
-   },
-   {
       "artist" : "tarolabo vo：小宮真央 / po",
       "comment" : "同時押し, ズレ, NORMAL 判定\t",
       "level" : "6",
@@ -491,20 +393,6 @@
       "title" : "路上のギリジン-Shou+rt Mix- [7key_ANOTHER+]",
       "url" : "http://ofuton.tk/tarolabo/",
       "url_diff" : "http://rareheror.web.fc2.com/po.html",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "ZUN remixed by LeaF Movie:Optie/Illust:セシル◇タイト/selene.",
-      "comment" : "超高速/ズレ/皿複合/乱打/階段",
-      "level" : "10",
-      "md5" : "9e8e7e04e1ce7709c9fb94ad85837550",
-      "proposer" : "かに",
-      "proposerLr2id" : 115381,
-      "sha256" : "2cc1e6b462a7d359252cdecced5e32e581b5d82fc1c5e606d3fafa5c6012b709",
-      "submission" : 1446,
-      "title" : "Armageddon -Luna-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=129",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04172",
       "zureCount" : 0
    },
    {
@@ -522,31 +410,6 @@
       "voteNo" : 3,
       "votePercent" : 65.3846153846154,
       "voteYes" : 7
-   },
-   {
-      "artist" : "judithz / И",
-      "level" : "0",
-      "md5" : "a89ac1090bceeca352bccfc0801bc5c4",
-      "proposer" : "chouco",
-      "proposerLr2id" : 158333,
-      "sha256" : "6621bacab90434132d06e4553beae42240135f84397ef222f4a51bd5faed04d0",
-      "submission" : 1430,
-      "title" : "Egypt [EZ]",
-      "url" : "http://onedrive.live.com/?cid=F881BCC298BA2E47&id=F881BCC298BA2E47!104",
-      "url_diff" : "https://bms.parksulab.xyz",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "ORC / obj:みっと",
-      "level" : "10",
-      "md5" : "aa0df8bed54cbcc7dfa10d7347c8730b",
-      "proposer" : "파이어",
-      "proposerLr2id" : 7290,
-      "sha256" : "c54bb07705e733f181c8e30bf088265d28db391d22221b22070e9070a985ba8b",
-      "submission" : 1453,
-      "title" : "Ninja's betrayal [アイエエエ！？]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=189&event=88",
-      "url_diff" : "http://zzssccaxd.wix.com/bmsabun"
    },
    {
       "artist" : "fether obj: qtp13",
@@ -579,61 +442,18 @@
       "zureCount" : 0
    },
    {
-      "artist" : "Music:庭師/BGA:SELDO/OBJ.sitoras",
-      "comment" : "二重階段、皿複合、LN",
+      "artist" : "NceS / obj.2RLZ",
+      "comment" : "No smoking",
       "level" : "3",
-      "md5" : "c88e57f308cba2574e37e6ee0440f0e7",
-      "proposer" : "STANK!",
-      "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
-      "sha256" : "1e5e3e17de67a86625cfe80283ab58c6d888693e072b60b3e2504930776e8470",
-      "submission" : 1424,
-      "title" : "Cyclone-Joker 【M4X1MUM-DЯ1V3】",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=357&event=127",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04305",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "nitro",
-      "comment" : "sl0~1 drrrr",
-      "level" : "0",
-      "md5" : "ca74209526f35eaefeb97a8a43cf117a",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "f0b50aa39ae4ead5961326e1d02f847521bda0acb619aa1f235623826aecb6e6",
-      "submission" : 1455,
-      "title" : "polylattice [MANIFOLD]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=258&event=116",
-      "url_diff" : "",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "mommy",
-      "level" : "11",
-      "md5" : "cb8de500653a3c8259966d635774827c",
+      "md5" : "c6d5029e0393c2492a6cca80e69ea433",
       "proposer" : "MarySue",
       "proposerLr2id" : 147889,
-      "sha256" : "2fbd4e17b87c99c645e370e0a9a1b43aac08ac2175a2d226ce7a6691eb6d6c44",
-      "submission" : 1433,
-      "title" : "More Selfish [Social Distancing]",
-      "url" : "http://mommy16807.seesaa.net/article/148541992.html",
-      "url_diff" : "https://bms.parksulab.xyz",
+      "sha256" : "419be52e7d7c16060f3d615b64b991efb8568c0cfa1b7a1d49b6a8c4fb61e13d",
+      "submission" : 1464,
+      "title" : "Burn [Marlboro]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=187&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
       "zureCount" : 0
-   },
-   {
-      "artist" : "er / obj:五月雨雀",
-      "level" : "1",
-      "md5" : "d5c649a9d124b6b4b6e78822834aa318",
-      "proposer" : "|/|",
-      "proposerLr2id" : 147895,
-      "sha256" : "1c8e82b53dc943ef4d777727ff3f9c05c2ede1f95c484bf0cb4d3b91d3db0bb5",
-      "submission" : 976,
-      "title" : "スーパーイザナギオブジェクト [SAMITHER]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=102",
-      "url_diff" : "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html",
-      "voteNeutral" : 1,
-      "voteNo" : 0,
-      "votePercent" : 95.8333333333333,
-      "voteYes" : 11
    },
    {
       "artist" : "Lime / Roaring Flame obj : monaka",
@@ -650,17 +470,17 @@
       "zureCount" : 0
    },
    {
-      "artist" : "キメラのキタムラ",
-      "comment" : "BPM275 16分階段と8分皿",
-      "level" : "5",
-      "md5" : "dce3b9c33cf6a5418667311214d4245d",
-      "proposer" : "SHAX.",
-      "proposerLr2id" : 65624,
-      "sha256" : "4d7dbd0022e6dfa952ddc7b0115519803e1f1cc9ec48d7f747cbda3513f6039c",
-      "submission" : 1437,
-      "title" : "Conglomerate [ANOTHER]",
-      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=7",
-      "url_diff" : ""
+      "artist" : "Music : eFeL / BGA : 鑓田(Alpha complex)obj:n",
+      "comment" : "88.0625で7Qが44msズレですが、Backgroundキー音だからプレーには問題ありません.",
+      "level" : "12",
+      "md5" : "e80b8864ba792b8bb65160da6b7b0f95",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "d96d79e67babf933572216f3b876d0808c26661f433efca8b3e8de57b4d56b5d",
+      "submission" : 1462,
+      "title" : "Engine [mild+]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=43&event=104",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02198"
    },
    {
       "artist" : "Is-m BGA:fity / Obj : Mary_Sue",
@@ -677,18 +497,5 @@
       "voteNo" : 2,
       "votePercent" : 77.2727272727273,
       "voteYes" : 8
-   },
-   {
-      "artist" : "toby fox Remixed by uet BGI : morph / obj : krg",
-      "level" : "3",
-      "md5" : "edaa3714b3b7297c2eaf67f3b7a4ad92",
-      "proposer" : "re零",
-      "proposerLr2id" : 78570,
-      "sha256" : "e2c8dcb22c7941941368a7c457fa5d49578fa4fbf22786a44cc13a317e3fde19",
-      "submission" : 1426,
-      "title" : "Spider Dance(METTAMETA Remix) -Pacific-",
-      "url" : "http://beatmaniauet.sakura.ne.jp/BMS/uet_spiderdancermx_ogg.zip",
-      "url_diff" : "https://www.gaftalk.com/1to24_2nd/1to24_2nd_free.zip",
-      "zureCount" : 0
    }
 ]

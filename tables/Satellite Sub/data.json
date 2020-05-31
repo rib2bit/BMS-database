@@ -2228,7 +2228,7 @@
    {
       "artist" : "Junk obj:trainer",
       "comment" : "横に広い乱打",
-      "level" : "6",
+      "level" : "7",
       "md5" : "1ab0ea1a6d3d28f7b4ce2ad366edc38d",
       "proposer" : "yy",
       "proposerLr2id" : 77811,
@@ -6276,6 +6276,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Yusuke Takeuchi",
+      "comment" : "BPM112 縦連",
+      "level" : "3",
+      "md5" : "4c0d0a89ed624019cddeae8409acfa71",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "f7cbe185fa1994c57551812f1b164b27facf82d9f4f86758e7e2eff269af3126",
+      "submission" : 1459,
+      "title" : "evidence (ANOTHER)",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/evidence%20%28by%20Yusuke%20Takeuchi%29.rar",
+      "url_diff" : ""
+   },
+   {
       "artist" : "jet:tones / Obj.Triforce",
       "level" : "11",
       "md5" : "4c0f369bdf3cd195fab755481a78bde8",
@@ -6324,7 +6337,7 @@
    {
       "artist" : "Yu^ta feat. みずにんじん / obj:Cure p7",
       "comment" : "2~3?",
-      "level" : "2",
+      "level" : "3",
       "md5" : "4c756edeb68d70960989daf1d1aae9ed",
       "proposer" : "MineC24",
       "proposerLr2id" : 84597,
@@ -6412,6 +6425,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "uet / obj:NASA",
+      "comment" : "BPM200 多要素",
+      "level" : "4",
+      "md5" : "4cd7fff24ca0da80cbc90b6371e0e136",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "cdc856013b0ed985d78cf8010e158833879572f2e0ce426fc9bd1851d60d9362",
+      "submission" : 1458,
+      "title" : "Phantribe [Stygian Riverside]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=42&event=129",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/",
+      "zureCount" : 0
    },
    {
       "artist" : "猫蟹丸 Featuring PLAGAREC obj:kaguya",
@@ -6639,19 +6666,6 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
-   },
-   {
-      "artist" : "sasakure.UK",
-      "comment" : "低速ズレ乱打 / 後殺",
-      "level" : "1",
-      "md5" : "4fac8bb513c9d4e979a1ce5ddd5993a3",
-      "proposer" : "DK",
-      "proposerLr2id" : 46697,
-      "sha256" : "4559d96b7447175cbe86bfd0ec799b5675ebccece1f64c9c737d9773b4898c32",
-      "submission" : 1101,
-      "title" : "Pangaea [IIDX]",
-      "url" : "http://web.archive.org/web/20070727154611/http://sasakure.bms.ms/framemusic.htm",
-      "url_diff" : ""
    },
    {
       "artist" : "ルゼ obj:monaka",
@@ -7081,7 +7095,7 @@
    {
       "artist" : "さかみりと img:しぐれぷに子 / obj:SUZUKAZEΛ",
       "comment" : "ラス殺し",
-      "level" : "5",
+      "level" : "6",
       "md5" : "54b5c1308567fd9d175482abada00fa7",
       "proposer" : "MineC24",
       "proposerLr2id" : 84597,
@@ -7641,6 +7655,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "wa. remixed celas BGA:TOHRU MiTSUHASHi",
+      "comment" : "同梱",
+      "level" : "0",
+      "md5" : "5cac7e6e5f5a69afb67cb59412be4b25",
+      "proposer" : "realize",
+      "proposerLr2id" : 81440,
+      "sha256" : "b18b100f933d725a4f76d8210cfa48f7ab7ffac859e9def445bd7f42339501cc",
+      "submission" : 1460,
+      "title" : "銀の風 [HYPER]",
+      "url" : "http://web.archive.org/web/20170227063438/http://creation-records.info/bms/silver_wind_ogg.rar",
+      "url_diff" : ""
+   },
+   {
       "artist" : "plastic feat.サキト / C4",
       "comment" : "ディレイ、皿複合",
       "level" : "4",
@@ -8137,6 +8164,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "usomitaina twins obj:SUZUKAZEΛ",
+      "comment" : "BPM151同時押し・微縦連・LN",
+      "level" : "3",
+      "md5" : "619d1d55d938436a17da283d2d6938c1",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "34f6ab6e8380e913cc2e820fa7531ddd6eb29c7adf279cf69c142870e1ad9ae5",
+      "submission" : 1465,
+      "title" : "悲劇のアニマルキングダム－BMS MIX－ [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=273&event=127",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "LeaF Movie:Optie&Fiz/obj:赤い人",
       "comment" : "前半微連打交じり・後半ズレ複合乱打　ムービー閲覧注意",
       "level" : "8",
@@ -8282,6 +8323,19 @@
       "title" : "Hazuki [ANOTHER]",
       "url" : "https://venue.bmssearch.net/bmsshuin2/14",
       "url_diff" : ""
+   },
+   {
+      "artist" : "ねこみりん feat.小宮真央 Movie:むらしん Obj:IIIIIIIIIIIIIIIII",
+      "comment" : "魔法少女になるしかねぇ ",
+      "level" : "10",
+      "md5" : "63ed90945f5fb67c7a5d77f9ec9904c1",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "2b2ee4fb849826bf22635186d7307d51f1f2866f329b59aaf89b23b7d886dbcd",
+      "submission" : 1463,
+      "title" : "魔法少女になるしかねぇ [ベラトリックス]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=430&event=116",
+      "url_diff" : "https://bms.parksulab.xyz/"
    },
    {
       "artist" : "suki",
@@ -9278,6 +9332,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Aliesrite* (Ym1024 feat. lamie*) / matarin",
+      "comment" : "4~5?",
+      "level" : "5",
+      "md5" : "72e1a9db5f466fd37986486adbb213fd",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "464a0038cd7ece0eac52d3ebee22095785994661ab25d508e3d68f181ebef3cd",
+      "submission" : 1461,
+      "title" : "Second Synthesis [Eternity]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=278&event=127",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04362",
+      "zureCount" : 0
    },
    {
       "artist" : "LhoU / MetaGalaxy / obj：のれぽん",
@@ -10688,7 +10756,7 @@
    {
       "artist" : "鳩 Obj.Triforce",
       "comment" : "体力系、難易度自体は★4~5級ですが疲れやすいのでsl4に",
-      "level" : "4",
+      "level" : "5",
       "md5" : "83855e7be644eef3af16b58a704fc77b",
       "proposer" : "MarySue",
       "proposerLr2id" : 147889,
@@ -10831,7 +10899,7 @@
    },
    {
       "artist" : "TiS feat.紅梔子 / Notes:薄杏",
-      "level" : "1",
+      "level" : "2",
       "md5" : "856dea4c2b9d943c0eba27765574fa81",
       "proposer" : "monaka",
       "proposerLr2id" : 93763,
@@ -13536,7 +13604,7 @@
    {
       "artist" : "Gun-SEKI feat.那珂 / U",
       "comment" : "改とカッコカリの間 譜面属性的には改寄り",
-      "level" : "7",
+      "level" : "8",
       "md5" : "aa2af9cff7b55399a051221d128d8699",
       "proposer" : "C4",
       "proposerLr2id" : 120385,
@@ -13912,7 +13980,7 @@
    {
       "artist" : "xelloscope / obj:Monsta",
       "comment" : "ガチ押し",
-      "level" : "11",
+      "level" : "12",
       "md5" : "ae9c27921ca2e2bca7aed1012e560be0",
       "proposer" : "氷城つるぎ",
       "proposerLr2id" : 151185,
@@ -16220,6 +16288,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "NceS / obj.2RLZ",
+      "comment" : "No smoking",
+      "level" : "3",
+      "md5" : "c6d5029e0393c2492a6cca80e69ea433",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "419be52e7d7c16060f3d615b64b991efb8568c0cfa1b7a1d49b6a8c4fb61e13d",
+      "submission" : 1464,
+      "title" : "Burn [Marlboro]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=187&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "pr.s obj: MineC24",
       "comment" : "★15",
       "level" : "9",
@@ -17358,7 +17440,7 @@
    {
       "artist" : "橘花音 かなえゆめ composed by nmk Illustration:かぜっと/ 差分 赤い人",
       "comment" : "乱打",
-      "level" : "4",
+      "level" : "5",
       "md5" : "d4b933c5b43a7bd4bbc5570d777d09e3",
       "proposer" : "椒図",
       "proposerLr2id" : 124809,
@@ -18775,7 +18857,7 @@
    },
    {
       "artist" : "ETIA. Movie: iimo / obj.Lapis",
-      "level" : "2",
+      "level" : "3",
       "md5" : "e4a77faace8adb994e6c80ee575d75b3",
       "proposer" : "Lapis",
       "proposerLr2id" : 35410,
@@ -19037,6 +19119,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Music : eFeL / BGA : 鑓田(Alpha complex)obj:n",
+      "comment" : "88.0625で7Qが44msズレですが、Backgroundキー音だからプレーには問題ありません.",
+      "level" : "12",
+      "md5" : "e80b8864ba792b8bb65160da6b7b0f95",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "d96d79e67babf933572216f3b876d0808c26661f433efca8b3e8de57b4d56b5d",
+      "submission" : 1462,
+      "title" : "Engine [mild+]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=43&event=104",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02198"
+   },
+   {
       "artist" : "HyuN",
       "comment" : "BGA版",
       "level" : "3",
@@ -19212,7 +19307,7 @@
    {
       "artist" : "Rocky / obj.siokaze",
       "comment" : "纵连、乱打",
-      "level" : "6",
+      "level" : "7",
       "md5" : "ea83d8cfa55713c1d5f677535e73c79f",
       "proposer" : "椒図",
       "proposerLr2id" : 124809,
