@@ -13,6 +13,19 @@
       "url_diff" : "https://onedrive.live.com/?id=112C8A66E980514D%21164&cid=112C8A66E980514D"
    },
    {
+      "artist" : "Crimsona / И",
+      "level" : "12",
+      "md5" : "0dad1e5604033ec6757bebd8701826b9",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "c6d078325985da860383633edcce7d45a6d345def7e61870f6448581dae2e679",
+      "submission" : 1468,
+      "title" : "Hyper Fiber World Spectrum [World Etude]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=59&event=110",
+      "url_diff" : "https://bms.parksulab.xyz",
+      "zureCount" : 0
+   },
+   {
       "artist" : "しらいし",
       "comment" : "乱打",
       "level" : "1",
@@ -238,19 +251,6 @@
       "zureCount" : 0
    },
    {
-      "artist" : "ねこみりん feat.小宮真央 Movie:むらしん Obj:IIIIIIIIIIIIIIIII",
-      "comment" : "魔法少女になるしかねぇ ",
-      "level" : "10",
-      "md5" : "63ed90945f5fb67c7a5d77f9ec9904c1",
-      "proposer" : "MarySue",
-      "proposerLr2id" : 147889,
-      "sha256" : "2b2ee4fb849826bf22635186d7307d51f1f2866f329b59aaf89b23b7d886dbcd",
-      "submission" : 1463,
-      "title" : "魔法少女になるしかねぇ [ベラトリックス]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=430&event=116",
-      "url_diff" : "https://bms.parksulab.xyz/"
-   },
-   {
       "artist" : "tdef / ZUN / obj. 子",
       "comment" : "BPM180 多要素",
       "level" : "12",
@@ -350,22 +350,6 @@
       "zureCount" : 0
    },
    {
-      "artist" : "SEPHID obj Scely",
-      "level" : "11",
-      "md5" : "7c62262761587ea39aaf836735136312",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "0dfa0ccd1eed80653a4a704ccc23cd5927c66f48fc757f099f8891dcfc247f32",
-      "submission" : 1146,
-      "title" : "Subterranean Blastoff -Stellar Overhaul-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=63&event=127",
-      "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
-   },
-   {
       "artist" : "ルゼ obj. AYhaz",
       "level" : "2",
       "md5" : "869cc79745fd54db3aa1824c2cc1ce5d",
@@ -440,6 +424,34 @@
       "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=17&order=reg&odtype=a",
       "url_diff" : "https://stellabms.xyz/upload/72",
       "zureCount" : 0
+   },
+   {
+      "artist" : "shimizushi illust:a.a / obj:monaka",
+      "level" : "3",
+      "md5" : "b9064f3696a6d97cdd321da8246f11f7",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "34c0f3b6bad354c187295089cf9da38a872ff3e9f39fdfd37db1d71132ce3ee6",
+      "submission" : 511,
+      "title" : "SATSUKI [MAY]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=62&event=121",
+      "url_diff" : "https://ux.getuploader.com/monaka_sabun_2/download/157",
+      "voteNeutral" : 4,
+      "voteNo" : 3,
+      "votePercent" : 61.5384615384615,
+      "voteYes" : 6
+   },
+   {
+      "artist" : "はがね bgi.ばんぶー OBJ : ランダマイザ",
+      "level" : "12",
+      "md5" : "bc6cf4791e30e04f0079c806981840f9",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "0661764a0318b7364b806d2b175ff365280522bda55b1147384ce4e5f16e543c",
+      "submission" : 1466,
+      "title" : "YAKUI [SA]",
+      "url" : "http://drive.google.com/file/d/0B8Buw0z19S9DU0hUQnJTWE5vRzA/view?usp=sharing",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
    },
    {
       "artist" : "NceS / obj.2RLZ",

@@ -1900,6 +1900,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Luxion / Ds",
+      "comment" : "st10の弱体版・多要素譜面「ソフラン・物量・螺旋階段・微縦連・皿複合」",
+      "level" : "5",
+      "md5" : "205b2edbbb4b603f805f888c9ffee8c2",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "f62049982ff2c154dc3754a2cdcaa4fa6202162c8eb201503e593b32bcaae19d",
+      "submission" : 1160,
+      "title" : "High-Priestess [DX]",
+      "url" : "http://bof2012bfg.web.fc2.com/nowcanyouclear.html",
+      "url_diff" : "http://sagena.harisen.jp/"
+   },
+   {
       "artist" : "ねこみりん / obj:Pearl-C.",
       "comment" : "連打多めガチ押し",
       "level" : "7",
@@ -8756,19 +8769,6 @@
       "title" : "Charlotte, -To The Future-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=217&event=110",
       "url_diff" : "https://www.dropbox.com/s/tekn3gwvy07095a/charlotte.zip?dl=1"
-   },
-   {
-      "artist" : "TOMA / obj:MineC24",
-      "comment" : "Anzutool基準キー音ズレ無し",
-      "level" : "0",
-      "md5" : "88c4a60a4be94dd73169ea8f6fc3c7f0",
-      "proposer" : "MarySue",
-      "proposerLr2id" : 147889,
-      "sha256" : "2e2b87392b1ee4f02cfd677d959c7e7266af1cb4a660872e796cb34bc66590b5",
-      "submission" : 1151,
-      "title" : "DANCE & (wish me a) MERRY CHRISTMAS! -Nightmare of CHRISTMAS-",
-      "url" : "http://sunaneko.iptime.org/BMS_Library/DANCE%20%26%20%28wish%20me%20a%29%20MERRY%20CHRISTMAS%21%20%28by%20TOMA%29.rar",
-      "url_diff" : "https://www.dropbox.com/s/d596wvfwcdd2zfk/dmc_egs%28fix%29.zip?dl=1"
    },
    {
       "artist" : "taqumi obj:ringo BGA:kkkfff2",
