@@ -482,6 +482,20 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Sentire obj:SUZUKAZEΛ",
+      "comment" : "ガチ押し",
+      "level" : "2",
+      "md5" : "dc50a276cd07be9dc30be7c8594c1990",
+      "proposer" : "Restia",
+      "proposerLr2id" : 115265,
+      "sha256" : "df4e1c45f9f156a49e8e3d856898db35a2c67c55766f3979e277730fcfc3859c",
+      "submission" : 1470,
+      "title" : "勿忘草 [ZOI]",
+      "url" : "http://web.archive.org/web/20071010145904/http://sentire.jp/bms.htm",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Music : eFeL / BGA : 鑓田(Alpha complex)obj:n",
       "comment" : "88.0625で7Qが44msズレですが、Backgroundキー音だからプレーには問題ありません.",
       "level" : "12",
@@ -509,5 +523,19 @@
       "voteNo" : 2,
       "votePercent" : 77.2727272727273,
       "voteYes" : 8
+   },
+   {
+      "artist" : "SHIKI / obj:po",
+      "comment" : "中速/乱打/縦連打/微連打",
+      "level" : "11",
+      "md5" : "ef8138e92facb36e7827d1952a17fc46",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "a2c006acdbdfd1bc833bad6ce2ce2a42fa0bbab6b6168725e5300afbf00d19b3",
+      "submission" : 1469,
+      "title" : "Angelic layer -Heavenly+-",
+      "url" : "http://shiki2.sakura.ne.jp/",
+      "url_diff" : "http://rarehero2000.web.fc2.com/po.html",
+      "zureCount" : 0
    }
 ]
