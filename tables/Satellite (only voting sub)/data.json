@@ -67,6 +67,20 @@
       "zureCount" : 0
    },
    {
+      "artist" : "カラフル・サウンズ・ポート obj:Fender",
+      "comment" : "",
+      "level" : "1",
+      "md5" : "21d50f01b479f73ec2933299249b1008",
+      "proposer" : "|/|",
+      "proposerLr2id" : 147895,
+      "sha256" : "d3b489e80f49c278f34f5d17cff76654f723c4759993267f6f7d2811c6359b58",
+      "submission" : 1471,
+      "title" : "カラフル・サウンズ・カッター [F]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/カラフル・サウンズ・カッター (by カラフル・サウンズ・ポート).rar",
+      "url_diff" : "http://fenderbms.web.fc2.com/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Shaman Cure-All obj.Restia",
       "comment" : "3~4? トリル",
       "level" : "3",
@@ -137,6 +151,20 @@
       "title" : "地下街 [Hogther]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=26&event=89",
       "url_diff" : "http://hg2.ifdef.jp/bms/"
+   },
+   {
+      "artist" : "nmk / わっふゑ obj:Guanacoite",
+      "comment" : "sl1 or sl2",
+      "level" : "2",
+      "md5" : "415c224cfdae9249d2170aae72f53868",
+      "proposer" : "chouco",
+      "proposerLr2id" : 158333,
+      "sha256" : "068a7a99eeecb44ab2fd83e85ca1e1723478089d9a3a0b63dcb3e90ce3a2986d",
+      "submission" : 1473,
+      "title" : "Celestial Axes [Intermediate Drill]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=119",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04333",
+      "zureCount" : 0
    },
    {
       "artist" : "Yusuke Takeuchi",
@@ -377,6 +405,20 @@
       "title" : "路上のギリジン-Shou+rt Mix- [7key_ANOTHER+]",
       "url" : "http://ofuton.tk/tarolabo/",
       "url_diff" : "http://rareheror.web.fc2.com/po.html",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "音狐 黒葉 obj:SUZUKAZEΛ",
+      "comment" : "Oboro",
+      "level" : "3",
+      "md5" : "9a6a6985e324bad7618034170e75c895",
+      "proposer" : "chouco",
+      "proposerLr2id" : 158333,
+      "sha256" : "3dc718623be048d36527823f6506468d7afbf7765e71d3ab5168a734f4543296",
+      "submission" : 1472,
+      "title" : "宵闇夜 －Leggendaria ver－ [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=50&event=129",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "zureCount" : 0
    },
    {
