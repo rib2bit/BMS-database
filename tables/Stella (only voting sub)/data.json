@@ -142,6 +142,22 @@
       "zureCount" : 0
    },
    {
+      "artist" : "立秋 feat.ちょこ / obj:七海",
+      "level" : "1",
+      "md5" : "70d09940988a0a483927a36f8bb73ae2",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "e3721216c0bd338deb9fc3594799b88b857cd41c054d74df0d4b51ee9e361466",
+      "submission" : 1114,
+      "title" : "プナイプナイげんそう -LAST BOSS-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=249&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
+      "voteNeutral" : 2,
+      "voteNo" : 2,
+      "votePercent" : 72.7272727272727,
+      "voteYes" : 7
+   },
+   {
       "artist" : "Neun_jack mov:squidboy/obj:Mary_Sue",
       "comment" : "BPM210(-230) ggtt.bms基準ズレ無し",
       "level" : "3",
