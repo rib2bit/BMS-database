@@ -1,5 +1,18 @@
 [
    {
+      "artist" : "魂魄糖",
+      "comment" : "縦連、トリル",
+      "level" : "12",
+      "md5" : "0045153b89105ac8fd25a2a23dcea466",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "Hay FEVER [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=88",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "Ras",
       "comment" : "皿、皿複合、連皿、TOTAL294",
       "level" : "14",
@@ -130,19 +143,6 @@
       "video2" : ""
    },
    {
-      "artist" : "Puella Voice : 結崎有理 / Illustration : Violpa",
-      "comment" : "地力譜面、局所難、ズレ",
-      "level" : "7",
-      "md5" : "05a3ddcd9c8e41d62388219fc8e4368d",
-      "name_diff" : "同梱",
-      "state" : "",
-      "title" : "your wind, my blind [EX-Another]",
-      "url" : "https://venue.bmssearch.net/bmsshuin2/38",
-      "url_diff" : "",
-      "video1" : "",
-      "video2" : ""
-   },
-   {
       "artist" : "れおん",
       "comment" : "ほとんど局所難、連打、LN",
       "level" : "4",
@@ -247,6 +247,19 @@
       "video2" : ""
    },
    {
+      "artist" : "Setca. obj:C4",
+      "comment" : "",
+      "level" : "20",
+      "md5" : "0cf39b58aac7c1d82099d4b4a2f156d4",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "臨水拍桐琴 [SP INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=143&event=127",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "L-line",
       "comment" : "連皿複合、高速連皿、中盤とラストに地力発狂",
       "level" : "15",
@@ -343,7 +356,7 @@
       "level" : "22",
       "md5" : "1333869c50ee672fedcb71e46f728ef9",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "GOODFORTUNE [凶]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=170&event=127",
       "url_diff" : "",
@@ -499,7 +512,7 @@
       "level" : "4",
       "md5" : "18366e7ec13adbb0e85774a7ee4f418e",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "Black Lotus -BBurst-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=329&event=127",
       "url_diff" : "",
@@ -668,7 +681,7 @@
       "level" : "16",
       "md5" : "2047b9816304ffd77e2d886f4c2970a1",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "音楽（なんでも吸い込むピンク色のための）",
       "url" : "https://drive.google.com/open?id=0B7qCw4hNijr4WjN0aDhXVHhaQ2M",
       "url_diff" : "",
@@ -710,6 +723,19 @@
       "state" : "",
       "title" : "ヒメタイプ",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=96",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "Gari",
+      "comment" : "遅いトリル、微縦連、終盤連皿複合、NORMAL判定",
+      "level" : "8",
+      "md5" : "22f7a4d4bf46acf46689e57ccc3d840b",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "DanceNow [SP BlackAnother]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=357&event=74",
       "url_diff" : "",
       "video1" : "",
       "video2" : ""
@@ -775,6 +801,19 @@
       "state" : "",
       "title" : "Say A Vengeance [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=7&event=83",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "Mystinia",
+      "comment" : "前半皿+二連打複合、後半LN+連打複合",
+      "level" : "6",
+      "md5" : "27644c7de2912b69861979353d8184b2",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "Pompeii [SP Another]",
+      "url" : "http://www.dropbox.com/s/yzuj7wutr89egqv/12.Mystinia%20-%20Pompeii%20%5BWAV%5D.zip",
       "url_diff" : "",
       "video1" : "",
       "video2" : ""
@@ -1015,7 +1054,7 @@
    },
    {
       "artist" : "Gazan (obj.ベルナルド)",
-      "comment" : "地力譜面、皿絡み",
+      "comment" : "高速地力、高速三連皿、皿複合、LN複合（小）",
       "level" : "8",
       "md5" : "2ffea900a5ddac7bb0efc830a35bc1c0",
       "name_diff" : "同梱",
@@ -1178,6 +1217,19 @@
       "state" : "",
       "title" : "拙陋憲章の塒 [SP ANOTHER]",
       "url" : "https://event.yaruki0.net/VSevent/impression/16",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "C4 Remixed by uet / obj:C4 BGA : 空読無 白眼",
+      "comment" : "",
+      "level" : "30",
+      "md5" : "37649a6af76c0b41dea4d28b3bdf5342",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "Chilly (uet Remix) [tempest]",
+      "url" : "https://beatmaniauet.wixsite.com/kusekorebmspack2020",
       "url_diff" : "",
       "video1" : "",
       "video2" : ""
@@ -1386,6 +1438,19 @@
       "state" : "",
       "title" : "Last Voyager [7KEYS TECHNICAL]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=359&event=123",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "HyuN",
+      "comment" : "綺麗な配置、終盤発狂",
+      "level" : "16",
+      "md5" : "41604ac4ad17d408f9fa3e974d25cb83",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "Infinity Heaven (7K Another)",
+      "url" : "https://drive.google.com/file/d/1S8LPC5-TdEQvc5dzDvrrOqIARRSbcco3/view?usp=drivesdk",
       "url_diff" : "",
       "video1" : "",
       "video2" : ""
@@ -1651,6 +1716,19 @@
       "video2" : ""
    },
    {
+      "artist" : "Sora Akegami",
+      "comment" : "連打、癖総合、ややラス殺し（リズム違いの軸）",
+      "level" : "7",
+      "md5" : "52a38dc66a2361f97edad25b8afbe60d",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "Humexam",
+      "url" : "https://drive.google.com/file/d/1PbQ6i5N9vELlf2jOijJ31mCGVw0-okQo/view?usp=sharing",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "Se-U-Ra",
       "comment" : "長い軸、高密度、後半局所発狂、高TOTAL",
       "level" : "17",
@@ -1703,6 +1781,19 @@
       "video2" : ""
    },
    {
+      "artist" : "FeNRIR+tok",
+      "comment" : "連打複合",
+      "level" : "20",
+      "md5" : "53dab54968c06be19dcaca5950e49c00",
+      "name_diff" : "同梱",
+      "state" : "",
+      "title" : "X-χ †LEGENDARY",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=126",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "wa. / 百舌谷",
       "comment" : "三重トリル、地力総合、正規○",
       "level" : "12",
@@ -1712,6 +1803,19 @@
       "title" : "Black Lotus [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=138&event=110",
       "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "kagerow",
+      "comment" : "高速連打、体力、皿、デニム、終盤易化",
+      "level" : "15",
+      "md5" : "544f04443f17280da34d4802119499fd",
+      "name_diff" : "コンマイ",
+      "state" : "2",
+      "title" : "おどれフルファイアー (KONMAI)",
+      "url" : "http://kagerow.net/bms/1",
+      "url_diff" : "http://absolute.pv.land.to/uploader/src/up2568.zip",
       "video1" : "",
       "video2" : ""
    },
@@ -1854,6 +1958,19 @@
       "state" : "",
       "title" : "This Club is not 4 U [SP INSANE]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=105&event=123",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "HyuN feat. Syepias",
+      "comment" : "高速軸、回復と発狂の繰り返し、トリル、三重LN、LN",
+      "level" : "12",
+      "md5" : "5eb2ccc8ab8e66afcd0d993df322c1cb",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "CROSS†SOUL [7key Another]",
+      "url" : "https://drive.google.com/file/d/1dAIV0nCBPAXE4KgXXtLXpMUHBrUR5_Xx/view?usp=drivesdk",
       "url_diff" : "",
       "video1" : "",
       "video2" : ""
@@ -2007,7 +2124,7 @@
       "level" : "8",
       "md5" : "674604c336667c642ae4c0e5989b6fe2",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "La La La La La",
       "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=57&order=reg&odtype=a",
       "url_diff" : "",
@@ -2059,7 +2176,7 @@
       "level" : "3",
       "md5" : "6dcf4a6463ed944d3d4f3ab758e15dae",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "Technical Erosion",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=267&event=127",
       "url_diff" : "",
@@ -2101,6 +2218,19 @@
       "state" : "",
       "title" : "Sakura Fubuki",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=96&event=104",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "Rocky",
+      "comment" : "LN複合、連続LN皿+減速、音量大",
+      "level" : "4",
+      "md5" : "7089015bf97da82e27988297a3e612fd",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "多重極展開 [SP HYPER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=62&event=88",
       "url_diff" : "",
       "video1" : "",
       "video2" : ""
@@ -2202,7 +2332,7 @@
       "level" : "19",
       "md5" : "7649ab6fe047890bfe61d65204e79cba",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "Phantribe [SP ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=42&event=129",
       "url_diff" : "",
@@ -2270,6 +2400,19 @@
       "state" : "",
       "title" : "This is Unique [ANOTHER]",
       "url" : "https://venue.bmssearch.net/bmsshuin2/87",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "Blogath",
+      "comment" : "微縦連軸複合、繰り返し譜面、ズレ",
+      "level" : "10",
+      "md5" : "7dcdc2f772c0c6456dda91c85bfd06f4",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "Futro funky critter [Sampler]",
+      "url" : "https://archive.org/download/BMS_G2R2014/84.7z",
       "url_diff" : "",
       "video1" : "",
       "video2" : ""
@@ -2444,19 +2587,6 @@
       "video2" : ""
    },
    {
-      "artist" : "litmus* as Ester",
-      "comment" : "微ソフラン、リズム難、時間差LN+複合",
-      "level" : "1",
-      "md5" : "8720fe08084e6995c8135654762bc58d",
-      "name_diff" : "同梱",
-      "state" : "",
-      "title" : "Abandoned Planet [Another]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=127",
-      "url_diff" : "",
-      "video1" : "",
-      "video2" : ""
-   },
-   {
       "artist" : "uma vs. モリモリあつし",
       "comment" : "一時減速2回、終盤発狂",
       "level" : "5",
@@ -2501,7 +2631,7 @@
       "level" : "17",
       "md5" : "8cbaad1dc107acd0db8b61d2826a0776",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "My favorite shoes",
       "url" : "http://www.yw-works.com/",
       "url_diff" : "",
@@ -2608,6 +2738,19 @@
       "state" : "",
       "title" : "SCARY BANQUET [SP ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=152&event=104",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "BACO",
+      "comment" : "LN+軸やトリル、LN複合、LN皿混じりの連皿複合発狂",
+      "level" : "12",
+      "md5" : "95646edab09a290778cde80aef46296b",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "Life Cruising (BMS ver.) [7KEYS EXTREME]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=226&event=127",
       "url_diff" : "",
       "video1" : "",
       "video2" : ""
@@ -2808,6 +2951,19 @@
       "video2" : ""
    },
    {
+      "artist" : "牧野 / obj BUUFAA",
+      "comment" : "終盤連皿複合、超速五連皿、皿複合、TOTAL高め",
+      "level" : "11",
+      "md5" : "9ee34a66b3338446eee0868040b2eff3",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "06 (mknrmx)",
+      "url" : "http://daida.kora.jp/bms/06(mknrmx).zip",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "ZUN Remixed by rider obj:Ark-Z",
       "comment" : "LN複合、トリル、微縦連、TOTAL224",
       "level" : "3",
@@ -2834,6 +2990,19 @@
       "video2" : ""
    },
    {
+      "artist" : "Mystinia",
+      "comment" : "??6の強化版、後半一々皿追加",
+      "level" : "15",
+      "md5" : "a1032b0b2376faec6c27546e5baf68c5",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "Pompeii [SP No Mercy]",
+      "url" : "http://www.dropbox.com/s/yzuj7wutr89egqv/12.Mystinia%20-%20Pompeii%20%5BWAV%5D.zip",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "anubasu-anubasu BGA by YOTSUYA",
       "comment" : "BPM148、連皿複合、LN、ニ連打、演出ギミック",
       "level" : "4",
@@ -2855,6 +3024,19 @@
       "state" : "",
       "title" : "LASTMORN [I]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=188&event=104",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "daisan",
+      "comment" : "四連打、LN複合、ラス殺し（24分トリル複合発狂）",
+      "level" : "10",
+      "md5" : "a392b0ad9b63a28c956b37fba5f28eac",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "平衡世界 Parallel World",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=83",
       "url_diff" : "",
       "video1" : "",
       "video2" : ""
@@ -2995,7 +3177,7 @@
       "level" : "11",
       "md5" : "abda3ba062283fda60e2e3b2541dc41f",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "eth剣",
       "url" : "https://onedrive.live.com/?cid=344D670279808113&id=344D670279808113%21132&authkey=%21AM4qWW6_OzqxnJY",
       "url_diff" : "",
@@ -3198,6 +3380,19 @@
       "video2" : ""
    },
    {
+      "artist" : "Rocky",
+      "comment" : "BPM178（Max222.5）、LN複合、LN皿、皿複合",
+      "level" : "3",
+      "md5" : "bdeb24c5706bf2d580330ba6b8b265ef",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "Annihilate the living [SP HYPER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=44&event=88",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "xyst (BGI Mirexi_K)",
       "comment" : "LN複合地力（大）、皿複合、連皿、皿LN、正規○",
       "level" : "15",
@@ -3268,7 +3463,7 @@
       "level" : "4",
       "md5" : "c2deafe743d366339f90f0e7c84ad498",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "パブロペトリの泡影",
       "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/29/",
       "url_diff" : "",
@@ -3346,7 +3541,7 @@
       "level" : "20",
       "md5" : "cbd379c90400310b054c884af52e1b85",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "AA - YOSHItic mix -",
       "url" : "https://www.nicovideo.jp/watch/sm31816083",
       "url_diff" : "",
@@ -3476,7 +3671,7 @@
       "level" : "11",
       "md5" : "d50876283601de90af094d68aa6907cc",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "[line-epsilon] [TOASTED]",
       "url" : "https://drive.google.com/open?id=0B9IgQ_GDHQNdaUhVX3FXYWg2S1U",
       "url_diff" : "",
@@ -3541,7 +3736,7 @@
       "level" : "25",
       "md5" : "dda399b85e1f7953c29c5668446fee93",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "DarDIE",
       "url" : "https://mega.nz/folder/IP4iTAyI#jkwvNbkccH-EUATbGI4SWg/folder/lW4RFYoZ",
       "url_diff" : "",
@@ -3614,6 +3809,19 @@
       "video2" : ""
    },
    {
+      "artist" : "TaW obj:C4",
+      "comment" : "",
+      "level" : "24",
+      "md5" : "e2d6dc4cc17fa640383b1de81d5170ec",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "(× v ×) [SP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=44&event=127",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "Yosk!",
       "comment" : "地力総合、ラス殺し（ズレ発狂）、HARD易（★7）",
       "level" : "14",
@@ -3622,6 +3830,19 @@
       "state" : "",
       "title" : "時の行商人 アリエス・オールドフィールド",
       "url" : "https://drive.google.com/open?id=0B7qCw4hNijr4dktfb0paMVUyOFk",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "Rocky",
+      "comment" : "中盤低速、縦連絡み、皿複合",
+      "level" : "10",
+      "md5" : "e46db00e0b5181ad60f2f67d87f282a1",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "Annihilate the living [SP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=44&event=88",
       "url_diff" : "",
       "video1" : "",
       "video2" : ""
@@ -3645,7 +3866,7 @@
       "level" : "6",
       "md5" : "e82b435fe0fcc38204118cbb8734a087",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "GOODFORTUNE [A]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=170&event=127",
       "url_diff" : "",
@@ -3814,7 +4035,7 @@
       "level" : "3",
       "md5" : "f2f7cadb259d1cb063090c801f90e508",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "take me to the moon",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=129",
       "url_diff" : "",
@@ -3978,6 +4199,19 @@
       "video2" : ""
    },
    {
+      "artist" : "exclusion BGA:Dr.A",
+      "comment" : "四連打、LN複合、皿複合、高密度低速",
+      "level" : "4",
+      "md5" : "f7814a3bce8222cbe61242a4b61492fd",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "innocent forest [7key Another]",
+      "url" : "https://dl.dropbox.com/u/54555387/bms/innocent_forest.zip",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "yukitani / DKN",
       "comment" : "ソフラン（158→165→173→183&lt;発狂&gt;→173）",
       "level" : "12",
@@ -4116,6 +4350,19 @@
       "state" : "",
       "title" : "SHORTCIRCUIT [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=250&event=127",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "Puru",
+      "comment" : "地力総合、リズム難トリル、螺旋大階段、LN複合",
+      "level" : "8",
+      "md5" : "fd8425255fbde9dd84e6db44ffb12329",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "Snow White [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=323&event=104",
       "url_diff" : "",
       "video1" : "",
       "video2" : ""

@@ -378,6 +378,20 @@
       "zureCount" : 0
    },
    {
+      "artist" : "削除 / 石像くん obj.かに",
+      "comment" : "乱打",
+      "level" : "9",
+      "md5" : "7e392ca9c44870a68c8d219b57345be9",
+      "proposer" : "Mallow♪",
+      "proposerLr2id" : 154796,
+      "sha256" : "b0c0127ab5e7121cf4bce17b17ef670cf2ff2de4610a03ea3868b5f9a0613ecf",
+      "submission" : 1474,
+      "title" : "Neurotoxin",
+      "url" : "http://web.archive.org/web/20120318134823/http://www7b.biglobe.ne.jp/~ssbossmix/",
+      "url_diff" : "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view",
+      "zureCount" : 0
+   },
+   {
       "artist" : "ルゼ obj. AYhaz",
       "level" : "2",
       "md5" : "869cc79745fd54db3aa1824c2cc1ce5d",
@@ -578,6 +592,20 @@
       "title" : "Angelic layer -Heavenly+-",
       "url" : "http://shiki2.sakura.ne.jp/",
       "url_diff" : "http://rarehero2000.web.fc2.com/po.html",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "SUZUKI obj.onzonium",
+      "comment" : "",
+      "level" : "1",
+      "md5" : "fa0a38f2a1a45edbf0388492fde8c35b",
+      "proposer" : "Mallow♪",
+      "proposerLr2id" : 154796,
+      "sha256" : "dbf751acfed875a6ce2465e568b9e0528dc4476bcfb71775da02182276cfd864",
+      "submission" : 1475,
+      "title" : "SpellBound [CHARM]",
+      "url" : "https://web.archive.org/web/20070121141237/yamajet1984.net/library/suzuki/sb.rar",
+      "url_diff" : "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view?usp=sharing",
       "zureCount" : 0
    }
 ]

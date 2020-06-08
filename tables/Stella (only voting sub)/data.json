@@ -171,6 +171,20 @@
       "url_diff" : "https://stellabms.xyz/upload/82"
    },
    {
+      "artist" : "Coco / obj:alt",
+      "comment" : "BPM152 微縦",
+      "level" : "2",
+      "md5" : "79c1ad2bd63bd1c2595e5ee3db2e25fd",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "0571601565491416c579feac58142c3c648bb883219a975a7a67f2c067083465",
+      "submission" : 1163,
+      "title" : "pp-hunk [Phxxkin]",
+      "url" : "https://onedrive.live.com/?cid=863934608D908CD0&id=863934608D908CD0%21106",
+      "url_diff" : "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view?usp=sharing",
+      "zureCount" : 0
+   },
+   {
       "artist" : "SP-#",
       "comment" : "同梱, st0~1?",
       "level" : "1",
@@ -198,6 +212,34 @@
       "voteNo" : 1,
       "votePercent" : 80,
       "voteYes" : 4
+   },
+   {
+      "artist" : "E0ri4 BGA:GAMEBAKA / obj:Guanacoite",
+      "comment" : "乱打,イージーは比較的簡単",
+      "level" : "2",
+      "md5" : "a726522ecd7b6599e9e652f76c9540d1",
+      "proposer" : "Mallow♪",
+      "proposerLr2id" : 154796,
+      "sha256" : "18c2538d50318621c9349fae934770a88a033fbb1d5c817319865d07971eebbd",
+      "submission" : 1164,
+      "title" : "Rainy Gate [Squall]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=60&event=127",
+      "url_diff" : "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "Aoi / (^v^) mov:出前",
+      "comment" : "BPM174 微縦 ディレイ 皿",
+      "level" : "7",
+      "md5" : "aa471eb4643bade6409efde29817f105",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "9c5fcaf17ca97fb8d27337f387fdbef84ed41825d18ff47f7a1b6dfece183b0b",
+      "submission" : 1162,
+      "title" : "c.s.q.n. (^^)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=223&event=127",
+      "url_diff" : "https://bms.parksulab.xyz",
+      "zureCount" : 0
    },
    {
       "artist" : "LeaF Movie:Optie&Fiz/obj:赤い人",
