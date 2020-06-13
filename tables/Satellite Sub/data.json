@@ -534,6 +534,20 @@
       "url_diff" : ""
    },
    {
+      "artist" : "カラフル・サウンズ・ポート Obj.Triforce",
+      "comment" : "同時押し",
+      "level" : "0",
+      "md5" : "05251470b0e850b7956b53ee51c70247",
+      "proposer" : "|/|",
+      "proposerLr2id" : 147895,
+      "sha256" : "4143f8eafdc7e10b547dd63a3810f9033b2f950b6c1dae01fa1d3649c5649ebf",
+      "submission" : 1477,
+      "title" : "村 [ENT]",
+      "url" : "https://web.archive.org/web/20180316032550/http://csport.me/bms/csp_mura_bms.zip",
+      "url_diff" : "http://www.dropbox.com/s/btspbqx8q36zlm2/mura_triforce.bme?dl=1",
+      "zureCount" : 0
+   },
+   {
       "artist" : "ROKINA",
       "comment" : "はやい",
       "level" : "1",
@@ -13429,6 +13443,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "A-ZERO Project + iF + TeePy obj:TeePy",
+      "comment" : "同梱のAnother。微縦連、CN、皿複合等。",
+      "level" : "1",
+      "md5" : "a80a2efc0ed5d575003dbaed79a73e21",
+      "proposer" : "quinto",
+      "proposerLr2id" : 141043,
+      "sha256" : "31206442571ad34d6c5ded69bc8f701771a5d56456a61766ddbc760eb582ba6e",
+      "submission" : 1476,
+      "title" : "EMOJISM",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=80&event=127",
+      "url_diff" : ""
    },
    {
       "artist" : "syzfonics / obj:Azel",
