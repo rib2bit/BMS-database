@@ -51,7 +51,7 @@
    },
    {
       "artist" : "赤碕 翔",
-      "comment" : "重乱打・ラス殺し",
+      "comment" : "重乱打・ラス殺し<br>横浜最速の男名義",
       "level" : "13",
       "lr2_bmsid" : "0",
       "md5" : "10f6ef039c047c8a0b21892770e90379",
@@ -126,6 +126,19 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/the Rough Ocean.zip"
    },
    {
+      "artist" : "MORRIGAN",
+      "comment" : "☆7<br>皿・軸<br><br>差分企画「1998 to 2020(仮)」参加作品(1998年)<br>onzonium名義",
+      "level" : "-1",
+      "lr2_bmsid" : "0",
+      "md5" : "20f99d474db7730d5300cb25080ba5f1",
+      "name_diff" : "DLページへ",
+      "name_pack" : "本体は241番",
+      "reg_date" : "2020-06-14",
+      "title" : "D.D.D. [ANOTHER]",
+      "url" : "https://onedrive.live.com/?authkey=%21AIr4v9MWBYrS9h8&amp;id=FC95A680740CA8C9%21471&amp;cid=FC95A680740CA8C9",
+      "url_diff" : "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view"
+   },
+   {
       "artist" : "ねこみみ魔法使い",
       "comment" : "縦連・曲変更",
       "level" : "？",
@@ -164,7 +177,7 @@
    },
    {
       "artist" : "Miloudi / movie: Ratif",
-      "comment" : "St1<br>乱打・皿<br><br>差分企画「BOFXV差分二次会(仮)」参加作品<br>onzonium名義で参加",
+      "comment" : "sl1<br>乱打・皿<br><br>差分企画「BOFXV差分二次会(仮)」参加作品<br>onzonium名義",
       "level" : "1",
       "lr2_bmsid" : "0",
       "md5" : "335f6c4437c32f81a3bf06861a8a5294",
@@ -202,7 +215,7 @@
    },
    {
       "artist" : "skns",
-      "comment" : "☆11<br>乱打・皿　音源追加あり<br><br>差分企画「Initial A to Z 2019 -26 songs-」参加作品<br>onzonium名義で参加",
+      "comment" : "☆11<br>乱打・皿　音源追加あり<br><br>差分企画「Initial A to Z 2019 -26 songs-」参加作品<br>onzonium名義",
       "level" : "-1",
       "lr2_bmsid" : "0",
       "md5" : "46584933b70a60c4c5efe31c3f2a6746",
@@ -225,8 +238,8 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/megalopa.zip"
    },
    {
-      "artist" : "nausiuk / obj.ATOM",
-      "comment" : "☆9<br>皿・縦連",
+      "artist" : "nausiuk ",
+      "comment" : "☆8<br>皿・縦連",
       "level" : "-1",
       "lr2_bmsid" : "0",
       "md5" : "4dffee7846172f3d64872a383f355f09",
@@ -236,6 +249,18 @@
       "title" : "green big apple [INSANE]",
       "url" : "http://www.likeside.net/event/suika_crash/",
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/green big apple.zip"
+   },
+   {
+      "artist" : "SUZUKI",
+      "comment" : "☆10<br>乱打<br><br>差分企画「1998 to 2020(仮)」参加作品(1999年)<br>onzonium名義",
+      "level" : "-1",
+      "lr2_bmsid" : "0",
+      "md5" : "5221d18b2297ac9bb25e7fc33224c3ec",
+      "name_diff" : "DLページへ",
+      "reg_date" : "2020-06-14",
+      "title" : "SpellBound [HYPER]",
+      "url" : "https://web.archive.org/web/20070121141237/yamajet1984.net/library/suzuki/sb.rar",
+      "url_diff" : "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view?usp=sharing"
    },
    {
       "artist" : "Xerenet",
@@ -260,8 +285,7 @@
       "reg_date" : "2016-06-27",
       "title" : "Conference on Disarmament 20XX [INSANE]",
       "url" : "http://diverse.jp/dbhtml/download.html",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/Conference on Disarmament 20XX.zip",
-      "url_pack" : "http://diverse.jp/dbhtml/download.html"
+      "url_diff" : "http://onzonium.at-ninja.jp/sabun/Conference on Disarmament 20XX.zip"
    },
    {
       "artist" : "aym",
@@ -303,7 +327,7 @@
    },
    {
       "artist" : "YAMD",
-      "comment" : "☆10<br>乱打",
+      "comment" : "☆9<br>乱打",
       "level" : "-1",
       "lr2_bmsid" : "0",
       "md5" : "5ff5a641d2325515541eb5bf31191b1f",
@@ -329,7 +353,7 @@
    },
    {
       "artist" : "赤碕 翔",
-      "comment" : "ラス殺し・縦連",
+      "comment" : "ラス殺し・縦連<br>横浜最速の男名義",
       "level" : "7",
       "lr2_bmsid" : "0",
       "md5" : "62254ed711f485e1685650f8659d4716",
@@ -396,7 +420,7 @@
       "level" : "12",
       "lr2_bmsid" : "0",
       "md5" : "711d1878f71cc447331e896a53ac0e3a",
-      "name_diff" : "DL(mega保管)",
+      "name_diff" : "DL",
       "reg_date" : "2019-10-11",
       "title" : "SPELL BOUND -R: STYLE- (INSANE)",
       "url" : "https://mega.nz/#F!FNFDCQaT!wfv-iI4UuSIaGpP0oFZdtQ",
@@ -428,7 +452,7 @@
    },
    {
       "artist" : "dj Extrose",
-      "comment" : "LN・乱打<br><br>差分企画「Initial A to Z 2019 -26 songs-」参加作品<br>onzonium名義で参加",
+      "comment" : "LN・乱打<br><br>差分企画「Initial A to Z 2019 -26 songs-」参加作品<br>onzonium名義",
       "level" : "4",
       "lr2_bmsid" : "0",
       "md5" : "7ac91ba3aaf91f650fa44bac94cc2de3",
@@ -452,7 +476,7 @@
    },
    {
       "artist" : "skns",
-      "comment" : "☆9<br>皿・乱打",
+      "comment" : "☆8<br>皿・乱打",
       "level" : "-1",
       "lr2_bmsid" : "0",
       "md5" : "8a5180ba5cf293e051066d368df4f1bb",
@@ -552,7 +576,7 @@
    },
    {
       "artist" : "dj Extrose",
-      "comment" : "LN・二重階段・ラス殺し<br><br>差分企画「Initial A to Z 2019 -26 songs-」参加作品<br>onzonium名義で参加",
+      "comment" : "LN・二重階段・ラス殺し<br><br>差分企画「Initial A to Z 2019 -26 songs-」参加作品<br>onzonium名義",
       "level" : "22",
       "lr2_bmsid" : "0",
       "md5" : "beaac5dbcdea9c848428abd0ac4f7145",
@@ -624,8 +648,7 @@
       "reg_date" : "2016-05-03",
       "title" : "Conference on Disarmament 20XX [World War]",
       "url" : "http://diverse.jp/dbhtml/download.html",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/Conference on Disarmament 20XX.zip",
-      "url_pack" : "http://diverse.jp/dbhtml/download.html"
+      "url_diff" : "http://onzonium.at-ninja.jp/sabun/Conference on Disarmament 20XX.zip"
    },
    {
       "artist" : "赤碕 翔",
@@ -655,7 +678,7 @@
    },
    {
       "artist" : "赤碕 翔",
-      "comment" : "重乱打・ラス殺し",
+      "comment" : "重乱打・ラス殺し<br>横浜最速の男名義",
       "level" : "18",
       "lr2_bmsid" : "0",
       "md5" : "ea10bdab893e93ea24118d9ca3b43e5c",
@@ -665,6 +688,18 @@
       "title" : "Dawn of ancient bay [Gale a Moment]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=88",
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/Dawn of ancient bay.zip"
+   },
+   {
+      "artist" : "SUZUKI",
+      "comment" : "乱打・トリル<br><br>差分企画「1998 to 2020(仮)」参加作品(1999年)<br>onzonium名義",
+      "level" : "1",
+      "lr2_bmsid" : "0",
+      "md5" : "fa0a38f2a1a45edbf0388492fde8c35b",
+      "name_diff" : "DLページへ",
+      "reg_date" : "2020-06-14",
+      "title" : "SpellBound [CHARM]",
+      "url" : "https://web.archive.org/web/20070121141237/yamajet1984.net/library/suzuki/sb.rar",
+      "url_diff" : "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view?usp=sharing"
    },
    {
       "artist" : "野球君",

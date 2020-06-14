@@ -330,6 +330,18 @@
       "url_diff" : "https://drive.google.com/file/d/1gYNaSVKB2UJ4J_tx_4CzSrUi8N2PfUg7/view?usp=sharing"
    },
    {
+      "artist" : "TiS obj:ucc",
+      "comment" : "3~4? 二重階段、乱打",
+      "level" : "3",
+      "md5" : "20f9e3a8e3f317c8e1ba3ce866f82fd4",
+      "proposer" : "にゃむ",
+      "sha256" : "957dcf717625927c8d81df1a236fb2191d84ef14e1db1fd9381a28d9df76ba66",
+      "submission" : 325,
+      "title" : "Nature of the Earth [A14]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=144&event=74",
+      "url_diff" : "https://web.archive.org/web/20181105105352/http://www.geocities.jp/uccdpbms/bof2011.html"
+   },
+   {
       "artist" : "Arch/movie: Reku/obj:ゆゆゆ！",
       "comment" : "同時押し、両手乱打、片手乱打＆LN dpbms_0848.zip",
       "level" : "2",
@@ -545,7 +557,7 @@
    {
       "artist" : "qfeileadh BGA: Maeus obj.quad",
       "comment" : "★11~12?(★★3~4?) 片手乱打",
-      "level" : "12",
+      "level" : "11",
       "md5" : "37cc734cb35cc8f74fa0f36d2ae0e916",
       "proposer" : "にゃむ",
       "sha256" : "9c1326cd262a970475d94b2f3fb3411a1249d64d6ead9a91caee25573f13d7ce",
@@ -1100,6 +1112,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "ZUN remixed by LeaF Movie:Optie/Illust:セシル◇タイト/Obj:LetsOTL",
+      "comment" : "9～10? 高bpm、同時、乱打",
+      "level" : "10",
+      "md5" : "71c548fdce2718d3ca4ffef88e1b2bcd",
+      "proposer" : "MIST",
+      "sha256" : "0fd7559cfba82a182d78a9b935b4f229589d1d2249f81f53deb12317303abf1f",
+      "submission" : 335,
+      "title" : "Armageddon [DP]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=129",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/732"
+   },
+   {
       "artist" : "しーけー obj:kuro",
       "level" : "5",
       "md5" : "71e18a6179ad7854b517a59409254926",
@@ -1169,6 +1193,18 @@
       "title" : "CLOCKTOWER [DP ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=88",
       "url_diff" : "http://web.archive.org/web/20140921042604/http://timetorain.web.fc2.com/sabun/CLOCKTOWER_ogg_YH.zip"
+   },
+   {
+      "artist" : "Yosk!",
+      "comment" : "同時押し、階段",
+      "level" : "5",
+      "md5" : "762258885246b239006c8294e08b1165",
+      "proposer" : "にゃむ",
+      "sha256" : "ade1915d6d0a68e6b1b212891766c9753a7b0f1ad4a3f4d94ec890ea1af8de27",
+      "submission" : 324,
+      "title" : "Modern Times",
+      "url" : "https://yosk.ojaru.jp/bmsyosk.html",
+      "url_diff" : ""
    },
    {
       "artist" : "SAMBA MASTER 佐藤 -SATOH- obj@PEN",
@@ -1561,6 +1597,18 @@
       "url_diff" : "https://ux.getuploader.com/dpbms/download/556"
    },
    {
+      "artist" : "rider obj : 71066",
+      "comment" : "3連の重発狂、ソフラン(半減)、CN",
+      "level" : "12",
+      "md5" : "90fb4a5b1f492f517d2f650d7129dc23",
+      "proposer" : "樺地崇弘",
+      "sha256" : "667f28fa4795b6460a75f8cd7357d8ca749b92ed3075146b7d77befcfb8ea9e5",
+      "submission" : 328,
+      "title" : "Freja -Royal Flare-",
+      "url" : "http://flowermaster.web.fc2.com/riderbms/index.html",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/787"
+   },
+   {
       "artist" : "Arranged by Y.W",
       "comment" : "高速、局所難",
       "level" : "3",
@@ -1902,6 +1950,18 @@
       "title" : "YASAKANI [DP INSANE+]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=88",
       "url_diff" : "http://www42.tok2.com/home/dpbms/cgi-bin/uploader/"
+   },
+   {
+      "artist" : "music:litmus* / bms: :Poin7less / obj:sagoo movie:directed by litmus*",
+      "comment" : "0~1? 階段",
+      "level" : "1",
+      "md5" : "aee6452b4b7478a03f738482f38ccdb9",
+      "proposer" : "にゃむ",
+      "sha256" : "99185aec7a3476e06f51b151e1199bf2afa32d9798f7f451a37b347ad619dce0",
+      "submission" : 337,
+      "title" : "Flashdance [DP-sagANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=123",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/565"
    },
    {
       "artist" : "t-soach / obj:imit8or",
@@ -2258,6 +2318,30 @@
       "url_diff" : "https://ux.getuploader.com/dpbms/download/299"
    },
    {
+      "artist" : "ユメミド obj:kuro Movie:テンソル / Illust:遥壱朗 / Arrange:LeaF",
+      "comment" : "3~4? 階段",
+      "level" : "3",
+      "md5" : "d08dbe5c4b065b7ae3fe80d7354ecfd4",
+      "proposer" : "にゃむ",
+      "sha256" : "bcab289bf437879dec63ce2aa6748a6af5f05b52c6a532b62930981d00446a37",
+      "submission" : 317,
+      "title" : "Lyrith -迷宮リリス- [sub another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=218&event=116",
+      "url_diff" : "https://1drv.ms/f/s!AhTuCFLHGy4ljUgE_zoer8QWOI0K"
+   },
+   {
+      "artist" : "ZUN , Arr:ゆ～兎 / obj@PEN",
+      "comment" : "7~8?、物量",
+      "level" : "8",
+      "md5" : "d0c0d58f4d0c382c3cf4da04f3f6ab0f",
+      "proposer" : "JHS",
+      "sha256" : "7e416c43b797ede5580bf98eb91cd8f773944cefc4caa67e73efa17389808923",
+      "submission" : 333,
+      "title" : "Bad Apple!! -YH mix-",
+      "url" : "http://web.archive.org/web/20140921042451/http://timetorain.web.fc2.com/BMS/Bad_Apple_yhmix_ogg.zip",
+      "url_diff" : ""
+   },
+   {
       "artist" : "USOTA FUMINORI design : absorb spanish",
       "comment" : "Wire Puller 2",
       "level" : "4",
@@ -2268,6 +2352,18 @@
       "title" : "Unfictioniam <DPA>",
       "url" : "https://drive.google.com/file/d/1QT-X4R_b9qGE4yPFWxhaFC6FXX3ezksm/view?usp=sharing",
       "url_diff" : "https://w.atwiki.jp/14key/pages/23.html"
+   },
+   {
+      "artist" : "早明浦キュウゾウ / obj: shiba",
+      "comment" : "6~7? 片手乱打、階段、同時押し",
+      "level" : "7",
+      "md5" : "d33783021b1df12952eecdf2c1eadde7",
+      "proposer" : "にゃむ",
+      "sha256" : "0224ea07d98e70cd720cfcc0df63fa0697592beb643898a81230acb84ca29957",
+      "submission" : 338,
+      "title" : "frozen over",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=114",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/553"
    },
    {
       "artist" : "Lime/obj:epics-",

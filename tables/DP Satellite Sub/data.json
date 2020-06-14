@@ -13,6 +13,19 @@
       "url_diff" : "https://1drv.ms/u/s!AhTuCFLHGy4lkm1WaJg6yAhfn1o4"
    },
    {
+      "artist" : "daisan / object by meteor*",
+      "comment" : "5~6? 階段、トリル、同時押し 同梱pms譜面と比較してズレ抜けなし",
+      "level" : "6",
+      "md5" : "037a196d202a1f670132015cc2941ff7",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "cee4766033c9cccd9a8f23a4b721c62814d02d53b3f798c38c75cd5be20f8cbc",
+      "submission" : 345,
+      "title" : "ClowN CrowN [DP INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=89",
+      "url_diff" : "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download"
+   },
+   {
       "artist" : "SP-# obj:40010",
       "comment" : "9?、ズレ階段",
       "level" : "9",
@@ -127,6 +140,20 @@
       "title" : "8bit Voyager [DPBF]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=285&event=127",
       "url_diff" : "https://ux.getuploader.com/dpbms/download/650"
+   },
+   {
+      "artist" : "Linne X SCTL Visualized by Keiyuu & RED-FOX / obj. RaiN",
+      "comment" : "★★5?",
+      "level" : "12",
+      "md5" : "0b1234798d2da9bbde81c1eaf6111005",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "a258144dc76242398aea272c75e6e670669b357a5a3a9a881219f70fe5b6071e",
+      "submission" : 341,
+      "title" : "WHIRLWIND [Twin Blast]",
+      "url" : "https://k-bms.com/party_pabat/party2016.jsp?board_num=17&num=43&order=reg&odtype=a",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/801",
+      "zureCount" : 0
    },
    {
       "artist" : "MINT BGA : Can.D-mtmrw",
@@ -373,6 +400,20 @@
       "url_diff" : ""
    },
    {
+      "artist" : "sak feat.現流 obj:braun",
+      "comment" : "階段、着地、同時押し \tGENOSIDE2018 Append",
+      "level" : "8",
+      "md5" : "1ad5b62e4dbb98f7addca17bbc90ce82",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "d03193ac0e3ec94bf1c854b46d68adcb5d29896d481385d7c5ffe332e14b782b",
+      "submission" : 344,
+      "title" : "Last Feud ~the period~ [14 ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=110",
+      "url_diff" : "http://nekokan.dyndns.info/~lobsak/genocide/grade.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "天音",
       "level" : "0",
       "md5" : "1cf006b02e60d21cef593be4a142d96e",
@@ -553,6 +594,20 @@
       "title" : "melody_express [express14]",
       "url" : "https://dropbox.bms.ms/u/30230629/melody_express%5Bogg%5D.zip",
       "url_diff" : ""
+   },
+   {
+      "artist" : "daisan obj.Lapis",
+      "comment" : "5~6?",
+      "level" : "6",
+      "md5" : "268bb5d71fd21b3c8dd1d138f2e3e9fd",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "8ec7120f7985092ce2075929b28478a5f4a3c5a00ac0a382abcf5a74d6eefdd0",
+      "submission" : 343,
+      "title" : "-+ [DP LAPITHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=88",
+      "url_diff" : "http://lapisbms.xyz/",
+      "zureCount" : 0
    },
    {
       "artist" : "Xacla a.k.a. fen / iimode-do",
@@ -748,7 +803,7 @@
    {
       "artist" : "qfeileadh BGA: Maeus obj.quad",
       "comment" : "★11~12?(★★3~4?) 片手乱打",
-      "level" : "12",
+      "level" : "11",
       "md5" : "37cc734cb35cc8f74fa0f36d2ae0e916",
       "proposer" : "にゃむ",
       "proposerLr2id" : 139958,
@@ -1063,6 +1118,20 @@
       "title" : "Judah [DP INSANE]",
       "url" : "https://web.archive.org/web/20170227051837/http://creation-records.info/bms/judah_ogg.rar",
       "url_diff" : "http://epics.client.jp/"
+   },
+   {
+      "artist" : "Maestro Zbigniew obj : 71066",
+      "comment" : "★★3~4?",
+      "level" : "11",
+      "md5" : "4d4059d4f865b94916fb2afecd648f93",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "46e1d420dc571e57851aedec2420d4ac4688a3bf8a25a4a0be186f45c7ec9f8a",
+      "submission" : 340,
+      "title" : "Bravoooo!!!! [哲学14]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=347&event=104",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/800",
+      "zureCount" : 0
    },
    {
       "artist" : "-45 / obj: black train",
@@ -1541,6 +1610,20 @@
       "title" : "Her Majesty [DP ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=177&event=60",
       "url_diff" : "http://timetorain.web.fc2.com/"
+   },
+   {
+      "artist" : "猫の人 reobj.にゃむ",
+      "comment" : "9~10?、同時押し",
+      "level" : "10",
+      "md5" : "6e18537e473d8bd3b50b36b08f82b9dd",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "2d64c899eaf7ad7782d16e34c67f80003ef1ad53f165464a2b6fc5b81f7275d2",
+      "submission" : 342,
+      "title" : "空飛ぶニワトリ [M]",
+      "url" : "https://web.archive.org/web/20060222032645/http://page.freett.com/nekonohito/niwa2.htm",
+      "url_diff" : "https://stellabms.xyz/upload/119",
+      "zureCount" : 0
    },
    {
       "artist" : "Shaman Cure-All / Olkina",
@@ -3371,6 +3454,20 @@
       "title" : "もぺもぺ [R-15]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=219&event=116",
       "url_diff" : "https://ux.getuploader.com/dpbms/download/260"
+   },
+   {
+      "artist" : "Zris feat. Katie / Limite",
+      "comment" : "6~8?、片手二重、ラスト回復、ハード難",
+      "level" : "7",
+      "md5" : "d73cdd6d5d1897e2d3052b74263b5283",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "e168590d536011ca96dcf023bf0c818913b0b9cbca7d9efcb71cc315bf8e6fc2",
+      "submission" : 339,
+      "title" : "IN [HAORSE MUSIC / DP譜面]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=354&event=127",
+      "url_diff" : "https://1drv.ms/x/s!Aoi5esJwIYCChk0BTx_U1KkswzSf",
+      "zureCount" : 0
    },
    {
       "artist" : "Sound piercer vs. Iriss / Obj. 0ne",

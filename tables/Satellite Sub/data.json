@@ -564,6 +564,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "take-a-nobu SubAtrist",
+      "level" : "1",
+      "md5" : "05cff3db080866f39756af5f6401dba2",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "a5087c5fc502fac5e06a4d01d4aa2d0d9deb205922625381f9d366175fc8ca73",
+      "submission" : 1479,
+      "title" : "FREEHARDSAMPLE!!!! [KF]",
+      "url" : "https://isocosa.neocities.org/bms_other.html",
+      "url_diff" : "https://fsrs.github.io/table.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Puru obj:Fendou",
       "comment" : "微縦連、乱打、同時押。BGA fixed.",
       "level" : "2",
@@ -633,6 +646,19 @@
       "title" : "指先忍者 bravery_99.9%",
       "url" : "https://venue.bmssearch.net/ippaitukuru2019/12",
       "url_diff" : ""
+   },
+   {
+      "artist" : "yukitani / HYOUTAN obj. DK",
+      "comment" : "総集合(キー音が少しアレンジされました)",
+      "level" : "5",
+      "md5" : "06af61934e63982120319c1f08e9d6fc",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "d2d508afa5de64eefa07e809981302e8b23dbecbad7c12f7c60459eb91fa45f3",
+      "submission" : 1481,
+      "title" : "Kaiden Aura [XDEN]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=65",
+      "url_diff" : "https://frozensat.github.io/sabun/kaidenaura_DK.zip"
    },
    {
       "artist" : "Ester mov : mi / obj:SUZUKAZEΛ powered by cymbidium",
@@ -1323,6 +1349,20 @@
       "title" : "Happy Blazing Summer!!!",
       "url" : "https://venue.bmssearch.net/bmsshuin2/39",
       "url_diff" : ""
+   },
+   {
+      "artist" : "eye burn Reading: 冬乃桜, obj. w",
+      "comment" : "高速/階段",
+      "level" : "8",
+      "md5" : "0d74abe1b55e4c7de690a956543f097b",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "64ed5ea231fd22112e1b5a0338882340d0671077094c35508ef080866f19dd5f",
+      "submission" : 1478,
+      "title" : "SHI☆A☆WA☆SE [幸]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=226&event=116",
+      "url_diff" : "https://stellabms.xyz/upload/177",
+      "zureCount" : 0
    },
    {
       "artist" : "鳩 / obj. AXION",
@@ -2728,7 +2768,7 @@
    {
       "artist" : "2TORI / obj:numuto",
       "comment" : "artistic",
-      "level" : "8",
+      "level" : "9",
       "md5" : "1f1ada3e57c4ffeb74be2bbd9b01039c",
       "proposer" : "yy",
       "proposerLr2id" : 77811,
@@ -4376,6 +4416,20 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html"
    },
    {
+      "artist" : "Dr.ReB obj. DK",
+      "comment" : "1998to2020差分企画",
+      "level" : "2",
+      "md5" : "34bbfa18b8129e8ab345eddd733404a2",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "ed60f57a4ddb6d356ad9b4658fafd3dd330e99849770152eb93976b3f1a58fbb",
+      "submission" : 1484,
+      "title" : "偽/人形/術師/物語 [Marionette]",
+      "url" : "http://k-bms.com/party_pabat/party2015.jsp?board_num=15&num=22&order=reg&odtype=a",
+      "url_diff" : "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view",
+      "zureCount" : 0
+   },
+   {
       "artist" : "LV.4 obj:fendou",
       "level" : "2",
       "md5" : "34c35ef391eb72bd2b0dcbd755716366",
@@ -4702,7 +4756,7 @@
    {
       "artist" : "DJ Ash Ketchum / obj : LindBlum",
       "comment" : "Hyper差分基準ズレなし、高速乱打",
-      "level" : "10",
+      "level" : "9",
       "md5" : "386b4eca3306d3a3b1c7726ff1f4c8b5",
       "proposer" : "MarySue",
       "proposerLr2id" : 147889,
@@ -5113,7 +5167,7 @@
    {
       "artist" : "uma vs. モリモリあつし obj.Lapis",
       "comment" : "高速乱打、皿複合",
-      "level" : "8",
+      "level" : "7",
       "md5" : "3ed70873fb00da5688b896a6ce866ce1",
       "proposer" : "BAECON",
       "proposerLr2id" : 46122,
@@ -7680,6 +7734,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "HyuN Pattern : Quree",
+      "comment" : "",
+      "level" : "0",
+      "md5" : "5c481dcfb06fd9c35dd79d967f6b44fd",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "48359a63a20337b5f38102854dabe484fb71f620ba4d6370aa71a33b9a6e5386",
+      "submission" : 1485,
+      "title" : "iRELLiA [Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=65&event=127",
+      "url_diff" : ""
+   },
+   {
       "artist" : "P4koo/Ruriling/Tofa Kim obj:七海千秋",
       "comment" : "練習練習",
       "level" : "4",
@@ -7695,7 +7762,7 @@
    {
       "artist" : "polycube × 鑓田(alpha complex) Obj.Triforce",
       "comment" : "Fix ver.",
-      "level" : "2",
+      "level" : "3",
       "md5" : "5c638d05e1d19a318eb3a06aee5fa693",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,
@@ -8648,6 +8715,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "La La La La La",
+      "comment" : "BPM148 多要素",
+      "level" : "2",
+      "md5" : "674604c336667c642ae4c0e5989b6fe2",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "c54c283ef9907a7b92377fabf5a0d858a9db37da1b258231b50b8bdcdc52e1a0",
+      "submission" : 1483,
+      "title" : "La La La La La",
+      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=57",
+      "url_diff" : ""
    },
    {
       "artist" : "Magic Mash Man / New Genuine Magicial Girl / obj:BAECON",
@@ -10600,6 +10680,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Sakamiya feat.前野 img:mirina notes:スノート",
+      "comment" : "5~7?",
+      "level" : "6",
+      "md5" : "7f970e66de7521215554d74397040110",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "367dc04a11dbb1043e4cc7d210f358a174473e1493541909662f242f6cb1d9d2",
+      "submission" : 1480,
+      "title" : "星霜回廊 [Snother]",
+      "url" : "http://seapulse.net/event/bmsippai2017/eventpage.php",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04373",
+      "zureCount" : 0
+   },
+   {
       "artist" : "篠螺悠那　obj:C4",
       "comment" : "st0の下位譜面 TOTAL高めの同時押し,乱打系譜面",
       "level" : "2",
@@ -11209,7 +11303,7 @@
    {
       "artist" : "TOMA / obj:MineC24",
       "comment" : "from Stella",
-      "level" : "12",
+      "level" : "11",
       "md5" : "88c4a60a4be94dd73169ea8f6fc3c7f0",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,
@@ -14327,7 +14421,7 @@
    {
       "artist" : "45Is-m BGA:-45 obj. DK",
       "comment" : "乱打、低TOTAL(0.15~)",
-      "level" : "4",
+      "level" : "5",
       "md5" : "b15e1d4c4bfc4a20dced1592b6ea3457",
       "proposer" : "Triforce",
       "proposerLr2id" : 18553,
@@ -16345,6 +16439,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "isocosa",
+      "comment" : "BPM145 乱打 トリル",
+      "level" : "1",
+      "md5" : "c568cbfbf8f5595a1f7bc73549c64f59",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "ced5bd6a71bc522e92be17a9edb4e22152e3834f0a16dbab51e905c6d78a4ab5",
+      "submission" : 1482,
+      "title" : "INLINE [7k Insane]",
+      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=8",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Tima obj.すいかいの譜面工房",
       "comment" : "跳ねリズム、ガチ押し",
       "level" : "4",
@@ -17419,23 +17526,6 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02618"
    },
    {
-      "artist" : "TOMA obj.XYZ",
-      "comment" : "from Stella",
-      "level" : "12",
-      "md5" : "d27f59651d786b69cf53f8f81668a4c9",
-      "proposer" : "LUXURY♪",
-      "proposerLr2id" : 23110,
-      "sha256" : "8f66ba7ca92957a299fd86ca39239a0bdb0d86188ff442f89bc8d5057a881884",
-      "submission" : 630,
-      "title" : "DANCE & (wish me a) MERRY CHRISTMAS!",
-      "url" : "http://tm2.toymusical.net/download.html",
-      "url_diff" : "https://www.dropbox.com/s/0wvnw778i3o0u0d/dmc_mcms_xyz.bms?dl=0",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
       "artist" : "サケとカワボとえかたん obj:monaka",
       "comment" : "同時押し",
       "level" : "2",
@@ -17606,7 +17696,7 @@
    {
       "artist" : "wa. / 百舌谷 obj:kuro",
       "comment" : "乱打、二重階段、皿絡み等",
-      "level" : "11",
+      "level" : "12",
       "md5" : "d522701bdac6cd27094483d59472e009",
       "proposer" : "かに",
       "proposerLr2id" : 115381,
@@ -18228,7 +18318,7 @@
    {
       "artist" : "q/stol obj:SUZUKAZEΛ",
       "comment" : "皿",
-      "level" : "2",
+      "level" : "3",
       "md5" : "dc5d89d22642fe863b5ec6ec83b3eada",
       "proposer" : "AXION",
       "proposerLr2id" : 37523,
@@ -19678,6 +19768,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "くっちー",
+      "comment" : "皿",
+      "level" : "5",
+      "md5" : "ed40d68d31873d52dd87cd1cf7896113",
+      "proposer" : "MEES-♬",
+      "proposerLr2id" : 39693,
+      "sha256" : "be6c73e9d15a28cf9eec0dc4ce4774ffb0f2e6fd37e8ce6f22586448da6a8c1b",
+      "submission" : 1486,
+      "title" : "locked girl@Scarlet-Devils Palace [ANOTHER]",
+      "url" : "https://web.archive.org/web/20150421070949/http://page.freett.com/ykyk00/",
+      "url_diff" : ""
    },
    {
       "artist" : "Riku / obj. Tristan97",
