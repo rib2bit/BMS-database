@@ -1037,6 +1037,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "佐久間まゆ / 星輝子 / 遊佐こずえ",
+      "comment" : "st0or1",
+      "level" : "1",
+      "md5" : "10d392fa0b8a455a885c0a3eb69c94d6",
+      "proposer" : "chouco",
+      "proposerLr2id" : 158333,
+      "sha256" : "127d4219eef74567385395ffdbbea7d15d31d6164c4ad89638e0fbba668de5eb",
+      "submission" : 1176,
+      "title" : "恋愛シンドローム -ふしぎなちから-",
+      "url" : "http://1drv.ms/1WnER2y",
+      "url_diff" : "https://www.dropbox.com/s/j6bql4ya0dm6k9i/renaisynd.zip?dl=1",
+      "zureCount" : 0
+   },
+   {
       "artist" : "翡乃イスカ / obj : LindBlum彡☆",
       "level" : "8",
       "md5" : "11906c4d8afcb377c7b7a0a611a6011a",
@@ -15213,6 +15227,19 @@
       "title" : "人形楽団　～ Puppet Ensemble ・∀・ ～ [SEIRYU　EX]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=154&event=60",
       "url_diff" : "http://kusaiseiryu.web.fc2.com/doblestairs.html"
+   },
+   {
+      "artist" : "tcheb obj.hex",
+      "comment" : "no misalignment (N,H,A are have misalignment)",
+      "level" : "1",
+      "md5" : "ea755ec70f08d00c44fb0bd7fabac19d",
+      "proposer" : "chouco",
+      "proposerLr2id" : 158333,
+      "sha256" : "665e65d8a80f6710d6e3970cee2c9e1d6158f38a20de08dff8b906ebb35f6d01",
+      "submission" : 1175,
+      "title" : "イノリ [Hexagon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=86",
+      "url_diff" : "http://bms.hexlataia.xyz/sabun/%E2%98%85%E2%98%851%20%E3%82%A4%E3%83%8E%E3%83%AA%20%5BHexagon%5D.zip"
    },
    {
       "artist" : "裏 吉 川 / 3-1-2-1",

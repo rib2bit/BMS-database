@@ -225,6 +225,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "tcheb obj.hex",
+      "comment" : "no misalignment (N,H,A are have misalignment)",
+      "level" : "1",
+      "md5" : "ea755ec70f08d00c44fb0bd7fabac19d",
+      "proposer" : "chouco",
+      "proposerLr2id" : 158333,
+      "sha256" : "665e65d8a80f6710d6e3970cee2c9e1d6158f38a20de08dff8b906ebb35f6d01",
+      "submission" : 1175,
+      "title" : "イノリ [Hexagon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=86",
+      "url_diff" : "http://bms.hexlataia.xyz/sabun/%E2%98%85%E2%98%851%20%E3%82%A4%E3%83%8E%E3%83%AA%20%5BHexagon%5D.zip"
+   },
+   {
       "artist" : "ZUN remixed by LeaF Movie:Optie/Illust:セシル◇タイト/Obj:Omino",
       "comment" : "10~11だと思います...",
       "level" : "11",
