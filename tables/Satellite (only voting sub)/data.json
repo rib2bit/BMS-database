@@ -139,6 +139,22 @@
       "zureCount" : 0
    },
    {
+      "artist" : "kyou1110 vs 九八式旋回機関銃 / obj:みっと",
+      "level" : "10",
+      "md5" : "44b67fc9a16975d036aa563ded206298",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "b26f4204bd2a4f9bd70a4c394929552d7ed363a5121ab4e29d2df70541950e86",
+      "submission" : 233,
+      "title" : "Six Pieces Dummy [A sharpness knife]",
+      "url" : "https://keysounds.net/events/event/1/impressions/id/4",
+      "url_diff" : "http://zzssccaxd.wixsite.com/bmsabun/sabunkikaku",
+      "voteNeutral" : 0,
+      "voteNo" : 6,
+      "votePercent" : 57.1428571428571,
+      "voteYes" : 8
+   },
+   {
       "artist" : "Yusuke Takeuchi",
       "comment" : "BPM112 縦連",
       "level" : "3",
@@ -355,6 +371,20 @@
       "submission" : 1475,
       "title" : "SpellBound [CHARM]",
       "url" : "https://web.archive.org/web/20070121141237/yamajet1984.net/library/suzuki/sb.rar",
+      "url_diff" : "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view?usp=sharing",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "IRAG obj:kaguya",
+      "comment" : "乱打/微連打/皿複合",
+      "level" : "2",
+      "md5" : "ff8a205c1488a9469205326f071d051a",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "85988ff83944efbe1bfd434ad4ec6936f981a41ca849c152084aa269c3fa394e",
+      "submission" : 1488,
+      "title" : "Sky High [wing]",
+      "url" : "https://web.archive.org/web/20060602211417/http://hoyo0108.hp.infoseek.co.jp/sky_high.rar",
       "url_diff" : "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view?usp=sharing",
       "zureCount" : 0
    }
