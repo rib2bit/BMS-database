@@ -109,6 +109,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Juggernaut. BGA:drowseland obj:Lapis",
+      "comment" : "G2R2018 / 同梱譜面, トリル, 同時押し, 皿, LN",
+      "level" : "0",
+      "md5" : "2ba3072c031ff8af0034eccee290ea89",
+      "proposer" : "DK",
+      "proposerLr2id" : 46697,
+      "sha256" : "fce0e9a749c39bfe1cf59e0814dd0a7d7cb411e8d43606ff39dbf59821fbcac6",
+      "submission" : 1493,
+      "title" : "Revenant [Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=319&event=123",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Dachs / Movie : わっふゑ obj.Mallow♪",
       "level" : "8",
       "md5" : "2e0b721babb8fb62ce977c23c9f364f9",
@@ -266,6 +279,20 @@
       "voteYes" : 9
    },
    {
+      "artist" : "pr.s obj: Dolphin",
+      "comment" : "sl0~2? (tateren)",
+      "level" : "1",
+      "md5" : "77c5bd7c18b55002b8549dd50c331965",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "a8913b44e7e39183599a5941d60d21ba1c7da65a1ab9ba87a8f4730b041e5c51",
+      "submission" : 1494,
+      "title" : "Lepontinia",
+      "url" : "http://dl.dropbox.com/s/tspye2yzxlr69gd/prs_Lepontinia.rar",
+      "url_diff" : "",
+      "zureCount" : 0
+   },
+   {
       "artist" : "削除 / 石像くん obj.かに",
       "comment" : "乱打",
       "level" : "9",
@@ -305,6 +332,20 @@
       "title" : "シュリ [あははははははははははははははははは]",
       "url" : "https://web.archive.org/web/20200607062139/http://sunaneko.iptime.org/BMS_Library/%E3%82%B7%E3%83%A5%E3%83%AA%20(by%20%E3%82%B7%E3%82%A3%E3%83%8A%20%C3%97%20A.M.).rar",
       "url_diff" : "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "SCJ Church",
+      "comment" : "jack+scr+CN",
+      "level" : "3",
+      "md5" : "9919189d8ccd8fb084a56e818a237bd1",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "bdbb8fd4f36f09ee079fcb4358228064e7e13ff58545ad2a7f58a70349efd5e0",
+      "submission" : 1495,
+      "title" : "SHINCHEONJI [144000]",
+      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=66&order=reg&odtype=a",
+      "url_diff" : "",
       "zureCount" : 0
    },
    {
