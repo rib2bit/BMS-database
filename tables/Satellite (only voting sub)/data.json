@@ -166,6 +166,22 @@
       "zureCount" : 0
    },
    {
+      "artist" : "lixound mov:Xquid",
+      "level" : "0",
+      "md5" : "448ccb9a5dfcd9a96d81123b53e1d29f",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "ca105a6b956cae12a06e78c654bca9e9f2beaf250b790284958ce69af0e1714e",
+      "submission" : 1303,
+      "title" : "Break Through The Barrier [HYPER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=440&event=116",
+      "url_diff" : "",
+      "voteNeutral" : 6,
+      "voteNo" : 2,
+      "votePercent" : 72.2222222222222,
+      "voteYes" : 10
+   },
+   {
       "artist" : "kyou1110 vs 九八式旋回機関銃 / obj:みっと",
       "level" : "10",
       "md5" : "44b67fc9a16975d036aa563ded206298",
@@ -206,6 +222,20 @@
       "title" : "Phantribe [Stygian Riverside]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=42&event=129",
       "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "qfeileadh feat.レゾナンスもえこ mov:自動車 原付 / Obj.Triforce",
+      "comment" : "PABAT! 2020 / 地力、LN",
+      "level" : "2",
+      "md5" : "4de642df5814292d66db1f011f63a676",
+      "proposer" : "DK",
+      "proposerLr2id" : 46697,
+      "sha256" : "8d1d1deb26bf3331a6b4c0933aa4475d11bf5a91ced162a2faed7d8e895bf9c2",
+      "submission" : 1496,
+      "title" : "Prismrose [Blossom]",
+      "url" : "https://www.dropbox.com/s/zi85mtugat7t0fg/qfeileadh_Prismrose_BGA.zip?dl=0",
+      "url_diff" : "https://trfce.github.io/sabun/(117)prismrose_triforce.zip",
       "zureCount" : 0
    },
    {

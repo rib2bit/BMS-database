@@ -804,6 +804,19 @@
       "url_diff" : "https://ux.getuploader.com/dpbms/download/541"
    },
    {
+      "artist" : "くるやのぶ BGA:CORAL obj:Ploutonendou",
+      "comment" : "同梱譜面",
+      "level" : "1",
+      "md5" : "349ba985ad69368d8bc559c86d2fd256",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "0ac6b0ff441749745a67fb77d9b199fe864be59408350bde119309ed816f82cb",
+      "submission" : 348,
+      "title" : "ΦReboot [14key]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=95&event=127",
+      "url_diff" : ""
+   },
+   {
       "artist" : "69 de 74 BGA:иоио obj:Yosk!",
       "level" : "6",
       "md5" : "3615e69aa5ae32a4574a694af7c2551b",
@@ -943,6 +956,20 @@
       "title" : "あのね、涙は。 [DP-sagINSANE]",
       "url" : "https://venue.bmssearch.net/3/7",
       "url_diff" : "https://ux.getuploader.com/dpbms/download/535"
+   },
+   {
+      "artist" : "Reku Mochizuki obj:RaiN",
+      "comment" : "PABAT2020",
+      "level" : "9",
+      "md5" : "3d03c5f1f609206bd51d852ebe5b4b74",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "efcc9f3fe32326b1efb3d151da2981d22f00edf989a1a7d4cc9323f214c96c21",
+      "submission" : 352,
+      "title" : "Yorixiro [OyaxiroSama]",
+      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=5&order=reg&odtype=a",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/862",
+      "zureCount" : 0
    },
    {
       "artist" : "tcheb / mov : 石王マサト obj:kuro",
@@ -2222,6 +2249,19 @@
       "url_diff" : "https://1drv.ms/f/s!AhTuCFLHGy4ljGts4x3cy5XqL0Ag"
    },
    {
+      "artist" : "xellox vs daisan / 140 obj.quad",
+      "level" : "2",
+      "md5" : "876f882509389666138eb0750a03d778",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "7dc82dea4e1b4b4666fc5f7f6050dec397f0c1534f878b3af64c2221ac2c9f15",
+      "submission" : 349,
+      "title" : "Last Selection [DP Extreme]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=84",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/700",
+      "zureCount" : 0
+   },
+   {
       "artist" : "ETIA. feat. Jenga obj:けろりん Movie: HDLV",
       "level" : "1",
       "md5" : "87a99be482ff03fe37134265827aabf0",
@@ -3276,6 +3316,20 @@
       "url_diff" : "https://ux.getuploader.com/dpbms/download/641"
    },
    {
+      "artist" : "ETIA. Movie: iimo / obj: braun",
+      "comment" : "BOFU2016",
+      "level" : "5",
+      "md5" : "cca5010db2e7f9cd786f13da01c1fc16",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "243c9170e774cef22939b9b0be3aa76931178e7fa3c32e486cdd3939d065edcb",
+      "submission" : 351,
+      "title" : "Scaffold [DP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=110",
+      "url_diff" : "http://nekokan.dyndns.info/~lobsak/genocide/grade.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "STASTA TEKINA",
       "level" : "4",
       "md5" : "ce7d6db9389dea40079e947f2d83a2c5",
@@ -4022,6 +4076,20 @@
       "title" : "WHIRLWIND [DP SHDMix]",
       "url" : "https://k-bms.com/party_pabat/party2016.jsp?board_num=17&num=43&order=reg&odtype=a",
       "url_diff" : ""
+   },
+   {
+      "artist" : "Xect. / obj:nono22 MOVIE: SeibaR",
+      "comment" : "BOFU2017",
+      "level" : "6",
+      "md5" : "f7498e0befb9d2e581871430d9670ecc",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "6c2e6075f2cfbd69d0361b9ea5054c7ee908d2d31ab3615f31243bbca2c2446e",
+      "submission" : 350,
+      "title" : "Emptiness [DP ANOTHER]",
+      "url" : "https://www.dropbox.com/s/39qrje1f1j7wqyx/Emptiness.zip?dl=0",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/453",
+      "zureCount" : 0
    },
    {
       "artist" : "papyrus / obj:Louis Movie: 浪漫映像制作倶楽部",

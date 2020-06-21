@@ -1386,6 +1386,13 @@
       "title" : "NativeFaith - CrossGear Mix [DP EXTRA]"
    },
    {
+      "artist" : "GYAON",
+      "comment" : "ROCKMAN MUSIC",
+      "level" : "1",
+      "md5" : "0772e7e840a5f61c0f5989fefada8c22",
+      "title" : "グラビティマンステージ [DPA]"
+   },
+   {
       "artist" : "ぷるぷる類人猿",
       "comment" : "正月",
       "level" : "?",
@@ -1566,6 +1573,13 @@
       "level" : "10",
       "md5" : "0876eb1d0cb0e0cdd774596103885fd1",
       "title" : "飛燕草 [DP hututher]"
+   },
+   {
+      "artist" : "gransear obj:肴",
+      "comment" : "WORLD/BREAKBEATS",
+      "level" : "4",
+      "md5" : "087710c172456adf80ce6fd0f2f9d8c4",
+      "title" : "古代の風に沈む城 [DPA]"
    },
    {
       "artist" : "remixed celas feat.ARU / air",
@@ -2042,6 +2056,13 @@
       "level" : "4",
       "md5" : "0acea8bfa4f5d793e5f85118d7da3f78",
       "title" : "七つの鍵盤のためのソナタ -嬰ニ短調- [kumanother]"
+   },
+   {
+      "artist" : "路傍の石 Original:中潟憲雄 *MINBPM 0:20~",
+      "comment" : "Chiptune",
+      "level" : "?",
+      "md5" : "0ad0949896e292cc35fa0f3ec2e04384",
+      "title" : "ホームラン [14key Another]"
    },
    {
       "artist" : "Rocky / obj.LetsOTL",
@@ -4928,6 +4949,13 @@
       "title" : "Espresso Shots [DP Double Shots Rev.2]"
    },
    {
+      "artist" : "ZUN remixed by LeaF / Limite feat.LetsOTL Movie:Optie / Illust:セシル◇タイト",
+      "comment" : "KYRIE",
+      "level" : "★10",
+      "md5" : "1aa94d84cc4e9def196eab2b8900ad4d",
+      "title" : "Armageddon [Nuclear Launch Detected]"
+   },
+   {
       "artist" : "q/stol / object by meteor* *L.MIRROR",
       "comment" : "Heavy Metal",
       "level" : "9",
@@ -5206,6 +5234,13 @@
       "level" : "1",
       "md5" : "1c8c39a9a94d6f5cf13616fbefaed119",
       "title" : "私のヒトミ"
+   },
+   {
+      "artist" : "nmk feat.かなえゆめ / obj:mkd BGA:石王マサト",
+      "comment" : "EUROBEAT",
+      "level" : "6",
+      "md5" : "1c99180eeafd54f8e80dd635f7362181",
+      "title" : "繋いで！Miracle☆Wish -N&H Style Mix-[DP Another]"
    },
    {
       "artist" : "しらいし obj: misty.ls04  *R.MIRROR",
@@ -5689,6 +5724,13 @@
       "level" : "7",
       "md5" : "1f85451f13ba408cca8ac2d58a737e7f",
       "title" : "Teng-Ya Wang-Ya [DP てんやわんや]"
+   },
+   {
+      "artist" : "Phracta obj:肴",
+      "comment" : "Chiptune",
+      "level" : "4",
+      "md5" : "1f9360e3380bf1997449260a4e972bf0",
+      "title" : "Psi Addicted [14key]"
    },
    {
       "artist" : "ETIA. / obj:killer TOMATO nmk",
@@ -10773,6 +10815,13 @@
       "title" : "Valhalla [DP ANOTHER]"
    },
    {
+      "artist" : "Symphonian *R.MIRROR",
+      "comment" : "Drum'n'Bass",
+      "level" : "★1",
+      "md5" : "3c62caa06b78e02ca32e5a4d3f70114e",
+      "title" : "Modula (DA)"
+   },
+   {
       "artist" : "Symphonian *L.MIRROR",
       "comment" : "Industrial Rock",
       "level" : "3",
@@ -12411,6 +12460,13 @@
       "title" : "エイリアン Love feat. 初音ミク (tigerlily remix) -LAST BOSS-"
    },
    {
+      "artist" : "nmk feat.橘花音 / obj:plum Guitar:はらたま BGA:わっふゑ",
+      "comment" : "FANTASIC EUROBEAT",
+      "level" : "★1",
+      "md5" : "4577b939918ed0bce242c806e8a3b0aa",
+      "title" : "永劫綺譚の純潔葬花 -DP MIYATHER-"
+   },
+   {
       "artist" : "SB YUNE/obj vectorla *FLIP",
       "comment" : "Dramatic Trance",
       "level" : "2",
@@ -13671,6 +13727,13 @@
       "title" : "おジャ魔女でBANBAN！(Pop-mix) -Another14-"
    },
    {
+      "artist" : "Symphonian",
+      "comment" : "Drum'n'Bass",
+      "level" : "3",
+      "md5" : "4cd49ae2de06af44af6299830f8a2a93",
+      "title" : "Modula (DH)"
+   },
+   {
       "artist" : "マピ子 / [obj:Thulium]",
       "comment" : "HOUSE",
       "level" : "2",
@@ -13743,7 +13806,7 @@
    {
       "artist" : "Maestro Zbigniew obj : 71066  *R.MIRROR",
       "comment" : "Classic memories",
-      "level" : "★6",
+      "level" : "★5",
       "md5" : "4d4059d4f865b94916fb2afecd648f93",
       "title" : "Bravoooo!!!! [哲学14]"
    },
@@ -13963,6 +14026,13 @@
       "level" : "★9",
       "md5" : "4ec6bfcc2b4a891da8d61d5e3e7915d2",
       "title" : "人　身　事　故　で　停　止"
+   },
+   {
+      "artist" : "メスクラ (エヴァたん＆メコたん) obj:ucc *R.MIRROR",
+      "comment" : "ルネッサンスコア",
+      "level" : "1",
+      "md5" : "4ecb3992413d1355a94a08c1abe64e29",
+      "title" : "アズール [H14]"
    },
    {
       "artist" : "Ryu vs Sota / Amuro vs Killer / O.S.GATE",
@@ -15475,6 +15545,13 @@
       "level" : "1",
       "md5" : "56fb2939e516dbf5585a00334668b32f",
       "title" : "Yellow Smile (bms edit) [Type/D]"
+   },
+   {
+      "artist" : "ダークサンバマスター佐藤 -SATOH- / obj:plum",
+      "comment" : "ゆったり系Psychedelic Trance",
+      "level" : "2",
+      "md5" : "570881385b6009f79da330b64bce2c02",
+      "title" : "ダークサンバランド -DP MOLTHER-"
    },
    {
       "artist" : "naotyu- obj:けろりん *R.MIRROR",
@@ -17456,6 +17533,13 @@
       "level" : "1",
       "md5" : "618b3937f9a218612973edca67238e95",
       "title" : "Koralle -14key another-"
+   },
+   {
+      "artist" : "GYAON obj:肴",
+      "comment" : "ROCKMAN MUSIC",
+      "level" : "6",
+      "md5" : "619aa06561ac8d7a30cd37aaf3b90308",
+      "title" : "グラビティマンステージ [DPA2]"
    },
    {
       "artist" : "unknown \"γ\" unknown \"↓\"",
@@ -20286,6 +20370,13 @@
       "title" : "白の魔法の光 [magical]"
    },
    {
+      "artist" : "Freezer feat. 妃苺 obj:NAGISA",
+      "comment" : "ONSEN POP",
+      "level" : "5",
+      "md5" : "713926deb25bd3663ee6552f45f7514b",
+      "title" : "温泉大作戦 [DP NAGITHER]"
+   },
+   {
       "artist" : "DG-P/obj:epics- Image:Deino  *R.MIRROR",
       "comment" : "HAPPY HARDCORE",
       "level" : "6",
@@ -21628,6 +21719,13 @@
       "level" : "★1",
       "md5" : "78182197c48a3db307ecbc4d9df83954",
       "title" : "／^o^＼ -サファリパーク- [14keys]"
+   },
+   {
+      "artist" : "13eastie",
+      "comment" : "Sad & Melodic Trance",
+      "level" : "7",
+      "md5" : "781ba234b4722c23c00892d8351fe438",
+      "title" : "Mermaid Breeze [DP_ANOTHER]"
    },
    {
       "artist" : "かゆき/obj:epics-",
@@ -24890,6 +24988,13 @@
       "level" : "★6",
       "md5" : "88eb1cabf16eb04d5eda8bf5a94b48d3",
       "title" : "Reconnected [DP ANOTHER]"
+   },
+   {
+      "artist" : "Syatten obj:肴",
+      "comment" : "Instrumental",
+      "level" : "★2",
+      "md5" : "88f52ea26341b40c85be5e52aa28b5e7",
+      "title" : "The sinking world [DP EXTREME]"
    },
    {
       "artist" : "ZUN Remixed by くっちー Respect for L.E.D.-G vs Ryu☆ Illust:きさ Obj:ucc  *FLIP R.MIRROR",
@@ -30046,7 +30151,7 @@
    {
       "artist" : "Masters Gumi. obj.にゃむ",
       "comment" : "Hyper Trance Mix",
-      "level" : "6",
+      "level" : "8",
       "md5" : "a3f431c1c6abd20d6618d16c7c26d50c",
       "title" : "ugoku,ugoku-hyper m,gumix- [終末]"
    },
@@ -32704,6 +32809,13 @@
       "title" : "Jihad [ANOTHER14]"
    },
    {
+      "artist" : "abysalla",
+      "comment" : "Witch House",
+      "level" : "9",
+      "md5" : "b232fe27e0c532df95ca5147c2349c34",
+      "title" : "isolato (14kill)"
+   },
+   {
       "artist" : "主人公[obj:MGN]",
       "comment" : "ラストバトル",
       "level" : "9",
@@ -33852,6 +33964,13 @@
       "title" : "Pure Boys -for Beginner14-"
    },
    {
+      "artist" : "Blue-J",
+      "comment" : "NOT BMS",
+      "level" : "1",
+      "md5" : "b81307a95df915c89c4d13d1601ec88a",
+      "title" : "NOT BMS [14A]"
+   },
+   {
       "artist" : "哀愁マニア",
       "comment" : "hi-nrg / trance",
       "level" : "★8",
@@ -34284,6 +34403,13 @@
       "level" : "7",
       "md5" : "ba42bf286f04905a967a4007c39eecd8",
       "title" : "cold world [DP ANOTHER]"
+   },
+   {
+      "artist" : "eoll feat.白羽美依 obj.にゃむ",
+      "comment" : "ピコピコポップ",
+      "level" : "4",
+      "md5" : "ba489ea5e36ece66e790c36e2c5ea141",
+      "title" : "パステルプラネット [小惑星]"
    },
    {
       "artist" : "Super Retro Brothers",
@@ -34774,6 +34900,13 @@
       "level" : "★5",
       "md5" : "bcdd84932c368cde4876aa7a7ae49860",
       "title" : "ぼうけんの森 [DP ⇒CONNECTION⇒]"
+   },
+   {
+      "artist" : "455 / *8284* obj: shiba",
+      "comment" : "P s y",
+      "level" : "9",
+      "md5" : "bce0050335a4d2e46cf56f2e1215dc81",
+      "title" : "G e n g a o z o A⇒Side [HIMMEL]"
    },
    {
       "artist" : "ZUN(Arr.sun3) OBJ.みっと  *LR.MIR or FLIP",
@@ -40642,6 +40775,13 @@
       "title" : "Endless Dream MGNother.2nd"
    },
    {
+      "artist" : "LeaF Movie:Optie / obj:lichtr  *AVE-20",
+      "comment" : "PROGRESSIVE IDM",
+      "level" : "3",
+      "md5" : "de7d981e2a12d30aca8dd4e2da574d6c",
+      "title" : "I"
+   },
+   {
       "artist" : "mommy",
       "comment" : "J-ROCK FUSION",
       "level" : "4",
@@ -41725,6 +41865,13 @@
       "level" : "2",
       "md5" : "e534cc3aa6356056ff169abebec408f4",
       "title" : "バトル2  [DP ANOTHER]"
+   },
+   {
+      "artist" : "Symphoniac *LR.RANDOM",
+      "comment" : "Psytrance",
+      "level" : "10",
+      "md5" : "e538ac1eab572f31cb3ebc58d950448a",
+      "title" : "OrganIsMandala (DX)"
    },
    {
       "artist" : "s-don / jubeated / obj. DOS *R.MIRROR",

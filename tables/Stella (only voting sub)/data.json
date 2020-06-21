@@ -16,6 +16,19 @@
       "voteYes" : 2
    },
    {
+      "artist" : "Music : Lunatic Sounds / BGA : Photonskyto",
+      "comment" : "★★2",
+      "level" : "2",
+      "md5" : "1c69a9a25a189cb71ba809621a35b0d7",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "434f68c0684feaea5ffbd83aabfb5e01956fb269f1b37a87a00d888ef58381a4",
+      "submission" : 1181,
+      "title" : "DataErr0r [OveRfl0w]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=104",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
+   },
+   {
       "artist" : "キメラのキタムラ",
       "level" : "5",
       "md5" : "3b5a99eb97efa1552b66d0a3bbe4d824",
@@ -56,6 +69,33 @@
       "submission" : 1165,
       "title" : "直角スライド:CrazyGirl",
       "url" : "https://onedrive.live.com/redir?resid=CE038C7E1045ACD3!173&authkey=!AHVb22I2pnUZK1g&ithint=folder%2czip",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "Gun-SEKI // 如 obj: qtp13",
+      "comment" : "BPM155 微縦",
+      "level" : "3",
+      "md5" : "58fff7b78b7e760a1cf800ea8a8900e4",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "c4e26a6ef7b3460a50450a66861d4be3d87e8023b0e6f171b933dcce1ba73ab5",
+      "submission" : 1178,
+      "title" : "This is the RAVE!! (Extra7)",
+      "url" : "http://web.archive.org/web/20090609180131/http://www.bmsjournal.info/event/bjc4/9.html",
+      "url_diff" : "https://stellabms.xyz/upload/88",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "Rave Cyanide [BMS Edit R.W.R]",
+      "comment" : "st1~3 (missing crash.wav, but no artificial zures)",
+      "level" : "2",
+      "md5" : "5f799c4338e7cfaa332ebe85a7714dbc",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "89b0d73a551abe92ff7e1d79d97dfd6545492cbf4bed333af0c6b5aa188cf9d2",
+      "submission" : 1177,
+      "title" : "Palette Of The Life [Leggenderia]",
+      "url" : "https://www.dropbox.com/s/haz6j8faux15v37/Palette%20of%20the%20Life.zip?dl=0",
       "url_diff" : ""
    },
    {
@@ -128,6 +168,20 @@
       "zureCount" : 0
    },
    {
+      "artist" : "nmk feat.橘花音 / obj:夢瑠",
+      "comment" : "eurobeat power",
+      "level" : "0",
+      "md5" : "8cdcb6ae2ac0d4313b12b89da0227561",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "0b08d2ab5f8ae6aa498c037bdf73e564ec3f04e1b70d330298be67e480c6e09d",
+      "submission" : 1180,
+      "title" : "Awaking Beat-From the next generation- [yumether]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=189&event=127",
+      "url_diff" : "https://dl.dropboxusercontent.com/s/1dkittw1dybz5nw/_Awaking_yume.zip",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Kyuzo Sameura feat. a-m BGA : 荒巻＆早明浦キュウゾウ / obj:七海千秋",
       "comment" : "AnzutoolでSPAと比較するとズレ三つありますがディレイ追加キー音だからプレイには問題X",
       "level" : "1",
@@ -196,6 +250,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "ARForest / inukoro",
+      "comment" : "BPM195 乱打",
+      "level" : "3",
+      "md5" : "bd2326f72f9586eb13f5f4f9d202ade2",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "ff422b37ae5dea78256a09a31a652b23e449739ffd57ca3f0442a7e7105cb6e0",
+      "submission" : 1179,
+      "title" : "The Last Page -LAST BOSS-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=163&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
+      "zureCount" : 0
    },
    {
       "artist" : "SPELL BREAK HEART BREAK / 度胸テニス",
