@@ -2,6 +2,7 @@
    {
       "artist" : "adamthix OBJ.IMFEL",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 282902,
@@ -17,6 +18,7 @@
    {
       "artist" : "秋山 澪/obj:epics-",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 81163,
@@ -32,6 +34,7 @@
    {
       "artist" : "midori obj:ucc",
       "comment" : " →OneDriveにて補完 https://onedrive.live.com/?cid=3FB27C3B8FE97CE4&id=3FB27C3B8FE97CE4%21107",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 10021,
@@ -47,6 +50,7 @@
    {
       "artist" : "源屋feat.ユスラ obj:killer TOMATO",
       "comment" : " 修正版 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 124599,
@@ -62,6 +66,7 @@
    {
       "artist" : "はむ＆kyuu / NORE (obj:k)",
       "comment" : " skydriveで補完しました。(2011/11/18) https://skydrive.live.com/?cid=863934608d908cd0&sc=documents",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 107025,
@@ -77,6 +82,7 @@
    {
       "artist" : "zest:rave/objEPICS-",
       "comment" : " ■[こちらのURLにて本体保管] by 2011/03/10 （14/03/15サービス使用不可DL不可能？） http://goo.gl/jgRBA  14/03/15 差分のみ確認 14/03/16 本体 http://www.zestrave.com/ (ページ内の[＜]又は[＞]ボタン→H.S:Hadron Strikeの紹介文下のBMS Downloadボタン→OneDriveへ)",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 63458,
@@ -92,6 +98,7 @@
    {
       "artist" : "ピヨスケ / Z_N",
       "comment" : " -Another DL http://dl.dropbox.com/s/06uhhrsnwdbuoyd/%5Bsasakure.uk%5DP-ChicK-ParK%20DP.zip?dl=0",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 199425,
@@ -107,6 +114,7 @@
    {
       "artist" : "ねこみみ魔法使い",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 12397,
@@ -122,13 +130,14 @@
    {
       "artist" : "onoken / obj:Redrum",
       "comment" : "",
+      "delete" : 0,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 4276,
       "md5" : "0336fef6ffbc308a99b6b9db7d0539ed",
       "name_diff" : "",
       "reg_date" : " ",
-      "state" : 0,
+      "state" : 1,
       "tag" : null,
       "title" : "BBBLOW (EX14)",
       "url" : "http://web.archive.org/web/20070111193502/www107.sakura.ne.jp/~onoken/htmls/bms.html",
@@ -137,13 +146,14 @@
    {
       "artist" : "er / obj.LetsOTL",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 209081,
       "md5" : "04444711afe3b0776835b23f4d4bf2eb",
       "name_diff" : "",
       "reg_date" : " ",
-      "state" : 1,
+      "state" : 0,
       "tag" : null,
       "title" : "午後のこいしちゃん [DP ⌒ワ⌒]",
       "url" : "http://yaruki0.sakura.ne.jp/event/ondanyugi5/impression.cgi?no=5",
@@ -152,6 +162,7 @@
    {
       "artist" : "q/stol obj.mitsuki",
       "comment" : " https://ux.getuploader.com/dpbms/download/152",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 245017,
@@ -167,6 +178,7 @@
    {
       "artist" : "SHIKI+-",
       "comment" : " 14/04/17 本体入手可。 差分入手困難。  14/04/27 差分はIAから入手可 https://web.archive.org/web/20110424083058/http://www.scn-net.ne.jp/~pons58/sabun/air14sp.rar",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 1289,
@@ -182,6 +194,7 @@
    {
       "artist" : "daisan obj:kuro",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 222450,
@@ -197,8 +210,9 @@
    {
       "artist" : "Rabbit Bat obj:NEPIA",
       "comment" : " →OneDriveにて補完 https://onedrive.live.com/?cid=3FB27C3B8FE97CE4&id=3FB27C3B8FE97CE4%21107",
+      "delete" : null,
       "eval" : 0,
-      "level" : "？",
+      "level" : "?",
       "lr2_bmsid" : 82511,
       "md5" : "06102db64b3404039898e21b59196e7f",
       "name_diff" : "",
@@ -212,6 +226,7 @@
    {
       "artist" : "STASTA BGA : nanairo obj:Hersh",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 258778,
@@ -227,6 +242,7 @@
    {
       "artist" : "るるりえーる",
       "comment" : " 同梱譜面 本体リンク切れのため保https://www.dropbox.com/s/fjccjz390i2vfbp/First%20Creation.rar?dl=1",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 219120,
@@ -242,6 +258,7 @@
    {
       "artist" : "Grand Thaw",
       "comment" : " dpbms_0143.zip",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 74308,
@@ -255,8 +272,25 @@
       "url_diff" : "http://www42.tok2.com/home/dpbms/cgi-bin/uploader/"
    },
    {
+      "artist" : "Xakyo / obj.LetsOTL",
+      "comment" : "",
+      "delete" : null,
+      "eval" : 0,
+      "level" : 7,
+      "lr2_bmsid" : 212456,
+      "md5" : "06f45c43624c1d6fc5b5d2aa49368566",
+      "name_diff" : "",
+      "reg_date" : " ",
+      "state" : 1,
+      "tag" : null,
+      "title" : "ROCKET KID [DP ε=>■>]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=251&event=96",
+      "url_diff" : "http://www.dropbox.com/s/1gwisxmaxbd4hb4/ROCKET_KID%5Bdprocket%5D.zip?dl=0"
+   },
+   {
       "artist" : "ZUN(Arr.sun3)",
       "comment" : " 14/04/17 本体入手困難。 差分入手可。 14/04/27 本体はGENOSIDEから入手可 http://nekokan.dyndns.info/~lobsak/genoside/",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 27379,
@@ -272,6 +306,7 @@
    {
       "artist" : "455 / rio / dp-314",
       "comment" : " 2014/06/06 差分はIAからDL可です。 https://web.archive.org/web/20051217022725/http://zrk.bms.ms/turedure/s-dp/genga_14.zip 本体は左メニューの Archive のリンク先にあります。曲名中にスペースが入っているので、ページ内検索をする際には注意",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 2509,
@@ -287,6 +322,7 @@
    {
       "artist" : "wint / (obj:V-E)",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 133120,
@@ -302,6 +338,7 @@
    {
       "artist" : "RainDrops",
       "comment" : " 譜面同梱 2014/03/30 上記URLから手に入るBMSファイルはハッシュが違うのか発狂譜面として認識されない。 2014/04/03 上記URLから手に入るBMSはこちらっぽいです。http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsid=166712 2014/09/13 こちらでBMSがダウンロードできます。 http://bit192.dnsd.info/temp/newevent/detail.php?num=30  2014/12/13 http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsid=1657の補完よりダウンロードを確認。譜面は新しいフォルダー内 https://onedrive.live.com/?cid=DE6C2233D3348440&id=DE6C2233D3348440%21160",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 3206,
@@ -317,6 +354,7 @@
    {
       "artist" : "Nene Anegasaki feat. Salita Movie : Ryuka",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 113598,
@@ -332,6 +370,7 @@
    {
       "artist" : "カラフル・サウンズ・ポート",
       "comment" : " dpbms_0378.zip",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 114320,
@@ -347,6 +386,7 @@
    {
       "artist" : "AKITO(obj:A-4)",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 13613,
@@ -362,6 +402,7 @@
    {
       "artist" : "44teru-k obj:ucc",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 81323,
@@ -377,6 +418,7 @@
    {
       "artist" : "しらいし obj: misty.ls04",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 260945,
@@ -392,6 +434,7 @@
    {
       "artist" : "syzfonics(仮名)",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 3267,
@@ -407,6 +450,7 @@
    {
       "artist" : "BACO / bga : kody",
       "comment" : " 14/04/17 本体入手可。",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 5505,
@@ -422,6 +466,7 @@
    {
       "artist" : "Grand thaw obj ; N",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 199030,
@@ -437,6 +482,7 @@
    {
       "artist" : "8284 / Obj:ゆ～兎",
       "comment" : " Luminous Packageに同梱 差分のみは、Sabun Packageに収録されています。  Luminous Package再配布曲 DL http://1drv.ms/1FKPy5j *本体入手はここからダウンロードしてください  予備\\\\r http://www42.tok2.com/home/dpbms/cgi-bin/uploader/src/dpbms_1566.zip",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 205309,
@@ -452,6 +498,7 @@
    {
       "artist" : "次元大介(obj:A-4)",
       "comment" : " →OneDriveにて補完 https://onedrive.live.com/?cid=3FB27C3B8FE97CE4&id=3FB27C3B8FE97CE4%21107",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 8912,
@@ -467,6 +514,7 @@
    {
       "artist" : "yassu",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 27,
@@ -482,6 +530,7 @@
    {
       "artist" : "Is-m BGA:yuru",
       "comment" : " 譜面同梱 endless musicのDP専用extra曲",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 2976,
@@ -497,6 +546,7 @@
    {
       "artist" : "fether obj:k",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 1875,
@@ -512,6 +562,7 @@
    {
       "artist" : "Cosine BGA:うまうや、Kaoru Miyazaki / obj:Thulium",
       "comment" : " https://www.dropbox.com/s/giw84r4l9cgtok7/Cosine_Is_This_Your_Memory_DP.zip?dl=1",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 259733,
@@ -527,13 +578,14 @@
    {
       "artist" : "悠然 / bunta / obj:epics-",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 115190,
       "md5" : "0f6d2c3bd19fd3190309607ff38edfa4",
       "name_diff" : "",
       "reg_date" : " ",
-      "state" : 1,
+      "state" : 0,
       "tag" : null,
       "title" : "桜花撩乱 [DP HYPER]",
       "url" : "https://web.archive.org/web/20160329200611/http://creation-records.info/bms/yuzen_oukaryouran.rar",
@@ -542,6 +594,7 @@
    {
       "artist" : "SHIKI / obj:Redrum",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 4640,
@@ -557,6 +610,7 @@
    {
       "artist" : "234 obj:k",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 3295,
@@ -572,6 +626,7 @@
    {
       "artist" : "moti Obj.Gatia",
       "comment" : " 2014/03/17 本体はBOF2009公式torrentパッケージにて入手可能。差分は入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 42161,
@@ -587,6 +642,7 @@
    {
       "artist" : "xi Obj.Gatia",
       "comment" : " 第2保管 https://onedrive.live.com/?cid=FD93B4F2CB8CD95F&id=FD93B4F2CB8CD95F!105#cid=FD93B4F2CB8CD95F&id=FD93B4F2CB8CD95F!143 14/04/17 差分入手可。 (2014/04/20)本体はBOF2009のtorrentからもおそらく入手可。",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 41976,
@@ -602,6 +658,7 @@
    {
       "artist" : "void obj:けろりん Momomi Aoyama",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 173563,
@@ -617,6 +674,7 @@
    {
       "artist" : "xi / obj:killer TOMATO",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 45217,
@@ -632,6 +690,7 @@
    {
       "artist" : "nmk feat.かなえゆめ / sequence by ojaga",
       "comment" : " 譜面同梱 IAから入手できる http://web.archive.org/web/20130505062253/http://todoroki.or.tl/bms/nmk_satoriogg.zip 公式サイトからも入手可能。 http://miohosina.moe.hm/index.html  2014/03/17 本体入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 54466,
@@ -647,6 +706,7 @@
    {
       "artist" : "Kaede a.k.a. fen / obj:lichtr",
       "comment" : " （15/01/30） 本体入手不可 差分入手可",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 35314,
@@ -662,6 +722,7 @@
    {
       "artist" : "Yu^ta (obj:k)",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 45268,
@@ -677,6 +738,7 @@
    {
       "artist" : "ARForest / inukoro obj. Limite",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 277925,
@@ -692,6 +754,7 @@
    {
       "artist" : "void Movie : Momomi Aoyama / Sequence by ovERAst",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 114025,
@@ -707,6 +770,7 @@
    {
       "artist" : "syatten + 140",
       "comment" : " *Web Archiveで入手が可能です。  発狂DPBMS手元動画集 http://www.nicovideo.jp/watch/sm13620950  https://www.dropbox.com/sh/xrr3fvlhagzsmm2/Wo6KvwhFql/bms ここから落とせます。  14/04/17 本体入手可。",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 788,
@@ -722,6 +786,7 @@
    {
       "artist" : "Ryo Nakamura obj:けろりん Movie : Photonskyto",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 183888,
@@ -737,6 +802,7 @@
    {
       "artist" : "LOKI (obj:Lara)",
       "comment" : " 2014/03/17 本体、差分ともに入手可能。差分はURLをアドレス欄に直接入力してください。",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 539,
@@ -752,6 +818,7 @@
    {
       "artist" : "sound piercer / mov : kkkfff2 obj. 深海",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 178469,
@@ -767,6 +834,7 @@
    {
       "artist" : "Frost_Shrike vs Kucchi obj:ucc",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 80765,
@@ -782,6 +850,7 @@
    {
       "artist" : "pastel white / ケモノ☆ラバーズ (obj:k)",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 9111,
@@ -797,6 +866,7 @@
    {
       "artist" : "tanacoro BGA: 5argon / obj:Gypsy",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 254833,
@@ -812,6 +882,7 @@
    {
       "artist" : "ZUN(Arr.sun3)",
       "comment" : " 14/03/15 差分確認  本体リンク消滅 http://succinicacid.hp.infoseek.co.jp/ 14/04/27 本体補完あり https://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9!111",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 2507,
@@ -827,6 +898,7 @@
    {
       "artist" : "ZUN (Arr.sun3) OBJ:KLOC",
       "comment" : " 差分を公開しているHPの一時補完を行っております。お手数ですが下記URLより差分をDLして下さい。 http://timetorain.web.fc2.com/ 2014/03/29 差分サイト復活 2014/08/16",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 64139,
@@ -842,6 +914,7 @@
    {
       "artist" : "Mr.ABC / obj : Hador",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 186651,
@@ -857,6 +930,7 @@
    {
       "artist" : "Sora",
       "comment" : " 譜面同梱 こちらから入手可能？(IA) http://web.archive.org/web/20090918191807/http://www.planetoid.biz/?page_id=8 2014/03/17 本体(IA)入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 20,
@@ -872,6 +946,7 @@
    {
       "artist" : "q/stol / obj:二代目IIDX16",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 186275,
@@ -887,6 +962,7 @@
    {
       "artist" : "カラフル・サウンズ・ポート / obj.LetsOTL",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 212094,
@@ -902,6 +978,7 @@
    {
       "artist" : "美樹さやか vs. 美樹さやか (fw. 美樹さやか) BGA ： 美樹さやか",
       "comment" : " 【加古川DP難易度表】http://www.bb.banban.jp/oglover/BMS/kakogawa_dpbms.html",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 173243,
@@ -917,6 +994,7 @@
    {
       "artist" : "Junk obj:けろりん",
       "comment" : " BOF2011DP差分パッケージには同梱されてません  ★50 - 2012/01/30 [プレイ人数4] 新規提案",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 118477,
@@ -932,6 +1010,7 @@
    {
       "artist" : "削除 / obj.LetsOTL",
       "comment" : " Luminous - Pure White http://l-bms.com/2nd/index.php",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 207170,
@@ -947,6 +1026,7 @@
    {
       "artist" : "REX obj:PEN vs 二代目IIDX16",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 187645,
@@ -962,6 +1042,7 @@
    {
       "artist" : "NIKITA / misokabocha / obj:けろちゃんの臀部とゆっちゃんの尻尾",
       "comment" : " http://web.archive.org/web/20140921042604/http://timetorain.web.fc2.com/dp.html",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 187639,
@@ -977,6 +1058,7 @@
    {
       "artist" : "Team:SASAKURATION / Goten obj:ucc",
       "comment" : " 14/04/17 BMS StareterPack 2009 にて入手可能。 http://www50.atwiki.jp/bmswiki/pages/18.html 差分入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 6770,
@@ -992,6 +1074,7 @@
    {
       "artist" : "oxygen",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 3333,
@@ -1007,6 +1090,7 @@
    {
       "artist" : "メアリー / Obj:ゆ～兎",
       "comment" : " http://web.archive.org/web/20140921042604/http://timetorain.web.fc2.com/sabun/Artificial_Rose_ogg_YH.zip 15/02/23 原曲リンク切れ",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 143029,
@@ -1022,6 +1106,7 @@
    {
       "artist" : "generous@clip obj:ucc",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 82666,
@@ -1037,6 +1122,7 @@
    {
       "artist" : "Grand thaw obj:ucc",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 52130,
@@ -1052,6 +1138,7 @@
    {
       "artist" : "narve // dp131 obj:NEPIA",
       "comment" : " 2014/03/17 差分が入手不可能。本体は入手可能。 2014/03/24 差分URLを移転先に変更。差分入手可",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 64844,
@@ -1067,6 +1154,7 @@
    {
       "artist" : "sasakure.UK obj ;; ravelll",
       "comment" : " *Web Archiveで入手が可能です。",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 534,
@@ -1082,6 +1170,7 @@
    {
       "artist" : "あるさん",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 141610,
@@ -1097,6 +1186,7 @@
    {
       "artist" : "Emilio Valentine",
       "comment" : " 譜面同梱 Skydriveにて原曲補完 https://skydrive.live.com/#cid=863934608D908CD0&id=863934608D908CD0%21105  14/03/15 スカイドライブ確認",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 19879,
@@ -1112,6 +1202,7 @@
    {
       "artist" : "Team:SASAKURATION obj:ucc",
       "comment" : " 曲入手困難 2014/04/23 上記URLより入手を確認",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 518,
@@ -1127,6 +1218,7 @@
    {
       "artist" : "uma feat. ましろ obj:kuro",
       "comment" : " https://ux.getuploader.com/dpbms/download/222",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 252658,
@@ -1140,23 +1232,9 @@
       "url_diff" : "https://1drv.ms/f/s!AhTuCFLHGy4ljGts4x3cy5XqL0Ag"
    },
    {
-      "artist" : "ZUN(Arr.sun3) obj:ucc",
-      "comment" : "",
-      "eval" : 0,
-      "level" : 11,
-      "lr2_bmsid" : 650,
-      "md5" : "235949c2c9e0652883a87c88a054f8da",
-      "name_diff" : "",
-      "reg_date" : " ",
-      "state" : 0,
-      "tag" : null,
-      "title" : "冥界帰航 [冥14]",
-      "url" : "",
-      "url_diff" : "http://www.geocities.jp/uccdpbms/index.html"
-   },
-   {
       "artist" : "Lime obj:けろりん",
       "comment" : " 2012/7/8 ★50",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 126367,
@@ -1172,6 +1250,7 @@
    {
       "artist" : "ueotan /obj:松魚",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 151834,
@@ -1187,6 +1266,7 @@
    {
       "artist" : "SHALE vs A4paper / Obj:ゆ～兎",
       "comment" : " http://web.archive.org/web/20140921042604/http://timetorain.web.fc2.com/sabun/conviction_YH.zip",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 169462,
@@ -1202,6 +1282,7 @@
    {
       "artist" : "edit.BACO / from チョロQ2",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 6132,
@@ -1217,6 +1298,7 @@
    {
       "artist" : "しーけー obj:Yosk!",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 248777,
@@ -1232,6 +1314,7 @@
    {
       "artist" : "Feyrlin",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 276444,
@@ -1247,6 +1330,7 @@
    {
       "artist" : "Ras / obj:江ノ島三男vs江ノ島次男",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 188334,
@@ -1262,6 +1346,7 @@
    {
       "artist" : "Ithaca Chasma / obj:OSR",
       "comment" : " dpbms_0353.zip",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 109639,
@@ -1277,6 +1362,7 @@
    {
       "artist" : "にんにくマニア (obj:k)",
       "comment" : " 2014/05/03 本体差分共に入手可",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 45465,
@@ -1292,6 +1378,7 @@
    {
       "artist" : "Grand Thaw obj:けろりん",
       "comment" : " 差分の名前がHP上では Aventyr で登録されてます",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 143329,
@@ -1307,6 +1394,7 @@
    {
       "artist" : "Is-m BGA:AOiRO_Manbow",
       "comment" : " 譜面同梱",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 1814,
@@ -1322,13 +1410,14 @@
    {
       "artist" : "Εσοπτρον obj:kuro",
       "comment" : "本体二次保管（難易度表保管の一番下のほう）https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/folder/UB8gABwB",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 270588,
       "md5" : "284f227b8debdb4270e3e2de78208106",
       "name_diff" : "",
       "reg_date" : " ",
-      "state" : 1,
+      "state" : 0,
       "tag" : null,
       "title" : "Απομνημονευμαι [DP sub another]",
       "url" : "[入手困難] http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=91",
@@ -1337,6 +1426,7 @@
    {
       "artist" : "Trish Movie:Vergil / Obj:ゆ～兎",
       "comment" : " http://web.archive.org/web/20140921042604/http://timetorain.web.fc2.com/sabun/Blooming_YH.zip",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 191898,
@@ -1352,6 +1442,7 @@
    {
       "artist" : "nya_n/BGA:zit obj:ka2o",
       "comment" : " ↑URL欄に入力して飛んで下さい  Skydriveにて原曲補完 https://skydrive.live.com/#cid=863934608D908CD0&id=863934608D908CD0%21105 2014/03/17 公式により本体入手不可能。差分は入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 1317,
@@ -1367,6 +1458,7 @@
    {
       "artist" : "Chitose",
       "comment" : " 作品No.6 原曲：砕月",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 152370,
@@ -1382,6 +1474,7 @@
    {
       "artist" : "Grand Thaw obj:けろりん",
       "comment" : " 本体は公式ホームページよりDL可能。 http://www5f.biglobe.ne.jp/~careless/  2014/03/17 本体、差分は入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 118188,
@@ -1397,6 +1490,7 @@
    {
       "artist" : "ikaruga_nex feat. Salita / Obj:ゆ～兎",
       "comment" : " δ難易度表による保管↓ http://dpbmsdelta.web.fc2.com/score/hokan.html  http://web.archive.org/web/20140921042604/http://timetorain.web.fc2.com/sabun/we_are_the_ogg_YH.zip",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 142731,
@@ -1412,6 +1506,7 @@
    {
       "artist" : "高嶺 愛花 (obj:k) BGA : 室谷",
       "comment" : " BOF2010 DP差分パッケージ内にあります。 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 84818,
@@ -1427,6 +1522,7 @@
    {
       "artist" : "LeaF Movie:To7 / obj@PEN",
       "comment" : " 譜面仕様のためMAXFIX使用出来ず、MINFIXで半分の値で≒",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 169377,
@@ -1442,6 +1538,7 @@
    {
       "artist" : "Ym1024(obj:ka2o)",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 99383,
@@ -1457,6 +1554,7 @@
    {
       "artist" : "姉ヶ崎 寧々 / obj:綾 BGA : photonskyto",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 175747,
@@ -1472,6 +1570,7 @@
    {
       "artist" : "CrossGear/objEPICS-",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 59261,
@@ -1487,6 +1586,7 @@
    {
       "artist" : "MILK obj@PEN",
       "comment" : " http://mok2lnbms.6.ql.bz/nijihaifu.html 本体は、こちらのskydriveより",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 109883,
@@ -1502,6 +1602,7 @@
    {
       "artist" : "次元大介 / obj: NiGHTS",
       "comment" : " （2014/04/21）本体差分共に入手不可←差分は可20140423  →OneDriveにて補完 https://onedrive.live.com/?cid=3FB27C3B8FE97CE4&id=3FB27C3B8FE97CE4%21107",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 1868,
@@ -1517,6 +1618,7 @@
    {
       "artist" : "DOT96 (obj:k)",
       "comment" : " 14/04/17 本体入手可。 BMS StareterPack 2009 収録曲集 http://www50.atwiki.jp/bmswiki/pages/18.html 差分入手可。  https://skydrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21111#cid=FC95A680740CA8C9&id=FC95A680740CA8C9%21111 本体補完",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 1305,
@@ -1532,6 +1634,7 @@
    {
       "artist" : "Good Loosers / obj:Lilium",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 158032,
@@ -1547,6 +1650,7 @@
    {
       "artist" : "Ryo Nakamura Movie : Photonskyto / Obj:ゆ～兎",
       "comment" : " 同梱",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 219366,
@@ -1562,6 +1666,7 @@
    {
       "artist" : "beatMARIO obj.みすず",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 199013,
@@ -1577,6 +1682,7 @@
    {
       "artist" : "Alicia* / srof",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 129314,
@@ -1592,6 +1698,7 @@
    {
       "artist" : "kozato+-",
       "comment" : " 14/04/17 差分入手困難。  →OneDriveにて補完 https://onedrive.live.com/?cid=3FB27C3B8FE97CE4&id=3FB27C3B8FE97CE4%21107",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 4076,
@@ -1607,6 +1714,7 @@
    {
       "artist" : "pRojective obj:けろりん",
       "comment" : " http://www.geocities.jp/d_c_kick/bms/bms.html",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 173552,
@@ -1622,6 +1730,7 @@
    {
       "artist" : "LV.4+-",
       "comment" : " angeldust14asp.bme 他作家の譜面勝手に作った奴(7key・14key差分bme) → 2007/12/24 高難易度気味の14key詰め合わせ の中に有るぜよ。",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 33445,
@@ -1637,6 +1746,7 @@
    {
       "artist" : "SHIKI",
       "comment" : " 2014/04/02 本体、差分ともに入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 3165,
@@ -1652,6 +1762,7 @@
    {
       "artist" : "wa. obj:ucc",
       "comment" : " 14/04/17 作者様の許可有り補完↓（★9モリオンより引用） https://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044!271#cid=26D9698EC1CEC044&id=26D9698EC1CEC044!208 差分は発狂DPBMS難易度表に入ってる差分置き場 内",
+      "delete" : null,
       "eval" : 0,
       "level" : 13,
       "lr2_bmsid" : 45742,
@@ -1667,6 +1778,7 @@
    {
       "artist" : "xi obj:ucc",
       "comment" : " 本体はGENOSIDEスターターパッケージから入手可 http://nekokan.dyndns.info/~lobsak/genoside/index.html 14/03/09現在、GENOSIDEパッケージからのみ入手可。差分は普通に入手可",
+      "delete" : null,
       "eval" : 0,
       "level" : 13,
       "lr2_bmsid" : 20193,
@@ -1682,6 +1794,7 @@
    {
       "artist" : "ATM / obj:lichtr",
       "comment" : " 14/04/17 本体は補完庫より入手可能。 差分入手可。",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 36618,
@@ -1697,6 +1810,7 @@
    {
       "artist" : "nmk feat.青井望 / PEN",
       "comment" : " 譜面同梱 2014/03/17 本体入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 78596,
@@ -1712,6 +1826,7 @@
    {
       "artist" : "EXCALIpUR / BGA:Johnny",
       "comment" : " 譜面同梱  http://www1.axfc.net/uploader/so/2673091?key=bms SP補完庫から拝借",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 39713,
@@ -1727,6 +1842,7 @@
    {
       "artist" : "BACO",
       "comment" : "譜面同梱2014/03/17 本日の午前0時ごろにはつながっていたが、午後4時ごろにはつながらなくなっていた。ただのサーバーダウンかもしれないので後日確認が必要。2014/03/18 本体入手可能。http://web.archive.org/web/20070418224247/http://www3.pf-x.net:80/~boxism-8500/bms/ppp/ppp.htm",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 9121,
@@ -1742,6 +1858,7 @@
    {
       "artist" : "maxXx65535 obj:ucc",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 4521,
@@ -1757,6 +1874,7 @@
    {
       "artist" : "daisan feat. えみゅう。 / zue-row / obj: zairu",
       "comment" : " Luminous Package DP差分 http://l-bms.com 差分PackageのBLACKフォルダにあります。",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 205651,
@@ -1772,6 +1890,7 @@
    {
       "artist" : "天音 / obj:killer TOMATO",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 10068,
@@ -1787,6 +1906,7 @@
    {
       "artist" : "team. あまてる / obj@PEN",
       "comment" : " http://2melody4p.blog76.fc2.com/blog-entry-557.html 旧skydriveがonedriveになったためそのまま短縮アドレスから飛ぶとリンク切れみたいになっています。onedriveに対応したURLにすると上記の通りです。 2014/04/02 本体、差分ともに入手可能。 2015/08/17 onedriveのURLがよく分かりませんでした。(フォルダは空、と表示される) SPのhttp://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsid=106601 に保管URLがあるようです。",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 107027,
@@ -1802,6 +1922,7 @@
    {
       "artist" : "koushirou（卑屈P）- obj:(=ﾟωﾟ)ノぃょぅ",
       "comment" : " 2014/03/17 本体、差分ともに入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 106521,
@@ -1817,6 +1938,7 @@
    {
       "artist" : "篠螺悠那",
       "comment" : " 譜面同梱 篠螺悠那さんのサイト直リンクhttp://tsubu.ath.cx/~electrogic/bms/mononoke.rar 2014/03/17 本体入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 1287,
@@ -1832,6 +1954,7 @@
    {
       "artist" : "しらいし (obj:k)",
       "comment" : " 2014/03/17 本体、差分ともに入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 34837,
@@ -1847,6 +1970,7 @@
    {
       "artist" : "BACO",
       "comment" : " 14/04/17 本体入手可。",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 520,
@@ -1862,6 +1986,7 @@
    {
       "artist" : "しーけー obj:kuro",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 221923,
@@ -1877,6 +2002,7 @@
    {
       "artist" : "naotyu- OBJ:KLOC",
       "comment" : " 差分を公開しているHPの一時補完を行っております。お手数ですが下記URLより差分をDLして下さい。 http://timetorain.web.fc2.com/ 2014/03/29 差分サイト復活 2014/08/16",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 40272,
@@ -1892,6 +2018,7 @@
    {
       "artist" : "celas /obj:ue",
       "comment" : " dpbms_0168.zip 多分★7  14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 80582,
@@ -1907,6 +2034,7 @@
    {
       "artist" : "ZUN(Arr.sun3) obj:ucc",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 24829,
@@ -1922,6 +2050,7 @@
    {
       "artist" : "stereoberry",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 119201,
@@ -1937,6 +2066,7 @@
    {
       "artist" : "黄泉路テヂーモ / 出前×篠乃ちよ obj:SMNX",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 202324,
@@ -1952,6 +2082,7 @@
    {
       "artist" : "ルゼ / obj:lichtr",
       "comment" : " 2014/03/17 差分は入手可能。本体は公式かどうか不明。",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 52452,
@@ -1967,6 +2098,7 @@
    {
       "artist" : "RYO-K [obj:MGN]",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 248927,
@@ -1982,6 +2114,7 @@
    {
       "artist" : "ねこみみ魔法使い",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 1294,
@@ -1997,6 +2130,7 @@
    {
       "artist" : "Ark-Z / obj@PEN",
       "comment" : " dpbms_0063.rar  Skydriveにて原曲補完 https://skydrive.live.com/#cid=863934608D908CD0&id=863934608D908CD0%21105",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 57513,
@@ -2012,6 +2146,7 @@
    {
       "artist" : "Yamajet × Mentalstock / obj.LetsOTL",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 207003,
@@ -2027,6 +2162,7 @@
    {
       "artist" : "dj STAR feat. KIMA obj:ucc",
       "comment" : " Skydriveにて原曲補完 https://skydrive.live.com/#cid=863934608D908CD0&id=863934608D908CD0%21105",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 106781,
@@ -2042,6 +2178,7 @@
    {
       "artist" : "ねこみみ魔法使い+-",
       "comment" : " 14/03/09現在、本体・差分共に入手可",
+      "delete" : null,
       "eval" : 0,
       "level" : 13,
       "lr2_bmsid" : 15023,
@@ -2057,6 +2194,7 @@
    {
       "artist" : "2TORI obj:ka2o",
       "comment" : " dpbms_0104 SPの保管より https://skydrive.live.com/?cid=FC95A680740CA8C9 の第2保管 2014/08/16 本体差分入手可 https://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21201&authkey=!AKRI_LJWCFUbDrg",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 66760,
@@ -2072,13 +2210,14 @@
    {
       "artist" : "DG LIFE@H.U.T GiGAR/objEPICS-",
       "comment" : " 補完→http://sdrv.ms/LMnEtj 2014/03/17 差分は入手可能。本体は公式サイトからは入手不可能。 公式サイト http://dg-life.net/index.html 2014/03/18 本体、差分ともに入手可能。 公式サイト発見しました。GAMEよりBMSダウンロードできます。",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 59284,
       "md5" : "42ee4d60519f6833d0e00d9f038dfab0",
       "name_diff" : "",
       "reg_date" : " ",
-      "state" : 1,
+      "state" : 0,
       "tag" : null,
       "title" : "Lunasa is my bride -bms bride- [DP ANOTHER]",
       "url" : "http://tohotodan3.iza-yoi.net/start/hall/toho3hall1.html",
@@ -2087,8 +2226,9 @@
    {
       "artist" : "ねこひめたん",
       "comment" : " Skydriveにて原曲補完 https://skydrive.live.com/#cid=863934608D908CD0&id=863934608D908CD0%21105",
+      "delete" : null,
       "eval" : 0,
-      "level" : "？",
+      "level" : "?",
       "lr2_bmsid" : 24601,
       "md5" : "434a927e31eeba5b869a20101626042a",
       "name_diff" : "",
@@ -2102,6 +2242,7 @@
    {
       "artist" : "くっちー vs あっきー / obj:おーた",
       "comment" : " 同梱",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 39357,
@@ -2117,6 +2258,7 @@
    {
       "artist" : "w_tre obj. KENIN*",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 205539,
@@ -2132,6 +2274,7 @@
    {
       "artist" : "beatMARIO OBJ:KLOC",
       "comment" : " 差分を公開しているHPの一時補完を行っております。お手数ですが下記URLより差分をDLして下さい。 http://timetorain.web.fc2.com/ 2014/03/29  14/04/17 BMS本体不可。 差分入手可能。  14/04/27 本体に直接飛べなかったようなのでURL修正。入手可です。 差分サイト復活 2014/08/16",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 22076,
@@ -2147,6 +2290,7 @@
    {
       "artist" : "MisomyL obj:mathath",
       "comment" : " 同梱譜面",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 268442,
@@ -2162,6 +2306,7 @@
    {
       "artist" : "カラフル・サウンズ・ポート / obj:lichtr",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 113906,
@@ -2177,6 +2322,7 @@
    {
       "artist" : "wa./*8284* vs kumamoto",
       "comment" : " dpbms_0291.rar イベントページ http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=60 2014/04/05 本体、差分ともに入手可能。本体はLN難易度表の方の作者から許可された二次配布です。 ",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 96068,
@@ -2192,6 +2338,7 @@
    {
       "artist" : "髭姫 feat. えみゅう。 LYRICS：やんばるん BGA：Milk_tya ILLUST：UNOQLO obj：元美月会長と楓次期副会長",
       "comment" : " dpbms_1173.zip",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 188395,
@@ -2207,6 +2354,7 @@
    {
       "artist" : "saikoro obj:k",
       "comment" : " (2014/04/20)本体差分共に入手可",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 1871,
@@ -2222,6 +2370,7 @@
    {
       "artist" : "CHAN obj:Lilium",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 190153,
@@ -2237,6 +2386,7 @@
    {
       "artist" : "麦コロッケ / obj = Mr.egg",
       "comment" : " 補完 http://bit.ly/n9vB30",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 3345,
@@ -2252,6 +2402,7 @@
    {
       "artist" : "Ninja Action Team obj:azurite",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 166443,
@@ -2267,6 +2418,7 @@
    {
       "artist" : "P*Light (obj:k)",
       "comment" : " 差分込保管：https://skydrive.live.com/#cid=863934608D908CD0&id=863934608D908CD0%21105",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 113708,
@@ -2282,6 +2434,7 @@
    {
       "artist" : "G.G",
       "comment" : " Skydriveにて原曲補完 https://skydrive.live.com/#cid=863934608D908CD0&id=863934608D908CD0%21105",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 12433,
@@ -2297,6 +2450,7 @@
    {
       "artist" : "Morrigan / obj:lichtr",
       "comment" : " イベントページ manbow.nothing.sh/event/event.cgi?action=More_def&num=132&event=60 曲データ保管 http://goo.gl/awAeT 2014/03/17 本体はBOF2009公式パッケージにて入手可能。差分は入手可能。 http://www.ceena.net/view.php?id=090928130314-49988",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 43738,
@@ -2312,6 +2466,7 @@
    {
       "artist" : "Is-m BGA:yuru",
       "comment" : " Skydriveにて原曲補完 https://skydrive.live.com/?cid=863934608D908CD0&id=863934608D908CD0!105#cid=863934608D908CD0&id=863934608D908CD0!187",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 2996,
@@ -2327,13 +2482,14 @@
    {
       "artist" : "nora2r / 出前 / Obj:ゆ～兎",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 171250,
       "md5" : "495f513cc4b0a2fbf38addd646c396ee",
       "name_diff" : "",
       "reg_date" : " ",
-      "state" : 1,
+      "state" : 0,
       "tag" : null,
       "title" : "B.B.K.K.B.K.K. [DP ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=152&event=88",
@@ -2342,6 +2498,7 @@
    {
       "artist" : "奏 obj:kuro mov:いとう まさき",
       "comment" : " DPKA",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 239143,
@@ -2357,6 +2514,7 @@
    {
       "artist" : "wa. / obj. Z_N",
       "comment" : " -差分URL Mirror http://dl.dropbox.com/s/v0wdrnwozvnzlna/%5BDP%20BMS%E5%B7%AE%E5%88%86%5D%20Eventhorizon%20DP%20Set.zip?dl=0  *Luminous Package DP差分 http://l-bms.com/jp/download.html  ★7-8?",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 193985,
@@ -2372,6 +2530,7 @@
    {
       "artist" : "CHAN",
       "comment" : " 同梱譜面",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 77696,
@@ -2387,6 +2546,7 @@
    {
       "artist" : "hurirai BGA:hrchem obj:Yosk!",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 259817,
@@ -2402,6 +2562,7 @@
    {
       "artist" : "NEKI←T obj ; N",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 169904,
@@ -2417,6 +2578,7 @@
    {
       "artist" : "uma feat. ましろ obj:eclair et fleur",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 260054,
@@ -2432,6 +2594,7 @@
    {
       "artist" : "ginkiha obj.Onedict",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 259670,
@@ -2447,6 +2610,7 @@
    {
       "artist" : "xi / obj:lichtr",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 43966,
@@ -2462,8 +2626,9 @@
    {
       "artist" : "SHOCK.C (obj:k)",
       "comment" : " 2014/05/02 本体入手困難、差分入手可  →OneDriveにて補完 https://onedrive.live.com/?cid=3FB27C3B8FE97CE4&id=3FB27C3B8FE97CE4%21107",
+      "delete" : null,
       "eval" : 0,
-      "level" : "？",
+      "level" : "?",
       "lr2_bmsid" : 6143,
       "md5" : "4b8e5cc97b862e709cef7ad20b7cef9d",
       "name_diff" : "",
@@ -2477,6 +2642,7 @@
    {
       "artist" : "celas / obj@PEN",
       "comment" : " http://skydrive.live.com/?cid=FD93B4F2CB8CD95F&id=FD93B4F2CB8CD95F%21105 の「発狂曲(第2含む)の保管」フォルダからダウンロード出来る。 差分ファイル名は「dpbms_0089.rar」。",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 62945,
@@ -2492,6 +2658,7 @@
    {
       "artist" : "Alicia* / obj:killer TOMATO",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 112961,
@@ -2507,6 +2674,7 @@
    {
       "artist" : "Is-m BGA:coda",
       "comment" : " endless musicのonemore extra曲 BPM 40-185-175 14/04/17 GENOSIDE -BMS StarterPackage- 同梱。",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 3006,
@@ -2522,6 +2690,7 @@
    {
       "artist" : "tarolabo obj:k",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 2440,
@@ -2537,6 +2706,7 @@
    {
       "artist" : "syzfonics(仮名)",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 9581,
@@ -2552,6 +2722,7 @@
    {
       "artist" : "ルゼ(obj:A-4)",
       "comment" : " 補完→http://sdrv.ms/JvV8Ia 14/04/17 差分入手可。",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 12430,
@@ -2567,6 +2738,7 @@
    {
       "artist" : "HARD RENAISSAMBA MASTER 佐藤 -SATOH- obj:MGN",
       "comment" : " ★9～10ぐらい。",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 234045,
@@ -2582,6 +2754,7 @@
    {
       "artist" : "white crystal",
       "comment" : " 2014/08/16 本体・差分入手可  発狂難易度変更投票期間 ～2014/09/13 ★5→★4",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 10040,
@@ -2597,6 +2770,7 @@
    {
       "artist" : "HOUJIROU obj:ucc BGA : Mentalstock",
       "comment" : " 2014/03/17 本体はBOF2009公式トレントパッケージより入手可能。差分は入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 41828,
@@ -2612,6 +2786,7 @@
    {
       "artist" : "stereoberry (original:syatten BGA:π=72) obj:srof",
       "comment" : " イベントページ http://manbow.nothing.sh/event/event.cgi?action=More_def&num=79&event=54  2014/04/02 本体、差分ともに入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 113611,
@@ -2627,6 +2802,7 @@
    {
       "artist" : "-45",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 1324,
@@ -2642,6 +2818,7 @@
    {
       "artist" : "parakeet 41 BGA:HAINA",
       "comment" : " 譜面同梱 14/03/15 リンク先消滅 14/03/16 IAで(endress music パッケージに同梱)確認 http://web.archive.org/web/20131006005127/http://is-m.jp/index2.html 14/03/18 追：上部DOWNLOADクリック→fullset download欄の画像リンクをクリック→リンク先で数秒待てばファイルにつながります",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 12062,
@@ -2657,6 +2834,7 @@
    {
       "artist" : "樋奈月みつ obj ; N",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 169954,
@@ -2672,6 +2850,7 @@
    {
       "artist" : "L-Line obj:kuro BGA : WCMP",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 225224,
@@ -2687,6 +2866,7 @@
    {
       "artist" : "Shaman Cure-All obj:Hador",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 163285,
@@ -2702,6 +2882,7 @@
    {
       "artist" : "BMS:Azell MIDI:来兎 (obj:Lara)",
       "comment" : " 15/02/23 本体のリンク先で\"サービス使用不可\"と表示されます。",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 13140,
@@ -2717,6 +2898,7 @@
    {
       "artist" : "naotyu- (obj:k)",
       "comment" : " 14/04/17 作者様の許可を得て補完されています。 https://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044!271#cid=26D9698EC1CEC044&id=26D9698EC1CEC044!208 差分入手可。",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 123831,
@@ -2732,6 +2914,7 @@
    {
       "artist" : "Shiraishi",
       "comment" : " http://www.geocities.jp/childrenin100/int/sabun.html",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 144809,
@@ -2747,6 +2930,7 @@
    {
       "artist" : "SHIKI / obj:Redrum vs killer TOMATO",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 4636,
@@ -2762,6 +2946,7 @@
    {
       "artist" : "zun+-",
       "comment" : " 14/04/17 作者様の許可有り補完。↓ http://nekokan.dyndns.info/~lobsak/genocide/archive.html 差分入手可。",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 2478,
@@ -2777,6 +2962,7 @@
    {
       "artist" : "w_tre / Mer / obj:Hador",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 248934,
@@ -2792,6 +2978,7 @@
    {
       "artist" : "ぽんきち / obj:nono22",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 265565,
@@ -2807,6 +2994,7 @@
    {
       "artist" : "Nush obj:kuro",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 246633,
@@ -2822,6 +3010,7 @@
    {
       "artist" : "The Dear Sexys",
       "comment" : " Skydriveにて原曲補完 https://skydrive.live.com/#cid=863934608D908CD0&id=863934608D908CD0%21105  14/03/15 本体スカイドライブ・差分確認 14/03/16 本体はイベント公式torrentに同梱確認 http://www.ceena.net/view.php?id=110308234019-773003",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 97974,
@@ -2837,6 +3026,7 @@
    {
       "artist" : "Iriss-Frantzz",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 225366,
@@ -2852,6 +3042,7 @@
    {
       "artist" : "ファントムP VS yoa Vocal&Chorus:Protects+1 / obj:killer MELON",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 173502,
@@ -2867,6 +3058,7 @@
    {
       "artist" : "Team:SASAKURATION obj:ucc",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 6168,
@@ -2882,6 +3074,7 @@
    {
       "artist" : "sasakure.UK (obj:444)",
       "comment" : " IAです。 http://web.archive.org/web/20070727155540/http://sasakure.bms.ms/music/kaijin.htm  2014/03/17 公式(IA)、差分ともに入手可能。差分はURLをアドレス欄に直接書き込んでください。",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 12374,
@@ -2897,6 +3090,7 @@
    {
       "artist" : "xenothium remixed by gmtn. obj:けろりん",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 81025,
@@ -2912,6 +3106,7 @@
    {
       "artist" : "polysha",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 185599,
@@ -2927,6 +3122,7 @@
    {
       "artist" : "tcheb / 出前 / obj:alt",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 264459,
@@ -2942,6 +3138,7 @@
    {
       "artist" : "naotyu- obj:けろりん",
       "comment" : " 2014/03/17 本体はBOF2009公式トレントパッケージにてDL可能。差分は上記URLから入手可能です。  発狂難易度変更投票期間 ～2014/09/13 ★4→★3",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 74502,
@@ -2957,8 +3154,9 @@
    {
       "artist" : "BACO",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
-      "level" : "？",
+      "level" : "?",
       "lr2_bmsid" : 1570,
       "md5" : "5722c63bcceab4376e42cdc8ba024803",
       "name_diff" : "",
@@ -2972,6 +3170,7 @@
    {
       "artist" : "Magic Mash Man / New Genuine Magicial Girl / obj:ucc",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 104992,
@@ -2987,6 +3186,7 @@
    {
       "artist" : "はらたま / OJAGA",
       "comment" : " 14/04/17 入手困難。 14/04/27 BOF2009のトレントパッケージから入手可",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 40264,
@@ -3002,6 +3202,7 @@
    {
       "artist" : "nmk feat.かなえゆめ obj ； S",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 213983,
@@ -3017,6 +3218,7 @@
    {
       "artist" : "Clotho feat.Salita obj support : Cymby",
       "comment" : " 公式追加差分",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 199054,
@@ -3032,6 +3234,7 @@
    {
       "artist" : "ZUN RMX By 44teru-k obj:ucc",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 12864,
@@ -3047,6 +3250,7 @@
    {
       "artist" : "lactate (obj:444)",
       "comment" : " bms.ms鯖停止のためInternetArchiveを使用すること。 https://web.archive.org/web/20120707142726/http://uploader.bms.ms/data/sen-goku/lactate/lactate_speeddial_HQ.zip  2014/03/17 本体、差分ともに入手可能。  壊れた zip ファイルを変更する/そして音大きく https://www.dropbox.com/s/hgnuukogennz6fi/Speed_Dial%28Fix%29.zip?dl=0",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 532,
@@ -3062,6 +3266,7 @@
    {
       "artist" : "れあ＆ちひろ BGA:ばーぶ / Obj. Z_N",
       "comment" : " Luminous package DP差分 http://l-bms.com/jp/download.html",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 205202,
@@ -3077,6 +3282,7 @@
    {
       "artist" : "wa. vs ETIA./obj:epics- deadblue238",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 106443,
@@ -3092,6 +3298,7 @@
    {
       "artist" : "ETIA. feat. Jenga obj:kuro Movie: vol-t",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 257029,
@@ -3107,6 +3314,7 @@
    {
       "artist" : "Loki-mitsu + Mentalstock obj:ucc",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 81320,
@@ -3122,6 +3330,7 @@
    {
       "artist" : "くっちー vs あっきー / object by halcot",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 157839,
@@ -3137,6 +3346,7 @@
    {
       "artist" : "ueotan obj ; N",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 197932,
@@ -3152,6 +3362,7 @@
    {
       "artist" : "櫟井唯 / 岡野佳 obj:kuro",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 237326,
@@ -3165,8 +3376,25 @@
       "url_diff" : "https://onedrive.live.com/?authkey=%21AEhUFcPk44lHNWU&id=252E1BC75208EE14%21124&cid=252E1BC75208EE14"
    },
    {
+      "artist" : "-45 obj:肴",
+      "comment" : "",
+      "delete" : null,
+      "eval" : 0,
+      "level" : 9,
+      "lr2_bmsid" : 238245,
+      "md5" : "5e7f943f46e09f467bb85c29f865955a",
+      "name_diff" : "",
+      "reg_date" : " ",
+      "state" : 1,
+      "tag" : null,
+      "title" : "Bloody Malie [DPA]",
+      "url" : "http://malie.noor.jp/",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/280"
+   },
+   {
       "artist" : "* (Asterisk) 前川みく×多田李衣菜",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 237800,
@@ -3182,6 +3410,7 @@
    {
       "artist" : "ああああ",
       "comment" : " 譜面同梱 2014/03/17 本体入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 40316,
@@ -3197,6 +3426,7 @@
    {
       "artist" : "masopp",
       "comment" : " 譜面同梱 14/03/15現在、本体・差分共に入手可",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 1344,
@@ -3212,6 +3442,7 @@
    {
       "artist" : "er[obj:MGN]",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 13,
       "lr2_bmsid" : 215229,
@@ -3227,6 +3458,7 @@
    {
       "artist" : "Shaman Cure-All / obj.LetsOTL",
       "comment" : " 本体のリンクが切れていますので、合本から抽出しました。差分同封です。 https://www.dropbox.com/s/3z7oixvt5c76k30/Nichirin.zip?dl=0",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 206570,
@@ -3242,6 +3474,7 @@
    {
       "artist" : "篠螺悠那 feat. 鯛の小骨 obj:ucc",
       "comment" : " IA https://web.archive.org/web/20130515003902/http://tsubu.ath.cx/~ssry/ https://web.archive.org/web/20130427145910/http://tsubu.ath.cx/~electrogic/bms/imp_bga_mq.rar IAでなくても直リンでも落とせるようです。 2014/03/18 本体、差分ともに入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 2651,
@@ -3257,6 +3490,7 @@
    {
       "artist" : "Aozuna / obj:lichtr",
       "comment" : " plugout から",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 39477,
@@ -3272,6 +3506,7 @@
    {
       "artist" : "paraoka Remixed by doctor.R",
       "comment" : " ●新規提案 2011/10/21 ",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 24826,
@@ -3287,6 +3522,7 @@
    {
       "artist" : "Snack / obj:Hersh",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 241078,
@@ -3302,6 +3538,7 @@
    {
       "artist" : "syatten",
       "comment" : " 譜面同梱 BMS Starter Pack 2008にも収録 14/3/15 URLリンク内に確認できず  starter packの保管がこちらにあるのでもしかしたらここに入っているかもしれません。 http://www50.atwiki.jp/bmswiki/pages/18.html  14/03/16 IAで確認 http://web.archive.org/web/20090918191807/http://www.planetoid.biz/?page_id=8",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 18,
@@ -3317,6 +3554,7 @@
    {
       "artist" : "HaL feat. riri BGA fity (obj:k)",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 94973,
@@ -3332,6 +3570,7 @@
    {
       "artist" : "P*Light /obj. oxy",
       "comment" : " 14/03/15 GENOSIDE StarterPackage及びDPBMS Append Packageで入手可 http://nekokan.dyndns.info/~lobsak/genoside/ BOF2011公式トレントパッケージからも入手可能。 イベントページ manbow.nothing.sh/event/event.cgi?action=More_def&num=239&event=74",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 113903,
@@ -3347,6 +3586,7 @@
    {
       "artist" : "TOMA / Frost Shrike (obj: LTX)",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。  https://onedrive.live.com/?cid=F61C1F8825F0CF46&id=F61C1F8825F0CF46!159 est073  2015/06/25 差分入手不可(リンク切れ)",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 16154,
@@ -3362,6 +3602,7 @@
    {
       "artist" : "qfeileadh /obj:C4",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 271606,
@@ -3377,6 +3618,7 @@
    {
       "artist" : "LUNEの右手と悠里おねぇちゃんの左脚とキラートマトの頭部",
       "comment" : " 原曲：幽雅に咲かせ、墨染の桜 ～ Border of Life(東方妖々夢)",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 54030,
@@ -3392,6 +3634,7 @@
    {
       "artist" : "Saz obj:k",
       "comment" : " イベントページ http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=48 dpbms_0156.zip 本体 https://skydrive.live.com/?cid=6baa5643fcbcb4d3&id=6BAA5643FCBCB4D3%21197 2014/04/02 公式から本体入手不可、差分は入手可能。 2015/08/27 上記URLより本体DL不可能、現在は以下のサイトにて補完 http://www.geocities.jp/bmsetc/",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 76003,
@@ -3407,6 +3650,7 @@
    {
       "artist" : "LV.4(original 篠螺悠那)",
       "comment" : " https://onedrive.live.com/?cid=863934608d908cd0&sc=documents&id=863934608D908CD0!107 14/04/17 差分入手可。",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 12436,
@@ -3422,13 +3666,14 @@
    {
       "artist" : "Ym1024 feat. lamie* / Obj:ゆ〜兎",
       "comment" : "",
+      "delete" : 0,
       "eval" : 0,
-      "level" : 3,
+      "level" : 2,
       "lr2_bmsid" : 141779,
       "md5" : "656e3bd36ceeebb19b1f9d27cd6094b7",
       "name_diff" : "",
       "reg_date" : " ",
-      "state" : 0,
+      "state" : 1,
       "tag" : null,
       "title" : "Az My Dear [DP ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=314&event=83",
@@ -3437,6 +3682,7 @@
    {
       "artist" : "Red hood",
       "comment" : " Skydriveにて原曲補完 https://skydrive.live.com/#cid=863934608D908CD0&id=863934608D908CD0%21105",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 10558,
@@ -3452,6 +3698,7 @@
    {
       "artist" : "Hate BGA : aoid",
       "comment" : " 補完→http://sdrv.ms/JvTYwg 14/04/17 本体は補完庫より入手可能。 差分入手可。",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 9103,
@@ -3467,6 +3714,7 @@
    {
       "artist" : "remixed celas (obj:k)",
       "comment" : " 本体保管 http://up02.ayame.jp/up/download/1366874775.zip 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 123830,
@@ -3482,6 +3730,7 @@
    {
       "artist" : "DJ Alit from BALI / obj:lichtr",
       "comment" : " 本体保管：https://onedrive.live.com/?cid=2E0B6A331309387C&id=2E0B6A331309387C%21107",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 51355,
@@ -3497,6 +3746,7 @@
    {
       "artist" : "rife / obj:lichtr",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 53876,
@@ -3512,6 +3762,7 @@
    {
       "artist" : "ねこみみ魔法使い(obj:A-4)",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 5760,
@@ -3527,6 +3778,7 @@
    {
       "artist" : "onoken obj:k",
       "comment" : " 15/02/23 本体のリンク先で\"サービス使用不可\"と表示されます。 15/05/10 以下URLより本体入手可  http://web.archive.org/web/20070111193502/www107.sakura.ne.jp/~onoken/htmls/bms.html",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 16003,
@@ -3542,6 +3794,7 @@
    {
       "artist" : "saikoro obj:k",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 3299,
@@ -3557,6 +3810,7 @@
    {
       "artist" : "カラフル・サウンズ・ポート obj:kuro",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 247797,
@@ -3572,6 +3826,7 @@
    {
       "artist" : "SHIKI / obj:Redrum",
       "comment" : " アーカイブより本体入手可能 http://web.archive.org/web/20051118202018/http://www.remarkablesense.org/~shiki/air.exe",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 2662,
@@ -3587,6 +3842,7 @@
    {
       "artist" : "Symphonian / Personality [obj:mymt]",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 241907,
@@ -3602,6 +3858,7 @@
    {
       "artist" : "syatten obj:ucc",
       "comment" : " 本体はこちらから入手可能？ http://web.archive.org/web/20090918191807/http://www.planetoid.biz/?page_id=8 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 9116,
@@ -3617,6 +3874,7 @@
    {
       "artist" : "Is-m BGA:sasakure.UK",
       "comment" : " 譜面同封  Skydriveにて原曲補完 https://skydrive.live.com/#cid=863934608D908CD0&id=863934608D908CD0%21105 endless musicフォルダ内",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 2981,
@@ -3632,6 +3890,7 @@
    {
       "artist" : "Getty vs. DJ DiA obj:けろりん vs. LO BGA:わっふゑ vs. でこちんハンマー",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 236771,
@@ -3647,6 +3906,7 @@
    {
       "artist" : "onoken / obj:Redrum",
       "comment" : " 14/03/15現在、本体・差分共に入手可 ※本体archive使用URL",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 741,
@@ -3662,6 +3922,7 @@
    {
       "artist" : "Is-m BGA:muramasa",
       "comment" : " 譜面同梱 ",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 1867,
@@ -3677,13 +3938,14 @@
    {
       "artist" : "Coco obj:ucc",
       "comment" : "Skydriveにて原曲補完 https://skydrive.live.com/#cid=863934608D908CD0&id=863934608D908CD0%21105",
+      "delete" : 0,
       "eval" : 0,
-      "level" : 3,
+      "level" : 2,
       "lr2_bmsid" : 9128,
       "md5" : "6bf8f254717c7d75bf120f0bccb8cae5",
       "name_diff" : "",
       "reg_date" : " ",
-      "state" : 0,
+      "state" : 1,
       "tag" : null,
       "title" : "pp-hunk EXTRA14",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=50&event=44",
@@ -3692,6 +3954,7 @@
    {
       "artist" : "Syatten",
       "comment" : " dpbms_0154.zip 本体→http://web.archive.org/web/20091210173603/http://www.planetoid.biz/  2014/03/17 本体(IA)、差分ともに入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 75987,
@@ -3707,6 +3970,7 @@
    {
       "artist" : "midori obj:ucc",
       "comment" : " 2014/03/17 本体リンク切れ。差分は入手可能。  →OneDriveにて補完 https://onedrive.live.com/?cid=3FB27C3B8FE97CE4&id=3FB27C3B8FE97CE4%21107",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 13554,
@@ -3722,6 +3986,7 @@
    {
       "artist" : "fen / obj:lichtr",
       "comment" : " Skydriveにて原曲補完 https://skydrive.live.com/#cid=863934608D908CD0&id=863934608D908CD0%21105  2014/03/17 本体はBOF2009公式トレントパッケージにて入手可能。差分は入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 41369,
@@ -3737,6 +4002,7 @@
    {
       "artist" : "Arranged by Y.W bga:kotomi",
       "comment" : " 譜面同梱 2014/03/17 本体入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 113288,
@@ -3752,6 +4018,7 @@
    {
       "artist" : "polysha mov.zue-row / obj:コトネとしずくちゃん",
       "comment" : " http://web.archive.org/web/20140921042604/http://timetorain.web.fc2.com/dp.html",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 188565,
@@ -3767,6 +4034,7 @@
    {
       "artist" : "sta",
       "comment" : " 譜面同梱",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 46656,
@@ -3782,6 +4050,7 @@
    {
       "artist" : "K.V.C. / obj:lichtr",
       "comment" : " 14/03/15 本体スカイドライブ保管(許可不明)・差分確認",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 58929,
@@ -3797,6 +4066,7 @@
    {
       "artist" : "keyc",
       "comment" : " 譜面同梱 上記URLはリンク切れで以下より入手可能(2015/5/10) http://www.geocities.jp/bmsetc/",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 64431,
@@ -3812,6 +4082,7 @@
    {
       "artist" : "daisan / zue-row / obj:けろちゃんの臀部とゆっちゃんの尻尾",
       "comment" : " http://web.archive.org/web/20140921042604/http://timetorain.web.fc2.com/dp.html",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 187623,
@@ -3827,6 +4098,7 @@
    {
       "artist" : "パンダ７７号/obj:epics-",
       "comment" : " https://skydrive.live.com/#cid=863934608D908CD0&id=863934608D908CD0%21105 にて補完",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 118191,
@@ -3842,6 +4114,7 @@
    {
       "artist" : "SHIKI/-45 (obj:k)",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 781,
@@ -3857,6 +4130,7 @@
    {
       "artist" : "AKITO obj:nBel",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 257543,
@@ -3872,6 +4146,7 @@
    {
       "artist" : "mitssi feat. SeeU Movie: Sabhwa Note: LiTaNia / reobj:Louis",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 155376,
@@ -3887,6 +4162,7 @@
    {
       "artist" : "455-38B+-",
       "comment" : " 14/04/17 本体入手可。 差分入手困難。  14/04/27 差分IAより入手可 https://web.archive.org/web/20110424083304/http://www.scn-net.ne.jp/~pons58/sabun/gengao14afo.rar",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 1870,
@@ -3902,6 +4178,7 @@
    {
       "artist" : "urimu Movie:RAIDEN/obj.peridot",
       "comment" : " _gimei_Bicolor spirit_dpa_peridot.bms",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 183620,
@@ -3917,6 +4194,7 @@
    {
       "artist" : "SHIKI OBJ:KLOC",
       "comment" : " 差分を公開しているHPの一時補完を行っております。お手数ですが下記URLより差分をDLして下さい。 http://timetorain.web.fc2.com/ 2014/03/29 14/04/17 BMS本体・差分共に入手可能。 差分サイト復活 2014/08/16",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 26532,
@@ -3932,6 +4210,7 @@
    {
       "artist" : "みここ ＆ 虹野ひかり",
       "comment" : " かなり難しい何か 14/04/17 本体入手可。",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 23,
@@ -3947,6 +4226,7 @@
    {
       "artist" : "polysha mov.zue-row / obj:コトネとしずくちゃん",
       "comment" : " http://web.archive.org/web/20140921042604/http://timetorain.web.fc2.com/dp.html",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 188566,
@@ -3962,6 +4242,7 @@
    {
       "artist" : "コペン",
       "comment" : " 譜面同梱",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 4993,
@@ -3977,6 +4258,7 @@
    {
       "artist" : "455 / rio / (^aho^)",
       "comment" : " 差分は上記アップローダのdpbms.zip",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 6757,
@@ -3992,6 +4274,7 @@
    {
       "artist" : "Kinato obj : 打者走者",
       "comment" : " dpbms_0471.zip",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 127266,
@@ -4007,6 +4290,7 @@
    {
       "artist" : "siromaru + cranky obj ; N",
       "comment" : " DPBMSアップローダ dpbms_0837.rar",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 169599,
@@ -4022,6 +4306,7 @@
    {
       "artist" : "yassu / obj = Mr.egg",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 523,
@@ -4037,6 +4322,7 @@
    {
       "artist" : "くるぶっこちゃん / ヨーグルト派 (obj:zairu)",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 199026,
@@ -4052,6 +4338,7 @@
    {
       "artist" : "Superbia",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 245256,
@@ -4067,6 +4354,7 @@
    {
       "artist" : "RearDawn obj:azurite BGA:zue-row",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 186140,
@@ -4082,6 +4370,7 @@
    {
       "artist" : "nmk feat.かなえゆめ Notes:PEN",
       "comment" : "14d_pen.bmeTOTAL値：50.8％ニコニコのURL中のhttp://www1.axfc.net/uploader/so/1420058より入手可能。公式ホームページからも入手可能。http://miohosina.moe.hm/index.html2014/03/17 本体、差分ともに入手可能。https://web.archive.org/web/20110502121439/http://www.geocities.jp/penmawashi2000/dpbms/nmk_red_dp_pen.zip",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 81105,
@@ -4097,6 +4386,7 @@
    {
       "artist" : "xi Obj.Gatia",
       "comment" : " (2014/04/20)本体単体は保管のみ入手可。BOF2009のtorrentからもおそらく入手可。 差分入手可",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 41946,
@@ -4112,6 +4402,7 @@
    {
       "artist" : "SABREMISSILE (mov:jubeated) Obj:ゆ～兎",
       "comment" : " 2014/03/17 本体(ミラー)、差分ともに入手可能。  http://web.archive.org/web/20140921042604/http://timetorain.web.fc2.com/sabun/SABREMISSILE-Pernicious_Deed_YH.zip",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 115734,
@@ -4127,6 +4418,7 @@
    {
       "artist" : "GEMA / obj:lichtr",
       "comment" : " 2014/03/16 本体ファイルがリンク切れ BOF2009公式torrentパッケージにてDL可能か http://www.ceena.net/view.php?id=090928130314-49988  2014/03/17上記の公式torrentパッケージにて本体はDL可能。差分のリンクは生きています。",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 43502,
@@ -4142,6 +4434,7 @@
    {
       "artist" : "sweez, tigerlily, roop feat. lily, photonskyto obj:けろりん",
       "comment" : " 14/03/15 本体差分共に確認",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 80048,
@@ -4157,6 +4450,7 @@
    {
       "artist" : "カラフル・サウンズ・ポート obj:nBel",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 265745,
@@ -4172,6 +4466,7 @@
    {
       "artist" : "Ym1024 feat. ひなたゆかり / obj:epics-",
       "comment" : " dpbms_0628.zip ym36_hallu_ogg",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 148727,
@@ -4187,6 +4482,7 @@
    {
       "artist" : "Is-m BGA:sta",
       "comment" : " 譜面同梱  2014/03/17 本体リンク切れ  2014/12/13 フルパッケージ(IA)よりダウンロード確認(309MB) https://web.archive.org/web/20110601212534/http://is-m.bms.ms/endless_music/fullpack/em_for_lr_hqogg.rar",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 2984,
@@ -4202,6 +4498,7 @@
    {
       "artist" : "cittan* feat. YUNA obj:けろりん",
       "comment" : "Skydriveにて原曲補完 https://skydrive.live.com/#cid=863934608D908CD0&id=863934608D908CD0%2110514/03/15　本体スカイドライブ・差分確認14/03/16　本体公式torrentに同梱？ http://www.ceena.net/view.php?id=101006023050-56371614/03/18  本体公式torrentに同梱確認",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 80049,
@@ -4217,6 +4514,7 @@
    {
       "artist" : "姉ヶ崎 寧々 obj:14 sequence BGA : photonskyto",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 42004,
@@ -4232,8 +4530,9 @@
    {
       "artist" : "Xacla / TOHRU MiTSUHASHi obj:Laughing Man",
       "comment" : " dpbms_0131.zip  原曲補完：SP発狂の補完庫 http://skydrive.live.com/?cid=FD93B4F2CB8CD95F&id=FD93B4F2CB8CD95F%21105#cid=FD93B4F2CB8CD95F&id=FD93B4F2CB8CD95F%21143",
+      "delete" : null,
       "eval" : 0,
-      "level" : "？",
+      "level" : "?",
       "lr2_bmsid" : 70608,
       "md5" : "7dd72a29424953de984fdfe5cbd45ebe",
       "name_diff" : "",
@@ -4247,6 +4546,7 @@
    {
       "artist" : "xi / obj:lichtr",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 44020,
@@ -4262,6 +4562,7 @@
    {
       "artist" : "P.E./objEPICS-",
       "comment" : " イベントページ http://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=60 選曲時にLRが落ちる方は、フォルダの中にあるgifファイル２つ削除する事で安定するようです。 2014/04/02 本体、差分ともに入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 72102,
@@ -4277,6 +4578,7 @@
    {
       "artist" : "maki",
       "comment" : "dpbms_0380.rarBOF2011DP差分パッケージ譜面14/03/15　本体差分共に確認",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 114475,
@@ -4292,6 +4594,7 @@
    {
       "artist" : "HOLY SAMBA MASTER 佐藤 -SATOH- / obj.LetsOTL",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 13,
       "lr2_bmsid" : 212761,
@@ -4307,6 +4610,7 @@
    {
       "artist" : "A4paper BGA : LIX-DIRTY",
       "comment" : " 同梱",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 197149,
@@ -4322,6 +4626,7 @@
    {
       "artist" : "SHIKI / obj:killer TOMATO",
       "comment" : " https://onedrive.live.com/?cid=DE6C2233D3348440&id=DE6C2233D3348440!160",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 82122,
@@ -4337,6 +4642,7 @@
    {
       "artist" : "chocolate max / obj:killer TOMATO",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 53036,
@@ -4352,6 +4658,7 @@
    {
       "artist" : "xi Obj.Gatia",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 3338,
@@ -4367,6 +4674,7 @@
    {
       "artist" : "sak obj:alt",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 259763,
@@ -4382,6 +4690,7 @@
    {
       "artist" : "暁美ほむら/obj:epics-",
       "comment" : " 2015/07/22 本体入手不可? http://web.archive.org/web/20140111153937/http://miohosina.moe.hm/bms/dl/homura_akemi_if.zip",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 116601,
@@ -4397,6 +4706,7 @@
    {
       "artist" : "橘花音 かなえゆめ composed by nmk Illustration:かぜっと / Obj:ゆ～兎",
       "comment" : " 2014/06/30 本体リンク切れ。差分は入手可能。 2014/07/14 本体は上記リンクより入手可能のようです。  http://web.archive.org/web/20140921042604/http://timetorain.web.fc2.com/sabun/nmk_elsa_YH.zip",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 163915,
@@ -4412,6 +4722,7 @@
    {
       "artist" : "Lime / Frantzz / obj.LetsOTL",
       "comment" : " https://ux.getuploader.com/dpbms/download/335",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 258914,
@@ -4427,6 +4738,7 @@
    {
       "artist" : "plastic feat.サキト+-",
       "comment" : " 本体はGENOSIDEスターターパッケージにも収録されています。 http://nekokan.dyndns.info/~lobsak/genoside/ 14/03/09現在、本体・差分共に入手可",
+      "delete" : null,
       "eval" : 0,
       "level" : 13,
       "lr2_bmsid" : 2477,
@@ -4442,6 +4754,7 @@
    {
       "artist" : "イヴ / Obj:ゆ～兎",
       "comment" : " http://web.archive.org/web/20140921042604/http://timetorain.web.fc2.com/sabun/_inthefictionalworld_YH.zip  BOF会場上位ダウンロードリンク wav,ogg解凍エラー 差分適用前wavは解凍正常",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 142412,
@@ -4457,6 +4770,7 @@
    {
       "artist" : "SHIKI (obj:444)",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 3282,
@@ -4472,6 +4786,7 @@
    {
       "artist" : "LV.4(original 篠螺悠那)(obj:A-4)",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 13642,
@@ -4487,6 +4802,7 @@
    {
       "artist" : "chocolate max obj:ucc",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 9102,
@@ -4502,6 +4818,7 @@
    {
       "artist" : "e.m.u/objEPICS-",
       "comment" : " 14/04/17 本体入手困難。 差分入手可。 14/04/27 BOF2009のトレントパッケージから本体入手可",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 41975,
@@ -4517,6 +4834,7 @@
    {
       "artist" : "plastic feat.サキト obj:k",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 1292,
@@ -4532,6 +4850,7 @@
    {
       "artist" : "syatten",
       "comment" : " 譜面同梱 14/03/15 リンク内未確認 14/03/16 IAにて確認  http://web.archive.org/web/20090918191807/http://www.planetoid.biz/?page_id=8",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 14,
@@ -4547,6 +4866,7 @@
    {
       "artist" : "Ym1024 feat. lamie* obj:けろりん",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 126366,
@@ -4562,6 +4882,7 @@
    {
       "artist" : "SHIKI / obj:killer TOMATO",
       "comment" : " HQ版 http://goo.gl/mstWT 2014/03/17 本体、差分ともに入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 3323,
@@ -4577,6 +4898,7 @@
    {
       "artist" : "mommy",
       "comment" : " 譜面同梱 14/03/15現在、本体・差分共に入手可(2008/3/23記事）",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 16,
@@ -4592,6 +4914,7 @@
    {
       "artist" : "櫟井唯 / 岡野佳 / obj.LetsOTL",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 229228,
@@ -4607,6 +4930,7 @@
    {
       "artist" : "xenothium obj:NEPIA",
       "comment" : " 差分はhttp://dpbms.at-ninja.jp/nepia/nepia.html",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 73659,
@@ -4622,6 +4946,7 @@
    {
       "artist" : "SOA-ED / obj = Mr.egg",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 6162,
@@ -4637,6 +4962,7 @@
    {
       "artist" : "Team:SASAKURATION obj:ucc",
       "comment" : " *Web Archive 入手 可 上記差分はハッシュ違い。こちらから入手可 http://www8.atwiki.jp/14key/pages/54.html",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 9556,
@@ -4652,6 +4978,7 @@
    {
       "artist" : "dawn-system BGA:216 (office-φ) / Original:ZUN / Obj:ゆ～兎",
       "comment" : " 同梱譜面",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 253308,
@@ -4667,6 +4994,7 @@
    {
       "artist" : "kagerow //obj.mzrk",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 172021,
@@ -4682,6 +5010,7 @@
    {
       "artist" : "yanagi obj:ucc",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 522,
@@ -4697,6 +5026,7 @@
    {
       "artist" : "ESTi remixed by bbangsami / LeaH & SMIN(obj:k)",
       "comment" : " てっきり公開してたもんだと思ってた。 ----- 差分URLコピー⇒貼り付けでDLしてください(提案者より)",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 141864,
@@ -4712,6 +5042,7 @@
    {
       "artist" : "Lime / Limite feat.制限",
       "comment" : "差分URL Mirror : https://ux.getuploader.com/dpbms/download/709新DPBMS差分アップローダー",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 283210,
@@ -4727,6 +5058,7 @@
    {
       "artist" : "sasakure.UK / obj:Redrum",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 2347,
@@ -4742,6 +5074,7 @@
    {
       "artist" : "Ras obj. 深海",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 179756,
@@ -4757,6 +5090,7 @@
    {
       "artist" : "Junk / RAY / obj@PEN",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 67262,
@@ -4772,6 +5106,7 @@
    {
       "artist" : "CrossGear / PEN",
       "comment" : " イベントページ http://manbow.nothing.sh/event/event.cgi?action=More_def&num=194&event=65 補完 http://bit.ly/n9vB30 2014/03/17 本体、差分はBOF2010公式トレントパッケージにてともに入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 79648,
@@ -4787,6 +5122,7 @@
    {
       "artist" : "stereoberry / srof",
       "comment" : " dpbms_0323.zip 2014/03/17 本体、差分ともに入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 103991,
@@ -4802,6 +5138,7 @@
    {
       "artist" : "キュアプラネット Remixed by ETIA. obj@PEN",
       "comment" : " 本体はこちらから http://www.geocities.jp/bmsetc/index.html  2014/03/17 本体は公式サイトから入手不可。差分は入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 83230,
@@ -4817,6 +5154,7 @@
    {
       "artist" : "λ口-G.Oジャス a.k.a Jhon Pants Uncle / obj: 634k",
       "comment" : " 2014/03/17 本体がリンク切れ  →OneDriveにて補完 https://onedrive.live.com/?cid=3FB27C3B8FE97CE4&id=3FB27C3B8FE97CE4%21107",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 530,
@@ -4832,6 +5170,7 @@
    {
       "artist" : "ねこみみ魔法使い / tomsfir obj:ucc",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 12154,
@@ -4847,6 +5186,7 @@
    {
       "artist" : "er / obj:ゆ～兎 vs 檻",
       "comment" : " http://web.archive.org/web/20140921042604/http://timetorain.web.fc2.com/dp.html",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 188699,
@@ -4862,6 +5202,7 @@
    {
       "artist" : "sa10 /obj. DOS",
       "comment" : " dpbms_0336",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 107820,
@@ -4877,6 +5218,7 @@
    {
       "artist" : "SHIKI/fity obj:k",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 1286,
@@ -4892,6 +5234,7 @@
    {
       "artist" : "sasakure.UK [obj:MGN]",
       "comment" : " ★10ぐらい",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 226829,
@@ -4907,6 +5250,7 @@
    {
       "artist" : "tarolabo obj:k",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 13133,
@@ -4922,6 +5266,7 @@
    {
       "artist" : "ZUN obj:けろりん",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 123862,
@@ -4937,6 +5282,7 @@
    {
       "artist" : "Reanisz obj:kuro",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 225304,
@@ -4952,6 +5298,7 @@
    {
       "artist" : "ZUN remixed by LeaF",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 163194,
@@ -4967,6 +5314,7 @@
    {
       "artist" : "siromaru + cranky obj ; N",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 13,
       "lr2_bmsid" : 169598,
@@ -4982,6 +5330,7 @@
    {
       "artist" : "SHIKI obj:+-",
       "comment" : " dpbms_0119.zip 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 68465,
@@ -4997,6 +5346,7 @@
    {
       "artist" : "mommy",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 62774,
@@ -5012,6 +5362,7 @@
    {
       "artist" : "HOUJIROU obj:ucc BGA : Mentalstock",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 41861,
@@ -5027,6 +5378,7 @@
    {
       "artist" : "Yosk!",
       "comment" : " 同梱譜面",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 168258,
@@ -5042,6 +5394,7 @@
    {
       "artist" : "ridis obj ; N",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 13,
       "lr2_bmsid" : 206600,
@@ -5057,6 +5410,7 @@
    {
       "artist" : "nora2r",
       "comment" : " 譜面同梱  Skydriveにて原曲補完 https://skydrive.live.com/#cid=863934608D908CD0&id=863934608D908CD0%21105 （2014/04/21）本体補完から入手可",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 87603,
@@ -5072,6 +5426,7 @@
    {
       "artist" : "やっす～ / obj:Redrum",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 3304,
@@ -5087,6 +5442,7 @@
    {
       "artist" : "jet:tones / obj:lichtr",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 13,
       "lr2_bmsid" : 34744,
@@ -5102,6 +5458,7 @@
    {
       "artist" : "incinerate obj:ucc",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 118104,
@@ -5117,6 +5474,7 @@
    {
       "artist" : "上杉うた with 星明 NOTES:belleちゃん",
       "comment" : " 14/03/15現在、本体・差分共に入手可",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 796,
@@ -5132,6 +5490,7 @@
    {
       "artist" : "Synchronous Vision (MONO&1B)",
       "comment" : " bms保管所 http://1drv.ms/1zuz8vY",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 73858,
@@ -5147,8 +5506,9 @@
    {
       "artist" : "Is-m obj:ucc BGA:syatten",
       "comment" : " endless musicのSP専用extra曲",
+      "delete" : null,
       "eval" : 0,
-      "level" : "？",
+      "level" : "?",
       "lr2_bmsid" : 1874,
       "md5" : "96f24931a1d9588b724f917eb364c90c",
       "name_diff" : "",
@@ -5162,6 +5522,7 @@
    {
       "artist" : "ねこひめたん obj:NEPIA",
       "comment" : " dpbms_0090.zip  Skydriveにて原曲補完 https://skydrive.live.com/#cid=863934608D908CD0&id=863934608D908CD0%21105 14/04/17 差分入手可。",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 63378,
@@ -5177,6 +5538,7 @@
    {
       "artist" : "siqlo BGA:Karekitsune / obj:Hersh",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 256428,
@@ -5192,6 +5554,7 @@
    {
       "artist" : "Ym1024 feat. lamie* / Obj:ゆ～兎",
       "comment" : " http://web.archive.org/web/20140921042604/http://timetorain.web.fc2.com/sabun/ym42_7colors_ogg_YH.zip",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 169506,
@@ -5205,23 +5568,9 @@
       "url_diff" : "http://timetorain.web.fc2.com/"
    },
    {
-      "artist" : "sasakure.UK obj:名無し",
-      "comment" : "",
-      "eval" : 0,
-      "level" : 12,
-      "lr2_bmsid" : 55883,
-      "md5" : "97e09fdb2f2490a885cf3f96ffc47f55",
-      "name_diff" : "",
-      "reg_date" : " ",
-      "state" : 0,
-      "tag" : null,
-      "title" : "Merry Christmas Mr.EXIT",
-      "url" : "http://manbow.nothing.sh/event/explus/ex_revival/bms/mcml.rar",
-      "url_diff" : "http://dpbms.at-ninja.jp/nepia/nepia.html"
-   },
-   {
       "artist" : "Ras / misokabocha / obj:Hador",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 186149,
@@ -5237,6 +5586,7 @@
    {
       "artist" : "Alicia* / BGA:Fleeting Lovely obj :松魚",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 149747,
@@ -5252,6 +5602,7 @@
    {
       "artist" : "TetraElemental / Obj:ゆ～兎",
       "comment" : " http://web.archive.org/web/20140921042604/http://timetorain.web.fc2.com/sabun/UltimateWeapon_YH.zip",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 179559,
@@ -5267,6 +5618,7 @@
    {
       "artist" : "sasakure.UK",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 1334,
@@ -5282,6 +5634,7 @@
    {
       "artist" : "Remixed by iROH obj:ucc",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 13,
       "lr2_bmsid" : 59139,
@@ -5297,6 +5650,7 @@
    {
       "artist" : "keyc",
       "comment" : " 譜面同梱 2014/03/17 本体入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 48793,
@@ -5312,6 +5666,7 @@
    {
       "artist" : "8284 vs wa. obj:sr",
       "comment" : " BMS Package 'Luminous'にも収録 本体入手可能(再配布) http://l-bms.com  Luminous Package再配布曲 DL http://1drv.ms/1FKPy5j *本体入手はここからダウンロードしてください  SIDE - BLACK 同梱 *差分も同梱",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 205097,
@@ -5327,8 +5682,9 @@
    {
       "artist" : "ZUN arranged by FALL",
       "comment" : " 作品No.28 原曲：フォールオブフォール（東方風神録）",
+      "delete" : null,
       "eval" : 0,
-      "level" : "？",
+      "level" : "?",
       "lr2_bmsid" : 201526,
       "md5" : "9b3b3e97642c2edfc0483ccafa972067",
       "name_diff" : "",
@@ -5342,6 +5698,7 @@
    {
       "artist" : "ヲルバ＝田中・ヴァニラ obj:LIEF",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 211795,
@@ -5357,6 +5714,7 @@
    {
       "artist" : "メスクラ (エヴァたん＆メコたん)",
       "comment" : " https://web.archive.org/web/20120414180852/http://asdf.bms.ms/bof/curryyojo_eva_azul_ogg.zipから入手できる差分が対応。pass:mezClA",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 595,
@@ -5372,6 +5730,7 @@
    {
       "artist" : "天音",
       "comment" : " 段位認定スレの17氏の差分  →OneDriveにて補完 https://onedrive.live.com/?cid=3FB27C3B8FE97CE4&id=3FB27C3B8FE97CE4%21107",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 10072,
@@ -5387,6 +5746,7 @@
    {
       "artist" : "xi (obj:k)",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 611,
@@ -5402,6 +5762,7 @@
    {
       "artist" : "siromaru",
       "comment" : " 本体URLに飛ぶと404が出るが上部のGoを押すとDLできる。",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 1816,
@@ -5417,6 +5778,7 @@
    {
       "artist" : "Synchronous Vision (MONO&1B)",
       "comment" : " 14/04/17 本体入手困難。 差分入手可。 https://onedrive.live.com/?cid=FC95A680740CA8C9&id=FC95A680740CA8C9%21111 ↑に本体有り。",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 73859,
@@ -5432,6 +5794,7 @@
    {
       "artist" : "maxXx65535 obj:ucc",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 3760,
@@ -5447,6 +5810,7 @@
    {
       "artist" : "tarolabo#obj.e",
       "comment" : " 曲入手困難 https://onedrive.live.com/?cid=DE6C2233D3348440&id=DE6C2233D3348440!160 より本体入手可能。差分は http://web.archive.org/web/20140426023854/http://dpbms.at-ninja.jp/hokan/%5Bravelll%5Dkuroneko.zip に飛んだ後、画面左上の入力欄に http://dpbms.at-ninja.jp/hokan/[ravelll]kuroneko.zip と打ち直してGoボタンを押せばDL可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 529,
@@ -5462,6 +5826,7 @@
    {
       "artist" : "e.m.u/objEPICS-",
       "comment" : " 14/04/17 本体入手困難。 差分入手可。  14/04/27 BOF2009トレントパッケージより本体入手可",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 41993,
@@ -5477,13 +5842,14 @@
    {
       "artist" : "Cosmograph obj. Limite",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 283657,
       "md5" : "9f1609281de180d924a3692c0c7b82a6",
       "name_diff" : "",
       "reg_date" : " ",
-      "state" : 1,
+      "state" : 0,
       "tag" : null,
       "title" : "Comet (BMS Edit) [DP INSANE]",
       "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=38&order=reg&odtype=a",
@@ -5492,6 +5858,7 @@
    {
       "artist" : "Is-m obj:ucc BGA:140",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 24767,
@@ -5507,6 +5874,7 @@
    {
       "artist" : "anubasu-anubasu / obj: JGh meets Pumpkin_Man BGA by 出前",
       "comment" : "差分ミラー https://www.dropbox.com/s/amsmj4q9j5hyhh4/0.JoLa_14MH.bms?dl=0",
+      "delete" : null,
       "eval" : 0,
       "level" : 13,
       "lr2_bmsid" : 199703,
@@ -5522,6 +5890,7 @@
    {
       "artist" : "wint (obj: LTX)",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 765,
@@ -5537,6 +5906,7 @@
    {
       "artist" : "Is-m BGA:fity",
       "comment" : " 譜面同梱",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 1273,
@@ -5552,6 +5922,7 @@
    {
       "artist" : "Est obj ; N",
       "comment" : " skydriveの50番に本体あり。",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 201228,
@@ -5567,6 +5938,7 @@
    {
       "artist" : "Ym1024 (obj:k)",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 123832,
@@ -5582,6 +5954,7 @@
    {
       "artist" : "maxXx65535 obj:ucc",
       "comment" : " 本体はこちら https://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21111 2014/03/17 公式サイトから入手不可。差分は入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 23140,
@@ -5597,6 +5970,7 @@
    {
       "artist" : "mommy",
       "comment" : " 同梱譜面(mpg形式)",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 186154,
@@ -5612,6 +5986,7 @@
    {
       "artist" : "wa. vs celas vs 44teru-k obj:けろりん",
       "comment" : " Skydriveにて原曲補完 https://skydrive.live.com/#cid=863934608D908CD0&id=863934608D908CD0%21105",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 80046,
@@ -5627,6 +6002,7 @@
    {
       "artist" : "eicateve tonishina[vocal] 高松[movie] 森永君尋[illust] hi-low[object]",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 252860,
@@ -5642,6 +6018,7 @@
    {
       "artist" : "kozato",
       "comment" : " 同梱譜面",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 236240,
@@ -5657,6 +6034,7 @@
    {
       "artist" : "siromaru / obj:lichtr",
       "comment" : " 2014/03/17 本体が公式から入手不可能。差分は入手可能。 15/08/17 上記のskydrive内のplugoutから",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 55898,
@@ -5672,6 +6050,7 @@
    {
       "artist" : "ルゼ / obj. BACO",
       "comment" : " 譜面同梱",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 512,
@@ -5687,6 +6066,7 @@
    {
       "artist" : "Rabbit Bat",
       "comment" : " 2014/03/17 本体入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 39935,
@@ -5702,6 +6082,7 @@
    {
       "artist" : "syzfonics(仮名)",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 157164,
@@ -5717,6 +6098,7 @@
    {
       "artist" : "GYAON / obj:Louis",
       "comment" : " http://www46.tok2.com/home2/gyaondjaho/midi.html http://web.archive.org/web/20140204192232/http://www46.tok2.com/home2/gyaondjaho/midi.html",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 152013,
@@ -5732,6 +6114,7 @@
    {
       "artist" : "髭姫 feat.しゆ＆橘花音＆えみゅう。 obj:けろりん LYRICS：やんばるん BGA：髭姫 Arr.Milk_tya",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 199371,
@@ -5747,6 +6130,7 @@
    {
       "artist" : "ねこみりん feat.みゆ / むらしん",
       "comment" : " Skydriveにて原曲補完 https://skydrive.live.com/#cid=863934608D908CD0&id=863934608D908CD0%21105  14/04/17 BOF会場から入手確認。",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 731,
@@ -5762,6 +6146,7 @@
    {
       "artist" : "sasakure.UK",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 809,
@@ -5777,6 +6162,7 @@
    {
       "artist" : "ZUN / AU / 灰猫ユキハル obj@PEN",
       "comment" : " 2014/03/18 本体、差分ともに入手可能。 本体URLはhttp://www.nicovideo.jp/watch/sm10566283より確認することができます。",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 64292,
@@ -5792,6 +6178,7 @@
    {
       "artist" : "Grand Thaw obj:ucc",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 90022,
@@ -5807,6 +6194,7 @@
    {
       "artist" : "ねこみりん (obj:k)",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 41895,
@@ -5822,6 +6210,7 @@
    {
       "artist" : "er obj. 深海",
       "comment" : " 合同差分作成企画第8回収録",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 183616,
@@ -5837,6 +6226,7 @@
    {
       "artist" : "beatMARIO (object arranged by tsk)",
       "comment" : "差分ファイル名は「dpbms_0055.zip」2014/03/17 本体、差分ともに入手可能。旧DPBMSアップローダー保管https://drive.google.com/file/d/0B4Lag8JPHqO3LU1BMnZVMmNhR0k/view",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 10580,
@@ -5852,6 +6242,7 @@
    {
       "artist" : "wa. obj:ucc",
       "comment" : " 14/04/17 作者様の許可有り補完↓ https://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044!271#cid=26D9698EC1CEC044&id=26D9698EC1CEC044!208 差分入手可。",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 45222,
@@ -5867,6 +6258,7 @@
    {
       "artist" : "44teru-k remixed wa. obj:ucc",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 81859,
@@ -5882,6 +6274,7 @@
    {
       "artist" : "Widowmaker / obj:Hador",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 251411,
@@ -5897,6 +6290,7 @@
    {
       "artist" : "wa. remixed celas (obj:patsenner) BGA:TOHRU MiTSUHASHi",
       "comment" : " HP移転 http://creation-records.info/bms.htm",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 53421,
@@ -5912,6 +6306,7 @@
    {
       "artist" : "daisan",
       "comment" : " 2011年の中",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 109884,
@@ -5927,6 +6322,7 @@
    {
       "artist" : "stereoberry (original:syatten BGA:π=72)",
       "comment" : " *Web Archiveで入手が可能です。",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 112932,
@@ -5942,6 +6338,7 @@
    {
       "artist" : "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya mov:hrchem notes:OSR",
       "comment" : " 同梱譜面",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 230031,
@@ -5957,6 +6354,7 @@
    {
       "artist" : "Is-m BGA:ATM",
       "comment" : " 譜面同梱  2014/03/16 IAに5,10keysの譜面ファイル同梱版は見つかったものの、14keysの譜面がないため入手不可かもしれません。  IA経由で入手できるendless musicフルパッケージに含まれています。 http://web.archive.org/web/20081101212220fw_/http://www.is-m.jp/download/index.html",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 3001,
@@ -5972,6 +6370,7 @@
    {
       "artist" : "t-soach / obj:imit8or",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 162154,
@@ -5987,6 +6386,7 @@
    {
       "artist" : "onoken obj:k",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 2822,
@@ -6002,6 +6402,7 @@
    {
       "artist" : "PhotonFairy/obj:epics-",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 95231,
@@ -6017,6 +6418,7 @@
    {
       "artist" : "midori obj ； S",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 209922,
@@ -6032,6 +6434,7 @@
    {
       "artist" : "しーけー obj:kuro",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 221924,
@@ -6047,6 +6450,7 @@
    {
       "artist" : "Kamisys / Obj : Pumpkin_Man (^3^)",
       "comment" : " PABAT! 2015 Seasons Append Package http://0samil0.tumblr.com/pabat2015append/",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 207207,
@@ -6062,6 +6466,7 @@
    {
       "artist" : "ZUN(Arr.sun3) (obj:k)",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 94976,
@@ -6077,6 +6482,7 @@
    {
       "artist" : "ZUN Remixed by rider",
       "comment" : " dpbms_0409.zip 本体補完→http://flowermaster.web.fc2.com/",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 119636,
@@ -6092,6 +6498,7 @@
    {
       "artist" : "削除 / 140 obj:ucc",
       "comment" : " BOF2011DP差分パッケージ譜面",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 114068,
@@ -6107,6 +6514,7 @@
    {
       "artist" : "tarolabo vo：小宮真央 / obj:lichtr",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 28049,
@@ -6122,6 +6530,7 @@
    {
       "artist" : "SHIKI obj:NEPIA",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 41829,
@@ -6137,6 +6546,7 @@
    {
       "artist" : "azu Obj. Z_N",
       "comment" : " -差分URL Mirror https://www.dropbox.com/s/9izxpehf4y9ab72/Alicia%20Story.zip?dl=1 ★3?",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 191066,
@@ -6152,6 +6562,7 @@
    {
       "artist" : "Chitose (Movie:zue-row) / Obj:ゆ～兎",
       "comment" : " http://web.archive.org/web/20140921042604/http://timetorain.web.fc2.com/sabun/CLOCKTOWER_ogg_YH.zip",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 171049,
@@ -6167,8 +6578,9 @@
    {
       "artist" : "ねこみみ魔法使い (obj:k)",
       "comment" : " URLｺﾋﾟﾍﾟでDL可能です。(k)",
+      "delete" : null,
       "eval" : 0,
-      "level" : "？",
+      "level" : "?",
       "lr2_bmsid" : 2903,
       "md5" : "b4a7c2becc28426fbea8dd6494f2a6c4",
       "name_diff" : "",
@@ -6182,6 +6594,7 @@
    {
       "artist" : "masopp",
       "comment" : " 譜面同梱 2014/03/17 本体入手可能。 2014/03/17追記 なぜかBACOさんのサイトにつながらない。サーバーダウンかもしれないので後日確認が必要です。 2014/03/18 本体入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 2654,
@@ -6197,6 +6610,7 @@
    {
       "artist" : "フロン / ラズベリル (obj:k)",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 82129,
@@ -6212,6 +6626,7 @@
    {
       "artist" : "Project Necro Fantasia obj.係長",
       "comment" : " 2015/08/18 本体IA https://web.archive.org/web/20110716003623/http://integral.client.jp/bms/ 差分はURLを直打ち",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 50171,
@@ -6225,8 +6640,25 @@
       "url_diff" : "http://dpbms.at-ninja.jp/hokan/%5Brise%5Dalice.zip"
    },
    {
+      "artist" : "Lime / Roaring Flame / obj.LetsOTL",
+      "comment" : "",
+      "delete" : null,
+      "eval" : 0,
+      "level" : 6,
+      "lr2_bmsid" : 209130,
+      "md5" : "b5ddceb7aacb23de173a08c9a35d23ac",
+      "name_diff" : "",
+      "reg_date" : " ",
+      "state" : 1,
+      "tag" : null,
+      "title" : "Daydreamer [DP Fancy]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=162&event=83",
+      "url_diff" : "http://www.dropbox.com/s/ahf8j22p5n9hbm4/_daydreamer_dp_fancy.zip?dl=0"
+   },
+   {
       "artist" : "DJ ONOKEN with VJ tats obj:k",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 16627,
@@ -6242,6 +6674,7 @@
    {
       "artist" : "Brilliance (obj:k)",
       "comment" : " Skydriveにて原曲補完 https://skydrive.live.com/#cid=863934608D908CD0&id=863934608D908CD0%21105",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 94989,
@@ -6257,6 +6690,7 @@
    {
       "artist" : "SHIKI / obj:killer TOMATO",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 8054,
@@ -6272,6 +6706,7 @@
    {
       "artist" : "Saikoro",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 8058,
@@ -6287,6 +6722,7 @@
    {
       "artist" : "Junk (obj:k)",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 94974,
@@ -6302,6 +6738,7 @@
    {
       "artist" : "CrossGear/objEPICS-",
       "comment" : " 14/04/17 本体入手困難。 差分入手可。  14/04/27 本体保管庫より入手可 http://onedrive.live.com/?cid=FC95A680740CA8C9&id=FC95A680740CA8C9!111",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 59567,
@@ -6317,6 +6754,7 @@
    {
       "artist" : "polysha / Obj:ゆ～兎",
       "comment" : " kikaku8.zip内 It's ”alice” dream/alice_dpi_YH.bms",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 183489,
@@ -6332,6 +6770,7 @@
    {
       "artist" : "Brilliance respect for L.E.D (obj:k)",
       "comment" : " 補完→http://sdrv.ms/JvTQg9 (2014/04/21)本体補完より入手可。差分入手可。",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 767,
@@ -6347,6 +6786,7 @@
    {
       "artist" : "mommy",
       "comment" : " 同梱譜面",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 236443,
@@ -6362,6 +6802,7 @@
    {
       "artist" : "Super Retro Brothers",
       "comment" : " 譜面同梱",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 658,
@@ -6377,6 +6818,7 @@
    {
       "artist" : "Junk OBJ:KLOC",
       "comment" : " 差分を公開しているHPの一時補完を行っております。お手数ですが下記URLより差分をDLして下さい。 http://timetorain.web.fc2.com/ 2014/03/29 差分サイト復活 2014/08/16",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 42030,
@@ -6392,6 +6834,7 @@
    {
       "artist" : "sasakure.UK[obj:mymt]",
       "comment" : " 本体は課題曲ダウンロードリンクRED courseの上から2段目の右から2つ目の画像",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 170126,
@@ -6407,6 +6850,7 @@
    {
       "artist" : "er Obj:ゆ～兎",
       "comment" : " 第9回差分作成企画ページ DownLoad Address→差分DL スーパーイザナギオブジェクト/_sio_dpi_YH.bme",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 213902,
@@ -6422,6 +6866,7 @@
    {
       "artist" : "くっちー vs あっきー / obj:おーた",
       "comment" : " 同梱",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 39340,
@@ -6437,6 +6882,7 @@
    {
       "artist" : "SHIKI / obj = Mr.egg",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 13396,
@@ -6452,6 +6898,7 @@
    {
       "artist" : "kozato+-",
       "comment" : " →OneDriveにて補完 https://onedrive.live.com/?cid=3FB27C3B8FE97CE4&id=3FB27C3B8FE97CE4%21107",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 1811,
@@ -6467,6 +6914,7 @@
    {
       "artist" : "kanone / obj@PEN",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 236924,
@@ -6482,6 +6930,7 @@
    {
       "artist" : "HousePlan / Obj. Z_N",
       "comment" : " 差分 Mirror https://www.dropbox.com/s/xy0lak3m27tvwfv/%5BLunatic%20Sounds%5D%20Lazydays%20DP%20Sabun.zip?dl=1  PABAT! 2015 Seasons Append Package http://0samil0.tumblr.com/pabat2015append/",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 207469,
@@ -6497,6 +6946,7 @@
    {
       "artist" : "otokaz //obj:srof",
       "comment" : " 本体：サイト側のURLが間違っている。（上記のURLが正しい） 差分：dpbms_0184 （2014/04/21）本体・差分共に入手可",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 82080,
@@ -6512,6 +6962,7 @@
    {
       "artist" : "LiTaNia feat. SeeU obj:ka2o Movie: dodadog & Amy",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 142881,
@@ -6527,6 +6978,7 @@
    {
       "artist" : "ZUN (Arr.sun3)",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 3226,
@@ -6542,6 +6994,7 @@
    {
       "artist" : "カラフル・サウンズ・ポート",
       "comment" : " dpbms_0240.zip 本体はこちらから http://nekokan.dyndns.info/~pupuly/bms/view.cgi?id=60§ion=orig 2014/03/17 本体、差分ともに入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 88231,
@@ -6557,6 +7010,7 @@
    {
       "artist" : "Cosmos remix by polysha Obj. KENIN*",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 197570,
@@ -6572,6 +7026,7 @@
    {
       "artist" : "RYO-K / halcot",
       "comment" : " dpbms_0992.zip",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 181232,
@@ -6587,6 +7042,7 @@
    {
       "artist" : "BMS:Nego_tiator/Movie:Fiz obj:肴",
       "comment" : " total値400",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 238238,
@@ -6602,6 +7058,7 @@
    {
       "artist" : "CrossGear/objEPICS-",
       "comment" : " skydrive保管",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 59259,
@@ -6617,6 +7074,7 @@
    {
       "artist" : "midori obj ； S",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 214251,
@@ -6632,6 +7090,7 @@
    {
       "artist" : "Is-m BGA:murotani",
       "comment" : " 同梱譜面",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 236456,
@@ -6647,6 +7106,7 @@
    {
       "artist" : "しーけー obj:kuro",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 232852,
@@ -6662,8 +7122,9 @@
    {
       "artist" : "ねこみりん feat.みゆ / むらしん obj.BACO",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
-      "level" : "？",
+      "level" : "?",
       "lr2_bmsid" : 3336,
       "md5" : "c14dbcc534cbf5cb6eadeb27bd614976",
       "name_diff" : "",
@@ -6677,8 +7138,9 @@
    {
       "artist" : "kiku_b (obj:k)",
       "comment" : " →OneDriveにて補完 https://onedrive.live.com/?cid=3FB27C3B8FE97CE4&id=3FB27C3B8FE97CE4%21107",
+      "delete" : null,
       "eval" : 0,
-      "level" : "？",
+      "level" : "?",
       "lr2_bmsid" : 3329,
       "md5" : "c18535651130e11b5222f28fe320c6a3",
       "name_diff" : "",
@@ -6692,6 +7154,7 @@
    {
       "artist" : "remixed celas obj:ucc",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 67046,
@@ -6707,6 +7170,7 @@
    {
       "artist" : "Lokan 0bj. 0ne",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 278616,
@@ -6722,6 +7186,7 @@
    {
       "artist" : "mommy",
       "comment" : " 同梱譜面",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 157342,
@@ -6737,6 +7202,7 @@
    {
       "artist" : "xi / obj:Hador iimo",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 198841,
@@ -6752,6 +7218,7 @@
    {
       "artist" : "ZUN RMX By 44teru-k obj:ucc",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 11528,
@@ -6767,6 +7234,7 @@
    {
       "artist" : "ねこみりん / Apollo Sampling Machine feat.ilder×焔すばる obj:ucc",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 137088,
@@ -6782,6 +7250,7 @@
    {
       "artist" : "Est obj:ひだりみる",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 184140,
@@ -6795,8 +7264,25 @@
       "url_diff" : "http://www42.tok2.com/home/dpbms/cgi-bin/uploader/src/dpbms_1044.rar"
    },
    {
+      "artist" : "mommy",
+      "comment" : "同梱譜面",
+      "delete" : null,
+      "eval" : 0,
+      "level" : 1,
+      "lr2_bmsid" : 235635,
+      "md5" : "c7a7a7a5dd1985f680783d6cad0e66a3",
+      "name_diff" : "",
+      "reg_date" : " ",
+      "state" : 1,
+      "tag" : null,
+      "title" : "Precious!!! [14key,Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=357&event=110",
+      "url_diff" : ""
+   },
+   {
       "artist" : "BACO + kazpulse / object by meteor*",
       "comment" : " dpbms_0867.zip 本体ミラー https://dropbox.bms.ms/u/14629218/funkyhot_ogg.zip",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 170403,
@@ -6812,6 +7298,7 @@
    {
       "artist" : "nmk feat.雪城あゆむ Movie:iimo with 紗々目ユキ Obj:ゆ～兎",
       "comment" : " http://web.archive.org/web/20140921042604/http://timetorain.web.fc2.com/sabun/nmk_Alice_YH.zip",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 153566,
@@ -6827,6 +7314,7 @@
    {
       "artist" : "t+pazolite obj:345",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 40496,
@@ -6842,6 +7330,7 @@
    {
       "artist" : "siromaru obj@PEN",
       "comment" : " 2014/03/17 本体はBOF2010の公式トレントパッケージにて入手可能。差分は入手可能。 2015/08/17 トレントを使いたくない方へ: 本体 https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9&group=0",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 84201,
@@ -6857,6 +7346,7 @@
    {
       "artist" : "妃宮 千早 with. 七々原 薫子 (BG : ケイリ・グランセリウス)",
       "comment" : " dpbms_0739.zip",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 158050,
@@ -6872,6 +7362,7 @@
    {
       "artist" : "植松 伸夫 Remix&BMS by LOKI (obj:k)",
       "comment" : " 2014/03/17 本体、差分ともに入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 3312,
@@ -6887,6 +7378,7 @@
    {
       "artist" : "tarolabo BGA:MiRA vo:小宮真央 / obj: NIGHTS.",
       "comment" : " (2014/08/17) 本体は OneDrive 保管から入手可能 https://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21111 差分はURLコピー、貼り付けで入手可",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 1865,
@@ -6902,6 +7394,7 @@
    {
       "artist" : "CrossGear obj:ucc",
       "comment" : " 14/03/15 本体リンク内未確認 ・ 差分確認 14/05/11 本体リンクInternet Archiveにて確認 https://web.archive.org/web/20081222021801/http://crossgear.cc/bms.html  →OneDriveにて補完 https://onedrive.live.com/?cid=3FB27C3B8FE97CE4&id=3FB27C3B8FE97CE4%21107",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 1124,
@@ -6917,6 +7410,7 @@
    {
       "artist" : "カラフル・サウンズ・ポート / obj:killer TOMATO",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 116075,
@@ -6932,6 +7426,7 @@
    {
       "artist" : "beatMARIO",
       "comment" : " 現在、段位認定スレの17さんのwikiでDLできる譜面とはMD5が異なるので、 http://dpbms.at-ninja.jp/hokan/[17]btm_yaku.zip こちらからDLしてください。（コピー貼り付けでDL）  14/03/15 本体差分共に確認",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 1604,
@@ -6947,6 +7442,7 @@
    {
       "artist" : "urimu obj:nBel Movie:RAIDEN",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 259374,
@@ -6962,6 +7458,7 @@
    {
       "artist" : "keyc",
       "comment" : " →OneDriveにて補完 https://onedrive.live.com/?cid=3FB27C3B8FE97CE4&id=3FB27C3B8FE97CE4%21107",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 3405,
@@ -6977,6 +7474,7 @@
    {
       "artist" : "snowdrop // obj:(ﾟﾚﾟ)",
       "comment" : " dpbms_0285.zip",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 94821,
@@ -6992,13 +7490,14 @@
    {
       "artist" : "Sound piercer & Sobrem",
       "comment" : "同梱譜面日本語版",
+      "delete" : 0,
       "eval" : 0,
-      "level" : 3,
+      "level" : 2,
       "lr2_bmsid" : 244657,
       "md5" : "cb63cff26bd8bd10354a2777f1397193",
       "name_diff" : "",
       "reg_date" : " ",
-      "state" : 0,
+      "state" : 1,
       "tag" : null,
       "title" : "ロスト：ユートピアと真理と純粋の極彩世界 [DP HYPER]",
       "url" : "https://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=70",
@@ -7007,6 +7506,7 @@
    {
       "artist" : "DEMK Obj.Gatia",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。 15/01/08 差分が本体同梱だったため差分リンク削除",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 39777,
@@ -7022,6 +7522,7 @@
    {
       "artist" : "wigen_ obj:けろりん",
       "comment" : " ★50 - 2012/01/30 [プレイ人数6] 新規提案  14/03/15 本体差分共に確認 他の入手経路: http://neoarre.aquz.biz/333  15/08/12 本体入手不可",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 120275,
@@ -7037,8 +7538,9 @@
    {
       "artist" : "ねこみみ魔法使い (obj:k)",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
-      "level" : "？",
+      "level" : "?",
       "lr2_bmsid" : 2900,
       "md5" : "cd7898da11d3e6dc63519cf7dcbc8c8e",
       "name_diff" : "",
@@ -7052,6 +7554,7 @@
    {
       "artist" : "REX / obj:二代目IIDX16",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 187982,
@@ -7067,6 +7570,7 @@
    {
       "artist" : "Manaka Takane feat.Nananao obj:kuro",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 276249,
@@ -7082,6 +7586,7 @@
    {
       "artist" : "Junk feat.Salita / obj:epics-",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 142754,
@@ -7097,6 +7602,7 @@
    {
       "artist" : "SB YUNE vo : 小宮真央 obj : killer TOMATO",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 1413,
@@ -7112,6 +7618,7 @@
    {
       "artist" : "篠螺悠那 OBJ : KLOC",
       "comment" : " 差分を公開しているHPの一時補完を行っております。お手数ですが下記URLより差分をDLして下さい。 http://timetorain.web.fc2.com/ 2014/03/29 差分サイト復活 2014/08/16",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 88147,
@@ -7127,6 +7634,7 @@
    {
       "artist" : "篠螺悠那 feat. 鯛の小骨 obj:ucc",
       "comment" : " 本体:http://web.archive.org/web/20110911074519/http://tsubu.ath.cx/~electrogic/bms/imp_bga_mq.rar",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 13629,
@@ -7142,6 +7650,7 @@
    {
       "artist" : "beatMARIO (obj:k)",
       "comment" : " 15/08/17 差分はURLを直接打ち込んでください。",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 123833,
@@ -7157,6 +7666,7 @@
    {
       "artist" : "Kari - obj:(=ﾟωﾟ)ノぃょぅ",
       "comment" : " 本体URLクリックでは直接飛ばないのでURLコピペ推奨。 Skydriveにて原曲補完 https://skydrive.live.com/#cid=863934608D908CD0&id=863934608D908CD0%21105 (2014/04/21)本体補完から入手可。差分入手可",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 122925,
@@ -7172,6 +7682,7 @@
    {
       "artist" : "Sound Souler / Tagtraume obj:kuro Voc:Ms.Valentine / Illust:TheKara / obj:XYZ",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 237188,
@@ -7187,6 +7698,7 @@
    {
       "artist" : "knot obj:k",
       "comment" : " 2015/08/17 本体入手不能(作者のページで公開されているBMS曲一覧に入っていない?) 2015/08/17 https://onedrive.live.com/?cid=863934608D908CD0&id=863934608D908CD0%21105",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 537,
@@ -7202,6 +7714,7 @@
    {
       "artist" : "陳 正平",
       "comment" : " 本体はこちらから https://onedrive.live.com/?cid=FD93B4F2CB8CD95F&id=FD93B4F2CB8CD95F%21105#cid=FD93B4F2CB8CD95F&id=FD93B4F2CB8CD95F%21143 2014/03/17 差分は入手可能。本体は公式サイトから入手不可。 BOF2006公式torrentパッケージがあります。http://www.ceena.net/view.php?id=54 http://www.ceena.net/bms_pack.php 2014/03/18 公式トレントパッケージにて入手可能なことを確認。よって本体、差分ともに入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 542,
@@ -7217,6 +7730,7 @@
    {
       "artist" : "kors k.;Remixd by dj pure",
       "comment" : " 同梱されているDP譜面とはMD5が異なるので、別途差分DL必須。  2014/03/17 本体、差分ともに入手可能。差分はURLをアドレス欄に直接打ち込むことでDL可能です。",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 41133,
@@ -7230,8 +7744,25 @@
       "url_diff" : "http://dpbms.at-ninja.jp/hokan/sigRemix.zip "
    },
    {
+      "artist" : "Sound piercer vs. Iriss / Obj. 0ne",
+      "comment" : "★9?",
+      "delete" : null,
+      "eval" : 0,
+      "level" : 8,
+      "lr2_bmsid" : 271526,
+      "md5" : "d820be8513cd93b29f14d1ee0182d553",
+      "name_diff" : "",
+      "reg_date" : " ",
+      "state" : 1,
+      "tag" : null,
+      "title" : "BOUNCE THE TECH †LEGGENDARIA",
+      "url" : "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=27&order=reg&odtype=a",
+      "url_diff" : "https://drive.google.com/file/d/1zcK9yyVf7OlmsCWE9lPu1CrUCvBPqCHq/view"
+   },
+   {
       "artist" : "naotyu- / iimode-do obj:k",
       "comment" : " 曲データ保管 http://goo.gl/6PhmO -7-は顔文字 イベントページ manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=49 14/03/15 ↑確認できず。本体未確認 14/03/16 本体 http://iimode-do.jp/?p=57",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 2498,
@@ -7247,6 +7778,7 @@
    {
       "artist" : "anubasu-anubasu obj:ka2o BGA by 出前",
       "comment" : " DP段位認定10段3曲",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 132089,
@@ -7262,8 +7794,9 @@
    {
       "artist" : "fether / Yamajet",
       "comment" : " BMS Starter Pack 2008にも収録  こちらに収録しているかも。 http://fether.exblog.jp/18103561/ から飛べるリンクで、 http://dl.dropboxusercontent.com/s/yboez1yj4lrw350/fz.html です。",
+      "delete" : null,
       "eval" : 0,
-      "level" : "？",
+      "level" : "?",
       "lr2_bmsid" : 1509,
       "md5" : "d982219c10001fe540f3af66f404ebcf",
       "name_diff" : "",
@@ -7277,6 +7810,7 @@
    {
       "artist" : "Ricca(obj:ka2o)",
       "comment" : " BMS本体は作者様のHPよりDL可能です。 http://sound.jp/tima/index.html",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 114968,
@@ -7292,6 +7826,7 @@
    {
       "artist" : "篠螺悠那 feat. 鯛の小骨obj.係長",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 12403,
@@ -7307,6 +7842,7 @@
    {
       "artist" : "44teru-k remixed wa. obj:ucc",
       "comment" : " 2014/03/17 LN難易度表保管の方が許可を取った上で二次配布しているそうです。 http://mok2lnbms.6.ql.bz/nijihaifu.html",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 81858,
@@ -7322,6 +7858,7 @@
    {
       "artist" : "siromaru + cranky // movie: iimo // obj:epics-",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 113908,
@@ -7337,6 +7874,7 @@
    {
       "artist" : "mommy",
       "comment" : " 同梱",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 64566,
@@ -7352,6 +7890,7 @@
    {
       "artist" : "彩音 / 小宮真央 obj：Lara",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 13649,
@@ -7367,6 +7906,7 @@
    {
       "artist" : "SASAKI to YOSHIDA obj:ucc",
       "comment" : " 15/02/23 本体URLにて500エラーが出ます。 以下でDLできる模様。 http://media.outphase.com/bms_database/Manbow/",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 13402,
@@ -7382,6 +7922,7 @@
    {
       "artist" : "mommy",
       "comment" : " 同梱譜面",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 252395,
@@ -7397,6 +7938,7 @@
    {
       "artist" : "ねこみりん / obj:Lilium",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 179555,
@@ -7412,6 +7954,7 @@
    {
       "artist" : "高嶺 愛花 BGA : 室谷",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 178339,
@@ -7427,6 +7970,7 @@
    {
       "artist" : "Junk feat.Salita / obj:epics-",
       "comment" : " イベントページ(入手不可) http://manbow.nothing.sh/event/event.cgi?action=More_def&num=332&event=83",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 142748,
@@ -7442,6 +7986,7 @@
    {
       "artist" : "SHIKI /*8284*",
       "comment" : " dpbms_0219.rar 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 84604,
@@ -7457,6 +8002,7 @@
    {
       "artist" : "knot/LU (obj:k)",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 17565,
@@ -7472,6 +8018,7 @@
    {
       "artist" : "HEXAHEDRA / BGA:Johnny",
       "comment" : " 2015/03/29 本体URLリンク切れにつき、SP★16のページにあったURLを貼り付けておきます。 http://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21390&ithint=file,zip&authkey=!AGPAXusmRMWjV8s",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 190662,
@@ -7487,6 +8034,7 @@
    {
       "artist" : "guna with チーム・キュッキュ / obj = Mr.egg",
       "comment" : " 14/03/15 本体差分共に確認",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 9124,
@@ -7502,6 +8050,7 @@
    {
       "artist" : "masopp",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 1863,
@@ -7517,6 +8066,7 @@
    {
       "artist" : "ridis obj ; N",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 204212,
@@ -7532,6 +8082,7 @@
    {
       "artist" : "Silentroom × mommy × Nate",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 254604,
@@ -7547,6 +8098,7 @@
    {
       "artist" : "Junk / Obj. Onedict",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 264874,
@@ -7562,6 +8114,7 @@
    {
       "artist" : "horoscope object:Beatnoob",
       "comment" : " 原曲パッケージ(要解禁作業) http://nekokan.dyndns.info/~pmcc/pmcc2/index.htm",
+      "delete" : null,
       "eval" : 0,
       "level" : 13,
       "lr2_bmsid" : 240910,
@@ -7577,8 +8130,9 @@
    {
       "artist" : "ねこみりん / obj.zrk",
       "comment" : " 譜面同梱 公式サイトより本体入手可能。 http://www.nekomirin.com/ 2014/03/17 本体入手可能。",
+      "delete" : null,
       "eval" : 0,
-      "level" : "？",
+      "level" : "?",
       "lr2_bmsid" : 4970,
       "md5" : "e3e3406e20651ce02098972434a0f14b",
       "name_diff" : "",
@@ -7592,6 +8146,7 @@
    {
       "artist" : "HOLY SAMBA MASTER 佐藤 -SATOH- obj:けろりん",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 204183,
@@ -7607,6 +8162,7 @@
    {
       "artist" : "fether Obj.Gatia",
       "comment" : " fetherさんのブログからリンクを発見したので追加しておきました。 http://dl.dropboxusercontent.com/s/yboez1yj4lrw350/fz.htmlがBMS置き場です。  2014/03/17 本体、差分ともに入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 1872,
@@ -7622,6 +8178,7 @@
    {
       "artist" : "DJ LATI BGA : EMSH / Obj. Z_N",
       "comment" : " 同梱譜面",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 196985,
@@ -7637,6 +8194,7 @@
    {
       "artist" : "Glome /obj:spt",
       "comment" : " 差分はIAからDL可 http://web.archive.org/web/20110424083143/http://www.scn-net.ne.jp/~pons58/sabun/eclipse_luna14.rar  本体はこちらからDL可能。 https://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21271#cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21208  本体はこちらにて許可をとって二次配布しているそうです。 http://mok2lnbms.6.ql.bz/nijihaifu.html  2014/03/17 本体、差分ともに入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 21861,
@@ -7652,6 +8210,7 @@
    {
       "artist" : "MILK / obj:lichtr",
       "comment" : " 2014/03/17 本体、差分ともに入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 33888,
@@ -7667,6 +8226,7 @@
    {
       "artist" : "SHIKI obj:NEPIA",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 41830,
@@ -7682,6 +8242,7 @@
    {
       "artist" : "maxXx65535 / cyclia /obj:spt",
       "comment" : " Skydriveにて原曲補完 https://skydrive.live.com/#cid=863934608D908CD0&id=863934608D908CD0%21105 LN補完庫の方が許可をとって二次配布しているそうです。 http://mok2lnbms.6.ql.bz/nijihaifu.html 差分IA https://web.archive.org/web/20051111154105/http://www.scn-net.ne.jp/~pons58/sabun/cynthia14.rar 2014/03/17 本体,差分ともに入手可能。 2014/11/12 https://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044!208",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 3184,
@@ -7697,6 +8258,7 @@
    {
       "artist" : "Cres / obj : Hador",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 135093,
@@ -7712,6 +8274,7 @@
    {
       "artist" : "秋山 澪/obj:epics-",
       "comment" : " 14/03/15 本体差分共に確認",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 81164,
@@ -7727,6 +8290,7 @@
    {
       "artist" : "ああああ",
       "comment" : " https://www.dropbox.com/s/bcvycnknv7gguot/carnation.zip?dl=1",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 248125,
@@ -7742,6 +8306,7 @@
    {
       "artist" : "Silentroom × 駿 / obj.LetsOTL",
       "comment" : " https://ux.getuploader.com/dpbms/download/365",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 260917,
@@ -7757,6 +8322,7 @@
    {
       "artist" : "立秋 feat.ちょこ obj:Starfish",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 279314,
@@ -7772,6 +8338,7 @@
    {
       "artist" : "kinohito a.k.a. anubasu-anubasu remixed by くるぶっこちゃん BGA Optie/obj :松魚",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 9,
       "lr2_bmsid" : 163065,
@@ -7787,6 +8354,7 @@
    {
       "artist" : "GEMA",
       "comment" : " 譜面同梱 イベントページ http://manbow.nothing.sh/event/event.cgi?action=More_def&num=143&event=60 14/03/15 リンクDL不可 14/03/16 公式torrentに同梱？ http://www.ceena.net/view.php?id=090928130314-49988 14/03/17 上記の公式torrentパッケージにてDL可能なことを確認",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 39981,
@@ -7802,6 +8370,7 @@
    {
       "artist" : "w_tre / Obj. Z_N",
       "comment" : " Luminous package DP差分 http://l-bms.com/jp/download.html DL→ Sabun Package",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 204922,
@@ -7817,6 +8386,7 @@
    {
       "artist" : "FOLiACETATE",
       "comment" : "同梱譜面",
+      "delete" : 1,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 157462,
@@ -7832,6 +8402,7 @@
    {
       "artist" : "Junk",
       "comment" : " Skydriveにて原曲補完 https://skydrive.live.com/#cid=863934608D908CD0&id=863934608D908CD0%21105  14/04/17 作者HPからは入手不可。 BMS StareterPack 2009 にて入手可能。 http://www50.atwiki.jp/bmswiki/pages/18.html 差分入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 4290,
@@ -7847,6 +8418,7 @@
    {
       "artist" : "Junk BGA : YARITA / Obj:ゆ〜兎",
       "comment" : "http://web.archive.org/web/20140921042604/http://timetorain.web.fc2.com/sabun/The_Formula_YH.zip",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 170084,
@@ -7862,6 +8434,7 @@
    {
       "artist" : "paraoka",
       "comment" : " 本体アーカイブ https://web.archive.org/web/20040601000000/http://homepage1.nifty.com/paraoka/bms/9_wav.rar https://web.archive.org/web/20041011185720/http://homepage1.nifty.com/paraoka/index38.html (2014/04/21)本体差分共に入手可",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 509,
@@ -7877,6 +8450,7 @@
    {
       "artist" : "YUKI",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 101554,
@@ -7892,6 +8466,7 @@
    {
       "artist" : "Iriss-Frantzz / obj:nabisco",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 209295,
@@ -7907,6 +8482,7 @@
    {
       "artist" : "Is-m/steelyvibe BGA:q/stol",
       "comment" : " 同梱譜面",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 252264,
@@ -7922,6 +8498,7 @@
    {
       "artist" : "AMAZE / 灰猫ユキハル obj@PEN",
       "comment" : " 本体はこちらから https://onedrive.live.com/?cid=2e71a39cea9b6ce3&id=2E71A39CEA9B6CE3!116  2014/03/17 上記URLは公式によるOneDriveと思われます。差分はアドレス欄に直接URLを書き込むとDL可能。 ※上記URLについて http://2melody4p.blog76.fc2.com/blog-entry-557.htmlにて公式で旧skydriveが紹介されていますが、旧skydriveがonedriveになったためそのまま短縮アドレスから飛ぶとリンク切れみたいになっています。 短縮前のアドレスはhttp://cid-2e71a39cea9b6ce3.office.live.com/browse.aspx/.Documentsで、onedriveの仕様に合わせて書き換えると以下のようになります。 https://onedrive.live.com/?cid=2e71a39cea9b6ce3",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 65386,
@@ -7937,6 +8514,7 @@
    {
       "artist" : "sweez & Meine Meinung remixed by roop / obj:lichtr",
       "comment" : " 14/03/15 本体差分共に確認 https://web.archive.org/web/20131207072052/http://str3.org/_index.html",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 34185,
@@ -7952,6 +8530,7 @@
    {
       "artist" : "東京アリス幻樂団 obj:k",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 12424,
@@ -7967,6 +8546,7 @@
    {
       "artist" : "HEXAHEDRA / BGA:Johnny",
       "comment" : " 2015/03/29 本体URLリンク切れにつき、SP★16のページにあったURLを貼り付けておきます。 http://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21390&ithint=file,zip&authkey=!AGPAXusmRMWjV8s",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 190660,
@@ -7982,6 +8562,7 @@
    {
       "artist" : "-45 / わなな・BANI",
       "comment" : " https://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21111",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 77532,
@@ -7997,6 +8578,7 @@
    {
       "artist" : "sun3 vs EXCALIpUR / BGA:Johnny obj.EXCALIpUR",
       "comment" : " 14/04/17 GENOSIDE -BMS StarterPackage- 同梱。",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 39760,
@@ -8012,6 +8594,7 @@
    {
       "artist" : "しらいし (obj:NEPIAvsKumamoto)",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 88898,
@@ -8027,6 +8610,7 @@
    {
       "artist" : "syatten",
       "comment" : " UEさんの差分。 本体→http://web.archive.org/web/20091210173603/http://www.planetoid.biz/",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 6735,
@@ -8042,6 +8626,7 @@
    {
       "artist" : "D-suke / highluin obj:けろりん",
       "comment" : " 本体DLリンクが割れています。 会長住所 : http://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=74",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 118164,
@@ -8057,6 +8642,7 @@
    {
       "artist" : "Cres (obj:k)",
       "comment" : " 差分はリンク先を右クリックから保存",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 119005,
@@ -8072,6 +8658,7 @@
    {
       "artist" : "カラフル・サウンズ・ポート/mov:むらしん obj:肴",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 244326,
@@ -8087,13 +8674,14 @@
    {
       "artist" : "Orange Strophe / obj:lichtr",
       "comment" : "",
+      "delete" : 0,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 36213,
       "md5" : "edacbe92fcd11d0e25d415187aa4cc6f",
       "name_diff" : "",
       "reg_date" : " ",
-      "state" : 0,
+      "state" : 1,
       "tag" : null,
       "title" : "Honesis Costum (radio edit)",
       "url" : "http://onedrive.live.com/?cid=a1f351e1932e6ff7#cid=A1F351E1932E6FF7&id=A1F351E1932E6FF7%21282",
@@ -8102,6 +8690,7 @@
    {
       "artist" : "Dachs / obj:二代目IIDX16",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 178253,
@@ -8117,6 +8706,7 @@
    {
       "artist" : "xi/obj:Arylas",
       "comment" : " 14/04/17 GENOSIDE -BMS StarterPackage- 同梱。 差分入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 115213,
@@ -8132,6 +8722,7 @@
    {
       "artist" : "Is-m BGA:coda",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 10281,
@@ -8147,6 +8738,7 @@
    {
       "artist" : "mommy",
       "comment" : " https://onedrive.live.com/?cid=DE6C2233D3348440&id=DE6C2233D3348440!160 譜面同梱",
+      "delete" : null,
       "eval" : 0,
       "level" : 3,
       "lr2_bmsid" : 3316,
@@ -8162,6 +8754,7 @@
    {
       "artist" : "Team:SASAKURATION obj:ucc",
       "comment" : " 14/04/17 BMS StareterPack 2009 にて入手可能。 http://www50.atwiki.jp/bmswiki/pages/18.html 差分入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 20107,
@@ -8177,6 +8770,7 @@
    {
       "artist" : "きのこ～ず(G.G with Anne-Ninne)",
       "comment" : " 譜面同梱 イベントページ http://manbow.nothing.sh/event/event.cgi?action=More_def&num=59&event=60 14/03/15リンク先DL不可（消滅） 14/03/16 公式torrentに同梱？ http://www.ceena.net/view.php?id=090928130314-49988 14/03/18 公式torrentに同梱を確認",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 39759,
@@ -8192,6 +8786,7 @@
    {
       "artist" : "ZUN remixed by LeaF / obj.LetsOTL Movie:Optie",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 213635,
@@ -8207,6 +8802,7 @@
    {
       "artist" : "陳 正平 / obj:蛸 山葵",
       "comment" : " イベントページ http://dee.manbow.org/event/event.cgi?action=More_def&num=11&event=36 2014/03/17 差分は入手可能。 本体は公式パッケージにて入手可能かもしれません。http://www.ceena.net/bms_pack.php 公式torrentパッケージもあります。http://www.ceena.net/view.php?id=54 2014/03/18 公式トレントパッケージにて入手可能なことを確認。よって本体、差分ともに入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 514,
@@ -8222,6 +8818,7 @@
    {
       "artist" : "Professor S obj:ucc",
       "comment" : " 本体は[db] ※appendではありません。 2014/03/17 本体、差分ともに入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 31328,
@@ -8237,6 +8834,7 @@
    {
       "artist" : "HARD RENAISSAMBA MASTER 佐藤 -SATOH- / obj.LetsOTL",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 13,
       "lr2_bmsid" : 220036,
@@ -8252,6 +8850,7 @@
    {
       "artist" : "kohaxy obj.vectorla",
       "comment" : " 同梱譜面。http://nekonotsuka.com/ondan8/index.html",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 257226,
@@ -8267,6 +8866,7 @@
    {
       "artist" : "篠螺悠那 feat. 鯛の小骨 obj.係長",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 12,
       "lr2_bmsid" : 1341,
@@ -8282,6 +8882,7 @@
    {
       "artist" : "Est",
       "comment" : "本体https://skydrive.live.com/?cid=F61C1F8825F0CF46&id=F61C1F8825F0CF46%21379#cid=F61C1F8825F0CF46&id=F61C1F8825F0CF46%21159のest0692014/03/17 上記(おそらく)公式Onedriveより本体入手可能。差分は入手可能。2014/03/19 上のskydriveはURLから飛べました。",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 2874,
@@ -8297,6 +8898,7 @@
    {
       "artist" : "LeaF / obj:killer TOMATO",
       "comment" : " Skydriveにて原曲補完 https://skydrive.live.com/#cid=863934608D908CD0&id=863934608D908CD0%21105 2014/03/17 本体が公式サイトより入手不可能。差分は入手可能。 公式トレントパッケージにて入手可能な可能性あり→以前入手した時入っていました http://manbow.nothing.sh/event/event.cgi?action=List_def&event=71",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 102900,
@@ -8312,6 +8914,7 @@
    {
       "artist" : "atomic sphere / obj:lichtr",
       "comment" : " →OneDriveにて補完 https://onedrive.live.com/?cid=3FB27C3B8FE97CE4&id=3FB27C3B8FE97CE4%21107",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 40031,
@@ -8327,6 +8930,7 @@
    {
       "artist" : "Ras / obj@PEN",
       "comment" : " ★50 [2012/04/27] 10人  14/03/15 本体差分共に確認",
+      "delete" : null,
       "eval" : 0,
       "level" : 1,
       "lr2_bmsid" : 128120,
@@ -8342,6 +8946,7 @@
    {
       "artist" : "ねこみみ魔法使い+-",
       "comment" : " 差分入手困難 差分作者様サイトより『差分の二次配布可』との事なので、持っている方はロダへお願いします  14/04/27 IAより差分入手可 https://web.archive.org/web/20110424083040/http://www.scn-net.ne.jp/~pons58/sabun/littlehearts14.rar",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 2672,
@@ -8357,6 +8962,7 @@
    {
       "artist" : "mist-rose obj:ucc",
       "comment" : " 14/04/17 BMS本体・差分共に入手可能。",
+      "delete" : null,
       "eval" : 0,
       "level" : 7,
       "lr2_bmsid" : 95596,
@@ -8372,6 +8978,7 @@
    {
       "artist" : "Ninja Action Team / obj:Redrum",
       "comment" : " 2014/03/24 本体・差分共に入手可",
+      "delete" : null,
       "eval" : 0,
       "level" : 4,
       "lr2_bmsid" : 12345,
@@ -8387,6 +8994,7 @@
    {
       "artist" : "celas / obj@PEN",
       "comment" : " http://skydrive.live.com/?cid=FD93B4F2CB8CD95F&id=FD93B4F2CB8CD95F%21105 の「発狂曲(第2含む)の保管」フォルダからダウンロード出来る。",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 166244,
@@ -8402,13 +9010,14 @@
    {
       "artist" : "fmy. × TrioStaR × Lylica* × ｂ cislv × Mentalstock / obj. 0ne × Z_N",
       "comment" : "差分 Mirrorhttps://drive.google.com/open?id=14OA0AdJzLoQtlU5wUKo60mIHijMpz04y",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 277111,
       "md5" : "fb75c717819d9c82e4dde618ea908c53",
       "name_diff" : "",
       "reg_date" : " ",
-      "state" : 1,
+      "state" : 0,
       "tag" : null,
       "title" : "虚空グラデーション [DP FingerDance]",
       "url" : "https://www.axfc.net/u/2051313&key=xiv",
@@ -8417,6 +9026,7 @@
    {
       "artist" : "くっちー / あっきー obj:ucc",
       "comment" : " 14/03/09現在、本体・差分共に入手可",
+      "delete" : null,
       "eval" : 0,
       "level" : 13,
       "lr2_bmsid" : 43190,
@@ -8432,6 +9042,7 @@
    {
       "artist" : "篠螺悠那 / 29 / obj:killer TOMATO",
       "comment" : " 14/04/17 本体入手可。 http://web.archive.org/web/20130427145910/http://tsubu.ath.cx/~electrogic/bms/x_aria_f.rar 差分入手可。",
+      "delete" : null,
       "eval" : 0,
       "level" : 8,
       "lr2_bmsid" : 24840,
@@ -8447,8 +9058,9 @@
    {
       "artist" : "narve // dp131",
       "comment" : " オマケ",
+      "delete" : null,
       "eval" : 0,
-      "level" : "？",
+      "level" : "?",
       "lr2_bmsid" : 13137,
       "md5" : "fce420f2ef521d9117b698fb1b336452",
       "name_diff" : "",
@@ -8462,6 +9074,7 @@
    {
       "artist" : "xi/obj:epics-",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 10,
       "lr2_bmsid" : 84817,
@@ -8477,6 +9090,7 @@
    {
       "artist" : "ISH overdrive/obj:epics-",
       "comment" : " 差分込保管：https://skydrive.live.com/#cid=863934608D908CD0&id=863934608D908CD0%21105 （2014/04/20）本体保管庫からのみ入手可。差分入手可",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 95456,
@@ -8492,6 +9106,7 @@
    {
       "artist" : "void feat. コツキミヤ , Gt. えば/obj:epics- BGA : Photonskyto",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 6,
       "lr2_bmsid" : 80584,
@@ -8507,6 +9122,7 @@
    {
       "artist" : "Reanisz obj:kuro",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 2,
       "lr2_bmsid" : 225167,
@@ -8522,6 +9138,7 @@
    {
       "artist" : "源屋feat.ユスラ obj:killer TOMATO",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 11,
       "lr2_bmsid" : 106336,
@@ -8537,13 +9154,14 @@
    {
       "artist" : "qfeileadh feat.レゾナンスもえこ mov:自動車 原付 / obj. 71066 + 1",
       "comment" : "",
+      "delete" : null,
       "eval" : 0,
       "level" : 5,
       "lr2_bmsid" : 284276,
       "md5" : "ff032aba82bd46c09c7937df77511a03",
       "name_diff" : "",
       "reg_date" : " ",
-      "state" : 1,
+      "state" : 0,
       "tag" : null,
       "title" : "Prismrose [花束]",
       "url" : "https://k-bms.com/party_pabat/party.jsp?board_num=20&num=19&order=reg&odtype=a",
