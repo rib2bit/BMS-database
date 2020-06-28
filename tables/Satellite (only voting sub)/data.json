@@ -27,19 +27,6 @@
       "zureCount" : 0
    },
    {
-      "artist" : "yukitani / HYOUTAN obj. DK",
-      "comment" : "総集合(キー音が少しアレンジされました)",
-      "level" : "5",
-      "md5" : "06af61934e63982120319c1f08e9d6fc",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "d2d508afa5de64eefa07e809981302e8b23dbecbad7c12f7c60459eb91fa45f3",
-      "submission" : 1481,
-      "title" : "Kaiden Aura [XDEN]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=65",
-      "url_diff" : "https://frozensat.github.io/sabun/kaidenaura_DK.zip"
-   },
-   {
       "artist" : "eye burn Reading: 冬乃桜, obj. w",
       "comment" : "高速/階段",
       "level" : "8",
@@ -54,19 +41,6 @@
       "zureCount" : 0
    },
    {
-      "artist" : "Crimsona / И",
-      "level" : "12",
-      "md5" : "0dad1e5604033ec6757bebd8701826b9",
-      "proposer" : "MarySue",
-      "proposerLr2id" : 147889,
-      "sha256" : "c6d078325985da860383633edcce7d45a6d345def7e61870f6448581dae2e679",
-      "submission" : 1468,
-      "title" : "Hyper Fiber World Spectrum [World Etude]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=59&event=110",
-      "url_diff" : "https://bms.parksulab.xyz",
-      "zureCount" : 0
-   },
-   {
       "artist" : "長沼浩太（バナナ太郎） obj.Mallow♪",
       "comment" : "連打、皿",
       "level" : "3",
@@ -78,20 +52,6 @@
       "title" : "YAKEKUSO BOYS [ヤケメシ]",
       "url" : "https://dropbox.bms.ms/u/63612044/YAKEKUSO_BOYS.rar",
       "url_diff" : "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view?usp=sharing",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "カラフル・サウンズ・ポート obj:Fender",
-      "comment" : "",
-      "level" : "1",
-      "md5" : "21d50f01b479f73ec2933299249b1008",
-      "proposer" : "|/|",
-      "proposerLr2id" : 147895,
-      "sha256" : "d3b489e80f49c278f34f5d17cff76654f723c4759993267f6f7d2811c6359b58",
-      "submission" : 1471,
-      "title" : "カラフル・サウンズ・カッター [F]",
-      "url" : "http://sunaneko.iptime.org/BMS_Library/カラフル・サウンズ・カッター (by カラフル・サウンズ・ポート).rar",
-      "url_diff" : "http://fenderbms.web.fc2.com/",
       "zureCount" : 0
    },
    {
@@ -122,22 +82,6 @@
       "url_diff" : ""
    },
    {
-      "artist" : "Dachs / Movie : わっふゑ obj.Mallow♪",
-      "level" : "8",
-      "md5" : "2e0b721babb8fb62ce977c23c9f364f9",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "fdab57e33bc50e9a9fad8dbe5d8f00ec409d79a76ba23595ae311cba16c1b05d",
-      "submission" : 1294,
-      "title" : "MOBILYS [Endymion (fixed)]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=24&event=127",
-      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
-      "voteNeutral" : 1,
-      "voteNo" : 0,
-      "votePercent" : 95,
-      "voteYes" : 9
-   },
-   {
       "artist" : "Dr.ReB obj. DK",
       "comment" : "1998to2020差分企画",
       "level" : "2",
@@ -149,6 +93,33 @@
       "title" : "偽/人形/術師/物語 [Marionette]",
       "url" : "http://k-bms.com/party_pabat/party2015.jsp?board_num=15&num=22&order=reg&odtype=a",
       "url_diff" : "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "Sound piercer vs. Iriss",
+      "comment" : "ANOTHER",
+      "level" : "0",
+      "md5" : "35f9697e17de0d312054c732f29cba18",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "d9eeaf4e33f3e514f06ec6c7361b93c3778b2be4c2425c4cc0b5c231f9cd8eb2",
+      "submission" : 1505,
+      "title" : "BOUNCE THE TECH [SP ANOTHER]",
+      "url" : "https://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=27&order=reg&odtype=a",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "BilliumMoto mov:A-Zero Project / obj:BK",
+      "comment" : "0~1",
+      "level" : "1",
+      "md5" : "3bbaa3d11d7c6729bbb77d02aec4c287",
+      "proposer" : "|/|",
+      "proposerLr2id" : 147895,
+      "sha256" : "8da641ebe0da676943d01f53abcc360388ace8ff9b27a40ef7f12e679b473276",
+      "submission" : 1502,
+      "title" : "ruby [BKANOTHER_fix]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=70&event=127",
+      "url_diff" : "http://beatkim.web.fc2.com/nsabun.html",
       "zureCount" : 0
    },
    {
@@ -182,35 +153,6 @@
       "voteYes" : 10
    },
    {
-      "artist" : "kyou1110 vs 九八式旋回機関銃 / obj:みっと",
-      "level" : "10",
-      "md5" : "44b67fc9a16975d036aa563ded206298",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "b26f4204bd2a4f9bd70a4c394929552d7ed363a5121ab4e29d2df70541950e86",
-      "submission" : 233,
-      "title" : "Six Pieces Dummy [A sharpness knife]",
-      "url" : "https://keysounds.net/events/event/1/impressions/id/4",
-      "url_diff" : "http://zzssccaxd.wixsite.com/bmsabun/sabunkikaku",
-      "voteNeutral" : 0,
-      "voteNo" : 6,
-      "votePercent" : 57.1428571428571,
-      "voteYes" : 8
-   },
-   {
-      "artist" : "Yusuke Takeuchi",
-      "comment" : "BPM112 縦連",
-      "level" : "3",
-      "md5" : "4c0d0a89ed624019cddeae8409acfa71",
-      "proposer" : "SHAX.",
-      "proposerLr2id" : 65624,
-      "sha256" : "f7cbe185fa1994c57551812f1b164b27facf82d9f4f86758e7e2eff269af3126",
-      "submission" : 1459,
-      "title" : "evidence (ANOTHER)",
-      "url" : "http://sunaneko.iptime.org/BMS_Library/evidence%20%28by%20Yusuke%20Takeuchi%29.rar",
-      "url_diff" : ""
-   },
-   {
       "artist" : "uet / obj:NASA",
       "comment" : "BPM200 多要素",
       "level" : "4",
@@ -223,6 +165,19 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=42&event=129",
       "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/",
       "zureCount" : 0
+   },
+   {
+      "artist" : "Sobrem / И",
+      "comment" : "AnzutoolでNORMAL差分と比較するとズレなし",
+      "level" : "12",
+      "md5" : "4d78928a045ebf4ae3d4c96d5c618d43",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "5405de2c371dea30fc3a026382b1e84fe0ec9b4892126a60aa44918d03c4ae66",
+      "submission" : 1500,
+      "title" : "Encrux [Cinder]",
+      "url" : "https://goo.gl/WQCtF7",
+      "url_diff" : "https://bms.parksulab.xyz"
    },
    {
       "artist" : "qfeileadh feat.レゾナンスもえこ mov:自動車 原付 / Obj.Triforce",
@@ -239,47 +194,6 @@
       "zureCount" : 0
    },
    {
-      "artist" : "HyuN Pattern : Quree",
-      "comment" : "",
-      "level" : "0",
-      "md5" : "5c481dcfb06fd9c35dd79d967f6b44fd",
-      "proposer" : "氷城つるぎ",
-      "proposerLr2id" : 151185,
-      "sha256" : "48359a63a20337b5f38102854dabe484fb71f620ba4d6370aa71a33b9a6e5386",
-      "submission" : 1485,
-      "title" : "iRELLiA [Another]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=65&event=127",
-      "url_diff" : ""
-   },
-   {
-      "artist" : "Arctures obj : Mary_Sue",
-      "comment" : "sl0入門、トリル、同時押し",
-      "level" : "0",
-      "md5" : "5f4b53ee4cca3d6d341909728c64a0b6",
-      "proposer" : "|/|",
-      "proposerLr2id" : 147895,
-      "sha256" : "60d37a86af88a83a2bd8fbfb0c7009b1328716b2f54abbecf9f8d0870b814deb",
-      "submission" : 1448,
-      "title" : "mnemogeny [earth to earth_ver.2]",
-      "url" : "http://sunaneko.iptime.org/BMS_Library/mnemogeny%20%28by%20Arctures%29.rar",
-      "url_diff" : "https://stellabms.xyz/upload/148",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "usomitaina twins obj:SUZUKAZEΛ",
-      "comment" : "BPM151同時押し・微縦連・LN",
-      "level" : "3",
-      "md5" : "619d1d55d938436a17da283d2d6938c1",
-      "proposer" : "スノート",
-      "proposerLr2id" : 86393,
-      "sha256" : "34f6ab6e8380e913cc2e820fa7531ddd6eb29c7adf279cf69c142870e1ad9ae5",
-      "submission" : 1465,
-      "title" : "悲劇のアニマルキングダム－BMS MIX－ [ZOI]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=273&event=127",
-      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
-      "zureCount" : 0
-   },
-   {
       "artist" : "La La La La La",
       "comment" : "BPM148 多要素",
       "level" : "2",
@@ -293,22 +207,6 @@
       "url_diff" : ""
    },
    {
-      "artist" : "VeetaCrush obj. DK",
-      "level" : "7",
-      "md5" : "6abc6a1fab2751a28f76f398820b04b3",
-      "proposer" : "SHAX.",
-      "proposerLr2id" : 65624,
-      "sha256" : "72faf6f573c3a2ff4326525931752dbe5cdea5140d06a37c4f88533c77666734",
-      "submission" : 1346,
-      "title" : "Sterelogue [Dash]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=294&event=123",
-      "url_diff" : "https://frozensat.github.io/sabun/Sterelogue_DK.zip",
-      "voteNeutral" : 2,
-      "voteNo" : 0,
-      "votePercent" : 90.9090909090909,
-      "voteYes" : 9
-   },
-   {
       "artist" : "pr.s obj: Dolphin",
       "comment" : "sl0~2? (tateren)",
       "level" : "1",
@@ -320,20 +218,6 @@
       "title" : "Lepontinia",
       "url" : "http://dl.dropbox.com/s/tspye2yzxlr69gd/prs_Lepontinia.rar",
       "url_diff" : "",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "削除 / 石像くん obj.かに",
-      "comment" : "乱打",
-      "level" : "9",
-      "md5" : "7e392ca9c44870a68c8d219b57345be9",
-      "proposer" : "Mallow♪",
-      "proposerLr2id" : 154796,
-      "sha256" : "b0c0127ab5e7121cf4bce17b17ef670cf2ff2de4610a03ea3868b5f9a0613ecf",
-      "submission" : 1474,
-      "title" : "Neurotoxin",
-      "url" : "http://web.archive.org/web/20120318134823/http://www7b.biglobe.ne.jp/~ssbossmix/",
-      "url_diff" : "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view",
       "zureCount" : 0
    },
    {
@@ -379,6 +263,20 @@
       "zureCount" : 0
    },
    {
+      "artist" : "P*Light / po",
+      "comment" : "やさしい皿",
+      "level" : "7",
+      "md5" : "9978fa59025a74eb897495c0695d0199",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "33eab3f7df1a45f35aff85d632e0a25b090133bb899d42269deae163016871d3",
+      "submission" : 1503,
+      "title" : "Poppin' Shower [ANOTHER+]",
+      "url" : "https://onedrive.live.com/?id=FC95A680740CA8C9%21201&cid=FC95A680740CA8C9",
+      "url_diff" : "http://rarehero2000.web.fc2.com/po.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "SHK/さ",
       "level" : "6",
       "md5" : "9a037d61ed02bdf4ea783857f5a785b4",
@@ -418,7 +316,7 @@
       "submission" : 156,
       "title" : "マージナル＊フロンティア [Maple forest]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=430&event=110",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00459",
+      "url_diff" : "https://www.limiteknj.net/BMS",
       "voteNeutral" : 0,
       "voteNo" : 8,
       "votePercent" : 38.4615384615385,
@@ -438,6 +336,32 @@
       "url_diff" : ""
    },
    {
+      "artist" : "P*Light / obj:とろ。",
+      "comment" : "SPHとズレなし(snareキー音が変わった)",
+      "level" : "1",
+      "md5" : "aa51e2798757718a3501a96c3eb9e884",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "08c286b1d25d627db650e38316842eab2a8749278db6d92ed05f87e00818c700",
+      "submission" : 1504,
+      "title" : "The Shining* [rare]",
+      "url" : "http://www.mediafire.com/file/aixaaleoae9p0ox/the_shining.rar/file",
+      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up5369.zip"
+   },
+   {
+      "artist" : "天使真央 obj.森さん",
+      "comment" : "BPM180 高速階段",
+      "level" : "7",
+      "md5" : "b7143d7df5c81feddfdabefdf3704320",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "d43bef970c7c25262744bec74fdbc8e2aa820dc037d422cd7567d68a5d200c1a",
+      "submission" : 1499,
+      "title" : "feeling(bms edit) [Hierarchie]",
+      "url" : "http://www.mediafire.com/file/89ypy7ik4zajsn0/%255Bgj-bu%255Dfeeling.rar/file",
+      "url_diff" : ""
+   },
+   {
       "artist" : "mommy obj. Lollipop",
       "comment" : "階段、たのしい",
       "level" : "0",
@@ -449,6 +373,20 @@
       "title" : "rough [7key,Hyper+]",
       "url" : "https://www.dropbox.com/s/i9s5z0njely4bo0/rough.rar?dl=1",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02580",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "km_npgear Obj.Triforce",
+      "comment" : "BPM180 乱打",
+      "level" : "3",
+      "md5" : "c20fd6cabd524c3c2ce4550c5678d2e4",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "990437b84c7d3051b3061899d3336a1ebeb97fd73cb6d468d8934ca16ad72f79",
+      "submission" : 1501,
+      "title" : "Journey Through the Full Moon [Vallis Palitzsch]",
+      "url" : "https://www.dropbox.com/s/1v20nfvsjqpszc0/Journey_Through_the_Full_Moon_ogg.zip?dl=0",
+      "url_diff" : "https://trfce.github.io/sabun/(112)Journey_Through_the_Full_Moon_triforce.zip",
       "zureCount" : 0
    },
    {
@@ -517,33 +455,6 @@
       "title" : "Calamity Fortune [HARD]",
       "url" : "http://yaruki0.sakura.ne.jp/event/ondanyugi5/impression.cgi?no=45",
       "url_diff" : ""
-   },
-   {
-      "artist" : "くっちー",
-      "comment" : "皿",
-      "level" : "5",
-      "md5" : "ed40d68d31873d52dd87cd1cf7896113",
-      "proposer" : "MEES-♬",
-      "proposerLr2id" : 39693,
-      "sha256" : "be6c73e9d15a28cf9eec0dc4ce4774ffb0f2e6fd37e8ce6f22586448da6a8c1b",
-      "submission" : 1486,
-      "title" : "locked girl@Scarlet-Devils Palace [ANOTHER]",
-      "url" : "https://web.archive.org/web/20150421070949/http://page.freett.com/ykyk00/",
-      "url_diff" : ""
-   },
-   {
-      "artist" : "SUZUKI obj.onzonium",
-      "comment" : "",
-      "level" : "1",
-      "md5" : "fa0a38f2a1a45edbf0388492fde8c35b",
-      "proposer" : "Mallow♪",
-      "proposerLr2id" : 154796,
-      "sha256" : "dbf751acfed875a6ce2465e568b9e0528dc4476bcfb71775da02182276cfd864",
-      "submission" : 1475,
-      "title" : "SpellBound [CHARM]",
-      "url" : "https://web.archive.org/web/20070121141237/yamajet1984.net/library/suzuki/sb.rar",
-      "url_diff" : "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view?usp=sharing",
-      "zureCount" : 0
    },
    {
       "artist" : "KAH (BGA:自動車原付　イラスト:手鞠鈴) obj.screw",

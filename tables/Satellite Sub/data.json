@@ -309,7 +309,7 @@
       "submission" : 98,
       "title" : "L9",
       "url" : "http://web.archive.org/web/20070301141729/http://homepage1.nifty.com:80/paraoka/index38.html",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01391",
+      "url_diff" : "https://www.limiteknj.net/BMS",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -981,7 +981,7 @@
       "sha256" : "8c3d485b393c276cec824a229b6c456c4779685e58efd31b720fcee93511ca61",
       "submission" : 685,
       "title" : "サクライロフワリ (INUther)",
-      "url" : "http://csport.me/",
+      "url" : "http://csport.info/",
       "url_diff" : "http://onedrive.live.com/redir?resid=556B497B89BD736D%21156",
       "voteNeutral" : 0,
       "voteNo" : 0,
@@ -1115,7 +1115,7 @@
       "sha256" : "40ce8ca26be98b63aff64ff461e2e882aebc09ca36a9493bb330aa188c3546b1",
       "submission" : 508,
       "title" : "村 [村 of a Bitch]",
-      "url" : "http://qstol.sakura.ne.jp/kanji/bms_detail.php?id=16",
+      "url" : "https://web.archive.org/web/20180316032550/http://csport.me/bms/csp_mura_bms.zip",
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up7155.zip",
       "voteNeutral" : 0,
       "voteNo" : 0,
@@ -3150,7 +3150,7 @@
    {
       "artist" : "P4koo/つゆり花鈴/BlueArpeggio Illust GATTOMOTTO/Movie Ratif / obj:BAECON",
       "comment" : "BOFXV　同時押し",
-      "level" : "6",
+      "level" : "7",
       "md5" : "240e4603c81a12bfedc5a9bcddc52e88",
       "proposer" : "3号君",
       "proposerMinirid" : "7a7a5bdf-499d-4973-b5dc-23883f5e57f9",
@@ -4350,7 +4350,7 @@
       "submission" : 1182,
       "title" : "事象の地平 [事件の前兆]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=320&event=88",
-      "url_diff" : "https://1drv.ms/x/s!Aoi5esJwIYCChk0BTx_U1KkswzSf"
+      "url_diff" : "https://www.limiteknj.net/BMS"
    },
    {
       "artist" : "Miloudi / movie: Ratif obj.onzonium",
@@ -4376,7 +4376,7 @@
       "submission" : 329,
       "title" : "VECTOR",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=424&event=123",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02488",
+      "url_diff" : "https://www.limiteknj.net/BMS",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -4605,6 +4605,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Sound piercer vs. Iriss",
+      "comment" : "ANOTHER",
+      "level" : "0",
+      "md5" : "35f9697e17de0d312054c732f29cba18",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "d9eeaf4e33f3e514f06ec6c7361b93c3778b2be4c2425c4cc0b5c231f9cd8eb2",
+      "submission" : 1505,
+      "title" : "BOUNCE THE TECH [SP ANOTHER]",
+      "url" : "https://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=27&order=reg&odtype=a",
+      "url_diff" : ""
    },
    {
       "artist" : "ねこみみ魔法使い / Lucy",
@@ -5085,6 +5098,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "BilliumMoto mov:A-Zero Project / obj:BK",
+      "comment" : "0~1",
+      "level" : "1",
+      "md5" : "3bbaa3d11d7c6729bbb77d02aec4c287",
+      "proposer" : "|/|",
+      "proposerLr2id" : 147895,
+      "sha256" : "8da641ebe0da676943d01f53abcc360388ace8ff9b27a40ef7f12e679b473276",
+      "submission" : 1502,
+      "title" : "ruby [BKANOTHER_fix]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=70&event=127",
+      "url_diff" : "http://beatkim.web.fc2.com/nsabun.html",
+      "zureCount" : 0
    },
    {
       "artist" : "U-hey Seta feat.橘花音×A.Dokuga Movie:Sugar obj:七海千秋",
@@ -5694,7 +5721,7 @@
       "submission" : 337,
       "title" : "LIGHT OF HARMONY",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=380&event=123",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02367",
+      "url_diff" : "https://www.limiteknj.net/BMS",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -6619,6 +6646,19 @@
       "title" : "Shamshir -rough Pt.2- [7key,Another]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=323&event=127",
       "url_diff" : ""
+   },
+   {
+      "artist" : "Sobrem / И",
+      "comment" : "AnzutoolでNORMAL差分と比較するとズレなし",
+      "level" : "12",
+      "md5" : "4d78928a045ebf4ae3d4c96d5c618d43",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "5405de2c371dea30fc3a026382b1e84fe0ec9b4892126a60aa44918d03c4ae66",
+      "submission" : 1500,
+      "title" : "Encrux [Cinder]",
+      "url" : "https://goo.gl/WQCtF7",
+      "url_diff" : "https://bms.parksulab.xyz"
    },
    {
       "artist" : "IZ Nit Feat. CH Wit obj:SANY",
@@ -8657,7 +8697,7 @@
       "submission" : 72,
       "title" : "Kreuz [時間と機械の物語]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=89&event=96",
-      "url_diff" : "https://1drv.ms/x/s!Aoi5esJwIYCChk0BTx_U1KkswzSf",
+      "url_diff" : "https://www.limiteknj.net/BMS",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -10046,7 +10086,7 @@
       "submission" : 70,
       "title" : "overtrue",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=110",
-      "url_diff" : "https://1drv.ms/x/s!Aoi5esJwIYCChk0BTx_U1KkswzSf",
+      "url_diff" : "https://www.limiteknj.net/BMS",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -10145,7 +10185,7 @@
    {
       "artist" : "卯月",
       "comment" : "たのしー！",
-      "level" : "1",
+      "level" : "2",
       "md5" : "79ccce1da419f1792c653d6f7bf6348d",
       "proposer" : "鷺沢文香",
       "proposerLr2id" : 133436,
@@ -11414,7 +11454,7 @@
    {
       "artist" : "BMS:9-zen obj:Lorse",
       "comment" : "同時押し",
-      "level" : "4",
+      "level" : "5",
       "md5" : "8946b4a72a06f08f3f692da8fcfb8bf2",
       "proposer" : "sagoo",
       "proposerLr2id" : 72753,
@@ -11642,7 +11682,7 @@
       "sha256" : "3e7065a9b3d91c432b9d060647d07379f088c772016e1ceedf4503059c3cd56b",
       "submission" : 737,
       "title" : "聖戦の輪舞 -Luna-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=515&event=110",
+      "url" : "https://drive.google.com/uc?id=1cN84ISfMCBLCYrPkrAlRZCikbd49x_uF",
       "url_diff" : "http://bmsselene.web.fc2.com/index.html",
       "voteNeutral" : 0,
       "voteNo" : 0,
@@ -11891,7 +11931,7 @@
       "submission" : 1040,
       "title" : "8bit Adventurer",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=444&event=116",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02946"
+      "url_diff" : "https://www.limiteknj.net/BMS"
    },
    {
       "artist" : "Is-m/steelyvibe BGA:q/stol / obj:Lennon",
@@ -12583,6 +12623,20 @@
       "title" : "Disco Balls -Eclipse-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=183&event=60",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02540"
+   },
+   {
+      "artist" : "P*Light / po",
+      "comment" : "やさしい皿",
+      "level" : "7",
+      "md5" : "9978fa59025a74eb897495c0695d0199",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "33eab3f7df1a45f35aff85d632e0a25b090133bb899d42269deae163016871d3",
+      "submission" : 1503,
+      "title" : "Poppin' Shower [ANOTHER+]",
+      "url" : "https://onedrive.live.com/?id=FC95A680740CA8C9%21201&cid=FC95A680740CA8C9",
+      "url_diff" : "http://rarehero2000.web.fc2.com/po.html",
+      "zureCount" : 0
    },
    {
       "artist" : "Roy Mikelate Obj. MirrorAlice",
@@ -13461,7 +13515,7 @@
       "submission" : 156,
       "title" : "マージナル＊フロンティア [Maple forest]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=430&event=110",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00459",
+      "url_diff" : "https://www.limiteknj.net/BMS",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -13917,6 +13971,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "P*Light / obj:とろ。",
+      "comment" : "SPHとズレなし(snareキー音が変わった)",
+      "level" : "1",
+      "md5" : "aa51e2798757718a3501a96c3eb9e884",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "08c286b1d25d627db650e38316842eab2a8749278db6d92ed05f87e00818c700",
+      "submission" : 1504,
+      "title" : "The Shining* [rare]",
+      "url" : "http://www.mediafire.com/file/aixaaleoae9p0ox/the_shining.rar/file",
+      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up5369.zip"
    },
    {
       "artist" : "しーけー obj.mute",
@@ -15235,6 +15302,19 @@
       "url_diff" : "http://beatkim.web.fc2.com/insane.html"
    },
    {
+      "artist" : "天使真央 obj.森さん",
+      "comment" : "BPM180 高速階段",
+      "level" : "7",
+      "md5" : "b7143d7df5c81feddfdabefdf3704320",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "d43bef970c7c25262744bec74fdbc8e2aa820dc037d422cd7567d68a5d200c1a",
+      "submission" : 1499,
+      "title" : "feeling(bms edit) [Hierarchie]",
+      "url" : "http://www.mediafire.com/file/89ypy7ik4zajsn0/%255Bgj-bu%255Dfeeling.rar/file",
+      "url_diff" : ""
+   },
+   {
       "artist" : "DJ Michelle illust. マルノ/奥沢美咲",
       "comment" : "fix ver",
       "level" : "8",
@@ -15715,7 +15795,7 @@
       "submission" : 1243,
       "title" : "恋愛シンドローム [forever]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=439&event=88",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=3023"
+      "url_diff" : "https://www.limiteknj.net/BMS"
    },
    {
       "artist" : "SB_YUNE feat. 初音ミク/さ",
@@ -16013,7 +16093,7 @@
    },
    {
       "artist" : "STARSTREAK CHAOS-TL12 Illustration by Neru / obj: Lennon",
-      "level" : "4",
+      "level" : "5",
       "md5" : "bde6e746250d86e04619a5d7f527c4be",
       "proposer" : "椒図",
       "proposerLr2id" : 124809,
@@ -16325,6 +16405,20 @@
       "title" : "SYNTHETICS",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=285&event=123",
       "url_diff" : ""
+   },
+   {
+      "artist" : "km_npgear Obj.Triforce",
+      "comment" : "BPM180 乱打",
+      "level" : "3",
+      "md5" : "c20fd6cabd524c3c2ce4550c5678d2e4",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "990437b84c7d3051b3061899d3336a1ebeb97fd73cb6d468d8934ca16ad72f79",
+      "submission" : 1501,
+      "title" : "Journey Through the Full Moon [Vallis Palitzsch]",
+      "url" : "https://www.dropbox.com/s/1v20nfvsjqpszc0/Journey_Through_the_Full_Moon_ogg.zip?dl=0",
+      "url_diff" : "https://trfce.github.io/sabun/(112)Journey_Through_the_Full_Moon_triforce.zip",
+      "zureCount" : 0
    },
    {
       "artist" : "dust.c / obj:みっと",
@@ -16688,7 +16782,7 @@
    {
       "artist" : "tarolabo / obj BUN×BUN",
       "comment" : "NORMAL判定",
-      "level" : "4",
+      "level" : "3",
       "md5" : "c6eb34cad636b0ff143004f77e39f9ed",
       "proposer" : "MineC24",
       "proposerLr2id" : 84597,
@@ -17091,7 +17185,7 @@
       "submission" : 75,
       "title" : "平行世界のテスタメント",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=97&event=96",
-      "url_diff" : "http://absolute.pv.land.to/bof/src/up0746.rar",
+      "url_diff" : "https://www.limiteknj.net/BMS",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -17517,7 +17611,7 @@
       "submission" : 102,
       "title" : "Chronomia",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=550&event=110",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00536",
+      "url_diff" : "https://www.limiteknj.net/BMS",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -18895,7 +18989,7 @@
    {
       "artist" : "Kitty obj:SUZUKAZEΛ",
       "comment" : "同時押し,乱打",
-      "level" : "2",
+      "level" : "3",
       "md5" : "e1c1f35b1fbeb382e562ecad1085a085",
       "proposer" : "ZEUS",
       "proposerLr2id" : 80338,
@@ -19869,7 +19963,7 @@
       "submission" : 41,
       "title" : "Smiling",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=441&event=104",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01304",
+      "url_diff" : "https://www.limiteknj.net/BMS",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -20121,7 +20215,7 @@
       "sha256" : "931ed2bc86deca4bd75c7d9aee5c7c72da6c6d55f527e3c3c2c9837af6845677",
       "submission" : 222,
       "title" : "村 [正]",
-      "url" : "https://qstol.info/events/kanji/bms_detail.php?id=16",
+      "url" : "https://web.archive.org/web/20180316032550/http://csport.me/bms/csp_mura_bms.zip",
       "url_diff" : "http://lapisbms.xyz/",
       "voteNo" : 0,
       "votePercent" : 0,

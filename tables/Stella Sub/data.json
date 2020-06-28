@@ -1114,7 +1114,7 @@
    {
       "artist" : "Arch movie:Roaring Flame obj:Guanacoite",
       "comment" : "st3~4 (物量)",
-      "level" : "3",
+      "level" : "4",
       "md5" : "1224830aeab9f9e0a8c967a19b04d4bb",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -2382,7 +2382,7 @@
    {
       "artist" : "Tetra≠Elemental / obj:BAECON",
       "comment" : "",
-      "level" : "0",
+      "level" : "1",
       "md5" : "27233e82def50bcdcb21dd4632d742f8",
       "proposer" : "Aspidiske",
       "sha256" : "82ec3a010de110a8a84ddd37405913ae4a1fb8aead30f6a3a505402c031be025",
@@ -2784,19 +2784,6 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
-   },
-   {
-      "artist" : "NIKITA / misokabocha/∞",
-      "comment" : "ラス殺し、ディレイ",
-      "level" : "9",
-      "md5" : "2c4e3404356bdb4b75108afdee91a792",
-      "proposer" : "Razuurene",
-      "proposerLr2id" : 121666,
-      "sha256" : "a27cd811c7a0255efaccb712c6847773807124fcbe80a4119d6497df6a2ca637",
-      "submission" : 1026,
-      "title" : "夢、幻。 [infinity]",
-      "url" : "https://dl.dropboxusercontent.com/s/hbd3fm7tlkqp5np/yumemaboroshi_ogg.zip?dl=1&token_hash=AAHvr6XDAXuRGGo7pNfo7SukdijOHfLijMFTNSa05MT4RQ",
-      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up5656.rar"
    },
    {
       "artist" : "有賀 澪 BGA:しらたき Illust:Cleome obj: qtp13",
@@ -3548,7 +3535,7 @@
    {
       "artist" : "山蝙蝠ホールディングス movie : Y.A.B.tudidama / A",
       "comment" : "乱打、物量、同時押し",
-      "level" : "0",
+      "level" : "1",
       "md5" : "38b6f9405ecbf0e41856b9f2369d1be8",
       "proposer" : "ZEUS",
       "sha256" : "af6101e549c830c62ae40b3d0b58e21d45645567f141f0bbfedb88d0195a7c4a",
@@ -4675,7 +4662,7 @@
    {
       "artist" : "Le Dos-on",
       "comment" : "BPM200長い物量",
-      "level" : "6",
+      "level" : "7",
       "md5" : "4734dfe0cc9a169269dda03c6f8f11e5",
       "proposer" : "LUXURY",
       "sha256" : "0d04447cc94f29324924569ac2e2a2d6e7ed20a7f299455a42ec3f886b455f97",
@@ -4830,7 +4817,7 @@
       "sha256" : "f6f8726debb2323954b65576dcfb858e58bd0450e827568ababfb369245c5b3d",
       "submission" : 240,
       "title" : "サクライロフワリ (mania7)",
-      "url" : "http://csport.me/",
+      "url" : "http://csport.info/",
       "url_diff" : "http://gnqg.rosx.net/upload/",
       "voteNo" : 0,
       "votePercent" : 0,
@@ -5971,6 +5958,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Arkplot（mov：NekoX）",
+      "comment" : "ギミック",
+      "level" : "2",
+      "md5" : "5aac613d8c6a4361caf8cb5916f6cf33",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "732fdfcb510e35a6e04cf1fd6536239df380e52854a2e0f37ffbaf8d29c77932",
+      "submission" : 1187,
+      "title" : "Decompozer [Decryption]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=254&event=127",
+      "url_diff" : "https://bms.parksulab.xyz",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Lime / inukoro",
       "comment" : "",
       "level" : "7",
@@ -6864,6 +6865,19 @@
       "title" : "CYCLONE ［微縦］",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=37&event=96",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03753"
+   },
+   {
+      "artist" : "tdef / ZUN / obj. 子",
+      "comment" : "from Satellite",
+      "level" : "0",
+      "md5" : "66efb916d034011260a72d7c7ec1c6aa",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "1f095d05594e8a80764a75cd998598b4bd31d185d6049fff4e994b148374cd36",
+      "submission" : 1183,
+      "title" : "the moon as seen from the void (GOD)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=37&event=129",
+      "url_diff" : ""
    },
    {
       "artist" : "Y.W / obj. ejl6",
@@ -9620,7 +9634,7 @@
       "sha256" : "ffbf14c1388345d96ef49c19c36eed3abd1d06629b39deec0f51cd3602175148",
       "submission" : 504,
       "title" : "サクライロフワリ (puncture)",
-      "url" : "http://csport.me/bms/csp_sakurairofuwari_bms.zip",
+      "url" : "http://csport.info/",
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up5514.rar",
       "voteNo" : 0,
       "votePercent" : 0,
@@ -10055,6 +10069,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "qfeileadh feat.レゾナンスもえこ mov:自動車 原付 obj:Restia",
+      "comment" : "st1?",
+      "level" : "1",
+      "md5" : "9971d0309c48ff36bc5ae0cbc57b6dda",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "6a73397a3f6bbf6c3099a81b3caae21b25d9eb0794f5020abb432373ebe24015",
+      "submission" : 1186,
+      "title" : "Prismrose [SP CATACLYSM]",
+      "url" : "https://www.dropbox.com/s/zi85mtugat7t0fg/qfeileadh_Prismrose_BGA.zip?dl=0",
+      "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpylzXqoZ19Q-9yqAVL?e=gQCUYG",
+      "zureCount" : 0
    },
    {
       "artist" : "uma vs. モリモリあつし Movie : masiro vs. adaptor",
@@ -10924,7 +10952,7 @@
    {
       "artist" : "E0ri4 BGA:GAMEBAKA / obj:Guanacoite",
       "comment" : "乱打,イージーは比較的簡単",
-      "level" : "2",
+      "level" : "3",
       "md5" : "a726522ecd7b6599e9e652f76c9540d1",
       "proposer" : "Mallow♪",
       "proposerLr2id" : 154796,
@@ -11511,7 +11539,7 @@
       "submission" : 959,
       "title" : "愛と煩悩と輪廻と常識の極彩世界 [地力向上についての同時押しと縦連の極彩世界]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=204&event=88",
-      "url_diff" : "https://1drv.ms/x/s!Aoi5esJwIYCChk0BTx_U1KkswzSf"
+      "url_diff" : "https://www.limiteknj.net/BMS"
    },
    {
       "artist" : "beatMARIO / tomsfir / selene.",
@@ -11954,7 +11982,7 @@
    {
       "artist" : "- 4 5 /  s e l e n e .",
       "comment" : "地力+ディレイ",
-      "level" : "6",
+      "level" : "7",
       "md5" : "b65f617fdfe61f555e74750da2b6f694",
       "proposer" : "LUXURY",
       "sha256" : "b080a52feecd8d1e74cd5ce471e400f7c188368aea005379d1d9c22e6e74751c",
@@ -12436,6 +12464,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "はがね bgi.ばんぶー OBJ : ランダマイザ",
+      "comment" : "from Stella",
+      "level" : "0",
+      "md5" : "bc6cf4791e30e04f0079c806981840f9",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "0661764a0318b7364b806d2b175ff365280522bda55b1147384ce4e5f16e543c",
+      "submission" : 1184,
+      "title" : "YAKUI [SA]",
+      "url" : "http://drive.google.com/file/d/0B8Buw0z19S9DU0hUQnJTWE5vRzA/view?usp=sharing",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
    },
    {
       "artist" : "recognize m. / bga-RED / obj:axd",
@@ -14426,7 +14467,7 @@
    {
       "artist" : "しらいし obj:C4",
       "comment" : "st3~4",
-      "level" : "4",
+      "level" : "5",
       "md5" : "da0019c09d434d470e73c91703c9454f",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -14636,7 +14677,7 @@
    {
       "artist" : "ルゼ / selene.",
       "comment" : "楽しい物量！",
-      "level" : "1",
+      "level" : "2",
       "md5" : "de559c618ad8702be93e40bd51f21388",
       "proposer" : "LUXURY",
       "sha256" : "4356d638b83eb7222c1deebed06af54bae45d8e75e20f8c614e368d9395d6dee",
@@ -14869,7 +14910,7 @@
    {
       "artist" : "さかみりと img:しぐれぷに子/obj:赤い人",
       "comment" : "st1~2?",
-      "level" : "1",
+      "level" : "2",
       "md5" : "e1cf6ae1aae5f99561f31dd987a83b51",
       "proposer" : "MineC24",
       "proposerLr2id" : 84597,
@@ -15791,6 +15832,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Kanata.S feat.Salita BGA:アカツキユウ OBJ:Restia",
+      "comment" : "同時押し",
+      "level" : "0",
+      "md5" : "f0dc5e4a4c8351e915567f49d14eb718",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "e06f1c776bf6bb56cfd55583d58e418333d9cb3b62f01829b50c62b714a4914e",
+      "submission" : 1185,
+      "title" : "片翼のライカ [超越者]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=24&event=98",
+      "url_diff" : "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view?usp=sharing",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Judah BGA:Lucifer obj:VINYL",
       "comment" : "高速乱打 no misalignment",
       "level" : "8",
@@ -16154,7 +16209,7 @@
       "submission" : 205,
       "title" : "Inherited World [cliche]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=104",
-      "url_diff" : "",
+      "url_diff" : "https://www.limiteknj.net/BMS",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
