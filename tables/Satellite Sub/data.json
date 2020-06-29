@@ -5383,6 +5383,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "カラフル・サウンズ・ポート /差分 赤い人",
+      "comment" : "LUV",
+      "level" : "11",
+      "md5" : "40245d0384a485fe1a2ffec75095f626",
+      "proposer" : "MEES-♬",
+      "proposerLr2id" : 39693,
+      "sha256" : "6360fc50d337442b37b1d0676baa45d7e6f265d1f2d1e4369c99a04fae70a242",
+      "submission" : 1508,
+      "title" : "LUV TO ME 2011 [HARDEST]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=135&event=74",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/LuvToMe2011-HARDESTf.bms",
+      "zureCount" : 0
+   },
+   {
       "artist" : "69 de 74 / obj:C4 vs 天真",
       "comment" : "総合力",
       "level" : "9",
@@ -5398,6 +5412,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "美月 正 obj. sera",
+      "comment" : "低速/微連打/縦連打/皿複合/追加音源あり(差分url同梱)",
+      "level" : "11",
+      "md5" : "404937351f39007a7a211e154feebadb",
+      "proposer" : "かに",
+      "proposerLr2id" : 115381,
+      "sha256" : "c74e85422c0e7691309a4c5188c5c4942e251299c62a843d440965de3112c7d9",
+      "submission" : 1510,
+      "title" : "cycedelica (7KEY-END)",
+      "url" : "https://web.archive.org/web/20050404091431fw_/http://www.ismusic.ne.jp/masa_mitsuki/cycedelica.zip",
+      "url_diff" : "https://stellabms.xyz/upload/223"
    },
    {
       "artist" : "源屋feat.ユスラ obj:trainer",
@@ -7797,6 +7824,20 @@
       "title" : "Crystalline White [SP INSANE]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=96",
       "url_diff" : ""
+   },
+   {
+      "artist" : "かむちゃうらる obj:SUZUKAZEΛ",
+      "comment" : "BPM110 ズレ、ガチ押し、乱打",
+      "level" : "4",
+      "md5" : "5af9607e56575eb67dd11fd3f3358818",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "cf234fda7a9f3de05c874cdffbe78dc47b2ae7865e1fddfcfe9ef2ab8a503d7d",
+      "submission" : 1506,
+      "title" : "それは霞へと流れて [ZOI]",
+      "url" : "https://venue.bmssearch.net/bmsshuin2/27",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+      "zureCount" : 0
    },
    {
       "artist" : "Sound piercer feat.DAZBEE NeLiME / CHERISH / fxxh / Feyrlin / obj. DK",
@@ -11724,6 +11765,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Yu^ta / obj:Azel",
+      "comment" : "▼18",
+      "level" : "11",
+      "md5" : "8c5fad5786d67093ef4d4a35f462a031",
+      "proposer" : "MEES-♬",
+      "proposerLr2id" : 39693,
+      "sha256" : "1cf81cfa980540fbfb411ed3092447e633d544bdf607199ad8f5b32e9c245afc",
+      "submission" : 1509,
+      "title" : "My Little Sweet Kitty [Append+]",
+      "url" : "http://famousbms.web.fc2.com/",
+      "url_diff" : ""
+   },
+   {
       "artist" : "暁美ほむら /差分 赤い人",
       "level" : "2",
       "md5" : "8cb8c32c1f06fdfc5b11d22de0731539",
@@ -14926,6 +14980,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "BMP eFeL/Masquerade/CAPOKI/Seraphim/SmiGoon/LS",
+      "comment" : "同梱、BPM130乱打、後半難 ",
+      "level" : "3",
+      "md5" : "b32c42d9a1b4b81655ec8901dfdeb638",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "b4b9423b84968f1e2085859841fad36d79be99db8f6df44a370b3f1cf6dfaf06",
+      "submission" : 1507,
+      "title" : "Be-Music Primary [7 Lemon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=73",
+      "url_diff" : ""
    },
    {
       "artist" : "NGTMT",
