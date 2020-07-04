@@ -8850,19 +8850,6 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03305"
    },
    {
-      "artist" : "tdef / ZUN / obj. 子",
-      "comment" : "BPM180 多要素",
-      "level" : "12",
-      "md5" : "66efb916d034011260a72d7c7ec1c6aa",
-      "proposer" : "SHAX.",
-      "proposerLr2id" : 65624,
-      "sha256" : "1f095d05594e8a80764a75cd998598b4bd31d185d6049fff4e994b148374cd36",
-      "submission" : 1407,
-      "title" : "the moon as seen from the void (GOD)",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=37&event=129",
-      "url_diff" : ""
-   },
-   {
       "artist" : "ak+q/obj:凩",
       "comment" : "階段　皿複合　中盤同時押し",
       "level" : "3",
@@ -12403,6 +12390,20 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
    },
    {
+      "artist" : "Yu^ta",
+      "comment" : "sl3~4?",
+      "level" : "3",
+      "md5" : "9567325424819b4c9d5c65f89ebdaac0",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "a3274813c77302b6418b7d5bb2893ce0a5780b4507df5c01e3c799c1a0704648",
+      "submission" : 1513,
+      "title" : "Pleasure of Being [Cassis & Orange]",
+      "url" : "http://yuinore.net/2017/02/smc-package/",
+      "url_diff" : "",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Trinity BGA:q/stol obj:SANY",
       "level" : "2",
       "md5" : "95cc933f61be66e8f63fa0bdc464b49e",
@@ -15923,18 +15924,6 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
-   },
-   {
-      "artist" : "はがね bgi.ばんぶー OBJ : ランダマイザ",
-      "level" : "12",
-      "md5" : "bc6cf4791e30e04f0079c806981840f9",
-      "proposer" : "파이어",
-      "proposerLr2id" : 7290,
-      "sha256" : "0661764a0318b7364b806d2b175ff365280522bda55b1147384ce4e5f16e543c",
-      "submission" : 1466,
-      "title" : "YAKUI [SA]",
-      "url" : "http://drive.google.com/file/d/0B8Buw0z19S9DU0hUQnJTWE5vRzA/view?usp=sharing",
-      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
    },
    {
       "artist" : "er",
