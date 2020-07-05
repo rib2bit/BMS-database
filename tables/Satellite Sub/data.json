@@ -10225,6 +10225,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Rave Cyanide [BMS Edit R.W.R]",
+      "comment" : "sl0~1?",
+      "level" : "1",
+      "md5" : "79b6446716553ae6ae327afa2c23dac6",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "4804012aae5f1ee4c96883dce35fcc8c61d541fb7021ca0d4a908b1bb0ac443c",
+      "submission" : 1514,
+      "title" : "Palette Of The Life [Hyper]",
+      "url" : "https://dl.dropboxusercontent.com/s/haz6j8faux15v37/Palette of the Life.zip",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Process 2.3.1. Obj.Triforce",
       "comment" : "Chart Change",
       "level" : "2",
@@ -16902,6 +16915,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "でぱみぃ obj:七海",
+      "comment" : "第17回自称無名BMS作家が物申す！同時押し、体力物量系",
+      "level" : "12",
+      "md5" : "c7840e6e47d41f833771d6392ada364d",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "2a1eba0a248d80c5abedb5eece021a38c3f92d20fabd239c68da84771ea7cd3e",
+      "submission" : 1515,
+      "title" : "なんかたのしいことないかな -Hopeless-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=42&event=131",
+      "url_diff" : "https://www.dropbox.com/s/fb0k36ucof87o74/nanka_nanami.zip?dl=1",
+      "zureCount" : 0
    },
    {
       "artist" : "TAK / 差分　赤い人",
