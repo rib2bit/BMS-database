@@ -3226,6 +3226,18 @@
       "zureCount" : 0
    },
    {
+      "artist" : "H.U.T GiGAR obj:otaku BGA by koavenit",
+      "level" : "10",
+      "md5" : "25250bc613171de39ce61f54d76aa7a7",
+      "proposer" : "なつ",
+      "proposerLr2id" : 65517,
+      "sha256" : "e070b18646f5c6ff7c1ad628c3d6d4f0e9a66a520c1b17901959b6dbb82863ed",
+      "submission" : 1520,
+      "title" : "Rotterdam Racer [OTAKU]",
+      "url" : "https://www.axfc.net/u/3914408.zip",
+      "url_diff" : "https://dotup.org/uploda/dotup.org2195880.zip.html"
+   },
+   {
       "artist" : "qfeileadh",
       "comment" : "Low total, Renda",
       "level" : "4",
@@ -12942,6 +12954,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "NIKITA / misokabocha obj:七海",
+      "comment" : "SPH #090 キ―音 1つ追加されました。実際のズレは無し（差分アップご参照）",
+      "level" : "3",
+      "md5" : "9c0840b4bc096ab32d4173bb4b4c148a",
+      "proposer" : "Restia",
+      "proposerLr2id" : 115265,
+      "sha256" : "08fa3e05564bafd235a621d6423f4b15188a273eb7706544cd4b362e298b2e2b",
+      "submission" : 1518,
+      "title" : "夢、幻。 -Hope-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=93",
+      "url_diff" : "https://www.dropbox.com/s/okp0iysm103the1/yumemabo.zip?dl=1"
+   },
+   {
       "artist" : "CELLON. / obj:nov",
       "comment" : "乱打",
       "level" : "4",
@@ -16645,6 +16670,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "TK pattern for some reason",
+      "comment" : "",
+      "level" : "10",
+      "md5" : "c329d494bded6ae4be2b000d29c804a3",
+      "proposer" : "Restia",
+      "proposerLr2id" : 115265,
+      "sha256" : "9afd7a4fe3dd16acf2d60aeaf7a2492c2d496c54d09e64165804c7644e939f76",
+      "submission" : 1519,
+      "title" : "Out of the System [for some reason]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=366&event=110",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/1998to2020/1998to2020_0606.zip",
+      "zureCount" : 0
    },
    {
       "artist" : "suna obj:Fender",
