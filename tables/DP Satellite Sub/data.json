@@ -404,6 +404,20 @@
       "url_diff" : ""
    },
    {
+      "artist" : "SOMON obj.onzonium",
+      "comment" : "1~3? 同時押し",
+      "level" : "2",
+      "md5" : "190ef89f7c890d5ac3bf327acc4f6800",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "c34bcad990a04d545bd3ffd59d711f52630a775137086912afbee9286428cbfe",
+      "submission" : 370,
+      "title" : "-Never ending journey- [Forever]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=113&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "kozato",
       "comment" : "片手乱打と混フレの練習譜面",
       "level" : "0",
@@ -871,19 +885,6 @@
       "url_diff" : ""
    },
    {
-      "artist" : "テヅカ ? Qayo BGI: MUSH.T ? PHage / obj:Starfish",
-      "comment" : "★★5~6?",
-      "level" : "12",
-      "md5" : "363797f8fc619cff770b5a1b0fa82923",
-      "proposer" : "JHS",
-      "proposerLr2id" : 128228,
-      "sha256" : "c9f151a6c2324d375e05d149f676c5ec245ac957b4b3e1224ec787153f3ab472",
-      "submission" : 294,
-      "title" : "ニニ [DP INS☆NE]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=253&event=123",
-      "url_diff" : "https://ux.getuploader.com/dpbms/download/539"
-   },
-   {
       "artist" : "qfeileadh BGA: Maeus obj.quad",
       "comment" : "★11~12?(★★3~4?) 片手乱打",
       "level" : "11",
@@ -1346,6 +1347,20 @@
       "title" : "Take Me Away [DPA]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=150&event=104",
       "url_diff" : "http://ux.getuploader.com/dpbms/download/11/Take+Me+Away+DP.zip"
+   },
+   {
+      "artist" : "-45/obj:LLL",
+      "comment" : "4?、乱打、甘ゲージ",
+      "level" : "4",
+      "md5" : "57bf2117e01dba19e4fa172ade61d400",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "3fa0152d9754e82a0f37b5517112115035704d76cbe7d4b1b026f3b9672002c2",
+      "submission" : 368,
+      "title" : "藍煉の人形 [DPA.NOTHER]",
+      "url" : "http://malie.noor.jp/",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/881",
+      "zureCount" : 0
    },
    {
       "artist" : "shimizushi obj:肴 BGA : vol-t & a.a",
@@ -2914,7 +2929,7 @@
    {
       "artist" : "Music:しらいし obj:nBel",
       "comment" : "9~10? 階段、低速あり",
-      "level" : "10",
+      "level" : "9",
       "md5" : "a9d1c94124f0b6956fe2abb4a1c44c90",
       "proposer" : "にゃむ",
       "proposerLr2id" : 139958,
@@ -3197,6 +3212,20 @@
       "url_diff" : ""
    },
    {
+      "artist" : "eoll feat.白羽美依 obj.にゃむ",
+      "comment" : "5?",
+      "level" : "5",
+      "md5" : "ba489ea5e36ece66e790c36e2c5ea141",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "70002af54c75a2d604ae8549aa32b480db4520b36edd708edf2f29f1052613ac",
+      "submission" : 366,
+      "title" : "パステルプラネット [小惑星]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=284&event=110",
+      "url_diff" : "https://stellabms.xyz/upload/150",
+      "zureCount" : 0
+   },
+   {
       "artist" : "ATEMAK / obj:OSR",
       "comment" : "dpbms_0527.zip",
       "level" : "6",
@@ -3439,6 +3468,20 @@
       "title" : "Precious!!! [14key,Another]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=357&event=110",
       "url_diff" : ""
+   },
+   {
+      "artist" : "SHK / obj:sagoo",
+      "comment" : "8?、片手発狂",
+      "level" : "8",
+      "md5" : "caae5f67879616eeebc2049203bf46f3",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "00817d890ee27539f4d35b749abb2b161a334ddc9deb7b64d3a55ae62035e876",
+      "submission" : 367,
+      "title" : "Reality [DP-sagINSANE]",
+      "url" : "http://www1.axfc.net/uploader/so/1754703&key=bms",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/878",
+      "zureCount" : 0
    },
    {
       "artist" : "wigen mov.Lepusnette / obj.quad",
@@ -3705,7 +3748,7 @@
    },
    {
       "artist" : "Sound piercer vs. Iriss / Obj. 0ne",
-      "level" : "9",
+      "level" : "8",
       "md5" : "d820be8513cd93b29f14d1ee0182d553",
       "proposer" : "coco",
       "proposerLr2id" : 147123,
@@ -4177,6 +4220,20 @@
       "title" : "Luminance (DP ANOTHER)",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=42&event=96",
       "url_diff" : "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download"
+   },
+   {
+      "artist" : "ねぎとまと / obj:sagoo",
+      "comment" : "片手乱打、同時押し",
+      "level" : "7",
+      "md5" : "f388214f5dd4f7064cd1180a4d40678c",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "4d4b10dcaa4b2e3d090db3fe44ce780a0b77ca17bb30985f61a517f29b024581",
+      "submission" : 369,
+      "title" : "AngelPainter [DP-sagINSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=20&event=130",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/867",
+      "zureCount" : 0
    },
    {
       "artist" : "BilliumMoto Pattern: Liquart",

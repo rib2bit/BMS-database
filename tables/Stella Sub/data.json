@@ -1955,7 +1955,7 @@
    {
       "artist" : "ねこみりん / obj:Pearl-C.",
       "comment" : "連打多めガチ押し",
-      "level" : "7",
+      "level" : "8",
       "md5" : "209c34ac793b048927dcea64b051aef2",
       "proposer" : "APRICOT",
       "sha256" : "5195710eda4d4ea7df9486f110b19c32dae0445a219171b5a4d8e0bfcf3ff4f0",
@@ -4767,7 +4767,7 @@
    },
    {
       "artist" : "Se-U-Ra obj.swa",
-      "level" : "1",
+      "level" : "2",
       "md5" : "481f353fa2626391130030ee623f3a7b",
       "proposer" : "こめっと",
       "proposerLr2id" : 80964,
@@ -6163,7 +6163,7 @@
    {
       "artist" : "立秋 feat.ちょこ/obj:赤い人",
       "comment" : "(v '-' )v うーっ ＼( 'o' )／プナイプナイ～っ！！",
-      "level" : "4",
+      "level" : "5",
       "md5" : "5d499f1d4a563f5a3c98e037c39601d8",
       "proposer" : "スノート",
       "proposerLr2id" : 86393,
@@ -6897,7 +6897,7 @@
    {
       "artist" : "tdef / ZUN / obj. 子",
       "comment" : "from Satellite",
-      "level" : "0",
+      "level" : "1",
       "md5" : "66efb916d034011260a72d7c7ec1c6aa",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,
@@ -12565,7 +12565,7 @@
    {
       "artist" : "ARForest / inukoro",
       "comment" : "BPM195 乱打",
-      "level" : "3",
+      "level" : "4",
       "md5" : "bd2326f72f9586eb13f5f4f9d202ade2",
       "proposer" : "SHAX.",
       "proposerLr2id" : 65624,
@@ -13603,7 +13603,7 @@
    {
       "artist" : "lixound mov:Ratif / obj:Vengeancer",
       "comment" : "I'M READY!",
-      "level" : "3",
+      "level" : "2",
       "md5" : "cf6201d2d84cd20628320ccaba9de49e",
       "proposer" : "氷城つるぎ",
       "proposerLr2id" : 151185,
@@ -14849,7 +14849,7 @@
    },
    {
       "artist" : "sasakure.UK m / Omino",
-      "level" : "2",
+      "level" : "3",
       "md5" : "e05efbeee3fbf91c19be4aa1d4eec3f2",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,
@@ -16399,6 +16399,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "India Action Team",
+      "comment" : "ガチ押し気味の連打譜面。ラス殺し",
+      "level" : "1",
+      "md5" : "faab1fb9c88fd164a1f4a40150c37b70",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "1917ee3d1b81adc75d84c8fcf387a1185ffa3f59fb3e8150cd5982b26fa97c24",
+      "submission" : 1193,
+      "title" : "Curry (英国式)",
+      "url" : "http://web.archive.org/web/20160614094331/http://ninjaactionteam.sakura.ne.jp/sakuhin_bms.html",
+      "url_diff" : "https://fsrs.github.io/table.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "6yen / G / selene.",
       "comment" : "",
       "level" : "6",
@@ -16534,22 +16548,6 @@
       "title" : "Cybenko's Theorem [Machine Learning]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=130",
       "url_diff" : "https://stellabms.xyz/upload/34"
-   },
-   {
-      "artist" : "sasakure.UK",
-      "comment" : "ズレガチ押し・ディレイ・だんだん難しくなる",
-      "level" : "7",
-      "md5" : "fcef49b6e047cf8dc61ca03a005063cf",
-      "proposer" : "otoshi.b",
-      "proposerLr2id" : 87474,
-      "sha256" : "af98385230407dba0219ee38a81fcd1f3c79e13d6be48a9e809f957cc16899d2",
-      "submission" : 483,
-      "title" : "Pangaea",
-      "url" : "http://web.archive.org/web/20070817081529/http://sasakure.bms.ms/bms/pangaea.rar",
-      "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
    },
    {
       "artist" : "はがね obj:O",

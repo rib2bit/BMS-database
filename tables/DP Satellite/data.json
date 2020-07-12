@@ -225,18 +225,6 @@
       "url_diff" : "https://drive.google.com/file/d/1x-5b7Fggvs-YkzPN7lnlG88Wr56Lg7Qz/view?usp=sharing"
    },
    {
-      "artist" : "Remo-con Remixed by DJ LATI Obj:ゆ～兎",
-      "comment" : "Luminous Package",
-      "level" : "6",
-      "md5" : "13c83c9b2088c8a31518d5b056ed5e43",
-      "proposer" : "coco",
-      "sha256" : "545b017a60949b6d28e30de4a07cd2af2fda8ef455ea9a80e1de7d873b08b8ca",
-      "submission" : 231,
-      "title" : "Vermilion (Dubstep Remix) [DP INSANE]",
-      "url" : "https://drive.google.com/open?id=1HdvZDzZckkwJu6IJERVFTAzskqqMDGqu",
-      "url_diff" : ""
-   },
-   {
       "artist" : "uma vs. モリモリあつし",
       "comment" : "BOFU2016",
       "level" : "7",
@@ -270,6 +258,18 @@
       "submission" : 246,
       "title" : "The Last Page [DP INSANE]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=163&event=127",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "69 de 74 BGI:れおん",
+      "comment" : "同梱譜面　前後のノーツに干渉しない全押しあり",
+      "level" : "11",
+      "md5" : "17e065f48caca8af9374dc953c9b06d4",
+      "proposer" : "樺地崇弘",
+      "sha256" : "07961f6e16aa7ea954954a737219b299e6836dcab0c83997f08410eee3ac731e",
+      "submission" : 355,
+      "title" : "マッドメチャクチャニズム [DP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=127",
       "url_diff" : ""
    },
    {
@@ -579,18 +579,6 @@
       "url_diff" : ""
    },
    {
-      "artist" : "テヅカ ? Qayo BGI: MUSH.T ? PHage / obj:Starfish",
-      "comment" : "★★5~6?",
-      "level" : "12",
-      "md5" : "363797f8fc619cff770b5a1b0fa82923",
-      "proposer" : "JHS",
-      "sha256" : "c9f151a6c2324d375e05d149f676c5ec245ac957b4b3e1224ec787153f3ab472",
-      "submission" : 294,
-      "title" : "ニニ [DP INS☆NE]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=253&event=123",
-      "url_diff" : "https://ux.getuploader.com/dpbms/download/539"
-   },
-   {
       "artist" : "qfeileadh BGA: Maeus obj.quad",
       "comment" : "★11~12?(★★3~4?) 片手乱打",
       "level" : "11",
@@ -601,6 +589,18 @@
       "title" : "夜間飛行トラベラー [DP MANIAC]",
       "url" : "https://event.yaruki0.net/VSevent/impression/9",
       "url_diff" : "https://ux.getuploader.com/dpbms/download/699"
+   },
+   {
+      "artist" : "MUSIC:片桐早苗 / BGA:輿水幸子 Obj:ゆ～兎",
+      "comment" : "0~1? 乱打、同時押し",
+      "level" : "1",
+      "md5" : "38116a6bf6c3efdf6bd03c34b57c320a",
+      "proposer" : "にゃむ",
+      "sha256" : "a2ace4a0b8d14ee2cd4a80cec553a5bd65938f503572104d9cf0c3a0aaf5b982",
+      "submission" : 353,
+      "title" : "Highleg Mermaid [DP ANOTHER]",
+      "url" : "http://web.archive.org/web/20140111155938/http://roaraddiction.mods.jp/bms/x022_hm_wav.rar",
+      "url_diff" : "http://web.archive.org/web/20140921042604/http://timetorain.web.fc2.com/sabun/HighlegMermaid_YH.zip"
    },
    {
       "artist" : "Rocky Obj. KENIN*",
@@ -732,18 +732,6 @@
       "title" : "トココ21 ⊂㌍㌢⊃",
       "url" : "http://tm2.toymusical.net/download.html",
       "url_diff" : "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download"
-   },
-   {
-      "artist" : "sasakure.UK",
-      "comment" : "5~6?、二重トリル",
-      "level" : "5",
-      "md5" : "47a8cd14bb3fefb975d5d478a438ab94",
-      "proposer" : "JHS",
-      "sha256" : "dc92d58b623d66c7508ed2da228a261118e7be781394b393355231a0c621b65d",
-      "submission" : 110,
-      "title" : "Merry Christmas Mr.Lawrence (14Another)",
-      "url" : "http://manbow.nothing.sh/event/explus/ex_revival/bms/mcml.rar",
-      "url_diff" : "https://drive.google.com/file/d/1f6Fv5cyvkKl_P55IkvgEaD_JsTN674Io/view?usp=sharing"
    },
    {
       "artist" : "sept",
@@ -1410,6 +1398,18 @@
       "url_diff" : "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download"
    },
    {
+      "artist" : "ノクティス・江口・チェラム obj:みすげ～",
+      "comment" : "7~8?、連皿、階段",
+      "level" : "7",
+      "md5" : "7e4ba12362bced1950dd4ba13c9d66f8",
+      "proposer" : "JHS",
+      "sha256" : "568162ef63e5f0689ab24656f0448ce8f8a937dfed5372eb92e929cbfde54b0b",
+      "submission" : 356,
+      "title" : "ヒメタイプ [MG]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=96",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04282"
+   },
+   {
       "artist" : "Y.W",
       "comment" : "中速物量、同時押し、隣接皿あり、中半難",
       "level" : "8",
@@ -1608,18 +1608,6 @@
       "title" : "DELIGHTS -EXTREME14-",
       "url" : "http://scytheleg.sakura.ne.jp/",
       "url_diff" : "https://web.archive.org/web/20181105024558/http://www.geocities.jp/osrbms/"
-   },
-   {
-      "artist" : "ぽよみの暴力団",
-      "comment" : "階段、縦連",
-      "level" : "5",
-      "md5" : "8c576b6e2dd855a0ae1a7ea755221f36",
-      "proposer" : "にゃむ",
-      "sha256" : "a376fe4327f2ef5f0543174ea274626a6aa5b027f515108f75791f3ec9d34ade",
-      "submission" : 222,
-      "title" : "Little Prayer (なんでも吸い込むピンク色のための) [激辛しれん味]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=116&event=127",
-      "url_diff" : ""
    },
    {
       "artist" : "puru twk. sound piercer (feat.Hee Bun.D) obj by Yosk!",
@@ -1962,6 +1950,18 @@
       "title" : "Catharsis again [DP ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=30&event=104",
       "url_diff" : ""
+   },
+   {
+      "artist" : "Music:しらいし obj:nBel",
+      "comment" : "9~10? 階段、低速あり",
+      "level" : "9",
+      "md5" : "a9d1c94124f0b6956fe2abb4a1c44c90",
+      "proposer" : "にゃむ",
+      "sha256" : "cc980761b844ed075fee612eb1f40dd8bb756211bcfad09b942d4ac0d4d6e846",
+      "submission" : 359,
+      "title" : "Moon-gate [Waning]",
+      "url" : "https://shiraishi2007.exblog.jp/27987601/",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/373"
    },
    {
       "artist" : "-45/SOA(obj:A-4)",
@@ -2533,7 +2533,7 @@
    },
    {
       "artist" : "Sound piercer vs. Iriss / Obj. 0ne",
-      "level" : "9",
+      "level" : "8",
       "md5" : "d820be8513cd93b29f14d1ee0182d553",
       "proposer" : "coco",
       "sha256" : "bae014fc53d4520d84e87d54a4d642cb47769fd9345ba7ce3b1e62ec36691a2c",
@@ -2731,6 +2731,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "ZUN bms:乙UИ obj:けろりん",
+      "comment" : "片手二重乱打、同時押し 差分は本体に同梱 ",
+      "level" : "10",
+      "md5" : "e7857ae7f38cec394840be0bc2ae3753",
+      "proposer" : "にゃむ",
+      "sha256" : "de9696f506f5efee7632226ef1aa907e2e6a8c78ab52072ff304931127e75b9c",
+      "submission" : 358,
+      "title" : "兎は舞い降りた [DPHARD]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=102",
+      "url_diff" : ""
+   },
+   {
       "artist" : "U-hey　BGA:ユウノ obj:肴",
       "comment" : "3~4? 混フレ、同時押し",
       "level" : "4",
@@ -2810,6 +2822,18 @@
       "title" : "STRAY CATS FESTIVAL -k-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=520&event=110",
       "url_diff" : "http://yaruki0.sakura.ne.jp/sabun/dp.html"
+   },
+   {
+      "artist" : "er obj:Yosk!",
+      "comment" : "低速物量",
+      "level" : "11",
+      "md5" : "f11ba440f47e6485789b507d7ca5b450",
+      "proposer" : "にゃむ",
+      "sha256" : "f7eeff7c0ca52c37e774bba03fcdb9cbf220c4bdbfdc214dc05ad5924486a6f7",
+      "submission" : 360,
+      "title" : "new earth -dp stella-",
+      "url" : "https://dropbox.bms.ms/u/28765267/er_new-earth.zip",
+      "url_diff" : "https://stellabms.xyz/upload/144"
    },
    {
       "artist" : "Cocoa (obj:ka2o)",
