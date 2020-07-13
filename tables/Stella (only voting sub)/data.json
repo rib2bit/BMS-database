@@ -1,5 +1,18 @@
 [
    {
+      "artist" : "kei_iwata feat.レゾナンスもえこ / obj:qfeileadh Movie:Arishima_Caprico Illust:Morph",
+      "comment" : "6?",
+      "level" : "6",
+      "md5" : "3b1306d0a4fe7803bd8e7a7f3b469596",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "ba2cf082a9af912d3926b16c090b8b9b0c6f38768284822051cd27292268e28a",
+      "submission" : 1194,
+      "title" : "ウタカタ・サマーメモリーズ -Dive to 死-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=111&event=131",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Rave Cyanide [BMS Edit R.W.R]",
       "comment" : "st1~3 (missing crash.wav, but no artificial zures)",
       "level" : "2",
@@ -23,6 +36,19 @@
       "submission" : 1191,
       "title" : "OR [Insane]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=131",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "Shinwoir / 紫電車",
+      "comment" : "ディレイ？",
+      "level" : "5",
+      "md5" : "f6366e5d36a9e5403cba3da7e87cc5aa",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "19f8ec06ac3d78a692eda3b434c98d31c149931af8ef3e27d3ade3d091297697",
+      "submission" : 1195,
+      "title" : "Out of control (神)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=131",
       "url_diff" : ""
    },
    {

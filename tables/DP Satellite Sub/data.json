@@ -311,19 +311,6 @@
       "url_diff" : "https://drive.google.com/file/d/1x-5b7Fggvs-YkzPN7lnlG88Wr56Lg7Qz/view?usp=sharing"
    },
    {
-      "artist" : "Remo-con Remixed by DJ LATI Obj:ゆ～兎",
-      "comment" : "Luminous Package",
-      "level" : "6",
-      "md5" : "13c83c9b2088c8a31518d5b056ed5e43",
-      "proposer" : "coco",
-      "proposerLr2id" : 147123,
-      "sha256" : "545b017a60949b6d28e30de4a07cd2af2fda8ef455ea9a80e1de7d873b08b8ca",
-      "submission" : 231,
-      "title" : "Vermilion (Dubstep Remix) [DP INSANE]",
-      "url" : "https://drive.google.com/open?id=1HdvZDzZckkwJu6IJERVFTAzskqqMDGqu",
-      "url_diff" : ""
-   },
-   {
       "artist" : "wonderland*material(s) obj:ucc",
       "comment" : "相撲",
       "level" : "11",
@@ -1154,19 +1141,6 @@
       "title" : "トココ21 ⊂㌍㌢⊃",
       "url" : "http://tm2.toymusical.net/download.html",
       "url_diff" : "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download"
-   },
-   {
-      "artist" : "sasakure.UK",
-      "comment" : "5~6?、二重トリル",
-      "level" : "5",
-      "md5" : "47a8cd14bb3fefb975d5d478a438ab94",
-      "proposer" : "JHS",
-      "proposerLr2id" : 128228,
-      "sha256" : "dc92d58b623d66c7508ed2da228a261118e7be781394b393355231a0c621b65d",
-      "submission" : 110,
-      "title" : "Merry Christmas Mr.Lawrence (14Another)",
-      "url" : "http://manbow.nothing.sh/event/explus/ex_revival/bms/mcml.rar",
-      "url_diff" : "https://drive.google.com/file/d/1f6Fv5cyvkKl_P55IkvgEaD_JsTN674Io/view?usp=sharing"
    },
    {
       "artist" : "sept",
@@ -2435,19 +2409,6 @@
       "title" : "DELIGHTS -EXTREME14-",
       "url" : "http://scytheleg.sakura.ne.jp/",
       "url_diff" : "https://web.archive.org/web/20181105024558/http://www.geocities.jp/osrbms/"
-   },
-   {
-      "artist" : "ぽよみの暴力団",
-      "comment" : "階段、縦連",
-      "level" : "5",
-      "md5" : "8c576b6e2dd855a0ae1a7ea755221f36",
-      "proposer" : "にゃむ",
-      "proposerLr2id" : 139958,
-      "sha256" : "a376fe4327f2ef5f0543174ea274626a6aa5b027f515108f75791f3ec9d34ade",
-      "submission" : 222,
-      "title" : "Little Prayer (なんでも吸い込むピンク色のための) [激辛しれん味]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=116&event=127",
-      "url_diff" : ""
    },
    {
       "artist" : "puru twk. sound piercer (feat.Hee Bun.D) obj by Yosk!",
@@ -3913,6 +3874,20 @@
       "title" : "恋愛シンドローム [sub Black Another]",
       "url" : "https://dropbox.bms.ms/u/59509271/BOF2013/renai_syndrome_ogg.zip",
       "url_diff" : "https://1drv.ms/u/s!AhTuCFLHGy4lhGq0GfVF6ft9isxw"
+   },
+   {
+      "artist" : "ShiraiC4 obj: misty.ls04",
+      "comment" : "2~3? 同時押し、階段",
+      "level" : "2",
+      "md5" : "dfecee0e19120dcdc4f92271699016fa",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "786286b4ecf3a8d9490406c0c764fbecfc2f7a9e40f263eaab2b53f26c5d674a",
+      "submission" : 371,
+      "title" : "XALICE [DP WONDERLAND]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=355&event=127",
+      "url_diff" : "https://yaruki0.net/sabun/dp2019.html",
+      "zureCount" : 0
    },
    {
       "artist" : "Cosine BGA:うまうや、Kaoru Miyazaki / obj:Thulium",

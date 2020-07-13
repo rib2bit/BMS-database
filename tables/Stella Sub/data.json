@@ -2925,21 +2925,6 @@
       "voteYes" : 0
    },
    {
-      "artist" : "ねこみみ魔法使い for 地獄谷ふるる / obj:Criyajuh",
-      "comment" : "微連打 ラス殺し",
-      "level" : "8",
-      "md5" : "2f954d5d42f9ac13eb03841039e02722",
-      "proposer" : "sak",
-      "sha256" : "41ac642301d4c9d758bbee4d711dc43659b9a7d627988fc8d362454bb8c123f5",
-      "submission" : 180,
-      "title" : "YO-KAI Drop -あ！-",
-      "url" : "http://necoco.2-d.jp/13_bms.html",
-      "url_diff" : "http://absolute.pv.land.to/bof/src/up0695.zip",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
       "artist" : "秋月アキラ feat. 保堂 京 obj:monaka",
       "comment" : "BPM224 区切り8分同時押し、24分螺旋階段",
       "level" : "0",
@@ -3807,6 +3792,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "kei_iwata feat.レゾナンスもえこ / obj:qfeileadh Movie:Arishima_Caprico Illust:Morph",
+      "comment" : "6?",
+      "level" : "6",
+      "md5" : "3b1306d0a4fe7803bd8e7a7f3b469596",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "ba2cf082a9af912d3926b16c090b8b9b0c6f38768284822051cd27292268e28a",
+      "submission" : 1194,
+      "title" : "ウタカタ・サマーメモリーズ -Dive to 死-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=111&event=131",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Kuwagata obj:七海",
       "level" : "0",
       "md5" : "3b3d206a284b5b246b3b413b75e41582",
@@ -4248,21 +4246,6 @@
       "title" : "[Re:]Re:End of a Dream",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=543&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01481",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
-      "artist" : "sasakure.UK / DDX",
-      "comment" : "up1234.zip",
-      "level" : "3",
-      "md5" : "41076a9300823c90c6671fb5591fc454",
-      "proposer" : "eth",
-      "sha256" : "436127151bdbd041908deb51e8d0f8eb3f38289f6a270a6ae5e2a080145cbe4d",
-      "submission" : 364,
-      "title" : "Merry Christmas Mr.Che",
-      "url" : "http://dee.manbow.org/event/explus/ex_revival/bms/mcml.rar",
-      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -7079,21 +7062,6 @@
       "title" : "HELLO MAN (BYE!)",
       "url" : "https://pan.baidu.com/s/1jGstbxG#list/path=%2F",
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
-      "artist" : "ねこみみ魔法使い for 地獄谷ふるる / デビル",
-      "comment" : "総合力",
-      "level" : "2",
-      "md5" : "6a5d9cc47ebba81ab8a703b73cc3af6f",
-      "proposer" : "ZEUS",
-      "sha256" : "4384816f70e52888e75ceb52dc4aef8106c9d06ac90bd3b0c993df839187176e",
-      "submission" : 145,
-      "title" : "YO-KAI Drop [殺]",
-      "url" : "http://necoco.2-d.jp/13_bms.html",
-      "url_diff" : "http://www.dropbox.com/s/gnw41z1joy6sd1d/nm43_Devil44666.zip?dl=0",
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -12183,19 +12151,6 @@
       "voteYes" : 0
    },
    {
-      "artist" : "ぽよみの暴力団",
-      "comment" : "5~6?",
-      "level" : "6",
-      "md5" : "b8f0653addfa82e730370f1955469724",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "65849bf00f53ad45d4bce41363724b7afdb6dd0d9cebd8599b8386560125b5c1",
-      "submission" : 1037,
-      "title" : "Little Prayer (ぽよを見るひと) [魂が飛び出る辛さ]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=116&event=127",
-      "url_diff" : ""
-   },
-   {
       "artist" : "Music : Lunatic Sounds / BGA : Photonskyto",
       "comment" : "Sorry",
       "level" : "6",
@@ -15474,21 +15429,6 @@
       "url_diff" : ""
    },
    {
-      "artist" : "sasakure.UK / obj:DDX",
-      "comment" : "ディレイ・ズレ・連打複合",
-      "level" : "6",
-      "md5" : "eb6edc14dff354ebc7b8280e61c3ab76",
-      "proposer" : "otoshi.b",
-      "sha256" : "ed44e62fabd23c4174b76510874add9a0e2d90d2de0afa61c5ccbc21bc87990c",
-      "submission" : 172,
-      "title" : "Merry Christmas Mr.ABCD",
-      "url" : "http://dee.manbow.org/event/explus/ex_revival/bms/mcml.rar",
-      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
       "artist" : "Zun /差分 赤い人",
       "comment" : "物量",
       "level" : "4",
@@ -16123,6 +16063,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Shinwoir / 紫電車",
+      "comment" : "ディレイ？",
+      "level" : "5",
+      "md5" : "f6366e5d36a9e5403cba3da7e87cc5aa",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "19f8ec06ac3d78a692eda3b434c98d31c149931af8ef3e27d3ade3d091297697",
+      "submission" : 1195,
+      "title" : "Out of control (神)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=131",
+      "url_diff" : ""
    },
    {
       "artist" : "Lime / Roaring Flame obj:K-SPIN",

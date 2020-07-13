@@ -8488,6 +8488,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "ei",
+      "comment" : "乱打",
+      "level" : "5",
+      "md5" : "6204c87e5dc49ecb674f0d50c6ec6755",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "a8ec3dbb6110f53f6c557245d2872baab0516f04977ff71bac005102fd06ca02",
+      "submission" : 1529,
+      "title" : "enamel [SP INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=131",
+      "url_diff" : ""
+   },
+   {
       "artist" : "LeaF Movie:Optie&Fiz/obj:赤い人",
       "comment" : "前半微連打交じり・後半ズレ複合乱打　ムービー閲覧注意",
       "level" : "8",
@@ -15020,21 +15033,6 @@
       "url_diff" : "http://beatkim.web.fc2.com/insane.html"
    },
    {
-      "artist" : "sasakure.UK/差分　赤い人",
-      "level" : "4",
-      "md5" : "b2adb12fa61641b332875c290b6e0901",
-      "proposer" : "파이어",
-      "proposerLr2id" : 7290,
-      "sha256" : "b42d39cf794330555824a8529786d2caf59f24e75f42f6c7bb7cc349b64a6aeb",
-      "submission" : 114,
-      "title" : "Merry Christmas Mr.AK-RED",
-      "url" : "http://manbow.nothing.sh/event/explus/ex_revival/bms/mcml.rar",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/MerryChristmasMr.AK-RED.bme",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
       "artist" : "おみー / obj:椎葉紬",
       "comment" : "旧Genoside ★13",
       "level" : "8",
@@ -19671,6 +19669,19 @@
       "title" : "僕たちの旅とエピローグ。",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=98&event=96",
       "url_diff" : "http://xyzzz.net/objxyz.php"
+   },
+   {
+      "artist" : "Feryquitous / obj：mad2ki movie:Sight / pattern:Cymby",
+      "comment" : "4~5? (SPAと39msのズレキー音がひとつあるけど、プレイには問題なし)",
+      "level" : "4",
+      "md5" : "e5e812b03f7a723a1f511f6be5eb9059",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "ec8ae4bd9211f7fc50d7ed648b5fc98ac5088104307997d89a45fa4b7dfed314",
+      "submission" : 1528,
+      "title" : "Dstorv [Another+]",
+      "url" : "https://dropbox.bms.ms/u/34035220/%5BFeryquitous%5DDistorv.rar",
+      "url_diff" : "http://www.ribbit.xyz/bms/mirror/bof/src/up0823.zip"
    },
    {
       "artist" : "Concordia(Aeris+Cervesia) feat.ヒトトリ BGA : sunrise films / obj : monaka",
