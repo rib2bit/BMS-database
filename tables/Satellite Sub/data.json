@@ -2294,6 +2294,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "ITSUHA. + Rakuno.α obj : BAECON vs SETSUKA",
+      "comment" : "sl2~3?",
+      "level" : "2",
+      "md5" : "1a771f4983cdd9b0699af5a39cf43db5",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "625aa419e6b4c0fd4773d079bb3a4557dbe2e8ed5fcec5f14b9070942cf59692",
+      "submission" : 1535,
+      "title" : "Crosstelia [SP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=120&event=116",
+      "url_diff" : "",
+      "zureCount" : 0
+   },
+   {
       "artist" : "scytheleg obj:C4",
       "comment" : "Stella練習用の同時押し",
       "level" : "12",
@@ -20285,6 +20299,19 @@
       "title" : "硬核機動 remake [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=125",
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html"
+   },
+   {
+      "artist" : "utzbo",
+      "comment" : "同梱譜面",
+      "level" : "0",
+      "md5" : "ec8ae0a233a5f96ecb6928dfda106f06",
+      "proposer" : "bluemouse",
+      "proposerMinirid" : "38b6fd3c-5f86-4e87-aef8-3f9952471580",
+      "sha256" : "965cc4f15bce3e71b17d1224b79f69832d4538c7bc3a902a6fff752277461be9",
+      "submission" : 1536,
+      "title" : "Secret Order [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=131",
+      "url_diff" : ""
    },
    {
       "artist" : "Lokan",
