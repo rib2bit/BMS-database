@@ -10423,6 +10423,19 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
    },
    {
+      "artist" : "削除 obj.hex",
+      "comment" : "BPM168 連打、アレンジ差分",
+      "level" : "2",
+      "md5" : "9eadc4c8d2b5d0fbcb8db8d2bb8b82e2",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "b74d901b0a7d76d9052004de263495a309fc9bcebe7d52b86fac5fb7449d1751",
+      "submission" : 1197,
+      "title" : "No namer [Pentagon]",
+      "url" : "https://www.axfc.net/u/956768&key=bms",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html"
+   },
+   {
       "artist" : "puru / kkkfff2 / obj:KCOOL",
       "comment" : "ディレイ",
       "level" : "1",
@@ -10538,6 +10551,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "9-zen obj.hex",
+      "comment" : "BPM154 ディレイ、縦連、体力",
+      "level" : "3",
+      "md5" : "a0e534d02c919996fef1f2a83c44c418",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "4fb18c030425b33f1cd7c841fd2af7e3a0fd267e2b5486928454720c566633e2",
+      "submission" : 1198,
+      "title" : "ルーネイトエルフ～霧の湖の物語～ [Pentagon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=129",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html",
+      "zureCount" : 0
    },
    {
       "artist" : "LiA",
@@ -13832,6 +13859,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Ice",
+      "comment" : "st3~4+ (BOF2012版；同梱譜面)",
+      "level" : "4",
+      "md5" : "d15fa5e17826c126357f03aca678ccbb",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "c5ff2ccb71ea741f7515db41dbc9c06e9ab3e177c01d34f48ca402e8ece333d7",
+      "submission" : 1199,
+      "title" : "L (LOKINOTHER)",
+      "url" : "http://www.mediafire.com/?36wqghnwof2bmtu",
+      "url_diff" : ""
    },
    {
       "artist" : "Nurm BGA:Roaring Flame",

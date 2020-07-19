@@ -2142,6 +2142,13 @@
       "title" : "WHIRLWIND [Twin Blast]"
    },
    {
+      "artist" : "A Piece of MM / Limite",
+      "comment" : "INFLUX",
+      "level" : "★4",
+      "md5" : "0b177713479b1acbd3dc305f2ab16784",
+      "title" : "Precociousness"
+   },
+   {
       "artist" : "the KB feat.B.M.M. *LR.MIRROR",
       "comment" : "dora metal",
       "level" : "4",
@@ -10101,6 +10108,13 @@
       "title" : "U.N.Owen～戯れし狂姉妹～ [二人プレイ]"
    },
    {
+      "artist" : "Gatia",
+      "comment" : "Instrumental",
+      "level" : "3",
+      "md5" : "375dae9fe74a85698776c77efa85f9e8",
+      "title" : "Float  -Another14-"
+   },
+   {
       "artist" : "Neun_jack mov,notes:いかお  *MAX+20->0 R.MIR",
       "comment" : "Gypsytek / Cartoontek",
       "level" : "★5",
@@ -10192,9 +10206,9 @@
       "title" : "Electro Wind [DP ASHTHER]"
    },
    {
-      "artist" : "L-Mys /obj:spt",
+      "artist" : "L-Mys /obj:spt *FLIP L.MIR",
       "comment" : "DARKFEAR",
-      "level" : "1",
+      "level" : "5",
       "md5" : "37f0b970db8116f54079336a89bb29b5",
       "title" : "Lucifuge Rofocale (Another14)"
    },
@@ -11312,6 +11326,13 @@
       "title" : "ZEUS [DP Another]"
    },
    {
+      "artist" : "Kyuzo Sameura obj. KENIN*  *FLIP LR.MIR",
+      "comment" : "HYBRID SPEED GARAGE",
+      "level" : "★4",
+      "md5" : "3e72bf70dfc40f5cca98ce424ef07cbc",
+      "title" : "reflection [雫]"
+   },
+   {
       "artist" : "daiji&sa10 /obj. o",
       "comment" : "SPEED DANCE",
       "level" : "5",
@@ -11639,6 +11660,13 @@
       "level" : "2",
       "md5" : "4034bdeadce454d976f05b69454ff53e",
       "title" : "Don't be Afraid - DP ANOTHER"
+   },
+   {
+      "artist" : "Kyuzo Sameura obj:RaiN",
+      "comment" : "HYBRID SPEED GARAGE",
+      "level" : "6",
+      "md5" : "4042deb9de11b3c67d8e70e4668fe51d",
+      "title" : "reflection [ADDICTION2DP]"
    },
    {
       "artist" : "xra / obj.ATOM *R.MIRROR",
@@ -13729,7 +13757,7 @@
    {
       "artist" : "SPELL BREAK obj:ka2o HEART BREAK",
       "comment" : "HARD DANCE",
-      "level" : "1",
+      "level" : "3",
       "md5" : "4c098ada4f9975bc6e363d7d25a87f0d",
       "title" : "Lambda Driver -DP-"
    },
@@ -13760,6 +13788,13 @@
       "level" : "1",
       "md5" : "4c253d575db6db96ab7ad74c78734cd6",
       "title" : "Heart to Evolve (DP ANOTHER)"
+   },
+   {
+      "artist" : "Kyuzo Sameura obj:RaiN",
+      "comment" : "HYBRID SPEED GARAGE",
+      "level" : "4",
+      "md5" : "4c255eff38e5b42b117901b4f2890e07",
+      "title" : "reflection [14KEYS ANOTHER]"
    },
    {
       "artist" : "ROKINA / OBJ :Fru1t BGA:REI-K",
@@ -16959,6 +16994,13 @@
       "level" : "8",
       "md5" : "5d545ee02f50fb1a6fad187177c6a7a8",
       "title" : "Trahison [DP LUNATIC]"
+   },
+   {
+      "artist" : "Gatia *FLIP",
+      "comment" : "Chiptune",
+      "level" : "9",
+      "md5" : "5d55c5e4396f223744e57a0f6b7a2c2a",
+      "title" : "Fancy Rainbow Bubble  -Another14-"
    },
    {
       "artist" : "ueotan  obj ; N *FLIP LR.MIRROR",
@@ -20960,7 +21002,7 @@
    {
       "artist" : "syatten / obj = Mr.egg *FLIP",
       "comment" : "Dream Trance - Level 1 -",
-      "level" : "2",
+      "level" : "1",
       "md5" : "73028028559d295bef44f4d82ca90b3e",
       "title" : "innocent cradle [sleep]"
    },
@@ -25249,13 +25291,6 @@
       "title" : "Reconnected [DP ANOTHER]"
    },
    {
-      "artist" : "Syatten obj:肴",
-      "comment" : "Instrumental",
-      "level" : "★2",
-      "md5" : "88f52ea26341b40c85be5e52aa28b5e7",
-      "title" : "The sinking world [DP EXTREME]"
-   },
-   {
       "artist" : "ZUN Remixed by くっちー Respect for L.E.D.-G vs Ryu☆ Illust:きさ Obj:ucc  *FLIP R.MIRROR",
       "comment" : "TRANCE CORE",
       "level" : "10",
@@ -28539,6 +28574,13 @@
       "title" : "Daydreamer [Somnambulism]"
    },
    {
+      "artist" : "しらいし obj: misty.ls04",
+      "comment" : "CORE",
+      "level" : "3",
+      "md5" : "99ed36f2f00e01140210fe15f51902ea",
+      "title" : "XIX [DP ANOTHER]"
+   },
+   {
       "artist" : "xelloscope",
       "comment" : "11[DP ANOTHER]",
       "level" : "6",
@@ -30464,7 +30506,7 @@
       "title" : "ugoku,ugoku-hyper m,gumix- [終末]"
    },
    {
-      "artist" : "Lime [obj:MGN]",
+      "artist" : "Lime [obj:MGN]  *FLIP",
       "comment" : "Rosso Phantasma",
       "level" : "★1",
       "md5" : "a401fe58853cc8d334bd338465cdff77",
@@ -34230,6 +34272,13 @@
       "title" : "Ghost Queen [DP LN ANOTHER]"
    },
    {
+      "artist" : "Gatia",
+      "comment" : "Happy Pop",
+      "level" : "3",
+      "md5" : "b7762d2172ea3ea26c15c6d90008d702",
+      "title" : "Happy Time  -Another14-"
+   },
+   {
       "artist" : "Junk (obj:k)",
       "comment" : "Future Pop",
       "level" : "8",
@@ -34872,6 +34921,13 @@
       "level" : "3",
       "md5" : "baa061aed0843e56cfdae26fa117d3be",
       "title" : "ephemera [ANOTHER14]"
+   },
+   {
+      "artist" : "Syatten obj:肴",
+      "comment" : "Instrumental",
+      "level" : "★2",
+      "md5" : "baa218833211f71a4a589528adbe184b",
+      "title" : "The sinking world [DP EXTREME 2]"
    },
    {
       "artist" : "Omnipotenx",
@@ -38395,6 +38451,13 @@
       "title" : "夜明けの少女たち [EX14]"
    },
    {
+      "artist" : "しらいし obj:MN3  *LR.RAN",
+      "comment" : "CORE",
+      "level" : "★4",
+      "md5" : "ce21c675fbcb3e2c5a37416a78fd6b3c",
+      "title" : "XIX [DP EXTRA]"
+   },
+   {
       "artist" : "LiA remixed by alt",
       "comment" : "Drum & Bass",
       "level" : "4",
@@ -38470,6 +38533,13 @@
       "level" : "3",
       "md5" : "ceec82998e285ab8c7481c27ada22451",
       "title" : "night-in-gale [DPQ]"
+   },
+   {
+      "artist" : "TiS / obj:十六夜",
+      "comment" : "Artcore",
+      "level" : "1",
+      "md5" : "cf0468156953e7c633c378605ad9e5da",
+      "title" : "Luna Light [DPYoither]"
    },
    {
       "artist" : "Vector27 / obj:killer TOMATO *R.MIRROR",
@@ -42133,6 +42203,13 @@
       "title" : "Escape From Predicament [DP ANOTHER]"
    },
    {
+      "artist" : "Gatia *FLIP",
+      "comment" : "Drum'n Bass",
+      "level" : "★4",
+      "md5" : "e3f0200edfdbba5d938e22bad7205218",
+      "title" : "Silent Beat  -Another14-"
+   },
+   {
       "artist" : "polycube / object by meteor* mov : 1B  *SUD+ FLIP R.MIR",
       "comment" : "HALLUCIGENIA",
       "level" : "10",
@@ -44226,6 +44303,13 @@
       "title" : "Yakumo >>JOINT STRUGGLE [DPA]"
    },
    {
+      "artist" : "Kyuzo Sameura obj. KENIN*",
+      "comment" : "HYBRID SPEED GARAGE",
+      "level" : "9",
+      "md5" : "eea00f5f90f25f96b3707f247ce2c07a",
+      "title" : "reflection [雨]"
+   },
+   {
       "artist" : "Nankumo / obj:litvyak",
       "comment" : "CREW",
       "level" : "10",
@@ -45108,6 +45192,13 @@
       "title" : "eth剣 [DUALCORE]"
    },
    {
+      "artist" : "flashygoodness / obj:十六夜",
+      "comment" : "Tower of Heaven",
+      "level" : "6",
+      "md5" : "f3d9159dc82099b8eef77d264597068f",
+      "title" : "Indignant Divinity [DPYoither]"
+   },
+   {
       "artist" : "*LR.RANDOM",
       "comment" : "",
       "level" : "8",
@@ -45379,6 +45470,13 @@
       "level" : "7",
       "md5" : "f5b99da1d2a96cc4c0e8847ddd2d6a18",
       "title" : "白黒神楽煩悩七百七十七ツ之法則 [DPA]"
+   },
+   {
+      "artist" : "momo★yama (BGA:アカツキユウ) / obj.にゃむ　　*R.MIR",
+      "comment" : "ENERGETIC TRANCE",
+      "level" : "5",
+      "md5" : "f5c210f39dced2003239a3accb04c6e4",
+      "title" : "JUMMER [DPI]"
    },
    {
       "artist" : "remixed celas / obj:Lilium *MINBPM FLIP",

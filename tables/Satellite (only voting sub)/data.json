@@ -139,6 +139,22 @@
       "voteYes" : 10
    },
    {
+      "artist" : "猫蟹丸 Featuring PLAGAREC obj:kaguya",
+      "level" : "0",
+      "md5" : "4d0833d534dca98138699c50d13964ed",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "5ab570a6df743f1b0b8f96408a459e2a74c03035acf7cb99b71af21fd0ae92d4",
+      "submission" : 436,
+      "title" : "7SP:If you were here [biginner]",
+      "url" : "https://web.archive.org/web/20120807025157/http://knm.sakura.ne.jp/pms/index.html",
+      "url_diff" : "https://onedrive.live.com/?id=B00A14F97808F528%21180&cid=B00A14F97808F528",
+      "voteNeutral" : 6,
+      "voteNo" : 3,
+      "votePercent" : 62.5,
+      "voteYes" : 7
+   },
+   {
       "artist" : "Sobrem / И",
       "comment" : "AnzutoolでNORMAL差分と比較するとズレなし",
       "level" : "12",
@@ -232,6 +248,20 @@
       "title" : "Carnelian",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=81&event=131",
       "url_diff" : ""
+   },
+   {
+      "artist" : "MITCH DOWNVELL [obj. vi]",
+      "comment" : "皿、ガチ押し",
+      "level" : "3",
+      "md5" : "8224ed91c2fece65cd9d2b41552951bd",
+      "proposer" : "STANK!",
+      "proposerMinirid" : "59104b4a-91a7-41e5-837f-f5ef64375db6",
+      "sha256" : "9352fa7a3111f0af36504d76fea5f7fcf0e227615e1f84c88eab4185c455c174",
+      "submission" : 1537,
+      "title" : "808 WINKS [MANIAC7]",
+      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=56",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04209",
+      "zureCount" : 0
    },
    {
       "artist" : "mommy",
