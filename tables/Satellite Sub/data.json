@@ -9102,6 +9102,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Nego_tiator BGI:*reinahitomi / obj. DK",
+      "comment" : "良譜面",
+      "level" : "1",
+      "md5" : "69ca3f64e59c20a04e28579aa810ef64",
+      "proposer" : "|/|",
+      "proposerLr2id" : 147895,
+      "sha256" : "9880d3e60bc79784908b06557b5c6cca60aca3ca2cedf702ad076615375be584",
+      "submission" : 1538,
+      "title" : "Paracelestia [EX]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "siromaru + cranky // movie: iimo // obj:SUZUKAZEΛ",
       "comment" : "4連打ビームある",
       "level" : "7",
