@@ -240,7 +240,7 @@
       "video3" : ""
    },
    {
-      "artist" : "kei_iwata (S9R2011)",
+      "artist" : "kei_iwata",
       "comment" : "中BPM16分の片手力譜面。振りも前半に少しはあるがほぼ7keyの分割のような出張の少ない譜面なので片方の手が半分をしっかり捌けるかが重要になる。",
       "level" : "7",
       "md5" : "00b0f535105edb441875fe32d1525740",
@@ -368,7 +368,7 @@
       "video3" : ""
    },
    {
-      "artist" : "kagerow (W9S2015)",
+      "artist" : "kagerow",
       "comment" : "素直な階段と乱打だが、とにかく早い。方法は違えどラス殺しという点を含めてパーティーに近い。",
       "level" : "6",
       "md5" : "010297f01c81d7be005f7b95b4ce4c52",
@@ -1344,7 +1344,7 @@
       "video3" : ""
    },
    {
-      "artist" : "戒斗 (A9S2013)",
+      "artist" : "戒斗",
       "comment" : "Hazy moonのような振りをガチ押しできるかギリギリのラインのBPMによる16分物量だが、さっぱり休みがない。Exと違い中盤だけでなくラストにもきついのが来る。",
       "level" : "15",
       "md5" : "034be5204546a86bd1beba3b85f79576",
@@ -2469,7 +2469,7 @@
       "level" : "3",
       "md5" : "05f6962ed2b9f3a2dbfb20ae115a9a91",
       "memo" : "旧案内所 / A9S2013",
-      "name_diff" : "Holidra.k(AUTUMN 9KEYS STORY 2013 差分祭り)",
+      "name_diff" : "Holidra.k (A9S2013 差分祭)",
       "no" : "4496",
       "state" : "",
       "title" : "Dream Glider",
@@ -2688,7 +2688,7 @@
       "video3" : ""
    },
    {
-      "artist" : "yoa (W9S2015)",
+      "artist" : "yoa feat.にゃし",
       "comment" : "うん、ソフランだね。",
       "level" : "～",
       "md5" : "0682c0e24152549cb203af6fe20461c4",
@@ -5184,7 +5184,7 @@
       "video3" : ""
    },
    {
-      "artist" : "Snack (A9S2013)",
+      "artist" : "Snack",
       "comment" : "多重上下移動メインということでNativeFaithと似ているが、ちょくちょく5に来る連打が非常に厄介。ゲージは軽いのでイージーは楽。また連打や隣接同時以外極端な殺しもないので地力あればハードもしやすい。",
       "level" : "11",
       "md5" : "0d988d947107b7c85a5db26803f2c5df",
@@ -6000,7 +6000,7 @@
       "video3" : ""
    },
    {
-      "artist" : "Ino (W9S2015)",
+      "artist" : "Ino",
       "comment" : "乱打と階段だが、早い上にＢＰＭが微妙。気をつけよう。",
       "level" : "1",
       "md5" : "0f96ce59f5774066a497d898d665fc26",
@@ -8656,7 +8656,7 @@
       "video3" : ""
    },
    {
-      "artist" : "Snack (A9S2013)",
+      "artist" : "Snack",
       "comment" : "Heart to Heartを少し遅くして、振りが減った分片手の仕事量が増えたような譜面。序盤の切れ目がわかりにくい桂馬二重階段などはしんどいが、中盤でちょっとでも残せれば後半30秒で結構楽になりゲージも軽いのでラスト耐えゲーに持ち込める。",
       "level" : "5",
       "md5" : "169d28710ce29f877652a38419cc29b3",
@@ -8704,7 +8704,7 @@
       "video3" : ""
    },
    {
-      "artist" : "momo★yama (W9S2015)",
+      "artist" : "momo★yama",
       "comment" : "改造竜（はやい）。二重階段がひたすらに続く。",
       "level" : "10",
       "md5" : "16ae84c57b7edb92926fcb91b1bc512c",
@@ -11200,7 +11200,7 @@
       "video3" : ""
    },
    {
-      "artist" : "No.IX (A9S2013)",
+      "artist" : "No.IX",
       "comment" : "BPMが早く、階段やハネが細かいので苦手な人にはとても辛い。右手のカバーが広いので正規当たりの人が多いと思うが、左利きならミラーかけたほうがグッと楽になる気がする。",
       "level" : "8",
       "md5" : "1d9238184bc8cf1512914698c74d65b7",
@@ -11296,7 +11296,7 @@
       "video3" : ""
    },
    {
-      "artist" : "KA-KU feat. 春歌ナナ (W9S2015)",
+      "artist" : "KA-KU feat. 春歌ナナ",
       "comment" : "後半に来る螺旋が崩されやすい。他は刻みか階段なので、こぼさないことを意識するのがよさそう。",
       "level" : "6",
       "md5" : "1de44f6745e665a7bec5edf1727187d9",
@@ -11664,7 +11664,7 @@
       "video3" : ""
    },
    {
-      "artist" : "litmus* (movie : hayen, litmus*) (A9S2013)",
+      "artist" : "litmus* (movie : hayen, litmus*)",
       "comment" : "辛ゲージ回避を意識した1536ノーツの譜面で、EXより微連打が増えている他ラスト前がシンメトリでなく振りの崩しからの二重配置になっている。外したら一気に減るので気を付けよう。",
       "level" : "8",
       "md5" : "1ea7d355cb99759c277b6f4c4980f192",
@@ -11840,7 +11840,7 @@
       "video3" : ""
    },
    {
-      "artist" : "DETROITMELTDOWN [ RMHN + KRX ] (S9R2011)",
+      "artist" : "DETROITMELTDOWN [ RMHN + KRX ]",
       "comment" : "やりにくい水平交互と左右振り同時押し。連打地帯もありゲージを削っていく。",
       "level" : "6",
       "md5" : "1f18491439f896b8e0f0c5095cb9a1d0",
@@ -12624,7 +12624,7 @@
       "video3" : ""
    },
    {
-      "artist" : "er (A9S2013)",
+      "artist" : "er",
       "comment" : "ウラパートを叩く譜面。ゲージが重いが、後半の同時押しの出来栄えに大きく左右されるので苦手だと削られてそのまま終了になる。",
       "level" : "10",
       "md5" : "215ff29faadaf40cc4feb5d0c9d7053c",
@@ -16000,7 +16000,7 @@
       "video3" : ""
    },
    {
-      "artist" : "火龍騎士 / ゴミ大魔獣 / 魔導一角獣 (A9S2013)",
+      "artist" : "火龍騎士 / ゴミ大魔獣 / 魔導一角獣",
       "comment" : "曲も譜面もクセが強い。繰り返しが多いのでハマると厳しいが、密度そのものは大したことはないので慎重に。",
       "level" : "6",
       "md5" : "2a12e6d9928e68fd07b97a3a88d58e92",
@@ -16672,12 +16672,12 @@
       "video3" : ""
    },
    {
-      "artist" : "Yosk! obj:CRUNCH",
+      "artist" : "Yosk!",
       "comment" : "後半密度上がってからの準無理押しの崩しが厄介。ゲージが重い。",
       "level" : "2",
       "md5" : "2bcbf73992b52b6ec3d5ee2f42242710",
       "memo" : "旧案内所 / S9R2011",
-      "name_diff" : "本体に同梱",
+      "name_diff" : "CRUNCH (本体に同梱)",
       "no" : "4440",
       "state" : "",
       "title" : "TRUTH↓",
@@ -17664,7 +17664,7 @@
       "video3" : ""
    },
    {
-      "artist" : "w_tre (W9S2015)",
+      "artist" : "w_tre",
       "comment" : "フローラちゃんかわいい！！・・・誰だこいつは?!??!",
       "level" : "16",
       "md5" : "2e50a211bafb905873a34fe18ee9ae5d",
@@ -20832,7 +20832,7 @@
       "video3" : ""
    },
    {
-      "artist" : "o.s.gateと重音テト姫とUnK-nowと37X (A9S2013)",
+      "artist" : "o.s.gateと重音テト姫とUnK-nowと37X",
       "comment" : "配置が素直でゲージが軽めなので他のぶっ飛んだ16軍団に比べるとにインパクトが薄いが、約1分40秒で2500ノーツ以上ありとにかく早い上休みがない。16分と8分が混ざり続けるのではまると立て直しはとてもつらい。",
       "level" : "16",
       "md5" : "36d59c71b89d5dbd16d53dc3acfbca43",
@@ -20912,7 +20912,7 @@
       "video3" : ""
    },
    {
-      "artist" : "Arranged by Holidra.K BGA:アカツキユウ (S9F2012パッケージ)",
+      "artist" : "Arranged by Holidra.K BGA:アカツキユウ",
       "comment" : "",
       "level" : "1",
       "md5" : "36ea5d64cdfb952ffd050640ccf13aa5",
@@ -21120,7 +21120,7 @@
       "video3" : ""
    },
    {
-      "artist" : "totsumal vs Ziken Akahane (A9S2013)",
+      "artist" : "totsumal vs Ziken Akahane",
       "comment" : "ワープからの白軸とわかりにくいリズムで崩しにくる。後半は連打混ざりの片手処理が続くので苦手だと減るだけになってしまう。",
       "level" : "4",
       "md5" : "3779210142b48c778b08e568e4968b63",
@@ -21216,7 +21216,7 @@
       "video3" : ""
    },
    {
-      "artist" : "P.E.overground (S9F2012)",
+      "artist" : "P.E.overground",
       "comment" : "ラスト前の横に広い地帯が判定も合わさって非常に辛い。しかしそれ以外は46あるかないかくらいなのでハードだとだいぶ楽。",
       "level" : "5",
       "md5" : "37d9302c0211a80bb384f8730dcf63a3",
@@ -21600,7 +21600,7 @@
       "video3" : ""
    },
    {
-      "artist" : "TEKINA (A9S2013)",
+      "artist" : "TEKINA",
       "comment" : "ラストの天叢雲剣で見たような垂直階段が危険極まりないが、ハードで逃げるにしても休憩前の連打地帯が非常に厄介。そこから回復が結構続くのでイージーまでは後半ゲー。",
       "level" : "12",
       "md5" : "38d4f39f9195c082322204572241a9b9",
@@ -22304,7 +22304,7 @@
       "video3" : ""
    },
    {
-      "artist" : "園じぇるず (S9F2012)",
+      "artist" : "園じぇるず",
       "comment" : "#32、#47、#49の3回にわたって急な密度の16分が来る。他は全体的に押しやすく回復しやすいのでハードの方が楽かもしれない。ようじょ。",
       "level" : "1",
       "md5" : "3ab99582ae21d6fee959e79495fdd0f1",
@@ -22864,7 +22864,7 @@
       "video3" : ""
    },
    {
-      "artist" : "sijima vs ジーニアスかわいい！！ (W9S2015)",
+      "artist" : "sijima vs ジーニアスかわいい！！",
       "comment" : "後半に来る変な連打がやらしいが、それ以外は割と素直な16分譜面。ラストのみ減速する。",
       "level" : "5",
       "md5" : "3c4e7a1a12ab9ea8e7a96420e3b46145",
@@ -23440,7 +23440,7 @@
       "video3" : ""
    },
    {
-      "artist" : "Holidra.K (movie : アカツキユウ) (S9F2012)",
+      "artist" : "Arranged by Holidra.K BGA:アカツキユウ",
       "comment" : "連打や急減速など結構特徴的な譜面。低速からの上段攻撃が一番厄介なところなので耐えよう。",
       "level" : "9",
       "md5" : "3dc5b904c849442f9aa7f156f6deebf9",
@@ -26720,7 +26720,7 @@
       "video3" : ""
    },
    {
-      "artist" : "DETROITMELTDOWN [ RMHN + KRX ] (S9R2011)",
+      "artist" : "DETROITMELTDOWN [ RMHN + KRX ]",
       "comment" : "他であまり見ない形。時々混ざる無理押しが崩しにかかってきていやらしい。",
       "level" : "9",
       "md5" : "45b73a523a2390c7bf55522eaf9542fe",
@@ -26736,7 +26736,7 @@
       "video3" : ""
    },
    {
-      "artist" : "o.s.gateと重音テト姫 (A9S2013)",
+      "artist" : "o.s.gateと重音テト姫",
       "comment" : "曲名どおりずっとスライド譜面。後半の水平押しから結構回復できるが、スライド苦手だと80いかないかも。",
       "level" : "2",
       "md5" : "45c6ab7252eb34f917e4c0e4c3e4c0c1",
@@ -27648,7 +27648,7 @@
       "video3" : ""
    },
    {
-      "artist" : "戒斗 (W9S2015)",
+      "artist" : "戒斗",
       "comment" : "ラビリンス+交互連打的な譜面。ただ16分3連打が厄介なので工夫しよう。",
       "level" : "5",
       "md5" : "4810e196e56beaf6a6cf355ce85dfee1",
@@ -27808,7 +27808,7 @@
       "video3" : ""
    },
    {
-      "artist" : "o.s.gate rsp VjH (W9S2015)",
+      "artist" : "o.s.gate rsp VjH",
       "comment" : "ハードは大変。幸色キャンバスみたいだ。",
       "level" : "？",
       "md5" : "487134ede7f97efe55a96af5d906981c",
@@ -28464,7 +28464,7 @@
       "video3" : ""
    },
    {
-      "artist" : "sound piercer (W9S2015)",
+      "artist" : "sound piercer / mov : [IX]",
       "comment" : "音数が少ないからほんとに48なのか？と思ってたら、やっぱり逆詐称だった。なむ。",
       "level" : "3",
       "md5" : "4a09a7fb8cfc278a19ba1b1a57e893de",
@@ -28800,7 +28800,7 @@
       "video3" : ""
    },
    {
-      "artist" : "TKR (W9S2015)",
+      "artist" : "TKR",
       "comment" : "ラス前の交互をお祈りすることが大切。最後の最後をハードで抜けるには道中こぼしやすいのが厄介。",
       "level" : "11",
       "md5" : "4aee8f38286e5bdb29c4848383229213",
@@ -28837,7 +28837,7 @@
       "level" : "12",
       "md5" : "4afcb8a177335aa225732a2220aba5b9",
       "memo" : "旧案内所 / A9S2013",
-      "name_diff" : "原子炉モーニングスターズ(AUTUMN 9KEYS STORY 2013 差分祭り)",
+      "name_diff" : "原子炉モーニングスターズ (A9S2013 差分祭)",
       "no" : "5784",
       "state" : "",
       "title" : "The Mystery Word",
@@ -30037,7 +30037,7 @@
       "level" : "8",
       "md5" : "4e10a52e42438d5b0ccfc97bfae3a4db",
       "memo" : "旧案内所 / A9S2013",
-      "name_diff" : "深海(AUTUMN 9KEYS STORY 2013 差分祭り)",
+      "name_diff" : "深海 (A9S2013 差分祭)",
       "no" : "5168",
       "state" : "",
       "title" : "Memetic Kill Agent",
@@ -30688,7 +30688,7 @@
       "video3" : ""
    },
    {
-      "artist" : "CRUNCH (mov:artslight) (S9R2011)",
+      "artist" : "CRUNCH (mov:artslight)",
       "comment" : "8分のそれほど振らない同時押しに16分が混ざるのがメイン。中盤の軸とトリル+αが難関でそこで削られすぎるとラストの殺しまでに回復するのがつらい。",
       "level" : "4",
       "md5" : "4fa287e983d9734ac71ab2e3eaf9aaf9",
@@ -33072,7 +33072,7 @@
       "video3" : ""
    },
    {
-      "artist" : "Power Of Nature Arrange:Yosk! (A9S2013)",
+      "artist" : "Power Of Nature Arrange:Yosk!",
       "comment" : "原曲での発狂にあたる部分の高速階段と、そこ以降で回復できるかがポイント。ここより下の難易度でBPM210の16分相当の階段はほぼないので、それより少し遅いEvaderやポチ子などが苦手だった人には厳しい。なおこの曲は大人の事情でイベントのまとめパッケージには入ってないので注意。",
       "level" : "2",
       "md5" : "56044010dff3a01421c3054c236f937a",
@@ -33232,7 +33232,7 @@
       "video3" : ""
    },
    {
-      "artist" : "tarolabo/riutaso/【躾】ますたー (S9F2012)",
+      "artist" : "tarolabo/riutaso/【躾】ますたー",
       "comment" : "ゲージも軽く中盤は密度もほとんどないため楽なのだが#19の48分と#53以降の16分24分混ざりの階段乱打が難所。ハードも殺しが長いので難易度高い。",
       "level" : "7",
       "md5" : "56764051a0c9a4a2108c3ad310c7f7b4",
@@ -35056,7 +35056,7 @@
       "video3" : ""
    },
    {
-      "artist" : "litmus* (movie : hayen, litmus*)（単曲リンク消失につきパッケ A9S2013） (A9S2013)",
+      "artist" : "litmus* (movie : hayen, litmus*)",
       "comment" : "いうなればちょっと遅くなったゾディアックオラクル系の譜面で、青白は少ないものの結構振られる。ラストのシンメトリにも注意しよう。",
       "level" : "6",
       "md5" : "5c69cf41ce7fe72dde16de4c9fb733b2",
@@ -36272,7 +36272,7 @@
       "video3" : ""
    },
    {
-      "artist" : "gransear (W9S2015)",
+      "artist" : "gransear",
       "comment" : "ゲージがあんま重くないので結構ミスれる。",
       "level" : "◆",
       "md5" : "5f1a833b4a4e8bb93b53bf2e302a82dc",
@@ -36576,7 +36576,7 @@
       "video3" : ""
    },
    {
-      "artist" : "sound piercer",
+      "artist" : "sound piercer / mov : [IX]",
       "comment" : "残先生はブレない。すばらしい。",
       "level" : "16",
       "md5" : "6043d767596f3e451735e7c7c087c334",
@@ -37344,7 +37344,7 @@
       "video3" : ""
    },
    {
-      "artist" : "asahi (W9S2015)",
+      "artist" : "asahi",
       "comment" : "アグノムの だいばくはつ！こうかが ない みたいだ……",
       "level" : "8",
       "md5" : "629fc2c332d355e79f73d857831bd326",
@@ -37600,7 +37600,7 @@
       "video3" : ""
    },
    {
-      "artist" : "daisan (W9S2015)",
+      "artist" : "daisan",
       "comment" : "普通の横に広めの乱打譜面・・・と思わせておいて、赤ビームと二連打がフルコンのジャマをしてくる。狙うなら工夫しよう。",
       "level" : "5",
       "md5" : "6338b19640b8249d53831a3c24c01bd5",
@@ -38048,7 +38048,7 @@
       "video3" : ""
    },
    {
-      "artist" : "daisan (A9S2013)",
+      "artist" : "daisan",
       "comment" : "判定がNormalな上こぼしやすい配置が多く、さらにTotalが低めなので下から見るとさっぱりゲージが伸びず苦しい譜面。ラストの高速水平トリルでミスを出さないのは大変なので、そこまでにゲージを維持できているかが大事。",
       "level" : "5",
       "md5" : "646c9a4d1a6d25455a2e8a6e215e5e27",
@@ -38736,7 +38736,7 @@
       "video3" : ""
    },
    {
-      "artist" : "髭姫 feat.しゆ LYRICS：茜 BGI：アカツキユウ (A9S2013)",
+      "artist" : "髭姫 feat.しゆ LYRICS：茜 BGI：アカツキユウ",
       "comment" : "水平二重階段に慣れていないと中盤が辛い。2連打が多いのだが、あまり早くなく判定もNormalではないので落ち着いて取ろう。ラスト終わったと思わせておいて階段が来るので注意。",
       "level" : "2",
       "md5" : "66290de28e9a0b37f6bd8cc582e3b440",
@@ -39616,7 +39616,7 @@
       "video3" : ""
    },
    {
-      "artist" : "totsumal vs Ziken Akahane (A9S2013)",
+      "artist" : "totsumal vs Ziken Akahane",
       "comment" : "瞬間発狂の配置が連打混ざりなので判定も合わさってちまちま削られていく。これで46は新基準ではやばすぎるし旧基準では弱すぎるしで判断に困るところである。",
       "level" : "9",
       "md5" : "689ac558a213cf7cae930965aec87db3",
@@ -39920,7 +39920,7 @@
       "video3" : ""
    },
    {
-      "artist" : "No.IX (A9S2013)",
+      "artist" : "No.IX",
       "comment" : "12のFree hand zeroと結構似ているが、ラストが極端な殺しでないのと回復ポイントがちょいちょいあるのでハード以外の難易度はこちらが下。左螺旋地帯で回復できるかがかなり重要なので苦手なら鏡かけよう。",
       "level" : "11",
       "md5" : "6974f459545b1d8d9e8c4ec40e1f5f44",
@@ -39936,7 +39936,7 @@
       "video3" : ""
    },
    {
-      "artist" : "戒斗 (W9S2015)",
+      "artist" : "戒斗",
       "comment" : "連打が速いけど、とりあえず3回押せれば垂直降下は防げる。それ以降は地力。",
       "level" : "14",
       "md5" : "6982e816914215b001a88b153ed45a9e",
@@ -40128,7 +40128,7 @@
       "video3" : ""
    },
    {
-      "artist" : "犬 (A9S2013)",
+      "artist" : "犬",
       "comment" : "17にしてはすごく平和に見えるがやってみると数と速さの暴力にびっくらこく。これで同梱なのでびっくらこく。そして妙にゲージが重い。",
       "level" : "17",
       "md5" : "6a19b489006e4ddc286409fc16cef31e",
@@ -40976,7 +40976,7 @@
       "video3" : ""
    },
    {
-      "artist" : "totsumal vs Ziken Akahane (A9S2013)",
+      "artist" : "totsumal vs Ziken Akahane",
       "comment" : "音頭はともかく配置がダメ。許されない。",
       "level" : "◆",
       "md5" : "6c2df653cf88ec0a1989c0f7d6839ecc",
@@ -43216,7 +43216,7 @@
       "video3" : ""
    },
    {
-      "artist" : "taqumi Image:DARK†KOIWAI (S9F2012)",
+      "artist" : "taqumi Image:DARK†KOIWAI",
       "comment" : "16分階段と軸混ざりの同時押しがメインの譜面。全体を通してパターンが似たのが多いため苦手だと回復できないまま終わってしまう。ゲージは軽めで最後も少し余裕があるので耐えたい。",
       "level" : "1",
       "md5" : "728f6cdef7e9e680a2c590bc4692bf03",
@@ -43712,7 +43712,7 @@
       "video3" : ""
    },
    {
-      "artist" : "A than_Lily (A9S2013)",
+      "artist" : "A than_Lily",
       "comment" : "高BPM総合力。12分有り階段有り連打有りとスケとニエを足して押しやすくしたような譜面で全体的にスキがない。",
       "level" : "8",
       "md5" : "740aa8ca7e2c7fa75ecfaeb8b61b6d96",
@@ -44016,7 +44016,7 @@
       "video3" : ""
    },
    {
-      "artist" : "Yosk! (W9S2015)",
+      "artist" : "Yosk!",
       "comment" : "連打メインの総合譜面だが、速度変化する。MAXFIXで大丈夫だが、どこでするかはミンナニ ナイショダヨ",
       "level" : "12",
       "md5" : "74d051ee6406e85829b7b456868420b7",
@@ -45344,7 +45344,7 @@
       "video3" : ""
    },
    {
-      "artist" : "Susigkeiten (A9S2013)",
+      "artist" : "Susigkeiten",
       "comment" : "中盤の高速二重桂馬階段がポイント。そこである程度残して後半で回復することになる。右側で折り返すのが多く、後半の回復も右側への出張が多いので鏡で楽になる場合が結構ある。",
       "level" : "11",
       "md5" : "78cdb960d4cf8922ddf83eeea0c23401",
@@ -45712,7 +45712,7 @@
       "video3" : ""
    },
    {
-      "artist" : "w_tre (W9S2015)",
+      "artist" : "w_tre",
       "comment" : "まさかのおっさん第二段。ＢＧＡ必要あり。",
       "level" : "2",
       "md5" : "79b65265670393e59ea17b8942da69f9",
@@ -46048,7 +46048,7 @@
       "video3" : ""
    },
    {
-      "artist" : "Neun_jack (A9S2013)",
+      "artist" : "Neun_jack",
       "comment" : "中盤の削岩19交互がなかなかコメントに困る奴だが、後半の同時押しで回復できるなら階段に気をつければノマゲはつく。",
       "level" : "9",
       "md5" : "7a9f0174df247ac6eb30ba1c7c4c059d",
@@ -51632,7 +51632,7 @@
       "video3" : ""
    },
    {
-      "artist" : "Neun_jack (W9S2015)",
+      "artist" : "Neun_jack",
       "comment" : "いのちにかかわらない程度にシンメトリがあるが、ラストちょっと前の広いところが大変。高速な階段は最初にしかないので安心。",
       "level" : "2",
       "md5" : "898c27e57e34ff091e0474a4f53d4ea9",
@@ -52197,7 +52197,7 @@
       "level" : "11",
       "md5" : "8b28c9cbf8eaa58f6a45447fdfcfa5c1",
       "memo" : "発狂PMS / S9F2012",
-      "name_diff" : "2013/8/25修正がありました (ブラウザからDL)",
+      "name_diff" : "修正譜面 (ブラウザからDL)",
       "no" : "4045",
       "state" : "4",
       "title" : "Tezcatl",
@@ -55584,7 +55584,7 @@
       "video3" : ""
    },
    {
-      "artist" : "風鈴奏 (W9S2015)",
+      "artist" : "風鈴奏",
       "comment" : "遅ければすごく押しやすい譜面なんだが、早いせいで横に広い繰り返し系譜面になっている。序盤赤抜けできないと厳しい。",
       "level" : "12",
       "md5" : "94ff0d46ba62cd50557684e2f5e304a0",
@@ -56933,7 +56933,7 @@
       "level" : "10",
       "md5" : "981dd65c16755ec77ca78147ccf95cab",
       "memo" : "旧案内所 / A9S2013",
-      "name_diff" : "Seri(AUTUMN 9KEYS STORY 2013 差分祭り)",
+      "name_diff" : "Seri (A9S2013 差分祭)",
       "no" : "5584",
       "state" : "",
       "title" : "winged dolphin",
@@ -58732,7 +58732,7 @@
       "url" : "https://dl.dropbox.com/s/sunnybmvd2p89t7/er_N.zip?dl=1",
       "url_diff" : "http://mksabun.web.fc2.com/",
       "video1" : "",
-      "video2" : "",
+      "video2" : "AOKbExDztc4",
       "video3" : ""
    },
    {
@@ -59408,7 +59408,7 @@
       "video3" : ""
    },
    {
-      "artist" : "momo★yama (W9S2015)",
+      "artist" : "momo★yama",
       "comment" : "とりあえず最初がやばい。ランダムでもいいかも。",
       "level" : "3",
       "md5" : "9f25474fc31c4fcc07f7c9294173c068",
@@ -61056,7 +61056,7 @@
       "video3" : ""
    },
    {
-      "artist" : "ccgc (W9S2015)",
+      "artist" : "ccgc",
       "comment" : "低速を抜きにしても譜面がむずい。MAXFIXで少し早目がいいかもしれない。",
       "level" : "9",
       "md5" : "a3ac355f6d6607b43ae140b1157d5345",
@@ -61744,12 +61744,12 @@
       "video3" : ""
    },
    {
-      "artist" : "Yosk! obj:Symphonian",
+      "artist" : "Yosk!",
       "comment" : "後半水平トリルに移動が混ざるところが慣れてないと厳しい。ゲージが重い。",
       "level" : "3",
       "md5" : "a524ca620432264e8f3343ef14062dea",
       "memo" : "旧案内所 / S9R2011",
-      "name_diff" : "本体に同梱",
+      "name_diff" : "Symphonian (本体に同梱)",
       "no" : "4543",
       "state" : "",
       "title" : "TRUTH↓",
@@ -65344,7 +65344,7 @@
       "video3" : ""
    },
    {
-      "artist" : "ROKINA (W9S2015)",
+      "artist" : "ROKINA",
       "comment" : "Easy10。楽しいトルネード。",
       "level" : "13",
       "md5" : "ae24eaa230ebe7f61ad7bed27b84b864",
@@ -66448,7 +66448,7 @@
       "video3" : ""
    },
    {
-      "artist" : "Kei Izumi (S9R2011)",
+      "artist" : "Kei Izumi",
       "comment" : "メインは12分。判定がノーマルな上所々に取りにくい14や69があり片手処理もL9以上なので他の1が大体できないと厳しいと思われる。",
       "level" : "1",
       "md5" : "b0d395968c4338e3b97c887d5ab40524",
@@ -67360,6 +67360,22 @@
       "video3" : ""
    },
    {
+      "artist" : "Kotira Sample (plugout4 パッケージ)",
+      "comment" : "",
+      "level" : "査定中",
+      "md5" : "b34319d69cc4efb6666870300c86ef33",
+      "memo" : "",
+      "name_diff" : "quad",
+      "no" : "40077",
+      "state" : "",
+      "title" : "Funuke Show Some Love",
+      "url" : "https://mega.nz/folder/EpgWgJqa#7OItZfYLQxZ0X8OB19yvNQ/file/Qkpl2Iga",
+      "url_diff" : "https://stellabms.xyz/upload/257",
+      "video1" : "",
+      "video2" : "lYaA6p9sczQ",
+      "video3" : ""
+   },
+   {
       "artist" : "養土卵 光 / 浜 柔好",
       "comment" : "",
       "level" : "18",
@@ -67533,6 +67549,22 @@
       "url_diff" : "https://drive.google.com/file/d/1ZE4J6P_-vMxEZ4N8iLkf62tBfsGa_rre/view",
       "video1" : "",
       "video2" : "KS4MHugXrvM",
+      "video3" : ""
+   },
+   {
+      "artist" : "Nankumo (G2R2014)",
+      "comment" : "",
+      "level" : "査定中",
+      "md5" : "b39b27eacfb8c4055c23b82a7881cde9",
+      "memo" : "",
+      "name_diff" : "quad",
+      "no" : "40078",
+      "state" : "",
+      "title" : "BLUE SCREAM",
+      "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
+      "url_diff" : "https://stellabms.xyz/upload/256",
+      "video1" : "",
+      "video2" : "9GTLowxSKYo",
       "video3" : ""
    },
    {
@@ -68112,7 +68144,7 @@
       "video3" : ""
    },
    {
-      "artist" : "ccgc (A9S2013)",
+      "artist" : "ccgc",
       "comment" : "総合力譜面だが、フュージョンということでリズムが取りにくい。フライングデュオのような＞や＜の形した水平押しが多いので苦手だとずらされる危険がある。",
       "level" : "1",
       "md5" : "b577358afe36ef5718591a731346f6d2",
@@ -68320,7 +68352,7 @@
       "video3" : ""
    },
    {
-      "artist" : "風鈴奏 (W9S2015)",
+      "artist" : "風鈴奏",
       "comment" : "前半がぶっ飛んでるが、一応後半で立て直せる。それでも強化お仏壇をつなぐ感じなのでとてもしんどい。",
       "level" : "16",
       "md5" : "b68bb712f09e87b255eb4d03da724c23",
@@ -69152,7 +69184,7 @@
       "video3" : ""
    },
    {
-      "artist" : "Yosk! (W9S2015)",
+      "artist" : "Yosk!",
       "comment" : "何？BPM範囲を持たないならソフランしないのではないのか！？",
       "level" : "6",
       "md5" : "b839321c6c8e310cf8f8ecf09fe652a2",
@@ -75664,7 +75696,7 @@
       "video3" : ""
    },
    {
-      "artist" : "アオ+紫翠 (W9S2015)",
+      "artist" : "アオ+紫翠",
       "comment" : "判定とラス前の交互っぽいのが厄介なくらいだが他は普通。なおハードだとラスト失敗すると即死する。",
       "level" : "4",
       "md5" : "c9c01acb438a6a9bb6364734856535f3",
@@ -76544,7 +76576,7 @@
       "video3" : ""
    },
    {
-      "artist" : "o.s.gateと重音テト姫 (A9S2013)",
+      "artist" : "o.s.gateと重音テト姫",
       "comment" : "パイルサウンドボルテックス。このゲームはツマミを使いません。顎を使います。",
       "level" : "!i",
       "md5" : "cbe0e50c97c888ddf6aa3f50cb1a61fc",
@@ -76656,7 +76688,7 @@
       "video3" : ""
    },
    {
-      "artist" : "ippi@ respect for C.G. (S9R2011)",
+      "artist" : "ippi@ respect for C.G.",
       "comment" : "虚像の迷宮と同じ同時押し譜面だが、実質200BPMの8分で軸と左右振りが強烈なのでこちらの方が苦手な人は多そう。低速になるのは最初と途中だけ。",
       "level" : "5",
       "md5" : "cc382f3e745a7658a94a7443143f7d2b",
@@ -77936,7 +77968,7 @@
       "video3" : ""
    },
    {
-      "artist" : "Blue-J vs. Ruby.G (A9S2013)",
+      "artist" : "Blue-J vs. Ruby.G",
       "comment" : "中盤の白の連打が特徴的。後半に密度が上がりラス前の無理押しで崩しに来る。ゲージは重め。",
       "level" : "4",
       "md5" : "cf3f7f56da881600b2dee6df4cf91ba1",
@@ -78384,7 +78416,7 @@
       "video3" : "29784358"
    },
    {
-      "artist" : "litmus* (A9S2013)",
+      "artist" : "litmus*",
       "comment" : "69多めの乱打。最初の空白までに初期ゲージ割るようではそれ以降も厳しいが、ラスト前の軸から交互が上手く押せればチャンスがなくもない。逆に外したらゲージが一瞬でぶっ飛ぶ。",
       "level" : "9",
       "md5" : "d048375ad16766404c880b016388f503",
@@ -78688,7 +78720,7 @@
       "video3" : ""
    },
    {
-      "artist" : "ROKINA (W9S2015)",
+      "artist" : "ROKINA",
       "comment" : "序盤の4分軸は固まっているが、後半は1軸なので右手が忙しい。ラストは二重階段+ゴミといきなり属性が変わるのでラス殺しになるかは人それぞれ。",
       "level" : "8",
       "md5" : "d0e006627aa91ed24d68b1b1cc608ff8",
@@ -79781,7 +79813,7 @@
       "level" : "5",
       "md5" : "d421bf8142f4beccaa3a03b71d768620",
       "memo" : "旧案内所 / S9F2012",
-      "name_diff" : "コメント欄にあります",
+      "name_diff" : "追加譜面 (コメント欄参照)",
       "no" : "3653",
       "state" : "4",
       "title" : "clutch",
@@ -80960,7 +80992,7 @@
       "video3" : ""
    },
    {
-      "artist" : "ぽんきち (A9S2013)",
+      "artist" : "ぽんきち",
       "comment" : "ちくたくコンチェルトからの移植曲。階段が細かい上に横に広いので、ポロポロとミスを出してしまいやすい譜面。ゲージはそんな重くないのでノマゲまでなら多少こぼしても大丈夫だが、某猫叉譜面や戦姫、serikaなどが苦手だった人にはハードしにくい。",
       "level" : "4",
       "md5" : "d6e9eb8fbb40e4f3846e7da605ad8342",
@@ -81472,7 +81504,7 @@
       "video3" : ""
    },
    {
-      "artist" : "Ino (W9S2015)",
+      "artist" : "Ino",
       "comment" : "中盤がまるっと回復なので、どちらかといえば耐えゲー。しかし序盤でカラでなるようではちょっと厳しいかも。",
       "level" : "10",
       "md5" : "d80cd29483c96c066a08b1006b8988df",
@@ -81504,7 +81536,7 @@
       "video3" : ""
    },
    {
-      "artist" : "abysalla vs DaDass (W9S2015)",
+      "artist" : "abysalla vs DaDass",
       "comment" : "無音水増しによる多重アタック。ラス殺しなのでハードの方が楽かも。",
       "level" : "10",
       "md5" : "d81ee81a62894053113e3335237efe3f",
@@ -83456,7 +83488,7 @@
       "video3" : ""
    },
    {
-      "artist" : "ccgc (A9S2013)",
+      "artist" : "ccgc",
       "comment" : "大体においてニエンテ。ゲージはそれほど重くないし体力的にもとても楽になっているが、この細かさでNormal判定なのでごまかしにくい。最後少し遅くなるので注意しよう。",
       "level" : "8",
       "md5" : "dc6b4d12d8b12d2170e0b230fbeaf76f",
@@ -83520,7 +83552,7 @@
       "video3" : ""
    },
    {
-      "artist" : "w_tre (W9S2015)",
+      "artist" : "w_tre",
       "comment" : "総合的に難しいが、ラストにとどめの一発があるので100で入れないと厳しい。特に交互がいやらしいので警戒しないといけない。",
       "level" : "11",
       "md5" : "dca2decb1f9058880789157e0adae9e9",
@@ -83568,7 +83600,7 @@
       "video3" : ""
    },
    {
-      "artist" : "Power Of Nature Arrange:Yosk! (A9S2013)",
+      "artist" : "Power Of Nature Arrange:Yosk!",
       "comment" : "原曲よりちょっとノートが多いが、ゲージが軽くさらに全体的に押しやすくなっているので体感難易度は下。ただし発狂部分が中央寄りになっているので人によってはこちらの方が発狂は苦しく思えるかも。なおこの曲は大人の事情でイベントのまとめパッケージには入ってないので注意。",
       "level" : "10",
       "md5" : "dcb25a0cd012b1d6b33edca7cd31896b",
@@ -83984,7 +84016,7 @@
       "video3" : ""
    },
    {
-      "artist" : "RearDawn (S9R2011)",
+      "artist" : "RearDawn",
       "comment" : "42－43小節目にきついのがくるが、そこで削られたとしてもラス殺しが強烈なのでその後の5軸→乱打で100％にしておきたい。42小節まで100％維持できる地力がないと戦えない。実は最初の配置はハートの形である。",
       "level" : "2",
       "md5" : "dd7b4d074faed6037bf2c9b6f63b7af8",
@@ -84133,7 +84165,7 @@
       "level" : "7",
       "md5" : "ddb08118c3896d44f6057c0ad838072b",
       "memo" : "旧案内所 / A9S2013",
-      "name_diff" : "Seri(AUTUMN 9KEYS STORY 2013 差分祭り)",
+      "name_diff" : "Seri (A9S2013 差分祭)",
       "no" : "5033",
       "state" : "",
       "title" : "winged dolphin",
@@ -84896,7 +84928,7 @@
       "video3" : ""
    },
    {
-      "artist" : "P4koo (W9S2015)",
+      "artist" : "P4koo",
       "comment" : "中BPMだけど、狭い16分に32分が混ざる割と珍しい譜面なので崩されやすい。ラストまで油断しないように。",
       "level" : "5",
       "md5" : "dffd9417a6cc1bfbb9adef2c67f6a127",
@@ -86128,7 +86160,7 @@
       "video3" : ""
    },
    {
-      "artist" : "RearDawn (S9R2011)",
+      "artist" : "RearDawn",
       "comment" : "中盤の休憩まではさっぱり難しくないが、2のと同じくラスト勝負の譜面。そのためノマゲ難易度はとてもつらい。",
       "level" : "11",
       "md5" : "e2c9f24b0fbafbdf8881bdb43109aece",
@@ -88144,7 +88176,7 @@
       "video3" : ""
    },
    {
-      "artist" : "kei iwata (S9R2011)",
+      "artist" : "kei_iwata",
       "comment" : "全体的にビビッドに似ている。当時BP200とか出たため難易度がよく分からないで放置していた。",
       "level" : "5",
       "md5" : "e80ce556490e148aaa23a2b737beae9c",
@@ -88400,7 +88432,7 @@
       "video3" : ""
    },
    {
-      "artist" : "ファントムP (A9S2013)",
+      "artist" : "ファントムP",
       "comment" : "ラメントやメロンクリームソーダ概論に似た、ズレ多めの同時押し曲。ちょっとゲージが重いし判定もNormalだが、一部の配置を除き押しやすいので大抵難所までには100になる。残り13秒あたりの16分ラッシュがなかなかにきついので同時が極端に苦手でなければハードの方が楽かもしれない。",
       "level" : "6",
       "md5" : "e8a684c5b8f2cb120959aa7e943d555c",
@@ -88453,7 +88485,7 @@
       "level" : "9",
       "md5" : "e8c40cf0a04476068a72c4756a9d0009",
       "memo" : "旧案内所 / A9S2013",
-      "name_diff" : "tsuki(AUTUMN 9KEYS STORY 2013 差分祭り)",
+      "name_diff" : "tsuki (A9S2013 差分祭)",
       "no" : "5436",
       "state" : "",
       "title" : "地下街",
@@ -88624,7 +88656,7 @@
       "video3" : ""
    },
    {
-      "artist" : "Susigkeiten (A9S2013)",
+      "artist" : "Susigkeiten",
       "comment" : "素直な配置の階段＆二重階段だが、素直な分できないうちにやると癖がつくタイプの譜面。後半の同時押しも微妙に取りにくいので油断できない。",
       "level" : "2",
       "md5" : "e947c240cdca948d467534e670aefc55",
@@ -90736,7 +90768,7 @@
       "video3" : ""
    },
    {
-      "artist" : "totsumal vs Ziken Akahane (A9S2013)",
+      "artist" : "totsumal vs Ziken Akahane",
       "comment" : "5ボタンでこの難易度（しかも訴訟）である。さすが。",
       "level" : "2",
       "md5" : "ee94a382e55cdf50bfe41ff22b555ea4",
@@ -90880,7 +90912,7 @@
       "video3" : ""
    },
    {
-      "artist" : "litmus* (A9S2013)",
+      "artist" : "litmus*",
       "comment" : "勝負は一瞬で決まる。ごまかせれば残るが安定に持ち込むのは大変。",
       "level" : "12",
       "md5" : "eeec0e1d4597f5cb3e94c6c7812a6d05",
@@ -91216,7 +91248,7 @@
       "video3" : ""
    },
    {
-      "artist" : "Power Of Nature Arrange:Yosk! (A9S2013)",
+      "artist" : "Power Of Nature Arrange:Yosk!",
       "comment" : "む～りぃ～・・・。どうでもいいが19のアグノム率やばい。",
       "level" : "19",
       "md5" : "f05abe67f3e1bec373d30c340712869d",
@@ -94320,7 +94352,7 @@
       "video3" : ""
    },
    {
-      "artist" : "戒斗 (A9S2013)",
+      "artist" : "戒斗",
       "comment" : "バロをちょい弱くしたような体力譜面。中盤の長い振り回し階段とその後のシンメトリが最難地帯だが、そこが終わった時点で空でも全繋ぎでギリギリ80に届く。適性以下で全部つなぐのは厳しいとしてもゲージと体力が残っていればかなり回復できる。",
       "level" : "7",
       "md5" : "f796227c0a03f23d5b087de313604c42",
@@ -94480,7 +94512,7 @@
       "video3" : ""
    },
    {
-      "artist" : "犬 (A9S2013)",
+      "artist" : "犬",
       "comment" : "8分メインの譜面。実質130BPMの16分相当なので改造竜に近いが、中盤休憩後のずっと二重階段アンセムのように癖がつきやすく危険。またラストに密度が上がるのであにまらいおっとにも似ている。",
       "level" : "7",
       "md5" : "f7fc80b55521e13b07c0406da18920a2",
@@ -95216,7 +95248,7 @@
       "video3" : ""
    },
    {
-      "artist" : "kagerow (W9S2015)",
+      "artist" : "kagerow",
       "comment" : "最後の低速だけで+2くらいされてる。危険。",
       "level" : "13",
       "md5" : "f984087500df230690a5748c9c3d521b",
@@ -97536,7 +97568,7 @@
       "video3" : ""
    },
    {
-      "artist" : "Y.W (W9S2015)",
+      "artist" : "Y.W",
       "comment" : "季節のメドレー。あきいろだけ準発狂にしかいないので影が薄いけど、たまには思い出してあげてください。",
       "level" : "5",
       "md5" : "ffd4d2943c3023c52daebefc0e1d92bb",

@@ -296,7 +296,7 @@
    {
       "artist" : "美樹さやか vs. 美樹さやか (fw. 美樹さやか) BGA ： 美樹さやか",
       "comment" : "物量",
-      "level" : "1",
+      "level" : "2",
       "md5" : "093528a97ffd1b755a9ffbe8a483c218",
       "proposer" : "airisu",
       "sha256" : "3928078cba47cb2cfcf759b7cb9ea687861981f274d2bf1a6a3dafd412840b07",
@@ -4292,7 +4292,7 @@
    {
       "artist" : "ALFOU obj.hex",
       "comment" : "G2R2018 乱打",
-      "level" : "3",
+      "level" : "4",
       "md5" : "6d8ec35af7fbd1647cfabdde5a9fc75f",
       "proposer" : "氷城つるぎ",
       "sha256" : "7b0ccd52c17174167951529e4715371eca15373da054a85d74fb6fde3eb2b85f",
@@ -4912,7 +4912,7 @@
    {
       "artist" : "kanone / mov:deadblue238 obj.Mallow♪",
       "comment" : "物量",
-      "level" : "1",
+      "level" : "2",
       "md5" : "7e0053aad813b50a8bc8e2bbfe9818b2",
       "proposer" : "スノート",
       "sha256" : "f92f6393d8ef6ad6ad1b1843e77cbda3a1de47a9dc0da4fe3b3bc1c258530d40",
@@ -6025,6 +6025,18 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
    },
    {
+      "artist" : "Feryquitous / obj:七海 Sennzai / Dazzle / Cymby",
+      "comment" : "同時押し、乱打。地力系かな",
+      "level" : "0",
+      "md5" : "99ebcff8e051e6da68a7f8e9ae7a2fc1",
+      "proposer" : "MarySue",
+      "sha256" : "9f99943a09542d175fbdc28301a13d2aed90ed35bd01b75571ad52dc7b3ecc3e",
+      "submission" : 1196,
+      "title" : "Strahv -Despair & Hope-",
+      "url" : "http://www.dropbox.com/s/14sbfaq70lsr2ev/%5BFeryquitous%5DStrahv.zip?dl=1",
+      "url_diff" : "https://www.dropbox.com/s/eeoqjreczgga8td/strahv_nanami.zip?dl=1"
+   },
+   {
       "artist" : "roop / И",
       "comment" : "ガチ押し",
       "level" : "3",
@@ -6694,6 +6706,18 @@
       "title" : "シオカラ節 (Club & FM Remix) [S+99]",
       "url" : "http://grooverise.sakura.ne.jp/bms_game_coar_pkg/index.html",
       "url_diff" : "http://yuinore.net/2017/02/smc-package/"
+   },
+   {
+      "artist" : "Cres/*8284* obj:monaka",
+      "comment" : "ディレイ",
+      "level" : "0",
+      "md5" : "acb066266ebc83d9dae23f1009497fe3",
+      "proposer" : "AXION",
+      "sha256" : "84c9a5166a427f275a24fc03828cd8db70e81743e65c019e60bff26ccc81fda9",
+      "submission" : 902,
+      "title" : "End Time A⇒Side [Deadly End]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=81&event=36",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02844"
    },
    {
       "artist" : "m108/さ BGA : 砂糖天麩羅 / シキイチル",
@@ -7431,7 +7455,7 @@
    },
    {
       "artist" : "Mastermind(xi+nora2r) iimo / obj:秘密",
-      "level" : "0",
+      "level" : "1",
       "md5" : "be5427805ff3d464a8b8ebcb5e9381df",
       "proposer" : "Thaw",
       "sha256" : "4aeeb65b2b0ab03b6c04b63a1f06ad175ed5e1e768ceca8c6bd18d891529edba",
@@ -7524,6 +7548,18 @@
       "title" : "Cinderella Cage -Trancecore Mix- [K]",
       "url" : "http://yaruki0.sakura.ne.jp/event/ondanyugi4/impression.cgi?no=11",
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html"
+   },
+   {
+      "artist" : "lixound mov:Xquid",
+      "comment" : "結界",
+      "level" : "3",
+      "md5" : "c16806baa62156c5819a029d5bd69fcb",
+      "proposer" : "LUXURY",
+      "sha256" : "bd877b109efd03450026e0f2b4b21e83b96bdc4b9a5852f3b683b02771a7b05a",
+      "submission" : 271,
+      "title" : "Break Through The Barrier [LIMITLESS]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=440&event=116",
+      "url_diff" : ""
    },
    {
       "artist" : "sak feat.みゅい BGI:球根 / OBJ:七海千秋",
@@ -9671,6 +9707,18 @@
       "title" : "堕楽の園 [euphoria]",
       "url" : "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ",
       "url_diff" : "http://absolute.pv.land.to/bof/src/up0908.zip"
+   },
+   {
+      "artist" : "obj:yst",
+      "comment" : "Your despair competent my plume (kurenaissance, arrange by yst; st12?)",
+      "level" : "11",
+      "md5" : "f880de58c2dcb3ea4e3d9dc39b096080",
+      "proposer" : "qtp13",
+      "sha256" : "9856373b827a58d132193c948ccec277a64882a3ff4ee47af7dec971fbcda4f3",
+      "submission" : 1192,
+      "title" : "saucy plume (KurisumasuFumen)",
+      "url" : "http://www1.axfc.net/u/3305799",
+      "url_diff" : ""
    },
    {
       "artist" : "kenzoooo illust:みらん",

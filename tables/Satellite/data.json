@@ -1185,6 +1185,18 @@
       "url_diff" : "http://akred.web.fc2.com/baecon/7_colors_PC.bme"
    },
    {
+      "artist" : "w_tre obj:七海",
+      "comment" : "高速/ズレ/ディレイ",
+      "level" : "12",
+      "md5" : "1aa6618d671728be96004e3a00173be7",
+      "proposer" : "かに",
+      "sha256" : "1859550e55d8a9a238ff57ccc8611aa3645e37588c5e00d5295d286a43eed273",
+      "submission" : 1532,
+      "title" : "mom [サレン]",
+      "url" : "https://www.dropbox.com/s/mm2bd32500l1eor/mom_w_tre_ogg_fixed.zip?dl=0",
+      "url_diff" : "https://www.dropbox.com/s/zgsie6pegks255d/mom_nanami.zip?dl=1"
+   },
+   {
       "artist" : "Junk obj:trainer",
       "comment" : "横に広い乱打",
       "level" : "7",
@@ -1574,7 +1586,7 @@
    {
       "artist" : "Arkplot（mov：NekoX） obj.fhyu",
       "comment" : "BPM178 多要素",
-      "level" : "9",
+      "level" : "10",
       "md5" : "1fff0e4060e2245cac6c2f02289bd57b",
       "proposer" : "SHAX.",
       "sha256" : "e99abae0b80929582961f06ae1786161916fedcba2a32fca7e7760ed113a4bb8",
@@ -1765,6 +1777,17 @@
       "title" : "Thermal Expansion [Another]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=30&event=96",
       "url_diff" : ""
+   },
+   {
+      "artist" : "空読無 白眼 obj. hyso",
+      "level" : "0",
+      "md5" : "24057b864af23db5064e64d4ccccb270",
+      "proposer" : "|/|",
+      "sha256" : "076255b3dbdd63a39a76a4004fd89be25741617f35bdbb15ad923f5a8fb0f975",
+      "submission" : 1512,
+      "title" : "not MAKURA [7K ANOTHER]",
+      "url" : "https://sites.google.com/view/yuruyurubms/phase-4",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03339"
    },
    {
       "artist" : "P4koo/つゆり花鈴/BlueArpeggio Illust GATTOMOTTO/Movie Ratif / obj:BAECON",
@@ -2089,6 +2112,18 @@
       "submission" : 384,
       "title" : "雪花",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=78",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "Juggernaut. BGA:drowseland obj:Lapis",
+      "comment" : "G2R2018 / 同梱譜面, トリル, 同時押し, 皿, LN",
+      "level" : "0",
+      "md5" : "2ba3072c031ff8af0034eccee290ea89",
+      "proposer" : "DK",
+      "sha256" : "fce0e9a749c39bfe1cf59e0814dd0a7d7cb411e8d43606ff39dbf59821fbcac6",
+      "submission" : 1493,
+      "title" : "Revenant [Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=319&event=123",
       "url_diff" : ""
    },
    {
@@ -2572,7 +2607,7 @@
    {
       "artist" : "Sound piercer vs. Iriss",
       "comment" : "ANOTHER",
-      "level" : "0",
+      "level" : "1",
       "md5" : "35f9697e17de0d312054c732f29cba18",
       "proposer" : "氷城つるぎ",
       "sha256" : "d9eeaf4e33f3e514f06ec6c7361b93c3778b2be4c2425c4cc0b5c231f9cd8eb2",
@@ -3780,6 +3815,18 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
    },
    {
+      "artist" : "qfeileadh feat.レゾナンスもえこ mov:自動車 原付 / Obj.Triforce",
+      "comment" : "PABAT! 2020 / 地力、LN",
+      "level" : "2",
+      "md5" : "4de642df5814292d66db1f011f63a676",
+      "proposer" : "DK",
+      "sha256" : "8d1d1deb26bf3331a6b4c0933aa4475d11bf5a91ced162a2faed7d8e895bf9c2",
+      "submission" : 1496,
+      "title" : "Prismrose [Blossom]",
+      "url" : "https://www.dropbox.com/s/zi85mtugat7t0fg/qfeileadh_Prismrose_BGA.zip?dl=0",
+      "url_diff" : "https://trfce.github.io/sabun/(117)prismrose_triforce.zip"
+   },
+   {
       "artist" : "Kuwagata obj:monaka",
       "comment" : "乱打",
       "level" : "2",
@@ -4188,6 +4235,18 @@
       "title" : "7SP:雪の少女-MorningDash!Mix- [MANIAQ]",
       "url" : "http://knm.sakura.ne.jp/index.html",
       "url_diff" : "http://absolute.pv.land.to/Anotherbms.html"
+   },
+   {
+      "artist" : "Lime obj:Blocko",
+      "comment" : "from Stella",
+      "level" : "12",
+      "md5" : "5580e8407abef96a303cba82a1eb605c",
+      "proposer" : "LUXURY♪",
+      "sha256" : "a43c7c7153586363e28ac2dca04d5b7b31b991c7212754ad61dc3ecd7e46f4a8",
+      "submission" : 1539,
+      "title" : "Aurora [Shine]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=330&event=127",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03509"
    },
    {
       "artist" : "ああああ茶漬け obj.koldc",
@@ -4764,6 +4823,18 @@
       "submission" : 840,
       "title" : "Reason of being [EXTRA]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=107",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "ei",
+      "comment" : "乱打",
+      "level" : "5",
+      "md5" : "6204c87e5dc49ecb674f0d50c6ec6755",
+      "proposer" : "MineC24",
+      "sha256" : "a8ec3dbb6110f53f6c557245d2872baab0516f04977ff71bac005102fd06ca02",
+      "submission" : 1529,
+      "title" : "enamel [SP INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=131",
       "url_diff" : ""
    },
    {
@@ -6504,6 +6575,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "mommy",
+      "comment" : "2~3、同梱",
+      "level" : "2",
+      "md5" : "877f4a37193f789cf1dee377c3774282",
+      "proposer" : "|/|",
+      "sha256" : "be56a53cbdde59756237dedf83f638b2cdbef057aa930a88c8adb3abb2358e99",
+      "submission" : 1534,
+      "title" : "rough [7key,Another]",
+      "url" : "http://mommy16807.seesaa.net/article/362195878.html",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Sakamiya feat.前野 img:きの Lyrics:girlsaid",
       "comment" : "sl0~1?",
       "level" : "0",
@@ -6711,7 +6794,7 @@
    {
       "artist" : "Yu^ta / obj:Azel",
       "comment" : "▼18",
-      "level" : "11",
+      "level" : "12",
       "md5" : "8c5fad5786d67093ef4d4a35f462a031",
       "proposer" : "MEES-♬",
       "sha256" : "1cf81cfa980540fbfb411ed3092447e633d544bdf607199ad8f5b32e9c245afc",
@@ -7223,6 +7306,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02540"
    },
    {
+      "artist" : "P*Light / po",
+      "comment" : "やさしい皿",
+      "level" : "7",
+      "md5" : "9978fa59025a74eb897495c0695d0199",
+      "proposer" : "MineC24",
+      "sha256" : "33eab3f7df1a45f35aff85d632e0a25b090133bb899d42269deae163016871d3",
+      "submission" : 1503,
+      "title" : "Poppin' Shower [ANOTHER+]",
+      "url" : "https://onedrive.live.com/?id=FC95A680740CA8C9%21201&cid=FC95A680740CA8C9",
+      "url_diff" : "http://rarehero2000.web.fc2.com/po.html"
+   },
+   {
       "artist" : "qfeileadh のあ / Maeus / obj:C4",
       "comment" : "BOFXV。ガチ押し、ズレ押し、低TOTAL、序盤難。",
       "level" : "5",
@@ -7318,6 +7413,18 @@
       "title" : "夜間飛行トラベラー [SP AMNESIA]",
       "url" : "https://event.yaruki0.net/VSevent/impression/9",
       "url_diff" : ""
+   },
+   {
+      "artist" : "NIKITA / misokabocha obj:七海",
+      "comment" : "SPH #090 キ―音 1つ追加されました。実際のズレは無し（差分アップご参照）",
+      "level" : "3",
+      "md5" : "9c0840b4bc096ab32d4173bb4b4c148a",
+      "proposer" : "Restia",
+      "sha256" : "08fa3e05564bafd235a621d6423f4b15188a273eb7706544cd4b362e298b2e2b",
+      "submission" : 1518,
+      "title" : "夢、幻。 -Hope-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=93",
+      "url_diff" : "https://www.dropbox.com/s/okp0iysm103the1/yumemabo.zip?dl=1"
    },
    {
       "artist" : "Ym1024 feat. lamie* Illustration : 恋々 / obj:BAECON",
@@ -7963,6 +8070,18 @@
       "url_diff" : "https://obju.web.fc2.com/index.html"
    },
    {
+      "artist" : "P*Light / obj:とろ。",
+      "comment" : "SPHとズレなし(snareキー音が変わった)",
+      "level" : "1",
+      "md5" : "aa51e2798757718a3501a96c3eb9e884",
+      "proposer" : "MineC24",
+      "sha256" : "08c286b1d25d627db650e38316842eab2a8749278db6d92ed05f87e00818c700",
+      "submission" : 1504,
+      "title" : "The Shining* [rare]",
+      "url" : "http://www.mediafire.com/file/aixaaleoae9p0ox/the_shining.rar/file",
+      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up5369.zip"
+   },
+   {
       "artist" : "しーけー obj.mute",
       "comment" : "ガチ押し",
       "level" : "8",
@@ -8130,18 +8249,6 @@
       "title" : "十七絃と箏と尺八のための萃夢想 [十七メートル走]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=129",
       "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/"
-   },
-   {
-      "artist" : "Cres/*8284* obj:monaka",
-      "comment" : "from Stella",
-      "level" : "12",
-      "md5" : "acb066266ebc83d9dae23f1009497fe3",
-      "proposer" : "LUXURY♪",
-      "sha256" : "84c9a5166a427f275a24fc03828cd8db70e81743e65c019e60bff26ccc81fda9",
-      "submission" : 965,
-      "title" : "End Time A⇒Side [Deadly End]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=81&event=36",
-      "url_diff" : "https://ux.getuploader.com/monaka_sabun_2/download/186"
    },
    {
       "artist" : "HOLY SAMBA MASTER 佐藤 -SATOH-",
@@ -8754,6 +8861,18 @@
       "title" : "Signager -HONGKONG EXPRESS_FIX-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=121",
       "url_diff" : "http://beatkim.web.fc2.com/insane.html"
+   },
+   {
+      "artist" : "天使真央 obj.森さん",
+      "comment" : "BPM180 高速階段",
+      "level" : "8",
+      "md5" : "b7143d7df5c81feddfdabefdf3704320",
+      "proposer" : "SHAX.",
+      "sha256" : "d43bef970c7c25262744bec74fdbc8e2aa820dc037d422cd7567d68a5d200c1a",
+      "submission" : 1499,
+      "title" : "feeling(bms edit) [Hierarchie]",
+      "url" : "http://www.mediafire.com/file/89ypy7ik4zajsn0/%255Bgj-bu%255Dfeeling.rar/file",
+      "url_diff" : ""
    },
    {
       "artist" : "DJ Michelle illust. マルノ/奥沢美咲",
@@ -9455,6 +9574,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02256"
    },
    {
+      "artist" : "TK pattern for some reason",
+      "comment" : "",
+      "level" : "10",
+      "md5" : "c329d494bded6ae4be2b000d29c804a3",
+      "proposer" : "Restia",
+      "sha256" : "9afd7a4fe3dd16acf2d60aeaf7a2492c2d496c54d09e64165804c7644e939f76",
+      "submission" : 1519,
+      "title" : "Out of the System [for some reason]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=366&event=110",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/1998to2020/1998to2020_0606.zip"
+   },
+   {
       "artist" : "Clotho feat.Salita obj:Magical Girl \"Alisa\"",
       "comment" : "乱打、高速階段",
       "level" : "1",
@@ -9489,6 +9620,18 @@
       "title" : "WHIRLWIND [EXTRA]",
       "url" : "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=43&order=reg&odtype=a",
       "url_diff" : "http://ux.getuploader.com/monaka_sabun_2/download/124/WHIRLWIND.zip"
+   },
+   {
+      "artist" : "saaa BGA : Sugar",
+      "comment" : "多要素",
+      "level" : "0",
+      "md5" : "c4c1e31a6acce5118cc95b7e3de29601",
+      "proposer" : "STANK!",
+      "sha256" : "68e5ef6331b7376502efd8ac406b0a99b4ac9443776645d2a24ad9ae24f82a22",
+      "submission" : 1527,
+      "title" : "Removal [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=131",
+      "url_diff" : ""
    },
    {
       "artist" : "daisan/ 差分 赤い人",
@@ -9537,6 +9680,18 @@
       "title" : "空跳ぶ少女 [JUMPER(Lanother)]",
       "url" : "https://dropbox.bms.ms/u/59483835/spanish.rar",
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up3026.rar"
+   },
+   {
+      "artist" : "+45 / obj:BAECON",
+      "comment" : "地力",
+      "level" : "6",
+      "md5" : "c6b9bfcef0215b51317cebc4a4520d9c",
+      "proposer" : "*ふわうさ*",
+      "sha256" : "bd9c26de88899ed55403b0d5f3c3c3e1f2df838f47f454072c8e21f5175f0b8d",
+      "submission" : 1497,
+      "title" : "B e l i - R [rebellion]",
+      "url" : "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ",
+      "url_diff" : "http://akred.web.fc2.com/baecon/rebellion.bme"
    },
    {
       "artist" : "pr.s obj: MineC24",
@@ -11121,6 +11276,18 @@
       "title" : "Bad Elixir -Eclipse-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=316&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02497"
+   },
+   {
+      "artist" : "Feryquitous / obj：mad2ki movie:Sight / pattern:Cymby",
+      "comment" : "4~5? (SPAと39msのズレキー音がひとつあるけど、プレイには問題なし)",
+      "level" : "4",
+      "md5" : "e5e812b03f7a723a1f511f6be5eb9059",
+      "proposer" : "MineC24",
+      "sha256" : "ec8ae4bd9211f7fc50d7ed648b5fc98ac5088104307997d89a45fa4b7dfed314",
+      "submission" : 1528,
+      "title" : "Dstorv [Another+]",
+      "url" : "https://dropbox.bms.ms/u/34035220/%5BFeryquitous%5DDistorv.rar",
+      "url_diff" : "http://www.ribbit.xyz/bms/mirror/bof/src/up0823.zip"
    },
    {
       "artist" : "Concordia(Aeris+Cervesia) feat.ヒトトリ BGA : sunrise films / obj : monaka",

@@ -589,7 +589,7 @@
    {
       "artist" : "立秋 feat.ちょこ obj:Starfish",
       "comment" : "9~10?、低速発狂",
-      "level" : "9",
+      "level" : "10",
       "md5" : "24946be731a25ce1470bb7a8d4e403e7",
       "proposer" : "JHS",
       "proposerLr2id" : 128228,
@@ -1065,6 +1065,20 @@
       "title" : "AIWS -Homuponother-",
       "url" : "https://drive.google.com/file/d/1b22YjmODTUGuuoq7ktQVZTjP5pKVlz55/view?usp=sharing",
       "url_diff" : "http://ux.getuploader.com/dpbms/download/95/AIWS+%26+TEN.zip"
+   },
+   {
+      "artist" : "Kyuzo Sameura obj:RaiN",
+      "comment" : "8~9?、ズレ、PABAT2020",
+      "level" : "9",
+      "md5" : "4042deb9de11b3c67d8e70e4668fe51d",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "910b01d50009731a1c2094e84d4170730834993d921a926ab4b373dc08804577",
+      "submission" : 374,
+      "title" : "reflection [ADDICTION2DP]",
+      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=33&order=reg&odtype=a",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/906",
+      "zureCount" : 0
    },
    {
       "artist" : "Ras obj:Hersh",
@@ -3417,6 +3431,20 @@
       "title" : "Act Beloved [EX14]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=268&event=74",
       "url_diff" : "https://drive.google.com/file/d/1257f5Vj5M9MVYHMVlr452UkLxfqk_6mN/view?usp=sharing"
+   },
+   {
+      "artist" : "定空間 obj.にゃむ",
+      "comment" : "1~2?、無名戦17",
+      "level" : "1",
+      "md5" : "c524366f5f822fed696dc4f8b19f098e",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "6fa67c4f9c7dc63764d03bd8f3d8308fc1aa2658ca27d9ea9a7ce1363f566aa5",
+      "submission" : 373,
+      "title" : "青空の旅、笛と共に [DPA]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=51&event=131",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/895",
+      "zureCount" : 0
    },
    {
       "artist" : "t+pazolite obj:ucc",

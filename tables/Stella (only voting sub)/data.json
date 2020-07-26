@@ -1,31 +1,5 @@
 [
    {
-      "artist" : "kei_iwata feat.レゾナンスもえこ / obj:qfeileadh Movie:Arishima_Caprico Illust:Morph",
-      "comment" : "6?",
-      "level" : "6",
-      "md5" : "3b1306d0a4fe7803bd8e7a7f3b469596",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "ba2cf082a9af912d3926b16c090b8b9b0c6f38768284822051cd27292268e28a",
-      "submission" : 1194,
-      "title" : "ウタカタ・サマーメモリーズ -Dive to 死-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=111&event=131",
-      "url_diff" : ""
-   },
-   {
-      "artist" : "Rave Cyanide [BMS Edit R.W.R]",
-      "comment" : "st1~3 (missing crash.wav, but no artificial zures)",
-      "level" : "2",
-      "md5" : "5f799c4338e7cfaa332ebe85a7714dbc",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "89b0d73a551abe92ff7e1d79d97dfd6545492cbf4bed333af0c6b5aa188cf9d2",
-      "submission" : 1177,
-      "title" : "Palette Of The Life [Leggenderia]",
-      "url" : "https://www.dropbox.com/s/haz6j8faux15v37/Palette%20of%20the%20Life.zip?dl=0",
-      "url_diff" : ""
-   },
-   {
       "artist" : "Shinji Hirano / obj:Rian",
       "comment" : "BPM175 縦連、ズレ",
       "level" : "3",
@@ -37,20 +11,6 @@
       "title" : "OR [Insane]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=131",
       "url_diff" : ""
-   },
-   {
-      "artist" : "Feryquitous / obj:七海 Sennzai / Dazzle / Cymby",
-      "comment" : "同時押し、乱打。地力系かな",
-      "level" : "0",
-      "md5" : "99ebcff8e051e6da68a7f8e9ae7a2fc1",
-      "proposer" : "MarySue",
-      "proposerLr2id" : 147889,
-      "sha256" : "9f99943a09542d175fbdc28301a13d2aed90ed35bd01b75571ad52dc7b3ecc3e",
-      "submission" : 1196,
-      "title" : "Strahv -Despair & Hope-",
-      "url" : "http://www.dropbox.com/s/14sbfaq70lsr2ev/%5BFeryquitous%5DStrahv.zip?dl=1",
-      "url_diff" : "https://www.dropbox.com/s/eeoqjreczgga8td/strahv_nanami.zip?dl=1",
-      "zureCount" : 0
    },
    {
       "artist" : "削除 obj.hex",
@@ -96,22 +56,6 @@
       "voteYes" : 4
    },
    {
-      "artist" : "lixound mov:Xquid",
-      "level" : "3",
-      "md5" : "c16806baa62156c5819a029d5bd69fcb",
-      "proposer" : "氷城つるぎ",
-      "proposerLr2id" : 151185,
-      "sha256" : "bd877b109efd03450026e0f2b4b21e83b96bdc4b9a5852f3b683b02771a7b05a",
-      "submission" : 271,
-      "title" : "Break Through The Barrier [LIMITLESS]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=440&event=116",
-      "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 3
-   },
-   {
       "artist" : "Ice",
       "comment" : "st3~4+ (BOF2012版；同梱譜面)",
       "level" : "4",
@@ -123,45 +67,5 @@
       "title" : "L (LOKINOTHER)",
       "url" : "http://www.mediafire.com/?36wqghnwof2bmtu",
       "url_diff" : ""
-   },
-   {
-      "artist" : "Shinwoir / 紫電車",
-      "comment" : "ディレイ？",
-      "level" : "5",
-      "md5" : "f6366e5d36a9e5403cba3da7e87cc5aa",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "19f8ec06ac3d78a692eda3b434c98d31c149931af8ef3e27d3ade3d091297697",
-      "submission" : 1195,
-      "title" : "Out of control (神)",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=131",
-      "url_diff" : ""
-   },
-   {
-      "artist" : "obj:yst",
-      "comment" : "Your despair competent my plume (kurenaissance, arrange by yst; st12?)",
-      "level" : "11",
-      "md5" : "f880de58c2dcb3ea4e3d9dc39b096080",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "9856373b827a58d132193c948ccec277a64882a3ff4ee47af7dec971fbcda4f3",
-      "submission" : 1192,
-      "title" : "saucy plume (KurisumasuFumen)",
-      "url" : "http://www1.axfc.net/u/3305799",
-      "url_diff" : ""
-   },
-   {
-      "artist" : "India Action Team",
-      "comment" : "ガチ押し気味の連打譜面。ラス殺し",
-      "level" : "1",
-      "md5" : "faab1fb9c88fd164a1f4a40150c37b70",
-      "proposer" : "MarySue",
-      "proposerLr2id" : 147889,
-      "sha256" : "1917ee3d1b81adc75d84c8fcf387a1185ffa3f59fb3e8150cd5982b26fa97c24",
-      "submission" : 1193,
-      "title" : "Curry (英国式)",
-      "url" : "http://web.archive.org/web/20160614094331/http://ninjaactionteam.sakura.ne.jp/sakuhin_bms.html",
-      "url_diff" : "https://fsrs.github.io/table.html",
-      "zureCount" : 0
    }
 ]
