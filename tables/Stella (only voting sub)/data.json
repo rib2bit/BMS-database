@@ -1,5 +1,31 @@
 [
    {
+      "artist" : "はがね / И",
+      "comment" : "SPA基準ズレが一つ(0C)ありますが、1/192分のズレだから実質的に影響はなさそうです。コメントで続きます。",
+      "level" : "2",
+      "md5" : "2ae6ffab1595e4164ff098a190e6e0f1",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "3524fe27b82880c6c4efdbd86ecf221b760a9e43a8e6bb687f74308becdaac93",
+      "submission" : 1201,
+      "title" : "+84 [+200]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=100&event=110",
+      "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
+      "artist" : "nekomimi_STRaw & kju8 pattern for some reason",
+      "comment" : "同梱の_templete.disagree基準ズレ抜け無し",
+      "level" : "1",
+      "md5" : "4b17f82c41c0e1ea29b4df13794e840f",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "f60efebf3e4c772cd03adc55315e3efb99f694e13e0d231498753f0ebb39c3a0",
+      "submission" : 1200,
+      "title" : "Agree to disagree [for some reason]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=289&event=127",
+      "url_diff" : "https://fsrs.github.io/table.html"
+   },
+   {
       "artist" : "Shinji Hirano / obj:Rian",
       "comment" : "BPM175 縦連、ズレ",
       "level" : "3",
@@ -67,5 +93,21 @@
       "title" : "L (LOKINOTHER)",
       "url" : "http://www.mediafire.com/?36wqghnwof2bmtu",
       "url_diff" : ""
+   },
+   {
+      "artist" : "ZUN remixed by翡乃イスカ / obj : LindBlum",
+      "level" : "3",
+      "md5" : "f0acb0d5eeec5cf0ccc4ce7a2bd48d03",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "c0fe864395cfd87a6eac617c3bb2d3967d68c311183de8a541c91957a45c4bba",
+      "submission" : 252,
+      "title" : "Bloody Scarlet Nightmare [零]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=102",
+      "url_diff" : "http://onedrive.live.com/redir?resid=6A58DD88BD7062C4!210&authkey=!AGZePJr_LRrydzg&ithint=folder%2czip",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 3
    }
 ]
