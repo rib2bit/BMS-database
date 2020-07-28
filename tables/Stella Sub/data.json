@@ -3519,6 +3519,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "R.M. / selene.",
+      "comment" : "1~2?",
+      "level" : "2",
+      "md5" : "38748a52cf56f1d3599c067aba791b26",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "411e2524df5cec44eb4522e4e67769685c343e9c9de8fcb5f2b05313984de550",
+      "submission" : 1203,
+      "title" : "Gecko -Heaven-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=123&num=89",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03395",
+      "zureCount" : 0
+   },
+   {
       "artist" : "FOLiACETATE /差分 赤い人",
       "comment" : "",
       "level" : "8",
@@ -5979,6 +5993,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "ARMYTOM obj:秘密",
+      "comment" : "GOD",
+      "level" : "0",
+      "md5" : "5a92a023a9746fdbc031a94aadc89a82",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "6155970bb286958f5f69c003b76601c02a7707643e4f5e69bbcc38e93f390745",
+      "submission" : 1202,
+      "title" : "ΩXIII [GOD]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/%ce%a9XIII%20%28by%20ARMYTOM%29.rar",
+      "url_diff" : "http://hiiiii.web.fc2.com/sabun/insane.html",
+      "zureCount" : 0
    },
    {
       "artist" : "Arkplot（mov：NekoX）",

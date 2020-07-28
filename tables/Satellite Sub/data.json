@@ -1541,6 +1541,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "knot / И",
+      "comment" : "キー音アレンジだからズレチェックはない...",
+      "level" : "12",
+      "md5" : "0f61440742426aa49fc016b49a441d8a",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "80f0064e3f0b0d09b73cd4eb9b72e1ecc2367594e87de70e071abfcd4d35644e",
+      "submission" : 1544,
+      "title" : "cold planet (HOT COCOA)",
+      "url" : "https://web.archive.org/web/20110625181433/http://www.geocities.jp/panda_bms/cold_planet.zip",
+      "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
       "artist" : "Liq_mmry obj:SUZUKAZEΛ",
       "comment" : "Chiptune",
       "level" : "3",
@@ -4505,6 +4518,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "QH.",
+      "comment" : "同梱譜面。",
+      "level" : "6",
+      "md5" : "33e7863cfc596f47c9ea9d67f83b102d",
+      "proposer" : "quinto",
+      "proposerLr2id" : 141043,
+      "sha256" : "2a23b22e82ae57f3fcafe29e19eadd7844685d274d237b4ece2e04222390c3c0",
+      "submission" : 1545,
+      "title" : "SpringField [Another]",
+      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=49&order=reg&odtype=a",
+      "url_diff" : "",
+      "zureCount" : 0
    },
    {
       "artist" : "吟世かいな obj : 8posai",
@@ -14088,6 +14115,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "紅蓮月影 BGA:A-ZERO Project / obj:七海",
+      "comment" : "同梱02_andro_h基準03、08、09レーンでズレがありますがそれはBPM、STOPと関連するレーンです。コメントで続きます。",
+      "level" : "12",
+      "md5" : "a887816dc80ae5801a6786d9ef6d5daf",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "c7b5efbb331befbbae2e2a0ffa94ce101425a83d30e9b700f83875e8f9179325",
+      "submission" : 1546,
+      "title" : "Andro -Despair-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=238&event=104",
+      "url_diff" : "https://www.dropbox.com/s/hqnx9cf2fjvi021/andro_fix.zip?dl=1"
+   },
+   {
       "artist" : "judithz / И",
       "level" : "0",
       "md5" : "a89ac1090bceeca352bccfc0801bc5c4",
@@ -17900,6 +17940,20 @@
       "title" : "Shamshir -rough Pt.2- [7key,Hard]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=323&event=127",
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
+   },
+   {
+      "artist" : "-45 / obj.Restia",
+      "comment" : "連打+皿複合",
+      "level" : "12",
+      "md5" : "ce9d182ba0589cd72b46cae50977ba59",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "eaa7a11963ba0adf3b91a101ade008f2949809a693d7c17f7016e6922813b0ae",
+      "submission" : 1543,
+      "title" : "BGT-No.15 [MORTAL]",
+      "url" : "https://1drv.ms/u/s!ApwaJAUHJdpyjigMFQcMGgleIAhl?e=5k0RQv",
+      "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpylzwirLRxJWVZMoRf?e=iGv0Zo",
+      "zureCount" : 0
    },
    {
       "artist" : "m108 / obj : lemon_aided BGA : 砂糖天麩羅 / シキイチル",

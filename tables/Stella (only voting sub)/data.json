@@ -13,6 +13,20 @@
       "url_diff" : "https://bms.parksulab.xyz"
    },
    {
+      "artist" : "R.M. / selene.",
+      "comment" : "1~2?",
+      "level" : "2",
+      "md5" : "38748a52cf56f1d3599c067aba791b26",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "411e2524df5cec44eb4522e4e67769685c343e9c9de8fcb5f2b05313984de550",
+      "submission" : 1203,
+      "title" : "Gecko -Heaven-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=123&num=89",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03395",
+      "zureCount" : 0
+   },
+   {
       "artist" : "nekomimi_STRaw & kju8 pattern for some reason",
       "comment" : "同梱の_templete.disagree基準ズレ抜け無し",
       "level" : "1",
@@ -24,6 +38,20 @@
       "title" : "Agree to disagree [for some reason]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=289&event=127",
       "url_diff" : "https://fsrs.github.io/table.html"
+   },
+   {
+      "artist" : "ARMYTOM obj:秘密",
+      "comment" : "GOD",
+      "level" : "0",
+      "md5" : "5a92a023a9746fdbc031a94aadc89a82",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "6155970bb286958f5f69c003b76601c02a7707643e4f5e69bbcc38e93f390745",
+      "submission" : 1202,
+      "title" : "ΩXIII [GOD]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/%ce%a9XIII%20%28by%20ARMYTOM%29.rar",
+      "url_diff" : "http://hiiiii.web.fc2.com/sabun/insane.html",
+      "zureCount" : 0
    },
    {
       "artist" : "Shinji Hirano / obj:Rian",
@@ -80,6 +108,22 @@
       "voteNo" : 0,
       "votePercent" : 100,
       "voteYes" : 4
+   },
+   {
+      "artist" : "Freezer feat. 妃苺 obj.hex",
+      "level" : "0",
+      "md5" : "cdf6f272f0128bf9a1a926d60c5fec73",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "ad5dcb25f64868e63f88a6588e91c124b4c03337feb567b92bc7189fe06d1df9",
+      "submission" : 529,
+      "title" : "べりごっごっご！",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=116",
+      "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html",
+      "voteNeutral" : 0,
+      "voteNo" : 5,
+      "votePercent" : 16.6666666666667,
+      "voteYes" : 1
    },
    {
       "artist" : "Ice",
