@@ -127,6 +127,19 @@
       "voteYes" : 8
    },
    {
+      "artist" : "Personative vs. void obj:monaka",
+      "level" : "7",
+      "md5" : "8174382cc239d3c6edc17d85f564fa07",
+      "proposer" : "Restia",
+      "proposerLr2id" : 115265,
+      "sha256" : "ffdefdce36df4b9fd12e48c6e542cf2c1f3fd7c9cfa68b7ed63995f82fbbeebd",
+      "submission" : 1549,
+      "title" : "The Solution [Demonstration]",
+      "url" : "https://onedrive.live.com/?authkey=%21ALMEGVNOf0CLwlk&id=F0FDD6D137C174FA%21264&cid=F0FDD6D137C174FA",
+      "url_diff" : "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view?usp=sharing",
+      "zureCount" : 0
+   },
+   {
       "artist" : "MITCH DOWNVELL [obj. vi]",
       "comment" : "皿、ガチ押し",
       "level" : "3",
@@ -165,6 +178,19 @@
       "submission" : 1524,
       "title" : "RAKUGAKI NOTE",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=84&event=131",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "EXCITECH",
+      "comment" : "同梱",
+      "level" : "0",
+      "md5" : "9c8310a534805f4096a208b56a3e692f",
+      "proposer" : "|/|",
+      "proposerLr2id" : 147895,
+      "sha256" : "9ee954f0c18b00e3497bed5df92b16f2cd24e5ee663ecf80be1e5abb3ebee88f",
+      "submission" : 1547,
+      "title" : "Hypertext Transfer Protocol (SP ANOTHER)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=83",
       "url_diff" : ""
    },
    {
@@ -235,6 +261,20 @@
       "title" : "Journey Through the Full Moon [Vallis Palitzsch]",
       "url" : "https://www.dropbox.com/s/1v20nfvsjqpszc0/Journey_Through_the_Full_Moon_ogg.zip?dl=0",
       "url_diff" : "https://trfce.github.io/sabun/(112)Journey_Through_the_Full_Moon_triforce.zip",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "-45 Obj.Triforce",
+      "comment" : "発狂入門",
+      "level" : "0",
+      "md5" : "c71289ba15288c25ecb87fb77e7d7850",
+      "proposer" : "Restia",
+      "proposerLr2id" : 115265,
+      "sha256" : "e4b9065f7afb049d6b537979b9b2cd7f3066d04466a7bbc86f6ccbd35eea4145",
+      "submission" : 1548,
+      "title" : "樟葉 [Anthem]",
+      "url" : "http://malie.noor.jp/archive/kusuha.rar",
+      "url_diff" : "https://trfce.github.io/sabun/(115)kusuha_Triforce.zip",
       "zureCount" : 0
    },
    {
