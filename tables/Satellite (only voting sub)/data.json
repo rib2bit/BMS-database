@@ -26,6 +26,19 @@
       "url_diff" : "https://bms.parksulab.xyz"
    },
    {
+      "artist" : "Lycoris vs. Pied d'Alouette",
+      "comment" : "中速乱打",
+      "level" : "8",
+      "md5" : "12465f3ced547f6a6735f94c9f6751b1",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "eb2ba98abba94b7c4f58e0b44d99b4443ede4554edc52260b1454d27dcfa0c41",
+      "submission" : 1550,
+      "title" : "Kaleidoscope [SP INSANE]",
+      "url" : "https://venue.bmssearch.net/mutualfaith3/4",
+      "url_diff" : ""
+   },
+   {
       "artist" : "ITSUHA. + Rakuno.α obj : BAECON vs SETSUKA",
       "comment" : "sl2~3?",
       "level" : "2",
@@ -290,6 +303,19 @@
       "url" : "https://1drv.ms/u/s!ApwaJAUHJdpyjigMFQcMGgleIAhl?e=5k0RQv",
       "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpylzwirLRxJWVZMoRf?e=iGv0Zo",
       "zureCount" : 0
+   },
+   {
+      "artist" : "翡乃イスカ × otoshi.b BGI : 幸健兎 × はしたかさん / obj : BAECON",
+      "comment" : "高速",
+      "level" : "11",
+      "md5" : "dffb00869b1133caa1e64473ad771936",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "fa847927a9bf9457fe56f840aa536a2699b3148273c35418ef33bff4d7dac882",
+      "submission" : 1551,
+      "title" : "Twin☆kle Galaxies [Fortunate Groove]",
+      "url" : "https://venue.bmssearch.net/mutualfaith3/10",
+      "url_diff" : ""
    },
    {
       "artist" : "utzbo",
