@@ -1873,6 +1873,18 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Kuwagata",
+      "level" : "0",
+      "md5" : "151c530571c2d311ff953b7092f1abb8",
+      "proposer" : "bluemouse",
+      "proposerMinirid" : "38b6fd3c-5f86-4e87-aef8-3f9952471580",
+      "sha256" : "4d49d68b1058e49bbe383544f713984f352aad925750d1b5a3e7c50dc97a0a56",
+      "submission" : 1552,
+      "title" : "シグナルほっぴんぐ [Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=190&event=116",
+      "url_diff" : ""
+   },
+   {
       "artist" : "------",
       "comment" : "同封Another差分",
       "level" : "7",
