@@ -1185,6 +1185,18 @@
       "url_diff" : "http://akred.web.fc2.com/baecon/7_colors_PC.bme"
    },
    {
+      "artist" : "ITSUHA. + Rakuno.α obj : BAECON vs SETSUKA",
+      "comment" : "sl2~3?",
+      "level" : "2",
+      "md5" : "1a771f4983cdd9b0699af5a39cf43db5",
+      "proposer" : "qtp13",
+      "sha256" : "625aa419e6b4c0fd4773d079bb3a4557dbe2e8ed5fcec5f14b9070942cf59692",
+      "submission" : 1535,
+      "title" : "Crosstelia [SP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=120&event=116",
+      "url_diff" : ""
+   },
+   {
       "artist" : "w_tre obj:七海",
       "comment" : "高速/ズレ/ディレイ",
       "level" : "12",
@@ -1670,7 +1682,7 @@
    {
       "artist" : "カラフル・サウンズ・ポート obj:Fender",
       "comment" : "",
-      "level" : "1",
+      "level" : "0",
       "md5" : "21d50f01b479f73ec2933299249b1008",
       "proposer" : "|/|",
       "sha256" : "d3b489e80f49c278f34f5d17cff76654f723c4759993267f6f7d2811c6359b58",
@@ -3349,7 +3361,7 @@
    {
       "artist" : "vorbis / obj:marquee",
       "comment" : "乱打、少し皿複合",
-      "level" : "9",
+      "level" : "10",
       "md5" : "44c979d0816f80cbd35e3a840e644516",
       "proposer" : "BAECON",
       "sha256" : "c2301d51b011048b908c267d9fc8b188f14b091d73a6868be4d815102e9b45a3",
@@ -5092,6 +5104,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02500"
    },
    {
+      "artist" : "Nego_tiator BGI:*reinahitomi / obj. DK",
+      "comment" : "良譜面",
+      "level" : "1",
+      "md5" : "69ca3f64e59c20a04e28579aa810ef64",
+      "proposer" : "|/|",
+      "sha256" : "9880d3e60bc79784908b06557b5c6cca60aca3ca2cedf702ad076615375be584",
+      "submission" : 1538,
+      "title" : "Paracelestia [EX]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
+   },
+   {
       "artist" : "siromaru + cranky // movie: iimo // obj:SUZUKAZEΛ",
       "comment" : "4連打ビームある",
       "level" : "7",
@@ -5178,6 +5202,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01657"
    },
    {
+      "artist" : "hororo obj:zsele",
+      "comment" : "BPM150 乱打",
+      "level" : "2",
+      "md5" : "6b73ab790521416d75b49ac73bb19555",
+      "proposer" : "SHAX.",
+      "sha256" : "93a6c8842d6a7de831b0a441121173ea59868f98a191314518f76f146dfa0f01",
+      "submission" : 1525,
+      "title" : "Carnelian",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=81&event=131",
+      "url_diff" : ""
+   },
+   {
       "artist" : "LeaF Movie:Optie / obj:SUZUKAZEΛ",
       "comment" : "同時押し、皿絡み、高速階段",
       "level" : "5",
@@ -5201,6 +5237,18 @@
       "title" : "ロッカー -Unlock-",
       "url" : "http://leucine.web.fc2.com/",
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html"
+   },
+   {
+      "artist" : "篠螺悠那 feat. 鯛の小骨 / selene.",
+      "comment" : "32分混じりの乱打",
+      "level" : "12",
+      "md5" : "6c33abab29b20efcd8a8d1daa7811db7",
+      "proposer" : "かに",
+      "sha256" : "7cf5e055cb8dcd008abebd24f532c7eed5f898738ea4106c89d208377d849a00",
+      "submission" : 1375,
+      "title" : "Imperishable Night 2006 -Heaven-",
+      "url" : "http://web.archive.org/web/20111107054222/http://tsubu.ath.cx/~electrogic/bms/imp_bga_mq.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04228"
    },
    {
       "artist" : "nmk feat.橘花音 / obj:十六夜 BGA:わっふゑ",
@@ -6250,6 +6298,17 @@
       "url_diff" : "http://hiiiii.web.fc2.com/sabun/"
    },
    {
+      "artist" : "Personative vs. void obj:monaka",
+      "level" : "7",
+      "md5" : "8174382cc239d3c6edc17d85f564fa07",
+      "proposer" : "Restia",
+      "sha256" : "ffdefdce36df4b9fd12e48c6e542cf2c1f3fd7c9cfa68b7ed63995f82fbbeebd",
+      "submission" : 1549,
+      "title" : "The Solution [Demonstration]",
+      "url" : "https://onedrive.live.com/?authkey=%21ALMEGVNOf0CLwlk&id=F0FDD6D137C174FA%21264&cid=F0FDD6D137C174FA",
+      "url_diff" : "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view?usp=sharing"
+   },
+   {
       "artist" : "Freezer feat. 妃苺/obj:赤い人",
       "comment" : "同時押し、皿複合",
       "level" : "10",
@@ -7206,6 +7265,18 @@
       "submission" : 1186,
       "title" : "Sparkling☆Sunshine!! [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=127",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "kas_0120",
+      "comment" : "BPM168 乱打",
+      "level" : "9",
+      "md5" : "9680eaf3beed0ee172bcf772843c381e",
+      "proposer" : "SHAX.",
+      "sha256" : "c2d7829a5116e34295dd7373891d29f28514887c6a47daa73d75eb230eeca4ec",
+      "submission" : 1524,
+      "title" : "RAKUGAKI NOTE",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=84&event=131",
       "url_diff" : ""
    },
    {
@@ -8865,7 +8936,7 @@
    {
       "artist" : "天使真央 obj.森さん",
       "comment" : "BPM180 高速階段",
-      "level" : "8",
+      "level" : "9",
       "md5" : "b7143d7df5c81feddfdabefdf3704320",
       "proposer" : "SHAX.",
       "sha256" : "d43bef970c7c25262744bec74fdbc8e2aa820dc037d422cd7567d68a5d200c1a",
@@ -9466,6 +9537,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02580"
    },
    {
+      "artist" : "ああああ + 翡乃イスカ obj:いい靴",
+      "comment" : "高速/乱打/階段/ズレ/ディレイ",
+      "level" : "8",
+      "md5" : "c12683308c6abb86e8637bf0c914e780",
+      "proposer" : "かに",
+      "sha256" : "b8ec4aba755ee0a9419c229903d1470a0c349e3fbc9f521284ac70556f2208d3",
+      "submission" : 1531,
+      "title" : "ha＠ppy s＠mmer v＠c＠tion!! [Eb]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/ha%40ppy%20s%40mmer%20v%40c%40tion%21%21%20%28by%20%e3%81%82%e3%81%82%e3%81%82%e3%81%82%20%2b%20%e7%bf%a1%e4%b9%83%e3%82%a4%e3%82%b9%e3%82%ab%29.rar",
+      "url_diff" : "http://eboots.ashigaru.jp/"
+   },
+   {
       "artist" : "Ym1024 feat. lamie* / obj: かに Movie : Milk_tya / 恋々",
       "comment" : "自薦です",
       "level" : "1",
@@ -9728,6 +9811,18 @@
       "title" : "◆ B a r o q u e ◆ －Reincarnation－",
       "url" : "http://www.mediafire.com/download/a6a6g72axrnp490/%E2%97%86+B+a+r+o+q+u+e+%E2%97%86.rar",
       "url_diff" : "http://sabunbun.yukihotaru.com/sabunokiba.html"
+   },
+   {
+      "artist" : "-45 Obj.Triforce",
+      "comment" : "発狂入門",
+      "level" : "0",
+      "md5" : "c71289ba15288c25ecb87fb77e7d7850",
+      "proposer" : "Restia",
+      "sha256" : "e4b9065f7afb049d6b537979b9b2cd7f3066d04466a7bbc86f6ccbd35eea4145",
+      "submission" : 1548,
+      "title" : "樟葉 [Anthem]",
+      "url" : "http://malie.noor.jp/archive/kusuha.rar",
+      "url_diff" : "https://trfce.github.io/sabun/(115)kusuha_Triforce.zip"
    },
    {
       "artist" : "LeaF / obj:いい靴 Movie:To7",
@@ -10932,6 +11027,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "翡乃イスカ × otoshi.b BGI : 幸健兎 × はしたかさん / obj : BAECON",
+      "comment" : "高速",
+      "level" : "11",
+      "md5" : "dffb00869b1133caa1e64473ad771936",
+      "proposer" : "氷城つるぎ",
+      "sha256" : "fa847927a9bf9457fe56f840aa536a2699b3148273c35418ef33bff4d7dac882",
+      "submission" : 1551,
+      "title" : "Twin☆kle Galaxies [Fortunate Groove]",
+      "url" : "https://venue.bmssearch.net/mutualfaith3/10",
+      "url_diff" : ""
+   },
+   {
       "artist" : "U.N.E.",
       "comment" : "BOFXV、中速乱打、皿",
       "level" : "2",
@@ -11390,7 +11497,7 @@
    {
       "artist" : "Xacla feat. Kate Lesing movie:cislv / obj:trainer",
       "comment" : "中速感謝譜面",
-      "level" : "9",
+      "level" : "10",
       "md5" : "e7df53f94805d0d2a1976855eaded1c4",
       "proposer" : "yy",
       "sha256" : "ceb8e700e2ce80b46e9bc8ffbd982ad861e569f8b3a838077e1e0503c82bfe01",
@@ -11591,6 +11698,18 @@
       "title" : "Chatblanc [clonter]",
       "url" : "https://web.archive.org/web/20141124133307/http://str3.org/data/roop/roop_chatblanc.zip",
       "url_diff" : "http://www.dropbox.com/s/w158rk0qjsppla7/roop_chatblanc_triforce.bms?dl=1"
+   },
+   {
+      "artist" : "utzbo",
+      "comment" : "同梱譜面",
+      "level" : "0",
+      "md5" : "ec8ae0a233a5f96ecb6928dfda106f06",
+      "proposer" : "bluemouse",
+      "sha256" : "965cc4f15bce3e71b17d1224b79f69832d4538c7bc3a902a6fff752277461be9",
+      "submission" : 1536,
+      "title" : "Secret Order [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=131",
+      "url_diff" : ""
    },
    {
       "artist" : "Lokan",
@@ -12205,7 +12324,7 @@
    {
       "artist" : "SUZUKI obj.onzonium",
       "comment" : "",
-      "level" : "1",
+      "level" : "0",
       "md5" : "fa0a38f2a1a45edbf0388492fde8c35b",
       "proposer" : "Mallow♪",
       "sha256" : "dbf751acfed875a6ce2465e568b9e0528dc4476bcfb71775da02182276cfd864",

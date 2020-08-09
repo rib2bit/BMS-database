@@ -1,19 +1,5 @@
 [
    {
-      "artist" : "カラフル・サウンズ・ポート / obj.LetsOTL",
-      "comment" : "4~5? 階段、乱打",
-      "level" : "4",
-      "md5" : "09d1c8ce11ca00865862fd4a94d00250",
-      "proposer" : "にゃむ",
-      "proposerLr2id" : 139958,
-      "sha256" : "1495dce5c9b287e9f9123a8044019487ba8d34a1feaacb90c41249d498aba270",
-      "submission" : 364,
-      "title" : "Granblaze [DP ANOTHER]",
-      "url" : "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/folder/UB8gABwB",
-      "url_diff" : "http://www.dropbox.com/s/5wfbukhp6wsuhe1/granblaze_dp.zip?dl=0",
-      "zureCount" : 0
-   },
-   {
       "artist" : "Aoi mov:出前 / obj.LetsOTL",
       "comment" : "片手16分乱打と階段・連皿 1～2?",
       "level" : "2",
@@ -72,20 +58,6 @@
       "voteYes" : 3
    },
    {
-      "artist" : "ROKINA BGA:REI-K OBJ:Yosk!",
-      "comment" : "早い同時押しと乱打、中盤連皿",
-      "level" : "0",
-      "md5" : "2afacbc7bb2786a748d366fe4da62014",
-      "proposer" : "selene.",
-      "proposerLr2id" : 84521,
-      "sha256" : "35fb7a59f16d9c6eaf3b5a366461477dabdd45d590009aad0cdfda24badb9fb1",
-      "submission" : 378,
-      "title" : "キミとボクへの葬送歌 [DP NORMAL]",
-      "url" : "http://nekokan.dyndns.info/~lobsak/genocide/grade.html",
-      "url_diff" : "",
-      "zureCount" : 0
-   },
-   {
       "artist" : "Festa  obj:右手が恋人 鑓田(alpha complex)",
       "level" : "8",
       "md5" : "3969aa2fbc8482d5ba23aafbc1a167db",
@@ -100,34 +72,6 @@
       "voteNo" : 0,
       "votePercent" : 75,
       "voteYes" : 2
-   },
-   {
-      "artist" : "Kyuzo Sameura obj:RaiN",
-      "comment" : "8~9?、ズレ、PABAT2020",
-      "level" : "9",
-      "md5" : "4042deb9de11b3c67d8e70e4668fe51d",
-      "proposer" : "JHS",
-      "proposerLr2id" : 128228,
-      "sha256" : "910b01d50009731a1c2094e84d4170730834993d921a926ab4b373dc08804577",
-      "submission" : 374,
-      "title" : "reflection [ADDICTION2DP]",
-      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=33&order=reg&odtype=a",
-      "url_diff" : "https://ux.getuploader.com/dpbms/download/906",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "Kuwagata feat.つゆり花鈴 / obj.にゃむ",
-      "comment" : "3~4、同時押し、甘ゲージ、ハード難",
-      "level" : "4",
-      "md5" : "80abcecd639e29fc8d7eaa5fcfa89403",
-      "proposer" : "JHS",
-      "proposerLr2id" : 128228,
-      "sha256" : "f36dfa814f383e3272c27fe914f3dfd77cac107bc0afa882dbfb8cec8d50c019",
-      "submission" : 357,
-      "title" : "夢の地図と僕らの旅 [MAP]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=287&event=123",
-      "url_diff" : "https://stellabms.xyz/upload/133",
-      "zureCount" : 0
    },
    {
       "artist" : "翡乃イスカ / obj:十六夜",

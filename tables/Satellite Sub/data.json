@@ -3078,7 +3078,7 @@
    {
       "artist" : "カラフル・サウンズ・ポート obj:Fender",
       "comment" : "",
-      "level" : "1",
+      "level" : "0",
       "md5" : "21d50f01b479f73ec2933299249b1008",
       "proposer" : "|/|",
       "proposerLr2id" : 147895,
@@ -6006,7 +6006,7 @@
    {
       "artist" : "vorbis / obj:marquee",
       "comment" : "乱打、少し皿複合",
-      "level" : "9",
+      "level" : "10",
       "md5" : "44c979d0816f80cbd35e3a840e644516",
       "proposer" : "BAECON",
       "proposerLr2id" : 46122,
@@ -7392,6 +7392,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "夢幻 海 obj:goe",
+      "comment" : "sl9+ (up6986)",
+      "level" : "10",
+      "md5" : "53f8be00ad117670c36e25bd521599b7",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "2146ad41c3d1e82c6212678d7dbd05a07c2e7c88dd5ff9849ceaf8a1690eb04b",
+      "submission" : 1556,
+      "title" : "ピアノ狂詩曲第壱番”天嵐戒” [7G]",
+      "url" : "https://onedrive.live.com/?id=28AD024975AC04A4%21136&cid=28AD024975AC04A4",
+      "url_diff" : "http://absolute.pv.land.to/uploader/upload.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "しらいし / 32 / obj:firi.",
       "comment" : "Enjoy delay!",
       "level" : "10",
@@ -8327,6 +8341,19 @@
       "title" : "ベストフレンド -しぬがよい-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=227&event=88",
       "url_diff" : "https://www.dropbox.com/s/cxrs9oxyunw2k7n/_bestfriend-kozue.bme?dl=0"
+   },
+   {
+      "artist" : "∀S∀",
+      "comment" : "同梱譜面。",
+      "level" : "0",
+      "md5" : "5f219830b3c12bd694ae098e70f441e6",
+      "proposer" : "quinto",
+      "proposerLr2id" : 141043,
+      "sha256" : "963dacfde184ce036572ecb942701d664e293aa05ebae177be4623eb1e815c41",
+      "submission" : 1558,
+      "title" : "Drift TAXI [7k Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=126",
+      "url_diff" : ""
    },
    {
       "artist" : "mossari feat.TEA obj:SUZUKAZEΛ",
@@ -9404,6 +9431,19 @@
       "title" : "Bubble Flower [Etude]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=123",
       "url_diff" : "http://bms.parksulab.xyz"
+   },
+   {
+      "artist" : "juno & une Sliced by DAC",
+      "comment" : "連打、追加音源あり",
+      "level" : "2",
+      "md5" : "6cd7805803e5dcbfea91b24de3fce017",
+      "proposer" : "|/|",
+      "proposerLr2id" : 147895,
+      "sha256" : "ae6f719a96b8d2f8e226a364a64e5b4201190612918cf7f4ec873c7c6c69e308",
+      "submission" : 1553,
+      "title" : "The Beginnings [2k20 reinterpretation]",
+      "url" : "http://web.archive.org/web/20121017142020/http://www2.pf-x.net/~bforb/begin.lzh",
+      "url_diff" : "https://fsrs.github.io/sabun/M-SPIN/begin_2k20.zip"
    },
    {
       "artist" : "nmk feat.橘花音 / obj:十六夜 BGA:わっふゑ",
@@ -10743,6 +10783,19 @@
       "title" : "Subterranean Blastoff -Stellar Overhaul-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=63&event=127",
       "url_diff" : ""
+   },
+   {
+      "artist" : "MORRIGAN / obj:Felisica",
+      "comment" : "BPM175 乱打、正確度の修練、追加音源あり",
+      "level" : "12",
+      "md5" : "7c6a1c1af2862f457bc8dababc84f59c",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "8c8fbeda570e0fbeead5d97f230dfd7051f24a08ac01ab2b04ad2e1e4fb4e92a",
+      "submission" : 1555,
+      "title" : "the core [core]",
+      "url" : "http://web.archive.org/web/20070105100125/http://pal.mydns.to:80/morrigan/jazz/bms/core.rar",
+      "url_diff" : "http://fuki1755.starfree.jp/sabun/the_core_fel.zip"
    },
    {
       "artist" : "Nardis BGA: 鑓田 (alpha complex) OBJ: swa",
@@ -14274,6 +14327,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "kunzite + BBBB / obj:Mr.Faine",
+      "comment" : "BPM148 微連打",
+      "level" : "8",
+      "md5" : "a918d1e97aab52bd15034e211242fd72",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "5ec53d7cc71eabe8424b2bdcabbbf439861d5df9bd5b1f76dff0f2721f5d9465",
+      "submission" : 1554,
+      "title" : "Exploration the Giotto [COMET]",
+      "url" : "https://venue.bmssearch.net/mutualfaith3/16",
+      "url_diff" : ""
+   },
+   {
       "artist" : "KaKi",
       "level" : "3",
       "md5" : "a92929741cd51d0c4dfd311c248f6780",
@@ -15714,7 +15780,7 @@
    {
       "artist" : "天使真央 obj.森さん",
       "comment" : "BPM180 高速階段",
-      "level" : "7",
+      "level" : "9",
       "md5" : "b7143d7df5c81feddfdabefdf3704320",
       "proposer" : "SHAX.",
       "proposerLr2id" : 65624,
@@ -16620,6 +16686,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "xyst (BGI Mirexi_K)",
+      "comment" : "優しいテクニック譜面",
+      "level" : "6",
+      "md5" : "bed8c515b04d9fa79d19d51a57890a28",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "70c9d0753d34385e9da19e9a2b9c6ea52e640d4b0d17d21213b3b732793ab415",
+      "submission" : 1557,
+      "title" : "さいこ゛のたたかい /たひ゛のおわり [7Key Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=557&event=110",
+      "url_diff" : "",
+      "zureCount" : 0
    },
    {
       "artist" : "kanone",
@@ -20077,7 +20157,7 @@
    {
       "artist" : "Xacla feat. Kate Lesing movie:cislv / obj:trainer",
       "comment" : "中速感謝譜面",
-      "level" : "9",
+      "level" : "10",
       "md5" : "e7df53f94805d0d2a1976855eaded1c4",
       "proposer" : "yy",
       "proposerLr2id" : 77811,
@@ -21619,7 +21699,7 @@
    {
       "artist" : "SUZUKI obj.onzonium",
       "comment" : "",
-      "level" : "1",
+      "level" : "0",
       "md5" : "fa0a38f2a1a45edbf0388492fde8c35b",
       "proposer" : "Mallow♪",
       "proposerLr2id" : 154796,
