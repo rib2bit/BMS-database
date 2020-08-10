@@ -105,6 +105,20 @@
       "url_diff" : "https://fsrs.github.io/sabun/M-SPIN/begin_2k20.zip"
    },
    {
+      "artist" : "M-UE ◇ sak Illust: はし◇たか / obj:SUZUKAZEΛ",
+      "comment" : "4~5?",
+      "level" : "4",
+      "md5" : "739168d15704d3e8166ac9347e959b84",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "30327e81b6e0876746fd54e1bce9eb698c6e6613190920dc292a4a8ad92e36d1",
+      "submission" : 1559,
+      "title" : "Pumpkin ◇ Magic [ZOI]",
+      "url" : "https://venue.bmssearch.net/mutualfaith3/13",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "MORRIGAN / obj:Felisica",
       "comment" : "BPM175 乱打、正確度の修練、追加音源あり",
       "level" : "12",
@@ -182,5 +196,19 @@
       "title" : "synodion [SP BLACK ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=131",
       "url_diff" : ""
+   },
+   {
+      "artist" : "L-Mys / selene.",
+      "comment" : "NORMAL判定",
+      "level" : "3",
+      "md5" : "f7f8125e7670c8a96d33d093e637c349",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "70d1949461095686c27c4ad3b4ada697b191773c1cc51dd7f63d091e816b82bc",
+      "submission" : 1560,
+      "title" : "Lucifuge Rofocale (twilight)",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/Lucifuge%20Rofocale%20%28by%20L-Mys%29.rar",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
+      "zureCount" : 0
    }
 ]

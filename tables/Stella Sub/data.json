@@ -2707,6 +2707,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Feryquitous movie:Sight / gimmick:from [Ego]",
+      "comment" : "",
+      "level" : "4",
+      "md5" : "2b1ae8441aeee72aaa68362edccd2601",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "4bbe8c8eb5fbbf2529aa4cb8b40537cc492e6807ad347325a9a1c1357a91d68e",
+      "submission" : 1213,
+      "title" : "Dstorv [undefined]",
+      "url" : "https://dropbox.bms.ms/u/34035220/%5BFeryquitous%5DDistorv.rar",
+      "url_diff" : "https://bms.parksulab.xyz",
+      "zureCount" : 0
+   },
+   {
       "artist" : "otoshi.b Movie:Arishima_Caprico / obj.mute",
       "level" : "4",
       "md5" : "2b5c45cbbe5ce2539c8548d5d523e11f",
@@ -3897,6 +3911,19 @@
       "title" : "Conglomerate [INSANE]",
       "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=7",
       "url_diff" : ""
+   },
+   {
+      "artist" : "Juggernaut. bga:drowseland obj:Rian",
+      "level" : "6",
+      "md5" : "3b693c15dbdf39f31b6d94477f091900",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "447e775e3af1e0744372da3fbcc3ed998b6c878bd7adc31ad1597cff1bd51b57",
+      "submission" : 1212,
+      "title" : "Revenant [Vanquishment]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=319&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02669",
+      "zureCount" : 0
    },
    {
       "artist" : "sa10 obj : LindBlum",
