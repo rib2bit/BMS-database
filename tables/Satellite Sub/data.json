@@ -14136,6 +14136,19 @@
       "url_diff" : "http://akred.web.fc2.com/crossgalaxy_INFELNO.bms"
    },
    {
+      "artist" : "穴楽 / obj:Rian",
+      "comment" : "アップローダーの製作者のコメントによると、「追加音源・ディレイ有。差分2譜面間でズレがないことを確認済」。",
+      "level" : "10",
+      "md5" : "a7c645ec4136c4eb25f10a7556770153",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "ce95d7670b3ba2abcd0d0928dc6956e9b17ad4d523e38c623e06d92f9778cdcc",
+      "submission" : 1562,
+      "title" : "Redestruct (secret)",
+      "url" : "https://web.archive.org/web/20120410154435/http://kurenaissance.web6.jp/bms/redestruct.rar",
+      "url_diff" : "https://stellabms.xyz/upload/263"
+   },
+   {
       "artist" : "Spire",
       "comment" : "トリルと階段",
       "level" : "0",
@@ -19146,6 +19159,19 @@
       "title" : "Re/Im [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=238&event=110",
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html"
+   },
+   {
+      "artist" : "Ino loves みずたま & 加藤裕幸(sweez) / obj:Sphere",
+      "comment" : "ズレあり（詳細はreadmeにて）",
+      "level" : "8",
+      "md5" : "dc77bd7acccaeb391ea39043736cb72c",
+      "proposer" : "SANY",
+      "proposerLr2id" : 128405,
+      "sha256" : "342907b2b4d7cb2e5c669601d8e5504975474018285709fef10fcf267f71981a",
+      "submission" : 1561,
+      "title" : "ナツイノ [涼風]",
+      "url" : "https://dropbox.bms.ms/u/53751238/Ino_BOFU2016_Natsuino_OGG.zip",
+      "url_diff" : "https://darksabun.github.io/event/mf/"
    },
    {
       "artist" : "P.E. / A!key / RAY あ",

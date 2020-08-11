@@ -14,6 +14,20 @@
       "zureCount" : 0
    },
    {
+      "artist" : "MONO / obj:夢瑠",
+      "comment" : "地力",
+      "level" : "0",
+      "md5" : "28d43d02b22a9bd755b8269a7d7cd497",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "1dfe776b7d902c3ff2144083f8704e9c781cdb9de6417e94bb93a6bddbaf134f",
+      "submission" : 1214,
+      "title" : "Harder Experience [yumether]",
+      "url" : "https://dropbox.bms.ms/u/28376944/harderex_mono.zip",
+      "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Feryquitous movie:Sight / gimmick:from [Ego]",
       "comment" : "",
       "level" : "4",
@@ -66,6 +80,20 @@
       "title" : "Agree to disagree [for some reason]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=289&event=127",
       "url_diff" : "https://fsrs.github.io/table.html"
+   },
+   {
+      "artist" : "Puru pattern for some reason with bms newbie feat α-Gorila",
+      "comment" : "インダストリー4.0時代の人工知能が手助けした譜面",
+      "level" : "2",
+      "md5" : "57762b6934a6462cad1bd616b6f5b5b0",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "c55dd9e572547117d5e2a3ee6eadb84bc02dbefbe737e10488faf4b58856745d",
+      "submission" : 1215,
+      "title" : "Grimheart [Project AG]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=490&event=110",
+      "url_diff" : "https://bms.parksulab.xyz",
+      "zureCount" : 0
    },
    {
       "artist" : "Synchronous Vision (MONO&1B) / mikasa",
