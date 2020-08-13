@@ -64,6 +64,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "姉ヶ崎 寧々 BGA : photonskyto",
+      "comment" : "同梱譜面、高total",
+      "level" : "0",
+      "md5" : "311177dd7bad3b57b02fb379d5cd2fbe",
+      "proposer" : "bluemouse",
+      "proposerMinirid" : "38b6fd3c-5f86-4e87-aef8-3f9952471580",
+      "sha256" : "95d2058d952c8e5a046ce57bffed9c89340a064e89cdd384b50d534807df1b9f",
+      "submission" : 1566,
+      "title" : "ZENITHALIZE [SP ANOTHER]",
+      "url" : "http://electro-planet.net/loveplus/zenithalize.html",
+      "url_diff" : ""
+   },
+   {
       "artist" : "QH.",
       "comment" : "同梱譜面。",
       "level" : "6",
@@ -185,6 +198,19 @@
       "voteNo" : 1,
       "votePercent" : 85,
       "voteYes" : 8
+   },
+   {
+      "artist" : "void Momomi Aoyama",
+      "comment" : "0~1、同梱",
+      "level" : "0",
+      "md5" : "a69797e5735be285a032d519788f2424",
+      "proposer" : "|/|",
+      "proposerLr2id" : 147895,
+      "sha256" : "ac12da84ca9e9da2c0a6e16c6890d005c258a22e2eb4b6037e1002e6086dda0f",
+      "submission" : 1565,
+      "title" : "Valedict",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=355&event=83",
+      "url_diff" : ""
    },
    {
       "artist" : "穴楽 / obj:Rian",
