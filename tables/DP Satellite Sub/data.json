@@ -1044,6 +1044,20 @@
       "url_diff" : "https://ux.getuploader.com/dpbms/download/535"
    },
    {
+      "artist" : "Is-m/lydian BGA:murotani",
+      "comment" : "同梱譜面　大階段練習　微ソフラン",
+      "level" : "0",
+      "md5" : "3c9c4e2b3fceb51dd48f459d5d297c3a",
+      "proposer" : "selene.",
+      "proposerLr2id" : 84521,
+      "sha256" : "3a6b3a2c2ea5648c2293d1a6ee1a655424ebdc769b54b2fd92da2af24f62fa6a",
+      "submission" : 384,
+      "title" : "Symphonic Rhapsody op.1 \"Aster\" -DP HYPER-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=116",
+      "url_diff" : "",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Reku Mochizuki obj:RaiN",
       "comment" : "PABAT2020",
       "level" : "9",
@@ -1573,6 +1587,20 @@
       "url_diff" : "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download"
    },
    {
+      "artist" : "しーけー obj:Yosk!",
+      "comment" : "0～1 BPM230の8分乱打",
+      "level" : "0",
+      "md5" : "60475510ddfca1fe52635ec995980e8b",
+      "proposer" : "selene.",
+      "proposerLr2id" : 84521,
+      "sha256" : "f349daf5c64a3e81d21a174c1215bfac60bddae50edc491b5692412f64e58c23",
+      "submission" : 383,
+      "title" : "クロートーと星の観測者",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=215&event=104",
+      "url_diff" : "http://nekokan.dyndns.info/~lobsak/genocide/grade.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "しらいし / obj:Louis",
       "comment" : "階段、トリル、連皿",
       "level" : "10",
@@ -1848,6 +1876,20 @@
       "url_diff" : "http://flowermaster.web.fc2.com/"
    },
    {
+      "artist" : "Gabriel illust : VARD / movie : lapelistar / obj : Sobrem",
+      "comment" : "同梱譜面　乱打",
+      "level" : "0",
+      "md5" : "71bc274a1042e15361058fc79dda3745",
+      "proposer" : "selene.",
+      "proposerLr2id" : 84521,
+      "sha256" : "75aa00a6d8fba8fc8c204fc659e86ead91f7938dcbb217537096c2fa9ace8ac4",
+      "submission" : 381,
+      "title" : "Estella [DP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=127&num=340",
+      "url_diff" : "",
+      "zureCount" : 0
+   },
+   {
       "artist" : "sugar BGI : なぎうなぎ / Logo : LOTUS",
       "level" : "2",
       "md5" : "71bd48fc050b88d529db151685ab1cc9",
@@ -1910,6 +1952,20 @@
       "title" : "2anyFirst [14-A]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=209&event=127",
       "url_diff" : ""
+   },
+   {
+      "artist" : "mitssi feat. SeeU Movie: Sabhwa Note: LiTaNia / reobj:Louis",
+      "comment" : "片手12分階段・乱打",
+      "level" : "1",
+      "md5" : "73e1a67c683004e499d6a40e91fcc0d6",
+      "proposer" : "selene.",
+      "proposerLr2id" : 84521,
+      "sha256" : "f5543f1084352578c1a0195ee398c60831b5fc215835d4f55f7a5f70c9535bee",
+      "submission" : 385,
+      "title" : "あなた [DP HYPER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=382&event=83",
+      "url_diff" : "http://slash24th.web.fc2.com/",
+      "zureCount" : 0
    },
    {
       "artist" : "mossari feat.TEA obj:kuro",
@@ -4307,6 +4363,20 @@
       "title" : "new earth -dp stella-",
       "url" : "https://dropbox.bms.ms/u/28765267/er_new-earth.zip",
       "url_diff" : "https://stellabms.xyz/upload/144",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "Cosmograph obj. Limite",
+      "comment" : "同梱譜面　同時押し・片手乱打と階段",
+      "level" : "1",
+      "md5" : "f17af7878927e3a3c6e4fb84a14e6682",
+      "proposer" : "selene.",
+      "proposerLr2id" : 84521,
+      "sha256" : "d7707d590001167d8ff8fecea6e2a5fa26c68844f95e066f5f4411854ed263b7",
+      "submission" : 382,
+      "title" : "Comet (BMS Edit) [DP ANOTHER]",
+      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=38&order=reg&odtype=a",
+      "url_diff" : "",
       "zureCount" : 0
    },
    {
