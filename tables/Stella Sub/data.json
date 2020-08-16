@@ -8074,6 +8074,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "あとぅす Illust:Micelle/Movie:TM",
+      "comment" : "BPM164 乱打、ラスト微連打",
+      "level" : "0",
+      "md5" : "75f2b44a3f1b0222b1c848f5cf054ad3",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "8057ba879f0aa5b871642ef11facb029d5c6b97d3b5c3d51ff28efa0be107267",
+      "submission" : 1216,
+      "title" : "LiVEMeTAL [IRREGULAR]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=131",
+      "url_diff" : ""
+   },
+   {
       "artist" : "ああああ obj.#",
       "comment" : "",
       "level" : "9",
@@ -8792,6 +8805,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "6yen / И",
+      "comment" : "BPM182 同時押し、乱打、アレンジ差分",
+      "level" : "2",
+      "md5" : "83da3c5e8ab72154a4bcdcd139bdb86f",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "3efe6774857518428466bbb85082eabb2e5f1436f2162e198fbf4622fe50a438",
+      "submission" : 1217,
+      "title" : "on the sequence #3 [Apocalypsis]",
+      "url" : "https://onedrive.live.com/?cid=f0fdd6d137c174fa&id=F0FDD6D137C174FA%21239&lor=shortUrl",
+      "url_diff" : "https://bms.parksulab.xyz"
    },
    {
       "artist" : "SHIKI / 93",
