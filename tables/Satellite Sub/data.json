@@ -3179,6 +3179,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "MILK obj.quad",
+      "comment" : "乱打",
+      "level" : "1",
+      "md5" : "22a8fdf9c1dc7353c1ec62363244ac73",
+      "proposer" : "|/|",
+      "proposerLr2id" : 147895,
+      "sha256" : "c0da7a52e401e830b9da354b71f73b31dbe26789cd0b39d318df33b23f1941e1",
+      "submission" : 1571,
+      "title" : "kyrka [Mild(fix)]",
+      "url" : "http://diverse.jp/dbhtml/download.html",
+      "url_diff" : "https://www.dropbox.com/s/vjr6ta4oq3k7rlf/kyrka_fix.zip?dl=1",
+      "zureCount" : 0
+   },
+   {
       "artist" : "raii Movie:Albatrus obj:SANY",
       "comment" : "主に乱打",
       "level" : "9",
