@@ -453,7 +453,7 @@
    {
       "artist" : "suna",
       "comment" : "",
-      "level" : "7",
+      "level" : "8",
       "md5" : "086d4722e83aeaa818342a989335d31b",
       "proposer" : "firi.",
       "sha256" : "75c74cade02667e2a4e01f20ce9ae27773be5aa14bcbbe74626eb7304cda8677",
@@ -5779,19 +5779,6 @@
       "voteYes" : 0
    },
    {
-      "artist" : "Lime obj:Blocko",
-      "comment" : "BOFXV 乱打",
-      "level" : "0",
-      "md5" : "5580e8407abef96a303cba82a1eb605c",
-      "proposer" : "氷城つるぎ",
-      "proposerLr2id" : 151185,
-      "sha256" : "a43c7c7153586363e28ac2dca04d5b7b31b991c7212754ad61dc3ecd7e46f4a8",
-      "submission" : 1030,
-      "title" : "Aurora [Shine]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=330&event=127",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03509"
-   },
-   {
       "artist" : "w_tre obj.XYZ",
       "comment" : "@( '_J')==@ [@==('L_' )@]",
       "level" : "1",
@@ -9201,7 +9188,7 @@
    {
       "artist" : "sa10 / obj:けろささ",
       "comment" : "BPM 186 乱打、ディレイのようなズレ (音源定義の拡張子差のみ存在)",
-      "level" : "4",
+      "level" : "5",
       "md5" : "8a4327fac32beaa98779e80ca9785e24",
       "proposer" : "SHAX.",
       "proposerLr2id" : 65624,
@@ -10573,7 +10560,7 @@
    },
    {
       "artist" : "KAH BGA:自動車 原付 illust:りゅうら obj:LuvTek",
-      "level" : "1",
+      "level" : "2",
       "md5" : "9df6c993453aae1bc08b5272c15bf436",
       "proposer" : "MarySue",
       "proposerLr2id" : 147889,
@@ -15670,6 +15657,19 @@
       "url_diff" : "http://bms.hexlataia.xyz/sabun/%E2%98%85%E2%98%851%20%E3%82%A4%E3%83%8E%E3%83%AA%20%5BHexagon%5D.zip"
    },
    {
+      "artist" : "nmk feat.橘花音/obj.もにもに",
+      "comment" : "ディレイなどのズレあり",
+      "level" : "2",
+      "md5" : "ea770f494e2d1aedf3a44fb014b160f9",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "1c97215b0858745a33924414c685dd02afcd56cacc953f5f3301cdf634aebd4a",
+      "submission" : 1220,
+      "title" : "私のヒトミ [miracle]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=197&event=96",
+      "url_diff" : "https://stellabms.xyz/upload/236"
+   },
+   {
       "artist" : "裏 吉 川 / 3-1-2-1",
       "comment" : "aci-l delay",
       "level" : "6",
@@ -15949,6 +15949,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "L-Mys / bms newbie",
+      "comment" : "5~6? (すべてのズレとノーツが抜けているのは意図的です)",
+      "level" : "6",
+      "md5" : "ef6df2895d4c93f500a2e9ab487fe89c",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "13f170510f4c520c89eafd7f6c4ffcb64b505fce75b0c213fc05521c7a5e5680",
+      "submission" : 1219,
+      "title" : "Lucifuge Rofocale [EXPERT]",
+      "url" : "https://onedrive.live.com/?cid=CA7A5144414EC4CA&id=CA7A5144414EC4CA!405",
+      "url_diff" : "https://bms.parksulab.xyz"
    },
    {
       "artist" : "GNMD (Feat. Eve Yi) / ∞",

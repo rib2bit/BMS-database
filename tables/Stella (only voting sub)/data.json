@@ -1,33 +1,5 @@
 [
    {
-      "artist" : "Lycoris vs. Pied d'Alouette / obj:speiegelbeeld",
-      "comment" : "Total 350",
-      "level" : "3",
-      "md5" : "14a30eaad70ffdaf168f7ecb562e158a",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "f0dc245e381afb0b8c35381d7792ce9a1cefe966b4944a49baea8e5261ea4c6d",
-      "submission" : 1211,
-      "title" : "Kaleidoscope [FLOURESCENT]",
-      "url" : "https://venue.bmssearch.net/mutualfaith3/4",
-      "url_diff" : "",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "MONO / obj:夢瑠",
-      "comment" : "地力",
-      "level" : "0",
-      "md5" : "28d43d02b22a9bd755b8269a7d7cd497",
-      "proposer" : "MarySue",
-      "proposerLr2id" : 147889,
-      "sha256" : "1dfe776b7d902c3ff2144083f8704e9c781cdb9de6417e94bb93a6bddbaf134f",
-      "submission" : 1214,
-      "title" : "Harder Experience [yumether]",
-      "url" : "https://dropbox.bms.ms/u/28376944/harderex_mono.zip",
-      "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
-      "zureCount" : 0
-   },
-   {
       "artist" : "Feryquitous movie:Sight / gimmick:from [Ego]",
       "comment" : "",
       "level" : "4",
@@ -82,6 +54,22 @@
       "url_diff" : "https://fsrs.github.io/table.html"
    },
    {
+      "artist" : "SHIKI / selene.",
+      "level" : "5",
+      "md5" : "4dacf54b5871fd7e367cfe5a067e5851",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "cb9ab4d4ca1ce860b964057fc15833c39bd798be50e56e2005ccc2a6aa075368",
+      "submission" : 432,
+      "title" : "Air -GOD †-",
+      "url" : "http://web.archive.org/web/20051118202018/http://www.remarkablesense.org/~shiki/air.exe",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01466",
+      "voteNeutral" : 0,
+      "voteNo" : 3,
+      "votePercent" : 57.1428571428571,
+      "voteYes" : 4
+   },
+   {
       "artist" : "Puru pattern for some reason with bms newbie feat α-Gorila",
       "comment" : "インダストリー4.0時代の人工知能が手助けした譜面",
       "level" : "2",
@@ -96,32 +84,6 @@
       "zureCount" : 0
    },
    {
-      "artist" : "Synchronous Vision (MONO&1B) / mikasa",
-      "comment" : "後半部にdrrキー音が追加されている。",
-      "level" : "6",
-      "md5" : "6c04278a8e45693e4128a8b7f3e0df24",
-      "proposer" : "오수출신고수",
-      "proposerLr2id" : 73333,
-      "sha256" : "59b78552556e88f58cbf123a8db3cf90a0b7004f85a4e92c3ae7566fd5f3ce48",
-      "submission" : 1210,
-      "title" : "The Destructive Genesis",
-      "url" : "http://skydrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21113#cid=FC95A680740CA8C9&id=FC95A680740CA8C9%21111",
-      "url_diff" : "http://endymionsan.web.fc2.com/mikasabun.html"
-   },
-   {
-      "artist" : "あとぅす Illust:Micelle/Movie:TM",
-      "comment" : "BPM164 乱打、ラスト微連打",
-      "level" : "0",
-      "md5" : "75f2b44a3f1b0222b1c848f5cf054ad3",
-      "proposer" : "SHAX.",
-      "proposerLr2id" : 65624,
-      "sha256" : "8057ba879f0aa5b871642ef11facb029d5c6b97d3b5c3d51ff28efa0be107267",
-      "submission" : 1216,
-      "title" : "LiVEMeTAL [IRREGULAR]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=131",
-      "url_diff" : ""
-   },
-   {
       "artist" : "6yen / И",
       "comment" : "BPM182 同時押し、乱打、アレンジ差分",
       "level" : "2",
@@ -133,33 +95,6 @@
       "title" : "on the sequence #3 [Apocalypsis]",
       "url" : "https://onedrive.live.com/?cid=f0fdd6d137c174fa&id=F0FDD6D137C174FA%21239&lor=shortUrl",
       "url_diff" : "https://bms.parksulab.xyz"
-   },
-   {
-      "artist" : "削除 obj.hex",
-      "comment" : "BPM168 連打、アレンジ差分",
-      "level" : "2",
-      "md5" : "9eadc4c8d2b5d0fbcb8db8d2bb8b82e2",
-      "proposer" : "SHAX.",
-      "proposerLr2id" : 65624,
-      "sha256" : "b74d901b0a7d76d9052004de263495a309fc9bcebe7d52b86fac5fb7449d1751",
-      "submission" : 1197,
-      "title" : "No namer [Pentagon]",
-      "url" : "https://www.axfc.net/u/956768&key=bms",
-      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html"
-   },
-   {
-      "artist" : "9-zen obj.hex",
-      "comment" : "BPM154 ディレイ、縦連、体力",
-      "level" : "3",
-      "md5" : "a0e534d02c919996fef1f2a83c44c418",
-      "proposer" : "SHAX.",
-      "proposerLr2id" : 65624,
-      "sha256" : "4fb18c030425b33f1cd7c841fd2af7e3a0fd267e2b5486928454720c566633e2",
-      "submission" : 1198,
-      "title" : "ルーネイトエルフ～霧の湖の物語～ [Pentagon]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=129",
-      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html",
-      "zureCount" : 0
    },
    {
       "artist" : "koto obj:VINYL",
@@ -186,19 +121,6 @@
       "url" : "http://takdrive.main.jp/data/bofu2017/haru_wo_kure.zip",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04353",
       "zureCount" : 0
-   },
-   {
-      "artist" : "Ice",
-      "comment" : "st3~4+ (BOF2012版；同梱譜面)",
-      "level" : "4",
-      "md5" : "d15fa5e17826c126357f03aca678ccbb",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "c5ff2ccb71ea741f7515db41dbc9c06e9ab3e177c01d34f48ca402e8ece333d7",
-      "submission" : 1199,
-      "title" : "L (LOKINOTHER)",
-      "url" : "http://www.mediafire.com/?36wqghnwof2bmtu",
-      "url_diff" : ""
    },
    {
       "artist" : "atomic sphere & zannen vs contron obj:MineC24",
@@ -229,6 +151,32 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=108",
       "url_diff" : "",
       "zureCount" : 0
+   },
+   {
+      "artist" : "nmk feat.橘花音/obj.もにもに",
+      "comment" : "ディレイなどのズレあり",
+      "level" : "2",
+      "md5" : "ea770f494e2d1aedf3a44fb014b160f9",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "1c97215b0858745a33924414c685dd02afcd56cacc953f5f3301cdf634aebd4a",
+      "submission" : 1220,
+      "title" : "私のヒトミ [miracle]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=197&event=96",
+      "url_diff" : "https://stellabms.xyz/upload/236"
+   },
+   {
+      "artist" : "L-Mys / bms newbie",
+      "comment" : "5~6? (すべてのズレとノーツが抜けているのは意図的です)",
+      "level" : "6",
+      "md5" : "ef6df2895d4c93f500a2e9ab487fe89c",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "13f170510f4c520c89eafd7f6c4ffcb64b505fce75b0c213fc05521c7a5e5680",
+      "submission" : 1219,
+      "title" : "Lucifuge Rofocale [EXPERT]",
+      "url" : "https://onedrive.live.com/?cid=CA7A5144414EC4CA&id=CA7A5144414EC4CA!405",
+      "url_diff" : "https://bms.parksulab.xyz"
    },
    {
       "artist" : "ZUN remixed by翡乃イスカ / obj : LindBlum",

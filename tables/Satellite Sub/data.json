@@ -906,6 +906,19 @@
       "url_diff" : "http://swamelo.web.fc2.com/ddd_SLSAMIL.bme"
    },
    {
+      "artist" : "isocosa / selene.",
+      "comment" : "2~3? 乱打",
+      "level" : "3",
+      "md5" : "07d54adcc75f2b9274938428738cb209",
+      "proposer" : "vivienne",
+      "proposerMinirid" : "76c71ddb-9dac-44a1-a31c-e6ff55ee75fe",
+      "sha256" : "3897e790a3e77c6db0528411e2ff6521ea90dad1539fae76529d9cf0985eee49",
+      "submission" : 1576,
+      "title" : "Overcast -Luna-",
+      "url" : "http://k-bms.com/party_pabat/party2018.jsp?board_num=18&num=3&order=reg&odtype=a",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01530"
+   },
+   {
       "artist" : "wa. / obj:Lennon",
       "comment" : "同時押し",
       "level" : "2",
@@ -2964,7 +2977,7 @@
    },
    {
       "artist" : "Freezer feat. 妃苺 obj : BAECON vs Lapis",
-      "level" : "10",
+      "level" : "11",
       "md5" : "1fdd8463a1bc45db75e803f33708ab8e",
       "proposer" : "''",
       "proposerLr2id" : 86456,
@@ -9805,6 +9818,34 @@
       "url_diff" : ""
    },
    {
+      "artist" : "uma feat. ましろ / obj:夢瑠",
+      "comment" : "5~6?",
+      "level" : "6",
+      "md5" : "70120d2889c1e30252289b4e95e1f0c6",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "02a0673c2da69e2ae6e96021d36a1a7683d14feb1e2a52a6db1323900dda0ede",
+      "submission" : 1574,
+      "title" : "take me to the moon [yumether]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=129",
+      "url_diff" : "https://dl.dropboxusercontent.com/s/dhoumpy389m7sl4/_take_me_yume.zip",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "Coco / obj:alt",
+      "comment" : "BPM150 微縦",
+      "level" : "4",
+      "md5" : "7014bc052006f52b398c038017a7527a",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "fe32b350b0b53aa608c0c2bce193cfbd7374094b74b2e025b330f9aed65e12f9",
+      "submission" : 1573,
+      "title" : "pp-hunk [Phunny]",
+      "url" : "https://onedrive.live.com/?cid=863934608D908CD0&id=863934608D908CD0%21105",
+      "url_diff" : "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view?usp=sharing",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Ras / obj.0samil0 vs siokaze",
       "comment" : "皿LNあり",
       "level" : "2",
@@ -10695,7 +10736,7 @@
    },
    {
       "artist" : "Le Dos-on bga:Air obj:Fender",
-      "level" : "5",
+      "level" : "6",
       "md5" : "7ac6e1a830223dc433dda08aaa343c14",
       "proposer" : "AXION",
       "proposerLr2id" : 37523,
@@ -11864,6 +11905,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Lime feat. Salita / deadblue238 / obj: Lennon",
+      "comment" : "BPM136 乱打",
+      "level" : "2",
+      "md5" : "883e105c2aa9a81108b3c4bf5d571c41",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "27e0e6687d0d3182f9aafbebcdc9ce1241bdf7a8f8448f559c182ad7bdb164c3",
+      "submission" : 1572,
+      "title" : "Snowfairy -naughty-",
+      "url" : "https://1drv.ms/u/s!AkHILFwfHSyzgQq9h_F43s8uxLLc",
+      "url_diff" : "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view?usp=sharing"
+   },
+   {
       "artist" : "TOMA / obj:MineC24",
       "comment" : "from Stella",
       "level" : "11",
@@ -12830,7 +12884,7 @@
    {
       "artist" : "kas_0120",
       "comment" : "BPM168 乱打",
-      "level" : "9",
+      "level" : "10",
       "md5" : "9680eaf3beed0ee172bcf772843c381e",
       "proposer" : "SHAX.",
       "proposerLr2id" : 65624,
@@ -17180,7 +17234,7 @@
    {
       "artist" : "TK pattern for some reason",
       "comment" : "",
-      "level" : "10",
+      "level" : "11",
       "md5" : "c329d494bded6ae4be2b000d29c804a3",
       "proposer" : "Restia",
       "proposerLr2id" : 115265,
@@ -17474,7 +17528,7 @@
    {
       "artist" : "-45 Obj.Triforce",
       "comment" : "発狂入門",
-      "level" : "0",
+      "level" : "1",
       "md5" : "c71289ba15288c25ecb87fb77e7d7850",
       "proposer" : "Restia",
       "proposerLr2id" : 115265,
@@ -18487,7 +18541,7 @@
       "sha256" : "45ec508d057ef3d92954778a155b46c1c26ec26b40730ed01e04363f0819300d",
       "submission" : 266,
       "title" : "シャーロック・シェリンフォードのテーマwithえかたん [Why done it?]",
-      "url" : "http://totototo.tokyo/",
+      "url" : "https://web.archive.org/web/20180903080418/http://totototo.tokyo/bmssherlock.html",
       "url_diff" : "https://ux.getuploader.com/monaka_sabun_2/download/150",
       "voteNo" : 0,
       "votePercent" : 0,
@@ -20551,7 +20605,7 @@
    },
    {
       "artist" : "Εσοπτρον/差分 赤い人",
-      "level" : "5",
+      "level" : "6",
       "md5" : "eadaff5b732c0b8dd6ecc7fa05803c6e",
       "proposer" : "dstorv",
       "proposerLr2id" : 145158,
@@ -21059,6 +21113,20 @@
       "title" : "Ice Festival",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=421&event=116",
       "url_diff" : ""
+   },
+   {
+      "artist" : "しらいし obj: misty.ls04",
+      "comment" : "連打、デニム",
+      "level" : "6",
+      "md5" : "f058fb91f90c8cc7f04af2237a25b1ee",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "c5ee2162be4e791e35c07210e2ba5a302d4c9ef1921d70841546f2bc175d5bab",
+      "submission" : 1575,
+      "title" : "ザ・レアー [RAMPAGE]",
+      "url" : "https://shiraishi2007.exblog.jp/27968989/",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03035",
+      "zureCount" : 0
    },
    {
       "artist" : "Puella Voice : 結崎有理 / Illustration : Violpa / obj:SUZUKAZEΛ",

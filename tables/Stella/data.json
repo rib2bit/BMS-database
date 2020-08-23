@@ -248,7 +248,7 @@
    {
       "artist" : "suna",
       "comment" : "",
-      "level" : "7",
+      "level" : "8",
       "md5" : "086d4722e83aeaa818342a989335d31b",
       "proposer" : "firi.",
       "sha256" : "75c74cade02667e2a4e01f20ce9ae27773be5aa14bcbbe74626eb7304cda8677",
@@ -690,6 +690,18 @@
       "title" : "horizon [Ex]",
       "url" : "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ",
       "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/"
+   },
+   {
+      "artist" : "Lycoris vs. Pied d'Alouette / obj:speiegelbeeld",
+      "comment" : "Total 350",
+      "level" : "3",
+      "md5" : "14a30eaad70ffdaf168f7ecb562e158a",
+      "proposer" : "qtp13",
+      "sha256" : "f0dc245e381afb0b8c35381d7792ce9a1cefe966b4944a49baea8e5261ea4c6d",
+      "submission" : 1211,
+      "title" : "Kaleidoscope [FLOURESCENT]",
+      "url" : "https://venue.bmssearch.net/mutualfaith3/4",
+      "url_diff" : ""
    },
    {
       "artist" : "psi obj:mute",
@@ -1488,6 +1500,18 @@
       "title" : "Fusionik [Meteorswarm]",
       "url" : "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=68",
       "url_diff" : "http://onmacodayo.web.fc2.com/ondajoy.html"
+   },
+   {
+      "artist" : "MONO / obj:夢瑠",
+      "comment" : "地力",
+      "level" : "0",
+      "md5" : "28d43d02b22a9bd755b8269a7d7cd497",
+      "proposer" : "MarySue",
+      "sha256" : "1dfe776b7d902c3ff2144083f8704e9c781cdb9de6417e94bb93a6bddbaf134f",
+      "submission" : 1214,
+      "title" : "Harder Experience [yumether]",
+      "url" : "https://dropbox.bms.ms/u/28376944/harderex_mono.zip",
+      "url_diff" : "http://yumerusabun.web.fc2.com/nue.html"
    },
    {
       "artist" : "-45/わなな・BANI / obj:発汗BMS",
@@ -3418,18 +3442,6 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00323"
    },
    {
-      "artist" : "Lime obj:Blocko",
-      "comment" : "BOFXV 乱打",
-      "level" : "0",
-      "md5" : "5580e8407abef96a303cba82a1eb605c",
-      "proposer" : "氷城つるぎ",
-      "sha256" : "a43c7c7153586363e28ac2dca04d5b7b31b991c7212754ad61dc3ecd7e46f4a8",
-      "submission" : 1030,
-      "title" : "Aurora [Shine]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=330&event=127",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03509"
-   },
-   {
       "artist" : "tkqn14 mov : Ju_E obj: qtp13",
       "comment" : "st5~6?",
       "level" : "5",
@@ -4240,6 +4252,18 @@
       "url_diff" : "http://akred.web.fc2.com/baecon/_kan-non_ii.bms"
    },
    {
+      "artist" : "Synchronous Vision (MONO&1B) / mikasa",
+      "comment" : "後半部にdrrキー音が追加されている。",
+      "level" : "6",
+      "md5" : "6c04278a8e45693e4128a8b7f3e0df24",
+      "proposer" : "오수출신고수",
+      "sha256" : "59b78552556e88f58cbf123a8db3cf90a0b7004f85a4e92c3ae7566fd5f3ce48",
+      "submission" : 1210,
+      "title" : "The Destructive Genesis",
+      "url" : "http://skydrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21113#cid=FC95A680740CA8C9&id=FC95A680740CA8C9%21111",
+      "url_diff" : "http://endymionsan.web.fc2.com/mikasabun.html"
+   },
+   {
       "artist" : "Lime / A",
       "comment" : "物量、 連打 、同時押し",
       "level" : "0",
@@ -4711,6 +4735,18 @@
       "title" : "さよならコスモノート [SpaceX]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=116&num=414",
       "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html"
+   },
+   {
+      "artist" : "あとぅす Illust:Micelle/Movie:TM",
+      "comment" : "BPM164 乱打、ラスト微連打",
+      "level" : "0",
+      "md5" : "75f2b44a3f1b0222b1c848f5cf054ad3",
+      "proposer" : "SHAX.",
+      "sha256" : "8057ba879f0aa5b871642ef11facb029d5c6b97d3b5c3d51ff28efa0be107267",
+      "submission" : 1216,
+      "title" : "LiVEMeTAL [IRREGULAR]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=131",
+      "url_diff" : ""
    },
    {
       "artist" : "D.J.Nero / Ds",
@@ -5379,7 +5415,7 @@
    {
       "artist" : "sa10 / obj:けろささ",
       "comment" : "BPM 186 乱打、ディレイのようなズレ (音源定義の拡張子差のみ存在)",
-      "level" : "4",
+      "level" : "5",
       "md5" : "8a4327fac32beaa98779e80ca9785e24",
       "proposer" : "SHAX.",
       "sha256" : "4296698b50c4de8964c9ae671199dd25689bc1a9d2d45adaa72827dbef1ac23c",
@@ -6256,7 +6292,7 @@
    },
    {
       "artist" : "KAH BGA:自動車 原付 illust:りゅうら obj:LuvTek",
-      "level" : "1",
+      "level" : "2",
       "md5" : "9df6c993453aae1bc08b5272c15bf436",
       "proposer" : "MarySue",
       "sha256" : "936ddc1ad51f092d6e41a943c8e6eb818cda0b80e9424488851b08ce18c02a98",
