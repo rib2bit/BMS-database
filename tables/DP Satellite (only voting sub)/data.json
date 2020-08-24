@@ -60,6 +60,20 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Ras/obj:LLL",
+      "comment" : "6~7? 物量",
+      "level" : "6",
+      "md5" : "53c2074d26127be0f7586e8def386cac",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "36a2a89581ec9e2def5182c87b32a69bdc42e7e7f237f4e556de1ab0783d09e7",
+      "submission" : 387,
+      "title" : "Blue Shock [DPA.NOTHER+]",
+      "url" : "https://dropbox.bms.ms/u/63612044/Blue_Shock.rar",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/918",
+      "zureCount" : 0
+   },
+   {
       "artist" : "しーけー obj:Yosk!",
       "comment" : "0～1 BPM230の8分乱打",
       "level" : "0",
@@ -113,6 +127,34 @@
       "title" : "青空の旅、笛と共に [DPA]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=51&event=131",
       "url_diff" : "https://ux.getuploader.com/dpbms/download/895",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "Zris obj:Gypsy",
+      "comment" : "4~5? 乱打、LN",
+      "level" : "5",
+      "md5" : "e0e753a494a96fe548593a84e3c77172",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "51bee1a6ab1bd8abdb047b0474a35ce84585865ee680f751bf2d07049eedba5a",
+      "submission" : 388,
+      "title" : "Yutu (14_Extreme)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=416&event=110",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/397",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "pixel of infinity obj.screw / illust:二条せらふ",
+      "comment" : "同梱譜面 7~8? 両手乱打、二重トリル",
+      "level" : "7",
+      "md5" : "e3fc839fa95f6292843fcc45bb898e5c",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "56b64f112847f6c547f797efcb45d266b90789e50d85dd5eaec4b8db29e8bb9f",
+      "submission" : 386,
+      "title" : "エトワール・エトワール [DP Insane]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=135&event=116",
+      "url_diff" : "",
       "zureCount" : 0
    },
    {
