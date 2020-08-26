@@ -12498,6 +12498,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Iriss-Frantzz",
+      "comment" : "同梱譜面 / ★1~2?",
+      "level" : "1",
+      "md5" : "912713582fa123a40e61edde3b68679d",
+      "proposer" : "983",
+      "proposerLr2id" : 127730,
+      "sha256" : "5c4cc5431c1a848f3605fa12ee8a0785eedd57c74c98d4759d2be10b1250b852",
+      "submission" : 1581,
+      "title" : "Upshift [Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=355&event=123",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Nizikawa feat. nayuta Movie: Air",
       "comment" : "階段とか",
       "level" : "0",
