@@ -13,6 +13,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01530"
    },
    {
+      "artist" : "Kyuzo Sameura",
+      "level" : "0",
+      "md5" : "08d5195f34a425ea7d545ba6cf39c074",
+      "proposer" : "|/|",
+      "proposerLr2id" : 147895,
+      "sha256" : "4ff3862ee3445c24da7d181d140847e653d5844eb2d2c3fba0c0b975979134a9",
+      "submission" : 1582,
+      "title" : "reflection [7KEYS ANOTHER]",
+      "url" : "https://k-bms.com/party_pabat/party.jsp?board_num=20&num=33&order=reg&odtype=a",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Street obj:SUZUKAZEΛ",
       "comment" : "微縦連",
       "level" : "6",
@@ -271,5 +283,17 @@
       "url" : "http://sunaneko.iptime.org/BMS_Library/Lucifuge%20Rofocale%20%28by%20L-Mys%29.rar",
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "zureCount" : 0
+   },
+   {
+      "artist" : "DJ HoppingRabbit obj:fleurette",
+      "level" : "7",
+      "md5" : "fac813cf950774ad582849c7d1943655",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "c626cbf17075de6e5efadcba366b83e9eb34ffef9818a10bede57b92fe6af047",
+      "submission" : 1583,
+      "title" : "Jumping Leaping! [vigoureux]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=29&event=109",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
    }
 ]
