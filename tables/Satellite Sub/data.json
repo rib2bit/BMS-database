@@ -3479,6 +3479,19 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02782"
    },
    {
+      "artist" : "Arranged by KA-KU original:\"Rude Buster\" from \"DELTARUNE\"",
+      "comment" : "D E L T A R U N E",
+      "level" : "5",
+      "md5" : "2605e918a740a411a9ba71c8c085bb39",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "4f4810099e0ec52b6f8558fee94b496023ca4dd4264492d7ebcf75c4c2d5bc70",
+      "submission" : 1586,
+      "title" : "タタカイノトキ [Dark Another]",
+      "url" : "https://sites.google.com/view/yuruyurubms/phase-6",
+      "url_diff" : ""
+   },
+   {
       "artist" : "綾地寧々",
       "comment" : "G2R2018、地力",
       "level" : "0",
@@ -10224,6 +10237,19 @@
       "title" : "Burning Beat [B-Fight]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=359&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02962"
+   },
+   {
+      "artist" : "140/fth + ルゼ obj. DK",
+      "comment" : "ズレ",
+      "level" : "5",
+      "md5" : "7599afe571273b763e9f373cf19861cb",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "83169ad7e7b94021f1e2c45f646c4a7a67b1a641d82b5fc26aef0ed1f2300f23",
+      "submission" : 1585,
+      "title" : "Just one word [NULL]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=98&event=127",
+      "url_diff" : "https://frozensat.github.io/sabun/JustOneWord_DK.zip"
    },
    {
       "artist" : "ハル×puia /差分 赤い人",
@@ -22030,6 +22056,18 @@
       "url" : "https://web.archive.org/web/20070121141237/yamajet1984.net/library/suzuki/sb.rar",
       "url_diff" : "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view?usp=sharing",
       "zureCount" : 0
+   },
+   {
+      "artist" : "sukuramu42 / obj.LetsOTL Illust:恋々",
+      "level" : "7",
+      "md5" : "fa337eb77fe8f53a1a60b95bac509455",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "649a228efeb72074f5e45940259c923e44a8d8380da2a5054a43bdf55ae996d3",
+      "submission" : 1584,
+      "title" : "Exploring the blue sky [中難易度]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=101",
+      "url_diff" : "https://obju.web.fc2.com/BOB2015/BOB2015_k_2_3_E.html"
    },
    {
       "artist" : "innkeeper / obj:Lapis_loves_pizza",

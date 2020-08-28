@@ -15302,6 +15302,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "くるぶっこちゃん/obj:matsu BGA : geniway",
+      "comment" : "ガチ押しと指押し両刀",
+      "level" : "0",
+      "md5" : "e2a8109d9617fbe9bfc384ea7002ed04",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "eb11a9965f7e4909616dd4a8f6ba6c0c6261a9b279d47f56462e3baee68e67bc",
+      "submission" : 1225,
+      "title" : "AIWS [chiral]",
+      "url" : "https://www.dropbox.com/s/o2i0op050jxjkeu/AIWS.zip?dl=0",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04447"
+   },
+   {
       "artist" : "うまるつふり",
       "comment" : "DELAY",
       "level" : "7",
