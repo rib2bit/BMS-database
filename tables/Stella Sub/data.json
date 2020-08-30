@@ -3719,6 +3719,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "nao/雪仁/水城新人 remixed by Lemon beads",
+      "comment" : "st8ネコイチをより全体難にした感じ",
+      "level" : "8",
+      "md5" : "39ecdbd128d4de29589825b53509147f",
+      "proposer" : "BAECON",
+      "proposerLr2id" : 46122,
+      "sha256" : "91f87d4ff209e2e63aa611b11f10b8375075ab556ec04c21710828fe7cc0a34f",
+      "submission" : 1229,
+      "title" : "タイヨウパラダイス(Lemon beads J-core bootleg) -BMS Edit-",
+      "url" : "https://lemonbeadsfran.wixsite.com/lemon-beads/bms-dl",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04572"
+   },
+   {
       "artist" : "q/stol / obj:秘密",
       "comment" : "ラストが少し簡単？",
       "level" : "1",
@@ -8496,6 +8509,20 @@
       "url_diff" : "http://kanki2.net/bme.html"
    },
    {
+      "artist" : "あとぅす / obj:Tortinita Movie:TM",
+      "comment" : "BPM144 微連打",
+      "level" : "3",
+      "md5" : "7e4a7eccf51ff9fb528c3a3e79ee9b8b",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "18a54f9dc702dc1cd43105f9b12223eb7f05a1292721527902b5bd8c4a8a47ce",
+      "submission" : 1228,
+      "title" : "al fine [Dear Ms. \"A\",]",
+      "url" : "https://venue.bmssearch.net/ippaitukuru2019/32",
+      "url_diff" : "https://stellabms.xyz/upload/143",
+      "zureCount" : 0
+   },
+   {
       "artist" : "MALVA. obj : BAECON",
       "level" : "0",
       "md5" : "7ec4081796258a2b21d91f90e8670cbc",
@@ -9226,6 +9253,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Yu^ta feat. みずにんじん / obj:七海",
+      "comment" : "BPM130 横に広い微連打",
+      "level" : "2",
+      "md5" : "8a0a884357263b3403da4fc927a66a63",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "4bdc2eb7ddb8387f8cb55a89c0efe84539638e40f1c31401ffdef32e7c4c6359",
+      "submission" : 1227,
+      "title" : "Kiss me, please. -To The Future-",
+      "url" : "http://famousbms.web.fc2.com/",
+      "url_diff" : "https://www.dropbox.com/s/ohhv4hvfmmkmsh0/kissmeplz.zip?dl=1",
+      "zureCount" : 0
    },
    {
       "artist" : "Lime",
