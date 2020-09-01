@@ -5671,6 +5671,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "mist-rose/obj.もにもに",
+      "comment" : "この曲切らしてた（最後のディレイ追加以外はpmsの差分とズレチェック済みだそうです）",
+      "level" : "4",
+      "md5" : "53d61c3bfc4d027151be895343a33962",
+      "proposer" : "turbow",
+      "proposerMinirid" : "6ff4a3e0-3764-464e-ba27-37e10197ee2a",
+      "sha256" : "a51dd9a13082a8d53fe900bccf8b874a3c184ed50b421b3bbcc11d2abcb95445",
+      "submission" : 1230,
+      "title" : "flowers [miracle]",
+      "url" : "http://tm2.toymusical.net/download.html",
+      "url_diff" : "https://stellabms.xyz/upload/303"
+   },
+   {
       "artist" : "しらいし / 32 / obj:firi.",
       "comment" : "delay",
       "level" : "0",
