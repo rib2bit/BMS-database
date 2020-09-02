@@ -1,5 +1,18 @@
 [
    {
+      "artist" : "EmoCo. / 玲架 / UnK-now / 37X obj. Lapis",
+      "comment" : "ディレイ4U",
+      "level" : "10",
+      "md5" : "156783da7d59f7ddfb2543890eceb3c5",
+      "proposer" : "MEES-♬",
+      "proposerLr2id" : 39693,
+      "sha256" : "3bd4f43ffbac2babdfda8ec7f3e56b78c6251cef4670262feae31b71306b3c9f",
+      "submission" : 1231,
+      "title" : "This Club is not 4 U",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=105&event=123",
+      "url_diff" : "http://sagena.harisen.jp/hyou.html"
+   },
+   {
       "artist" : "Feryquitous movie:Sight / gimmick:from [Ego]",
       "comment" : "",
       "level" : "4",
@@ -108,6 +121,22 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=490&event=110",
       "url_diff" : "https://stellabms.xyz/upload/281",
       "zureCount" : 0
+   },
+   {
+      "artist" : "Rave Cyanide [BMS Edit R.W.R]",
+      "level" : "2",
+      "md5" : "5f799c4338e7cfaa332ebe85a7714dbc",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "89b0d73a551abe92ff7e1d79d97dfd6545492cbf4bed333af0c6b5aa188cf9d2",
+      "submission" : 1177,
+      "title" : "Palette Of The Life [Leggenderia]",
+      "url" : "https://www.dropbox.com/s/haz6j8faux15v37/Palette%20of%20the%20Life.zip?dl=0",
+      "url_diff" : "",
+      "voteNeutral" : 1,
+      "voteNo" : 0,
+      "votePercent" : 91.6666666666667,
+      "voteYes" : 5
    },
    {
       "artist" : "Micelle / obj:七海",
