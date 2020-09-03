@@ -106,6 +106,20 @@
       "url_diff" : ""
    },
    {
+      "artist" : "oxygen / obj:Sphere",
+      "comment" : "Mutual Fumen",
+      "level" : "6",
+      "md5" : "666f8b142728e934bb096a8028241591",
+      "proposer" : "sera",
+      "proposerMinirid" : "8281b134-2da8-4f09-a4d0-22618e5611fd",
+      "sha256" : "99dfcee81f04e807e6d658f2583e27b280c786ff35db3582291a723424bbb6ed",
+      "submission" : 1590,
+      "title" : "Animatronics [Freddy]",
+      "url" : "https://dl.dropboxusercontent.com/s/3jumfgybgzfeunu/ox_animatronics.zip",
+      "url_diff" : "https://darksabun.github.io/event/mf/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "ZUN Remixed by NoKANY obj AZVW_2",
       "comment" : "物量 同梱譜面。",
       "level" : "1",
@@ -145,6 +159,19 @@
       "url" : "https://onedrive.live.com/?cid=863934608D908CD0&id=863934608D908CD0%21105",
       "url_diff" : "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view?usp=sharing",
       "zureCount" : 0
+   },
+   {
+      "artist" : "Rocky",
+      "comment" : "BOF2013、同梱譜面",
+      "level" : "0",
+      "md5" : "7089015bf97da82e27988297a3e612fd",
+      "proposer" : "TR1",
+      "proposerLr2id" : 152181,
+      "sha256" : "ee54c98ddefe7d175542b7580cbc84df2a58abf7c64170eb9161376ebe32b2bc",
+      "submission" : 1589,
+      "title" : "多重極展開 [SP HYPER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=62&event=88",
+      "url_diff" : ""
    },
    {
       "artist" : "M-UE ◇ sak Illust: はし◇たか / obj:SUZUKAZEΛ",
