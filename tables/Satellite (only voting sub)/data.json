@@ -296,6 +296,19 @@
       "url_diff" : "https://www.dropbox.com/s/hqnx9cf2fjvi021/andro_fix.zip?dl=1"
    },
    {
+      "artist" : "LisicA movie : ルゼ(LuzeriA) / illust : Orphee / obj : ★11夕凪の丘S乱に失敗した猫さん",
+      "level" : "9",
+      "md5" : "afe8cdbcaa8f6edeba182ecb9b266fb5",
+      "proposer" : "Mallow♪",
+      "proposerLr2id" : 154796,
+      "sha256" : "21ad3bc4074f5990a8ec4d1ed2832a498a43b65b37aaad88520d0271e3129a8c",
+      "submission" : 1591,
+      "title" : "テウメッサ [にゃーん]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=127",
+      "url_diff" : "https://darksabun.github.io/event/mf/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "TK pattern for some reason",
       "comment" : "sl11のOut of the System[for some reason]が少し珍しい譜面だったのでそれの練習用で",
       "level" : "2",
@@ -373,5 +386,19 @@
       "title" : "Jumping Leaping! [vigoureux]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=29&event=109",
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
+   },
+   {
+      "artist" : "Vanilla Flavor BGA: AW / obj: ★11夕凪の丘S乱に失敗した猫さん",
+      "comment" : "Mutual Fumen",
+      "level" : "1",
+      "md5" : "fc25dc8675a7fc8e9c74619be68747ae",
+      "proposer" : "|/|",
+      "proposerLr2id" : 147895,
+      "sha256" : "b4bfba00079aa07a752f3ece8c3d676d83e25952ea9e2be87b304b037f31a3e7",
+      "submission" : 1592,
+      "title" : "Citrus Sunset [meow]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=109",
+      "url_diff" : "https://darksabun.github.io/event/mf/",
+      "zureCount" : 0
    }
 ]

@@ -15228,6 +15228,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "LisicA movie : ルゼ(LuzeriA) / illust : Orphee / obj : ★11夕凪の丘S乱に失敗した猫さん",
+      "level" : "9",
+      "md5" : "afe8cdbcaa8f6edeba182ecb9b266fb5",
+      "proposer" : "Mallow♪",
+      "proposerLr2id" : 154796,
+      "sha256" : "21ad3bc4074f5990a8ec4d1ed2832a498a43b65b37aaad88520d0271e3129a8c",
+      "submission" : 1591,
+      "title" : "テウメッサ [にゃーん]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=127",
+      "url_diff" : "https://darksabun.github.io/event/mf/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Frums obj.fhyu",
       "comment" : "ズレ、ソフランなし、ハード難しい",
       "level" : "11",
@@ -22233,6 +22246,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Vanilla Flavor BGA: AW / obj: ★11夕凪の丘S乱に失敗した猫さん",
+      "comment" : "Mutual Fumen",
+      "level" : "1",
+      "md5" : "fc25dc8675a7fc8e9c74619be68747ae",
+      "proposer" : "|/|",
+      "proposerLr2id" : 147895,
+      "sha256" : "b4bfba00079aa07a752f3ece8c3d676d83e25952ea9e2be87b304b037f31a3e7",
+      "submission" : 1592,
+      "title" : "Citrus Sunset [meow]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=109",
+      "url_diff" : "https://darksabun.github.io/event/mf/",
+      "zureCount" : 0
    },
    {
       "artist" : "BTB Illust:GATTOMOTTO",
