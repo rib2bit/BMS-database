@@ -287,7 +287,20 @@
    },
    {
       "artist" : "CHUBAY BGA:あるし",
-      "comment" : "同梱譜面(☆11) / 総合力",
+      "comment" : "同梱譜面(☆2) / 簡単",
+      "level" : "0",
+      "md5" : "c181b749293a2b31e1d66abd3935ae90",
+      "name_diff" : "Mallow♪",
+      "state" : "",
+      "title" : "Still Be Will Be [Beginner]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=316&event=127",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "CHUBAY BGA:あるし",
+      "comment" : "同梱譜面(☆12) / 総合力,sl0程度",
       "level" : "0",
       "md5" : "caf8e11c1afb3b9c564f473f322bf399",
       "name_diff" : "Mallow♪",
@@ -296,7 +309,7 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=316&event=127",
       "url_diff" : "",
       "video1" : "",
-      "video2" : ""
+      "video2" : "8dMn738FY1A"
    },
    {
       "artist" : "ZUN Remix by rider",
@@ -362,5 +375,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03545",
       "video1" : "",
       "video2" : ""
+   },
+   {
+      "artist" : "CHUBAY BGA:あるし",
+      "comment" : "おまけ譜面(☆11) / DP譜面は初作成",
+      "level" : "98",
+      "md5" : "ff17032e3191f0f5798da4557e6ebda5",
+      "name_diff" : "Mallow♪",
+      "state" : "",
+      "title" : "Still Be Will Be [14keys]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=316&event=127",
+      "url_diff" : "https://www.dropbox.com/s/29ghy89sx8arwyz/Still_Be_Will_Be_14kA.zip?dl=1",
+      "video1" : "",
+      "video2" : "2GFpZt0LTts"
    }
 ]
