@@ -1259,7 +1259,7 @@
    {
       "artist" : "Lycoris vs. Pied d'Alouette / obj:speiegelbeeld",
       "comment" : "Total 350",
-      "level" : "3",
+      "level" : "4",
       "md5" : "14a30eaad70ffdaf168f7ecb562e158a",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -2709,7 +2709,7 @@
    {
       "artist" : "はがね / И",
       "comment" : "SPA基準ズレが一つ(0C)ありますが、1/192分のズレだから実質的に影響はなさそうです。コメントで続きます。",
-      "level" : "2",
+      "level" : "3",
       "md5" : "2ae6ffab1595e4164ff098a190e6e0f1",
       "proposer" : "MarySue",
       "proposerLr2id" : 147889,
@@ -7167,6 +7167,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "QURTER Sliced by DAC / pattern for some reason",
+      "comment" : "音源追加のせいでズレが出ます（制作者のコメントにより）。しかしプレーには問題ないです。",
+      "level" : "0",
+      "md5" : "67df037f948308a2150b961df34222e9",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "5b8946fda18be41e53ff9a65db2ff47e594f2846a60edc50f32218d6cf1079bd",
+      "submission" : 1238,
+      "title" : "warfire [for some reason]",
+      "url" : "http://web.archive.org/web/20030518122232/http://www.boreas.dti.ne.jp:80/~qurter/sound/warfire.rar",
+      "url_diff" : "https://fsrs.github.io/table.html"
+   },
+   {
       "artist" : "ねこみりん Movie:iimo / and \"Noranekoxi\" all-star! / obj:sak",
       "comment" : "",
       "level" : "7",
@@ -9622,7 +9635,7 @@
    {
       "artist" : "nmk feat.橘花音 / obj:夢瑠",
       "comment" : "eurobeat power",
-      "level" : "0",
+      "level" : "1",
       "md5" : "8cdcb6ae2ac0d4313b12b89da0227561",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -9844,23 +9857,6 @@
       "title" : "Suffruti [SILENCER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=60&event=104",
       "url_diff" : "https://obju.web.fc2.com/index.html",
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
-   },
-   {
-      "artist" : "Kuwagata / obj:MineC24",
-      "comment" : "delay",
-      "level" : "0",
-      "md5" : "8fd27ddc06bc5e0b84c64aba6c7b4a7e",
-      "proposer" : "KIYOM99",
-      "proposerLr2id" : 128003,
-      "sha256" : "122eac07eb88520b8904673713dd0111bfa8ae95bc38d5be66e08153e0a87495",
-      "submission" : 850,
-      "title" : "シグナルほっぴんぐ [Delay]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=190&event=116",
-      "url_diff" : "https://www.dropbox.com/s/im3h8pb6tj0uup6/_00_kuwagata_signal_%5Bdel%5D.bms?dl=0",
-      "voteNeutral" : 0,
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
@@ -13319,6 +13315,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "LeaF Movie:Optie / obj:1008",
+      "comment" : "BPMが0だからズレチェックできない",
+      "level" : "1",
+      "md5" : "c465c7628257b5458d88fc39cc368bf0",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "604200e1319feff5c3addfc7b52507a9a16d7a7fc61b8283161aa93dd00a276b",
+      "submission" : 1237,
+      "title" : "Aleph-0 [Ω]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=498&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=2363"
+   },
+   {
       "artist" : "xi / air",
       "comment" : "",
       "level" : "8",
@@ -15805,6 +15814,20 @@
       "url_diff" : "http://kusaiseiryu.web.fc2.com/doblestairs.html"
    },
    {
+      "artist" : "kei_iwata feat.レゾナンスもえこ obj:七海 Movie:Arishima_Caprico Illust:Morph",
+      "comment" : "THEガチ押し VeryGood譜面　ズレなし",
+      "level" : "5",
+      "md5" : "e9fc82f22a048d62165c482841eb0d33",
+      "proposer" : "qfeileadh",
+      "proposerLr2id" : 143120,
+      "sha256" : "a79ade67dbbd658d996489ed64d9d649a95514ccb2ee7590f824da23441fac00",
+      "submission" : 1240,
+      "title" : "ウタカタ・サマーメモリーズ -To The Future-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=111&event=131",
+      "url_diff" : "https://www.dropbox.com/s/zh8o4eftdp5vliw/utakata_nanami.zip?dl=1",
+      "zureCount" : 0
+   },
+   {
       "artist" : "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya mov:hrchem",
       "comment" : "1~2+ (連打+物量)",
       "level" : "2",
@@ -15821,7 +15844,7 @@
    {
       "artist" : "tcheb obj.hex",
       "comment" : "no misalignment (N,H,A are have misalignment)",
-      "level" : "1",
+      "level" : "2",
       "md5" : "ea755ec70f08d00c44fb0bd7fabac19d",
       "proposer" : "chouco",
       "proposerLr2id" : 158333,
@@ -15963,6 +15986,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Lennon",
+      "comment" : "同梱譜面、LNあり",
+      "level" : "0",
+      "md5" : "ec52fc7af042a9fb92166a8aa7efc92a",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "0f96a532ef8b186b2ceb06a98eddb9d7303a1bc64cdc5fd30d5b02de71374b3b",
+      "submission" : 1236,
+      "title" : "Banned (Radio Edit) [Insane]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=121",
+      "url_diff" : ""
+   },
+   {
       "artist" : "あるさん / obj. Tristan97",
       "comment" : "Please Enjoy!",
       "level" : "3",
@@ -15973,6 +16009,19 @@
       "title" : "Bohemian Chic [Eloise]",
       "url" : "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ",
       "url_diff" : "https://drive.google.com/open?id=1GFQxlZGDq9utTq6Fscm59Dl5wGCiL9nK"
+   },
+   {
+      "artist" : "Nego_tiator BGI:*reinahitomi OBJ:bms newbie feat. Alpha-Gorila",
+      "comment" : "Paracelestia.xxx基準84小節のGWノーツにズレが一つありますが(Anzutoolで)、差分ファイル同梱の「URL_readme」によると、意図的なズレです。プレーには問題なし",
+      "level" : "2",
+      "md5" : "ecc2343d183d12dd1798950c8bbc618f",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "d3979de2bcf5c915aabccdd046185d035a976860f58390df12996989fedb4cb7",
+      "submission" : 1239,
+      "title" : "Paracelestia [Project AG]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=127",
+      "url_diff" : "https://bms.parksulab.xyz"
    },
    {
       "artist" : "QH. obj: 今村水産市場",
@@ -16515,6 +16564,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "loz",
+      "comment" : "from Satellite",
+      "level" : "0",
+      "md5" : "f51ab8af169a624a1105d1eefa3696fb",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "00b39e791dbde621eabc561cd8fd7bdf161ea4fe8c74230feb44f7e7eaa8b77e",
+      "submission" : 1235,
+      "title" : "Cinderella Cage -Trancecore Mix- [ANOTHER]",
+      "url" : "http://yaruki0.sakura.ne.jp/event/ondanyugi4/impression.cgi?no=11",
+      "url_diff" : "",
+      "zureCount" : 0
    },
    {
       "artist" : "Magic Mash Man / New Genuine Magicial Girl / obj:Paz_L / reobj:Ds",

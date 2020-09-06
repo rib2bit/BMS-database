@@ -26,6 +26,20 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?mode=find&word=Justitia"
    },
    {
+      "artist" : "rate-dat + Cranky + hi-low obj:SUZUKAZEΛ",
+      "comment" : "皿複合、sl4~5？",
+      "level" : "4",
+      "md5" : "0016ffd024c31943ca502f30258d336f",
+      "proposer" : "quinto",
+      "proposerLr2id" : 141043,
+      "sha256" : "0d10851466807cb15865d6ae6b224f1531771aabe74f6576bddbc773a400f160",
+      "submission" : 1597,
+      "title" : "Rate Cranky Hi-roller [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=232&event=123",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "魂魄糖",
       "comment" : "縦連複合",
       "level" : "4",
@@ -934,6 +948,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "World's endo pisum sativum L. obj:七海",
+      "comment" : "BPM180 多要素",
+      "level" : "12",
+      "md5" : "07e5040e7a381f045d8798560ee95b43",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "43c148897b3fb239a2fa626ed319287f1ca923722f3db3bb7f04ca8a14c6a05e",
+      "submission" : 1596,
+      "title" : "Alice I [WTF]",
+      "url" : "https://www.bmsworld.nz/download/b-j-cup-8th-stage-worlds-endo-pisum-sativum-l-alice-i/#",
+      "url_diff" : "https://trfce.github.io/wtf.html"
    },
    {
       "artist" : "rider / obj:夢瑠",
@@ -3373,7 +3400,7 @@
    {
       "artist" : "秋月アキラ feat. 保堂 京 obj.2RLZ",
       "comment" : "ガチ押し",
-      "level" : "12",
+      "level" : "11",
       "md5" : "24ccef65138cbd461f82780aca4f7e47",
       "proposer" : "Triforce",
       "proposerLr2id" : 18553,
@@ -5835,6 +5862,20 @@
       "url_diff" : "http://hg2.ifdef.jp/bms/aufwiedersehen_hg.zip"
    },
    {
+      "artist" : "r obj. 未来差分研究所",
+      "comment" : "BPM113 同時押し、ズレ",
+      "level" : "7",
+      "md5" : "41541e23144c1f47186b8353c365921f",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "f5ee4fac3926d0a14c3e3b011db2c6259e992fccae52af935363ef07bac8c865",
+      "submission" : 1595,
+      "title" : "Banhotta [未来差分研究所]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=141&event=127",
+      "url_diff" : "https://darksabun.github.io/event/mf/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "nmk / わっふゑ obj:Guanacoite",
       "comment" : "sl1 or sl2",
       "level" : "2",
@@ -8176,7 +8217,7 @@
    {
       "artist" : "P4koo/Ruriling/Tofa Kim obj:七海千秋",
       "comment" : "練習練習",
-      "level" : "4",
+      "level" : "5",
       "md5" : "5c5fdbb4051fc0b2b7831f54466b2fa7",
       "proposer" : "Whip",
       "proposerLr2id" : 145504,
@@ -9368,7 +9409,7 @@
    {
       "artist" : "Nego_tiator BGI:*reinahitomi / obj. DK",
       "comment" : "良譜面",
-      "level" : "1",
+      "level" : "2",
       "md5" : "69ca3f64e59c20a04e28579aa810ef64",
       "proposer" : "|/|",
       "proposerLr2id" : 147895,
@@ -10027,6 +10068,19 @@
       "title" : "c.s.q.n. -Modus ponens-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=223&event=127",
       "url_diff" : "http://beatkim.web.fc2.com/insane.html"
+   },
+   {
+      "artist" : "mist-rose obj:DAC",
+      "comment" : "HyperのPMSとズレなし",
+      "level" : "4",
+      "md5" : "71e674ec022899ecd5f56ecc26b1f733",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "3947f95438ac90dd761c44eece796e020cd93f14e64bbc21610c1df878d884be",
+      "submission" : 1593,
+      "title" : "flowers",
+      "url" : "http://tm2.toymusical.net/download.html",
+      "url_diff" : "https://fsrs.github.io/table.html"
    },
    {
       "artist" : "Ino(chronoize) feat. 柳瀬マサキ obj. DK",
@@ -12532,6 +12586,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Lian",
+      "comment" : "同梱譜面です。早い乱打などいろいろ",
+      "level" : "8",
+      "md5" : "8fc5221093ed94af08e93aa8a17f0919",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "abd6215348c2f526128e4a84d67aaa81d822f2445e7b0c82e3c121d0481f1327",
+      "submission" : 1599,
+      "title" : "Hypervigility [INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=127",
+      "url_diff" : "",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Est/さ",
       "level" : "7",
       "md5" : "8ff8f7dca521b31d3097066e97874540",
@@ -14100,7 +14168,7 @@
    {
       "artist" : "koorijake obj:bazurineko",
       "comment" : "遅めのガチ押し",
-      "level" : "4",
+      "level" : "3",
       "md5" : "a3781855d9f6417cbd4f583f0b3a7347",
       "proposer" : "SANY",
       "proposerLr2id" : 128405,
@@ -15185,6 +15253,20 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/CandyBaquette-spHARDEST.bme"
    },
    {
+      "artist" : "Junk obj. 未来差分研究所",
+      "comment" : "MUTUAL FUMEN",
+      "level" : "5",
+      "md5" : "af3d691548fe1aa9fdbf19d0e96387fb",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "19960d8e34016c3e8bcd1a98d1cb487a6cc00b0f33d10de9bcc87cf4f67812ce",
+      "submission" : 1598,
+      "title" : "Life is PIANO [未来差分研究所]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=375&event=123",
+      "url_diff" : "https://darksabun.github.io/event/mf/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Is-m BGA:Y.A.B.tutidama / obj:nullest",
       "level" : "8",
       "md5" : "af4f6e14957bfe52449ac9ce07a4c300",
@@ -15751,6 +15833,18 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "wa. / deadblue238",
+      "level" : "0",
+      "md5" : "b341e4cc6f0f6a59100910ed11a92f8d",
+      "proposer" : "bluemouse",
+      "proposerMinirid" : "38b6fd3c-5f86-4e87-aef8-3f9952471580",
+      "sha256" : "3620333dae5f215a97a28989f78c4e7f6cb763f13991d96003c8582a3e83a860",
+      "submission" : 1594,
+      "title" : "Lieselotte  [ANOTHER]",
+      "url" : "http://wayback.archive.org/web/20160506153918/http://creation-records.info/bms/_wa_lieselotte.rar",
+      "url_diff" : ""
    },
    {
       "artist" : "Blue-J vs. Ruby.G / obj : litmus*",

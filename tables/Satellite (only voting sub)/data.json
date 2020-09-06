@@ -1,5 +1,19 @@
 [
    {
+      "artist" : "rate-dat + Cranky + hi-low obj:SUZUKAZEΛ",
+      "comment" : "皿複合、sl4~5？",
+      "level" : "4",
+      "md5" : "0016ffd024c31943ca502f30258d336f",
+      "proposer" : "quinto",
+      "proposerLr2id" : 141043,
+      "sha256" : "0d10851466807cb15865d6ae6b224f1531771aabe74f6576bddbc773a400f160",
+      "submission" : 1597,
+      "title" : "Rate Cranky Hi-roller [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=232&event=123",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "isocosa / selene.",
       "comment" : "2~3? 乱打",
       "level" : "3",
@@ -13,44 +27,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01530"
    },
    {
-      "artist" : "Kyuzo Sameura",
-      "level" : "0",
-      "md5" : "08d5195f34a425ea7d545ba6cf39c074",
-      "proposer" : "|/|",
-      "proposerLr2id" : 147895,
-      "sha256" : "4ff3862ee3445c24da7d181d140847e653d5844eb2d2c3fba0c0b975979134a9",
-      "submission" : 1582,
-      "title" : "reflection [7KEYS ANOTHER]",
-      "url" : "https://k-bms.com/party_pabat/party.jsp?board_num=20&num=33&order=reg&odtype=a",
-      "url_diff" : ""
-   },
-   {
-      "artist" : "Street obj:SUZUKAZEΛ",
-      "comment" : "微縦連",
-      "level" : "6",
-      "md5" : "08d63a18406f7d418e22f226f0aa644a",
-      "proposer" : "Restia",
-      "proposerLr2id" : 115265,
-      "sha256" : "df9f86d922ac645421a65704e7d6f0bd6d6d7b99e438b7f3ef4c4ed50900677c",
-      "submission" : 1568,
-      "title" : "Sakura Fubuki [ZOI]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=96&event=104",
-      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "MILK obj.quad",
-      "comment" : "乱打",
-      "level" : "1",
-      "md5" : "22a8fdf9c1dc7353c1ec62363244ac73",
-      "proposer" : "|/|",
-      "proposerLr2id" : 147895,
-      "sha256" : "c0da7a52e401e830b9da354b71f73b31dbe26789cd0b39d318df33b23f1941e1",
-      "submission" : 1571,
-      "title" : "kyrka [Mild(fix)]",
-      "url" : "http://diverse.jp/dbhtml/download.html",
-      "url_diff" : "https://www.dropbox.com/s/vjr6ta4oq3k7rlf/kyrka_fix.zip?dl=1",
-      "zureCount" : 0
+      "artist" : "World's endo pisum sativum L. obj:七海",
+      "comment" : "BPM180 多要素",
+      "level" : "12",
+      "md5" : "07e5040e7a381f045d8798560ee95b43",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "43c148897b3fb239a2fa626ed319287f1ca923722f3db3bb7f04ca8a14c6a05e",
+      "submission" : 1596,
+      "title" : "Alice I [WTF]",
+      "url" : "https://www.bmsworld.nz/download/b-j-cup-8th-stage-worlds-endo-pisum-sativum-l-alice-i/#",
+      "url_diff" : "https://trfce.github.io/wtf.html"
    },
    {
       "artist" : "Arranged by KA-KU original:\"Rude Buster\" from \"DELTARUNE\"",
@@ -80,30 +67,18 @@
       "zureCount" : 0
    },
    {
-      "artist" : "yamada. obj:Sunny",
-      "comment" : "同時押し/乱打",
-      "level" : "5",
-      "md5" : "5d4804ef4e60d848423fd2c0f71ddc5d",
-      "proposer" : "かに",
-      "proposerLr2id" : 115381,
-      "sha256" : "11d92a1ef6351d5aafc99857eb72562d147fa266d5e43e0cfbb032d09900089d",
-      "submission" : 1563,
-      "title" : "Awakening Girl [SP INSANE]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=131",
-      "url_diff" : ""
-   },
-   {
-      "artist" : "∀S∀",
-      "comment" : "同梱譜面。",
-      "level" : "0",
-      "md5" : "5f219830b3c12bd694ae098e70f441e6",
-      "proposer" : "quinto",
-      "proposerLr2id" : 141043,
-      "sha256" : "963dacfde184ce036572ecb942701d664e293aa05ebae177be4623eb1e815c41",
-      "submission" : 1558,
-      "title" : "Drift TAXI [7k Another]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=126",
-      "url_diff" : ""
+      "artist" : "r obj. 未来差分研究所",
+      "comment" : "BPM113 同時押し、ズレ",
+      "level" : "7",
+      "md5" : "41541e23144c1f47186b8353c365921f",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "f5ee4fac3926d0a14c3e3b011db2c6259e992fccae52af935363ef07bac8c865",
+      "submission" : 1595,
+      "title" : "Banhotta [未来差分研究所]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=141&event=127",
+      "url_diff" : "https://darksabun.github.io/event/mf/",
+      "zureCount" : 0
    },
    {
       "artist" : "oxygen / obj:Sphere",
@@ -133,34 +108,6 @@
       "url_diff" : ""
    },
    {
-      "artist" : "uma feat. ましろ / obj:夢瑠",
-      "comment" : "5~6?",
-      "level" : "6",
-      "md5" : "70120d2889c1e30252289b4e95e1f0c6",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "02a0673c2da69e2ae6e96021d36a1a7683d14feb1e2a52a6db1323900dda0ede",
-      "submission" : 1574,
-      "title" : "take me to the moon [yumether]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=129",
-      "url_diff" : "https://dl.dropboxusercontent.com/s/dhoumpy389m7sl4/_take_me_yume.zip",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "Coco / obj:alt",
-      "comment" : "BPM150 微縦",
-      "level" : "4",
-      "md5" : "7014bc052006f52b398c038017a7527a",
-      "proposer" : "SHAX.",
-      "proposerLr2id" : 65624,
-      "sha256" : "fe32b350b0b53aa608c0c2bce193cfbd7374094b74b2e025b330f9aed65e12f9",
-      "submission" : 1573,
-      "title" : "pp-hunk [Phunny]",
-      "url" : "https://onedrive.live.com/?cid=863934608D908CD0&id=863934608D908CD0%21105",
-      "url_diff" : "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view?usp=sharing",
-      "zureCount" : 0
-   },
-   {
       "artist" : "Rocky",
       "comment" : "BOF2013、同梱譜面",
       "level" : "0",
@@ -174,18 +121,17 @@
       "url_diff" : ""
    },
    {
-      "artist" : "M-UE ◇ sak Illust: はし◇たか / obj:SUZUKAZEΛ",
-      "comment" : "4~5?",
+      "artist" : "mist-rose obj:DAC",
+      "comment" : "HyperのPMSとズレなし",
       "level" : "4",
-      "md5" : "739168d15704d3e8166ac9347e959b84",
+      "md5" : "71e674ec022899ecd5f56ecc26b1f733",
       "proposer" : "MineC24",
       "proposerLr2id" : 84597,
-      "sha256" : "30327e81b6e0876746fd54e1bce9eb698c6e6613190920dc292a4a8ad92e36d1",
-      "submission" : 1559,
-      "title" : "Pumpkin ◇ Magic [ZOI]",
-      "url" : "https://venue.bmssearch.net/mutualfaith3/13",
-      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
-      "zureCount" : 0
+      "sha256" : "3947f95438ac90dd761c44eece796e020cd93f14e64bbc21610c1df878d884be",
+      "submission" : 1593,
+      "title" : "flowers",
+      "url" : "http://tm2.toymusical.net/download.html",
+      "url_diff" : "https://fsrs.github.io/table.html"
    },
    {
       "artist" : "140/fth + ルゼ obj. DK",
@@ -201,42 +147,17 @@
       "url_diff" : "https://frozensat.github.io/sabun/JustOneWord_DK.zip"
    },
    {
-      "artist" : "tarolabo / 29",
-      "comment" : "低TOTAL (~0.17), ズレ (スイング)",
-      "level" : "4",
-      "md5" : "86be60e07f01c5fa43bd0c49322f3494",
-      "proposer" : "vivienne",
-      "proposerMinirid" : "76c71ddb-9dac-44a1-a31c-e6ff55ee75fe",
-      "sha256" : "4a375a2cdf866cdf554d7106cb0fee40e155a76e2677b7331ce8e11963e94304",
-      "submission" : 1570,
-      "title" : "Zeitmesser [29Another]",
-      "url" : "http://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21111",
-      "url_diff" : "http://nick.xxxxxxxx.jp/"
-   },
-   {
-      "artist" : "Lime feat. Salita / deadblue238 / obj: Lennon",
-      "comment" : "BPM136 乱打",
-      "level" : "2",
-      "md5" : "883e105c2aa9a81108b3c4bf5d571c41",
-      "proposer" : "SHAX.",
-      "proposerLr2id" : 65624,
-      "sha256" : "27e0e6687d0d3182f9aafbebcdc9ce1241bdf7a8f8448f559c182ad7bdb164c3",
-      "submission" : 1572,
-      "title" : "Snowfairy -naughty-",
-      "url" : "https://1drv.ms/u/s!AkHILFwfHSyzgQq9h_F43s8uxLLc",
-      "url_diff" : "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view?usp=sharing"
-   },
-   {
-      "artist" : "Est obj syzfonics",
-      "level" : "1",
-      "md5" : "8a133dfa8259be2954d8ff708228504f",
-      "proposer" : "ほっしー",
-      "proposerLr2id" : 38925,
-      "sha256" : "22615b085da346d88d1d6c663c20d6481781137bf15ff3ad3dabb299656fc9b8",
-      "submission" : 1577,
-      "title" : "Angelic Snow (Difficult 7)",
-      "url" : "http://estish.nobody.jp/",
-      "url_diff" : "https://drive.google.com/file/d/14A0Mp38RW5tovREgKYOgS22R0RICtpIH/view?usp=sharing",
+      "artist" : "Lian",
+      "comment" : "同梱譜面です。早い乱打などいろいろ",
+      "level" : "8",
+      "md5" : "8fc5221093ed94af08e93aa8a17f0919",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "abd6215348c2f526128e4a84d67aaa81d822f2445e7b0c82e3c121d0481f1327",
+      "submission" : 1599,
+      "title" : "Hypervigility [INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=127",
+      "url_diff" : "",
       "zureCount" : 0
    },
    {
@@ -251,6 +172,22 @@
       "title" : "Upshift [Another]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=355&event=123",
       "url_diff" : ""
+   },
+   {
+      "artist" : "Superbia",
+      "level" : "3",
+      "md5" : "98d001d5936fbac50f7e51ac1c4ea9e6",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "1103f67910a844619fdcb9fcc272939174fab4ccd5588aa96592ae4efc7af812",
+      "submission" : 1322,
+      "title" : "Entschadigung",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=114",
+      "url_diff" : "",
+      "voteNeutral" : 5,
+      "voteNo" : 1,
+      "votePercent" : 79.4117647058823,
+      "voteYes" : 11
    },
    {
       "artist" : "けふぃー BGI:ましろ obj:k-spin",
@@ -283,17 +220,18 @@
       "voteYes" : 8
    },
    {
-      "artist" : "紅蓮月影 BGA:A-ZERO Project / obj:七海",
-      "comment" : "同梱02_andro_h基準03、08、09レーンでズレがありますがそれはBPM、STOPと関連するレーンです。コメントで続きます。",
-      "level" : "12",
-      "md5" : "a887816dc80ae5801a6786d9ef6d5daf",
+      "artist" : "Junk obj. 未来差分研究所",
+      "comment" : "MUTUAL FUMEN",
+      "level" : "5",
+      "md5" : "af3d691548fe1aa9fdbf19d0e96387fb",
       "proposer" : "MarySue",
       "proposerLr2id" : 147889,
-      "sha256" : "c7b5efbb331befbbae2e2a0ffa94ce101425a83d30e9b700f83875e8f9179325",
-      "submission" : 1546,
-      "title" : "Andro -Despair-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=238&event=104",
-      "url_diff" : "https://www.dropbox.com/s/hqnx9cf2fjvi021/andro_fix.zip?dl=1"
+      "sha256" : "19960d8e34016c3e8bcd1a98d1cb487a6cc00b0f33d10de9bcc87cf4f67812ce",
+      "submission" : 1598,
+      "title" : "Life is PIANO [未来差分研究所]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=375&event=123",
+      "url_diff" : "https://darksabun.github.io/event/mf/",
+      "zureCount" : 0
    },
    {
       "artist" : "LisicA movie : ルゼ(LuzeriA) / illust : Orphee / obj : ★11夕凪の丘S乱に失敗した猫さん",
@@ -307,6 +245,18 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=127",
       "url_diff" : "https://darksabun.github.io/event/mf/",
       "zureCount" : 0
+   },
+   {
+      "artist" : "wa. / deadblue238",
+      "level" : "0",
+      "md5" : "b341e4cc6f0f6a59100910ed11a92f8d",
+      "proposer" : "bluemouse",
+      "proposerMinirid" : "38b6fd3c-5f86-4e87-aef8-3f9952471580",
+      "sha256" : "3620333dae5f215a97a28989f78c4e7f6cb763f13991d96003c8582a3e83a860",
+      "submission" : 1594,
+      "title" : "Lieselotte  [ANOTHER]",
+      "url" : "http://wayback.archive.org/web/20160506153918/http://creation-records.info/bms/_wa_lieselotte.rar",
+      "url_diff" : ""
    },
    {
       "artist" : "TK pattern for some reason",
@@ -347,20 +297,6 @@
       "title" : "ザ・レアー [RAMPAGE]",
       "url" : "https://shiraishi2007.exblog.jp/27968989/",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03035",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "L-Mys / selene.",
-      "comment" : "NORMAL判定",
-      "level" : "3",
-      "md5" : "f7f8125e7670c8a96d33d093e637c349",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "70d1949461095686c27c4ad3b4ada697b191773c1cc51dd7f63d091e816b82bc",
-      "submission" : 1560,
-      "title" : "Lucifuge Rofocale (twilight)",
-      "url" : "http://sunaneko.iptime.org/BMS_Library/Lucifuge%20Rofocale%20%28by%20L-Mys%29.rar",
-      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "zureCount" : 0
    },
    {
