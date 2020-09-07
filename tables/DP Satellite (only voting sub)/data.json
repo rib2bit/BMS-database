@@ -1,5 +1,33 @@
 [
    {
+      "artist" : "Sakamiya feat.前野 mov:hx notes:OSR",
+      "comment" : "同梱譜面 同時押し、階段",
+      "level" : "2",
+      "md5" : "14a1172f13f22f8dd2e8bf5afa275a14",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "d28eca337d0e2b8628aa304665da69ab0ad8707a6e33cc69693d85bb793dfcbb",
+      "submission" : 397,
+      "title" : "翼の折れた天使たちのレクイエム [DP Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=123",
+      "url_diff" : "",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "EBIMAYO / obj.LetsOTL",
+      "comment" : "5~7? 階段、縦連、トリル、LN",
+      "level" : "6",
+      "md5" : "2daa83f98717a9e925859b9aa3b4e040",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "c1f0493f487954191241461595a1b05af978d5299745fda919bedd4a59fb4ac7",
+      "submission" : 396,
+      "title" : "GOODWORLD [DP]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=239&event=123",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/464",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Sigma X3 / yusi obj. Limite",
       "comment" : "総合力　中盤LN・連皿有",
       "level" : "0",
@@ -83,6 +111,34 @@
       "title" : "あなた [DP HYPER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=382&event=83",
       "url_diff" : "http://slash24th.web.fc2.com/",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "Sound piercer & Puru feat.Emma J. obj:Hersh",
+      "comment" : "同時押し",
+      "level" : "3",
+      "md5" : "81deb244886637b13c4b0f00d10e444e",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "f91acdbe556378f7ccbd80fb2d2eb30e40f842b07924f4fc8a4b6b931123bce5",
+      "submission" : 395,
+      "title" : "Dove [Tenderness]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=435&event=116",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/300",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "篠螺悠那 / selene.",
+      "comment" : "4~5? 物量、LN",
+      "level" : "4",
+      "md5" : "8bd635ded6fc98cc7f796acbbc444fe2",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "4792a58ae5dc5e955964028487711e3717c74fcb7e6e2ed43a82c35362d2b999",
+      "submission" : 398,
+      "title" : "x-Aria -frenzy mix- -DPANOTHER-",
+      "url" : "http://manbow.nothing.sh/event/explus/ex_r2/download.html",
+      "url_diff" : "http://bmsselene.web.fc2.com/dpindex.html",
       "zureCount" : 0
    },
    {
