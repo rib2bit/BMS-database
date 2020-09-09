@@ -1023,6 +1023,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "U.P. obj : Mary_Sue",
+      "comment" : "SPAとズレなし",
+      "level" : "7",
+      "md5" : "08d506ee9afb235809c8ea64d1aba522",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "46d46496f9da4fe86561251a34b012bb6802b7345cf2b106c017511a1b218ba1",
+      "submission" : 1603,
+      "title" : "Sylvie [Teaching Feeling]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=145&event=65",
+      "url_diff" : "https://darksabun.github.io/Mary_Sue/"
+   },
+   {
       "artist" : "Kyuzo Sameura",
       "level" : "0",
       "md5" : "08d5195f34a425ea7d545ba6cf39c074",
@@ -19482,6 +19495,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "NIKITA / nabehiro / obj:夢瑠",
+      "comment" : "連打と物量複合",
+      "level" : "10",
+      "md5" : "da91e2ef57506464994ca05d4bc65cdb",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "825b2e87b1d79c40632246e2132bd0aeb26cdf50314ddc731136e0837e56db89",
+      "submission" : 1602,
+      "title" : "Fakeover [yumether]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=451&event=110",
+      "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
+      "zureCount" : 0
    },
    {
       "artist" : "urimu/obj:るっくん Movie:RAIDEN",
