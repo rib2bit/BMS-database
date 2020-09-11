@@ -53,6 +53,20 @@
       "url_diff" : "https://darksabun.github.io/Mary_Sue/"
    },
    {
+      "artist" : "P4koo feat. Ruriling obj. B_K",
+      "comment" : "total 370 / 同梱譜面 / 同時押し、物量、瞬間発狂",
+      "level" : "0",
+      "md5" : "0ff82216169fc98c01ec00beaf958473",
+      "proposer" : "used_tami",
+      "proposerMinirid" : "89c2f656-677d-4fa8-828e-11786ee340ca",
+      "sha256" : "c731a9929bba7268d22850b79dc55423357fd2fc81edb0cb2d9dd427c5349baf",
+      "submission" : 1607,
+      "title" : "HYPERDIMENSION/ACCELERATION [ANOTHER]",
+      "url" : "http://1drv.ms/1QJ0Sjv",
+      "url_diff" : "",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Arranged by KA-KU original:\"Rude Buster\" from \"DELTARUNE\"",
       "comment" : "D E L T A R U N E",
       "level" : "5",
@@ -64,6 +78,20 @@
       "title" : "タタカイノトキ [Dark Another]",
       "url" : "https://sites.google.com/view/yuruyurubms/phase-6",
       "url_diff" : ""
+   },
+   {
+      "artist" : "arrange:A.S-Leaf / illustration:岾兎。",
+      "comment" : "CN",
+      "level" : "1",
+      "md5" : "2cd183d95a0471bbeb4533ce21b227fb",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "7753b5a12d9624459bbd7e83adabef6a3599ae2761114687493f743d48308d08",
+      "submission" : 1606,
+      "title" : "Sphere",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=92",
+      "url_diff" : "",
+      "zureCount" : 0
    },
    {
       "artist" : "Micelle / obj:七海",
@@ -404,5 +432,18 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=109",
       "url_diff" : "https://darksabun.github.io/event/mf/",
       "zureCount" : 0
+   },
+   {
+      "artist" : "287 a.k.a. EXAM.S feat. 東北きりたん",
+      "comment" : "同梱譜面",
+      "level" : "3",
+      "md5" : "fe92f475a97086dff4afc085256858fb",
+      "proposer" : "KI",
+      "proposerLr2id" : 158558,
+      "sha256" : "39a1a90b658f30c0d5e472ea522408ad4e389454438f3bed34cd7340d8cc1aef",
+      "submission" : 1605,
+      "title" : "Opposit_Position [Marathon7]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=131",
+      "url_diff" : ""
    }
 ]
