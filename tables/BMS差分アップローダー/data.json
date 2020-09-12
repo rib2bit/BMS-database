@@ -7440,6 +7440,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00065"
    },
    {
+      "adddate" : "2020/09/12 21:12",
+      "artist" : "MUSIC:ZUN / BMS:銅螺子 obj:tamate",
+      "comment" : "16分乱打穴抜き",
+      "folder" : "2020/09",
+      "genre" : "東方永夜抄",
+      "keys" : 7,
+      "level" : "2020/09",
+      "lr2_bmsid" : "",
+      "md5" : "1685a6089af4592c40386d7c40dfbe3d",
+      "org_level" : null,
+      "title" : "ヴォヤージュ 1970 [Curtain Hyper]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04617"
+   },
+   {
       "adddate" : "2018/07/08 23:40",
       "artist" : "------ obj.Limite",
       "comment" : "★13 AVALONの二重トリル、微縦連、同時押し、皿LN",
@@ -13468,6 +13483,21 @@
       "title" : "RE:START [凛]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=247&event=104",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02300"
+   },
+   {
+      "adddate" : "2020/09/13 00:50",
+      "artist" : "r obj. DK",
+      "comment" : "LN, 皿, 乱打 （動画：https://youtu.be/4GZjeY9eJ64）",
+      "folder" : "2020/09",
+      "genre" : "ART HARDCORE",
+      "keys" : "7",
+      "level" : "2020/09",
+      "lr2_bmsid" : "290125",
+      "md5" : "2865caf7729490150384201d666c4db9",
+      "org_level" : null,
+      "title" : "クロノバイザー [パラドックス]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=88&event=132",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04619"
    },
    {
       "adddate" : "2017/05/07 02:04",
@@ -43526,7 +43556,7 @@
       "md5" : "8122a17d61cf9a6f6a09c79238310465",
       "org_level" : null,
       "title" : "Armageddon -Genocide-",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=129",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04172"
    },
    {
@@ -56788,6 +56818,21 @@
       "title" : "Black Lotus [LUNATIC]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=138&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00766"
+   },
+   {
+      "adddate" : "2020/09/12 21:13",
+      "artist" : "由蘭 obj:tamate",
+      "comment" : "二個穴抜き",
+      "folder" : "2020/09",
+      "genre" : "MegaMari -魔理沙の野望-",
+      "keys" : 7,
+      "level" : "2020/09",
+      "lr2_bmsid" : "290107",
+      "md5" : "a72b77735d92834989e81a2ce6617992",
+      "org_level" : null,
+      "title" : "メガマリ　タイトル [Curtain Normal]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04618"
    },
    {
       "adddate" : "2020/01/15 11:36",

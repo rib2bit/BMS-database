@@ -29,6 +29,19 @@
       "voteYes" : 5
    },
    {
+      "artist" : "LeaF Movie:Optie / obj:1008",
+      "comment" : "change chart (request from charter) You must read chart zip's text file.. (Japanese)",
+      "level" : "1",
+      "md5" : "2e2ec86581e880d8570d2f3b10c03fda",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "b55aa4cca52921e2ac0386d09d26e572c91b0ae951796411189c86d608cc6dde",
+      "submission" : 1241,
+      "title" : "Aleph-0 [Ω]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=498&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04611"
+   },
+   {
       "artist" : "ridis(Rai) / Crude Sound Cutter",
       "level" : "1",
       "md5" : "3e118905963bec7a8f153f2b8166e11b",
@@ -136,19 +149,6 @@
       "url" : "http://famousbms.web.fc2.com/",
       "url_diff" : "https://www.dropbox.com/s/ohhv4hvfmmkmsh0/kissmeplz.zip?dl=1",
       "zureCount" : 0
-   },
-   {
-      "artist" : "LeaF Movie:Optie / obj:1008",
-      "comment" : "BPMが0だからズレチェックできない",
-      "level" : "1",
-      "md5" : "c465c7628257b5458d88fc39cc368bf0",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "604200e1319feff5c3addfc7b52507a9a16d7a7fc61b8283161aa93dd00a276b",
-      "submission" : 1237,
-      "title" : "Aleph-0 [Ω]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=498&event=110",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=2363"
    },
    {
       "artist" : "kei_iwata feat.レゾナンスもえこ obj:七海 Movie:Arishima_Caprico Illust:Morph",
