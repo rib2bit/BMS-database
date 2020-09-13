@@ -4817,6 +4817,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "onoken Obj.Triforce",
+      "comment" : "BPM080 ディレイ、中盤以降BPMのアレンジ",
+      "level" : "4",
+      "md5" : "4724abf1ae1b9a575abc966c22cd331f",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "739485e781aeb5c6b5f662a3335c0bf64a9b9ede9a2ca8aaf0b8af2150d45c66",
+      "submission" : 1243,
+      "title" : "探し物 [WTF]",
+      "url" : "http://web.archive.org/web/20070111193502/www107.sakura.ne.jp/~onoken/htmls/bms.html",
+      "url_diff" : "https://trfce.github.io/sabun/(108)sagasimono_triforce.zip"
+   },
+   {
       "artist" : "Le Dos-on",
       "comment" : "BPM200長い物量",
       "level" : "7",
@@ -7933,6 +7946,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "TO-MAX remixed by LU / obj:Sphere",
+      "comment" : "BPM174 微連打、32分発狂",
+      "level" : "5",
+      "md5" : "717432dec01eee557e65b1022bd3bffb",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "714f79b2e3d8163795d7fcedce29f206dc48135e88d3c30f515a0f904b743a49",
+      "submission" : 1242,
+      "title" : "contact force sense (remix)",
+      "url" : "http://gensoukyousoukyoku.nekokan.dyndns.info/9-TOMAX_remixed_by_LU-contact_force_sence.rar",
+      "url_diff" : "https://darksabun.github.io/event/mf/",
+      "zureCount" : 0
    },
    {
       "artist" : "Neun_jack mov:squidboy/obj:Mary_Sue",
