@@ -9415,6 +9415,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "sentire/さ",
+      "comment" : "BPM200の乱打がまあまあ詰め込まれてるかと。こちらから入手できます http://web.archive.org/web/20170430192544/http://sabosabun.tank.jp/sabun/takigyo%20sabun.zip",
+      "level" : "0",
+      "md5" : "8a951fe8b599a85430740b62db452aaa",
+      "proposer" : "ふかけん",
+      "proposerLr2id" : 145204,
+      "sha256" : "631ed122518e4740037863f0c5ba028ba68a3b2a95b5fc9ac0594d6ff40a671b",
+      "submission" : 1244,
+      "title" : "滝行Lv28 [全白になりました]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=359&event=74",
+      "url_diff" : "http://sabosabun.tank.jp/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "HYPER HYBRID(\"HYPER\" MSMcorp. vs \"HYPER\" RYO-K) obj : LindBlum",
       "comment" : "高速物量",
       "level" : "6",
