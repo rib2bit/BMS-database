@@ -20368,6 +20368,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "beatMARIO / tomsfir / black train",
+      "comment" : "神曲、sl1中位?",
+      "level" : "1",
+      "md5" : "e3c881c1c5d8e7448ea838e16b9b1ebb",
+      "proposer" : "TR1",
+      "proposerLr2id" : 152181,
+      "sha256" : "2871143477a2e9c8748c67637735a9faa4c0f7d451150d7f3f12c587cc54f5e7",
+      "submission" : 1610,
+      "title" : "Last! Least! Regrets!! (虎のANOTHER)",
+      "url" : "http://cool-create.cc/",
+      "url_diff" : "http://f32.aaa.livedoor.jp/~absolute/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "P4koo obj:SUZUKAZEΛ",
       "level" : "4",
       "md5" : "e3dfd9f62e2da6233836e6628c9bba6a",
@@ -21734,6 +21748,19 @@
       "title" : "Armageddon [Plutonium]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=129",
       "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/"
+   },
+   {
+      "artist" : "Uranus",
+      "comment" : "同梱譜面",
+      "level" : "0",
+      "md5" : "f347718c3c6b9911f10d13af26f23cf2",
+      "proposer" : "TR1",
+      "proposerLr2id" : 152181,
+      "sha256" : "0c38102e1ac7a3d0127db2a58773db3137e88682d4d9db4ce426f1fe4c5e4bee",
+      "submission" : 1609,
+      "title" : "CROWNED ~ ｫﾀｫ�ｫｬｫﾜｫｯｫﾈｫ皚ﾆ [SOULED]",
+      "url" : "http://k-bms.com/party_pabat/party2014.jsp?board_num=11&num=18&order=reg&odtype=a",
+      "url_diff" : ""
    },
    {
       "artist" : "isocosa / obj:NASA",

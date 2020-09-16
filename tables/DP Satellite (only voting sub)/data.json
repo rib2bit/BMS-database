@@ -1,5 +1,18 @@
 [
    {
+      "artist" : "gya9 vs anubasu-anubasu BGA by KG / Obj:ゆ～兎",
+      "level" : "2",
+      "md5" : "03028a53619420a7318f76c1c04f5cf1",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "02ebf783b56773fb9e5ce8c7e658bcad06f843bc2031c74778495e4473c08c83",
+      "submission" : 399,
+      "title" : "Anthemizer [DP ANOTHER]",
+      "url" : "https://drive.google.com/file/d/1_o9jYBvAlxPRue5zpi9f3pkaaQvZBr0n/view?usp=sharing",
+      "url_diff" : "http://web.archive.org/web/20140921042604/http://timetorain.web.fc2.com/sabun/gyanubasu_YH.zip",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Sakamiya feat.前野 mov:hx notes:OSR",
       "comment" : "同梱譜面 同時押し、階段",
       "level" : "2",
@@ -100,6 +113,32 @@
       "zureCount" : 0
    },
    {
+      "artist" : "iF mov:レク / Obj:ゆ～兎",
+      "level" : "2",
+      "md5" : "6357e029a3092291369717c4f7554849",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "7357ea566e15b9815404646a1bea480557e297f3c8883b3506ead6c07d253e30",
+      "submission" : 400,
+      "title" : "Azure Emotion [DP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=89&event=83",
+      "url_diff" : "http://web.archive.org/web/20140921042604/http://timetorain.web.fc2.com/sabun/r7produce_bms_azure_emotion_YH.zip",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "q/stol / obj by bbangsami",
+      "comment" : "同梱譜面",
+      "level" : "2",
+      "md5" : "65fca2949626b80fb8f21359cf0799aa",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "8fe8efabf77edeee9f4951ed10d7167669bc46617c744790c00b94272c39df57",
+      "submission" : 403,
+      "title" : "GIN TONIC FLAVOR",
+      "url" : "http://nekokan.dyndns.info/~lobsak/genocide/grade.html",
+      "url_diff" : ""
+   },
+   {
       "artist" : "mitssi feat. SeeU Movie: Sabhwa Note: LiTaNia / reobj:Louis",
       "comment" : "片手12分階段・乱打",
       "level" : "1",
@@ -125,6 +164,19 @@
       "title" : "Dove [Tenderness]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=435&event=116",
       "url_diff" : "https://ux.getuploader.com/dpbms/download/300",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "nmk / Obj:ゆ～兎",
+      "level" : "2",
+      "md5" : "81ed3f5c9df93ce4e98a623052a526ac",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "c79fdfe3385acf4a9690677c53257417bde63e8000bc90385806ce988312c120",
+      "submission" : 402,
+      "title" : "Event Horizon [DP ANOTHER]",
+      "url" : "http://web.archive.org/web/20140111152110/http://miohosina.moe.hm/nmk_Event_Horizon.zip",
+      "url_diff" : "http://web.archive.org/web/20140921042604/http://timetorain.web.fc2.com/sabun/nmk_Event_Horizon_YH.zip",
       "zureCount" : 0
    },
    {
@@ -225,6 +277,20 @@
       "title" : "エトワール・エトワール [DP Insane]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=135&event=116",
       "url_diff" : "",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "CELLON. / Obj:ゆ～兎",
+      "comment" : "ラスト殺し",
+      "level" : "2",
+      "md5" : "ed6c53f4a405cde88ddd5c48333ba310",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "0423145156bf94b2e592a9ad1577efcde2f1ae0c496ac2ddd50f2efe95ba361e",
+      "submission" : 401,
+      "title" : "Cube of mind",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=83",
+      "url_diff" : "http://web.archive.org/web/20140921042604/http://timetorain.web.fc2.com/sabun/cube_of_mind_YH.zip",
       "zureCount" : 0
    },
    {
