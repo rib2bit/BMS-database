@@ -2748,6 +2748,20 @@
       "zureCount" : 0
    },
    {
+      "artist" : "NASA respekt for F. Chopin",
+      "comment" : "WORLD WAR。高速階段、同梱差分",
+      "level" : "1",
+      "md5" : "2b1d7da2ceb4a9751699179bc0ba1c2a",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "e3ea03ae72147e403afed3e8e5713671c3db7288fb9c2610ac49eee15763b07b",
+      "submission" : 1248,
+      "title" : "夜騒曲 op.Q-ν [Lapid Bullet]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=96&event=132",
+      "url_diff" : "",
+      "zureCount" : 0
+   },
+   {
       "artist" : "otoshi.b Movie:Arishima_Caprico / obj.mute",
       "level" : "4",
       "md5" : "2b5c45cbbe5ce2539c8548d5d523e11f",
@@ -11193,6 +11207,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "TJ.hangneil vs Jackz obj.Restia",
+      "comment" : "WORLD WAR。高速、ラス殺し。Anzutool基準spaとズレ、抜け無し。",
+      "level" : "2",
+      "md5" : "a3561bec2d6513bad2e8b2e4b7e7a818",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "d7f7f285d4e8ad52c86cee3e30b127a3c03820dc65f5360c805660d57f076c1b",
+      "submission" : 1249,
+      "title" : "ozma [Nervous Breakdown]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=132",
+      "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpyl0W2d0SZZneXbLx5?e=zDaIOF"
+   },
+   {
       "artist" : "koto obj:VINYL",
       "comment" : "BPM170 微連打",
       "level" : "3",
@@ -11551,6 +11578,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "紅蓮月影 BGA:A-ZERO Project / obj:七海",
+      "comment" : "from Satellite",
+      "level" : "0",
+      "md5" : "a887816dc80ae5801a6786d9ef6d5daf",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "c7b5efbb331befbbae2e2a0ffa94ce101425a83d30e9b700f83875e8f9179325",
+      "submission" : 1247,
+      "title" : "Andro -Despair-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=238&event=104",
+      "url_diff" : "https://www.dropbox.com/s/hqnx9cf2fjvi021/andro_fix.zip?dl=1"
    },
    {
       "artist" : "ねこみりん + nora2r feat. 小宮真央 出前 + くるみあべし",
@@ -14469,6 +14509,19 @@
       "title" : "Vorota Collapse [Catastrophe]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=436&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01314"
+   },
+   {
+      "artist" : "psi obj:Azop",
+      "comment" : "ガチ押しのエバラス",
+      "level" : "2",
+      "md5" : "d2f4525a62c37d343b4d385c227f6546",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "608f7ca9799afad85faaf95df973a5f3e01a1b26783306128f24fdedb682e65b",
+      "submission" : 1246,
+      "title" : "EVERLASTING HAPPiNESS↑ [上級]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=109",
+      "url_diff" : "https://drive.google.com/file/d/1fEDyUNQgVX134bWtAq3PhaF6zGvVP4A0/view"
    },
    {
       "artist" : "ueotan / obj:KOOPA",

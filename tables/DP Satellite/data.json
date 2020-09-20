@@ -627,6 +627,18 @@
       "url_diff" : "https://ux.getuploader.com/dpbms/download/699"
    },
    {
+      "artist" : "Sigma X3 / yusi obj. Limite",
+      "comment" : "総合力　中盤LN・連皿有",
+      "level" : "0",
+      "md5" : "37f8adb59640710ad6ff0aadb3367ea2",
+      "proposer" : "selene.",
+      "sha256" : "484c259f30f2a7dceb08cc1f8b1ca2f869e9066c1bdffe42c4152e4f1f88f744",
+      "submission" : 392,
+      "title" : "Celeste [DP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=284&event=127",
+      "url_diff" : ""
+   },
+   {
       "artist" : "MUSIC:片桐早苗 / BGA:輿水幸子 Obj:ゆ～兎",
       "comment" : "0~1? 乱打、同時押し",
       "level" : "1",
@@ -915,7 +927,7 @@
    {
       "artist" : "anubasu-anubasu BGA by 出前 / obj:Lilium",
       "comment" : "★10~11、dpbms_1064.zip",
-      "level" : "11",
+      "level" : "10",
       "md5" : "581dfb81c885d9b7b6ea868bf3524a47",
       "proposer" : "JHS",
       "sha256" : "5338980e7ecaf178d68af69acd81d04275381877095ffa18cc85371f5506450f",
@@ -1031,9 +1043,21 @@
       "url_diff" : "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download"
    },
    {
+      "artist" : "しーけー obj:Yosk!",
+      "comment" : "0～1 BPM230の8分乱打",
+      "level" : "0",
+      "md5" : "60475510ddfca1fe52635ec995980e8b",
+      "proposer" : "selene.",
+      "sha256" : "f349daf5c64a3e81d21a174c1215bfac60bddae50edc491b5692412f64e58c23",
+      "submission" : 383,
+      "title" : "クロートーと星の観測者",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=215&event=104",
+      "url_diff" : "http://nekokan.dyndns.info/~lobsak/genocide/grade.html"
+   },
+   {
       "artist" : "しらいし / obj:Louis",
       "comment" : "階段、トリル、連皿",
-      "level" : "10",
+      "level" : "9",
       "md5" : "609c7cedebd3a895dc46ab9dfc97a345",
       "proposer" : "にゃむ",
       "sha256" : "8dd3ba30f90f99916478b025742a2a6134cd3fa192be217290067bb5d893b061",
@@ -1941,6 +1965,18 @@
       "url_diff" : "https://www8.atwiki.jp/14key/pages/23.html"
    },
    {
+      "artist" : "Team Shanghai Alice (Remixed by Est) / obj:sagoo",
+      "comment" : "混フレ・中盤LN複合",
+      "level" : "0",
+      "md5" : "a74da5531a74770fa8dd841cd271454f",
+      "proposer" : "selene.",
+      "sha256" : "5bccee749d4f4adf897307c8a717d66db90fb7315bc619e4697f8136f68cd146",
+      "submission" : 390,
+      "title" : "In a dream [DP-sagANOTHER]",
+      "url" : "http://estish.nobody.jp/",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/920"
+   },
+   {
       "artist" : "tolz feat. 音街ウナ / obj:sagoo",
       "comment" : "4~5?、BOFXV、同時押し、配置難、イージー狙いなら両鏡や右鏡お勧め",
       "level" : "5",
@@ -2046,6 +2082,18 @@
       "title" : "Life is PIANO [DP ☆NOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=375&event=123",
       "url_diff" : "https://ux.getuploader.com/dpbms/download/522"
+   },
+   {
+      "artist" : "Triangle Waste (obj:HI)",
+      "comment" : "総合力物量",
+      "level" : "0",
+      "md5" : "abd68c1b5f68fd2604e0231db13d7a03",
+      "proposer" : "selene.",
+      "sha256" : "33593e8f9a77be761646235051e5267c85bf6e1ef076edd6644eaa4f4e8cb3c2",
+      "submission" : 391,
+      "title" : "Where To Feel [A14]",
+      "url" : "http://qstol.info/events/venue/detail?event=3&id=27",
+      "url_diff" : ""
    },
    {
       "artist" : "wa./obj:epics-",
@@ -2425,6 +2473,18 @@
       "title" : "PLASTIC GIRLS (ft. Seorryang) [DP MANIAC]",
       "url" : "http://k-bms.com/party_pabat/party2014.jsp?board_num=11&num=38&order=reg&odtype=a",
       "url_diff" : "https://ux.getuploader.com/dpbms/download/641"
+   },
+   {
+      "artist" : "MisomyL obj:mathath",
+      "comment" : "高速分割乱打",
+      "level" : "0",
+      "md5" : "ce58d3735220aaaff7183eb44e5b1f6b",
+      "proposer" : "selene.",
+      "sha256" : "4ea4924f176d40f5d5e4144ca54ad6c0e65c1f9fdce06ac228a0734bb4c9e6f9",
+      "submission" : 394,
+      "title" : "Amnehilesie [DP Hyper]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=362&event=123",
+      "url_diff" : ""
    },
    {
       "artist" : "STASTA TEKINA",
@@ -2944,6 +3004,18 @@
       "url_diff" : "https://stellabms.xyz/upload/144"
    },
    {
+      "artist" : "Cosmograph obj. Limite",
+      "comment" : "同梱譜面　同時押し・片手乱打と階段",
+      "level" : "1",
+      "md5" : "f17af7878927e3a3c6e4fb84a14e6682",
+      "proposer" : "selene.",
+      "sha256" : "d7707d590001167d8ff8fecea6e2a5fa26c68844f95e066f5f4411854ed263b7",
+      "submission" : 382,
+      "title" : "Comet (BMS Edit) [DP ANOTHER]",
+      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=38&order=reg&odtype=a",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Cocoa (obj:ka2o)",
       "comment" : "G2R2014 / dpbms_1331.zip",
       "level" : "7",
@@ -3002,6 +3074,18 @@
       "title" : "gradation (DP ANOTHER)",
       "url" : "https://onedrive.live.com/?authkey=%21AKRI_LJWCFUbDrg&cid=FC95A680740CA8C9&id=FC95A680740CA8C9%2117678&parId=FC95A680740CA8C9%21201&o=OneUp",
       "url_diff" : "http://dpbms.at-ninja.jp/"
+   },
+   {
+      "artist" : "Yosk!",
+      "comment" : "同梱譜面　片手乱打・大階段　ラストX",
+      "level" : "1",
+      "md5" : "f63b86f6bbf6c3105d579d9b4324a351",
+      "proposer" : "selene.",
+      "sha256" : "922b157b2eeafbc718abf2a50930d419353ed66a0a1db2538ec91fa9cf961cec",
+      "submission" : 393,
+      "title" : "Hot Jupiter",
+      "url" : "https://drive.google.com/open?id=0B7qCw4hNijr4My1qbzkwdFZFMVE",
+      "url_diff" : ""
    },
    {
       "artist" : "Linne X SCTL Visualized by Keiyuu & RED-FOX / obj. Symphonian",
