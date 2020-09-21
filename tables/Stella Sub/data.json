@@ -588,6 +588,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "黒皇帝 Movie: Haight",
+      "comment" : "中速連打複合、同梱譜面",
+      "level" : "5",
+      "md5" : "09b6324e00251acf3ba57c1437ac08fe",
+      "proposer" : "BAECON",
+      "proposerLr2id" : 46122,
+      "sha256" : "1ddee3ef8f6c3839d90e40946d72ba40cdbaad4621c2948871b6483199d1ec45",
+      "submission" : 1252,
+      "title" : "Faurie [INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=64&event=132",
+      "url_diff" : "",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Kyou1110 vs Takuya Namba / obj: qtp13",
       "comment" : "総合譜面",
       "level" : "7",
@@ -602,6 +616,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "MITCH DOWNVELL / obj:qfeileadh",
+      "comment" : "6~7? ディレイなどのズレあり",
+      "level" : "6",
+      "md5" : "0a2ef1a74e2bf188bc129066c95b6e86",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "c8d7cd9c3bb6d9cf0cba8d05bb77e26f53c42f6e39eb86384b529aeebd14fa7a",
+      "submission" : 1251,
+      "title" : "not 桜 (KOOKY)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=102&event=132",
+      "url_diff" : "https://stellabms.xyz/upload/347"
    },
    {
       "artist" : "ルゼ ☆ えみゅう。 ☆ 石王マサト Obj:И",
@@ -7260,6 +7287,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "kei_iwata Illust:morph/ BGA&obj:qfeileadh",
+      "comment" : "UNIVERSE",
+      "level" : "3",
+      "md5" : "68c58f701bf7317c934c9019299be170",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "60e9ea4e569a6c0c5dcc8b19d3ce0bd72326a3e7d923dc1798731f9848cb1efe",
+      "submission" : 1250,
+      "title" : "フロンティア↑↑エクスプローラー [UNIVERSE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=132",
+      "url_diff" : ""
    },
    {
       "artist" : "はがね / bga:白助 obj:秘密",
@@ -16187,6 +16227,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Micelle / obj:Rian",
+      "comment" : "st3~4 微連打メインの総合譜面",
+      "level" : "4",
+      "md5" : "ed18a0e7ee2363d6b9f08fba9b798a7b",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "6893a1ab01a72f055549dfd5c7184dd3aaa4a90a385dc91f9a61939bf1fd64fd",
+      "submission" : 1253,
+      "title" : "Al-raune [逋ｺ迢]",
+      "url" : "https://sites.google.com/view/yuruyurubms/phase-1?authuser=0",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04330",
+      "zureCount" : 0
    },
    {
       "artist" : "utah obj:sak",
