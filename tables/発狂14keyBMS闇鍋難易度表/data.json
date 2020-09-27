@@ -17668,7 +17668,7 @@
       "title" : "Free Hand zero [Insane Nomal14]"
    },
    {
-      "artist" : "ginkiha obj:ucc *L.MIRROR",
+      "artist" : "ginkiha obj:ucc *LR.MIRROR",
       "comment" : "FREESTYLE ORIENTAL ELECTRO",
       "level" : "6",
       "md5" : "60e0d12ff4d2d61c767e087e1c4e38db",
@@ -18998,7 +18998,7 @@
       "title" : "K8107"
    },
    {
-      "artist" : "saikoro obj:k *L.MIRROR",
+      "artist" : "saikoro obj:k *L.MIR or FLIP L.MIR",
       "comment" : "trance",
       "level" : "10",
       "md5" : "67de7388d2bcffdcd1615abb237f0510",
@@ -27139,7 +27139,7 @@
       "title" : "PHANTOM LOST [DP EXTRA]"
    },
    {
-      "artist" : "甘党マニア *FLIP",
+      "artist" : "甘党マニア",
       "comment" : "---",
       "level" : "★8",
       "md5" : "91b0d0c982a00ef50c2bf021e01bf074",
@@ -29808,7 +29808,7 @@
    {
       "artist" : "Omnipotenx/obj:epics- *R.MIRROR",
       "comment" : "SYMPHONIC SCHRANZ",
-      "level" : "★8",
+      "level" : "★7",
       "md5" : "a03286236d276f999313691e541c30ce",
       "title" : "PEACE BREAKER [GENOCIDE]"
    },
@@ -39870,6 +39870,13 @@
       "level" : "★1",
       "md5" : "d6278d20463d6399290ef692c85f1f21",
       "title" : "Midnight Driving [DP hututher]"
+   },
+   {
+      "artist" : "Rinko Kobayakawa feat. Peko Azusawa obj:ucc",
+      "comment" : "Hyper ElectroPop",
+      "level" : "1",
+      "md5" : "d647bf109798cc20e4a5a576b7145907",
+      "title" : "キミとスキ [DP EXTRA]"
    },
    {
       "artist" : "MALVA. vs. Venstant Illustration:Mare.S",

@@ -180,6 +180,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "syatten + coda obj.hex",
+      "comment" : "BPM180 8分同時押し、アレンジ差分",
+      "level" : "3",
+      "md5" : "968d17b52500bc20415d9669f11e69f5",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "cfaa7b54faaff3449d5cf83c89bedbfee429330be5e502ab9c2554a79751cc39",
+      "submission" : 1256,
+      "title" : "hurt, scenery, groundrainbow [Randomizer]",
+      "url" : "https://web.archive.org/web/20130210075745/http://www.planetoid.biz/bms/hsgr.rar",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html"
+   },
+   {
       "artist" : "TJ.hangneil vs Jackz obj.Restia",
       "comment" : "WORLD WAR。高速、ラス殺し。Anzutool基準spaとズレ、抜け無し。",
       "level" : "2",
@@ -191,6 +204,20 @@
       "title" : "ozma [Nervous Breakdown]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=132",
       "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpyl0W2d0SZZneXbLx5?e=zDaIOF"
+   },
+   {
+      "artist" : "MR Cannon obj.雫",
+      "comment" : "BPM186 多要素",
+      "level" : "1",
+      "md5" : "ab62158d8c2aa8fdf6c0430568a484d5",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "e9cc22032b6dac388b4ce2678336645822f4f388c7a2fe1d8766040a454e9464",
+      "submission" : 1255,
+      "title" : "EAST GOLD (東金)",
+      "url" : "https://venue.bmssearch.net/mutualfaith3/7",
+      "url_diff" : "https://darksabun.github.io/event/mf/",
+      "zureCount" : 0
    },
    {
       "artist" : "SPELL BREAK HEART BREAK / 度胸テニス",

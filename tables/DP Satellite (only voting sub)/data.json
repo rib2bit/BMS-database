@@ -27,6 +27,20 @@
       "zureCount" : 0
    },
    {
+      "artist" : "作詞・作曲/上野ぱんだ　編曲/ケドメ　絵/るい　歌/初音ミク obj:フォルティッシモ",
+      "comment" : "折り返し、片手階段",
+      "level" : "1",
+      "md5" : "2a5fd0ec256acc51bafaadae24b0351a",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "677aea891a3324927a77287236ae8a5df37c764f4b6bdf606e44a05ed6c0c838",
+      "submission" : 405,
+      "title" : "DOLL [DP ANOTHER]",
+      "url" : "https://web.archive.org/web/20151030093509/http://mikihara.cheap.jp/bms/BOF2015/doll_ogg.zip",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04599",
+      "zureCount" : 0
+   },
+   {
       "artist" : "EBIMAYO / obj.LetsOTL",
       "comment" : "5~7? 階段、縦連、トリル、LN",
       "level" : "6",
@@ -68,6 +82,20 @@
       "title" : "Blue Shock [DPA.NOTHER+]",
       "url" : "https://dropbox.bms.ms/u/63612044/Blue_Shock.rar",
       "url_diff" : "https://ux.getuploader.com/dpbms/download/918",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "0310",
+      "comment" : "同梱譜面 低速発狂、LN",
+      "level" : "9",
+      "md5" : "57182e1504854ce3d6de10b813ce6abf",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "bf53b5ed273fc342ac60bf8ca20883cb11fc80bbac7271d7c91c4c0cc6333e13",
+      "submission" : 407,
+      "title" : "Echoes from Pangaea",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=127",
+      "url_diff" : "",
       "zureCount" : 0
    },
    {
@@ -135,6 +163,47 @@
       "title" : "x-Aria -frenzy mix- -DPANOTHER-",
       "url" : "http://manbow.nothing.sh/event/explus/ex_r2/download.html",
       "url_diff" : "http://bmsselene.web.fc2.com/dpindex.html",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "HOUJIROU / BGA: hardlove obj:けろりん",
+      "level" : "10",
+      "md5" : "b7244f66328a360a34a6d6a66028fed9",
+      "proposer" : "Psyk",
+      "proposerLr2id" : 134520,
+      "sha256" : "b11e966330238a27f9868c8d58523d57f60a5ee9e0549e96f887a3e74adcef63",
+      "submission" : 404,
+      "title" : "myste`re　 [18keys]",
+      "url" : "https://web.archive.org/web/20140405115205/http://big.freett.com/takacyan930/hj13-mystereMQ.rar",
+      "url_diff" : "https://web.archive.org/web/20181108061838/http://www.geocities.jp/d_c_kick/bms/hj13-mystereMQ.zip",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "museo / obj.LetsOTL",
+      "comment" : "2~4? 高速階段",
+      "level" : "3",
+      "md5" : "c07a516897a2764573cbcecbfd30a230",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "ae2fc48e2afc8298dd3bb02712210353c8ed39f871352b9aab1ca7f64c30e863",
+      "submission" : 408,
+      "title" : "twinkle★candy☆memories [DP]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=84&event=123",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/490",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "Clotho feat.Salita obj:kuro",
+      "comment" : "階段、着地",
+      "level" : "8",
+      "md5" : "c2b227ea7c6b06fce458ac9c6a6aa76b",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "f9b1b96f7f3e990b8be1aa2c35c9d7979a9706a643ce540618d4cfd63b51e340",
+      "submission" : 406,
+      "title" : "Blink [DP CHALLENGER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=209&event=96",
+      "url_diff" : "https://onedrive.live.com/?authkey=%21AEhUFcPk44lHNWU&id=252E1BC75208EE14%21171&cid=252E1BC75208EE14",
       "zureCount" : 0
    },
    {
