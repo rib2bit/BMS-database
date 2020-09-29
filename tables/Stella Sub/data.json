@@ -10071,6 +10071,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "NASA / ZUN / obj:chack",
+      "comment" : "Anotherと比較してズレ無し。楽しい。物量。",
+      "level" : "7",
+      "md5" : "916591f298a0a5479ded9a475d0a519b",
+      "proposer" : "turbow",
+      "proposerMinirid" : "6ff4a3e0-3764-464e-ba27-37e10197ee2a",
+      "sha256" : "b84a875260a4ebc23ce426930a714b9518de0e44b3166312eb399946874c52ea",
+      "submission" : 1258,
+      "title" : "marchendreams.（BMS edit） [7key Insanity+]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=50&event=118",
+      "url_diff" : "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "るるりえーる / selene.",
       "comment" : "物量乱打",
       "level" : "0",
@@ -13349,6 +13363,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Yosk!",
+      "comment" : "同梱譜面、総合力",
+      "level" : "0",
+      "md5" : "c1a869dbb132dbfc87b87c220240276a",
+      "proposer" : "turbow",
+      "proposerMinirid" : "6ff4a3e0-3764-464e-ba27-37e10197ee2a",
+      "sha256" : "1b1c8e710bdadd132efbcf2f57c98e9e73ed3df6038fce5662f47f83f4f77410",
+      "submission" : 1257,
+      "title" : "Ceebu Yapp",
+      "url" : "https://drive.google.com/file/d/1Fxg3zMqhu-oZDJRhQ0uvtQfOeMw_lnpT",
+      "url_diff" : ""
    },
    {
       "artist" : "sak feat.みゅい BGI:球根 / OBJ:七海千秋",
