@@ -263,6 +263,20 @@
       "voteYes" : 9
    },
    {
+      "artist" : "諸星きらり/緒方智絵里",
+      "comment" : "BPM206の平たい乱打譜面",
+      "level" : "1",
+      "md5" : "d00e7d9111ad2bd2bba587616627fc69",
+      "proposer" : "ふかけん",
+      "proposerLr2id" : 145204,
+      "sha256" : "c14c371ae9e082cbfa352a6340d9c4389c96353f678db41e8129e766140a636d",
+      "submission" : 1259,
+      "title" : "諸星きらりのハピハピ☆恋愛論だにぃ [SR]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=80&event=88",
+      "url_diff" : "http://akred.web.fc2.com/baecon/1_SRkirari.bme",
+      "zureCount" : 0
+   },
+   {
       "artist" : "psi obj:Azop",
       "comment" : "ガチ押しのエバラス",
       "level" : "2",

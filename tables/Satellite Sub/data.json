@@ -3507,6 +3507,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "paraoka / obj:NASA",
+      "level" : "1",
+      "md5" : "25999666bc86cc9224524aae91956523",
+      "proposer" : "Mallow♪",
+      "proposerLr2id" : 154796,
+      "sha256" : "17eb7d71053b46714412c665ea3b05dda6bab3e70502806106793947e8930d5b",
+      "submission" : 1629,
+      "title" : "L9 [★]",
+      "url" : "http://www5b.biglobe.ne.jp/~ro-su/lib/9_wav.rar",
+      "url_diff" : "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Omnipotenx",
       "comment" : "皿複合入門？",
       "level" : "0",
@@ -5293,6 +5306,19 @@
       "title" : "Kirby in Luminous Land [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=56&event=127",
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html"
+   },
+   {
+      "artist" : "9RAN / mov:SCAF",
+      "comment" : "同梱譜面/G2R2018",
+      "level" : "0",
+      "md5" : "39b06bd7b19cb9d6ec961cc1e7cd8d12",
+      "proposer" : "TR1",
+      "proposerLr2id" : 152181,
+      "sha256" : "00dbafeb71fe17023bee0cb6b87c629e6a2d9a218467bc2616a53ac745b6b93e",
+      "submission" : 1630,
+      "title" : "廻想マンジュシャゲ [ANOTHER]",
+      "url" : "https://app.box.com/s/rq4cbp5v8cjswxlyhnh2mg1af0j4urd3",
+      "url_diff" : ""
    },
    {
       "artist" : "空読無 白眼 obj : Sakamiya",
