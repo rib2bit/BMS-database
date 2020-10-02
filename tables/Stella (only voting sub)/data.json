@@ -207,6 +207,22 @@
       "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html"
    },
    {
+      "artist" : "9-zen obj.hex",
+      "level" : "3",
+      "md5" : "a0e534d02c919996fef1f2a83c44c418",
+      "proposer" : "mukyu--",
+      "proposerLr2id" : 71314,
+      "sha256" : "4fb18c030425b33f1cd7c841fd2af7e3a0fd267e2b5486928454720c566633e2",
+      "submission" : 1198,
+      "title" : "ルーネイトエルフ～霧の湖の物語～ [Pentagon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=129",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html",
+      "voteNeutral" : 1,
+      "voteNo" : 0,
+      "votePercent" : 91.6666666666667,
+      "voteYes" : 5
+   },
+   {
       "artist" : "TJ.hangneil vs Jackz obj.Restia",
       "comment" : "WORLD WAR。高速、ラス殺し。Anzutool基準spaとズレ、抜け無し。",
       "level" : "2",
@@ -272,7 +288,7 @@
       "sha256" : "c14c371ae9e082cbfa352a6340d9c4389c96353f678db41e8129e766140a636d",
       "submission" : 1259,
       "title" : "諸星きらりのハピハピ☆恋愛論だにぃ [SR]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=80&event=88",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/%e8%ab%b8%e6%98%9f%e3%81%8d%e3%82%89%e3%82%8a%e3%81%ae%e3%83%8f%e3%83%94%e3%83%8f%e3%83%94%e2%98%86%e6%81%8b%e6%84%9b%e8%ab%96%e3%81%a0%e3%81%ab%e3%81%83%20%28by%20%e8%ab%b8%e6%98%9f%e3%81%8d%e3%82%89%e3%82%8a%29.rar",
       "url_diff" : "http://akred.web.fc2.com/baecon/1_SRkirari.bme",
       "zureCount" : 0
    },
@@ -288,6 +304,20 @@
       "title" : "EVERLASTING HAPPiNESS↑ [上級]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=109",
       "url_diff" : "https://drive.google.com/file/d/1fEDyUNQgVX134bWtAq3PhaF6zGvVP4A0/view"
+   },
+   {
+      "artist" : "Nami Haven obj.Guanacoite",
+      "comment" : "ガチ押し",
+      "level" : "3",
+      "md5" : "e8776cf32615ff4a8f536bd463fda1e5",
+      "proposer" : "Mallow♪",
+      "proposerLr2id" : 154796,
+      "sha256" : "84fcb7e86756077b46410d2b6292e8314d21006fe24bd66d9f560c7e408377f9",
+      "submission" : 1260,
+      "title" : "Save the Water [Refrain From Swilling Water]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=129",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/",
+      "zureCount" : 0
    },
    {
       "artist" : "Micelle / obj:Rian",
