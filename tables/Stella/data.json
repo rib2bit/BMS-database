@@ -319,6 +319,18 @@
       "url_diff" : "https://www.dropbox.com/s/oa5w1obvtvj51sh/_erogrononsense_egs.bme?dl=0"
    },
    {
+      "artist" : "MITCH DOWNVELL / obj:qfeileadh",
+      "comment" : "6~7? ディレイなどのズレあり",
+      "level" : "6",
+      "md5" : "0a2ef1a74e2bf188bc129066c95b6e86",
+      "proposer" : "MineC24",
+      "sha256" : "c8d7cd9c3bb6d9cf0cba8d05bb77e26f53c42f6e39eb86384b529aeebd14fa7a",
+      "submission" : 1251,
+      "title" : "not 桜 (KOOKY)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=102&event=132",
+      "url_diff" : "https://stellabms.xyz/upload/347"
+   },
+   {
       "artist" : "ぷらすちっくと女の子 / U",
       "comment" : "ガチ押し",
       "level" : "3",
@@ -1771,6 +1783,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/"
    },
    {
+      "artist" : "LeaF Movie:Optie / obj:1008",
+      "comment" : "change chart (request from charter) You must read chart zip's text file.. (Japanese)",
+      "level" : "1",
+      "md5" : "2e2ec86581e880d8570d2f3b10c03fda",
+      "proposer" : "LUXURY♪",
+      "sha256" : "b55aa4cca52921e2ac0386d09d26e572c91b0ae951796411189c86d608cc6dde",
+      "submission" : 1241,
+      "title" : "Aleph-0 [Ω]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=498&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04611"
+   },
+   {
       "artist" : "囚 obj : Mary_Sue",
       "comment" : "BPM113 同時押し、皿",
       "level" : "2",
@@ -1945,7 +1969,7 @@
    {
       "artist" : "M-UE ◇ sak Illust: はし◇たか",
       "comment" : "弱体化ハニエルGOD　ガチ押し+高速　ズレあり",
-      "level" : "5",
+      "level" : "6",
       "md5" : "334c1db25269dd7b042d770d58c3dd79",
       "proposer" : "qfeileadh",
       "sha256" : "4fd59cf84456881e63ccbccf7845106f4dfc7162722cbc8cbf8722bc31a18342",
@@ -2308,7 +2332,7 @@
    {
       "artist" : "キメラのキタムラ",
       "comment" : "BPM275 16分乱打、8分皿",
-      "level" : "5",
+      "level" : "6",
       "md5" : "3b5a99eb97efa1552b66d0a3bbe4d824",
       "proposer" : "SHAX.",
       "sha256" : "07840eaf2b21494b968c822828ef1e779b21e12f6917ca6ef4041917de1df5fe",
@@ -2462,6 +2486,17 @@
       "title" : "ZEUS † 666 [Fatality]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=List_def&event=125",
       "url_diff" : "http://lapisbms.xyz"
+   },
+   {
+      "artist" : "ridis(Rai) / Crude Sound Cutter",
+      "level" : "1",
+      "md5" : "3e118905963bec7a8f153f2b8166e11b",
+      "proposer" : "Mallow♪",
+      "sha256" : "9add8247a8a9b02f7ef738c3576e2d2b229d9e7c90096117e1c4a36064ac5fb7",
+      "submission" : 1233,
+      "title" : "時計仕掛けの少女 [メトロノーム]",
+      "url" : "http://www.mediafire.com/file/5x7aeezm20yvlgq/tokeizikake.rar/file",
+      "url_diff" : "https://darksabun.github.io/event/mf/"
    },
    {
       "artist" : "ETIA. / obj.fhyu Movie: Freezer",
@@ -3391,7 +3426,7 @@
    {
       "artist" : "mist-rose/obj.もにもに",
       "comment" : "この曲切らしてた（最後のディレイ追加以外はpmsの差分とズレチェック済みだそうです）",
-      "level" : "4",
+      "level" : "5",
       "md5" : "53d61c3bfc4d027151be895343a33962",
       "proposer" : "turbow",
       "sha256" : "a51dd9a13082a8d53fe900bccf8b874a3c184ed50b421b3bbcc11d2abcb95445",
@@ -3836,6 +3871,18 @@
       "url_diff" : "http://yumerusabun.web.fc2.com/nue.html"
    },
    {
+      "artist" : "Rave Cyanide [BMS Edit R.W.R]",
+      "comment" : "st1~3 (missing crash.wav, but no artificial zures)",
+      "level" : "2",
+      "md5" : "5f799c4338e7cfaa332ebe85a7714dbc",
+      "proposer" : "qtp13",
+      "sha256" : "89b0d73a551abe92ff7e1d79d97dfd6545492cbf4bed333af0c6b5aa188cf9d2",
+      "submission" : 1177,
+      "title" : "Palette Of The Life [Leggenderia]",
+      "url" : "https://www.dropbox.com/s/haz6j8faux15v37/Palette%20of%20the%20Life.zip?dl=0",
+      "url_diff" : ""
+   },
+   {
       "artist" : "NIKITA / Optie / O",
       "comment" : "高速",
       "level" : "5",
@@ -3922,7 +3969,7 @@
    {
       "artist" : "ROKINA / C4 vs selene.",
       "comment" : "物量とディレイ",
-      "level" : "5",
+      "level" : "4",
       "md5" : "61cf968ceb831b799b38a12c5b594451",
       "proposer" : "スノート",
       "sha256" : "d08c2ee717cdcc37dac7af6a589fc328620dd84aba7b7b8896ef467b94fc40b8",
@@ -4260,6 +4307,18 @@
       "title" : "永劫綺譚の純潔葬花 -Black Lily-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=202&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02264"
+   },
+   {
+      "artist" : "kei_iwata Illust:morph/ BGA&obj:qfeileadh",
+      "comment" : "UNIVERSE",
+      "level" : "3",
+      "md5" : "68c58f701bf7317c934c9019299be170",
+      "proposer" : "MineC24",
+      "sha256" : "60e9ea4e569a6c0c5dcc8b19d3ce0bd72326a3e7d923dc1798731f9848cb1efe",
+      "submission" : 1250,
+      "title" : "フロンティア↑↑エクスプローラー [UNIVERSE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=132",
+      "url_diff" : ""
    },
    {
       "artist" : "beatMARIO/obj KAMIO*",
@@ -6993,6 +7052,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi"
    },
    {
+      "artist" : "MR Cannon obj.雫",
+      "comment" : "BPM186 多要素",
+      "level" : "1",
+      "md5" : "ab62158d8c2aa8fdf6c0430568a484d5",
+      "proposer" : "SHAX.",
+      "sha256" : "e9cc22032b6dac388b4ce2678336645822f4f388c7a2fe1d8766040a454e9464",
+      "submission" : 1255,
+      "title" : "EAST GOLD (東金)",
+      "url" : "https://venue.bmssearch.net/mutualfaith3/7",
+      "url_diff" : "https://darksabun.github.io/event/mf/"
+   },
+   {
       "artist" : "syatten + 140 obj:Icyc1e",
       "comment" : "kachifushi",
       "level" : "3",
@@ -7496,7 +7567,7 @@
    {
       "artist" : "SUPER STAR 健人 obj.hex",
       "comment" : "CHANさんのもの ディレイ 連打複合 アレンジ差分です。",
-      "level" : "4",
+      "level" : "5",
       "md5" : "b8e1c338ba07ce8a7d46d4a1d795e672",
       "proposer" : "LUXURY♪",
       "sha256" : "9dd32b6ed06e924c3333baa1e3e2d4bda59836840244ea099c4f378048959866",
@@ -9509,7 +9580,7 @@
    {
       "artist" : "kei_iwata feat.レゾナンスもえこ obj:七海 Movie:Arishima_Caprico Illust:Morph",
       "comment" : "THEガチ押し VeryGood譜面　ズレなし",
-      "level" : "5",
+      "level" : "4",
       "md5" : "e9fc82f22a048d62165c482841eb0d33",
       "proposer" : "qfeileadh",
       "sha256" : "a79ade67dbbd658d996489ed64d9d649a95514ccb2ee7590f824da23441fac00",
@@ -9654,7 +9725,7 @@
    },
    {
       "artist" : "QH. obj: 今村水産市場",
-      "level" : "3",
+      "level" : "4",
       "md5" : "ecc9599a609c07acab922341013f7c3d",
       "proposer" : "Mallow♪",
       "sha256" : "4d11d5e40fb853ed914a7752da8dfdc09d1eafef88113895ce7f0a01ca7cedfe",

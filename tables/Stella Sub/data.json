@@ -3309,7 +3309,7 @@
    {
       "artist" : "M-UE ◇ sak Illust: はし◇たか",
       "comment" : "弱体化ハニエルGOD　ガチ押し+高速　ズレあり",
-      "level" : "5",
+      "level" : "6",
       "md5" : "334c1db25269dd7b042d770d58c3dd79",
       "proposer" : "qfeileadh",
       "proposerLr2id" : 143120,
@@ -4009,7 +4009,7 @@
    {
       "artist" : "キメラのキタムラ",
       "comment" : "BPM275 16分乱打、8分皿",
-      "level" : "5",
+      "level" : "6",
       "md5" : "3b5a99eb97efa1552b66d0a3bbe4d824",
       "proposer" : "SHAX.",
       "proposerLr2id" : 65624,
@@ -5792,7 +5792,7 @@
    {
       "artist" : "mist-rose/obj.もにもに",
       "comment" : "この曲切らしてた（最後のディレイ追加以外はpmsの差分とズレチェック済みだそうです）",
-      "level" : "4",
+      "level" : "5",
       "md5" : "53d61c3bfc4d027151be895343a33962",
       "proposer" : "turbow",
       "proposerMinirid" : "6ff4a3e0-3764-464e-ba27-37e10197ee2a",
@@ -6755,7 +6755,7 @@
    {
       "artist" : "ROKINA / C4 vs selene.",
       "comment" : "物量とディレイ",
-      "level" : "5",
+      "level" : "4",
       "md5" : "61cf968ceb831b799b38a12c5b594451",
       "proposer" : "スノート",
       "proposerLr2id" : 86393,
@@ -12004,6 +12004,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "tkqn14 pattern for some reason",
+      "comment" : "連打",
+      "level" : "2",
+      "md5" : "ae36582758da96bb250dfe22d527b840",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "9e70f05cb13df7b898c5f375814a3981ce741096dff6d5b07fc1bd10ba4e9592",
+      "submission" : 1261,
+      "title" : "SCHREiKRiEG [for some reason]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=132",
+      "url_diff" : "https://fsrs.github.io/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "uet obj:SANY",
       "comment" : "BPM200微連、ズレ",
       "level" : "4",
@@ -12755,7 +12769,7 @@
    {
       "artist" : "SUPER STAR 健人 obj.hex",
       "comment" : "CHANさんのもの ディレイ 連打複合 アレンジ差分です。",
-      "level" : "4",
+      "level" : "5",
       "md5" : "b8e1c338ba07ce8a7d46d4a1d795e672",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,
@@ -14223,6 +14237,19 @@
       "title" : "WE ARE HARDCORE [ARE YOU READY?]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=307&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02457"
+   },
+   {
+      "artist" : "MONOLITH feat.FG75 +kju8 / obj.MineC24 MOVIE / Rabbit Machine+",
+      "comment" : "kju8_miyako_soflan_SP基準03、08レーンで主にズレがありますがそれはBPM関連のレーンなのでプレーには問題ないです。コメントで続きます。",
+      "level" : "0",
+      "md5" : "cf7ea4c78693648b20328996f35e1f9a",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "b0583a97a96ccb40e157fe56b8b13723a9342d3ee4977a506c75a828f941434c",
+      "submission" : 1262,
+      "title" : "宮子 (SUBCULTURE MIX) [Compressed]",
+      "url" : "http://www.mediafire.com/file/ar4aa9p35amxfer/%5BULTIMATE-lopears%5D-miyako.7z",
+      "url_diff" : "https://www.dropbox.com/s/lrv6enqjy84fifj/_kju8_miyako-compressed.bms?dl=0"
    },
    {
       "artist" : "remixed celas / obj : cieu",
@@ -16072,7 +16099,7 @@
    {
       "artist" : "kei_iwata feat.レゾナンスもえこ obj:七海 Movie:Arishima_Caprico Illust:Morph",
       "comment" : "THEガチ押し VeryGood譜面　ズレなし",
-      "level" : "5",
+      "level" : "4",
       "md5" : "e9fc82f22a048d62165c482841eb0d33",
       "proposer" : "qfeileadh",
       "proposerLr2id" : 143120,
@@ -16281,7 +16308,7 @@
    },
    {
       "artist" : "QH. obj: 今村水産市場",
-      "level" : "3",
+      "level" : "4",
       "md5" : "ecc9599a609c07acab922341013f7c3d",
       "proposer" : "Mallow♪",
       "proposerLr2id" : 154796,
