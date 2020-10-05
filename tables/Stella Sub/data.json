@@ -3768,6 +3768,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "SP-# / obj. Tristan97",
+      "comment" : "1~2? (ズレはディレイ抜けキー音です)",
+      "level" : "1",
+      "md5" : "392f0d62335823a2f9709d272e07bc0d",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "1c6db5cff1d205c60e1bd539f34d3743460633377c65349e12703d82cf48e171",
+      "submission" : 1263,
+      "title" : "tinnitus [Nyannurs]",
+      "url" : "https://onedrive.live.com/?cid=578814ACC2BD5A74&id=578814ACC2BD5A74!140",
+      "url_diff" : "https://drive.google.com/file/d/1JmkmTVy-9Li7HKsNq4ye6-q3X0Tzqx2F/view?usp=sharing"
+   },
+   {
       "artist" : "EXCALIpUR / obj:muscleMEN",
       "comment" : "ディレイ 微縦連",
       "level" : "3",
@@ -7243,6 +7256,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Playerβ obj:st",
+      "comment" : "202~222BPM (saw melody arrange)",
+      "level" : "8",
+      "md5" : "67bc8ed85a003ae3c5ba16f395eae76e",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "c8370c95a78554672c49fcf972e4bc5bf81c64e981174b574e74ffea549cf357",
+      "submission" : 1265,
+      "title" : "HAPPY MAPPY (s-ther)",
+      "url" : "http://sound.jp/ptf/bms/",
+      "url_diff" : "http://absolute.pv.land.to/"
    },
    {
       "artist" : "noctie* Illust:おっぱさん obj.鰐",
@@ -11029,6 +11055,19 @@
       "title" : "TEN [59]",
       "url" : "http://dl.dropbox.com/s/esdofbda23knp9w/TEN.zip?dl=1",
       "url_diff" : "http://www.dropbox.com/s/3c6nzdw2635zh9t/10_Delay.bms?dl=0"
+   },
+   {
+      "artist" : "翡乃イスカ × otoshi.b BGI : 幸健兎 × はしたかさん / obj : BAECON",
+      "comment" : "3~4?",
+      "level" : "3",
+      "md5" : "a03bfdf932e76f4c23e3b0628a301781",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "26712baa7a9fca36bf92dbd1da5d6cde94fd87e1ce81e406d7e05c269ae91284",
+      "submission" : 1264,
+      "title" : "Twin☆kle Galaxies [Journey 2 Sparkling Galaxies!!]",
+      "url" : "https://venue.bmssearch.net/mutualfaith3/10",
+      "url_diff" : ""
    },
    {
       "artist" : "黒皇帝 / obj:O Movie: 6XeNoN9",

@@ -280,6 +280,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "ryhki obj Aztolfo",
+      "comment" : "3~4? (BGAが01じゃなくZZなのでズレがいます)",
+      "level" : "3",
+      "md5" : "7a7a02d239a868fc2d2ea494d53444b0",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "15f68a5cda28dd7e82bf1f2900ebd786117cf81cfb98038a451970a1304f0fcc",
+      "submission" : 1640,
+      "title" : "Acquire [SP AZOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=468&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03531"
+   },
+   {
       "artist" : "TJ.hangneil vs Jackz Lapis vs Triforce",
       "comment" : "#108、#176以後(spxと混ざっている)の以外はspaと比べるとズレ、抜けなし。(差分uploaderでのコメントによると)",
       "level" : "12",
