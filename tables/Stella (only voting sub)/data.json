@@ -126,6 +126,20 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Radiogazer / И",
+      "comment" : "ガチ押し,開幕に簡単な譜面停止あり",
+      "level" : "4",
+      "md5" : "759e17522789c44e3fbc7da145f479a3",
+      "proposer" : "Mallow♪",
+      "proposerLr2id" : 154796,
+      "sha256" : "95984de1c311fc04f267cd76f0dd4c06e80fd98b09f764fc154e816845ed9084",
+      "submission" : 1266,
+      "title" : "Pure Caprice [Turn on the RADIO]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=129",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "NASA / ZUN / obj:chack",
       "comment" : "Anotherと比較してズレ無し。楽しい。物量。",
       "level" : "7",
