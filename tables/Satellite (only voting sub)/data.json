@@ -253,6 +253,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Rethisly BGA:るっかるか",
+      "comment" : "同梱譜面/Mutual Faith 2/LN",
+      "level" : "0",
+      "md5" : "697460a22f79651a3c1bce2bc3bb0667",
+      "proposer" : "TR1",
+      "proposerLr2id" : 152181,
+      "sha256" : "c04f1a406edff7288eda16c33770394c60973925750d434121ddb696e25d1dad",
+      "submission" : 1643,
+      "title" : "Amethyst Moon [SP Another]",
+      "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/9/",
+      "url_diff" : ""
+   },
+   {
       "artist" : "川崎もっぺ obj.fhyu",
       "comment" : "横に広い譜面,中盤に簡単なソフランあり",
       "level" : "6",
@@ -416,6 +429,19 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=86",
       "url_diff" : "http://100min.lapisbms.xyz/am",
       "zureCount" : 0
+   },
+   {
+      "artist" : "the kristian council of chorea",
+      "comment" : "BPM180 arrange chart",
+      "level" : "1",
+      "md5" : "b969b144fbd4fdea9a620ed61c9ea248",
+      "proposer" : "|/|",
+      "proposerLr2id" : 147895,
+      "sha256" : "dea077ed3de1973147a425e7121a67459e7b4aed0a43c82eac57b238fa3a5d8f",
+      "submission" : 1642,
+      "title" : "shincheonji [180]",
+      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=66",
+      "url_diff" : "https://stellabms.xyz/upload/362"
    },
    {
       "artist" : "litmus* / team.Polaris / obj.siokaze",
