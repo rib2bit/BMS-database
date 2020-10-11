@@ -140,6 +140,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Nephrite",
+      "comment" : "BPM191 軸、トリル",
+      "level" : "1",
+      "md5" : "84e1db1ff8c5d2cd1e4543cc811866fa",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "1220d50a139973ed4cb4f24936f3c6692cdcac013299e9f8dbe49c8a49c69017",
+      "submission" : 1268,
+      "title" : "我武者羅 [黒]",
+      "url" : "http://mugenky.web.fc2.com/",
+      "url_diff" : ""
+   },
+   {
       "artist" : "NASA / ZUN / obj:chack",
       "comment" : "Anotherと比較してズレ無し。楽しい。物量。",
       "level" : "7",
@@ -251,6 +264,19 @@
       "url" : "http://sunaneko.iptime.org/BMS_Library/%e8%ab%b8%e6%98%9f%e3%81%8d%e3%82%89%e3%82%8a%e3%81%ae%e3%83%8f%e3%83%94%e3%83%8f%e3%83%94%e2%98%86%e6%81%8b%e6%84%9b%e8%ab%96%e3%81%a0%e3%81%ab%e3%81%83%20%28by%20%e8%ab%b8%e6%98%9f%e3%81%8d%e3%82%89%e3%82%8a%29.rar",
       "url_diff" : "http://akred.web.fc2.com/baecon/1_SRkirari.bme",
       "zureCount" : 0
+   },
+   {
+      "artist" : "TAK / 140 BMS Object Auto Placement Program α-Gorila",
+      "comment" : "BPM180 乱打",
+      "level" : "3",
+      "md5" : "d16c7593ea347836bbcb025e0a7a24be",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "8bf9ab46db75af0d83eeda4fb689aa1c7e29d38e4905a4d267e53631984f08d8",
+      "submission" : 1267,
+      "title" : "Levitation [乱打ONLY]",
+      "url" : "https://web.archive.org/web/20070627015638/http://www.geocities.jp/inthesilentdream/bms/levitation.zip",
+      "url_diff" : "https://darksabun.github.io/sabun/Levitation_randa.zip"
    },
    {
       "artist" : "Nami Haven obj.Guanacoite",
