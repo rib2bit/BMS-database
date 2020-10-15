@@ -204,6 +204,22 @@
       "zureCount" : 0
    },
    {
+      "artist" : "lixound mov:Xquid",
+      "level" : "0",
+      "md5" : "448ccb9a5dfcd9a96d81123b53e1d29f",
+      "proposer" : "|/|",
+      "proposerLr2id" : 147895,
+      "sha256" : "ca105a6b956cae12a06e78c654bca9e9f2beaf250b790284958ce69af0e1714e",
+      "submission" : 1303,
+      "title" : "Break Through The Barrier [HYPER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=440&event=116",
+      "url_diff" : "",
+      "voteNeutral" : 6,
+      "voteNo" : 2,
+      "votePercent" : 72.2222222222222,
+      "voteYes" : 10
+   },
+   {
       "artist" : "Sena",
       "comment" : "BPM188 乱打",
       "level" : "12",
@@ -360,6 +376,19 @@
       "title" : "ozma -麒麟-",
       "url" : "https://drive.google.com/file/d/1JPa7X6xS4sUtxw-dTie59E0QMIzDfZwU",
       "url_diff" : "https://trfce.github.io/sabun/(120)_ozma_qilin.zip"
+   },
+   {
+      "artist" : "Zekk mov : L.Ferdinant / obj : litmus*",
+      "comment" : "同梱譜面/g2r2014/連打/軸",
+      "level" : "0",
+      "md5" : "83e26b26a5ef1ce069ad11d390d164c4",
+      "proposer" : "TR1",
+      "proposerLr2id" : 152181,
+      "sha256" : "bfc053786ee2e27c633ad98365168b3d2700b8eeacb723bf747cbb2279f1fad6",
+      "submission" : 1646,
+      "title" : "Merry-Go-Round [SP Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=96",
+      "url_diff" : ""
    },
    {
       "artist" : "s-don / Can.D-mtmrw obj:Mary_Sue in 100min Fumen",
@@ -595,6 +624,22 @@
       "title" : "More Selfish [7key,Another]",
       "url" : "http://mommy16807.seesaa.net/article/148541992.html",
       "url_diff" : ""
+   },
+   {
+      "artist" : "Sobrem",
+      "level" : "0",
+      "md5" : "f5456ea7a63431ce7575d2583fcf9c68",
+      "proposer" : "|/|",
+      "proposerLr2id" : 147895,
+      "sha256" : "d22b7376c0a60e0a6ad51c6176367320ae42565979a74949473711ee46631bf3",
+      "submission" : 1373,
+      "title" : "2anyFirst [7-A]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=209&event=127",
+      "url_diff" : "",
+      "voteNeutral" : 2,
+      "voteNo" : 4,
+      "votePercent" : 66.6666666666667,
+      "voteYes" : 9
    },
    {
       "artist" : "utzbo BGI:松葉/obj:SUZUKAZEΛ",
