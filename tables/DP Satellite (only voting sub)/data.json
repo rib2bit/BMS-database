@@ -83,6 +83,20 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Sakamiya feat.mirina img:十恵/obj:LLL",
+      "comment" : "同時押し+片手発狂",
+      "level" : "8",
+      "md5" : "56fb12dbf24ac83b4a02364c88734567",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "1205e16e3bb153401d37798de4cfbbe7e925be918c88cd0ae267eff997fe7792",
+      "submission" : 422,
+      "title" : "A-chasing-Y [DPINSA.NE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=50&event=104",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/984",
+      "zureCount" : 0
+   },
+   {
       "artist" : "0310",
       "comment" : "同梱譜面 低速発狂、LN",
       "level" : "9",
@@ -134,6 +148,19 @@
       "title" : "GIN TONIC FLAVOR",
       "url" : "http://nekokan.dyndns.info/~lobsak/genocide/grade.html",
       "url_diff" : ""
+   },
+   {
+      "artist" : "あずにゃん",
+      "comment" : "低速発狂、皿、LN (Anzu BMS Diff Toolで_azul_rr_7a.bmsと比較してズレ抜けなし)",
+      "level" : "5",
+      "md5" : "674afb1706dee011cc29d157d7cf2acb",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "dd99a6d02c81d58c965918b633848938a3f148e15e40f44be57cc579bb92f039",
+      "submission" : 423,
+      "title" : "あずぅる!! -双鍵難-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=175&event=65",
+      "url_diff" : "https://w.atwiki.jp/14key/pages/23.html"
    },
    {
       "artist" : "Telno BGA:mi",
