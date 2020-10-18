@@ -1,31 +1,5 @@
 [
    {
-      "artist" : "gya9 vs anubasu-anubasu BGA by KG / Obj:ゆ～兎",
-      "level" : "2",
-      "md5" : "03028a53619420a7318f76c1c04f5cf1",
-      "proposer" : "JHS",
-      "proposerLr2id" : 128228,
-      "sha256" : "02ebf783b56773fb9e5ce8c7e658bcad06f843bc2031c74778495e4473c08c83",
-      "submission" : 399,
-      "title" : "Anthemizer [DP ANOTHER]",
-      "url" : "https://drive.google.com/file/d/1_o9jYBvAlxPRue5zpi9f3pkaaQvZBr0n/view?usp=sharing",
-      "url_diff" : "http://web.archive.org/web/20140921042604/http://timetorain.web.fc2.com/sabun/gyanubasu_YH.zip",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "Ino(chronoize) × みずたま",
-      "comment" : "δ11 同梱譜面 片手階段",
-      "level" : "0",
-      "md5" : "1c966ae590aa395ab74e4dfe89498b81",
-      "proposer" : "にゃむ",
-      "proposerLr2id" : 139958,
-      "sha256" : "023a5a70b836a69c320d0d5555db51e55c6cc1eff3948e041e674a2d06231ab8",
-      "submission" : 415,
-      "title" : "fly*high*five [14ANOTHER]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=471&event=116",
-      "url_diff" : ""
-   },
-   {
       "artist" : "作詞・作曲/上野ぱんだ　編曲/ケドメ　絵/るい　歌/初音ミク obj:フォルティッシモ",
       "comment" : "折り返し、片手階段",
       "level" : "1",
@@ -37,20 +11,6 @@
       "title" : "DOLL [DP ANOTHER]",
       "url" : "https://web.archive.org/web/20151030093509/http://mikihara.cheap.jp/bms/BOF2015/doll_ogg.zip",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04599",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "EBIMAYO / obj.LetsOTL",
-      "comment" : "5~7? 階段、縦連、トリル、LN",
-      "level" : "6",
-      "md5" : "2daa83f98717a9e925859b9aa3b4e040",
-      "proposer" : "にゃむ",
-      "proposerLr2id" : 139958,
-      "sha256" : "c1f0493f487954191241461595a1b05af978d5299745fda919bedd4a59fb4ac7",
-      "submission" : 396,
-      "title" : "GOODWORLD [DP]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=239&event=123",
-      "url_diff" : "https://ux.getuploader.com/dpbms/download/464",
       "zureCount" : 0
    },
    {
@@ -124,32 +84,6 @@
       "url_diff" : ""
    },
    {
-      "artist" : "iF mov:レク / Obj:ゆ～兎",
-      "level" : "2",
-      "md5" : "6357e029a3092291369717c4f7554849",
-      "proposer" : "JHS",
-      "proposerLr2id" : 128228,
-      "sha256" : "7357ea566e15b9815404646a1bea480557e297f3c8883b3506ead6c07d253e30",
-      "submission" : 400,
-      "title" : "Azure Emotion [DP ANOTHER]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=89&event=83",
-      "url_diff" : "http://web.archive.org/web/20140921042604/http://timetorain.web.fc2.com/sabun/r7produce_bms_azure_emotion_YH.zip",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "q/stol / obj by bbangsami",
-      "comment" : "同梱譜面",
-      "level" : "2",
-      "md5" : "65fca2949626b80fb8f21359cf0799aa",
-      "proposer" : "JHS",
-      "proposerLr2id" : 128228,
-      "sha256" : "8fe8efabf77edeee9f4951ed10d7167669bc46617c744790c00b94272c39df57",
-      "submission" : 403,
-      "title" : "GIN TONIC FLAVOR",
-      "url" : "http://nekokan.dyndns.info/~lobsak/genocide/grade.html",
-      "url_diff" : ""
-   },
-   {
       "artist" : "あずにゃん",
       "comment" : "低速発狂、皿、LN (Anzu BMS Diff Toolで_azul_rr_7a.bmsと比較してズレ抜けなし)",
       "level" : "5",
@@ -200,33 +134,6 @@
       "title" : "Brandnew Mind [14A]",
       "url" : "http://skydrive.live.com/?cid=6580dd8662a42efd&id=6580DD8662A42EFD%21105",
       "url_diff" : "https://w.atwiki.jp/14key/pages/23.html",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "Sound piercer & Puru feat.Emma J. obj:Hersh",
-      "comment" : "同時押し",
-      "level" : "3",
-      "md5" : "81deb244886637b13c4b0f00d10e444e",
-      "proposer" : "にゃむ",
-      "proposerLr2id" : 139958,
-      "sha256" : "f91acdbe556378f7ccbd80fb2d2eb30e40f842b07924f4fc8a4b6b931123bce5",
-      "submission" : 395,
-      "title" : "Dove [Tenderness]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=435&event=116",
-      "url_diff" : "https://ux.getuploader.com/dpbms/download/300",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "nmk / Obj:ゆ～兎",
-      "level" : "2",
-      "md5" : "81ed3f5c9df93ce4e98a623052a526ac",
-      "proposer" : "JHS",
-      "proposerLr2id" : 128228,
-      "sha256" : "c79fdfe3385acf4a9690677c53257417bde63e8000bc90385806ce988312c120",
-      "submission" : 402,
-      "title" : "Event Horizon [DP ANOTHER]",
-      "url" : "http://web.archive.org/web/20140111152110/http://miohosina.moe.hm/nmk_Event_Horizon.zip",
-      "url_diff" : "http://web.archive.org/web/20140921042604/http://timetorain.web.fc2.com/sabun/nmk_Event_Horizon_YH.zip",
       "zureCount" : 0
    },
    {
@@ -297,22 +204,6 @@
       "zureCount" : 0
    },
    {
-      "artist" : "-45/わなな・BANI",
-      "level" : "2",
-      "md5" : "d95223a411d9aece9a16eaf733d6797c",
-      "proposer" : "JHS",
-      "proposerLr2id" : 128228,
-      "sha256" : "1c96df23058a44ffc4b776fd5c3a799b00d15b14b723e24f5bab611ef11f43a6",
-      "submission" : 326,
-      "title" : "Empress of Raizze (14H)",
-      "url" : "https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
-      "url_diff" : "https://w.atwiki.jp/14key/pages/23.html",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 4
-   },
-   {
       "artist" : "Shaman Cure-All / obj:2y",
       "level" : "2",
       "md5" : "df3e947f0886e96f59760f8ed2ef38b8",
@@ -323,20 +214,6 @@
       "title" : "Nichirin [DP Another]",
       "url" : "https://drive.google.com/file/d/15bArXkCaIRJ05rjYWe0-jIEwCwSPrO04/view?usp=sharing",
       "url_diff" : "https://ux.getuploader.com/dpbms/download/183",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "CELLON. / Obj:ゆ～兎",
-      "comment" : "ラスト殺し",
-      "level" : "2",
-      "md5" : "ed6c53f4a405cde88ddd5c48333ba310",
-      "proposer" : "JHS",
-      "proposerLr2id" : 128228,
-      "sha256" : "0423145156bf94b2e592a9ad1577efcde2f1ae0c496ac2ddd50f2efe95ba361e",
-      "submission" : 401,
-      "title" : "Cube of mind",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=83",
-      "url_diff" : "http://web.archive.org/web/20140921042604/http://timetorain.web.fc2.com/sabun/cube_of_mind_YH.zip",
       "zureCount" : 0
    },
    {

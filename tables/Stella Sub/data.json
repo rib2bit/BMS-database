@@ -10847,7 +10847,7 @@
    {
       "artist" : "eicateve hrchem[illust] TOHRU MiTSUHASHi[movie] И[object]",
       "comment" : "fixed ver",
-      "level" : "1",
+      "level" : "2",
       "md5" : "9da1984a1465ca327dcdbbc9b2b791f7",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,
@@ -14177,6 +14177,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "DJ Eye",
+      "comment" : "中速連打複合",
+      "level" : "3",
+      "md5" : "cd23bf9461293a207a045afbc92c333f",
+      "proposer" : "BAECON",
+      "proposerLr2id" : 46122,
+      "sha256" : "aae922715d62ab321d7b0097adef98b6031245867a8ba5599b87942cbdb6a322",
+      "submission" : 1270,
+      "title" : "SEKIDO [Catastrophe]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=132",
+      "url_diff" : "https://bms.parksulab.xyz",
+      "zureCount" : 0
+   },
+   {
       "artist" : "LS (feat. eFeL / mov. masqerade) / obj:半熟",
       "comment" : "物量",
       "level" : "1",
@@ -17470,6 +17484,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "TEKINA/ 差分 赤い人",
+      "comment" : "楽しいです！",
+      "level" : "2",
+      "md5" : "fd4b6371b556ee1091597ff1ac43d334",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "6b746cb52d9c04d24c15f42fd8599b13c858b6acfb9d41f4c1b1100f08763c70",
+      "submission" : 1269,
+      "title" : "地下街 [INFERNO]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/%e5%9c%b0%e4%b8%8b%e8%a1%97%20%28by%20TEKINA%29.rar",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/RuinousGhost-INFERNO.bms",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Omnipotenx / obj:Monsta",
       "comment" : "★24の強化版？",
       "level" : "10",
@@ -17602,6 +17630,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Alex Turell sliced by DAC",
+      "comment" : "原曲のキー音をアレンジしたり、カットしたりした差分です(同梱の_OGGme.txtによれば)。同梱の_GOTH_base.b(0ノーツファイル)基準ズレ抜け無し。",
+      "level" : "2",
+      "md5" : "fee53fde60c8ba036a119d21e267879a",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "f4031828dd736c687d6aff2863b0789a3e4ad1ad17b36f36c09473f92d2b13e6",
+      "submission" : 1271,
+      "title" : "GOTH (Darksabun Edit) [Nightmare: DEMONstration]",
+      "url" : "https://darksabun.github.io/songs/GOTH_DSedit_ogg.zip",
+      "url_diff" : ""
    },
    {
       "artist" : "455 / rio / black train",
