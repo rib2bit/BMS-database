@@ -1,5 +1,18 @@
 [
    {
+      "artist" : "鈎兎(KagiUsagi) obj : Mary_Sue",
+      "comment" : "皿が多いです(SPAとズレなし)",
+      "level" : "1",
+      "md5" : "5834a8a9433715dc1436206d3a0b7335",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "075a4ec9ff6f05a0364e43301c7a18ca93e42682eed832114761c4fcf5f805dc",
+      "submission" : 1273,
+      "title" : "キツネノツカヰ [芽亜利・座]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=132",
+      "url_diff" : "https://darksabun.github.io/Mary_Sue/"
+   },
+   {
       "artist" : "SHIKI / black train",
       "level" : "0",
       "md5" : "751738dea1169c5c39db935adfc9e85f",
@@ -43,6 +56,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Valentina G. obj:bms newbie",
+      "comment" : "__your gaze.ca6yhとズレなし",
+      "level" : "1",
+      "md5" : "8710b19ab6a04c3a6a54389abb1bceed",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "b2ee8f358a8f7fa0159c04a750c47ba95c00e5011a008e63c1754c69e9e4a081",
+      "submission" : 1272,
+      "title" : "your gaze [nightscape]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=132",
+      "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
       "artist" : "9-zen obj.hex",
       "level" : "3",
       "md5" : "a0e534d02c919996fef1f2a83c44c418",
@@ -71,6 +97,19 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=132",
       "url_diff" : "https://fsrs.github.io/",
       "zureCount" : 0
+   },
+   {
+      "artist" : "Cres / *8284* / hex obj.hex",
+      "comment" : "原曲アレンジ、カットあり　st1～2？",
+      "level" : "1",
+      "md5" : "b6aba5810b09bc6af607c3eb299f4053",
+      "proposer" : "のの",
+      "proposerLr2id" : 149743,
+      "sha256" : "54a6c2af55d0e038285d80ba82f7ff875fc737c4763a021f7d2c507ea333ee50",
+      "submission" : 1274,
+      "title" : "End Time A⇒Side [Hexagon]",
+      "url" : "https://drive.google.com/uc?export=download&id=1goh94AaQvXtY7jQS9DDVTZwFJBGa5IM8",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html"
    },
    {
       "artist" : "DJ Eye",
