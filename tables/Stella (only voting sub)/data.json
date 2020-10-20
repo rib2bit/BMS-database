@@ -69,6 +69,19 @@
       "url_diff" : "https://bms.parksulab.xyz"
    },
    {
+      "artist" : "ezo/obj.もにもに",
+      "comment" : "ディレイによるズレあり、ディレイ部分以外は譜面作成者がズレ抜けチェック済(SPA基準)らしいです",
+      "level" : "6",
+      "md5" : "92fcf796ad34dc0f1c06e2f398a92659",
+      "proposer" : "ひろ",
+      "proposerLr2id" : 32696,
+      "sha256" : "1934f097400e9cc97e0df0c20a754b9df01c3551e382e3661ab1bb2d4aec3b71",
+      "submission" : 1275,
+      "title" : "Hyper Sugary Rush! [miracle]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=248&event=127",
+      "url_diff" : "https://stellabms.xyz/upload/325"
+   },
+   {
       "artist" : "9-zen obj.hex",
       "level" : "3",
       "md5" : "a0e534d02c919996fef1f2a83c44c418",
