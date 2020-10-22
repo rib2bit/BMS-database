@@ -2137,6 +2137,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "er obj:SUZUKAZEΛ",
+      "comment" : "ガチ押し、2連打、二重階段。bpm:135, Notes:1744, Total:380。同梱未配置(_newearth)とズレ無し。同梱[ANOTHER7]と比べると微ズレ同時押しが無いので見やすい。",
+      "level" : "1",
+      "md5" : "16ad289f62383c1a69ffa5486bef46e9",
+      "proposer" : "ﾐﾅﾐｺｱﾘｸｲ",
+      "proposerLr2id" : 119698,
+      "sha256" : "72f46d653b71057e21ef4deaee0b4ad57ee536a4f356ed9c5b3d75b64622a515",
+      "submission" : 1656,
+      "title" : "new earth [ZOI]",
+      "url" : "https://dropbox.bms.ms/u/28765267/er_new-earth.zip",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "削除 feat. void / 浪漫映像制作倶楽部 / obj : xi",
       "level" : "1",
       "md5" : "16b3656f142cfe1531e2bd5e4cd9d2c3",
@@ -14630,6 +14644,20 @@
       "title" : "LOE4 Another",
       "url" : "https://venue.bmssearch.net/bmsshuin2/33",
       "url_diff" : ""
+   },
+   {
+      "artist" : "Mr.K obj:SUZUKAZEΛ",
+      "comment" : "Xeus!!!",
+      "level" : "5",
+      "md5" : "a34cc2170bd381182f1344d215426675",
+      "proposer" : "Restia",
+      "proposerLr2id" : 115265,
+      "sha256" : "2e90027e1ee8d62ad7aca0fd27627197da581fd5ad61873d0473f037fbaccedf",
+      "submission" : 1657,
+      "title" : "xeusonic [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=132",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+      "zureCount" : 0
    },
    {
       "artist" : "GUANA / LuCenT obj. Lapis",

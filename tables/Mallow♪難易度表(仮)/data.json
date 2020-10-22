@@ -66,7 +66,7 @@
    },
    {
       "artist" : "長沼浩太（バナナ太郎）",
-      "comment" : "1998 to 2020 (仮)提出作品 / 皿複合,いつもの自分とはちょっと違った譜面",
+      "comment" : "1998 to 2020 (仮) 提出作品 / 皿複合,いつもの自分とはちょっと違った譜面",
       "level" : "3",
       "md5" : "1eabef57130f6e66f6b46e3fb0f6e9d9",
       "name_diff" : "Mallow♪",
@@ -131,7 +131,7 @@
    },
    {
       "artist" : "r",
-      "comment" : "Mutual Fumen提出作品(DKさんと合作) / ガチ押しと乱打",
+      "comment" : "Mutual Fumen 提出作品(DKさんと合作) / ガチ押しと乱打",
       "level" : "7",
       "md5" : "41541e23144c1f47186b8353c365921f",
       "name_diff" : "未来差分研究所(Mallow♪ & DK)",
@@ -248,7 +248,7 @@
    },
    {
       "artist" : "Junk",
-      "comment" : "Mutual Fumen提出作品(DKさんと合作) / 微縦連の混じる乱打譜面",
+      "comment" : "Mutual Fumen 提出作品(DKさんと合作) / 微縦連の混じる乱打譜面",
       "level" : "5",
       "md5" : "af3d691548fe1aa9fdbf19d0e96387fb",
       "name_diff" : "未来差分研究所(Mallow♪ & DK)",
@@ -349,6 +349,19 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03324",
       "video1" : "",
       "video2" : "ePpNMlsqzH0"
+   },
+   {
+      "artist" : "ろうて",
+      "comment" : "BMS譜面作成の挑戦状 提出作品 / LN複合,カーテンを大量に盛り込んだ超絶LN技巧譜面(◆19くらい？)(追加キー音あり)",
+      "level" : "-4",
+      "md5" : "df655dc8fd6d936fb48e7611929b8ac6",
+      "name_diff" : "Mallow♪",
+      "state" : "",
+      "title" : "アリスの空虚で愉快な人形劇 [LN BOSS]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=102",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/challenge/BMS_chart_challenge_20201022.zip",
+      "video1" : "",
+      "video2" : "RXFmC1UVvGc"
    },
    {
       "artist" : "ZUN(Arranged by kinoco nyokki)",

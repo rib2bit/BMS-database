@@ -5479,6 +5479,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "榊原ゆい/Team-OZ/山下慎一狼 remixed by Lemon beads",
+      "comment" : "ガチ押し、st3くらい",
+      "level" : "3",
+      "md5" : "4f98bc163f62b147cc4fb80e791acee6",
+      "proposer" : "*ゆ*",
+      "proposerLr2id" : 40621,
+      "sha256" : "c5f64572c401224d1480131352f874da9e3b331bda79f46c9f1dabb29440df34",
+      "submission" : 1276,
+      "title" : "ドキドキ☆ココロ☆フレーバー (Lemon beads Hands-Up bootleg) -BMS Edit-",
+      "url" : "http://yaruki0.sakura.ne.jp/event/A1_6th/impression.cgi?no=13",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04573",
+      "zureCount" : 0
+   },
+   {
       "artist" : "t+pazolite obj;FM-TOWNS respect air",
       "comment" : "★★6をかなり弱体化させた譜面",
       "level" : "2",
@@ -11095,6 +11109,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Duca/Scuderia K Remixed by Lemon beads",
+      "comment" : "縦連混じりの乱打、st0～1くらい",
+      "level" : "0",
+      "md5" : "9f8cea0540cef8cde6453868a9e71bd0",
+      "proposer" : "*ゆ*",
+      "proposerLr2id" : 40621,
+      "sha256" : "d4eafbf10f2a79de11697a4c297d2239c45daeaeddecfd39fbd0d3c2dfea1b6c",
+      "submission" : 1277,
+      "title" : "ネコイチ(Lemon beads Remix) -BMS edit-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=92&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04578"
    },
    {
       "artist" : "2X Obj.Triforce",
