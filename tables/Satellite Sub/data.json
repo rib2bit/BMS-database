@@ -5685,6 +5685,20 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
    },
    {
+      "artist" : "eicateve / Mentalstock obj:七海",
+      "comment" : "eicateve flavor banana man",
+      "level" : "5",
+      "md5" : "3e601bd3f34ac8a247045da0e442f011",
+      "proposer" : "Restia",
+      "proposerLr2id" : 115265,
+      "sha256" : "b05c4f18b3efd84fe0d9f854afb7bf55d1c9f4087a92902a50b34ffb0c7f4848",
+      "submission" : 1659,
+      "title" : "Gun to Childhead -Despair-",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/Gun%20to%20Childhead%20%28by%20eicateve%ef%bc%8fMentalstock%29.rar",
+      "url_diff" : "https://www.dropbox.com/s/rrzn1jkbnkwdpoi/gunto_nanami.zip?dl=1",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Omnipotenx / obj:秘密",
       "comment" : "乱打　アへ顔",
       "level" : "8",
@@ -19473,6 +19487,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Est /D",
+      "comment" : "ディレイ入門に",
+      "level" : "9",
+      "md5" : "d3a21254a1ec60616425e86e8713c669",
+      "proposer" : "のの",
+      "proposerLr2id" : 149743,
+      "sha256" : "3d1590b2b9f5dae0b58aa56c3a531048e506995be4cfefcbec93dcf4e71c720e",
+      "submission" : 1658,
+      "title" : "Angelic Snow [DELAY]",
+      "url" : "http://estish.nobody.jp/",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03362"
    },
    {
       "artist" : "Yu^ta",
