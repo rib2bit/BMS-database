@@ -3493,6 +3493,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Hate vs Brilliance / selene.",
+      "comment" : "st3~4",
+      "level" : "3",
+      "md5" : "35ddb14ef1263868881bcf0452cfc744",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "87ea3f37f98be034506f1082d49fb31693ffee34f81bb4c8c63c240db4461977",
+      "submission" : 1278,
+      "title" : "Quark -Genocide-",
+      "url" : "http://web.archive.org/web/20120427095927/http://uploader.bms.ms/bof2008/?download=quark_ogg.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03290",
+      "zureCount" : 0
+   },
+   {
       "artist" : "hapi⇒ obj:mute",
       "comment" : "物量、同時押し",
       "level" : "0",
@@ -10369,6 +10383,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Shinji Hirako obj: qtp13",
+      "comment" : "BPM180 微連打",
+      "level" : "4",
+      "md5" : "943f9fc2ea9dafa570d3057419db3f7a",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "9a471aa46d17957cc7e4521a08d4fc7f679d48fd5bf23fab1504a4d0666a7b97",
+      "submission" : 1281,
+      "title" : "Death Waltz [Phantom Jacks]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/Death%20Waltz%20%28by%20Shinji%20Hirako%29.rar",
+      "url_diff" : "https://stellabms.xyz/upload/405",
+      "zureCount" : 0
+   },
+   {
       "artist" : "er obj.hex",
       "comment" : "物量, がち押し",
       "level" : "3",
@@ -13418,6 +13446,19 @@
       "title" : "Luv of Magical Synth [サテラ×ステラ]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=129",
       "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/"
+   },
+   {
+      "artist" : "甘党マニア obj:st",
+      "comment" : "st3~4 delay, ending recovery",
+      "level" : "3",
+      "md5" : "bf8a7ee32baa66472999688139c3a83e",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "5380db2886044052c7b0d7887f10a7371eceeb01f28c5a11755632976943304d",
+      "submission" : 1279,
+      "title" : "antilife (s-ther)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=167&event=60",
+      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up3206.zip"
    },
    {
       "artist" : "Cataclysmic Order BGI:FARNA / selene.",
@@ -17440,6 +17481,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Lokan",
+      "comment" : "BPM\t127 - 145 連打複合",
+      "level" : "4",
+      "md5" : "fb35fdadfba4ac0ee9f3b33a70846e92",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "a203faf83ca1ea9e6595df1218b6f82e3e4ffcae45c82d4b384ebb06606609b6",
+      "submission" : 1280,
+      "title" : "introspect [introspection]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=211&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
    },
    {
       "artist" : "ねこみりん feat.みゆ / obj:MineC24 Illust:わんびぃ",
