@@ -427,6 +427,20 @@
       "zureCount" : 0
    },
    {
+      "artist" : "mocha / obj: Lennon",
+      "comment" : "BPM126 Jacks, 100min Fumen Cooking!!",
+      "level" : "2",
+      "md5" : "a38fcd8a5d6779fea4de309e8d613bd3",
+      "proposer" : "|/|",
+      "proposerLr2id" : 147895,
+      "sha256" : "1108f0286b36ad2856e60f44a458ef9ff21c1cb5eb8105eb1e4f243fb9f0f63a",
+      "submission" : 1663,
+      "title" : "Saudade -nostalgia-",
+      "url" : "http://diverse.jp/dbhtml/download.html",
+      "url_diff" : "https://stellabms.xyz/upload/377",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Trantech",
       "comment" : "BPM183 難しいリズム",
       "level" : "3",
@@ -591,5 +605,21 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=68&event=132",
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "zureCount" : 0
+   },
+   {
+      "artist" : "ueotan / kefia / obj.mn",
+      "level" : "8",
+      "md5" : "fe06e7af1ffce52f334eb8161c71ed99",
+      "proposer" : "けーちゃん",
+      "proposerLr2id" : 137190,
+      "sha256" : "36af240a04c89b26a346c737e2bf075c2d64ee8044507da4a17f0b12a05bdc1a",
+      "submission" : 1340,
+      "title" : "夢幻城デクシア [delay_beginner]",
+      "url" : "https://mega.nz/#F!FNFDCQaT!wfv-iI4UuSIaGpP0oFZdtQ?cZsGUIAC",
+      "url_diff" : "http://stairway.sakura.ne.jp/dosukoi/",
+      "voteNeutral" : 4,
+      "voteNo" : 1,
+      "votePercent" : 72.7272727272727,
+      "voteYes" : 6
    }
 ]

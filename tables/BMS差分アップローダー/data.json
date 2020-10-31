@@ -5336,7 +5336,7 @@
       "md5" : "0ed2e893389d1e37e5615ab6a7613804",
       "org_level" : null,
       "title" : "ロックマン５　[ダークマン] ～practice～",
-      "url" : "",
+      "url" : "http://www5a.biglobe.ne.jp/~zang/bm/bms.html",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04701"
    },
    {
@@ -9478,6 +9478,21 @@
       "title" : "Black Lair [EXPERT]",
       "url" : "http://web.archive.org/web/20131206203702/http://sakuzyo.net/sakuzyo_black_lair_ogg.zip",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03278"
+   },
+   {
+      "adddate" : "2020/10/30 20:58",
+      "artist" : "MIDI:Takutoさん BMS:しお☆Ｋ obj:firi.",
+      "comment" : "",
+      "folder" : "2020/10",
+      "genre" : "Game Music",
+      "keys" : 7,
+      "level" : "2020/10",
+      "lr2_bmsid" : "",
+      "md5" : "1adae4363911dee4acd9a46765fb9b36",
+      "org_level" : null,
+      "title" : "バトル１ -Romancing Sa.Ga.3-[7key]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04735"
    },
    {
       "adddate" : "2018/09/29 00:43",
@@ -17503,6 +17518,21 @@
       "title" : "KIMIGAYO ~America Edition~ [9key ICHIFUJI]",
       "url" : "",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03822"
+   },
+   {
+      "adddate" : "2020/10/31 00:13",
+      "artist" : "Reku Mochizuki obj:Guanacoite",
+      "comment" : "じゃあ俺、(BOFXVI BMS差分企画RTA1位の座)貰って帰るから(棒読み)",
+      "folder" : "2020/10",
+      "genre" : "Arcade Core",
+      "keys" : 7,
+      "level" : "2020/10",
+      "lr2_bmsid" : "291635",
+      "md5" : "3391b7075e4e1d1031f5e7715778c09b",
+      "org_level" : null,
+      "title" : "VEZZELiX [PARRCELxVI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=98&event=133",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04736"
    },
    {
       "adddate" : "2018/10/09 21:43",
