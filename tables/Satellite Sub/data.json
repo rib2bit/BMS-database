@@ -14482,6 +14482,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Shinji Hirako /差分 赤い人",
+      "comment" : "sl12~st0",
+      "level" : "12",
+      "md5" : "a042bdc9757be1de18bf735cba90738d",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "d009ccc924dd97e124787639745f7f335416ae3400322f119e076502088adadc",
+      "submission" : 1664,
+      "title" : "Death Waltz [HARDEST]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/Death%20Waltz%20%28by%20Shinji%20Hirako%29.rar",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/DeathWaltz_HARDEST.bme",
+      "zureCount" : 0
+   },
+   {
       "artist" : "SP-#",
       "comment" : "高速乱打",
       "level" : "4",

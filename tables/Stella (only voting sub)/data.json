@@ -1,5 +1,21 @@
 [
    {
+      "artist" : "Ester mov : mi / powered by cymbidium / selene.",
+      "level" : "2",
+      "md5" : "2d2b7f8fcfbaac57e2619baab85944fb",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "e16250d20ca0ebb8798953b8111538c0eff482cd122a3f5209d9f713dceadc69",
+      "submission" : 746,
+      "title" : "Dizzolve -Genocide-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=56&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02202",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 2
+   },
+   {
       "artist" : "Hate vs Brilliance / selene.",
       "comment" : "st3~4",
       "level" : "3",
@@ -108,20 +124,6 @@
       "title" : "Hyper Sugary Rush! [miracle]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=248&event=127",
       "url_diff" : "https://stellabms.xyz/upload/325"
-   },
-   {
-      "artist" : "Shinji Hirako obj: qtp13",
-      "comment" : "BPM180 微連打",
-      "level" : "4",
-      "md5" : "943f9fc2ea9dafa570d3057419db3f7a",
-      "proposer" : "SHAX.",
-      "proposerLr2id" : 65624,
-      "sha256" : "9a471aa46d17957cc7e4521a08d4fc7f679d48fd5bf23fab1504a4d0666a7b97",
-      "submission" : 1281,
-      "title" : "Death Waltz [Phantom Jacks]",
-      "url" : "http://sunaneko.iptime.org/BMS_Library/Death%20Waltz%20%28by%20Shinji%20Hirako%29.rar",
-      "url_diff" : "https://stellabms.xyz/upload/405",
-      "zureCount" : 0
    },
    {
       "artist" : "Duca/Scuderia K Remixed by Lemon beads",
