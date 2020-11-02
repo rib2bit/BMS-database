@@ -30,6 +30,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "LeaF",
+      "comment" : "同梱の隠し譜面です。同梱のファイル_I7.^^を_I7.bmsに変換するとプレーできます。",
+      "level" : "0",
+      "md5" : "40f7728d5ad74c44e0e6c4adc9adcd26",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "0a994fedb160bc6c6516febadfc51069b028284c284de65e893bad66a0ddb243",
+      "submission" : 1282,
+      "title" : "Spiral History [INSANE]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/Spiral%20History%20%28by%20LeaF%29.rar",
+      "url_diff" : ""
+   },
+   {
       "artist" : "榊原ゆい/Team-OZ/山下慎一狼 remixed by Lemon beads",
       "comment" : "ガチ押し、st3くらい",
       "level" : "3",
@@ -55,22 +68,6 @@
       "title" : "キツネノツカヰ [芽亜利・座]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=132",
       "url_diff" : "https://darksabun.github.io/Mary_Sue/"
-   },
-   {
-      "artist" : "SHIKI / black train",
-      "level" : "0",
-      "md5" : "751738dea1169c5c39db935adfc9e85f",
-      "proposer" : "iLiss.",
-      "proposerMinirid" : "3f704503-3720-4974-889f-8e7f0b8f3346",
-      "sha256" : "d63e801eb3779633285fc22d2e37a64c8d2768241c13c5ce4b7dd0ac53b16bc6",
-      "submission" : 865,
-      "title" : "Air -GOD-",
-      "url" : "http://web.archive.org/web/20051118202018/http://www.remarkablesense.org/~shiki/air.exe",
-      "url_diff" : "http://absolute.pv.land.to/Anotherbms.html",
-      "voteNeutral" : 3,
-      "voteNo" : 15,
-      "votePercent" : 66.3265306122449,
-      "voteYes" : 31
    },
    {
       "artist" : "Radiogazer / И",
@@ -126,35 +123,6 @@
       "url_diff" : "https://stellabms.xyz/upload/325"
    },
    {
-      "artist" : "Duca/Scuderia K Remixed by Lemon beads",
-      "comment" : "縦連混じりの乱打、st0～1くらい",
-      "level" : "0",
-      "md5" : "9f8cea0540cef8cde6453868a9e71bd0",
-      "proposer" : "*ゆ*",
-      "proposerLr2id" : 40621,
-      "sha256" : "d4eafbf10f2a79de11697a4c297d2239c45daeaeddecfd39fbd0d3c2dfea1b6c",
-      "submission" : 1277,
-      "title" : "ネコイチ(Lemon beads Remix) -BMS edit-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=92&event=116",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04578"
-   },
-   {
-      "artist" : "9-zen obj.hex",
-      "level" : "3",
-      "md5" : "a0e534d02c919996fef1f2a83c44c418",
-      "proposer" : "mukyu--",
-      "proposerLr2id" : 71314,
-      "sha256" : "4fb18c030425b33f1cd7c841fd2af7e3a0fd267e2b5486928454720c566633e2",
-      "submission" : 1198,
-      "title" : "ルーネイトエルフ～霧の湖の物語～ [Pentagon]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=129",
-      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html",
-      "voteNeutral" : 1,
-      "voteNo" : 0,
-      "votePercent" : 91.6666666666667,
-      "voteYes" : 5
-   },
-   {
       "artist" : "tkqn14 pattern for some reason",
       "comment" : "連打",
       "level" : "2",
@@ -180,6 +148,20 @@
       "title" : "End Time A⇒Side [Hexagon]",
       "url" : "https://drive.google.com/uc?export=download&id=1goh94AaQvXtY7jQS9DDVTZwFJBGa5IM8",
       "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html"
+   },
+   {
+      "artist" : "s-don / jubeated / obj : 0samil0",
+      "comment" : "楽しい",
+      "level" : "0",
+      "md5" : "be27c5b83678ddc7ae6326feb2b40c36",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "664c3a4ae766122edcdbbbd24f9dec61ddca84966398c99ad93cd456345ec455",
+      "submission" : 1283,
+      "title" : "WATER STOP DOTx4 -わかめ-",
+      "url" : "https://dropbox.bms.ms/u/33464123/%5Bshibusawa%5D%5Bs-don%5DWATER_STOP_DOTx4.zip",
+      "url_diff" : "http://dl.dropboxusercontent.com/s/4fqjqnoqvyr7cat/0samil0.zip?token_hash=AAErF9mm6pKePkOPjYDKLtjr6fdCKKm_AF4WBrzm0c3Ljw&dl=1",
+      "zureCount" : 0
    },
    {
       "artist" : "甘党マニア obj:st",
@@ -209,20 +191,6 @@
       "zureCount" : 0
    },
    {
-      "artist" : "諸星きらり/緒方智絵里",
-      "comment" : "BPM206の平たい乱打譜面",
-      "level" : "1",
-      "md5" : "d00e7d9111ad2bd2bba587616627fc69",
-      "proposer" : "ふかけん",
-      "proposerLr2id" : 145204,
-      "sha256" : "c14c371ae9e082cbfa352a6340d9c4389c96353f678db41e8129e766140a636d",
-      "submission" : 1259,
-      "title" : "諸星きらりのハピハピ☆恋愛論だにぃ [SR]",
-      "url" : "http://sunaneko.iptime.org/BMS_Library/%e8%ab%b8%e6%98%9f%e3%81%8d%e3%82%89%e3%82%8a%e3%81%ae%e3%83%8f%e3%83%94%e3%83%8f%e3%83%94%e2%98%86%e6%81%8b%e6%84%9b%e8%ab%96%e3%81%a0%e3%81%ab%e3%81%83%20%28by%20%e8%ab%b8%e6%98%9f%e3%81%8d%e3%82%89%e3%82%8a%29.rar",
-      "url_diff" : "http://akred.web.fc2.com/baecon/1_SRkirari.bme",
-      "zureCount" : 0
-   },
-   {
       "artist" : "TAK / 140 BMS Object Auto Placement Program α-Gorila",
       "comment" : "BPM180 乱打",
       "level" : "3",
@@ -234,20 +202,6 @@
       "title" : "Levitation [乱打ONLY]",
       "url" : "https://web.archive.org/web/20070627015638/http://www.geocities.jp/inthesilentdream/bms/levitation.zip",
       "url_diff" : "https://darksabun.github.io/sabun/Levitation_randa.zip"
-   },
-   {
-      "artist" : "Nami Haven obj.Guanacoite",
-      "comment" : "ガチ押し",
-      "level" : "3",
-      "md5" : "e8776cf32615ff4a8f536bd463fda1e5",
-      "proposer" : "Mallow♪",
-      "proposerLr2id" : 154796,
-      "sha256" : "84fcb7e86756077b46410d2b6292e8314d21006fe24bd66d9f560c7e408377f9",
-      "submission" : 1260,
-      "title" : "Save the Water [Refrain From Swilling Water]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=129",
-      "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/",
-      "zureCount" : 0
    },
    {
       "artist" : "Lokan",

@@ -1478,7 +1478,7 @@
    {
       "artist" : "Ras/obj:LLL",
       "comment" : "6~7? 物量",
-      "level" : "6",
+      "level" : "7",
       "md5" : "53c2074d26127be0f7586e8def386cac",
       "proposer" : "にゃむ",
       "proposerLr2id" : 139958,
@@ -4056,6 +4056,19 @@
       "title" : "soda ocean",
       "url" : "https://web.archive.org/web/20140111161455/http://aquaseeds.net/bof2013_maki_sodaocean_ogg.rar",
       "url_diff" : ""
+   },
+   {
+      "artist" : "HARD RENAISSAMBA MASTER 佐藤 -SATOH- / obj.KENIN*",
+      "comment" : "DD,DEキー音ズレ12個は同じキー音だから問題なし",
+      "level" : "12",
+      "md5" : "cfb9622768f5b5415e6a82169266eacf",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "e4483bcf9bcd09f5ac489070ed12d0b17953d4d8c3b78a8abb44bc5801401d2d",
+      "submission" : 424,
+      "title" : "ハードルネッサンバ -DP MID BOSS-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=409&event=104",
+      "url_diff" : "http://sunaneko.iptime.org/dpsabun_kenin.html"
    },
    {
       "artist" : "qfeileadh feat.レゾナンスもえこ mov:自動車 原付 / obj. 0ne",

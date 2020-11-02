@@ -16,19 +16,6 @@
       "voteYes" : 9
    },
    {
-      "artist" : "あとぅす",
-      "comment" : "同梱譜面、中速、CNは難易度にほぼ影響なし、sl3～4？",
-      "level" : "3",
-      "md5" : "0e0ea8aa78af27437b2f5df5d1726a3b",
-      "proposer" : "quinto",
-      "proposerLr2id" : 141043,
-      "sha256" : "24e550fba6cc05c06a70ee9da2f721d0a082e6a1a2a58c293224260f92f904ef",
-      "submission" : 1633,
-      "title" : "Crossion [ANOTHER]",
-      "url" : "https://event.yaruki0.net/VSevent/impression/24",
-      "url_diff" : ""
-   },
-   {
       "artist" : "hurirai BGA:hrchem",
       "level" : "3",
       "md5" : "0fe696ac60e831fc111285d6099eadbb",
@@ -57,6 +44,19 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=132",
       "url_diff" : "https://www.dropbox.com/s/hsokg6c4gnq7jy5/dp_bn.zip?dl=1",
       "zureCount" : 0
+   },
+   {
+      "artist" : "MILK / И",
+      "comment" : "キー音を追加したアレンジ譜面です。(ファイル同梱のsabun_readmeによると)",
+      "level" : "2",
+      "md5" : "12432ebc0072ee1c3837a8bf6863a515",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "58dec2dcaf06a57828ec897a8e80eb097c1029c9e750d344eb4ef653aac77f61",
+      "submission" : 1668,
+      "title" : "RAY (HOPE)",
+      "url" : "https://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21208",
+      "url_diff" : "https://bms.parksulab.xyz"
    },
    {
       "artist" : "er obj:SUZUKAZEΛ",
@@ -89,62 +89,6 @@
       "voteYes" : 9
    },
    {
-      "artist" : "BACO #include <Octa the B.G.> <Red sheep> <朝日大学付属高校カバディー部キャプテン> <フロン> <L_Z> <massop> <HeARTy> BGA: AOO / Obj.Triforce",
-      "comment" : "no softlanding",
-      "level" : "7",
-      "md5" : "30607478e63998ea95705d1e5a82a9f9",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "45057f272f3d056a9c073dfa313b1026e1c99243d8084ac64593b5e6ccfd9a58",
-      "submission" : 1660,
-      "title" : "ユニオンコード [MD Algorithm]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=253&event=96",
-      "url_diff" : "http://www.dropbox.com/s/x1i396vb1k9j4tn/unionCode_41_triforce.bme?dl=0"
-   },
-   {
-      "artist" : "nora2r / 出前 /差分 赤い人",
-      "comment" : "sl4～5？",
-      "level" : "4",
-      "md5" : "33c20cf6ad9c522f55d7c02575aece55",
-      "proposer" : "quinto",
-      "proposerLr2id" : 141043,
-      "sha256" : "cb6b6f5b66cacfbfd41db739a3f0ffaaf53d980f5b1b7c5f7ad390ccdc78144c",
-      "submission" : 1632,
-      "title" : "B.B.K.K.B.K.K. [HARD]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=152&event=88",
-      "url_diff" : "http://akred.web.fc2.com/ak-red-new.html",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "Chitose (Movie:zue-row)",
-      "comment" : "良地力譜面",
-      "level" : "0",
-      "md5" : "3acae69d0c160351a942ec28a9249d5a",
-      "proposer" : "bluemouse",
-      "proposerMinirid" : "38b6fd3c-5f86-4e87-aef8-3f9952471580",
-      "sha256" : "a500e506ec3d036b97b07347842de9cdeec9e73a542779af071c89eb2a7f95d5",
-      "submission" : 1644,
-      "title" : "CLOCKTOWER (SP ANOTHER )",
-      "url" : "http://www.dropbox.com/s/0vii9kuwva66ex2/CLOCKTOWER_ogg.zip",
-      "url_diff" : ""
-   },
-   {
-      "artist" : "ridis",
-      "level" : "9",
-      "md5" : "3add0eb683b2590e912ba1c6404eea9e",
-      "proposer" : "turbow",
-      "proposerMinirid" : "6ff4a3e0-3764-464e-ba27-37e10197ee2a",
-      "sha256" : "f05e9a67dba9d6f1ab49007a486c926f2e091c42a71f25d758571c866e2b6ea2",
-      "submission" : 1435,
-      "title" : "whisper (KF7)",
-      "url" : "https://1drv.ms/f/s!AsmoDHSAppX8gYp5ivi_0xYFitL2Hw",
-      "url_diff" : "https://bms.parksulab.xyz",
-      "voteNeutral" : 3,
-      "voteNo" : 2,
-      "votePercent" : 68.1818181818182,
-      "voteYes" : 6
-   },
-   {
       "artist" : "eicateve / Mentalstock obj:七海",
       "comment" : "eicateve flavor banana man",
       "level" : "5",
@@ -157,6 +101,19 @@
       "url" : "http://sunaneko.iptime.org/BMS_Library/Gun%20to%20Childhead%20%28by%20eicateve%ef%bc%8fMentalstock%29.rar",
       "url_diff" : "https://www.dropbox.com/s/rrzn1jkbnkwdpoi/gunto_nanami.zip?dl=1",
       "zureCount" : 0
+   },
+   {
+      "artist" : "ume/BGI しらそ",
+      "comment" : "同梱譜面/WORLD WAR",
+      "level" : "0",
+      "md5" : "4383559f2e8caceff8960aee48fd49df",
+      "proposer" : "TR1",
+      "proposerLr2id" : 152181,
+      "sha256" : "038c48d9425edcc835cce11b4748d3bbd76677b63855929fbd8f284bd9dd77a8",
+      "submission" : 1671,
+      "title" : "Tango Ardiente",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=65&event=132",
+      "url_diff" : ""
    },
    {
       "artist" : "lixound mov:Xquid",
@@ -188,19 +145,6 @@
       "url_diff" : ""
    },
    {
-      "artist" : "美月 正 / 雪凛 ♪",
-      "comment" : "sl12~st0/1 (hihat, piano arrange)",
-      "level" : "11",
-      "md5" : "4faa5ba5f76078757c24bdb0cd5c3731",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "1401cdcefc16936c66dd70054fda3e727bfa2e1b0d7727c6ec6615e08cecc790",
-      "submission" : 1634,
-      "title" : "E reviver -imaging you- (満月)",
-      "url" : "http://web.archive.org/web/20111230023613/http://tsubu.ath.cx/~ssry/music.html",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03494"
-   },
-   {
       "artist" : "Setca. & みーに feat. 初音ミク obj. DK",
       "comment" : "total 300 / only in 100min？？？？？",
       "level" : "1",
@@ -215,43 +159,18 @@
       "zureCount" : 0
    },
    {
-      "artist" : "Sound-Box(feat.A.Dokuga)",
-      "comment" : "同梱譜面 /G2R2018",
-      "level" : "0",
-      "md5" : "5f87b408b3369c0d0d454865ee0b89fe",
-      "proposer" : "TR1",
-      "proposerLr2id" : 152181,
-      "sha256" : "223cb12d1ffce5f88020eef61de4244248ea5a720b342eff78653b2f176705eb",
-      "submission" : 1626,
-      "title" : "faRE:well [ANOTHER]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=136&event=123",
-      "url_diff" : ""
-   },
-   {
-      "artist" : "shimizushi BGA : karoeya & a.a / obj : DJ.END",
-      "level" : "3",
-      "md5" : "693efa24d5829c4ea0af01d4eed14cab",
-      "proposer" : "sol.twins",
-      "proposerLr2id" : 150696,
-      "sha256" : "9a41ff6c2a5775ff19a16199d495b759d91d657a9a34d5e29ca7459fabca5da2",
-      "submission" : 1628,
-      "title" : "LIGHTNING STAIRWAY [WHITE ANOTHER]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=268&event=104",
-      "url_diff" : "",
+      "artist" : "黒皇帝 Movie: inukoro / Illust: Tonosuke / Lyrics: Dolphin / obj: fhyu",
+      "comment" : "BPM201 多要素",
+      "level" : "10",
+      "md5" : "66145c34fda1143d71ecce527ec84d01",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "35ed1f028d889964f3721eb4bd8028f161241c17ad9d70706142d5d6d7433c04",
+      "submission" : 1666,
+      "title" : "alicemourn [Adomiration]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
       "zureCount" : 0
-   },
-   {
-      "artist" : "Rethisly BGA:るっかるか",
-      "comment" : "同梱譜面/Mutual Faith 2/LN",
-      "level" : "0",
-      "md5" : "697460a22f79651a3c1bce2bc3bb0667",
-      "proposer" : "TR1",
-      "proposerLr2id" : 152181,
-      "sha256" : "c04f1a406edff7288eda16c33770394c60973925750d434121ddb696e25d1dad",
-      "submission" : 1643,
-      "title" : "Amethyst Moon [SP Another]",
-      "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/9/",
-      "url_diff" : ""
    },
    {
       "artist" : "うえつ氏 / obj:けえ氏",
@@ -294,46 +213,6 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03531"
    },
    {
-      "artist" : "TJ.hangneil vs Jackz Lapis vs Triforce",
-      "comment" : "#108、#176以後(spxと混ざっている)の以外はspaと比べるとズレ、抜けなし。(差分uploaderでのコメントによると)",
-      "level" : "12",
-      "md5" : "7eb915bd46007cb773511ac93cef9c34",
-      "proposer" : "MarySue",
-      "proposerLr2id" : 147889,
-      "sha256" : "c075acb0d378d0fa339a9357b961a181cbade7c46951ccfdea5be965c973d4a4",
-      "submission" : 1618,
-      "title" : "ozma -麒麟-",
-      "url" : "https://drive.google.com/file/d/1JPa7X6xS4sUtxw-dTie59E0QMIzDfZwU",
-      "url_diff" : "https://trfce.github.io/sabun/(120)_ozma_qilin.zip"
-   },
-   {
-      "artist" : "STR ALLSTARS / OBJ.SWA",
-      "comment" : "神曲神譜面",
-      "level" : "1",
-      "md5" : "8104bc6b3580ec33e2f8a425488f0d5f",
-      "proposer" : "|/|",
-      "proposerLr2id" : 147895,
-      "sha256" : "f3b35970e3c2a10236502ed4b115c4d82221f3446ba2980895209fc8fac9594f",
-      "submission" : 1647,
-      "title" : "Crossover (Chain mix)",
-      "url" : "https://web.archive.org/web/20150713173014/http://str3.org/data/bms/strallstars_crossover.zip",
-      "url_diff" : "http://swamelo.web.fc2.com/_crossover-77-fade.bme",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "Zekk mov : L.Ferdinant / obj : litmus*",
-      "comment" : "同梱譜面/g2r2014/連打/軸",
-      "level" : "0",
-      "md5" : "83e26b26a5ef1ce069ad11d390d164c4",
-      "proposer" : "TR1",
-      "proposerLr2id" : 152181,
-      "sha256" : "bfc053786ee2e27c633ad98365168b3d2700b8eeacb723bf747cbb2279f1fad6",
-      "submission" : 1646,
-      "title" : "Merry-Go-Round [SP Another]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=96",
-      "url_diff" : ""
-   },
-   {
       "artist" : "s-don / Can.D-mtmrw obj:Mary_Sue in 100min Fumen",
       "comment" : "BPM150 2連打",
       "level" : "7",
@@ -359,6 +238,19 @@
       "title" : "starless [Delay]",
       "url" : "http://yellowmapleleaf.com/",
       "url_diff" : "http://siokazebms.web.fc2.com/"
+   },
+   {
+      "artist" : "U-hey　BGA:ユウノ",
+      "comment" : "同梱譜面/BOFU2015",
+      "level" : "0",
+      "md5" : "8df01a1e34ccb91163ed19ac6b54d9bf",
+      "proposer" : "TR1",
+      "proposerLr2id" : 152181,
+      "sha256" : "ced70b0a1b2827b04440b3aafa7142e17db39ec6204e679e3734211da0090ccf",
+      "submission" : 1670,
+      "title" : "Take Me Away",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=150&event=104",
+      "url_diff" : ""
    },
    {
       "artist" : "roop obj:R1N",
@@ -387,17 +279,18 @@
       "url_diff" : "https://drive.google.com/drive/u/0/folders/1NwG1RAKMGw_47NPdAM4GLnAKQPP_oPXe"
    },
    {
-      "artist" : "遠足でOdinみたいになっている人",
-      "comment" : "sl3~4 (同梱譜面, ズレ)",
-      "level" : "3",
-      "md5" : "95ebb3522c510f78e4fd4728ca5c33e3",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "50922544e1e23265d31e46225687435f045e48e26c256b9c6239486b39d14e3b",
-      "submission" : 1627,
-      "title" : "石 [7ANOTHER]",
-      "url" : "http://web.archive.org/web/20180316033233if_/http://www.bm-asahi.com/bms/shiraishi.rar",
-      "url_diff" : ""
+      "artist" : "Iriss-Frantzz obj.turbow",
+      "comment" : "同梱の穴を調整した譜面です",
+      "level" : "1",
+      "md5" : "9b4b9cd4d5b4415668a1b5ba02b04239",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "c14803054b06aca84695554998a921ce578ebf42a24bdcbfb48128db6ca248c7",
+      "submission" : 1669,
+      "title" : "Upshift [A-modified]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=355&event=123",
+      "url_diff" : "https://stellabms.xyz/upload/329",
+      "zureCount" : 0
    },
    {
       "artist" : "AOiRO_Manbow with kagerow obj.puppy",
@@ -411,20 +304,6 @@
       "title" : "dreamin' -happycore version - [Sweet Dream]",
       "url" : "http://tm2.toymusical.net/download.html",
       "url_diff" : "https://stellabms.xyz/upload/406"
-   },
-   {
-      "artist" : "Shinji Hirako /差分 赤い人",
-      "comment" : "sl12~st0",
-      "level" : "12",
-      "md5" : "a042bdc9757be1de18bf735cba90738d",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "d009ccc924dd97e124787639745f7f335416ae3400322f119e076502088adadc",
-      "submission" : 1664,
-      "title" : "Death Waltz [HARDEST]",
-      "url" : "http://sunaneko.iptime.org/BMS_Library/Death%20Waltz%20%28by%20Shinji%20Hirako%29.rar",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/DeathWaltz_HARDEST.bme",
-      "zureCount" : 0
    },
    {
       "artist" : "Mr.K obj:SUZUKAZEΛ",
@@ -453,6 +332,19 @@
       "url" : "http://diverse.jp/dbhtml/download.html",
       "url_diff" : "https://stellabms.xyz/upload/377",
       "zureCount" : 0
+   },
+   {
+      "artist" : "dandeless",
+      "comment" : "",
+      "level" : "0",
+      "md5" : "ab885ae1f12f032a9af957b90feea183",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "165d58843d2a725a92cd6e80ee345723d48f3841947daea1a18ce18a1dd814f6",
+      "submission" : 1667,
+      "title" : "usa.ogg (PATRIOT)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=24&event=132",
+      "url_diff" : ""
    },
    {
       "artist" : "Trantech",
@@ -508,35 +400,6 @@
       "url_diff" : ""
    },
    {
-      "artist" : "km_npgear Obj.Triforce",
-      "level" : "3",
-      "md5" : "c20fd6cabd524c3c2ce4550c5678d2e4",
-      "proposer" : "MarySue",
-      "proposerLr2id" : 147889,
-      "sha256" : "990437b84c7d3051b3061899d3336a1ebeb97fd73cb6d468d8934ca16ad72f79",
-      "submission" : 1501,
-      "title" : "Journey Through the Full Moon [Vallis Palitzsch]",
-      "url" : "https://www.dropbox.com/s/1v20nfvsjqpszc0/Journey_Through_the_Full_Moon_ogg.zip?dl=0",
-      "url_diff" : "https://trfce.github.io/sabun/(112)Journey_Through_the_Full_Moon_triforce.zip",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : 90.625,
-      "voteYes" : 14
-   },
-   {
-      "artist" : "Est /D",
-      "comment" : "ディレイ入門に",
-      "level" : "9",
-      "md5" : "d3a21254a1ec60616425e86e8713c669",
-      "proposer" : "のの",
-      "proposerLr2id" : 149743,
-      "sha256" : "3d1590b2b9f5dae0b58aa56c3a531048e506995be4cfefcbec93dcf4e71c720e",
-      "submission" : 1658,
-      "title" : "Angelic Snow [DELAY]",
-      "url" : "http://estish.nobody.jp/",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03362"
-   },
-   {
       "artist" : "kei_iwata Illust:morph/ BGA&obj:qfeileadh",
       "comment" : "7~8?",
       "level" : "8",
@@ -548,20 +411,6 @@
       "title" : "フロンティア↑↑エクスプローラー [EARTH]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=132",
       "url_diff" : ""
-   },
-   {
-      "artist" : "tami / bms newbie",
-      "comment" : "ハネリズム",
-      "level" : "11",
-      "md5" : "defaf06957d1a67b971db5888a1bec2b",
-      "proposer" : "MarySue",
-      "proposerLr2id" : 147889,
-      "sha256" : "385d3f38bd808bbb55500bfd93ebfe492abfd6f7e9f4e4a85d9f5ffad3431de0",
-      "submission" : 1637,
-      "title" : "devote [sincerely]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=107&event=131",
-      "url_diff" : "https://bms.parksulab.xyz",
-      "zureCount" : 0
    },
    {
       "artist" : "SC.Kanata/Original:KRD8(composed:Tomohiro Murakami) / obj. Tristan97",
@@ -578,19 +427,6 @@
       "zureCount" : 0
    },
    {
-      "artist" : "LeaF Movie:Optie / obj:1008",
-      "comment" : "BPM一定、ズレあり（詳細はFILES 04611のtxt参考）",
-      "level" : "0",
-      "md5" : "e075b31c6eec47111bc3a516dab225a0",
-      "proposer" : "|/|",
-      "proposerLr2id" : 147895,
-      "sha256" : "e25e0c466acd6c243b95cf226b25f2bb86c36503b9b8c2500c0e14e1ce611ead",
-      "submission" : 1625,
-      "title" : "Aleph-0 [Alpha]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=498&event=110",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04612"
-   },
-   {
       "artist" : "Sobrem",
       "level" : "0",
       "md5" : "f5456ea7a63431ce7575d2583fcf9c68",
@@ -605,20 +441,6 @@
       "voteNo" : 4,
       "votePercent" : 66.6666666666667,
       "voteYes" : 9
-   },
-   {
-      "artist" : "utzbo BGI:松葉/obj:SUZUKAZEΛ",
-      "comment" : "多重要差分",
-      "level" : "6",
-      "md5" : "f8ab0168fa80a189aa2addbb089eab18",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "85f10aee2f9f80f310fb16fc0b17e30512359aa1d5145059c457bd0f2aaabab9",
-      "submission" : 1621,
-      "title" : "Kung-fu Fantasia [ZOI]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=68&event=132",
-      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
-      "zureCount" : 0
    },
    {
       "artist" : "ueotan / kefia / obj.mn",

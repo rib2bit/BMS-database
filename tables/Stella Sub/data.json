@@ -62,7 +62,7 @@
    {
       "artist" : "ZUN (Arr.sun3) obj.Mallow♪",
       "comment" : "物量+ディレイ",
-      "level" : "2",
+      "level" : "3",
       "md5" : "00bce21870fbde432759b6f401b7c0fe",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -3435,7 +3435,7 @@
    {
       "artist" : "髭姫 BGA：FleetingLovely illust：(う)。 obj：もさ子",
       "comment" : "★22～★23　ズレ押し　物量",
-      "level" : "2",
+      "level" : "3",
       "md5" : "350792457d8705a4d45f26b86d3aa3d6",
       "proposer" : "ずこ",
       "proposerLr2id" : 55971,
@@ -4461,6 +4461,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "LeaF",
+      "comment" : "同梱の隠し譜面です。同梱のファイル_I7.^^を_I7.bmsに変換するとプレーできます。",
+      "level" : "0",
+      "md5" : "40f7728d5ad74c44e0e6c4adc9adcd26",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "0a994fedb160bc6c6516febadfc51069b028284c284de65e893bad66a0ddb243",
+      "submission" : 1282,
+      "title" : "Spiral History [INSANE]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/Spiral%20History%20%28by%20LeaF%29.rar",
+      "url_diff" : ""
    },
    {
       "artist" : "uma vs. モリモリあつし obj:O",
@@ -7678,7 +7691,7 @@
    {
       "artist" : "yassu obj.hex",
       "comment" : "総合練習（ディレイ、がち押し、地力）",
-      "level" : "2",
+      "level" : "3",
       "md5" : "6cfac3e6c1663f491431d19b5af5be22",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,
@@ -8372,7 +8385,7 @@
    {
       "artist" : "D.J.Nero / Ds",
       "comment" : "Another強化版",
-      "level" : "1",
+      "level" : "2",
       "md5" : "7650da93cccf8ff05361f602b0f7b189",
       "proposer" : "qtp13",
       "sha256" : "bc6162080aae0bbdd37532f9490d2715a874cc4be80067e4e20a439ad54c0c76",
@@ -13378,6 +13391,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "s-don / jubeated / obj : 0samil0",
+      "comment" : "楽しい",
+      "level" : "0",
+      "md5" : "be27c5b83678ddc7ae6326feb2b40c36",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "664c3a4ae766122edcdbbbd24f9dec61ddca84966398c99ad93cd456345ec455",
+      "submission" : 1283,
+      "title" : "WATER STOP DOTx4 -わかめ-",
+      "url" : "https://dropbox.bms.ms/u/33464123/%5Bshibusawa%5D%5Bs-don%5DWATER_STOP_DOTx4.zip",
+      "url_diff" : "http://dl.dropboxusercontent.com/s/4fqjqnoqvyr7cat/0samil0.zip?token_hash=AAErF9mm6pKePkOPjYDKLtjr6fdCKKm_AF4WBrzm0c3Ljw&dl=1",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Crimsona / obj:夢瑠",
       "comment" : "微縦連乱打 ガチ押し",
       "level" : "7",
@@ -13539,7 +13566,7 @@
    {
       "artist" : "lixound mov:Xquid",
       "comment" : "結界",
-      "level" : "3",
+      "level" : "1",
       "md5" : "c16806baa62156c5819a029d5bd69fcb",
       "proposer" : "LUXURY",
       "sha256" : "bd877b109efd03450026e0f2b4b21e83b96bdc4b9a5852f3b683b02771a7b05a",
@@ -15885,19 +15912,6 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
-   },
-   {
-      "artist" : "くるぶっこちゃん/obj:matsu BGA : geniway",
-      "comment" : "ガチ押しと指押し両刀",
-      "level" : "0",
-      "md5" : "e2a8109d9617fbe9bfc384ea7002ed04",
-      "proposer" : "氷城つるぎ",
-      "proposerLr2id" : 151185,
-      "sha256" : "eb11a9965f7e4909616dd4a8f6ba6c0c6261a9b279d47f56462e3baee68e67bc",
-      "submission" : 1225,
-      "title" : "AIWS [chiral]",
-      "url" : "https://www.dropbox.com/s/o2i0op050jxjkeu/AIWS.zip?dl=0",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04447"
    },
    {
       "artist" : "うまるつふり",

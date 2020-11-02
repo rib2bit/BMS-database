@@ -1815,6 +1815,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "MILK / И",
+      "comment" : "キー音を追加したアレンジ譜面です。(ファイル同梱のsabun_readmeによると)",
+      "level" : "2",
+      "md5" : "12432ebc0072ee1c3837a8bf6863a515",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "58dec2dcaf06a57828ec897a8e80eb097c1029c9e750d344eb4ef653aac77f61",
+      "submission" : 1668,
+      "title" : "RAY (HOPE)",
+      "url" : "https://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21208",
+      "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
       "artist" : "Lycoris vs. Pied d'Alouette",
       "comment" : "中速乱打",
       "level" : "8",
@@ -1981,7 +1994,6 @@
       "level" : "6",
       "md5" : "14aeaa74a92fb73baa3687d97f7e050f",
       "proposer" : "dstorv",
-      "proposerLr2id" : 145158,
       "sha256" : "040ad335c70d8490dcabeec5075c82a7abadef4b4ddcb8b8a8df06e46cb6c9e4",
       "submission" : 1225,
       "title" : "Coda [ZOI]",
@@ -5133,7 +5145,7 @@
    {
       "artist" : "Duca/Scuderia K Remixed by Lemon beads / obj:sagoo",
       "comment" : "▼2",
-      "level" : "1",
+      "level" : "2",
       "md5" : "3668752ba5661fd87e23769f04a47e01",
       "proposer" : "chouco",
       "proposerLr2id" : 158333,
@@ -6315,6 +6327,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "ume/BGI しらそ",
+      "comment" : "同梱譜面/WORLD WAR",
+      "level" : "0",
+      "md5" : "4383559f2e8caceff8960aee48fd49df",
+      "proposer" : "TR1",
+      "proposerLr2id" : 152181,
+      "sha256" : "038c48d9425edcc835cce11b4748d3bbd76677b63855929fbd8f284bd9dd77a8",
+      "submission" : 1671,
+      "title" : "Tango Ardiente",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=65&event=132",
+      "url_diff" : ""
    },
    {
       "artist" : "立秋 obj:スノート",
@@ -9514,6 +9539,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "黒皇帝 Movie: inukoro / Illust: Tonosuke / Lyrics: Dolphin / obj: fhyu",
+      "comment" : "BPM201 多要素",
+      "level" : "10",
+      "md5" : "66145c34fda1143d71ecce527ec84d01",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "35ed1f028d889964f3721eb4bd8028f161241c17ad9d70706142d5d6d7433c04",
+      "submission" : 1666,
+      "title" : "alicemourn [Adomiration]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
+      "zureCount" : 0
    },
    {
       "artist" : "oxygen / obj:Sphere",
@@ -13001,6 +13040,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "U-hey　BGA:ユウノ",
+      "comment" : "同梱譜面/BOFU2015",
+      "level" : "0",
+      "md5" : "8df01a1e34ccb91163ed19ac6b54d9bf",
+      "proposer" : "TR1",
+      "proposerLr2id" : 152181,
+      "sha256" : "ced70b0a1b2827b04440b3aafa7142e17db39ec6204e679e3734211da0090ccf",
+      "submission" : 1670,
+      "title" : "Take Me Away",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=150&event=104",
+      "url_diff" : ""
+   },
+   {
       "artist" : "utubo",
       "comment" : "NORMAL判定 総合譜面",
       "level" : "1",
@@ -14066,6 +14118,20 @@
       "title" : "超絶技巧練習曲第一番「新世界」 [Normal]",
       "url" : "http://skydrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21105#cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21208",
       "url_diff" : ""
+   },
+   {
+      "artist" : "Iriss-Frantzz obj.turbow",
+      "comment" : "同梱の穴を調整した譜面です",
+      "level" : "1",
+      "md5" : "9b4b9cd4d5b4415668a1b5ba02b04239",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "c14803054b06aca84695554998a921ce578ebf42a24bdcbfb48128db6ca248c7",
+      "submission" : 1669,
+      "title" : "Upshift [A-modified]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=355&event=123",
+      "url_diff" : "https://stellabms.xyz/upload/329",
+      "zureCount" : 0
    },
    {
       "artist" : "@gra_pha",
@@ -15584,6 +15650,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "dandeless",
+      "comment" : "",
+      "level" : "0",
+      "md5" : "ab885ae1f12f032a9af957b90feea183",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "165d58843d2a725a92cd6e80ee345723d48f3841947daea1a18ce18a1dd814f6",
+      "submission" : 1667,
+      "title" : "usa.ogg (PATRIOT)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=24&event=132",
+      "url_diff" : ""
+   },
+   {
       "artist" : "LiA",
       "comment" : "同梱、同時押し＋皿",
       "level" : "4",
@@ -16174,7 +16253,7 @@
    {
       "artist" : "sak feat.みゅい Movie: げ～むばか Illust: 球根",
       "comment" : "高速乱打、神曲",
-      "level" : "3",
+      "level" : "2",
       "md5" : "b1b29a6af94bd1792f248499aa61a9fc",
       "proposer" : "鷺沢文香",
       "proposerLr2id" : 133436,
@@ -18295,7 +18374,7 @@
    {
       "artist" : "daisan/ 差分 赤い人",
       "comment" : "乱打",
-      "level" : "6",
+      "level" : "7",
       "md5" : "c565d6dbf6346e6a28277742ecd9d60c",
       "proposer" : "椒図",
       "proposerLr2id" : 124809,
@@ -20844,19 +20923,6 @@
       "voteYes" : 0
    },
    {
-      "artist" : "hugepulse BGA:Micelle",
-      "comment" : "最後半 連打、低速、LN注意",
-      "level" : "8",
-      "md5" : "e207ff5fda09b5f38f7960e3409d3e18",
-      "proposer" : "Haze*",
-      "proposerLr2id" : 112076,
-      "sha256" : "346e758b94de8309bd09cb955f10ba417434d727ba1e2bf65ccc1787f3112743",
-      "submission" : 1207,
-      "title" : "えいえんの　ゆめを　ください [ANOTHER]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=127",
-      "url_diff" : ""
-   },
-   {
       "artist" : "litmus* / movie : Kazari obj:SUZUKAZEΛ",
       "level" : "2",
       "md5" : "e22484ff579204847425de6a0cb93158",
@@ -20909,6 +20975,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "くるぶっこちゃん/obj:matsu BGA : geniway",
+      "comment" : "from Stella",
+      "level" : "12",
+      "md5" : "e2a8109d9617fbe9bfc384ea7002ed04",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "eb11a9965f7e4909616dd4a8f6ba6c0c6261a9b279d47f56462e3baee68e67bc",
+      "submission" : 1665,
+      "title" : "AIWS [chiral]",
+      "url" : "https://www.dropbox.com/s/o2i0op050jxjkeu/AIWS.zip?dl=0",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04447"
    },
    {
       "artist" : "Y.W / A",
