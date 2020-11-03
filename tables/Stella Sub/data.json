@@ -7865,6 +7865,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Music Affairs Commission of the Democratic People's Republic of Korea obj. Kim Ax Hyun",
+      "comment" : "ラス殺し(笑)",
+      "level" : "1",
+      "md5" : "6ecd2a7a0223ce5dec3fb7756d03799b",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "e64f48e7975a73f5cd278cefac677c045166ed55cbd472a6ebf298f73b01c475",
+      "submission" : 1285,
+      "title" : "Praise Kim [Praise Luxury]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=38&event=132",
+      "url_diff" : "https://stellabms.xyz/upload/425",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Xacla / TOHRU MiTSUHASHi",
       "comment" : "",
       "level" : "8",
@@ -15619,6 +15633,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Auratus / A.M. obj : Mary_Sue",
+      "comment" : "0?",
+      "level" : "0",
+      "md5" : "ddda85ee9918edd273b314bcc3822364",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "d09b6bd4281f0f0acfc304ecb372964b7d6e01c5159bfd8a139e6c6dbd5b99d5",
+      "submission" : 1284,
+      "title" : "Vorota [アハハアハハウルサイ]",
+      "url" : "http://uploader.bms.ms/data/bof2009/fixesaraven/vorota_ogg.zip",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/challenge/BMS_chart_challenge_20201022_fixed.zip",
+      "zureCount" : 0
    },
    {
       "artist" : "ルゼ / selene.",

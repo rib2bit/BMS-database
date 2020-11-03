@@ -73,6 +73,18 @@
       "zureCount" : 0
    },
    {
+      "artist" : "OTS Obj.Triforce",
+      "level" : "0",
+      "md5" : "26eab7f5cfd2aa248c55334c3242e619",
+      "proposer" : "bluemouse",
+      "proposerMinirid" : "38b6fd3c-5f86-4e87-aef8-3f9952471580",
+      "sha256" : "151e524c7d1b6437078ad6d775f2da1d9c8044fc432d0084e0180a710e7e2028",
+      "submission" : 1674,
+      "title" : "Bonus Time [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=104",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Dachs / Movie : わっふゑ obj.Mallow♪",
       "level" : "8",
       "md5" : "2e0b721babb8fb62ce977c23c9f364f9",
@@ -347,6 +359,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "カラフル・サウンズ・ポート",
+      "comment" : "sl0~1? normal判定",
+      "level" : "0",
+      "md5" : "acfd0a55a9cf1555b93c58eaef705c39",
+      "proposer" : "bluemouse",
+      "proposerMinirid" : "38b6fd3c-5f86-4e87-aef8-3f9952471580",
+      "sha256" : "7e21693a2ce0ff8f174b9bbcb7ca9727ea0a8bd5f11eef245f2650d7b8f7c677",
+      "submission" : 1675,
+      "title" : "Close the Lights (ANOTHER)",
+      "url" : "http://www1.axfc.net/uploader/H/so/97121",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Trantech",
       "comment" : "BPM183 難しいリズム",
       "level" : "3",
@@ -411,6 +436,33 @@
       "title" : "フロンティア↑↑エクスプローラー [EARTH]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=132",
       "url_diff" : ""
+   },
+   {
+      "artist" : "LV.4 obj.Restia",
+      "comment" : "2~3?",
+      "level" : "2",
+      "md5" : "dce567d3248c22cb169a0dda996ae674",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "743f748925cc2333cec8e4b9f3217a463386dc3ca30965d132a03937da95a998",
+      "submission" : 1673,
+      "title" : "Mind Quest [7key//ABNORMAL]",
+      "url" : "https://1drv.ms/u/s!ApwaJAUHJdpyjx31NpN0wGy-yO9V",
+      "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpylzdetL3mbvjyhr-U?e=h2U868",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "Music:しらいし / selene.",
+      "comment" : "ズレなし(Readmeで書いてます)",
+      "level" : "8",
+      "md5" : "de6004b969883d422f7cac5528b58119",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "3d366d47e5fec39db360b30b9d4c8a682b9d2989f65290db513f1f4f5ceafefd",
+      "submission" : 1672,
+      "title" : "Happico Happico -Luna-",
+      "url" : "https://drive.google.com/uc?id=1CfewRcEBfI4HNQ3CwW_bp0qTDynkd35S",
+      "url_diff" : "https://stellabms.xyz/upload/358"
    },
    {
       "artist" : "SC.Kanata/Original:KRD8(composed:Tomohiro Murakami) / obj. Tristan97",
