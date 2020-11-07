@@ -1857,6 +1857,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Yu^ta",
+      "comment" : "sl9~10",
+      "level" : "10",
+      "md5" : "129d7ddd0bc9fb71e122495955a72377",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "12ba3539aae587ae663efa5359de62eee45a794e0161c3ae9d6b6a93aa5b0bad",
+      "submission" : 1677,
+      "title" : "Pleasure of Being [Fuzzy navel]",
+      "url" : "http://yuinore.net/2017/02/smc-package/",
+      "url_diff" : "",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Blue-J obj: qtp13",
       "comment" : "drrrr (Total fix ver)",
       "level" : "12",
@@ -21491,6 +21505,18 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "mossari feat.TEA",
+      "level" : "1",
+      "md5" : "e70b8c18644b7f2fca66ba7d32b45179",
+      "proposer" : "mqppppp",
+      "proposerLr2id" : 129162,
+      "sha256" : "fdb98d14506b7758b3af7c07fbe91c4357814e1fa9b431cb2439d7de4e43e999",
+      "submission" : 1678,
+      "title" : "Midnight o'clock [Insane]",
+      "url" : "https://dropbox.bms.ms/u/59367462/Midnight%20o'clock.rar",
+      "url_diff" : ""
    },
    {
       "artist" : "ねこみみ魔法使い for 森久保乃々 movie : Y.A.B.tutidama / obj : NASA",

@@ -400,16 +400,16 @@
       "video3" : ""
    },
    {
-      "artist" : "RMHN (PABAT!パッケージ)",
+      "artist" : "RMHN (PABAT_bms_event_package_total_62_bms.rar)",
       "comment" : "ソフラン(MAX-FIX推奨、要対策) ○2査定済み 難易度更新:lv40→42",
       "level" : "42",
       "md5" : "01a019298567f57596b88f64875a593a",
       "memo" : "",
-      "name_diff" : "0samil0",
+      "name_diff" : "0samil0 (PABAT PMS Append)",
       "no" : "1686",
       "state" : "",
       "title" : "BIZARRE INC.",
-      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=1",
+      "url" : "https://nekokan.dyndns.info/file/mirror/ceena-bms/",
       "url_diff" : "https://drive.google.com/file/d/1h5YyZDywCVdwHrFO1z-mO7ZZ3sFEObgT/view",
       "video1" : "",
       "video2" : "",
@@ -618,7 +618,7 @@
       "state" : "",
       "title" : "★LittlE HearTs★",
       "url" : "http://necoco.2-d.jp/13_bms.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/walther_pms_archive.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/walther_pms_archive.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -1770,7 +1770,7 @@
       "state" : "",
       "title" : "started",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=85&event=65",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -3274,7 +3274,7 @@
       "state" : "",
       "title" : "010",
       "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/eoll_010.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/eoll_010.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -4556,7 +4556,7 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=List_def&event=109",
       "url_diff" : "",
       "video1" : "",
-      "video2" : "",
+      "video2" : "0DerdSK4LKk",
       "video3" : ""
    },
    {
@@ -4602,7 +4602,7 @@
       "state" : "",
       "title" : "ecstatic ghost party as Nightmare",
       "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/cybermiso-ecstatic_ghost_party_as_nightmareghost.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/cybermiso-ecstatic_ghost_party_as_nightmareghost.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -5240,7 +5240,7 @@
       "name_diff" : "東風屋 梓",
       "no" : "3250",
       "state" : "",
-      "title" : "人 身 事 故 で 停 止",
+      "title" : "人　身　事　故　で　停　止",
       "url" : "https://onedrive.live.com/?cid=40805CD20B6241C6&id=40805CD20B6241C6%211915",
       "url_diff" : "http://ux.getuploader.com/tofu_fumen/download/5/jinshin.zip",
       "video1" : "",
@@ -5626,7 +5626,7 @@
       "state" : "",
       "title" : "Repeat and Rewind",
       "url" : "http://t.co/vW2G5awYiX",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/repeatandrewind.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/repeatandrewind.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -5785,7 +5785,7 @@
       "no" : "20479",
       "state" : "",
       "title" : "エコ息子",
-      "url" : "http://grooverise.sakura.ne.jp/bms_game_coar_pkg/index.html",
+      "url" : "https://web.archive.org/web/20200308153709/http://grooverise.sakura.ne.jp/bms_game_coar_pkg/",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03831",
       "video1" : "",
       "video2" : "",
@@ -7130,7 +7130,7 @@
       "state" : "",
       "title" : "星になる",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=43&event=54",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/hoshininaru.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/hoshininaru.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -8090,7 +8090,7 @@
       "state" : "",
       "title" : "Never Alone",
       "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/Never_Alone.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/Never_Alone.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -8528,23 +8528,23 @@
       "video3" : ""
    },
    {
-      "artist" : "Kamisys BGA:SMIN",
+      "artist" : "Kamisys BGA:SMIN (PABAT_bms_event_package_total_62_bms.rar)",
       "comment" : "○5査定済み",
       "level" : "45",
       "md5" : "1ae9ea5640dc65afb8efdbe7b19776bd",
       "memo" : "",
-      "name_diff" : "PABAT! PMS Append",
+      "name_diff" : "sound piercer (PABAT PMS Append)",
       "no" : "2751",
       "state" : "",
       "title" : "Trine SHRINE",
-      "url" : "https://k-bms.com/party_pabat/party.jsp?board_num=1",
-      "url_diff" : "https://dropbox.com/s/w4fhw8vqv52wfo6/00_PABAT_PMS_Append.zip?dl=1",
+      "url" : "https://nekokan.dyndns.info/file/mirror/ceena-bms/",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/00_PABAT_PMS_Append.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
    },
    {
-      "artist" : "Marky (PABAT! package)",
+      "artist" : "Marky (PABAT_bms_event_package_total_62_bms.rar)",
       "comment" : "難易度更新: lv24→28 NORMAL判定",
       "level" : "28",
       "md5" : "1af820f9d0f262ba5d6cd2725406e4b5",
@@ -8553,8 +8553,8 @@
       "no" : "2188",
       "state" : "",
       "title" : "Lapis Lazuli",
-      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=1&num=27",
-      "url_diff" : "https://app.box.com/s/592y268tcvyguuifclty",
+      "url" : "https://nekokan.dyndns.info/file/mirror/ceena-bms/",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/00_PABAT_PMS_Append.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -9016,7 +9016,7 @@
       "name_diff" : "東風屋 梓",
       "no" : "3251",
       "state" : "",
-      "title" : "人 身 事 故 で 停 止",
+      "title" : "人　身　事　故　で　停　止",
       "url" : "https://onedrive.live.com/?cid=40805CD20B6241C6&id=40805CD20B6241C6%211915",
       "url_diff" : "http://ux.getuploader.com/tofu_fumen/download/5/jinshin.zip",
       "video1" : "",
@@ -9530,7 +9530,7 @@
       "state" : "",
       "title" : "Joker Paradoxxx",
       "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/Genesik_JokerParadoxxx_ogg.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/Genesik_JokerParadoxxx_ogg.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -10458,7 +10458,7 @@
       "state" : "",
       "title" : "R/T X2002",
       "url" : "https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
-      "url_diff" : "https://1drv.ms/u/s!Ap8j632tjlNvgd4Q3wOuVY2PZY720Q",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/takanashi_pms_archive(onedrive).zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -10586,7 +10586,7 @@
       "state" : "",
       "title" : "☆ twinklesky ☆",
       "url" : "http://fether.exblog.jp/18103561/",
-      "url_diff" : "https://onedrive.live.com/?id=76EC532B4F98C878%21162&cid=76EC532B4F98C878",
+      "url_diff" : "https://onedrive.live.com/?id=76EC532B4F98C878%21141&cid=76EC532B4F98C878",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -10682,7 +10682,7 @@
       "state" : "",
       "title" : "Breakcore Ein Prosit",
       "url" : "http://colosseo.nekokan.dyndns.info/c02_shuffle/detail.php?n=43",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/yamajet_breakcore_ein_prosit.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/yamajet_breakcore_ein_prosit.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -11018,7 +11018,7 @@
       "state" : "",
       "title" : "Uranus",
       "url" : "http://estish.nobody.jp/",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -11322,7 +11322,7 @@
       "state" : "",
       "title" : "Alt Futur",
       "url" : "http://colosseo.nekokan.dyndns.info/c04_shuffle3/detail/view/32/",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/alt_futur.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/alt_futur.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -12074,7 +12074,7 @@
       "state" : "",
       "title" : "Brandnew Mind",
       "url" : "https://onedrive.live.com/?cid=6580DD8662A42EFD&id=6580DD8662A42EFD%21105",
-      "url_diff" : "https://onedrive.live.com/?id=76EC532B4F98C878%21162&cid=76EC532B4F98C878",
+      "url_diff" : "https://onedrive.live.com/?id=76EC532B4F98C878%21141&cid=76EC532B4F98C878",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -12138,7 +12138,7 @@
       "state" : "",
       "title" : "M/T X2003",
       "url" : "https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
-      "url_diff" : "https://1drv.ms/u/s!Ap8j632tjlNvgd4SieUyOzwKQfF5BQ",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/takanashi_pms_archive(onedrive).zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -12777,7 +12777,7 @@
       "no" : "20052",
       "state" : "7",
       "title" : "LONELY ROLLING STAR (from「塊魂」) [5BUTTONS]",
-      "url" : "http://grooverise.sakura.ne.jp/bms_game_coar_pkg/",
+      "url" : "https://web.archive.org/web/20200308153709/http://grooverise.sakura.ne.jp/bms_game_coar_pkg/",
       "url_diff" : "http://yumasuki.yumenogotoshi.com/",
       "video1" : "",
       "video2" : "",
@@ -13289,7 +13289,7 @@
       "no" : "20055",
       "state" : "",
       "title" : "LONELY ROLLING STAR (from「塊魂」)",
-      "url" : "http://grooverise.sakura.ne.jp/bms_game_coar_pkg/",
+      "url" : "https://web.archive.org/web/20200308153709/http://grooverise.sakura.ne.jp/bms_game_coar_pkg/",
       "url_diff" : "http://yumasuki.yumenogotoshi.com/",
       "video1" : "",
       "video2" : "",
@@ -14042,7 +14042,7 @@
       "state" : "",
       "title" : "MINECRAFT∵ADVENTURE∴MEDLEY =C-H-I-L-L-M-I-X=",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=List_def&event=113",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/MINECRAFT_CHILLMIX.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/MINECRAFT_CHILLMIX.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -14410,7 +14410,7 @@
       "state" : "",
       "title" : "Uranus",
       "url" : "http://estish.nobody.jp/",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -18380,7 +18380,7 @@
       "url" : "http://www.yamajet.com/music/list.html",
       "url_diff" : "http://saigyouzi.blog.so-net.ne.jp/",
       "video1" : "",
-      "video2" : "",
+      "video2" : "Tw_u5n744zQ",
       "video3" : ""
    },
    {
@@ -18522,7 +18522,7 @@
       "state" : "",
       "title" : "started",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=85&event=65",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -18538,7 +18538,7 @@
       "state" : "",
       "title" : "コオリノバラ",
       "url" : "http://www.mediafire.com/file/gny1kp66pwd4x53/%5Bnaotyu-%5Dkoorinobara.zip",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -19306,7 +19306,7 @@
       "state" : "",
       "title" : "スーパーマリオブラザーズ１－４",
       "url" : "http://web.archive.org/web/20130221010707/http:/www.geocities.jp/popnbms/BMS.htm",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/mario.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/mario.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -20090,7 +20090,7 @@
       "state" : "",
       "title" : "MINECRAFT∵ADVENTURE∴MEDLEY =C-H-I-L-L-M-I-X=",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=List_def&event=113",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/MINECRAFT_CHILLMIX.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/MINECRAFT_CHILLMIX.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -20352,16 +20352,16 @@
       "video3" : ""
    },
    {
-      "artist" : "RMHN",
+      "artist" : "RMHN (PABAT_bms_event_package_total_62_bms.rar)",
       "comment" : "",
       "level" : "20",
       "md5" : "40acf265c499b4a5321186934bfae0d0",
       "memo" : "",
-      "name_diff" : "0samil0",
+      "name_diff" : "0samil0 (PABAT PMS Append)",
       "no" : "1684",
       "state" : "",
       "title" : "BIZARRE INC.",
-      "url" : "http://www.k-bms.com/party_pabat/party.jsp?board_num=1&num=53",
+      "url" : "https://nekokan.dyndns.info/file/mirror/ceena-bms/",
       "url_diff" : "https://drive.google.com/file/d/1h5YyZDywCVdwHrFO1z-mO7ZZ3sFEObgT/view",
       "video1" : "",
       "video2" : "",
@@ -20666,7 +20666,7 @@
       "state" : "",
       "title" : "Repeat and Rewind",
       "url" : "https://www.dropbox.com/sh/nrfllwqgxsmqbl1/AADYFyB6Eqo0jKeWxtposmX3a?dl=0&lst=",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/repeatandrewind.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/repeatandrewind.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -20954,7 +20954,7 @@
       "state" : "",
       "title" : "Maria walking across the 100000000 pieces",
       "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/[haganai]Maria.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/[haganai]Maria.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -21109,12 +21109,12 @@
       "level" : "41",
       "md5" : "42e52100c8b78333eeac3047fcc4c78d",
       "memo" : "",
-      "name_diff" : "追加譜面 (最終パッケージ版に同梱)",
+      "name_diff" : "追加譜面 (パッケージ版行方不明のため仮保管)",
       "no" : "20223",
       "state" : "",
       "title" : "SCIENCE VOYAGER",
       "url" : "https://package.bms.ms/OLDSKOOL%20VS%20FUTURE%20Pack%20(13_05_2018).rar",
-      "url_diff" : "",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/SVBMS.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -21706,7 +21706,7 @@
       "state" : "",
       "title" : "Cross breed",
       "url" : "http://www1.axfc.net/uploader/so/2673091?key=bms",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/crossbreed.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/crossbreed.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -22042,7 +22042,7 @@
       "state" : "",
       "title" : "Breakcore Ein Prosit",
       "url" : "http://colosseo.nekokan.dyndns.info/c02_shuffle/detail.php?n=43",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/yamajet_breakcore_ein_prosit.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/yamajet_breakcore_ein_prosit.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -22362,7 +22362,7 @@
       "state" : "",
       "title" : "conflict [HYPER - obj.0samil0]",
       "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/conflict.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/conflict.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -23024,7 +23024,7 @@
       "video3" : ""
    },
    {
-      "artist" : "Mr.ABC",
+      "artist" : "Mr.ABC (BMS同窓会パッケージ)",
       "comment" : "NORMAL判定",
       "level" : "25",
       "md5" : "48a9945194f829453644fe1a6bb2ce2f",
@@ -23033,7 +23033,7 @@
       "no" : "2047",
       "state" : "",
       "title" : "HE is an Energizer",
-      "url" : "http://1drv.ms/1hcjoAi",
+      "url" : "https://mega.nz/folder/EpgWgJqa#7OItZfYLQxZ0X8OB19yvNQ/file/MgRxxSJB",
       "url_diff" : "https://drive.google.com/file/d/1h5YyZDywCVdwHrFO1z-mO7ZZ3sFEObgT/view",
       "video1" : "",
       "video2" : "",
@@ -23194,7 +23194,7 @@
       "state" : "",
       "title" : "DRAGONLADY",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=60",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/Nank04_dragonlady.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/Nank04_dragonlady.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -23418,7 +23418,7 @@
       "state" : "",
       "title" : "I believe",
       "url" : "https://mega.nz/folder/EpgWgJqa#7OItZfYLQxZ0X8OB19yvNQ/file/wtR1EZgD",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -24320,7 +24320,7 @@
       "video3" : ""
    },
    {
-      "artist" : "月華狼as Vanitas (BOF2013パッケージから入手)",
+      "artist" : "月華狼as Vanitas (BOF2013)",
       "comment" : "",
       "level" : "43",
       "md5" : "4bf4a2866a0fe3dd0ad62b452ef01fb9",
@@ -24826,7 +24826,7 @@
       "state" : "",
       "title" : "Cross breed",
       "url" : "http://srdbms.otodo.net/",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/crossbreed.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/crossbreed.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -24889,7 +24889,7 @@
       "no" : "20053",
       "state" : "",
       "title" : "LONELY ROLLING STAR (from「塊魂」)",
-      "url" : "http://grooverise.sakura.ne.jp/bms_game_coar_pkg/",
+      "url" : "https://web.archive.org/web/20200308153709/http://grooverise.sakura.ne.jp/bms_game_coar_pkg/",
       "url_diff" : "http://yumasuki.yumenogotoshi.com/",
       "video1" : "",
       "video2" : "",
@@ -25273,7 +25273,7 @@
       "no" : "2443",
       "state" : "",
       "title" : "PCM",
-      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=1&num=74",
+      "url" : "https://nekokan.dyndns.info/file/mirror/ceena-bms/",
       "url_diff" : "",
       "video1" : "",
       "video2" : "",
@@ -25738,7 +25738,7 @@
       "state" : "",
       "title" : "strawberry happiness",
       "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -25818,7 +25818,7 @@
       "state" : "",
       "title" : "Repeat and Rewind",
       "url" : "https://www.dropbox.com/sh/nrfllwqgxsmqbl1/AADYFyB6Eqo0jKeWxtposmX3a?dl=0&lst=",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/repeatandrewind.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/repeatandrewind.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -25920,17 +25920,17 @@
       "video3" : ""
    },
    {
-      "artist" : "Squar",
+      "artist" : "Squar (PABAT_bms_event_package_total_62_bms.rar)",
       "comment" : "",
       "level" : "22",
       "md5" : "51c7d755009021760cd77feb0e5440c3",
       "memo" : "",
-      "name_diff" : "0samil0",
+      "name_diff" : "0samil0 (PABAT PMS Append)",
       "no" : "1898",
       "state" : "",
       "title" : "Elina (feat. Reislaufer)",
-      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=1&num=62",
-      "url_diff" : "https://drive.google.com/file/d/1h5YyZDywCVdwHrFO1z-mO7ZZ3sFEObgT/view",
+      "url" : "https://nekokan.dyndns.info/file/mirror/ceena-bms/",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/00_PABAT_PMS_Append.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -26554,7 +26554,7 @@
       "state" : "",
       "title" : "010",
       "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/eoll_010.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/eoll_010.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -26810,7 +26810,7 @@
       "state" : "",
       "title" : "CHRISTMAS EVE",
       "url" : "http://www.mediafire.com/file/9uquyldysd127zr/CHRISTMAS+EVE.zip",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/eve.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/eve.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -27082,7 +27082,7 @@
       "state" : "",
       "title" : "Brightsphere",
       "url" : "https://event.yaruki0.net/VSevent/impression/75",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
       "video1" : "",
       "video2" : "lNkb5C9lQI8",
       "video3" : ""
@@ -28005,12 +28005,12 @@
       "level" : "33",
       "md5" : "57a25491c0791185c72e9bff6639d544",
       "memo" : "",
-      "name_diff" : "追加譜面 (最終パッケージ版に同梱)",
+      "name_diff" : "追加譜面 (パッケージ版行方不明のため仮保管)",
       "no" : "20222",
       "state" : "",
       "title" : "SCIENCE VOYAGER",
       "url" : "https://package.bms.ms/OLDSKOOL%20VS%20FUTURE%20Pack%20(13_05_2018).rar",
-      "url_diff" : "",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/SVBMS.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -28480,16 +28480,16 @@
       "video3" : ""
    },
    {
-      "artist" : "sound piercer / mov : kkkfff2 obj by dimcynical",
+      "artist" : "sound piercer / mov : kkkfff2 (PABAT_bms_event_package_total_62_bms.rar)",
       "comment" : "○4査定済み",
       "level" : "45",
       "md5" : "5917a6b5c7b4787827183db5f5524b6f",
       "memo" : "",
-      "name_diff" : "本体に同梱",
+      "name_diff" : "dimcynical (本体に同梱)",
       "no" : "3324",
       "state" : "",
       "title" : "点、線、面、立体",
-      "url" : "https://skydrive.live.com/?cid=5b1100ed3d6ad60b&id=5B1100ED3D6AD60B%21162",
+      "url" : "https://nekokan.dyndns.info/file/mirror/ceena-bms/",
       "url_diff" : "",
       "video1" : "",
       "video2" : "",
@@ -29354,7 +29354,7 @@
       "state" : "",
       "title" : "Never Alone",
       "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/Never_Alone.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/Never_Alone.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -29706,7 +29706,7 @@
       "state" : "",
       "title" : "Evoltex",
       "url" : "https://dropbox.bms.ms/u/59482273/arch_avoltex_ogg.zip",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/arch_avoltex_ogg.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/arch_avoltex_ogg.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -31450,7 +31450,7 @@
       "state" : "",
       "title" : "fragment of tears",
       "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -31610,7 +31610,7 @@
       "state" : "",
       "title" : "コオリノバラ",
       "url" : "http://www.mediafire.com/file/gny1kp66pwd4x53/%5Bnaotyu-%5Dkoorinobara.zip",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -31722,7 +31722,7 @@
       "state" : "",
       "title" : "010",
       "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/eoll_010.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/eoll_010.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -33226,7 +33226,7 @@
       "state" : "",
       "title" : "Repeat and Rewind",
       "url" : "https://www.dropbox.com/sh/nrfllwqgxsmqbl1/AADYFyB6Eqo0jKeWxtposmX3a?dl=0&lst=",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/repeatandrewind.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/repeatandrewind.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -33594,7 +33594,7 @@
       "state" : "",
       "title" : "ecstatic ghost party as Nightmare",
       "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/cybermiso-ecstatic_ghost_party_as_nightmareghost.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/cybermiso-ecstatic_ghost_party_as_nightmareghost.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -34553,7 +34553,7 @@
       "no" : "2442",
       "state" : "",
       "title" : "PCM",
-      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=1&num=74",
+      "url" : "https://nekokan.dyndns.info/file/mirror/ceena-bms/",
       "url_diff" : "",
       "video1" : "",
       "video2" : "",
@@ -34970,7 +34970,7 @@
       "state" : "",
       "title" : "conflict",
       "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/conflict.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/conflict.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -34985,7 +34985,7 @@
       "no" : "20478",
       "state" : "",
       "title" : "エコ息子",
-      "url" : "http://grooverise.sakura.ne.jp/bms_game_coar_pkg/index.html",
+      "url" : "https://web.archive.org/web/20200308153709/http://grooverise.sakura.ne.jp/bms_game_coar_pkg/",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03831",
       "video1" : "",
       "video2" : "",
@@ -35961,7 +35961,7 @@
       "no" : "2444",
       "state" : "",
       "title" : "PCM",
-      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=1&num=74",
+      "url" : "https://nekokan.dyndns.info/file/mirror/ceena-bms/",
       "url_diff" : "",
       "video1" : "",
       "video2" : "",
@@ -36218,7 +36218,7 @@
       "state" : "",
       "title" : "Never Alone",
       "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/Never_Alone.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/Never_Alone.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -36352,7 +36352,7 @@
       "video3" : ""
    },
    {
-      "artist" : "w_tre(PABAT! Package)",
+      "artist" : "w_tre (PABAT_bms_event_package_total_62_bms.rar)",
       "comment" : "高TOTAL(400)",
       "level" : "31",
       "md5" : "70fe4ccc992beb8c331dade49dbb7e58",
@@ -36362,7 +36362,7 @@
       "state" : "",
       "title" : "reHigh",
       "url" : "https://nekokan.dyndns.info/file/mirror/ceena-bms/",
-      "url_diff" : "https://dropbox.com/s/w4fhw8vqv52wfo6/00_PABAT_PMS_Append.zip?dl=1",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/00_PABAT_PMS_Append.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -37594,7 +37594,7 @@
       "state" : "",
       "title" : "JULIAN \"for B.O.F. 2009\"",
       "url" : "https://onedrive.live.com/?id=40805CD20B6241C6%211928&cid=40805CD20B6241C6",
-      "url_diff" : "https://onedrive.live.com/?id=76EC532B4F98C878%21162&cid=76EC532B4F98C878",
+      "url_diff" : "https://onedrive.live.com/?id=76EC532B4F98C878%21141&cid=76EC532B4F98C878",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -38538,7 +38538,7 @@
       "state" : "",
       "title" : "DRAGONLADY",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=60",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/Nank04_dragonlady.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/Nank04_dragonlady.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -38858,7 +38858,7 @@
       "state" : "",
       "title" : "Alt Futur",
       "url" : "http://colosseo.nekokan.dyndns.info/c04_shuffle3/detail/view/32/",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/alt_futur.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/alt_futur.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -39290,7 +39290,7 @@
       "state" : "",
       "title" : "Breakcore Ein Prosit",
       "url" : "http://colosseo.nekokan.dyndns.info/c02_shuffle/detail.php?n=43",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/yamajet_breakcore_ein_prosit.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/yamajet_breakcore_ein_prosit.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -39840,7 +39840,7 @@
       "video3" : ""
    },
    {
-      "artist" : "HAEGOE (PABAT! Package)",
+      "artist" : "HAEGOE  (PABAT_bms_event_package_total_62_bms.rar)",
       "comment" : "難易度更新:lv15→23",
       "level" : "23",
       "md5" : "7b5942fc1cfe85cdb213708fe6b75ea3",
@@ -39849,7 +39849,7 @@
       "no" : "2601",
       "state" : "",
       "title" : "shocKing King",
-      "url" : "https://k-bms.com/party_pabat/party.jsp?board_num=1",
+      "url" : "https://nekokan.dyndns.info/file/mirror/ceena-bms/",
       "url_diff" : "",
       "video1" : "",
       "video2" : "",
@@ -41513,7 +41513,7 @@
       "no" : "2477",
       "state" : "",
       "title" : "Primero",
-      "url" : "https://1drv.ms/u/s%21AgbuChEfqQ_nv1PUJZ3VcDzoI8eZ",
+      "url" : "https://onedrive.live.com/?id=E70FA91F110AEE06%21105&cid=E70FA91F110AEE06",
       "url_diff" : "",
       "video1" : "",
       "video2" : "",
@@ -41818,7 +41818,7 @@
       "state" : "",
       "title" : "Terpsichore",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=101",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/Terpsichore.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/Terpsichore.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -42640,17 +42640,17 @@
       "video3" : ""
    },
    {
-      "artist" : "Kamisys BGA:SMIN",
+      "artist" : "Kamisys BGA:SMIN (PABAT_bms_event_package_total_62_bms.rar)",
       "comment" : "",
       "level" : "30",
       "md5" : "8427909de9338f9d59fa391005d75a77",
       "memo" : "",
-      "name_diff" : "PABAT! PMS Append",
+      "name_diff" : "sound piercer (PABAT PMS Append)",
       "no" : "2748",
       "state" : "",
       "title" : "Trine SHRINE",
-      "url" : "https://k-bms.com/party_pabat/party.jsp?board_num=1",
-      "url_diff" : "https://dropbox.com/s/w4fhw8vqv52wfo6/00_PABAT_PMS_Append.zip?dl=1",
+      "url" : "https://nekokan.dyndns.info/file/mirror/ceena-bms/",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/00_PABAT_PMS_Append.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -43146,7 +43146,7 @@
       "state" : "",
       "title" : "Never Alone",
       "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/Never_Alone.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/Never_Alone.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -43274,7 +43274,7 @@
       "state" : "",
       "title" : "CHERRY DOLL",
       "url" : "https://pupuly.nekokan.dyndns.info/bms/v/60",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -44346,7 +44346,7 @@
       "state" : "",
       "title" : "Apollo",
       "url" : "http://www.luzeria.net/?p=387",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/xs_apollo_ogg.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/xs_apollo_ogg.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -44906,7 +44906,7 @@
       "state" : "",
       "title" : "MINECRAFT∵ADVENTURE∴MEDLEY =C-H-I-L-L-M-I-X=",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=List_def&event=113",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/MINECRAFT_CHILLMIX.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/MINECRAFT_CHILLMIX.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -45184,7 +45184,7 @@
       "video3" : ""
    },
    {
-      "artist" : "sasakure.UK",
+      "artist" : "sasakure.UK (BOF2009)",
       "comment" : "難易度更新: lv30→34 高TOTAL(400)",
       "level" : "34",
       "md5" : "8b88bd43d89f0cc63c3a49a4aa4dee8d",
@@ -45193,7 +45193,7 @@
       "no" : "2138",
       "state" : "",
       "title" : "Jack-the-Ripper◆",
-      "url" : "http://sdrv.ms/RGziYJ",
+      "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
       "url_diff" : "http://stellawingroad.web.fc2.com/sabun/jacktheripper.zip",
       "video1" : "",
       "video2" : "",
@@ -45849,7 +45849,7 @@
       "no" : "2466",
       "state" : "",
       "title" : "Pompeii",
-      "url" : "https://dl.dropboxusercontent.com/u/7784370/%5BBMS%5D/%5BMystinia011%5D Mystinia - Pompeii %5BWAV%5D.zip",
+      "url" : "https://www.dropbox.com/s/yzuj7wutr89egqv/12.Mystinia%20-%20Pompeii%20%5BWAV%5D.zip",
       "url_diff" : "https://drive.google.com/file/d/1h5YyZDywCVdwHrFO1z-mO7ZZ3sFEObgT/view",
       "video1" : "",
       "video2" : "",
@@ -45914,7 +45914,7 @@
       "state" : "",
       "title" : "Alt Futur",
       "url" : "http://colosseo.nekokan.dyndns.info/c04_shuffle3/detail/view/32/",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/alt_futur.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/alt_futur.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -46442,7 +46442,7 @@
       "state" : "",
       "title" : "性的猟奇的無意味",
       "url" : "http://ofuton.tk/tarolabo/",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/erogrononsense.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/erogrononsense.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -46810,7 +46810,7 @@
       "state" : "",
       "title" : "★SweeT DiscoverY★",
       "url" : "http://web.archive.org/web/20070817082252/http:/sasakure.bms.ms/bms/sweetdiscovery.zip",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/walther_pms_archive.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/walther_pms_archive.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -47098,7 +47098,7 @@
       "state" : "",
       "title" : "Apollo",
       "url" : "http://www.luzeria.net/?p=387",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/xs_apollo_ogg.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/xs_apollo_ogg.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -47322,7 +47322,7 @@
       "state" : "",
       "title" : "Bの悲劇",
       "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/TEAM_BOKKEN_BnoHigeki.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/TEAM_BOKKEN_BnoHigeki.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -48266,7 +48266,7 @@
       "state" : "",
       "title" : "奏龍ピアソラ (Souryu Piasolla)",
       "url" : "http://www.jzxyst.net/public/tukiyama/S9F.zip",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/Piasolla_9B_31.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/Piasolla_9B_31.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -48650,7 +48650,7 @@
       "state" : "",
       "title" : "Brightsphere",
       "url" : "https://event.yaruki0.net/VSevent/impression/75",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
       "video1" : "",
       "video2" : "lNkb5C9lQI8",
       "video3" : ""
@@ -48928,7 +48928,7 @@
       "video3" : ""
    },
    {
-      "artist" : "Mr.ABC",
+      "artist" : "Mr.ABC (BMS同窓会パッケージ)",
       "comment" : "NORMAL判定, MAX-FIX推奨",
       "level" : "36",
       "md5" : "95b95deca55a14f33a5d98efb11474cf",
@@ -48937,7 +48937,7 @@
       "no" : "2049",
       "state" : "",
       "title" : "HE is an Energizer",
-      "url" : "http://1drv.ms/1hcjoAi",
+      "url" : "https://mega.nz/folder/EpgWgJqa#7OItZfYLQxZ0X8OB19yvNQ/file/MgRxxSJB",
       "url_diff" : "https://drive.google.com/file/d/1h5YyZDywCVdwHrFO1z-mO7ZZ3sFEObgT/view",
       "video1" : "",
       "video2" : "",
@@ -49066,7 +49066,7 @@
       "state" : "",
       "title" : "性的猟奇的無意味",
       "url" : "http://ofuton.tk/tarolabo/",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/erogrononsense.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/erogrononsense.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -49577,7 +49577,7 @@
       "no" : "3096",
       "state" : "",
       "title" : "ルーマニア民族舞曲",
-      "url" : "https://www.dropbox.com/s/dsgcwscdxbl8vba/%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2%E6%B0%91%E6%97%8F%E8%88%9E%E6%9B%B2.zip?dl=1",
+      "url" : "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/5JtD1KxT",
       "url_diff" : "http://zatsuzatsu.sakura.ne.jp/pmslist/",
       "video1" : "",
       "video2" : "",
@@ -51562,7 +51562,7 @@
       "state" : "",
       "title" : "010",
       "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/eoll_010.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/eoll_010.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -51690,7 +51690,7 @@
       "state" : "",
       "title" : "性的猟奇的無意味",
       "url" : "http://ofuton.tk/tarolabo/",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/erogrononsense.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/erogrononsense.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -52976,8 +52976,8 @@
       "video3" : ""
    },
    {
-      "artist" : "CrYmson",
-      "comment" : "",
+      "artist" : "CrYmson (beatoraja向け追加音源あり コメント参照)",
+      "comment" : "(beatoraja向け音源パッチ：ttps://www.dropbox.com/s/lkopn44jacgpht9/(%E5%90%8D%E5%89%8D%E4%BF%AE%E6%AD%A3ogg%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB)%20[CrYmson]%20Revival%20of%20Kalpa.rar?dl=1) ",
       "level" : "33",
       "md5" : "a11b4b811286fb5fa4f345caf55743a2",
       "memo" : "",
@@ -53418,7 +53418,7 @@
       "state" : "",
       "title" : "Adansonia (8th MIX)",
       "url" : "http://roopdesign.tumblr.com/post/34827532860/roop-bms-works-2004-2012",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/str_adansonia8thmix_ogg.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/str_adansonia8thmix_ogg.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -54266,7 +54266,7 @@
       "state" : "",
       "title" : "DataErr0r",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=104",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/dataerr0r_9h.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/dataerr0r_9h.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -54330,7 +54330,7 @@
       "state" : "",
       "title" : "strawberry happiness",
       "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -54378,7 +54378,7 @@
       "state" : "",
       "title" : "Aihana (Love+ Edit)",
       "url" : "https://onedrive.live.com/?id=40805CD20B6241C6%211927&cid=40805CD20B6241C6",
-      "url_diff" : "https://onedrive.live.com/?id=76EC532B4F98C878%21162&cid=76EC532B4F98C878",
+      "url_diff" : "https://onedrive.live.com/?id=76EC532B4F98C878%21141&cid=76EC532B4F98C878",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -56778,7 +56778,7 @@
       "state" : "",
       "title" : "Altostratus",
       "url" : "https://web.archive.org/web/20130821171914/http:/www.planetoid.biz/bms/DH_Altostratus.zip",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/(DISCO_HIGHBALL)syatten_-_Altostratus.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/(DISCO_HIGHBALL)syatten_-_Altostratus.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -57002,7 +57002,7 @@
       "state" : "",
       "title" : "R/T X2002",
       "url" : "https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
-      "url_diff" : "https://1drv.ms/u/s!Ap8j632tjlNvgd4Q3wOuVY2PZY720Q",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/takanashi_pms_archive(onedrive).zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -57498,7 +57498,7 @@
       "state" : "",
       "title" : "started",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=85&event=65",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -57600,7 +57600,7 @@
       "video3" : ""
    },
    {
-      "artist" : "Mr.ABC",
+      "artist" : "Mr.ABC (BMS同窓会パッケージ)",
       "comment" : "NORMAL判定 ○4査定済み",
       "level" : "45",
       "md5" : "ae38c553a0d069517bca1d12d65ee028",
@@ -57609,7 +57609,7 @@
       "no" : "2051",
       "state" : "",
       "title" : "HE is an Energizer",
-      "url" : "http://1drv.ms/1hcjoAi",
+      "url" : "https://mega.nz/folder/EpgWgJqa#7OItZfYLQxZ0X8OB19yvNQ/file/MgRxxSJB",
       "url_diff" : "https://drive.google.com/file/d/1h5YyZDywCVdwHrFO1z-mO7ZZ3sFEObgT/view",
       "video1" : "",
       "video2" : "",
@@ -57626,7 +57626,7 @@
       "state" : "",
       "title" : "Never Alone",
       "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/Never_Alone.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/Never_Alone.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -59721,7 +59721,7 @@
       "no" : "2465",
       "state" : "",
       "title" : "Pompeii",
-      "url" : "https://dl.dropboxusercontent.com/u/7784370/%5BBMS%5D/%5BMystinia011%5D Mystinia - Pompeii %5BWAV%5D.zip",
+      "url" : "https://www.dropbox.com/s/yzuj7wutr89egqv/12.Mystinia%20-%20Pompeii%20%5BWAV%5D.zip",
       "url_diff" : "https://drive.google.com/file/d/1h5YyZDywCVdwHrFO1z-mO7ZZ3sFEObgT/view",
       "video1" : "",
       "video2" : "",
@@ -59898,7 +59898,7 @@
       "state" : "",
       "title" : "Evoltex",
       "url" : "https://dropbox.bms.ms/u/59482273/arch_avoltex_ogg.zip",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/arch_avoltex_ogg.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/arch_avoltex_ogg.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -60848,7 +60848,7 @@
       "video3" : ""
    },
    {
-      "artist" : "Kamisys",
+      "artist" : "Kamisys BGA:SMIN (PABAT_bms_event_package_total_62_bms.rar)",
       "comment" : "NORMAL判定, LNあり",
       "level" : "40",
       "md5" : "b719ae9d8473a3cafefb1f058ff53ed7",
@@ -60857,7 +60857,7 @@
       "no" : "2750",
       "state" : "",
       "title" : "Trine SHRINE",
-      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=1&num=56",
+      "url" : "https://nekokan.dyndns.info/file/mirror/ceena-bms/",
       "url_diff" : "https://onedrive.live.com/?id=C452A45B7C785F86%21103&cid=C452A45B7C785F86",
       "video1" : "",
       "video2" : "",
@@ -61001,7 +61001,7 @@
       "no" : "20467",
       "state" : "",
       "title" : "アンパンマン号 [N+]",
-      "url" : "https://1drv.ms/u/s!AgbuChEfqQ_nv1Y14-cfGeHfSysD",
+      "url" : "https://onedrive.live.com/?id=E70FA91F110AEE06%21105&cid=E70FA91F110AEE06",
       "url_diff" : "https://asakki.web.fc2.com/aaa.html",
       "video1" : "",
       "video2" : "",
@@ -61578,7 +61578,7 @@
       "state" : "",
       "title" : "リンリン☆テーマオブラブ",
       "url" : "http://www.yw-works.com/bms_pms.htm",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/test/www.yw-works.com/iroiro/tolove-p.zip",
+      "url_diff" : "https://www.yw-works.com/iroiro/tolove-p.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -61722,7 +61722,7 @@
       "state" : "",
       "title" : "鳥の詩",
       "url" : "https://onedrive.live.com/?cid=F881BCC298BA2E47&id=F881BCC298BA2E47%21104",
-      "url_diff" : "https://onedrive.live.com/?id=76EC532B4F98C878%21162&cid=76EC532B4F98C878",
+      "url_diff" : "https://onedrive.live.com/?id=76EC532B4F98C878%21141&cid=76EC532B4F98C878",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -62412,7 +62412,7 @@
       "url" : "http://toymusical.net/",
       "url_diff" : "",
       "video1" : "",
-      "video2" : "",
+      "video2" : "nm-Ll9WmQ5s",
       "video3" : ""
    },
    {
@@ -62729,7 +62729,7 @@
       "no" : "3095",
       "state" : "",
       "title" : "ルーマニア民族舞曲",
-      "url" : "https://www.dropbox.com/s/dsgcwscdxbl8vba/%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2%E6%B0%91%E6%97%8F%E8%88%9E%E6%9B%B2.zip?dl=1",
+      "url" : "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/5JtD1KxT",
       "url_diff" : "http://zatsuzatsu.sakura.ne.jp/pmslist/",
       "video1" : "",
       "video2" : "",
@@ -63066,7 +63066,7 @@
       "state" : "",
       "title" : "Altostratus",
       "url" : "https://web.archive.org/web/20130821171914/http:/www.planetoid.biz/bms/DH_Altostratus.zip",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/(DISCO_HIGHBALL)syatten_-_Altostratus.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/(DISCO_HIGHBALL)syatten_-_Altostratus.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -63338,7 +63338,7 @@
       "state" : "",
       "title" : "魔カい造Ed STEAMPUNK Frankenstein",
       "url" : "https://dropbox.bms.ms/u/45360077/watasino_h0-mupe-ji.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/cybermiso-Frankenstein.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/cybermiso-Frankenstein.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -63450,7 +63450,7 @@
       "state" : "",
       "title" : "Bの悲劇",
       "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/TEAM_BOKKEN_BnoHigeki.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/TEAM_BOKKEN_BnoHigeki.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -64762,7 +64762,7 @@
       "state" : "",
       "title" : "rePrayer",
       "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -65520,16 +65520,16 @@
       "video3" : ""
    },
    {
-      "artist" : "sound piercer / mov : kkkfff2 obj by dimcynical",
+      "artist" : "sound piercer / mov : kkkfff2 (PABAT_bms_event_package_total_62_bms.rar)",
       "comment" : "",
       "level" : "25",
       "md5" : "c50d6355312fffa09e7b8090d8dcb0f5",
       "memo" : "",
-      "name_diff" : "本体に同梱",
+      "name_diff" : "dimcynical (本体に同梱)",
       "no" : "3322",
       "state" : "",
       "title" : "点、線、面、立体",
-      "url" : "https://skydrive.live.com/?cid=5b1100ed3d6ad60b&id=5B1100ED3D6AD60B%21162",
+      "url" : "https://nekokan.dyndns.info/file/mirror/ceena-bms/",
       "url_diff" : "",
       "video1" : "",
       "video2" : "",
@@ -65946,7 +65946,7 @@
       "state" : "",
       "title" : "Cross breed",
       "url" : "http://www1.axfc.net/uploader/so/2673091?key=bms",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/crossbreed.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/crossbreed.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -66010,7 +66010,7 @@
       "state" : "",
       "title" : "Terpsichore",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=101",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/Terpsichore.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/Terpsichore.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -67658,7 +67658,7 @@
       "state" : "",
       "title" : "魔カい造Ed STEAMPUNK Frankenstein",
       "url" : "https://dropbox.bms.ms/u/45360077/watasino_h0-mupe-ji.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/cybermiso-Frankenstein.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/cybermiso-Frankenstein.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -67786,7 +67786,7 @@
       "state" : "",
       "title" : "M/T X2003",
       "url" : "https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
-      "url_diff" : "https://1drv.ms/u/s!Ap8j632tjlNvgd4SieUyOzwKQfF5BQ",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/takanashi_pms_archive(onedrive).zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -68128,16 +68128,16 @@
       "video3" : ""
    },
    {
-      "artist" : "RMHN (PABAT!パッケージ)",
+      "artist" : "RMHN (PABAT_bms_event_package_total_62_bms.rar)",
       "comment" : "",
       "level" : "30",
       "md5" : "ccaa2ce026e52617f319a92badf188b4",
       "memo" : "",
-      "name_diff" : "0samil0",
+      "name_diff" : "0samil0 (PABAT PMS Append)",
       "no" : "1685",
       "state" : "",
       "title" : "BIZARRE INC.",
-      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=1",
+      "url" : "https://nekokan.dyndns.info/file/mirror/ceena-bms/",
       "url_diff" : "https://drive.google.com/file/d/1h5YyZDywCVdwHrFO1z-mO7ZZ3sFEObgT/view",
       "video1" : "",
       "video2" : "",
@@ -68314,7 +68314,7 @@
       "state" : "",
       "title" : "R/T X2002",
       "url" : "https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
-      "url_diff" : "https://1drv.ms/u/s!Ap8j632tjlNvgd4Q3wOuVY2PZY720Q",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/takanashi_pms_archive(onedrive).zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -69312,7 +69312,7 @@
       "video3" : ""
    },
    {
-      "artist" : "Marky (PABAT! package)",
+      "artist" : "Marky (PABAT_bms_event_package_total_62_bms.rar)",
       "comment" : "NORMAL判定 ○6査定済み 難易度更新:lv44→45",
       "level" : "45+",
       "md5" : "d002c9adb02245777174f2e98f8c1f40",
@@ -69321,8 +69321,8 @@
       "no" : "2189",
       "state" : "",
       "title" : "Lapis Lazuli",
-      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=1&num=27",
-      "url_diff" : "https://app.box.com/s/592y268tcvyguuifclty",
+      "url" : "https://nekokan.dyndns.info/file/mirror/ceena-bms/",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/00_PABAT_PMS_Append.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -69722,7 +69722,7 @@
       "state" : "",
       "title" : "CHERRY DOLL",
       "url" : "https://pupuly.nekokan.dyndns.info/bms/v/60",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -70010,7 +70010,7 @@
       "state" : "",
       "title" : "fragment of tears",
       "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -70666,7 +70666,7 @@
       "state" : "",
       "title" : "conflict",
       "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/conflict.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/conflict.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -71561,7 +71561,7 @@
       "no" : "2478",
       "state" : "",
       "title" : "Primero",
-      "url" : "https://1drv.ms/u/s%21AgbuChEfqQ_nv1PUJZ3VcDzoI8eZ",
+      "url" : "https://onedrive.live.com/?id=E70FA91F110AEE06%21105&cid=E70FA91F110AEE06",
       "url_diff" : "",
       "video1" : "30250771",
       "video2" : "",
@@ -71578,7 +71578,7 @@
       "state" : "",
       "title" : "gazer",
       "url" : "http://scytheleg.sakura.ne.jp/tempyou/release/tempyou/",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/gazer.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/gazer.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -71898,7 +71898,7 @@
       "state" : "",
       "title" : "rePrayer",
       "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -72400,8 +72400,8 @@
       "video3" : ""
    },
    {
-      "artist" : "CrYmson",
-      "comment" : "○5査定済み 難易度更新:lv44→45",
+      "artist" : "CrYmson (beatoraja向け追加音源あり コメント参照)",
+      "comment" : "○5査定済み 難易度更新:lv44→45 (beatoraja向け音源パッチ：ttps://www.dropbox.com/s/lkopn44jacgpht9/(%E5%90%8D%E5%89%8D%E4%BF%AE%E6%AD%A3ogg%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB)%20[CrYmson]%20Revival%20of%20Kalpa.rar?dl=1) ",
       "level" : "45",
       "md5" : "d98c3e28404374095d213d8f6d0cb4bb",
       "memo" : "",
@@ -72720,16 +72720,16 @@
       "video3" : ""
    },
    {
-      "artist" : "sound piercer / mov : kkkfff2 obj by dimcynical",
+      "artist" : "sound piercer / mov : kkkfff2 (PABAT_bms_event_package_total_62_bms.rar)",
       "comment" : "",
       "level" : "35",
       "md5" : "da638718a0f0e1110846791a8aa38ae7",
       "memo" : "",
-      "name_diff" : "本体に同梱",
+      "name_diff" : "dimcynical (本体に同梱)",
       "no" : "3323",
       "state" : "",
       "title" : "点、線、面、立体",
-      "url" : "https://skydrive.live.com/?cid=5b1100ed3d6ad60b&id=5B1100ED3D6AD60B%21162",
+      "url" : "https://nekokan.dyndns.info/file/mirror/ceena-bms/",
       "url_diff" : "",
       "video1" : "",
       "video2" : "",
@@ -72858,7 +72858,7 @@
       "state" : "",
       "title" : "星になる",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=43&event=54",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/hoshininaru.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/hoshininaru.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -73674,7 +73674,7 @@
       "state" : "",
       "title" : "strawberry happiness",
       "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -74010,7 +74010,7 @@
       "state" : "",
       "title" : "魔カい造Ed STEAMPUNK Frankenstein",
       "url" : "https://dropbox.bms.ms/u/45360077/watasino_h0-mupe-ji.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/cybermiso-Frankenstein.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/cybermiso-Frankenstein.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -74304,7 +74304,7 @@
       "video3" : ""
    },
    {
-      "artist" : "roop(BOF2012)",
+      "artist" : "roop (BOF2012)",
       "comment" : "",
       "level" : "28",
       "md5" : "df0254d3e94b460b3f8a7b3b7fac5617",
@@ -74313,7 +74313,7 @@
       "no" : "1775",
       "state" : "",
       "title" : "colorbar",
-      "url" : "http://sdrv.ms/RGziYJ",
+      "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
       "url_diff" : "https://drive.google.com/file/d/1h5YyZDywCVdwHrFO1z-mO7ZZ3sFEObgT/view",
       "video1" : "",
       "video2" : "",
@@ -74490,7 +74490,7 @@
       "state" : "",
       "title" : "Evoltex",
       "url" : "https://dropbox.bms.ms/u/59482273/arch_avoltex_ogg.zip",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/arch_avoltex_ogg.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/arch_avoltex_ogg.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -74986,7 +74986,7 @@
       "state" : "",
       "title" : "性的猟奇的無意味",
       "url" : "http://ofuton.tk/tarolabo/",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/erogrononsense.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/erogrononsense.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -75520,17 +75520,17 @@
       "video3" : ""
    },
    {
-      "artist" : "Kamisys BGA:SMIN",
+      "artist" : "Kamisys BGA:SMIN (PABAT_bms_event_package_total_62_bms.rar)",
       "comment" : "",
       "level" : "37",
       "md5" : "e33d0ed59a651fece1b91b6157531002",
       "memo" : "",
-      "name_diff" : "PABAT! PMS Append",
+      "name_diff" : "sound piercer (PABAT PMS Append)",
       "no" : "2749",
       "state" : "",
       "title" : "Trine SHRINE",
-      "url" : "https://k-bms.com/party_pabat/party.jsp?board_num=1",
-      "url_diff" : "https://dropbox.com/s/w4fhw8vqv52wfo6/00_PABAT_PMS_Append.zip?dl=1",
+      "url" : "https://nekokan.dyndns.info/file/mirror/ceena-bms/",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/00_PABAT_PMS_Append.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -75568,7 +75568,7 @@
       "video3" : ""
    },
    {
-      "artist" : "w_tre(PABAT! Package)",
+      "artist" : "w_tre (PABAT_bms_event_package_total_62_bms.rar)",
       "comment" : "",
       "level" : "42",
       "md5" : "e358b91f630487679d3c0b26569de4b3",
@@ -75578,7 +75578,7 @@
       "state" : "",
       "title" : "reHigh",
       "url" : "https://nekokan.dyndns.info/file/mirror/ceena-bms/",
-      "url_diff" : "https://dropbox.com/s/w4fhw8vqv52wfo6/00_PABAT_PMS_Append.zip?dl=1",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/00_PABAT_PMS_Append.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -76154,7 +76154,7 @@
       "state" : "",
       "title" : "rePrayer",
       "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -76496,7 +76496,7 @@
       "video3" : ""
    },
    {
-      "artist" : "roop(BOF2012)",
+      "artist" : "roop (BOF2012)",
       "comment" : "難易度更新:lv41→36",
       "level" : "36",
       "md5" : "e5fa55391c89e98e71357008210f0997",
@@ -76505,7 +76505,7 @@
       "no" : "1776",
       "state" : "",
       "title" : "colorbar",
-      "url" : "http://sdrv.ms/RGziYJ",
+      "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
       "url_diff" : "https://drive.google.com/file/d/1h5YyZDywCVdwHrFO1z-mO7ZZ3sFEObgT/view",
       "video1" : "",
       "video2" : "",
@@ -76524,7 +76524,7 @@
       "url" : "https://web.archive.org/web/20181105023655/http:/www.geocities.jp/htt_tsuyokunaru/",
       "url_diff" : "https://object-storage.tyo1.conoha.io/v1/nc_8d4380f170ae4d9ba6e62e7e588a28b5/tukiyama/801_ogg.zip",
       "video1" : "",
-      "video2" : "",
+      "video2" : "z_LpHR285Lc",
       "video3" : ""
    },
    {
@@ -77305,7 +77305,7 @@
       "no" : "20054",
       "state" : "",
       "title" : "LONELY ROLLING STAR (from「塊魂」)",
-      "url" : "http://grooverise.sakura.ne.jp/bms_game_coar_pkg/",
+      "url" : "https://web.archive.org/web/20200308153709/http://grooverise.sakura.ne.jp/bms_game_coar_pkg/",
       "url_diff" : "http://yumasuki.yumenogotoshi.com/",
       "video1" : "",
       "video2" : "",
@@ -77801,7 +77801,7 @@
       "no" : "20476",
       "state" : "",
       "title" : "stillness and vortex 「さよならを教えて」より\"immobilite et tourbillon(流れとよどみ)\"",
-      "url" : "http://grooverise.sakura.ne.jp/bms_game_coar_pkg/index.html",
+      "url" : "https://web.archive.org/web/20200308153709/http://grooverise.sakura.ne.jp/bms_game_coar_pkg/",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03830",
       "video1" : "",
       "video2" : "",
@@ -78176,17 +78176,17 @@
       "video3" : ""
    },
    {
-      "artist" : "Delete Team",
+      "artist" : "Delete Team (PABAT_bms_event_package_total_62_bms.rar)",
       "comment" : "",
       "level" : "13",
       "md5" : "eb6b8f8b4be850dfebbcf52552e3f808",
       "memo" : "",
-      "name_diff" : "0samil0",
+      "name_diff" : "0samil0 (PABAT PMS Append)",
       "no" : "1827",
       "state" : "",
       "title" : "Delete",
-      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=1&num=71",
-      "url_diff" : "https://drive.google.com/file/d/1h5YyZDywCVdwHrFO1z-mO7ZZ3sFEObgT/view",
+      "url" : "https://nekokan.dyndns.info/file/mirror/ceena-bms/",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/00_PABAT_PMS_Append.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -78842,7 +78842,7 @@
       "state" : "",
       "title" : "B POP MAGIC",
       "url" : "https://mega.nz/#!nVYgTK5R!pNtbrOmM59SFjd7a_0FRlFeTEWtt9F9TQjufOdJeyrk",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/keoui_bpm135.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/keoui_bpm135.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -78890,7 +78890,7 @@
       "state" : "",
       "title" : "ecstatic ghost party as Nightmare",
       "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/cybermiso-ecstatic_ghost_party_as_nightmareghost.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/cybermiso-ecstatic_ghost_party_as_nightmareghost.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -79418,7 +79418,7 @@
       "state" : "",
       "title" : "CHERRY DOLL",
       "url" : "https://pupuly.nekokan.dyndns.info/bms/v/60",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/msl_pms_archive.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -79689,7 +79689,7 @@
       "no" : "20466",
       "state" : "",
       "title" : "アンパンマン号 [B]",
-      "url" : "https://1drv.ms/u/s!AgbuChEfqQ_nv1Y14-cfGeHfSysD",
+      "url" : "https://onedrive.live.com/?id=E70FA91F110AEE06%21105&cid=E70FA91F110AEE06",
       "url_diff" : "https://asakki.web.fc2.com/aaa.html",
       "video1" : "",
       "video2" : "",
@@ -79948,7 +79948,7 @@
       "url" : "https://www.dropbox.com/s/b93rzlu69cncee0/gransear_bmspmslist.txt?dl=0",
       "url_diff" : "",
       "video1" : "",
-      "video2" : "",
+      "video2" : "QStoTCy_g-E",
       "video3" : ""
    },
    {
@@ -80314,7 +80314,7 @@
       "state" : "",
       "title" : "Ena (Radio edit)",
       "url" : "https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/walther_pms_archive.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/walther_pms_archive.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -80330,7 +80330,7 @@
       "state" : "",
       "title" : "Maria walking across the 100000000 pieces",
       "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/[haganai]Maria.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/[haganai]Maria.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -80474,7 +80474,7 @@
       "state" : "",
       "title" : "Maria walking across the 100000000 pieces",
       "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/[haganai]Maria.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/[haganai]Maria.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -80944,7 +80944,7 @@
       "video3" : ""
    },
    {
-      "artist" : "Kamisys",
+      "artist" : "Kamisys BGA:SMIN (PABAT_bms_event_package_total_62_bms.rar)",
       "comment" : "NORMAL判定",
       "level" : "27",
       "md5" : "f358b674f5b99396e0ddbdf12f2e808d",
@@ -80953,7 +80953,7 @@
       "no" : "2747",
       "state" : "",
       "title" : "Trine SHRINE",
-      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=1&num=56",
+      "url" : "https://nekokan.dyndns.info/file/mirror/ceena-bms/",
       "url_diff" : "https://onedrive.live.com/?id=C452A45B7C785F86%21103&cid=C452A45B7C785F86",
       "video1" : "",
       "video2" : "",
@@ -81850,7 +81850,7 @@
       "state" : "",
       "title" : "DRAGONLADY",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=60",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/Nank04_dragonlady.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/Nank04_dragonlady.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -82282,7 +82282,7 @@
       "state" : "",
       "title" : "Altostratus",
       "url" : "https://web.archive.org/web/20130821171914/http:/www.planetoid.biz/bms/DH_Altostratus.zip",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/(DISCO_HIGHBALL)syatten_-_Altostratus.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/(DISCO_HIGHBALL)syatten_-_Altostratus.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
@@ -82970,7 +82970,7 @@
       "state" : "",
       "title" : "Apollo",
       "url" : "http://www.luzeria.net/?p=387",
-      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/xs_apollo_ogg.zip",
+      "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/xs_apollo_ogg.zip",
       "video1" : "",
       "video2" : "",
       "video3" : ""
