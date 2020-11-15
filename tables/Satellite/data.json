@@ -1968,7 +1968,7 @@
    },
    {
       "artist" : "paraoka / obj:NASA",
-      "level" : "1",
+      "level" : "2",
       "md5" : "25999666bc86cc9224524aae91956523",
       "proposer" : "Mallow♪",
       "sha256" : "17eb7d71053b46714412c665ea3b05dda6bab3e70502806106793947e8930d5b",
@@ -3524,6 +3524,18 @@
       "url_diff" : "https://frozensat.github.io/sabun/010_SKT.zip"
    },
    {
+      "artist" : "lixound mov:Xquid",
+      "comment" : "トリル、LN、皿",
+      "level" : "0",
+      "md5" : "448ccb9a5dfcd9a96d81123b53e1d29f",
+      "proposer" : "STANK!",
+      "sha256" : "ca105a6b956cae12a06e78c654bca9e9f2beaf250b790284958ce69af0e1714e",
+      "submission" : 1303,
+      "title" : "Break Through The Barrier [HYPER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=440&event=116",
+      "url_diff" : ""
+   },
+   {
       "artist" : "vorbis / obj:marquee",
       "comment" : "乱打、少し皿複合",
       "level" : "10",
@@ -4401,6 +4413,18 @@
       "title" : "にじいろクレヨン -Eb-",
       "url" : "http://kagerow.net/bms/1",
       "url_diff" : "http://eboots.ashigaru.jp/"
+   },
+   {
+      "artist" : "Setca. & みーに feat. 初音ミク obj. DK",
+      "comment" : "total 300 / only in 100min？？？？？",
+      "level" : "1",
+      "md5" : "54f438fa75188b54064e8bc983b264b4",
+      "proposer" : "used_tami",
+      "sha256" : "8be5c0ea0a2c7a163af408e339810443b721345f60d630b8b06e10e18ead2941",
+      "submission" : 1653,
+      "title" : "見送る一星、無我のソラ [100 min]",
+      "url" : "https://venue.bmssearch.net/mutualfaith3/3",
+      "url_diff" : "https://frozensat.github.io/sabun/100min_DK.zip"
    },
    {
       "artist" : "Chitose/仙人掌の人",
@@ -7579,7 +7603,7 @@
    {
       "artist" : "遠足でOdinみたいになっている人",
       "comment" : "sl3~4 (同梱譜面, ズレ)",
-      "level" : "3",
+      "level" : "4",
       "md5" : "95ebb3522c510f78e4fd4728ca5c33e3",
       "proposer" : "qtp13",
       "sha256" : "50922544e1e23265d31e46225687435f045e48e26c256b9c6239486b39d14e3b",
@@ -9976,6 +10000,18 @@
       "url_diff" : "https://puu.sh/CeQrx.zip"
    },
    {
+      "artist" : "Yosk!",
+      "comment" : "from Stella",
+      "level" : "12",
+      "md5" : "c1a869dbb132dbfc87b87c220240276a",
+      "proposer" : "LUXURY♪",
+      "sha256" : "1b1c8e710bdadd132efbcf2f57c98e9e73ed3df6038fce5662f47f83f4f77410",
+      "submission" : 1683,
+      "title" : "Ceebu Yapp",
+      "url" : "https://drive.google.com/file/d/1Fxg3zMqhu-oZDJRhQ0uvtQfOeMw_lnpT",
+      "url_diff" : ""
+   },
+   {
       "artist" : "うまるつふり/obj.sitoras",
       "comment" : "うまるつふり god",
       "level" : "7",
@@ -11112,6 +11148,18 @@
       "title" : "Andro [F]",
       "url" : "http://www.luzeria.net/music/75_Andro_ogg.rar",
       "url_diff" : "http://swamelo.web.fc2.com/0f_andro_fffff.bme"
+   },
+   {
+      "artist" : "kei_iwata Illust:morph/ BGA&obj:qfeileadh",
+      "comment" : "7~8?",
+      "level" : "8",
+      "md5" : "d8a2719afd4a0649028f06d8850c437d",
+      "proposer" : "MineC24",
+      "sha256" : "a8bea6d7867720cb02fda8b59a1fee67a2dbd75749a2ad65eb069f7b6c3cbc86",
+      "submission" : 1645,
+      "title" : "フロンティア↑↑エクスプローラー [EARTH]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=132",
+      "url_diff" : ""
    },
    {
       "artist" : "brz1128 / obj:Kennifh",
@@ -12579,6 +12627,18 @@
       "submission" : 1230,
       "title" : "Rainy Gate [Another]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=60&event=127",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "Sobrem",
+      "comment" : "BOFXV / 階段, LN, ズレ",
+      "level" : "0",
+      "md5" : "f5456ea7a63431ce7575d2583fcf9c68",
+      "proposer" : "DK",
+      "sha256" : "d22b7376c0a60e0a6ad51c6176367320ae42565979a74949473711ee46631bf3",
+      "submission" : 1373,
+      "title" : "2anyFirst [7-A]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=209&event=127",
       "url_diff" : ""
    },
    {

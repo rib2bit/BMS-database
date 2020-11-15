@@ -575,7 +575,7 @@
    {
       "artist" : "Luxion / Ds",
       "comment" : "粛清",
-      "level" : "10",
+      "level" : "11",
       "md5" : "0fd7cb15d296c8042085bf0a5b4b24b3",
       "proposer" : "スノート",
       "sha256" : "edae8071cf8f6c8de78533ad38a57bcb3c7ddac62ce7a94dc7785af7ae9e61f2",
@@ -3194,7 +3194,7 @@
    {
       "artist" : "45Is-m BGA:-45 obj:秘密",
       "comment" : "産卵譜面",
-      "level" : "1",
+      "level" : "2",
       "md5" : "4d82215f72cd4233820044302e5430a9",
       "proposer" : "null",
       "proposerLr2id" : 56801,
@@ -5460,7 +5460,7 @@
    {
       "artist" : "6yen / И",
       "comment" : "BPM182 同時押し、乱打、アレンジ差分",
-      "level" : "2",
+      "level" : "3",
       "md5" : "83da3c5e8ab72154a4bcdcd139bdb86f",
       "proposer" : "SHAX.",
       "sha256" : "3efe6774857518428466bbb85082eabb2e5f1436f2162e198fbf4622fe50a438",
@@ -6149,7 +6149,7 @@
    {
       "artist" : "NASA / ZUN / obj:chack",
       "comment" : "Anotherと比較してズレ無し。楽しい。物量。",
-      "level" : "7",
+      "level" : "8",
       "md5" : "916591f298a0a5479ded9a475d0a519b",
       "proposer" : "turbow",
       "sha256" : "b84a875260a4ebc23ce426930a714b9518de0e44b3166312eb399946874c52ea",
@@ -6564,7 +6564,7 @@
    {
       "artist" : "Ice Plumes obj.hex",
       "comment" : "wow",
-      "level" : "1",
+      "level" : "2",
       "md5" : "9dbe683eadf8d92a525bab680b0b4228",
       "proposer" : "qtp13",
       "sha256" : "804c8962493e5d7531f1d0791784499b4bf4587583cc6eb4ab1251d0f69255aa",
@@ -8038,18 +8038,6 @@
       "url_diff" : ""
    },
    {
-      "artist" : "Yosk!",
-      "comment" : "同梱譜面、総合力",
-      "level" : "0",
-      "md5" : "c1a869dbb132dbfc87b87c220240276a",
-      "proposer" : "turbow",
-      "sha256" : "1b1c8e710bdadd132efbcf2f57c98e9e73ed3df6038fce5662f47f83f4f77410",
-      "submission" : 1257,
-      "title" : "Ceebu Yapp",
-      "url" : "https://drive.google.com/file/d/1Fxg3zMqhu-oZDJRhQ0uvtQfOeMw_lnpT",
-      "url_diff" : ""
-   },
-   {
       "artist" : "sak feat.みゅい BGI:球根 / OBJ:七海千秋",
       "comment" : "(2000+222)",
       "level" : "1",
@@ -8554,7 +8542,7 @@
    {
       "artist" : "ROKINA / C4 vs selene.",
       "comment" : "滅ぼされた次元",
-      "level" : "10",
+      "level" : "11",
       "md5" : "cfc197a4a61a57fe03a860f03b613d3a",
       "proposer" : "スノート",
       "sha256" : "6161317ce8e47eccb1715ac01b1b75496ab40688b089fd8acc8e17b2f7b95955",

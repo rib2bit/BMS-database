@@ -1049,7 +1049,7 @@
    {
       "artist" : "Luxion / Ds",
       "comment" : "粛清",
-      "level" : "10",
+      "level" : "11",
       "md5" : "0fd7cb15d296c8042085bf0a5b4b24b3",
       "proposer" : "スノート",
       "proposerLr2id" : 86393,
@@ -5352,7 +5352,7 @@
    {
       "artist" : "45Is-m BGA:-45 obj:秘密",
       "comment" : "産卵譜面",
-      "level" : "1",
+      "level" : "2",
       "md5" : "4d82215f72cd4233820044302e5430a9",
       "proposer" : "null",
       "proposerLr2id" : 56801,
@@ -9199,7 +9199,7 @@
    {
       "artist" : "6yen / И",
       "comment" : "BPM182 同時押し、乱打、アレンジ差分",
-      "level" : "2",
+      "level" : "3",
       "md5" : "83da3c5e8ab72154a4bcdcd139bdb86f",
       "proposer" : "SHAX.",
       "proposerLr2id" : 65624,
@@ -10248,7 +10248,7 @@
    {
       "artist" : "NASA / ZUN / obj:chack",
       "comment" : "Anotherと比較してズレ無し。楽しい。物量。",
-      "level" : "7",
+      "level" : "8",
       "md5" : "916591f298a0a5479ded9a475d0a519b",
       "proposer" : "turbow",
       "proposerMinirid" : "6ff4a3e0-3764-464e-ba27-37e10197ee2a",
@@ -11022,7 +11022,7 @@
    {
       "artist" : "Ice Plumes obj.hex",
       "comment" : "wow",
-      "level" : "1",
+      "level" : "2",
       "md5" : "9dbe683eadf8d92a525bab680b0b4228",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -11705,6 +11705,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "tarolabo / obj:七海千秋",
+      "comment" : "ガチ押し。差分にゲーム性のために意図的なズレ(キー音の位置を変えたり、キー音を追加したりなどの)があります。 プレーには問題ないし、特に作者のホームページ(https://egosa24.web.fc2.com/)にも記載されています。",
+      "level" : "0",
+      "md5" : "a597752081cb02d716d0ed1e16f6a158",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "16e2abcebd493d0ad8a7f4d315ef2c9ac300ded542a5930f14c3bace3e88a684",
+      "submission" : 1291,
+      "title" : "！？ -Despair-",
+      "url" : "http://ofuton.tk/tarolabo/",
+      "url_diff" : "https://www.dropbox.com/s/yn4q0mk19tyz218/kantangimon_nanami01.bms?dl=0"
    },
    {
       "artist" : "STASTA TEKINA / obj:O",
@@ -13647,19 +13660,6 @@
       "voteYes" : 0
    },
    {
-      "artist" : "Yosk!",
-      "comment" : "同梱譜面、総合力",
-      "level" : "0",
-      "md5" : "c1a869dbb132dbfc87b87c220240276a",
-      "proposer" : "turbow",
-      "proposerMinirid" : "6ff4a3e0-3764-464e-ba27-37e10197ee2a",
-      "sha256" : "1b1c8e710bdadd132efbcf2f57c98e9e73ed3df6038fce5662f47f83f4f77410",
-      "submission" : 1257,
-      "title" : "Ceebu Yapp",
-      "url" : "https://drive.google.com/file/d/1Fxg3zMqhu-oZDJRhQ0uvtQfOeMw_lnpT",
-      "url_diff" : ""
-   },
-   {
       "artist" : "sak feat.みゅい BGI:球根 / OBJ:七海千秋",
       "comment" : "(2000+222)",
       "level" : "1",
@@ -13810,6 +13810,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "96ZUMMER pattern for some reason",
+      "comment" : "差分ファイル同梱の_PLEASE_read_me_(about volume).txtによると、アレンジ差分ですので、全てのズレは意図的です。",
+      "level" : "2",
+      "md5" : "c3ed78076de7b030a429289790119c0d",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "72bc98510619beafb54fa34c16b2543d3112cb75b653c3a9dc9c3b21903c9044",
+      "submission" : 1292,
+      "title" : "Angel Of Darkness -2016ReEdit- [for some reason]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=592&event=110",
+      "url_diff" : "https://fsrs.github.io/table.html"
    },
    {
       "artist" : "LeaF Movie:Optie / obj:1008",
@@ -14552,7 +14565,7 @@
    {
       "artist" : "ROKINA / C4 vs selene.",
       "comment" : "滅ぼされた次元",
-      "level" : "10",
+      "level" : "11",
       "md5" : "cfc197a4a61a57fe03a860f03b613d3a",
       "proposer" : "スノート",
       "proposerLr2id" : 86393,

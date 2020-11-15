@@ -140,47 +140,6 @@
       "url_diff" : "https://darksabun.github.io/Mary_Sue/"
    },
    {
-      "artist" : "Music Affairs Commission of the Democratic People's Republic of Korea obj. Kim Ax Hyun",
-      "comment" : "ラス殺し(笑)",
-      "level" : "1",
-      "md5" : "6ecd2a7a0223ce5dec3fb7756d03799b",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "e64f48e7975a73f5cd278cefac677c045166ed55cbd472a6ebf298f73b01c475",
-      "submission" : 1285,
-      "title" : "Praise Kim [Praise Luxury]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=38&event=132",
-      "url_diff" : "https://stellabms.xyz/upload/425",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "Radiogazer / И",
-      "comment" : "ガチ押し,開幕に簡単な譜面停止あり",
-      "level" : "4",
-      "md5" : "759e17522789c44e3fbc7da145f479a3",
-      "proposer" : "Mallow♪",
-      "proposerLr2id" : 154796,
-      "sha256" : "95984de1c311fc04f267cd76f0dd4c06e80fd98b09f764fc154e816845ed9084",
-      "submission" : 1266,
-      "title" : "Pure Caprice [Turn on the RADIO]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=129",
-      "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "Nephrite",
-      "comment" : "BPM191 軸、トリル",
-      "level" : "1",
-      "md5" : "84e1db1ff8c5d2cd1e4543cc811866fa",
-      "proposer" : "SHAX.",
-      "proposerLr2id" : 65624,
-      "sha256" : "1220d50a139973ed4cb4f24936f3c6692cdcac013299e9f8dbe49c8a49c69017",
-      "submission" : 1268,
-      "title" : "我武者羅 [黒]",
-      "url" : "http://mugenky.web.fc2.com/",
-      "url_diff" : ""
-   },
-   {
       "artist" : "Valentina G. obj:bms newbie",
       "comment" : "__your gaze.ca6yhとズレなし",
       "level" : "1",
@@ -223,18 +182,17 @@
       "voteYes" : 5
    },
    {
-      "artist" : "tkqn14 pattern for some reason",
-      "comment" : "連打",
-      "level" : "2",
-      "md5" : "ae36582758da96bb250dfe22d527b840",
+      "artist" : "tarolabo / obj:七海千秋",
+      "comment" : "ガチ押し。差分にゲーム性のために意図的なズレ(キー音の位置を変えたり、キー音を追加したりなどの)があります。 プレーには問題ないし、特に作者のホームページ(https://egosa24.web.fc2.com/)にも記載されています。",
+      "level" : "0",
+      "md5" : "a597752081cb02d716d0ed1e16f6a158",
       "proposer" : "MarySue",
       "proposerLr2id" : 147889,
-      "sha256" : "9e70f05cb13df7b898c5f375814a3981ce741096dff6d5b07fc1bd10ba4e9592",
-      "submission" : 1261,
-      "title" : "SCHREiKRiEG [for some reason]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=132",
-      "url_diff" : "https://fsrs.github.io/",
-      "zureCount" : 0
+      "sha256" : "16e2abcebd493d0ad8a7f4d315ef2c9ac300ded542a5930f14c3bace3e88a684",
+      "submission" : 1291,
+      "title" : "！？ -Despair-",
+      "url" : "http://ofuton.tk/tarolabo/",
+      "url_diff" : "https://www.dropbox.com/s/yn4q0mk19tyz218/kantangimon_nanami01.bms?dl=0"
    },
    {
       "artist" : "Cres / *8284* / hex obj.hex",
@@ -264,17 +222,17 @@
       "zureCount" : 0
    },
    {
-      "artist" : "甘党マニア obj:st",
-      "comment" : "st3~4 delay, ending recovery",
-      "level" : "3",
-      "md5" : "bf8a7ee32baa66472999688139c3a83e",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "5380db2886044052c7b0d7887f10a7371eceeb01f28c5a11755632976943304d",
-      "submission" : 1279,
-      "title" : "antilife (s-ther)",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=167&event=60",
-      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up3206.zip"
+      "artist" : "96ZUMMER pattern for some reason",
+      "comment" : "差分ファイル同梱の_PLEASE_read_me_(about volume).txtによると、アレンジ差分ですので、全てのズレは意図的です。",
+      "level" : "2",
+      "md5" : "c3ed78076de7b030a429289790119c0d",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "72bc98510619beafb54fa34c16b2543d3112cb75b653c3a9dc9c3b21903c9044",
+      "submission" : 1292,
+      "title" : "Angel Of Darkness -2016ReEdit- [for some reason]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=592&event=110",
+      "url_diff" : "https://fsrs.github.io/table.html"
    },
    {
       "artist" : "DJ Eye",
@@ -289,19 +247,6 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=132",
       "url_diff" : "https://bms.parksulab.xyz",
       "zureCount" : 0
-   },
-   {
-      "artist" : "TAK / 140 BMS Object Auto Placement Program α-Gorila",
-      "comment" : "BPM180 乱打",
-      "level" : "3",
-      "md5" : "d16c7593ea347836bbcb025e0a7a24be",
-      "proposer" : "SHAX.",
-      "proposerLr2id" : 65624,
-      "sha256" : "8bf9ab46db75af0d83eeda4fb689aa1c7e29d38e4905a4d267e53631984f08d8",
-      "submission" : 1267,
-      "title" : "Levitation [乱打ONLY]",
-      "url" : "https://web.archive.org/web/20070627015638/http://www.geocities.jp/inthesilentdream/bms/levitation.zip",
-      "url_diff" : "https://darksabun.github.io/sabun/Levitation_randa.zip"
    },
    {
       "artist" : "syatten + coda Sliced by bms newbie",

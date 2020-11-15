@@ -3588,7 +3588,7 @@
    },
    {
       "artist" : "paraoka / obj:NASA",
-      "level" : "1",
+      "level" : "2",
       "md5" : "25999666bc86cc9224524aae91956523",
       "proposer" : "Mallow♪",
       "proposerLr2id" : 154796,
@@ -7567,6 +7567,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "wa.",
+      "comment" : "同梱譜面/BOFU2012",
+      "level" : "0",
+      "md5" : "4ffbbd6e12dfbf9872794c526d14daac",
+      "proposer" : "TR1",
+      "proposerLr2id" : 152181,
+      "sha256" : "a7a5fe09e4068874df3127f2d9db0219aa172ebcf43bf29188d10f1f6581ecc3",
+      "submission" : 1691,
+      "title" : "幸せの在り方 -fall into the Morion- [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=124&event=83",
+      "url_diff" : ""
+   },
+   {
       "artist" : "litmus* as Ester movie:なおや / obj:SUZUKAZEΛ vs litmus*",
       "comment" : "BOFXV, 乱打, 高TOTAL",
       "level" : "0",
@@ -9871,6 +9884,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "HOUJIROU / BGA: hardlove / obj: BANZAI",
+      "comment" : "★22 LAST BOSS 약화 Ver.",
+      "level" : "6",
+      "md5" : "6a1bb0b1883c216308908f1ecd7069b9",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "de3bd3d4f7760008f403f7fc8804e30988b355980220839008361266a834481b",
+      "submission" : 1688,
+      "title" : "myste`re　 -BOSS-",
+      "url" : "http://houjirou.at-ninja.jp/",
+      "url_diff" : "http://page.freett.com/iidxbanzai/banzaisabun.html"
+   },
+   {
       "artist" : "陳 正平 obj:trainer",
       "comment" : "4-2 乱打 practice",
       "level" : "12",
@@ -10460,6 +10486,19 @@
       "title" : "多重極展開 [SP HYPER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=62&event=88",
       "url_diff" : ""
+   },
+   {
+      "artist" : "黒皇帝 Movie: Haight obj:kei_iwata",
+      "comment" : "同梱差分基準40小節の14番ノート、8X番ノートにズレがあります。だが8X番ノートは192分のズレでプレーには影響がほぼなさそうです。14番ノートのズレは24分ですが、元のノートがあった位置に同梱差分にはなかった(ディレイ)ノートが追加されています。あの24分のズレがなければディレイの中間に同時押しが出るので少し不自然な気がします。一種のゲーム性のためのアレンジだと見られます。",
+      "level" : "12",
+      "md5" : "70e3cfdbdcc317103ad3a00f30e5046d",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "c1e1cd45cfc0be060afe3681cfba690796772255841402e7fd83afda18bbe12c",
+      "submission" : 1687,
+      "title" : "Faurie [unmeasured]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=64&event=132",
+      "url_diff" : "https://stellabms.xyz/upload/356"
    },
    {
       "artist" : "川崎もっぺ obj.fhyu",
@@ -11250,6 +11289,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "uma feat. ましろ",
+      "comment" : "同梱譜面 /東方音弾遊戯8",
+      "level" : "0",
+      "md5" : "79feed2cbf54e5405a43e60392769dcf",
+      "proposer" : "TR1",
+      "proposerLr2id" : 152181,
+      "sha256" : "ec71cae073c34b5cd5e38e8a46fcac70fb067b160be72f8e85aeee22d37c4d26",
+      "submission" : 1690,
+      "title" : "Love☆Spellcard",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=118",
+      "url_diff" : ""
+   },
+   {
       "artist" : "tetorimino",
       "comment" : "ガチ押し",
       "level" : "12",
@@ -11996,6 +12048,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "nmk obj ラピス",
+      "comment" : "後半難",
+      "level" : "1",
+      "md5" : "81839357338ee1b1b564da1de0413ca4",
+      "proposer" : "lolhl",
+      "proposerLr2id" : 89076,
+      "sha256" : "40d0b30cd8e05a650dd3d90c4c42a1cd3e11bfd7767a12bcdde5b64594d1a578",
+      "submission" : 1692,
+      "title" : "sola -ブリリアントドラゴンバレッタ-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=44&event=92",
+      "url_diff" : "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html"
+   },
+   {
       "artist" : "Freezer feat. 妃苺/obj:赤い人",
       "comment" : "同時押し、皿複合",
       "level" : "10",
@@ -12094,6 +12159,20 @@
       "title" : "locked girl@Scarlet-Devils Palace [D-HYPER]",
       "url" : "http://wayback.archive.org/web/20150723062313/http://page.freett.com/ykyk00/",
       "url_diff" : "http://www.dropbox.com/s/0fuhg1ib8qfrawq/_D_H.bms"
+   },
+   {
+      "artist" : "Reku Mochizuki obj:SUZUKAZEΛ",
+      "comment" : "同時押し等。",
+      "level" : "3",
+      "md5" : "8313bb4ec8cf14d96390cb77fbcc8ce7",
+      "proposer" : "quinto",
+      "proposerLr2id" : 141043,
+      "sha256" : "8da614508ea427d104a6dfdbaaa803c9e86779a5f877551b0bb63bdb0f43839c",
+      "submission" : 1685,
+      "title" : "Yorixiro [ZOI]",
+      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=5&order=reg&odtype=a",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+      "zureCount" : 0
    },
    {
       "artist" : "keyc / obj.ejl6",
@@ -13315,6 +13394,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Sakamiya feat.一花 img:ttv obj:Restia",
+      "comment" : "乱打と同時押し、いろいろ",
+      "level" : "4",
+      "md5" : "92151c1e4c0a1136358f63f0defea447",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "0147ee93fb9d077750227c2274c47ad32af5c2f492a435f4adcddcf59aa4c82f",
+      "submission" : 1686,
+      "title" : "Impulse of destruction [AbNormal]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=89&event=132",
+      "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpyl0ofhY1DJQpA-Jip?e=zhmVnd",
+      "zureCount" : 0
+   },
+   {
       "artist" : "kohaxy",
       "comment" : "第二回BMS衆議院選、縦連、トリル",
       "level" : "0",
@@ -13681,7 +13774,7 @@
    {
       "artist" : "遠足でOdinみたいになっている人",
       "comment" : "sl3~4 (同梱譜面, ズレ)",
-      "level" : "3",
+      "level" : "4",
       "md5" : "95ebb3522c510f78e4fd4728ca5c33e3",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -18169,6 +18262,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Yosk!",
+      "comment" : "from Stella",
+      "level" : "12",
+      "md5" : "c1a869dbb132dbfc87b87c220240276a",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "1b1c8e710bdadd132efbcf2f57c98e9e73ed3df6038fce5662f47f83f4f77410",
+      "submission" : 1683,
+      "title" : "Ceebu Yapp",
+      "url" : "https://drive.google.com/file/d/1Fxg3zMqhu-oZDJRhQ0uvtQfOeMw_lnpT",
+      "url_diff" : ""
+   },
+   {
       "artist" : "うまるつふり/obj.sitoras",
       "comment" : "うまるつふり god",
       "level" : "7",
@@ -18525,6 +18631,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "くっちー vs あっきー/ 差分 赤い人",
+      "comment" : "sl 5～6？",
+      "level" : "6",
+      "md5" : "c6742e99eaa4be964187a5f9c4b52d1c",
+      "proposer" : "quinto",
+      "proposerLr2id" : 141043,
+      "sha256" : "d7aad467ebd0d771f8df11a884b7c0973a73e458fe21a7fcf3d70dc5b213a71a",
+      "submission" : 1684,
+      "title" : "Yakumo >>JOINT STRUGGLE [HARDEST]",
+      "url" : "http://wayback.archive.org/web/20160331191446/http://big.freett.com/ykyk00/k4_yakumo_ogg.rar",
+      "url_diff" : "http://akred.web.fc2.com/ak-red.html",
+      "zureCount" : 0
    },
    {
       "artist" : "すぎ",
@@ -19283,6 +19403,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "polysha remixed by tcheb / mov : murotani / selene.",
+      "comment" : "low speed 플로팅가능 High BPM 폭타 연습에도 좋다고 봅니다.",
+      "level" : "3",
+      "md5" : "cd7899ae496b09a4b1c45ce8da1962b9",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "a28d07c6726fe1250c93f43c7308a2345da0ba9fa18e2ef69a280a1c6fd84f16",
+      "submission" : 1689,
+      "title" : "Castor -tcheb HD-WLZ Remix- -Twilight-",
+      "url" : "https://dl.dropboxusercontent.com/s/km53390k4hyhtu6/CastorRMX%5Bogg%5D.zip",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04279"
    },
    {
       "artist" : "Frums Obj.Triforce",
