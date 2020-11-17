@@ -4418,6 +4418,18 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Snail's House",
+      "level" : "0",
+      "md5" : "2eacf29b405fa0da494b2e449352e1ae",
+      "proposer" : "lolhl",
+      "proposerLr2id" : 89076,
+      "sha256" : "70ddb726a044ed3d30a1c90bad304be1597710865011fff4a9df94ba13cbfcc1",
+      "submission" : 1698,
+      "title" : "Pyon Pyon Cafeteria [BITTER]",
+      "url" : "https://drive.google.com/file/d/143p7GvNu2tA3nUcz0jnQ5hHG6fMJMCxi/view?usp=sharing",
+      "url_diff" : "https://drive.google.com/file/d/1Genji62CQkueLf2oLt9QwAOWHvZhAQEs/view?usp=sharing"
+   },
+   {
       "artist" : "CELLON. (anubasu-anubasu)/さ",
       "comment" : "物量",
       "level" : "11",
@@ -14206,6 +14218,20 @@
       "zureCount" : 0
    },
    {
+      "artist" : "tolz feat.音街ウナ object:iLiss.",
+      "comment" : "LN",
+      "level" : "0",
+      "md5" : "9a80ac4157c43de63a575179469334bc",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "b0b27f4c788991c96b97fa64b34f6e982c6a176e515dbdfa75f25033a4add689",
+      "submission" : 1697,
+      "title" : "Telescope -RAINBOW ANOTHER-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=126",
+      "url_diff" : "https://stellabms.xyz/upload/409",
+      "zureCount" : 0
+   },
+   {
       "artist" : "ZUN remixed by LeaF Movie:Optie/Illust:セシル◇タイト / obj. DK",
       "level" : "3",
       "md5" : "9a8937eb993fa8d8b9206c46b5782f4d",
@@ -21212,6 +21238,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "牧野 pattern for some reason",
+      "comment" : "ズレ、乱打",
+      "level" : "4",
+      "md5" : "e1f07bdc8f336c18afa025ff978b6b4a",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "2ca6b96d54f46dfd45d00ab031afa8fe52dd0d0bef1a7da53caf777499d4880f",
+      "submission" : 1696,
+      "title" : "miracle romance [reasonable]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=312&event=127",
+      "url_diff" : "https://fsrs.github.io/table.html",
+      "zureCount" : 0
    },
    {
       "artist" : "litmus* / movie : Kazari obj:SUZUKAZEΛ",

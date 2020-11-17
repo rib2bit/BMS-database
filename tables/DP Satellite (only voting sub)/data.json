@@ -71,6 +71,48 @@
       "zureCount" : 0
    },
    {
+      "artist" : "MUE / mov : Lyrebird Ferdinant obj: shiba",
+      "comment" : "ズレ、認識難、片手発狂",
+      "level" : "10",
+      "md5" : "badd87bc03a1b5657c4f9061e3bbd083",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "56aa264516930fda7651d997914025fe051f1004b6d137550395fcbd2d24afdb",
+      "submission" : 429,
+      "title" : "Danse de Romani",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=104",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/998",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "Remixed by ⑮ / obj:sagoo BGA:えらる",
+      "comment" : "物量、同時押し、連打",
+      "level" : "9",
+      "md5" : "bb6a930e363d407b7879b34ad8beccca",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "b81c3da7a2a3a69fd3f9804c2df54431b8d715c8733862e01cc65a612bd5cd34",
+      "submission" : 428,
+      "title" : "TakeTrans [DP-sagINSANE]",
+      "url" : "https://www.dropbox.com/s/6wxa5c6tmpw40aq/taketrans.rar",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/986",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "Qayo obj:LIEF",
+      "comment" : "同時押し、物量",
+      "level" : "4",
+      "md5" : "c8165d170ccb541a766ce33a74d284a7",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "a6b889cae7ac16b4c0f422b900e7dc9c2fb80b323c32f64111f0e53a65810180",
+      "submission" : 427,
+      "title" : "S'il vous plait! [DP_Li]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=54&event=132",
+      "url_diff" : "https://yaruki0.net/sabun/WW1.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Shaman Cure-All / obj:2y",
       "level" : "2",
       "md5" : "df3e947f0886e96f59760f8ed2ef38b8",
