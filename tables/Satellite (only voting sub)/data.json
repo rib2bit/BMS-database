@@ -1,5 +1,18 @@
 [
    {
+      "artist" : "Sakamiya feat.遊左 未 img:moyura",
+      "comment" : "同梱譜面、BOFU2016、乱打",
+      "level" : "1",
+      "md5" : "022ed61d7efcf1f0fcd2931b81703b4a",
+      "proposer" : "蛇弐御琉",
+      "proposerLr2id" : 161639,
+      "sha256" : "f5aab3ce442a9ba54eb2ae5cb6f9d267686afac813b799a3b606265e71ffadba",
+      "submission" : 1700,
+      "title" : "Suffering of screw [BlackAnother]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=105&event=110",
+      "url_diff" : ""
+   },
+   {
       "artist" : "The Lovers / obj:あーさん",
       "level" : "3",
       "md5" : "084ac4e2a39f3ac39420af43b9472eb7",
@@ -219,6 +232,19 @@
       "title" : "myste`re　 -BOSS-",
       "url" : "http://houjirou.at-ninja.jp/",
       "url_diff" : "http://page.freett.com/iidxbanzai/banzaisabun.html"
+   },
+   {
+      "artist" : "nmk feat.かなえゆめ mov:わっふゑ",
+      "comment" : "BOFU2015、同梱譜面、乱打、トリル",
+      "level" : "1",
+      "md5" : "6b6c91af8f9546ea8fcd65a6023ed0d5",
+      "proposer" : "蛇弐御琉",
+      "proposerLr2id" : 161639,
+      "sha256" : "1caa507293affbcccc36c5d24c0a828e297eb8e70da643c040a0485eec3cc0b6",
+      "submission" : 1699,
+      "title" : "あさつゆ",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=221&event=104",
+      "url_diff" : ""
    },
    {
       "artist" : "うえつ氏 / obj:けえ氏",
