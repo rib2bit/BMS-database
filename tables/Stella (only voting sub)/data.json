@@ -326,6 +326,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "カラフル・サウンズ・ポート/ 差分　赤い人",
+      "comment" : "BPM298の16分相当のｴﾀｰﾅﾙﾃﾞｨﾚｲ　同梱A譜面と比較すると14個のズレがありますが、同じ差分作者によるeternal_drain_deraymasterと比べるとズレなしなのでアレンジかと思われます",
+      "level" : "3",
+      "md5" : "f7313cd04f913c2c6cfd3a9a23662eed",
+      "proposer" : "ふかけん",
+      "proposerLr2id" : 145204,
+      "sha256" : "1b02c50586fd104a0aa0f7b67f043d74a255b92d52fba1e42465f0586b9da4e5",
+      "submission" : 1297,
+      "title" : "ETERNAL DRAIN (ETERNAL DELAYMASTER＋)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=276&event=74",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/eternal_drain_deraymasterplus.bms"
+   },
+   {
       "artist" : "Lokan",
       "comment" : "BPM\t127 - 145 連打複合",
       "level" : "4",
