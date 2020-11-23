@@ -553,6 +553,20 @@
       "url_diff" : ""
    },
    {
+      "artist" : "zun remixed by 鈎兎(KagiUsagi) / obj: Lennon",
+      "comment" : "皿複合,同時押し,乱打",
+      "level" : "10",
+      "md5" : "b24188498a91ed9c75d65cc572202874",
+      "proposer" : "Mallow♪",
+      "proposerLr2id" : 154796,
+      "sha256" : "2e92db272f97674ee4774989d396a11aae1b60b0d390c7cce6d4460423603a38",
+      "submission" : 1704,
+      "title" : "偶像に世界を委ねて(起死回生RMX) -Last Battle-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=29&event=129",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Iridium. Vanessa",
       "comment" : "THE地力 sl1~2?",
       "level" : "1",
@@ -591,6 +605,19 @@
       "title" : "Castor -tcheb HD-WLZ Remix- -Twilight-",
       "url" : "https://dl.dropboxusercontent.com/s/km53390k4hyhtu6/CastorRMX%5Bogg%5D.zip",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04279"
+   },
+   {
+      "artist" : "Lxiqy Obj: Toby",
+      "comment" : "ズレ・縦連打",
+      "level" : "7",
+      "md5" : "d53f6a5ad2dd0a804567c2ef84189976",
+      "proposer" : "AYhaz",
+      "proposerLr2id" : 123475,
+      "sha256" : "9eb3cc7a9ed2661814f8226033657ae5ba372f6a359084b2a65f9126d2645c1d",
+      "submission" : 1703,
+      "title" : "Reptile Dance [Tob]",
+      "url" : "https://www.dropbox.com/s/xky2a2kwvg7jtky/lx_R_D.zip",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04806"
    },
    {
       "artist" : "LV.4 obj.Restia",

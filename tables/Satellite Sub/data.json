@@ -16659,6 +16659,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "zun remixed by 鈎兎(KagiUsagi) / obj: Lennon",
+      "comment" : "皿複合,同時押し,乱打",
+      "level" : "10",
+      "md5" : "b24188498a91ed9c75d65cc572202874",
+      "proposer" : "Mallow♪",
+      "proposerLr2id" : 154796,
+      "sha256" : "2e92db272f97674ee4774989d396a11aae1b60b0d390c7cce6d4460423603a38",
+      "submission" : 1704,
+      "title" : "偶像に世界を委ねて(起死回生RMX) -Last Battle-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=29&event=129",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "MALVA. vs. Venstant Illustration:Mare.S",
       "level" : "10",
       "md5" : "b27a10644c198b4c5c5e84c9ea31f309",
@@ -20092,6 +20106,19 @@
       "title" : "Black Lotus  [SP CHALLENGER+]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=138&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?mode=find&word=black+lotus+kuro"
+   },
+   {
+      "artist" : "Lxiqy Obj: Toby",
+      "comment" : "ズレ・縦連打",
+      "level" : "7",
+      "md5" : "d53f6a5ad2dd0a804567c2ef84189976",
+      "proposer" : "AYhaz",
+      "proposerLr2id" : 123475,
+      "sha256" : "9eb3cc7a9ed2661814f8226033657ae5ba372f6a359084b2a65f9126d2645c1d",
+      "submission" : 1703,
+      "title" : "Reptile Dance [Tob]",
+      "url" : "https://www.dropbox.com/s/xky2a2kwvg7jtky/lx_R_D.zip",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04806"
    },
    {
       "artist" : "美樹さやか vs. 美樹さやか (fw. 美樹さやか)/差分　赤い人 BGA ： 美樹さやか",
