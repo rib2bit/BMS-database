@@ -274,6 +274,22 @@
       "url_diff" : ""
    },
    {
+      "artist" : "juno & une Sliced by DAC",
+      "level" : "2",
+      "md5" : "6cd7805803e5dcbfea91b24de3fce017",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "ae6f719a96b8d2f8e226a364a64e5b4201190612918cf7f4ec873c7c6c69e308",
+      "submission" : 1553,
+      "title" : "The Beginnings [2k20 reinterpretation]",
+      "url" : "http://web.archive.org/web/20121017142020/http://www2.pf-x.net/~bforb/begin.lzh",
+      "url_diff" : "https://fsrs.github.io/sabun/M-SPIN/begin_2k20.zip",
+      "voteNeutral" : 5,
+      "voteNo" : 5,
+      "votePercent" : 50,
+      "voteYes" : 5
+   },
+   {
       "artist" : "うえつ氏 / obj:けえ氏",
       "comment" : "階段",
       "level" : "2",
