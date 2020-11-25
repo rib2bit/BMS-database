@@ -1984,22 +1984,6 @@
       "video3" : ""
    },
    {
-      "artist" : "qfeileadh (G2R2018) (パッケージ版はBGA非同梱のため会場の最新版を統合してください / overground > Team: えながのしっぽ)",
-      "comment" : "",
-      "level" : "3",
-      "md5" : "04e35d848b7c6cd5c0260050b32f3128",
-      "memo" : "見てない難易度",
-      "name_diff" : "propeller",
-      "no" : "31500",
-      "state" : "1",
-      "title" : "サカサマの空に在ったのは",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=123",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04682",
-      "video1" : "",
-      "video2" : "LC1M0mvDmfQ",
-      "video3" : ""
-   },
-   {
       "artist" : "Satsuki Akatsuka",
       "comment" : "TOTAL280",
       "level" : "12",
@@ -3501,6 +3485,22 @@
       "url_diff" : "https://pmsdifficulty.xxxxxxxx.jp/hokan/KARURA.zip",
       "video1" : "",
       "video2" : "T5mlIRYHRjg",
+      "video3" : ""
+   },
+   {
+      "artist" : "猫龍 feat.からちゃんぽん (movie : SHIKA)",
+      "comment" : "",
+      "level" : "16",
+      "md5" : "08d2cd49661a7f4c4dfeea2f30bd0f67",
+      "memo" : "",
+      "name_diff" : "propeller",
+      "no" : "40162",
+      "state" : "",
+      "title" : "うーろん!!うーろん!!",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=307&event=127",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04795",
+      "video1" : "",
+      "video2" : "FpMQQvCcdVE",
       "video3" : ""
    },
    {
@@ -5469,22 +5469,6 @@
       "url_diff" : "http://dossypms.web.fc2.com/",
       "video1" : "",
       "video2" : "YXEUSaRw9gY",
-      "video3" : ""
-   },
-   {
-      "artist" : "Columba (Daily vs Roon_kun) (東方音弾遊戯9 パッケージ)",
-      "comment" : "",
-      "level" : "6",
-      "md5" : "0e13a88d9c9389585d608a7e292608e1",
-      "memo" : "見てない難易度",
-      "name_diff" : "hokonekoqs (追加譜面)",
-      "no" : "31254",
-      "state" : "6",
-      "title" : "赤 (原曲: 天衣無縫)",
-      "url" : "http://nekonotsuka.com/ondan9/index.html",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04077",
-      "video1" : "",
-      "video2" : "",
       "video3" : ""
    },
    {
@@ -19824,6 +19808,22 @@
       "video3" : ""
    },
    {
+      "artist" : "qfeileadh (movie : 浪漫映像制作倶楽部)",
+      "comment" : "",
+      "level" : "3",
+      "md5" : "333af142795cb000cadf3957c85c6c93",
+      "memo" : "",
+      "name_diff" : "propeller",
+      "no" : "40163",
+      "state" : "",
+      "title" : "サカサマの空に在ったのは",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04797",
+      "video1" : "",
+      "video2" : "i1fpcgRSpcw",
+      "video3" : ""
+   },
+   {
       "artist" : "Sound Souler",
       "comment" : "TOTAL350 ",
       "level" : "15",
@@ -23276,7 +23276,7 @@
       "url" : "https://to12lz.github.io/mumeisen17/index.html",
       "url_diff" : "https://onedrive.live.com/?authkey=%21AJO2NU2mBK%5FmOzQ&id=C49AE7770F904A5C%2113453&cid=C49AE7770F904A5C",
       "video1" : "",
-      "video2" : "",
+      "video2" : "4bW7lOGxTzw",
       "video3" : ""
    },
    {
@@ -46160,22 +46160,6 @@
       "video3" : ""
    },
    {
-      "artist" : "竜。 feat.東北きりたん&結月ゆかり (A-1 CLIMAX 10TH)",
-      "comment" : "",
-      "level" : "査定中",
-      "md5" : "788d799bfebdbb4e48d348d86cb5de09",
-      "memo" : "",
-      "name_diff" : "propeller",
-      "no" : "40139",
-      "state" : "",
-      "title" : "あそぼ！あそぼ！",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=131",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04705",
-      "video1" : "",
-      "video2" : "StZUzDVfF7k",
-      "video3" : ""
-   },
-   {
       "artist" : "酸素小僧",
       "comment" : "準無理押しがアクセント。崩されやすい。",
       "level" : "4",
@@ -59648,22 +59632,6 @@
       "video3" : ""
    },
    {
-      "artist" : "Namiel (音弾9)",
-      "comment" : "",
-      "level" : "査定中",
-      "md5" : "9c2a1f07b0dc4990e06cd527e02d1b87",
-      "memo" : "",
-      "name_diff" : "propeller",
-      "no" : "40108",
-      "state" : "",
-      "title" : "Grimoire Judgment",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=129",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04703",
-      "video1" : "",
-      "video2" : "is6YtVH0qEk",
-      "video3" : ""
-   },
-   {
       "artist" : "rider",
       "comment" : "gamegameとIce flower Fire butterflyを足したような、ワラベステップ1.1倍速といった感じの譜面。ラスト前の密度が案外ばかにできないのでハードでどうにかしたほうが楽。",
       "level" : "11",
@@ -64237,22 +64205,6 @@
       "url_diff" : "http://stellawingroad.web.fc2.com/i/iriguti.html",
       "video1" : "",
       "video2" : "Oj3YuWQQmhY",
-      "video3" : ""
-   },
-   {
-      "artist" : "猫龍 feat.からちゃんぽん (BOFXV)",
-      "comment" : "",
-      "level" : "16",
-      "md5" : "a7cb0d69b7a9b658fce7efc0a0dcf7d1",
-      "memo" : "見てない難易度",
-      "name_diff" : "propeller",
-      "no" : "31501",
-      "state" : "1",
-      "title" : "うーろん!!うーろん!!",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=307&event=127",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04687",
-      "video1" : "",
-      "video2" : "3zpXCAcxAyE",
       "video3" : ""
    },
    {
@@ -75680,6 +75632,22 @@
       "video3" : ""
    },
    {
+      "artist" : "Namiel (movie : グーラン)",
+      "comment" : "",
+      "level" : "査定中",
+      "md5" : "c5dce2bf47f3ab6d9279e8e537a4687f",
+      "memo" : "",
+      "name_diff" : "propeller",
+      "no" : "40161",
+      "state" : "",
+      "title" : "Grimoire Judgment",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=129",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04794",
+      "video1" : "",
+      "video2" : "6lvl5ZO-0tI",
+      "video3" : ""
+   },
+   {
       "artist" : "awi",
       "comment" : "TOTAL220",
       "level" : "13",
@@ -78189,6 +78157,22 @@
       "url_diff" : "",
       "video1" : "",
       "video2" : "HxKpzEsZv9Y",
+      "video3" : ""
+   },
+   {
+      "artist" : "Columba (Daily vs Roon_kun) (東方音弾遊戯9 パッケージ)",
+      "comment" : "",
+      "level" : "6",
+      "md5" : "cc11704bc8e8b79f8e3afc12bf879c4c",
+      "memo" : "見てない難易度",
+      "name_diff" : "hokonekoqs (追加譜面)",
+      "no" : "31254",
+      "state" : "6",
+      "title" : "赤 (原曲: 天衣無縫)",
+      "url" : "http://nekonotsuka.com/ondan9/index.html",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04077",
+      "video1" : "",
+      "video2" : "",
       "video3" : ""
    },
    {
@@ -91885,6 +91869,22 @@
       "url_diff" : "http://dossypms.web.fc2.com/TMSAP.html",
       "video1" : "",
       "video2" : "",
+      "video3" : ""
+   },
+   {
+      "artist" : "竜。 feat.東北きりたん&結月ゆかり",
+      "comment" : "",
+      "level" : "査定中",
+      "md5" : "ecc10e226fa082cb6b44caee7837dae6",
+      "memo" : "",
+      "name_diff" : "propeller",
+      "no" : "40160",
+      "state" : "",
+      "title" : "あそぼ！あそぼ！",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=131",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04796",
+      "video1" : "",
+      "video2" : "eBAmb4T6X70",
       "video3" : ""
    },
    {
