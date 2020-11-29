@@ -5058,6 +5058,20 @@
       "url_diff" : "https://web.archive.org/web/20181009000322/http://www.geocities.jp/azerty1s/ext2/ikusa_a.zip"
    },
    {
+      "artist" : "saikoro",
+      "comment" : "2680超えノーツ、体力、地力。",
+      "level" : "5",
+      "md5" : "350779325d2f1a7f8b9afd6a86d18f5d",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "14f6e68d7af9fd256802c6575a7e6f88490f63ae11da6d490c70e7e7d90343ab",
+      "submission" : 1708,
+      "title" : "cadence [remind]",
+      "url" : "https://web.archive.org/web/20020926094917/http://www.digitaljunk.net/cadence.rar",
+      "url_diff" : "https://bms.parksulab.xyz",
+      "zureCount" : 0
+   },
+   {
       "artist" : "xenothium remixed by gmtn. obj:Fender",
       "comment" : "乱打",
       "level" : "4",
@@ -17651,7 +17665,7 @@
    {
       "artist" : "TK pattern for some reason",
       "comment" : "sl11のOut of the System[for some reason]が少し珍しい譜面だったのでそれの練習用で",
-      "level" : "2",
+      "level" : "3",
       "md5" : "bb03dbe967d34b7b32e0d738919c268e",
       "proposer" : "MarySue",
       "proposerLr2id" : 147889,
@@ -18293,6 +18307,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "ねこみりん scolded by 小宮真央 Movie:むらしん obj:七海千秋",
+      "comment" : "乱打、同時押し、皿も少しあります。",
+      "level" : "4",
+      "md5" : "bffb19888ee064851afa21a28477075e",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "012bdf5694c12bdd5223d5f35734bf3110b88b05d08387c8d9f747744b930f48",
+      "submission" : 1709,
+      "title" : "timeleeeess!!! -Hope-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=396&event=123",
+      "url_diff" : "https://www.dropbox.com/s/fd3tc49q59493i4/_99_nekomirin_timeless_nanami01.bme?dl=0",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Ark-Z  Illustration by 春雨 / obj:BAECON",
       "comment" : "トリル等",
       "level" : "7",
@@ -18670,6 +18698,19 @@
       "title" : "Love Blood [BLOODY]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=59&event=76",
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
+   },
+   {
+      "artist" : "Envy Obj : JGh",
+      "comment" : "BPM132 乱打",
+      "level" : "0",
+      "md5" : "c4395ba6c16bfacea8bf2e70babd0796",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "f45b8242a90a21f104038878a99e11c10879bc7991a9b27cd533c33e8a44782f",
+      "submission" : 1710,
+      "title" : "Odd Eye [SP ANOTHER]",
+      "url" : "http://l-bms.space/",
+      "url_diff" : ""
    },
    {
       "artist" : "Linne X SCTL Visualized by Keiyuu & RED-FOX / obj:monaka",
@@ -20449,7 +20490,7 @@
    {
       "artist" : "kei_iwata Illust:morph/ BGA&obj:qfeileadh",
       "comment" : "7~8?",
-      "level" : "8",
+      "level" : "9",
       "md5" : "d8a2719afd4a0649028f06d8850c437d",
       "proposer" : "MineC24",
       "proposerLr2id" : 84597,

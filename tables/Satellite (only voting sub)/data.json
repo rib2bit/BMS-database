@@ -13,22 +13,6 @@
       "url_diff" : ""
    },
    {
-      "artist" : "The Lovers / obj:あーさん",
-      "level" : "3",
-      "md5" : "084ac4e2a39f3ac39420af43b9472eb7",
-      "proposer" : "MarySue",
-      "proposerLr2id" : 147889,
-      "sha256" : "5ba1c126103860731868f4397182fc910f956b8b0c7d18f97a579e862ed0f33d",
-      "submission" : 362,
-      "title" : "虹微笑x1肌色扇情扇情",
-      "url" : "http://tm2.toymusical.net/download.html",
-      "url_diff" : "http://drowsy.hannnari.com/toy.html",
-      "voteNeutral" : 0,
-      "voteNo" : 6,
-      "votePercent" : 60,
-      "voteYes" : 9
-   },
-   {
       "artist" : "U.N.E. BGI：Violpa",
       "comment" : "sl4~5?",
       "level" : "5",
@@ -40,20 +24,6 @@
       "title" : "天界で紡ぐは正義の調べ †星の如く輝く者†",
       "url" : "https://sites.google.com/view/yuruyurubms/phase-1",
       "url_diff" : "",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "siqlo BGA:八重幸 / obj : BAECON + 七海",
-      "comment" : "色々な属性のある地力譜面です",
-      "level" : "7",
-      "md5" : "10501fa63ec75d2150be114d0f284011",
-      "proposer" : "MarySue",
-      "proposerLr2id" : 147889,
-      "sha256" : "d0609baf4a9e836e1c5f44137e3a806ae3f5dd6beb170302d802ac3da5dd47b9",
-      "submission" : 1650,
-      "title" : "Dual Personality [Binary Nexus]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=132",
-      "url_diff" : "https://www.dropbox.com/s/hsokg6c4gnq7jy5/dp_bn.zip?dl=1",
       "zureCount" : 0
    },
    {
@@ -97,20 +67,6 @@
       "zureCount" : 0
    },
    {
-      "artist" : "er obj:SUZUKAZEΛ",
-      "comment" : "ガチ押し、2連打、二重階段。bpm:135, Notes:1744, Total:380。同梱未配置(_newearth)とズレ無し。同梱[ANOTHER7]と比べると微ズレ同時押しが無いので見やすい。",
-      "level" : "1",
-      "md5" : "16ad289f62383c1a69ffa5486bef46e9",
-      "proposer" : "ﾐﾅﾐｺｱﾘｸｲ",
-      "proposerLr2id" : 119698,
-      "sha256" : "72f46d653b71057e21ef4deaee0b4ad57ee536a4f356ed9c5b3d75b64622a515",
-      "submission" : 1656,
-      "title" : "new earth [ZOI]",
-      "url" : "https://dropbox.bms.ms/u/28765267/er_new-earth.zip",
-      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
-      "zureCount" : 0
-   },
-   {
       "artist" : "OTS Obj.Triforce",
       "level" : "0",
       "md5" : "26eab7f5cfd2aa248c55334c3242e619",
@@ -121,22 +77,6 @@
       "title" : "Bonus Time [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=104",
       "url_diff" : ""
-   },
-   {
-      "artist" : "Dachs / Movie : わっふゑ obj.Mallow♪",
-      "level" : "8",
-      "md5" : "2e0b721babb8fb62ce977c23c9f364f9",
-      "proposer" : "氷城つるぎ",
-      "proposerLr2id" : 151185,
-      "sha256" : "fdab57e33bc50e9a9fad8dbe5d8f00ec409d79a76ba23595ae311cba16c1b05d",
-      "submission" : 1294,
-      "title" : "MOBILYS [Endymion (fixed)]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=24&event=127",
-      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
-      "voteNeutral" : 1,
-      "voteNo" : 0,
-      "votePercent" : 95,
-      "voteYes" : 9
    },
    {
       "artist" : "Snail's House",
@@ -151,6 +91,20 @@
       "url_diff" : "https://drive.google.com/file/d/1Genji62CQkueLf2oLt9QwAOWHvZhAQEs/view?usp=sharing"
    },
    {
+      "artist" : "saikoro",
+      "comment" : "2680超えノーツ、体力、地力。",
+      "level" : "5",
+      "md5" : "350779325d2f1a7f8b9afd6a86d18f5d",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "14f6e68d7af9fd256802c6575a7e6f88490f63ae11da6d490c70e7e7d90343ab",
+      "submission" : 1708,
+      "title" : "cadence [remind]",
+      "url" : "https://web.archive.org/web/20020926094917/http://www.digitaljunk.net/cadence.rar",
+      "url_diff" : "https://bms.parksulab.xyz",
+      "zureCount" : 0
+   },
+   {
       "artist" : "sctl Visualized by raw_PNG / obj: 35",
       "level" : "0",
       "md5" : "363f1f0e8201f211774942691ab69e0c",
@@ -163,31 +117,20 @@
       "url_diff" : ""
    },
    {
-      "artist" : "eicateve / Mentalstock obj:七海",
-      "comment" : "eicateve flavor banana man",
-      "level" : "5",
-      "md5" : "3e601bd3f34ac8a247045da0e442f011",
-      "proposer" : "Restia",
-      "proposerLr2id" : 115265,
-      "sha256" : "b05c4f18b3efd84fe0d9f854afb7bf55d1c9f4087a92902a50b34ffb0c7f4848",
-      "submission" : 1659,
-      "title" : "Gun to Childhead -Despair-",
-      "url" : "http://sunaneko.iptime.org/BMS_Library/Gun%20to%20Childhead%20%28by%20eicateve%ef%bc%8fMentalstock%29.rar",
-      "url_diff" : "https://www.dropbox.com/s/rrzn1jkbnkwdpoi/gunto_nanami.zip?dl=1",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "yanagi",
-      "comment" : "armaisu7.bxe -> armaisu7.bme",
-      "level" : "1",
-      "md5" : "4bbdcf1a6299f13a91e99a5475f92c66",
-      "proposer" : "|/|",
-      "proposerLr2id" : 147895,
-      "sha256" : "db2cdb3b0e8bf422700a5f74b21d71badb0b26901dfeae41fb28f649c55d5e1e",
-      "submission" : 1701,
-      "title" : "Armais (u7)",
-      "url" : "https://web.archive.org/web/20011204232510/http://yanagi.ash.jp/strage/armais.rar",
-      "url_diff" : ""
+      "artist" : "黒皇帝 Movie: Haight",
+      "level" : "0",
+      "md5" : "3a82138a8989ca0b313f44805074bb40",
+      "proposer" : "bluemouse",
+      "proposerMinirid" : "38b6fd3c-5f86-4e87-aef8-3f9952471580",
+      "sha256" : "4567491cf1795ce324da79802eae6432b8cbe35aead2f6cc3eb4a17d1a9db85f",
+      "submission" : 1588,
+      "title" : "Faurie [HYPER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=64&event=132",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 1
    },
    {
       "artist" : "wa.",
@@ -276,19 +219,6 @@
       "voteYes" : 5
    },
    {
-      "artist" : "うえつ氏 / obj:けえ氏",
-      "comment" : "階段",
-      "level" : "2",
-      "md5" : "6ef4c0c3960f4a5badd748f0b579399c",
-      "proposer" : "lolhl",
-      "proposerLr2id" : 89076,
-      "sha256" : "7c71bd81599e0dac990db6a8e1c96f30b8fa348f2756a5649e8784f89da7513c",
-      "submission" : 1661,
-      "title" : "天空の城ヴェリエル [ANOTHER]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=156&event=83",
-      "url_diff" : ""
-   },
-   {
       "artist" : "黒皇帝 Movie: Haight obj:kei_iwata",
       "comment" : "同梱差分基準40小節の14番ノート、8X番ノートにズレがあります。だが8X番ノートは192分のズレでプレーには影響がほぼなさそうです。14番ノートのズレは24分ですが、元のノートがあった位置に同梱差分にはなかった(ディレイ)ノートが追加されています。あの24分のズレがなければディレイの中間に同時押しが出るので少し不自然な気がします。一種のゲーム性のためのアレンジだと見られます。",
       "level" : "12",
@@ -329,19 +259,6 @@
       "zureCount" : 0
    },
    {
-      "artist" : "Ym1024 feat. lamie* / obj.siokaze",
-      "comment" : "delay",
-      "level" : "2",
-      "md5" : "899434561415ad75dc9940f4f1f45c4a",
-      "proposer" : "lolhl",
-      "proposerLr2id" : 89076,
-      "sha256" : "2523582abd640ab200d28b4446503ef1263359ec8d1b42e6f813268c1e551717",
-      "submission" : 1662,
-      "title" : "starless [Delay]",
-      "url" : "http://yellowmapleleaf.com/",
-      "url_diff" : "http://siokazebms.web.fc2.com/"
-   },
-   {
       "artist" : "U-hey　BGA:ユウノ",
       "comment" : "同梱譜面/BOFU2015",
       "level" : "0",
@@ -369,32 +286,6 @@
       "zureCount" : 0
    },
    {
-      "artist" : "roop obj:R1N",
-      "level" : "2",
-      "md5" : "9286a22f7578d3c871ed011fb6992c74",
-      "proposer" : "|/|",
-      "proposerLr2id" : 147895,
-      "sha256" : "da22ef85cd9b2c927b0e636d5c2c46718955eb99b9094bcb9ac3ff7dc2b3d45b",
-      "submission" : 1655,
-      "title" : "NEW SOUND PARADISE [7A]",
-      "url" : "https://roopdesign.net/post/34827532860/roop-bms-works-2004-2012",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04588",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "Re-Te obj.Mallow♪",
-      "comment" : "差分ファイル同梱の_readmeによると、元譜面のキー音を少しいアレンジした譜面です。プレーには問題なし。",
-      "level" : "8",
-      "md5" : "92c48ee11e5c2393b7349812fdb4b132",
-      "proposer" : "MarySue",
-      "proposerLr2id" : 147889,
-      "sha256" : "2244987fd6f1b02cb8937ce1cb26a0e08d1874bc2d3a40fd854880142d82323d",
-      "submission" : 1651,
-      "title" : "Emit [Emotional]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=131&event=88",
-      "url_diff" : "https://drive.google.com/drive/u/0/folders/1NwG1RAKMGw_47NPdAM4GLnAKQPP_oPXe"
-   },
-   {
       "artist" : "tolz feat.音街ウナ object:iLiss.",
       "comment" : "LN",
       "level" : "0",
@@ -420,47 +311,6 @@
       "title" : "Upshift [A-modified]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=355&event=123",
       "url_diff" : "https://stellabms.xyz/upload/329",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "AOiRO_Manbow with kagerow obj.puppy",
-      "comment" : "01_dreamin_happycore-n.pmsとズレなし",
-      "level" : "6",
-      "md5" : "9dec1b7a3dfadda7b3c6bb5e013af494",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "f42b06e8dd2e04359a9dccfaf8c4860d6a2b16bc15dce912a02c7016135c6ce9",
-      "submission" : 1652,
-      "title" : "dreamin' -happycore version - [Sweet Dream]",
-      "url" : "http://tm2.toymusical.net/download.html",
-      "url_diff" : "https://stellabms.xyz/upload/406"
-   },
-   {
-      "artist" : "Mr.K obj:SUZUKAZEΛ",
-      "comment" : "Xeus!!!",
-      "level" : "5",
-      "md5" : "a34cc2170bd381182f1344d215426675",
-      "proposer" : "Restia",
-      "proposerLr2id" : 115265,
-      "sha256" : "2e90027e1ee8d62ad7aca0fd27627197da581fd5ad61873d0473f037fbaccedf",
-      "submission" : 1657,
-      "title" : "xeusonic [ZOI]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=132",
-      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "mocha / obj: Lennon",
-      "comment" : "BPM126 Jacks, 100min Fumen Cooking!!",
-      "level" : "2",
-      "md5" : "a38fcd8a5d6779fea4de309e8d613bd3",
-      "proposer" : "|/|",
-      "proposerLr2id" : 147895,
-      "sha256" : "1108f0286b36ad2856e60f44a458ef9ff21c1cb5eb8105eb1e4f243fb9f0f63a",
-      "submission" : 1663,
-      "title" : "Saudade -nostalgia-",
-      "url" : "http://diverse.jp/dbhtml/download.html",
-      "url_diff" : "https://stellabms.xyz/upload/377",
       "zureCount" : 0
    },
    {
@@ -516,32 +366,6 @@
       "url_diff" : ""
    },
    {
-      "artist" : "カラフル・サウンズ・ポート",
-      "comment" : "sl0~1? normal判定",
-      "level" : "0",
-      "md5" : "acfd0a55a9cf1555b93c58eaef705c39",
-      "proposer" : "bluemouse",
-      "proposerMinirid" : "38b6fd3c-5f86-4e87-aef8-3f9952471580",
-      "sha256" : "7e21693a2ce0ff8f174b9bbcb7ca9727ea0a8bd5f11eef245f2650d7b8f7c677",
-      "submission" : 1675,
-      "title" : "Close the Lights (ANOTHER)",
-      "url" : "http://www1.axfc.net/uploader/H/so/97121",
-      "url_diff" : ""
-   },
-   {
-      "artist" : "Trantech",
-      "comment" : "BPM183 難しいリズム",
-      "level" : "3",
-      "md5" : "ae144b9cc70fb49a955178f3a443e0a1",
-      "proposer" : "SHAX.",
-      "proposerLr2id" : 65624,
-      "sha256" : "ca9dd0d0054890522b6d49fd1010022ef401943012e4c10284875bd58876aaa4",
-      "submission" : 1648,
-      "title" : "Aleph (BMS Edit.)",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=69&event=131",
-      "url_diff" : ""
-   },
-   {
       "artist" : "zun remixed by 鈎兎(KagiUsagi) / obj: Lennon",
       "comment" : "皿複合,同時押し,乱打",
       "level" : "10",
@@ -556,16 +380,30 @@
       "zureCount" : 0
    },
    {
-      "artist" : "Iridium. Vanessa",
-      "comment" : "THE地力 sl1~2?",
-      "level" : "1",
-      "md5" : "c1a1bd1382d8b45d96f03e3913ab5ef0",
-      "proposer" : "Routine",
-      "proposerMinirid" : "18f9c0d2-c4ff-4653-8c7a-8909c70f67ca",
-      "sha256" : "a7ca58c75ef39fe9ebf6da8ef147059174c574638eeca0ea1dcb963bf982fdcb",
-      "submission" : 1654,
-      "title" : "Hades (Radio Edit) SP Black Another",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=205&event=74",
+      "artist" : "ねこみりん scolded by 小宮真央 Movie:むらしん obj:七海千秋",
+      "comment" : "乱打、同時押し、皿も少しあります。",
+      "level" : "4",
+      "md5" : "bffb19888ee064851afa21a28477075e",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "012bdf5694c12bdd5223d5f35734bf3110b88b05d08387c8d9f747744b930f48",
+      "submission" : 1709,
+      "title" : "timeleeeess!!! -Hope-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=396&event=123",
+      "url_diff" : "https://www.dropbox.com/s/fd3tc49q59493i4/_99_nekomirin_timeless_nanami01.bme?dl=0",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "Envy Obj : JGh",
+      "comment" : "BPM132 乱打",
+      "level" : "0",
+      "md5" : "c4395ba6c16bfacea8bf2e70babd0796",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "f45b8242a90a21f104038878a99e11c10879bc7991a9b27cd533c33e8a44782f",
+      "submission" : 1710,
+      "title" : "Odd Eye [SP ANOTHER]",
+      "url" : "http://l-bms.space/",
       "url_diff" : ""
    },
    {
@@ -636,20 +474,6 @@
       "url_diff" : "https://stellabms.xyz/upload/358"
    },
    {
-      "artist" : "SC.Kanata/Original:KRD8(composed:Tomohiro Murakami) / obj. Tristan97",
-      "comment" : "BPM146 乱打+α",
-      "level" : "8",
-      "md5" : "dfa3d661a39566f0abc6502ca03a37ce",
-      "proposer" : "SHAX.",
-      "proposerLr2id" : 65624,
-      "sha256" : "f0b46f3fa50707c3af756bd4f3f0fa170e5a0f26eb7d695580fab9ddc251ec36",
-      "submission" : 1649,
-      "title" : "キボウノヒカリ (SC.Kanata Redecorate) [Lollipop]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=43&event=131",
-      "url_diff" : "https://drive.google.com/file/d/10HIpt1bN-oI2z_Zp0rtuAcrcIH4s3E5K/view?usp=sharing",
-      "zureCount" : 0
-   },
-   {
       "artist" : "牧野 pattern for some reason",
       "comment" : "ズレ、乱打",
       "level" : "4",
@@ -688,21 +512,5 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=332&event=104",
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
       "zureCount" : 0
-   },
-   {
-      "artist" : "ueotan / kefia / obj.mn",
-      "level" : "8",
-      "md5" : "fe06e7af1ffce52f334eb8161c71ed99",
-      "proposer" : "けーちゃん",
-      "proposerLr2id" : 137190,
-      "sha256" : "36af240a04c89b26a346c737e2bf075c2d64ee8044507da4a17f0b12a05bdc1a",
-      "submission" : 1340,
-      "title" : "夢幻城デクシア [delay_beginner]",
-      "url" : "https://mega.nz/#F!FNFDCQaT!wfv-iI4UuSIaGpP0oFZdtQ?cZsGUIAC",
-      "url_diff" : "http://stairway.sakura.ne.jp/dosukoi/",
-      "voteNeutral" : 4,
-      "voteNo" : 1,
-      "votePercent" : 72.7272727272727,
-      "voteYes" : 6
    }
 ]

@@ -1059,6 +1059,18 @@
       "url_diff" : "http://lapisbms.xyz"
    },
    {
+      "artist" : "er obj:SUZUKAZEΛ",
+      "comment" : "ガチ押し、2連打、二重階段。bpm:135, Notes:1744, Total:380。同梱未配置(_newearth)とズレ無し。同梱[ANOTHER7]と比べると微ズレ同時押しが無いので見やすい。",
+      "level" : "1",
+      "md5" : "16ad289f62383c1a69ffa5486bef46e9",
+      "proposer" : "ﾐﾅﾐｺｱﾘｸｲ",
+      "sha256" : "72f46d653b71057e21ef4deaee0b4ad57ee536a4f356ed9c5b3d75b64622a515",
+      "submission" : 1656,
+      "title" : "new earth [ZOI]",
+      "url" : "https://dropbox.bms.ms/u/28765267/er_new-earth.zip",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html"
+   },
+   {
       "artist" : "削除 feat. void / 浪漫映像制作倶楽部 / obj : xi",
       "level" : "1",
       "md5" : "16b3656f142cfe1531e2bd5e4cd9d2c3",
@@ -8156,6 +8168,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Mr.K obj:SUZUKAZEΛ",
+      "comment" : "Xeus!!!",
+      "level" : "5",
+      "md5" : "a34cc2170bd381182f1344d215426675",
+      "proposer" : "Restia",
+      "sha256" : "2e90027e1ee8d62ad7aca0fd27627197da581fd5ad61873d0473f037fbaccedf",
+      "submission" : 1657,
+      "title" : "xeusonic [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=132",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html"
+   },
+   {
       "artist" : "GUANA / LuCenT obj. Lapis",
       "comment" : "BOFXV、乱打、隠し譜面",
       "level" : "1",
@@ -8178,6 +8202,18 @@
       "title" : "Bluish mood [凍結]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=73&event=123",
       "url_diff" : ""
+   },
+   {
+      "artist" : "mocha / obj: Lennon",
+      "comment" : "BPM126 Jacks, 100min Fumen Cooking!!",
+      "level" : "2",
+      "md5" : "a38fcd8a5d6779fea4de309e8d613bd3",
+      "proposer" : "|/|",
+      "sha256" : "1108f0286b36ad2856e60f44a458ef9ff21c1cb5eb8105eb1e4f243fb9f0f63a",
+      "submission" : 1663,
+      "title" : "Saudade -nostalgia-",
+      "url" : "http://diverse.jp/dbhtml/download.html",
+      "url_diff" : "https://stellabms.xyz/upload/377"
    },
    {
       "artist" : "ああああ [Lyrics：あゆむ]  [Vocal：seaside-metro]  [BGA：TOYCAT]",
@@ -9608,7 +9644,7 @@
    {
       "artist" : "TK pattern for some reason",
       "comment" : "sl11のOut of the System[for some reason]が少し珍しい譜面だったのでそれの練習用で",
-      "level" : "2",
+      "level" : "3",
       "md5" : "bb03dbe967d34b7b32e0d738919c268e",
       "proposer" : "MarySue",
       "sha256" : "a1ad561cff47c51792d5cb93ef0111cf056bc85bbe1610c5eb8e620017d1dc5d",
@@ -11152,7 +11188,7 @@
    {
       "artist" : "kei_iwata Illust:morph/ BGA&obj:qfeileadh",
       "comment" : "7~8?",
-      "level" : "8",
+      "level" : "9",
       "md5" : "d8a2719afd4a0649028f06d8850c437d",
       "proposer" : "MineC24",
       "sha256" : "a8bea6d7867720cb02fda8b59a1fee67a2dbd75749a2ad65eb069f7b6c3cbc86",
