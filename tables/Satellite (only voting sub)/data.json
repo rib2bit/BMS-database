@@ -67,6 +67,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Tada vs Woof / mov: HIMA",
+      "comment" : "同時押し/LN/同梱譜面/BOFU2017",
+      "level" : "0",
+      "md5" : "26b0372d6ac91b08453b66b1929e8b07",
+      "proposer" : "TR1",
+      "proposerLr2id" : 152181,
+      "sha256" : "35456fafa9adc0ad5b273c678225a7a3e79d58cd65ea7665001633ea7d7f09d7",
+      "submission" : 1712,
+      "title" : "Plasma Disconnection [SPA]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=193&event=116",
+      "url_diff" : ""
+   },
+   {
       "artist" : "OTS Obj.Triforce",
       "level" : "0",
       "md5" : "26eab7f5cfd2aa248c55334c3242e619",
@@ -366,6 +379,19 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=29&event=129",
       "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/",
       "zureCount" : 0
+   },
+   {
+      "artist" : "- 4 5",
+      "comment" : "体力/物量/同梱譜面/BOFU2017",
+      "level" : "0",
+      "md5" : "bbf3cfac7d04be5f9632c8eb439989a8",
+      "proposer" : "TR1",
+      "proposerLr2id" : 152181,
+      "sha256" : "090d94bf516ed49c90b55697d4fbc711b36188c1c0c3adfc560bcddb8509d7ce",
+      "submission" : 1713,
+      "title" : "A D D i c T i O N 4 5 0 0 0 0 0 (H)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=121&event=116",
+      "url_diff" : ""
    },
    {
       "artist" : "ねこみりん scolded by 小宮真央 Movie:むらしん obj:七海千秋",

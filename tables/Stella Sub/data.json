@@ -364,6 +364,18 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
    },
    {
+      "artist" : "彩音 / 小宮真央 / ALICE*",
+      "level" : "1",
+      "md5" : "0653005df6ff311390084e0e4051d5bd",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "279be1851025dbcddaf803bd3a04990664149b6b224c2ad19115cd2390733f38",
+      "submission" : 1305,
+      "title" : "夜桜 -七色桜-",
+      "url" : "http://necoco.2-d.jp/",
+      "url_diff" : "http://absolute.pv.land.to/uploader/upload.html"
+   },
+   {
       "artist" : "Kinato",
       "level" : "1",
       "md5" : "0662edd19b430266883c92a0345e54ba",
@@ -6881,6 +6893,19 @@
       "title" : "RAY (EXCELSIOR)",
       "url" : "https://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21208",
       "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
+      "artist" : "polysha remixed by tcheb / mov : murotani / selene.",
+      "level" : "4",
+      "md5" : "612981c26105115cb535feb627de1701",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "60c8e02113c94ba03e1a8e18bbb72f9f406d967fd33254e6dd5239cc0ec67d0d",
+      "submission" : 1306,
+      "title" : "Castor -tcheb HD-WLZ Remix- -Genocide-",
+      "url" : "https://dl.dropboxusercontent.com/s/km53390k4hyhtu6/CastorRMX%5Bogg%5D.zip",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04279",
+      "zureCount" : 0
    },
    {
       "artist" : "翡翠茶漬け / obj : LindBlum",
