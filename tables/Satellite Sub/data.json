@@ -7376,6 +7376,18 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Is-m // あまね（COOL&CREATE） BGA:sveki hamalu",
+      "level" : "0",
+      "md5" : "4d0abe87b84a32f220a125b2f379e29c",
+      "proposer" : "bluemouse",
+      "proposerMinirid" : "38b6fd3c-5f86-4e87-aef8-3f9952471580",
+      "sha256" : "3b38cd70db6b34b48d1403bf7049a6fc2ea554efb8145482d668336081e56507",
+      "submission" : 1714,
+      "title" : "虹夜パレッド -SP HYPER-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=388&event=123",
+      "url_diff" : ""
+   },
+   {
       "artist" : "mommy",
       "comment" : "BOFXV、物量　3～4?",
       "level" : "3",
@@ -23530,6 +23542,18 @@
       "title" : "豊穣の都 プロウシア [DEMETRA]",
       "url" : "http://clockxellox.sakura.ne.jp/index.html",
       "url_diff" : "http://lalha.web.fc2.com/"
+   },
+   {
+      "artist" : "Yonder Voice",
+      "level" : "0",
+      "md5" : "f8d3f90ab6d859f9a1308ac63710367c",
+      "proposer" : "bluemouse",
+      "proposerMinirid" : "38b6fd3c-5f86-4e87-aef8-3f9952471580",
+      "sha256" : "c5ae19ef21df3a2760c2f133fb85a2c35bc86710a37b48f0ce501f233a09fa0d",
+      "submission" : 1715,
+      "title" : "Black or White",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=129",
+      "url_diff" : ""
    },
    {
       "artist" : "ZUN (Arr.sun3)",
