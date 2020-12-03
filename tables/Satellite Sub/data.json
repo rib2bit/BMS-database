@@ -3460,6 +3460,20 @@
       "url_diff" : "https://bms.parksulab.xyz"
    },
    {
+      "artist" : "DJ Eye obj : Mary_Sue",
+      "comment" : "2~3",
+      "level" : "2",
+      "md5" : "233b0091293574989d1d05f89e279174",
+      "proposer" : "|/|",
+      "proposerLr2id" : 147895,
+      "sha256" : "f47b504e78c8e90d24c14441d200d39249e296a3d604d30c2ed0ce880a230b3d",
+      "submission" : 1718,
+      "title" : "SEKIDO [Dead]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=132",
+      "url_diff" : "https://darksabun.github.io/Mary_Sue/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "隣の庭は青い(庭師+Aoi) obj:Scely",
       "comment" : "乱打 同时押",
       "level" : "5",
@@ -16064,6 +16078,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "dwarf obj: Haze*",
+      "comment" : "0noteとズレなし(PMSなので...)",
+      "level" : "1",
+      "md5" : "ac5ec508e3197c0fbde4b5788a786ae2",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "e85af9fdb6e141e8b920740e8487df9b24ae3230b43c929895ff5b8a885aa528",
+      "submission" : 1716,
+      "title" : "A seashell utopia -dawn-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=130",
+      "url_diff" : "https://stellabms.xyz/upload/477",
+      "zureCount" : 0
+   },
+   {
       "artist" : "どうぶつビスケッツ×PPP と セルリアン",
       "level" : "0",
       "md5" : "ac6f43d502b675cf530b11823c6d8f8d",
@@ -17754,6 +17782,19 @@
       "title" : "夜空の★FANTASY [STAR DUST]",
       "url" : "http://onedrive.live.com/?cid=D34BFC70CBE5E695&id=D34BFC70CBE5E695%21205",
       "url_diff" : "http://lalha.web.fc2.com/index.html"
+   },
+   {
+      "artist" : "TJ.hangneil vs Jackz obj.Restia",
+      "comment" : "SPAとズレなし(#159~#160のソフランを削除した)",
+      "level" : "11",
+      "md5" : "bb57a88ca46ee33d5b52b3928ca32989",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "e5ccc1136ec28466e98407e53e4bc5b8ad20241eed281e609b05b47ca8f3bcfa",
+      "submission" : 1717,
+      "title" : "ozma [World-atom-o-sphere]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=132",
+      "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpyl0W2d0SZZneXbLx5?e=zDaIOF"
    },
    {
       "artist" : "sound piercer x ginkiha (mov : 1B)",
