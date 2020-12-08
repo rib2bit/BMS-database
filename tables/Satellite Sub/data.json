@@ -8133,6 +8133,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "ETIA. feat. Jenga Movie: HDLV/obj:赤い人",
+      "level" : "10",
+      "md5" : "54b5e92e2dc1721500683d173c556ce4",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "ffea6dcb4418ffc58c87b7657e717ad6afcf5ec3dde5c0fab2e6c8115bd5aa3c",
+      "submission" : 1721,
+      "title" : "IKAROS [HARDEST]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=110",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/IKAROS_HARDEST.bme",
+      "zureCount" : 0
+   },
+   {
       "artist" : "kagerow / いいくつ",
       "comment" : "同時押し、皿複合",
       "level" : "6",
@@ -13473,6 +13486,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "ねこみみ魔法使い/ Lucy",
+      "level" : "7",
+      "md5" : "904ab803b7e5e003e2fca5c2e4398719",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "06749fb26210d7cac31c134b5ae4333b67202bc5538ee49339fb1299bb1c385f",
+      "submission" : 1720,
+      "title" : "妖精街の休日 [人類は衰退しました]",
+      "url" : "http://nekomimi.name/13_bms.html",
+      "url_diff" : "http://www.dropbox.com/s/p3nrl1gij9cyz8z/_nm01_Hell.zip",
+      "zureCount" : 0
    },
    {
       "artist" : "Lime / Frantzz / 制限",
