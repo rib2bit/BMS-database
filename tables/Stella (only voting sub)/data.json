@@ -134,6 +134,22 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
    },
    {
+      "artist" : "onoken obj: qtp13",
+      "level" : "1",
+      "md5" : "7f1623b119446641b90ed9ac88396566",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "a219f4db0372d641ee8e5334b15fddd6767e8e8f92121683e0e6ac9888157f68",
+      "submission" : 757,
+      "title" : "P8107 -Paramount-",
+      "url" : "http://web.archive.org/web/20070111193502/www107.sakura.ne.jp/~onoken/htmls/bms.html",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02247",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 4
+   },
+   {
       "artist" : "Kuwagata / obj:七海",
       "comment" : "st5~6",
       "level" : "5",
@@ -254,5 +270,21 @@
       "title" : "Snowflakes [Pentagon]",
       "url" : "http://web.archive.org/web/20021227011400/http://www.ismusic.ne.jp/yossy/music_data/bms/k_snow.rar",
       "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html"
+   },
+   {
+      "artist" : "Magic Mash Man / New Genuine Magicial Girl / obj:Paz_L / reobj:Ds",
+      "level" : "2",
+      "md5" : "f53473139123a2436570f8d443bc8068",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "f1dd0fc2237e5efe99cd09b0a0fb9f8b3093c00e4c2e4f08b9d912fedb750505",
+      "submission" : 763,
+      "title" : "AXION [EX]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=67",
+      "url_diff" : "http://sagena.harisen.jp/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 5
    }
 ]
