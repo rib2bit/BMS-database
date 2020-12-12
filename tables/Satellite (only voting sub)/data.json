@@ -255,6 +255,22 @@
       "zureCount" : 0
    },
    {
+      "artist" : "VeetaCrush obj. DK",
+      "level" : "7",
+      "md5" : "6abc6a1fab2751a28f76f398820b04b3",
+      "proposer" : "氷城つるぎ",
+      "proposerLr2id" : 151185,
+      "sha256" : "72faf6f573c3a2ff4326525931752dbe5cdea5140d06a37c4f88533c77666734",
+      "submission" : 1346,
+      "title" : "Sterelogue [Dash]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=294&event=123",
+      "url_diff" : "https://frozensat.github.io/sabun/Sterelogue_DK.zip",
+      "voteNeutral" : 2,
+      "voteNo" : 0,
+      "votePercent" : 90.9090909090909,
+      "voteYes" : 9
+   },
+   {
       "artist" : "nmk feat.かなえゆめ mov:わっふゑ",
       "comment" : "BOFU2015、同梱譜面、乱打、トリル",
       "level" : "1",
