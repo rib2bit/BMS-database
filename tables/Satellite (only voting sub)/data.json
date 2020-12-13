@@ -1,18 +1,5 @@
 [
    {
-      "artist" : "Sakamiya feat.遊左 未 img:moyura",
-      "comment" : "同梱譜面、BOFU2016、乱打",
-      "level" : "1",
-      "md5" : "022ed61d7efcf1f0fcd2931b81703b4a",
-      "proposer" : "蛇弐御琉",
-      "proposerLr2id" : 161639,
-      "sha256" : "f5aab3ce442a9ba54eb2ae5cb6f9d267686afac813b799a3b606265e71ffadba",
-      "submission" : 1700,
-      "title" : "Suffering of screw [BlackAnother]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=105&event=110",
-      "url_diff" : ""
-   },
-   {
       "artist" : "sasakure.UK / 29",
       "level" : "2",
       "md5" : "04c7327e4c8393e071f9386d9f4a43d0",
@@ -36,33 +23,6 @@
       "submission" : 1702,
       "title" : "天界で紡ぐは正義の調べ †星の如く輝く者†",
       "url" : "https://sites.google.com/view/yuruyurubms/phase-1",
-      "url_diff" : "",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "MILK / И",
-      "comment" : "キー音を追加したアレンジ譜面です。(ファイル同梱のsabun_readmeによると)",
-      "level" : "2",
-      "md5" : "12432ebc0072ee1c3837a8bf6863a515",
-      "proposer" : "MarySue",
-      "proposerLr2id" : 147889,
-      "sha256" : "58dec2dcaf06a57828ec897a8e80eb097c1029c9e750d344eb4ef653aac77f61",
-      "submission" : 1668,
-      "title" : "RAY (HOPE)",
-      "url" : "https://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21208",
-      "url_diff" : "https://bms.parksulab.xyz"
-   },
-   {
-      "artist" : "Yu^ta",
-      "comment" : "sl9~10",
-      "level" : "10",
-      "md5" : "129d7ddd0bc9fb71e122495955a72377",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "12ba3539aae587ae663efa5359de62eee45a794e0161c3ae9d6b6a93aa5b0bad",
-      "submission" : 1677,
-      "title" : "Pleasure of Being [Fuzzy navel]",
-      "url" : "http://yuinore.net/2017/02/smc-package/",
       "url_diff" : "",
       "zureCount" : 0
    },
@@ -107,18 +67,6 @@
       "url_diff" : ""
    },
    {
-      "artist" : "OTS Obj.Triforce",
-      "level" : "0",
-      "md5" : "26eab7f5cfd2aa248c55334c3242e619",
-      "proposer" : "bluemouse",
-      "proposerMinirid" : "38b6fd3c-5f86-4e87-aef8-3f9952471580",
-      "sha256" : "151e524c7d1b6437078ad6d775f2da1d9c8044fc432d0084e0180a710e7e2028",
-      "submission" : 1674,
-      "title" : "Bonus Time [ANOTHER]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=104",
-      "url_diff" : ""
-   },
-   {
       "artist" : "Snail's House",
       "level" : "0",
       "md5" : "2eacf29b405fa0da494b2e449352e1ae",
@@ -157,22 +105,6 @@
       "url_diff" : ""
    },
    {
-      "artist" : "黒皇帝 Movie: Haight",
-      "level" : "0",
-      "md5" : "3a82138a8989ca0b313f44805074bb40",
-      "proposer" : "bluemouse",
-      "proposerMinirid" : "38b6fd3c-5f86-4e87-aef8-3f9952471580",
-      "sha256" : "4567491cf1795ce324da79802eae6432b8cbe35aead2f6cc3eb4a17d1a9db85f",
-      "submission" : 1588,
-      "title" : "Faurie [HYPER]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=64&event=132",
-      "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 100,
-      "voteYes" : 1
-   },
-   {
       "artist" : "Is-m // あまね（COOL&CREATE） BGA:sveki hamalu",
       "level" : "0",
       "md5" : "4d0abe87b84a32f220a125b2f379e29c",
@@ -198,22 +130,6 @@
       "url_diff" : ""
    },
    {
-      "artist" : "Hyparpax",
-      "level" : "0",
-      "md5" : "515fe0cd127257382020c7dc24ad5925",
-      "proposer" : "bluemouse",
-      "proposerMinirid" : "38b6fd3c-5f86-4e87-aef8-3f9952471580",
-      "sha256" : "73f8d94eba5c0be9520bb7fe7122298967ca094d61f88e469bb5c46c347cae36",
-      "submission" : 931,
-      "title" : "Transfixation [7K ANOTHER]",
-      "url" : "http://k-bms.com/party_pabat/party2019.jsp?board_num=19&num=51",
-      "url_diff" : "",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : 87.5,
-      "voteYes" : 10
-   },
-   {
       "artist" : "ETIA. feat. Jenga Movie: HDLV/obj:赤い人",
       "level" : "10",
       "md5" : "54b5e92e2dc1721500683d173c556ce4",
@@ -224,34 +140,6 @@
       "title" : "IKAROS [HARDEST]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=110",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/IKAROS_HARDEST.bme",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "Wide ステファン Walking obj:kei_iwata",
-      "comment" : "BPM115 同時押し",
-      "level" : "11",
-      "md5" : "64d74b7fefcc2d41e21643f600e1a81d",
-      "proposer" : "SHAX.",
-      "proposerLr2id" : 65624,
-      "sha256" : "95e514653c0509349f686c931ef9eaa94655a0dabd2a1ea1131305ff51a55d35",
-      "submission" : 1693,
-      "title" : "Song for Denim [unmeasured]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=132",
-      "url_diff" : "https://stellabms.xyz/upload/357",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "黒皇帝 Movie: inukoro / Illust: Tonosuke / Lyrics: Dolphin / obj: fhyu",
-      "comment" : "BPM201 多要素",
-      "level" : "10",
-      "md5" : "66145c34fda1143d71ecce527ec84d01",
-      "proposer" : "SHAX.",
-      "proposerLr2id" : 65624,
-      "sha256" : "35ed1f028d889964f3721eb4bd8028f161241c17ad9d70706142d5d6d7433c04",
-      "submission" : 1666,
-      "title" : "alicemourn [Adomiration]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=127",
-      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
       "zureCount" : 0
    },
    {
@@ -300,32 +188,6 @@
       "voteYes" : 5
    },
    {
-      "artist" : "黒皇帝 Movie: Haight obj:kei_iwata",
-      "comment" : "同梱差分基準40小節の14番ノート、8X番ノートにズレがあります。だが8X番ノートは192分のズレでプレーには影響がほぼなさそうです。14番ノートのズレは24分ですが、元のノートがあった位置に同梱差分にはなかった(ディレイ)ノートが追加されています。あの24分のズレがなければディレイの中間に同時押しが出るので少し不自然な気がします。一種のゲーム性のためのアレンジだと見られます。",
-      "level" : "12",
-      "md5" : "70e3cfdbdcc317103ad3a00f30e5046d",
-      "proposer" : "MarySue",
-      "proposerLr2id" : 147889,
-      "sha256" : "c1e1cd45cfc0be060afe3681cfba690796772255841402e7fd83afda18bbe12c",
-      "submission" : 1687,
-      "title" : "Faurie [unmeasured]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=64&event=132",
-      "url_diff" : "https://stellabms.xyz/upload/356"
-   },
-   {
-      "artist" : "uma feat. ましろ",
-      "comment" : "同梱譜面 /東方音弾遊戯8",
-      "level" : "0",
-      "md5" : "79feed2cbf54e5405a43e60392769dcf",
-      "proposer" : "TR1",
-      "proposerLr2id" : 152181,
-      "sha256" : "ec71cae073c34b5cd5e38e8a46fcac70fb067b160be72f8e85aeee22d37c4d26",
-      "submission" : 1690,
-      "title" : "Love☆Spellcard",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=118",
-      "url_diff" : ""
-   },
-   {
       "artist" : "Reku Mochizuki obj:SUZUKAZEΛ",
       "comment" : "同時押し等。",
       "level" : "3",
@@ -338,19 +200,6 @@
       "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=5&order=reg&odtype=a",
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "zureCount" : 0
-   },
-   {
-      "artist" : "U-hey　BGA:ユウノ",
-      "comment" : "同梱譜面/BOFU2015",
-      "level" : "0",
-      "md5" : "8df01a1e34ccb91163ed19ac6b54d9bf",
-      "proposer" : "TR1",
-      "proposerLr2id" : 152181,
-      "sha256" : "ced70b0a1b2827b04440b3aafa7142e17db39ec6204e679e3734211da0090ccf",
-      "submission" : 1670,
-      "title" : "Take Me Away",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=150&event=104",
-      "url_diff" : ""
    },
    {
       "artist" : "ねこみみ魔法使い/ Lucy",
@@ -366,20 +215,6 @@
       "zureCount" : 0
    },
    {
-      "artist" : "Sakamiya feat.一花 img:ttv obj:Restia",
-      "comment" : "乱打と同時押し、いろいろ",
-      "level" : "4",
-      "md5" : "92151c1e4c0a1136358f63f0defea447",
-      "proposer" : "MarySue",
-      "proposerLr2id" : 147889,
-      "sha256" : "0147ee93fb9d077750227c2274c47ad32af5c2f492a435f4adcddcf59aa4c82f",
-      "submission" : 1686,
-      "title" : "Impulse of destruction [AbNormal]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=89&event=132",
-      "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpyl0ofhY1DJQpA-Jip?e=zhmVnd",
-      "zureCount" : 0
-   },
-   {
       "artist" : "tolz feat.音街ウナ object:iLiss.",
       "comment" : "LN",
       "level" : "0",
@@ -391,47 +226,6 @@
       "title" : "Telescope -RAINBOW ANOTHER-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=126",
       "url_diff" : "https://stellabms.xyz/upload/409",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "Iriss-Frantzz obj.turbow",
-      "comment" : "同梱の穴を調整した譜面です",
-      "level" : "1",
-      "md5" : "9b4b9cd4d5b4415668a1b5ba02b04239",
-      "proposer" : "MarySue",
-      "proposerLr2id" : 147889,
-      "sha256" : "c14803054b06aca84695554998a921ce578ebf42a24bdcbfb48128db6ca248c7",
-      "submission" : 1669,
-      "title" : "Upshift [A-modified]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=355&event=123",
-      "url_diff" : "https://stellabms.xyz/upload/329",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "Kyuzo Sameura",
-      "comment" : "ハネ",
-      "level" : "0",
-      "md5" : "a575f82823376780e13e127dea44975f",
-      "proposer" : "|/|",
-      "proposerLr2id" : 147895,
-      "sha256" : "259f0231936fa5fb875a9899889a7c983abc70d9a44f2370323f03254c68f584",
-      "submission" : 1676,
-      "title" : "Hold Me Tight [7KEYS ANOTHER]",
-      "url" : "https://sites.google.com/view/yuruyurubms/phase-9?authuser=0",
-      "url_diff" : ""
-   },
-   {
-      "artist" : "azu Obj. Triforce",
-      "comment" : "NORMAL判定",
-      "level" : "1",
-      "md5" : "ab8beffe6fa5ec69de5db28482d4a996",
-      "proposer" : "|/|",
-      "proposerLr2id" : 147895,
-      "sha256" : "faedcd79fe2ae844e474adcfb24f6f0636b7c8540f88898d23b1d62ffedf2021",
-      "submission" : 1680,
-      "title" : "コノハナサクヤビメ [Nemesis]",
-      "url" : "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/0UEX3bLJ",
-      "url_diff" : "https://trfce.github.io/sabun/konohana_7ne.zip",
       "zureCount" : 0
    },
    {
@@ -502,20 +296,6 @@
       "url_diff" : ""
    },
    {
-      "artist" : "ねこみりん scolded by 小宮真央 Movie:むらしん obj:七海千秋",
-      "comment" : "乱打、同時押し、皿も少しあります。",
-      "level" : "4",
-      "md5" : "bffb19888ee064851afa21a28477075e",
-      "proposer" : "MarySue",
-      "proposerLr2id" : 147889,
-      "sha256" : "012bdf5694c12bdd5223d5f35734bf3110b88b05d08387c8d9f747744b930f48",
-      "submission" : 1709,
-      "title" : "timeleeeess!!! -Hope-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=396&event=123",
-      "url_diff" : "https://www.dropbox.com/s/fd3tc49q59493i4/_99_nekomirin_timeless_nanami01.bme?dl=0",
-      "zureCount" : 0
-   },
-   {
       "artist" : "Envy Obj : JGh",
       "comment" : "BPM132 乱打",
       "level" : "0",
@@ -554,86 +334,6 @@
       "title" : "Castor -tcheb HD-WLZ Remix- -Twilight-",
       "url" : "https://dl.dropboxusercontent.com/s/km53390k4hyhtu6/CastorRMX%5Bogg%5D.zip",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04279"
-   },
-   {
-      "artist" : "Lxiqy Obj: Toby",
-      "comment" : "ズレ・縦連打",
-      "level" : "7",
-      "md5" : "d53f6a5ad2dd0a804567c2ef84189976",
-      "proposer" : "AYhaz",
-      "proposerLr2id" : 123475,
-      "sha256" : "9eb3cc7a9ed2661814f8226033657ae5ba372f6a359084b2a65f9126d2645c1d",
-      "submission" : 1703,
-      "title" : "Reptile Dance [Tob]",
-      "url" : "https://www.dropbox.com/s/xky2a2kwvg7jtky/lx_R_D.zip",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04806"
-   },
-   {
-      "artist" : "LV.4 obj.Restia",
-      "comment" : "2~3?",
-      "level" : "2",
-      "md5" : "dce567d3248c22cb169a0dda996ae674",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "743f748925cc2333cec8e4b9f3217a463386dc3ca30965d132a03937da95a998",
-      "submission" : 1673,
-      "title" : "Mind Quest [7key//ABNORMAL]",
-      "url" : "https://1drv.ms/u/s!ApwaJAUHJdpyjx31NpN0wGy-yO9V",
-      "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpylzdetL3mbvjyhr-U?e=h2U868",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "Music:しらいし / selene.",
-      "comment" : "ズレなし(Readmeで書いてます)",
-      "level" : "8",
-      "md5" : "de6004b969883d422f7cac5528b58119",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "3d366d47e5fec39db360b30b9d4c8a682b9d2989f65290db513f1f4f5ceafefd",
-      "submission" : 1672,
-      "title" : "Happico Happico -Luna-",
-      "url" : "https://drive.google.com/uc?id=1CfewRcEBfI4HNQ3CwW_bp0qTDynkd35S",
-      "url_diff" : "https://stellabms.xyz/upload/358"
-   },
-   {
-      "artist" : "牧野 pattern for some reason",
-      "comment" : "ズレ、乱打",
-      "level" : "4",
-      "md5" : "e1f07bdc8f336c18afa025ff978b6b4a",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "2ca6b96d54f46dfd45d00ab031afa8fe52dd0d0bef1a7da53caf777499d4880f",
-      "submission" : 1696,
-      "title" : "miracle romance [reasonable]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=312&event=127",
-      "url_diff" : "https://fsrs.github.io/table.html",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "mossari feat.TEA",
-      "level" : "1",
-      "md5" : "e70b8c18644b7f2fca66ba7d32b45179",
-      "proposer" : "mqppppp",
-      "proposerLr2id" : 129162,
-      "sha256" : "fdb98d14506b7758b3af7c07fbe91c4357814e1fa9b431cb2439d7de4e43e999",
-      "submission" : 1678,
-      "title" : "Midnight o'clock [Insane]",
-      "url" : "https://dropbox.bms.ms/u/59367462/Midnight%20o'clock.rar",
-      "url_diff" : ""
-   },
-   {
-      "artist" : "witch's slave obj.ここあ Graphic by Est",
-      "comment" : "another-",
-      "level" : "6",
-      "md5" : "f47d37966b689f4d003c4376d37a2dff",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "54a93a91abce58955e1e1fe3c1fe2e64f9c9732a11701ca9519e9c98ff369e62",
-      "submission" : 1682,
-      "title" : "堕楽の園 [COCOA-]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=332&event=104",
-      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
-      "zureCount" : 0
    },
    {
       "artist" : "Yonder Voice",

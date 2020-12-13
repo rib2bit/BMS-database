@@ -1390,7 +1390,7 @@
    {
       "artist" : "EmoCo. / 玲架 / UnK-now / 37X obj. Lapis",
       "comment" : "ディレイ4U",
-      "level" : "10",
+      "level" : "9",
       "md5" : "156783da7d59f7ddfb2543890eceb3c5",
       "proposer" : "MEES-♬",
       "proposerLr2id" : 39693,
@@ -1462,6 +1462,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "卯月 改",
+      "comment" : "BPM195の重発狂　いろいろなタイプの重発狂が練習できます",
+      "level" : "5",
+      "md5" : "161d264c8c0b2c554ddf382713d5dc68",
+      "proposer" : "BAECON",
+      "proposerLr2id" : 46122,
+      "sha256" : "563f90ba8064b716119c30f4d13d25273c880fba496d991db116899db0fcd18d",
+      "submission" : 1315,
+      "title" : "Blooming Jump! [Maneuver]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=109",
+      "url_diff" : "http://gnqg.rosx.net/upload/",
+      "zureCount" : 0
    },
    {
       "artist" : "ねこみりん feat.小宮真央×みゆ×えみゅう。 Movie:kkkfff2 / Illust:永山ゆうのん / obj:BAECON vs ELIGOS",
@@ -1940,6 +1954,18 @@
       "title" : "SYNTHETICS [Pentagon]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=285&event=123",
       "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html"
+   },
+   {
+      "artist" : "kei_iwata Illust:morph/ BGA&obj:qfeileadh",
+      "level" : "1",
+      "md5" : "1e62d6f6394c0be0a87a8850f1f92c1a",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "1b0e090642c3fb097172a565ab735665b287c745aef03eba584290aa15867695",
+      "submission" : 1310,
+      "title" : "フロンティア↑↑エクスプローラー [GALAXY]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=132",
+      "url_diff" : ""
    },
    {
       "artist" : "Queen P.A.L. VJ KINTA / obj.7zs",
@@ -3196,7 +3222,7 @@
    {
       "artist" : "kbwnk max / obj:uet",
       "comment" : "★★4 SLOW",
-      "level" : "1",
+      "level" : "2",
       "md5" : "3066bfbccd42c053189ab544ef9d5f55",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,
@@ -3570,6 +3596,19 @@
       "url" : "http://web.archive.org/web/20120427095927/http://uploader.bms.ms/bof2008/?download=quark_ogg.rar",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03290",
       "zureCount" : 0
+   },
+   {
+      "artist" : "shio obj:chen",
+      "comment" : "st6~7 高速, 高TOTAL (同梱譜面?)",
+      "level" : "6",
+      "md5" : "3621b880f9ae696f6ba5e711d9489165",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "d5b0f05bab45a167af5a593ad237611f5d2fdffd1d8b280b618a8e2434b75afe",
+      "submission" : 1311,
+      "title" : "Qronostasis -GABBA vs. Speedcore mix-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=42&event=92",
+      "url_diff" : ""
    },
    {
       "artist" : "hapi⇒ obj:mute",
@@ -5771,19 +5810,6 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
-   },
-   {
-      "artist" : "しも fw. hapi⇒ / obj.Waddle Dee",
-      "comment" : "st2~3 (#126, WAVBN,BL,BT shifted half beat earlier)",
-      "level" : "2",
-      "md5" : "5154e666d21e79e347d8ca66b3ea138f",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "2cef9b1924dd95e54c650ee5c56d817b0afdc2c329135bc675d4c7d6311d977a",
-      "submission" : 1302,
-      "title" : "風の塔 [Sky Tower]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=198&event=74",
-      "url_diff" : "http://gnqg.rosx.net/upload/"
    },
    {
       "artist" : "ROKINA あ",
@@ -8974,6 +9000,20 @@
       "zureCount" : 0
    },
    {
+      "artist" : "qfeileadh mov.アトリエ海百合　feat. レゾナンスもえこ / ハタイッセー",
+      "comment" : "連打系",
+      "level" : "8",
+      "md5" : "7ebfc565cc63f70e25ce4ab8eb054c00",
+      "proposer" : "BAECON",
+      "proposerLr2id" : 46122,
+      "sha256" : "043e879e34985efe679b381acfe620892ca639ab6818e5ae6d55aa9bac3ecbdb",
+      "submission" : 1314,
+      "title" : "スピカ [STARDUST]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=121",
+      "url_diff" : "https://stellabms.xyz/upload/374",
+      "zureCount" : 0
+   },
+   {
       "artist" : "MALVA. obj : BAECON",
       "level" : "0",
       "md5" : "7ec4081796258a2b21d91f90e8670cbc",
@@ -11088,6 +11128,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "czardas obj.hex",
+      "comment" : "BPM180 回復の少ない微連打発狂耐久",
+      "level" : "6",
+      "md5" : "9b7ce20c7330b9c4ec707c1149ce097b",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "e83a49bb712fda3865b03b7af648eb318ae4e050a5ebbb1db78c67896d775260",
+      "submission" : 1313,
+      "title" : "post mortal momentum [Hexagon]",
+      "url" : "https://onedrive.live.com/?authkey=%21APzWxQOMOlepJbs&id=3B6D06BBBE4C32B3%213362&cid=3B6D06BBBE4C32B3#authkey=%21APzWxQOMOlepJbs&cid=3B6D06BBBE4C32B3&id=3B6D06BBBE4C32B3%213361&parId=3B6D06BBBE4C32B3%213362&action=defaultclick",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html",
+      "zureCount" : 0
    },
    {
       "artist" : "Ark-Z  Illustration by 春雨 obj.Infinite Melodia",
@@ -14412,7 +14466,7 @@
    {
       "artist" : "SP-# obj:C4+七海千秋",
       "comment" : "2~3?",
-      "level" : "3",
+      "level" : "4",
       "md5" : "ca490a947d45147ffea27c63f5ae1665",
       "proposer" : "MineC24",
       "proposerLr2id" : 84597,
@@ -16400,6 +16454,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Yonder Voice / obj:AnyOasis(C4&NASA)",
+      "comment" : "BPM181 微連打、ズレ",
+      "level" : "5",
+      "md5" : "e5820d94259154bff12b6ad106997420",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "fd712d0cc304ad708c82f9e31b60620ba1dcb08c8687d136a4764fe80082f06e",
+      "submission" : 1312,
+      "title" : "Black or White [Abyss Nova]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=129",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/",
+      "zureCount" : 0
    },
    {
       "artist" : "魔界都市ニイガタ（黄泉路テヂーモ×dawn-system×かゆき） BGA:自動車原付 / obj.hex",

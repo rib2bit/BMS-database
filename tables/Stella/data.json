@@ -790,7 +790,7 @@
    {
       "artist" : "EmoCo. / 玲架 / UnK-now / 37X obj. Lapis",
       "comment" : "ディレイ4U",
-      "level" : "10",
+      "level" : "9",
       "md5" : "156783da7d59f7ddfb2543890eceb3c5",
       "proposer" : "MEES-♬",
       "sha256" : "3bd4f43ffbac2babdfda8ec7f3e56b78c6251cef4670262feae31b71306b3c9f",
@@ -1905,7 +1905,7 @@
    {
       "artist" : "kbwnk max / obj:uet",
       "comment" : "★★4 SLOW",
-      "level" : "1",
+      "level" : "2",
       "md5" : "3066bfbccd42c053189ab544ef9d5f55",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,
@@ -3276,6 +3276,18 @@
       "title" : "花たちに希望を [akather]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=276&event=127",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04264"
+   },
+   {
+      "artist" : "saaa BGA : Arishima_Caprico object: LuvTek",
+      "comment" : "anoso_.bmuooとズレなし(0noteファイル)",
+      "level" : "1",
+      "md5" : "4e4b4ad8f3080342d97350b539699e34",
+      "proposer" : "MineC24",
+      "sha256" : "34b25e5ef4a1a83c450e543d965fbf24cb8ff993e3ca1ff00ccae9abcbe575fa",
+      "submission" : 1293,
+      "title" : "Anosognosia [SOBER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=93&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
    },
    {
       "artist" : "polysha / obj : LindBlum",
@@ -7000,6 +7012,18 @@
       "url_diff" : "https://bms.parksulab.xyz"
    },
    {
+      "artist" : "tarolabo / obj:七海千秋",
+      "comment" : "ガチ押し。差分にゲーム性のために意図的なズレ(キー音の位置を変えたり、キー音を追加したりなどの)があります。 プレーには問題ないし、特に作者のホームページ(https://egosa24.web.fc2.com/)にも記載されています。",
+      "level" : "0",
+      "md5" : "a597752081cb02d716d0ed1e16f6a158",
+      "proposer" : "MarySue",
+      "sha256" : "16e2abcebd493d0ad8a7f4d315ef2c9ac300ded542a5930f14c3bace3e88a684",
+      "submission" : 1291,
+      "title" : "！？ -Despair-",
+      "url" : "http://ofuton.tk/tarolabo/",
+      "url_diff" : "https://www.dropbox.com/s/yn4q0mk19tyz218/kantangimon_nanami01.bms?dl=0"
+   },
+   {
       "artist" : "STASTA TEKINA / obj:O",
       "comment" : "up1186",
       "level" : "6",
@@ -7681,6 +7705,18 @@
       "title" : "プナイプナイたいそう",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=227&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01059"
+   },
+   {
+      "artist" : "M-UE ◇ sak Illust: はし◇たか",
+      "comment" : "0~1?",
+      "level" : "1",
+      "md5" : "b7806afd42bfcd2a91dcfeb3b2b80361",
+      "proposer" : "MineC24",
+      "sha256" : "03df7766ae76c006588b636e0c38e147985da17bac608e7027aa71ca3beaea76",
+      "submission" : 1308,
+      "title" : "Pumpkin ◇ Magic [EXTRA]",
+      "url" : "https://venue.bmssearch.net/mutualfaith3/13",
+      "url_diff" : ""
    },
    {
       "artist" : "parakeet 41 obj:goe BGA:G",
@@ -8432,7 +8468,7 @@
    {
       "artist" : "SP-# obj:C4+七海千秋",
       "comment" : "2~3?",
-      "level" : "3",
+      "level" : "4",
       "md5" : "ca490a947d45147ffea27c63f5ae1665",
       "proposer" : "MineC24",
       "sha256" : "951088e1b3781b60eb24a89eb8600a2068d632261a31ec945ef95a89deb30e0c",
@@ -8817,6 +8853,18 @@
       "title" : "Lucid Dreaming [キャワ]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=144&event=88",
       "url_diff" : "https://web.archive.org/web/20190322230138/http://www.hyper-laner.com/sabun/all201807_laner.rar"
+   },
+   {
+      "artist" : "syatten + coda Sliced by bms newbie",
+      "comment" : "BPM180 ディレイ",
+      "level" : "3",
+      "md5" : "d26e5a64c2527b7268ce450cc99700c4",
+      "proposer" : "SHAX.",
+      "sha256" : "730322429134bfccc7b353e0c4263f0cc49ef53997adde8bede4a2d4cd40ece6",
+      "submission" : 1288,
+      "title" : "hurt, scenery, groundrainbow [Beautiful Scenery]",
+      "url" : "https://web.archive.org/web/20130210075745/http://www.planetoid.biz/bms/hsgr.rar",
+      "url_diff" : "https://bms.parksulab.xyz"
    },
    {
       "artist" : "ATM / obj. by 、",
