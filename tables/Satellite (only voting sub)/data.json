@@ -25,6 +25,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "qfeileadh&のあ mov:Kengo Nakao",
+      "comment" : "BPM210 多要素",
+      "level" : "6",
+      "md5" : "081f3e162b1d88f0f0e59a44593af6e4",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "629393926a83860f36bc9b65258d22d3d93cac7112207dc975f014a400ce223a",
+      "submission" : 1735,
+      "title" : "HEXPERUS [SP INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=164&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "U.N.E. BGI：Violpa",
       "comment" : "sl4~5?",
       "level" : "5",
@@ -127,6 +140,19 @@
       "title" : "Rabbit Tale [7K SHDMix]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=132",
       "url_diff" : ""
+   },
+   {
+      "artist" : "わかどり BGA : もがみ / Obj.Triforce",
+      "comment" : "同梱の_未配置基準ズレ、抜けなし",
+      "level" : "4",
+      "md5" : "4c8d82ccf93dd4ea622201c89d2fb6d9",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "26997726dd2f6d38e0516e544d0022133e641822571454a8499a9e3f958760a3",
+      "submission" : 1729,
+      "title" : "NightTheater [Thriller]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=18&event=133",
+      "url_diff" : "https://trfce.github.io/sabun/(124)NightTheater_triforce.zip"
    },
    {
       "artist" : "Is-m // あまね（COOL&CREATE） BGA:sveki hamalu",
@@ -320,6 +346,33 @@
       "zureCount" : 0
    },
    {
+      "artist" : "isocosa Illust: Dr.Exodium object:Restia",
+      "comment" : "体力系、物量",
+      "level" : "9",
+      "md5" : "b3172f3593b9d8685769954821d65e9a",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "9aefdd7fe4cf57a19167e6ed530ef4d123a878f7dc01a920b217c5b47772952f",
+      "submission" : 1730,
+      "title" : "Booboo Bounce! [Immortal]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=137&event=133",
+      "url_diff" : "https://darksabun.github.io/event/bofxvi/",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "dandeless obj:多要素糞譜面暴食症候群",
+      "comment" : "BPM182 多要素",
+      "level" : "12",
+      "md5" : "b93fcf928a9a4c5a47ab6a106b61fd89",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "77cdf7580aca1bda0e47ff8a6aec003a8a9c41feb9de4d59bee9ddd13861a044",
+      "submission" : 1736,
+      "title" : "work.it ＾＾overtime",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=95&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "TJ.hangneil vs Jackz obj.Restia",
       "comment" : "SPAとズレなし(#159~#160のソフランを削除した)",
       "level" : "11",
@@ -343,6 +396,19 @@
       "submission" : 1713,
       "title" : "A D D i c T i O N 4 5 0 0 0 0 0 (H)",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=121&event=116",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "Antistar//mov:Niba obj:Scely",
+      "comment" : "同梱譜面、アウトロややゲージ回復多め。",
+      "level" : "1",
+      "md5" : "c1a5b071d1c654750ef8d6d902274e43",
+      "proposer" : "quinto",
+      "proposerLr2id" : 141043,
+      "sha256" : "6b9ff95aa95ad5fd8d33cf2e3e7d73a76daf810f29ec758e0af0d34bae0ebe3d",
+      "submission" : 1734,
+      "title" : "Shore in the Rain [SP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=203&event=133",
       "url_diff" : ""
    },
    {
@@ -386,6 +452,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Plesiopidae",
+      "comment" : "同梱譜面、多要素。",
+      "level" : "7",
+      "md5" : "caa803a5156405d0ede822d165bd91a6",
+      "proposer" : "quinto",
+      "proposerLr2id" : 141043,
+      "sha256" : "f5b8ae81083bad3560e4e1127a743eccec6b94c92d49ca69461cb159e1c41159",
+      "submission" : 1733,
+      "title" : "Horizon of Eternity",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=496&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "polysha remixed by tcheb / mov : murotani / selene.",
       "comment" : "low speed 플로팅가능 High BPM 폭타 연습에도 좋다고 봅니다.",
       "level" : "3",
@@ -411,6 +490,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "打打だいず mov:;3ZUTAMA obj:Yosk!",
+      "comment" : "高速乱打",
+      "level" : "12",
+      "md5" : "daabea71e949e92d5718ae7ba27ca0a5",
+      "proposer" : "BAECON",
+      "proposerLr2id" : 46122,
+      "sha256" : "a747107d26c281364620e928cb69d23e4be953f1b3eb6cb261cdd3cfa0abc893",
+      "submission" : 1731,
+      "title" : "Hi-Fi-Story [SP EXTRA]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=279&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Yonder Voice",
       "level" : "0",
       "md5" : "f8d3f90ab6d859f9a1308ac63710367c",
@@ -420,6 +512,19 @@
       "submission" : 1715,
       "title" : "Black or White",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=129",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "クワガタ feat. 鈴鳴ろこ / note: Michael",
+      "comment" : "同梱譜面　同時押し主体の譜面",
+      "level" : "5",
+      "md5" : "ff481b9a016e9c2e3a72787ab14d5c1c",
+      "proposer" : "BAECON",
+      "proposerLr2id" : 46122,
+      "sha256" : "22749c8aea0097c11e31a2821337591ce7877e3e46f1b5308b08f58bbee57487",
+      "submission" : 1732,
+      "title" : "雨上がりセンセーション [Circumhorizon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=182&event=133",
       "url_diff" : ""
    }
 ]

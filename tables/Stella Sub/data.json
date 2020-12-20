@@ -176,6 +176,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "かたぎり BGA: 2nd_identity (mst×かたぎり) OBJ: LuvTek",
+      "comment" : "NORMAL判定、独特な発狂",
+      "level" : "2",
+      "md5" : "02fd0a7beaded078d6c68ae4480c5908",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "b7e0f2b0772fa491466c597b94d47696dce4a48d41eba39f28a881d6657a0ad5",
+      "submission" : 1320,
+      "title" : "Angel's Salad [REALISM]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=273&event=133",
+      "url_diff" : "https://darksabun.github.io/event/bofxvi/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "ZUN / BMS:average BGA:のりろー / A",
       "comment" : "高速連打複合",
       "level" : "11",
@@ -4994,6 +5008,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "otoshi.b × みゅい × はしたかさん × BAECON",
+      "comment" : "同梱　高速物量　微縦連",
+      "level" : "8",
+      "md5" : "45681e84e18abc0b7056db209a694309",
+      "proposer" : "qfeileadh",
+      "proposerLr2id" : 143120,
+      "sha256" : "b4d922e1fb4db77ba02ef41841e9306d6edc4b1049b1b27ba6e574552df07b36",
+      "submission" : 1324,
+      "title" : "Shiny☆Strike!!! [Beyond the Future]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=133",
+      "url_diff" : ""
    },
    {
       "artist" : "Azel obj:ELIGOS",
@@ -9974,6 +10001,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Lime obj:NoName",
+      "comment" : "BOFXVI GOD CHART 2",
+      "level" : "8",
+      "md5" : "8b56f71a2c636e7bf94191e874f1f854",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "1b2ff1e4a4a132176e8210b449061dd0e00cec0a0a6fd66a336e90e8a575b5f3",
+      "submission" : 1323,
+      "title" : "Stellaria [LAST VOYAGE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=434&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "ルゼ ☆ えみゅう。 ☆ 石王マサト obj:sharo",
       "comment" : "dovreste uscire fatalismo?",
       "level" : "2",
@@ -11883,6 +11923,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "saaa BGA : Arishima_Caprico obj:Lian",
+      "comment" : "BOFXVI 同梱譜面　高速物量→ガチ押し",
+      "level" : "4",
+      "md5" : "a4ec37bd57910cbb6649f6f376322db0",
+      "proposer" : "qfeileadh",
+      "proposerLr2id" : 143120,
+      "sha256" : "33f78bd521cb8734b07d722b0998f7aaf5e383aa39bdc9f2378ca8e81ae93244",
+      "submission" : 1325,
+      "title" : "Time shrinker [PARADOX]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=185&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Crimsona obj.7zs",
       "comment" : "01686",
       "level" : "4",
@@ -12670,6 +12723,19 @@
       "title" : "愛と煩悩と輪廻と常識の極彩世界 [地力向上についての同時押しと縦連の極彩世界]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=204&event=88",
       "url_diff" : "https://www.limiteknj.net/BMS"
+   },
+   {
+      "artist" : "qfeileadh＆レゾナンスもえこ mov:Maeus",
+      "comment" : "BOFXVI GOD CHART 1",
+      "level" : "6",
+      "md5" : "b0279420063b1f5bc8f16c36cf990f0f",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "a7cc9bad06544f852e10ca029dc8a1ed56a371b69ca68dc4993d2b2fe3269df0",
+      "submission" : 1322,
+      "title" : "Psalms ～魂の還るばしょ～ [NIRVANA]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=128&event=133",
+      "url_diff" : ""
    },
    {
       "artist" : "beatMARIO / tomsfir / selene.",
@@ -16000,6 +16066,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "kei_iwata 監督：KeiuO",
+      "comment" : "同梱譜面。ガチ押し、ずれ階段少し。",
+      "level" : "0",
+      "md5" : "dd93b8ee483f04d739a4d444d83d4cee",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "f3078f2c154d74f31a4a2626e3d7293074578e93240b6c6c07793636c3b4ec0d",
+      "submission" : 1321,
+      "title" : "ゼイタクするまで抱きしめて [SEXY]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=133",
+      "url_diff" : ""
    },
    {
       "artist" : "Kyuu/Yossy obj.hex",
