@@ -65,6 +65,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "ねこみりん feat.杠葉えりか×Sennzai×とおる×小宮真央 Movie:むらしん / Illust:りゅうら / obj:Paz_L",
+      "comment" : "BOFXVI、同梱譜面",
+      "level" : "2",
+      "md5" : "15522ea068abfc49b2ff7365a48760fc",
+      "proposer" : "蛇弐御琉",
+      "proposerLr2id" : 161639,
+      "sha256" : "6e33575621069636457244147ca3ed8ce7620f1985fe42c5686ec5cd5218cfa8",
+      "submission" : 1741,
+      "title" : "うらドラみたいにスカートめくるなっ！ [ANOTHER7]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=413&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "DJ Eye obj : Mary_Sue",
       "comment" : "2~3",
       "level" : "2",
@@ -238,6 +251,31 @@
       "voteYes" : 5
    },
    {
+      "artist" : "Sidou",
+      "level" : "0",
+      "md5" : "7346bcd8d5dead5f0d7539ae639eea70",
+      "proposer" : "Hyparpax",
+      "proposerLr2id" : 107037,
+      "sha256" : "79e0a886caf0722e362e1292329475a85723f7ab125503cdc6315af54d97c03b",
+      "submission" : 1742,
+      "title" : "Heart Beat (Another)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=307&event=133",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "すとろーはっと愛知県支部 obj : Mary_Sue",
+      "comment" : "55_wakeani_xxx.tempとズレなし",
+      "level" : "8",
+      "md5" : "7e751589bee7ce5987f0d44cf251459e",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "f1f1a88d34761e79d3641c116bf72c3d3b00488019ba1e5429c4a855d9ba4426",
+      "submission" : 1737,
+      "title" : "劇場版 うぉーる☆くらっしゃー！ [恋人なんていらない]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=214&event=133",
+      "url_diff" : "https://darksabun.github.io/Mary_Sue/"
+   },
+   {
       "artist" : "Reku Mochizuki obj:SUZUKAZEΛ",
       "comment" : "同時押し等。",
       "level" : "3",
@@ -330,6 +368,19 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=130",
       "url_diff" : "https://stellabms.xyz/upload/477",
       "zureCount" : 0
+   },
+   {
+      "artist" : "COWBELL MASTER 心愛 -COCOA- BGA: w, OBJ: w",
+      "comment" : "隠された譜面(artbook.zip)",
+      "level" : "10",
+      "md5" : "b06c2ef806a7eb95997bd79b4dc10d9e",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "70dcbb03e4c05cb418a01df57f525673792fe202c0defd14761f7a238916d290",
+      "submission" : 1738,
+      "title" : "GET ON WiTH FUNKOT [SP UNKNOWN]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=80&event=133",
+      "url_diff" : ""
    },
    {
       "artist" : "zun remixed by 鈎兎(KagiUsagi) / obj: Lennon",
@@ -465,6 +516,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Nuekawa",
+      "level" : "4",
+      "md5" : "cb3d8097e6a25419496cb6b57ed68b6b",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "020853921a41960c8a637968693515b87c7c23a5e98d03041124e71dcdeedc5c",
+      "submission" : 1739,
+      "title" : "R3x1NSPELL -Another-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=183&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "polysha remixed by tcheb / mov : murotani / selene.",
       "comment" : "low speed 플로팅가능 High BPM 폭타 연습에도 좋다고 봅니다.",
       "level" : "3",
@@ -487,6 +550,19 @@
       "submission" : 1723,
       "title" : "IN",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=354&event=127",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "COMPOSER 3 / VISUALIZER 3 obj. BK",
+      "comment" : "多要素",
+      "level" : "0",
+      "md5" : "d8c9e5c278620e5f7f0f7031a758860a",
+      "proposer" : "bluemouse",
+      "proposerMinirid" : "38b6fd3c-5f86-4e87-aef8-3f9952471580",
+      "sha256" : "a67d325b0422031879df3ca7265d97f8254b62c2186dcb355a012b2401874cdc",
+      "submission" : 1740,
+      "title" : "Janus [SP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=93&event=133",
       "url_diff" : ""
    },
    {

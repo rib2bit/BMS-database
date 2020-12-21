@@ -4261,6 +4261,19 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
    },
    {
+      "artist" : "Ponchi feat.はぁち obj.霧切杏子",
+      "comment" : "SPIとズレがありますが、ディレイです。(Readmeから)",
+      "level" : "5",
+      "md5" : "3c21b7c732a3f8e49cac9531792ffa9e",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "87a0693f68a928bdefbf759b4b9913173833da65f4e311b6a5eb42c6b2d5d93d",
+      "submission" : 1326,
+      "title" : "インフェルノシティ [SOUL METRO 地獄鉄 裏号線 新設洞駅 地下死階]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=244&event=133",
+      "url_diff" : "https://darksabun.github.io/event/bofxvi/"
+   },
+   {
       "artist" : "psi obj:Luft",
       "comment" : "",
       "level" : "8",
@@ -6918,6 +6931,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Hyparpax obj: LuvTek",
+      "comment" : "0noteとズレなし",
+      "level" : "4",
+      "md5" : "6055fa88e9f0ca8642d88b75f2808e1d",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "0326da1a2f7a2cb7cb91401528a34ad580723c222bcb8efd9d958c6945e6dec3",
+      "submission" : 1327,
+      "title" : "Rin-Rin [7K LT's INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=251&event=133",
+      "url_diff" : "https://darksabun.github.io/event/bofxvi/",
+      "zureCount" : 0
    },
    {
       "artist" : "にっすぃー",
