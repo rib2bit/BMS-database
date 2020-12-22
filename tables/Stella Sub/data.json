@@ -3059,6 +3059,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "kanoryo / obj:marquee BGA:Nectoroune",
+      "comment" : "BOFXVI",
+      "level" : "2",
+      "md5" : "2d1de5a9ae740b3e00abceb41d737d69",
+      "proposer" : "Restia",
+      "proposerLr2id" : 115265,
+      "sha256" : "72c3d3b2e5757241d8cf6a394389df6bcdf2ec354671dc9036dd92405a518245",
+      "submission" : 1330,
+      "title" : "GREMLIN [EX]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=382&event=133",
+      "url_diff" : "https://darksabun.github.io/event/bofxvi/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Ester mov : mi / powered by cymbidium / selene.",
       "comment" : "物量",
       "level" : "2",
@@ -4528,6 +4542,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "455-38B / obj : k_f / re : UnK-now/37X",
+      "comment" : "忙しい人々のために",
+      "level" : "4",
+      "md5" : "403e9511dd9b029a22cdf45e55f36384",
+      "proposer" : "MEES-♬",
+      "proposerLr2id" : 39693,
+      "sha256" : "c9c5a786c5b805f72c1d4ef81c7d2edf1d93508155710fd662c794db9028a0c5",
+      "submission" : 1329,
+      "title" : "G e n g a o z o - f o n",
+      "url" : "http://malie.noor.jp/",
+      "url_diff" : "http://sagena.harisen.jp/"
    },
    {
       "artist" : "でぱみぃ obj:七海",
@@ -15673,6 +15700,19 @@
       "title" : "ReviXy [CraZy]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=179&event=123",
       "url_diff" : "https://2rlz.github.io/"
+   },
+   {
+      "artist" : "ROKINA",
+      "comment" : "高速",
+      "level" : "3",
+      "md5" : "d5f397b50d019d2e78565d0caa7ab0f9",
+      "proposer" : "スノート",
+      "proposerLr2id" : 86393,
+      "sha256" : "dc72706f5df5afaa18e8843c54d00b105fcf762c4cf343940adbb430f41e6140",
+      "submission" : 1328,
+      "title" : "Grace Glaciaire [MASTER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=37&event=133",
+      "url_diff" : ""
    },
    {
       "artist" : "Rabbit House / Ratif obj. 七海千秋",
