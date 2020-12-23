@@ -158,6 +158,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "あとぅす feat.橘花音 BGI:りーふぱいザウルス obj : BAECON",
+      "comment" : "BOFXVI同梱譜面 連打複合、ラスト回復あり",
+      "level" : "4",
+      "md5" : "59ee16a8325b5fc5978f1e465b76d844",
+      "proposer" : "リアン",
+      "proposerLr2id" : 47594,
+      "sha256" : "1a9588db07991601c9da35ac30fd0d0b6a94bac3e9c4cf2507e10c323736d073",
+      "submission" : 1331,
+      "title" : "LAST PROPOZE [Farewell]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=124&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Hyparpax obj: LuvTek",
       "comment" : "0noteとズレなし",
       "level" : "4",
@@ -402,5 +415,18 @@
       "voteNo" : 0,
       "votePercent" : 100,
       "voteYes" : 5
+   },
+   {
+      "artist" : "SHIKI obj:firi.",
+      "comment" : "CCHHAASSEERR",
+      "level" : "9",
+      "md5" : "f85131a6206a8f2bcf26bf4f3b65b50b",
+      "proposer" : "MEES-♬",
+      "proposerLr2id" : 39693,
+      "sha256" : "af7908f6b1bd693086d5a08bef0c37938fcb82eb01b2ab4173734e570c252732",
+      "submission" : 1332,
+      "title" : "CHASER [Delay]",
+      "url" : "http://shiki2.sakura.ne.jp/fohs.html",
+      "url_diff" : "https://drive.google.com/file/d/1rcws0wIemzmVyil9oX2QRaamq1GRb-Vv/view?usp=sharing"
    }
 ]
