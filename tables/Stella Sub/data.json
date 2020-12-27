@@ -3914,7 +3914,7 @@
    {
       "artist" : "しらいし / obj:夢瑠",
       "comment" : "ディレイ",
-      "level" : "3",
+      "level" : "4",
       "md5" : "39251109d3301719a118e293357b34dd",
       "proposer" : "7zs",
       "sha256" : "c0a953ff42b9249ceeb58cab7b5bfe95a7ff5bbb1aa7d240722df936f02975e8",
@@ -7632,6 +7632,19 @@
       "url_diff" : "https://fsrs.github.io/table.html"
    },
    {
+      "artist" : "maki (original:watson)",
+      "comment" : "同梱の03_rabbitburrow-ex.pms基準、検出されるズレ、抜け(C1、BA、BB、BCなどの)は全部キー音を分割して、いくつかのキー音に割れたので出たズレ、抜けです。プレーには関係無し",
+      "level" : "3",
+      "md5" : "6880dbeffc00e460a72d704be661a6ae",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "0809cc0252bef1d13be9cf261e227c77eed678b76003d3617eac809374e37e58",
+      "submission" : 1339,
+      "title" : "rabbit burrow [rabbit blow]",
+      "url" : "http://pmcc.nekokan.dyndns.info/pmcc2/download.html",
+      "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
       "artist" : "ねこみりん Movie:iimo / and \"Noranekoxi\" all-star! / obj:sak",
       "comment" : "",
       "level" : "7",
@@ -8672,6 +8685,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Lime obj : BAECON",
+      "level" : "3",
+      "md5" : "75e7e03940e768555e7d0e24727599b9",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "775ddd4cdd06523b78cc623988527d3dcac22c7da64e3c21e99cc3362b2bca59",
+      "submission" : 1334,
+      "title" : "Stellaria [Stellae mare]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=434&event=133",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04790",
+      "zureCount" : 0
+   },
+   {
       "artist" : "あとぅす Illust:Micelle/Movie:TM",
       "comment" : "BPM164 乱打、ラスト微連打",
       "level" : "0",
@@ -8822,6 +8848,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "D.J.Nero obj.2RLZ",
+      "comment" : "乱打、連打、いろいろ",
+      "level" : "2",
+      "md5" : "79599345472064ac7c9506a2cbcfffa5",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "3bdafc2954314572d6ff80c9546e74ebe09bb4bd468c5eea75eafa48f64c0402",
+      "submission" : 1338,
+      "title" : "Joker [Arcana]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/Joker%20%28by%20D.J.Nero%29.rar",
+      "url_diff" : "https://2rlz.github.io/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "MINT BGA : Can.D-mtmrw / OBJ : Omino",
       "comment" : "",
       "level" : "10",
@@ -8875,6 +8915,18 @@
       "title" : "lest -殺-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=76",
       "url_diff" : "http://3228monsta.web.fc2.com/"
+   },
+   {
+      "artist" : "otoshi.b × みゅい × はしたかさん × BAECON",
+      "level" : "2",
+      "md5" : "7a7e23eb2a6f734152f520053422e939",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "5919b8a8a7b8c944288925f6b1b574665b3ea7a6f8d44ac7ccd685f2cc77a58c",
+      "submission" : 1335,
+      "title" : "Shiny☆Strike!!! [Oath to the Future]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=133",
+      "url_diff" : ""
    },
    {
       "artist" : "saikoro",
@@ -12077,6 +12129,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "tetsuo Sliced by DAC / obj.hex",
+      "comment" : "BPM165 連打複合、アレンジ差分",
+      "level" : "4",
+      "md5" : "a577d60b41ed566d5337c76bde0a9af8",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "7c1083682a291a66a47ece539d8382a3d3be3f77df9aef46be2be7669efcb802",
+      "submission" : 1337,
+      "title" : "X'mas for You [Hexagon]",
+      "url" : "https://1drv.ms/u/s!AsmoDHSAppX8gnmNIdS4Ao34dSyS",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html"
+   },
+   {
       "artist" : "tarolabo / obj:七海千秋",
       "comment" : "ガチ押し。差分にゲーム性のために意図的なズレ(キー音の位置を変えたり、キー音を追加したりなどの)があります。 プレーには問題ないし、特に作者のホームページ(https://egosa24.web.fc2.com/)にも記載されています。",
       "level" : "0",
@@ -14208,6 +14273,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Sound piercer feat.ΣX mov.Ratif",
+      "comment" : "BPM158 2連打",
+      "level" : "4",
+      "md5" : "c3cfad8c0f1b1f6e31eb382b6dd52d82",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "370d94d9c0ad97c0900581e0d925da4c623d94da81149ea15e758e6e727145a5",
+      "submission" : 1336,
+      "title" : "新 疫病打令 (The New BOFXVID-19 Anthem)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=234&event=133",
+      "url_diff" : "https://darksabun.github.io/sabun/HanRiver_BOFXVID.zip",
+      "zureCount" : 0
+   },
+   {
       "artist" : "96ZUMMER pattern for some reason",
       "comment" : "差分ファイル同梱の_PLEASE_read_me_(about volume).txtによると、アレンジ差分ですので、全てのズレは意図的です。",
       "level" : "2",
@@ -16307,7 +16386,7 @@
    {
       "artist" : "otoshi.b obj:mute",
       "comment" : "from Satellite",
-      "level" : "0",
+      "level" : "1",
       "md5" : "df5b7926081c2a40bc79bf2d62200a62",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,
