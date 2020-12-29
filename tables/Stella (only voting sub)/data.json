@@ -14,6 +14,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "qfeileadh mov:むらたむうた obj:BAECON",
+      "comment" : "st7+? (連打複合?)",
+      "level" : "7",
+      "md5" : "2ef13e2092c83543862c03babeaccc4b",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "c739becf2dfd2da3db8ab4772b7bddf3105b3bb8cddb11b57541cd2fc9312a50",
+      "submission" : 1340,
+      "title" : "シレノ [Tidal wave]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=139&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "shio obj:chen",
       "comment" : "st6~7 高速, 高TOTAL (同梱譜面?)",
       "level" : "6",
