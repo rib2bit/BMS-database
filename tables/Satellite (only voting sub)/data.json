@@ -24,6 +24,20 @@
       "url_diff" : ""
    },
    {
+      "artist" : "でぱみぃ vs utzbo obj:七海",
+      "comment" : "BOFXVI 高速乱打、発狂少し。",
+      "level" : "12",
+      "md5" : "0f5b2b2df091b511e311873204203dcc",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "750eb20891e2cdbd1093793a5136a26764af449b4d1ef7445a4e22e73ed99ce5",
+      "submission" : 1765,
+      "title" : "Psychedelic Ritual -Despair-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=218&event=133",
+      "url_diff" : "https://www.dropbox.com/s/gc23tcyobmk7dfq/psyche_nanami.zip?dl=1",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Ponchi feat.はぁち obj:mathath",
       "comment" : "BOFXVI、同梱譜面、高TOTAL (sl5?)、高速階段、トリル、連打",
       "level" : "6",
@@ -125,6 +139,19 @@
       "title" : "La souvenir",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=193&event=133",
       "url_diff" : ""
+   },
+   {
+      "artist" : "MONO BGA: 乙青商会 / OBJ: LuvTek",
+      "comment" : "BOFXVI 同梱の_urania_7n基準ズレが一つ検出されるかもしれませんですが、それはbgaの拡張子に関連したズレなのでプレーには関係なし",
+      "level" : "9",
+      "md5" : "2b13530120df96c374f4fb79e3599ce6",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "3d7c1bf1151e50b07dfd3611de35246ac0b2803477c45fe911fd3dfe4111d2bb",
+      "submission" : 1764,
+      "title" : "Urania [Glowing Sky]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=427&event=133",
+      "url_diff" : "https://darksabun.github.io/event/bofxvi/"
    },
    {
       "artist" : "Remixed by Yamajet Movie : iimo",
@@ -475,6 +502,19 @@
       "url_diff" : "https://www.dropbox.com/s/de92huiftqtxel4/take_nanami.zip?dl=1"
    },
    {
+      "artist" : "saaa BGA : Arishima_Caprico",
+      "comment" : "BPM145 多要素",
+      "level" : "6",
+      "md5" : "eaf24464a5adb518463c83f953cd5300",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "7f6f8bdb9b880610d1b5c2b66959a53e7a0ddccba977239a0de75d6f734f917d",
+      "submission" : 1762,
+      "title" : "Time shrinker [INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=185&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "かたぎり BGA: 2nd_identity (mst×かたぎり)",
       "comment" : "FUN",
       "level" : "0",
@@ -485,6 +525,19 @@
       "submission" : 1747,
       "title" : "Angel's Salad [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=273&event=133",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "Big-O repect for Paradox",
+      "comment" : "BPM174-190 多要素",
+      "level" : "1",
+      "md5" : "edd1c6ebf8b002b48985141cad939751",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "2c92d53c7ff04a77dad37e3e8c07107e48a21703cd0110cf6ee59369978cdd00",
+      "submission" : 1763,
+      "title" : "Winter_Night_Fantom [Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=151&event=133",
       "url_diff" : ""
    },
    {
