@@ -24,6 +24,20 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Hyparpax",
+      "comment" : "前半は個人差要素多め、後半は若干LNが絡むが概ね地力譜面",
+      "level" : "5",
+      "md5" : "0f11ca484064380eefa624cc34cb30c5",
+      "proposer" : "Mallow♪",
+      "proposerLr2id" : 154796,
+      "sha256" : "c315097dec2e129d8a6003df2b6f89e5ab9394da2caabd897c7d8f9cb0c84e06",
+      "submission" : 1768,
+      "title" : "Rin-Rin [W]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=251&event=133",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04894",
+      "zureCount" : 0
+   },
+   {
       "artist" : "でぱみぃ vs utzbo obj:七海",
       "comment" : "BOFXVI 高速乱打、発狂少し。",
       "level" : "12",
@@ -320,6 +334,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "SOMON obj:monaka",
+      "level" : "2",
+      "md5" : "a1aa1470016bae84642a040bfaaca0ec",
+      "proposer" : "Mallow♪",
+      "proposerLr2id" : 154796,
+      "sha256" : "7ed8876e63ec52c3a87669f59b217842badfddafca3f4bc0676cd73e426f2c92",
+      "submission" : 1769,
+      "title" : "STARGAZER [ASTEROID]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=230&event=133",
+      "url_diff" : "https://drive.google.com/file/d/1QDflf2RipqjbZDfTT1sZ68vaCPmJym3w/view",
+      "zureCount" : 0
+   },
+   {
       "artist" : "HOUJIROU",
       "comment" : "乱打/代轉/同梱譜面/BMS衆議院",
       "level" : "0",
@@ -384,6 +411,19 @@
       "submission" : 1736,
       "title" : "work.it ＾＾overtime",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=95&event=133",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "5-let x Kolipamus.3 x Alnilam",
+      "comment" : "ROCK THIS",
+      "level" : "0",
+      "md5" : "bcecfe005e13d171434a0185a2ca8f96",
+      "proposer" : "|/|",
+      "proposerLr2id" : 147895,
+      "sha256" : "104eb5bd4f21d8d07d33961a1d0125f79d0b57fa76aaa09be5cb24902d01f0cc",
+      "submission" : 1767,
+      "title" : "Asymmetric Grooves [ROCK]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=500&event=133",
       "url_diff" : ""
    },
    {

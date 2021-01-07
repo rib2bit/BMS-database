@@ -1,5 +1,19 @@
 [
    {
+      "artist" : "Cosmograph / yusi. obj.霧切杏子",
+      "comment" : "総合譜面",
+      "level" : "0",
+      "md5" : "2a3af61bc6c47284f45a007e88308707",
+      "proposer" : "Mallow♪",
+      "proposerLr2id" : 154796,
+      "sha256" : "59edddf1a8995c3fab1f995c26e32b8b20a2d2849c3d1d95c4728de5c49790a0",
+      "submission" : 1342,
+      "title" : "ELIMINATOR [Despair]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=133",
+      "url_diff" : "https://drive.google.com/file/d/1pIHEotzOf4VEGKX5irgLBM4aTFrp22KF/view",
+      "zureCount" : 0
+   },
+   {
       "artist" : "kanoryo / obj:marquee BGA:Nectoroune",
       "comment" : "BOFXVI",
       "level" : "2",
@@ -11,6 +25,20 @@
       "title" : "GREMLIN [EX]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=382&event=133",
       "url_diff" : "https://darksabun.github.io/event/bofxvi/",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "RSK / selene.",
+      "comment" : "高速乱打",
+      "level" : "5",
+      "md5" : "2e088b5613507357a9fe5496b4eb187d",
+      "proposer" : "Mallow♪",
+      "proposerLr2id" : 154796,
+      "sha256" : "452253ec60a3839abe43b00043f2259981b63d57d93872e758f91100303a509d",
+      "submission" : 1343,
+      "title" : "Let me wish shooting star -Genocide-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=135&event=127",
+      "url_diff" : "https://drive.google.com/file/d/1QDflf2RipqjbZDfTT1sZ68vaCPmJym3w/view",
       "zureCount" : 0
    },
    {
