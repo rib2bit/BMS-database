@@ -655,6 +655,19 @@
       "url_diff" : "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download"
    },
    {
+      "artist" : "Is-m BGA:ハマドメハマル",
+      "comment" : "★★2?、同梱譜面",
+      "level" : "11",
+      "md5" : "2344584fd7bc2c430ffd3a12afdfad9d",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "f25961a32cc682ab8564ad7b693f81d0d9adb2251c60e5a1c7337aab5666cc24",
+      "submission" : 446,
+      "title" : "Anti Function -DP INSANE-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=120",
+      "url_diff" : ""
+   },
+   {
       "artist" : "LiA(obj:A-4)",
       "comment" : "10～11 高bpm、同時、階段",
       "level" : "11",
@@ -786,6 +799,20 @@
       "title" : "deep blue sunrise (Another)",
       "url" : "http://iimode-do.jp/?p=60",
       "url_diff" : ""
+   },
+   {
+      "artist" : "siromaru + cranky // movie: iimo // obj:epics-",
+      "comment" : "1~3?",
+      "level" : "2",
+      "md5" : "26d6f5d22a28f511516096981ed65553",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "6fcfd4ccc2d8b8cff7d9c57d5640083cbc3564b5d73042419d5a9e5bd2153a90",
+      "submission" : 445,
+      "title" : "conflict [DPA]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=74",
+      "url_diff" : "http://epics.client.jp/",
+      "zureCount" : 0
    },
    {
       "artist" : "⑮ / obj:sagoo BGA:えらる",
@@ -2976,19 +3003,6 @@
       "url_diff" : "https://ux.getuploader.com/dpbms/download/771"
    },
    {
-      "artist" : "sak feat.みゅい obj:msl BGI:球根",
-      "comment" : "2?",
-      "level" : "2",
-      "md5" : "9616428365252530dc3ac6b994e21443",
-      "proposer" : "JHS",
-      "proposerLr2id" : 128228,
-      "sha256" : "79ae98a8a30aadf895a1d12b283aaf2fcd797c88b651970e698b98a5d3e978c5",
-      "submission" : 206,
-      "title" : "ハニエルのうた DPA",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=120",
-      "url_diff" : "https://ux.getuploader.com/bqn/download/1"
-   },
-   {
       "artist" : "Lime / inukoro  obj:右手が恋人",
       "comment" : "9~10?",
       "level" : "9",
@@ -3600,6 +3614,19 @@
       "title" : "Angel dust",
       "url" : "https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
       "url_diff" : "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download"
+   },
+   {
+      "artist" : "syatten",
+      "comment" : "3?、同梱譜面",
+      "level" : "3",
+      "md5" : "b3307a2f68b6f78db339ef05050a6e8e",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "e26652f43a778c118e1700a9fbadd2554f205aae6d6244e03b810a1b2e147821",
+      "submission" : 443,
+      "title" : "Altostratus",
+      "url" : "http://web.archive.org/web/20130821171914/http://www.planetoid.biz/bms/DH_Altostratus.zip",
+      "url_diff" : ""
    },
    {
       "artist" : "しらいし obj: misty.ls04",
@@ -4271,6 +4298,19 @@
       "title" : "ハードルネッサンバ -DP MID BOSS-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=409&event=104",
       "url_diff" : "http://sunaneko.iptime.org/dpsabun_kenin.html"
+   },
+   {
+      "artist" : "69 de 74 BGI:れおん/黒鵜織羽 obj:フォルティッシモ",
+      "comment" : "(差分Readmeより)全譜面同梱ANOTHER譜面と比較してズレ抜け無しです。 (検出されてくるRYとRZはバスドラが複音化されているかバラしているかの違いです)　",
+      "level" : "6",
+      "md5" : "cfbb406d9db451fa9b72a6965dbed67b",
+      "proposer" : "もち",
+      "proposerLr2id" : 53819,
+      "sha256" : "4a179f08ecee3cd413808f1259c5225591a19e495ae886062f10357b72bed66b",
+      "submission" : 442,
+      "title" : "5億円が欲しいRENAISSANCE [DP ANOTHER]",
+      "url" : "https://dropbox.com/s/z7ylf1l80grpybm/%5B69%20de%2074%5D5oku_RENAISSANCE_ogg.zip?dl=1",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04561"
    },
    {
       "artist" : "qfeileadh feat.レゾナンスもえこ mov:自動車 原付 / obj. 0ne",
@@ -5188,6 +5228,19 @@
       "title" : "Heart Melting Color [14 Another]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=31&event=96",
       "url_diff" : "http://l-bms.com/"
+   },
+   {
+      "artist" : "sound piercer",
+      "comment" : "1?、同梱譜面",
+      "level" : "1",
+      "md5" : "f62d47cd97f33682e7c8ce032bc38bee",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "f41a4c51ff5b23c11d1008e391774cc1927046ef14a7e16d48b1abe5b2c10405",
+      "submission" : 444,
+      "title" : "Castorpollux [DP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=381&event=104",
+      "url_diff" : ""
    },
    {
       "artist" : "Yosk!",

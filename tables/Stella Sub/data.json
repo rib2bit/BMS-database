@@ -178,7 +178,7 @@
    {
       "artist" : "かたぎり BGA: 2nd_identity (mst×かたぎり) OBJ: LuvTek",
       "comment" : "NORMAL判定、独特な発狂",
-      "level" : "2",
+      "level" : "3",
       "md5" : "02fd0a7beaded078d6c68ae4480c5908",
       "proposer" : "MarySue",
       "proposerLr2id" : 147889,
@@ -192,7 +192,7 @@
    {
       "artist" : "ZUN / BMS:average BGA:のりろー / A",
       "comment" : "高速連打複合",
-      "level" : "11",
+      "level" : "10",
       "md5" : "03278f98734a370dfd340a766318f22f",
       "proposer" : "スノート",
       "proposerLr2id" : 86393,
@@ -697,6 +697,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "矢立肇 / obj: Mary_Sue",
+      "comment" : "BPM175 微連打、序盤難",
+      "level" : "3",
+      "md5" : "0b3382d2bc20ab4ae70514a89c8d8ba0",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "b90b01b5a3f96e52037221dde699a0f88089e287a7fc422e3cc7266ebe7f6f7c",
+      "submission" : 1345,
+      "title" : "God Morning [Maryther]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=305&event=133",
+      "url_diff" : "https://darksabun.github.io/Mary_Sue/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "ぷらすちっくと女の子 / U",
       "comment" : "ガチ押し",
       "level" : "3",
@@ -922,7 +936,7 @@
    {
       "artist" : "TAK vs General / Jeff obj.hex",
       "comment" : "BPM200 物量、アレンジ差分",
-      "level" : "1",
+      "level" : "2",
       "md5" : "0d6e7a4bb86fc4019f91e177309c1d61",
       "proposer" : "SHAX.",
       "proposerLr2id" : 65624,
@@ -5653,7 +5667,7 @@
    {
       "artist" : "saaa BGA : Arishima_Caprico object: LuvTek",
       "comment" : "anoso_.bmuooとズレなし(0noteファイル)",
-      "level" : "1",
+      "level" : "2",
       "md5" : "4e4b4ad8f3080342d97350b539699e34",
       "proposer" : "MineC24",
       "proposerLr2id" : 84597,
@@ -5765,6 +5779,19 @@
       "voteNo" : 0,
       "votePercent" : "100.00",
       "voteYes" : 0
+   },
+   {
+      "artist" : "sasakure.UK / И",
+      "comment" : "曲をカットしたアレンジ差分です。検出されるズレ、抜けは全部意図されたものです。(同梱の_URL_sabun_readmeによると)",
+      "level" : "1",
+      "md5" : "4f8dbc1b122c133f1366c6cb8203491c",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "4c6cf2d3988bca6bdf5ed7d998d684c85fa33ea43fffed802f38cb2e958fce65",
+      "submission" : 1347,
+      "title" : "+i m a z i n e x o+",
+      "url" : "https://web.archive.org/web/20070703051913/http://sasakure.bms.ms/bms/imazinexoMQver1.1.zip",
+      "url_diff" : "https://bms.parksulab.xyz"
    },
    {
       "artist" : "er obj:Fxi",
@@ -6388,6 +6415,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "RioRa obj. LuvTek",
+      "comment" : "同時押し、3連打、体力",
+      "level" : "4",
+      "md5" : "580445780f746df771efb28d25a4c03b",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "9a29342076aa0c348c7a2713e4419339843c966d1176d0e83e382fa46bfd1368",
+      "submission" : 1348,
+      "title" : "SINGURIZE",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=375&event=133",
+      "url_diff" : "https://darksabun.github.io/event/bofxvi/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "11.Soccer Team / selene.",
       "level" : "10",
       "md5" : "581e369f1d1e40ac70c053df5452751b",
@@ -6768,7 +6809,7 @@
    {
       "artist" : "qfeileadh BGA: SELDO",
       "comment" : "st0~1 st3サカサマみたいな",
-      "level" : "2",
+      "level" : "3",
       "md5" : "5d0c727823b1cbea3e738958acafb687",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -12197,7 +12238,7 @@
    {
       "artist" : "tarolabo / obj:七海千秋",
       "comment" : "ガチ押し。差分にゲーム性のために意図的なズレ(キー音の位置を変えたり、キー音を追加したりなどの)があります。 プレーには問題ないし、特に作者のホームページ(https://egosa24.web.fc2.com/)にも記載されています。",
-      "level" : "0",
+      "level" : "1",
       "md5" : "a597752081cb02d716d0ed1e16f6a158",
       "proposer" : "MarySue",
       "proposerLr2id" : 147889,
@@ -14423,7 +14464,7 @@
    {
       "artist" : "Grand thaw / obj:chack",
       "comment" : "サンバ系ガチ押し",
-      "level" : "6",
+      "level" : "5",
       "md5" : "c4f24d1d43310a0039ecafea845efea6",
       "proposer" : "Masa",
       "sha256" : "6b74ddbf2ca5a84385f46df00998d84e4bd1b00b5dacaca07f02f147f2b1d313",
@@ -16309,7 +16350,7 @@
    {
       "artist" : "Kyuu/Yossy obj.hex",
       "comment" : "BPM160 横に広い物量、アレンジ差分",
-      "level" : "1",
+      "level" : "2",
       "md5" : "ddc1e577779bb3989cff7fddb4f3c1e4",
       "proposer" : "SHAX.",
       "proposerLr2id" : 65624,
@@ -17409,6 +17450,19 @@
       "url_diff" : "http://drowsy.hannnari.com/toy.html"
    },
    {
+      "artist" : "cosMo / nmk / ドフォーレ商会",
+      "comment" : "Death field (bgm shifted by 1/4 for delay effect)",
+      "level" : "11",
+      "md5" : "eeaf633352d810a14b9e8fae3fb486ca",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "38d0e0138bc42aebc38bcab292ad6d47c46f9bd8ede1c37d1a0343719cdcc506",
+      "submission" : 1344,
+      "title" : "覚醒フィールド -DEATHER-",
+      "url" : "http://www1.axfc.net/uploader/Li/so/65292.zip",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
+   },
+   {
       "artist" : "Is-m obj:firi. BGA:coda obj:firi.",
       "comment" : "ディレイ",
       "level" : "9",
@@ -18459,6 +18513,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "scytheleg obj:homare",
+      "comment" : "BPM200 乱打、微連打",
+      "level" : "4",
+      "md5" : "fdd63c4acd04103723471c2d1f70f517",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "08dbafbd07133b05db1b53ba78dee1d7adf1f598f550030b2003ea6cab8a6236",
+      "submission" : 1346,
+      "title" : "Blagdan Bascarsije (Poludjeti Mix)[Balkans]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=132",
+      "url_diff" : "https://drive.google.com/file/d/1QDflf2RipqjbZDfTT1sZ68vaCPmJym3w/view"
    },
    {
       "artist" : "Junk obj.鰐",
