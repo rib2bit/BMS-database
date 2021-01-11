@@ -83,6 +83,32 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04561"
    },
    {
+      "artist" : "Zris feat. Kri",
+      "comment" : "0~1? 同梱譜面",
+      "level" : "0",
+      "md5" : "dc4adbbf11b5a6868aa73abecc629c3e",
+      "proposer" : "Telperion",
+      "proposerMinirid" : "049d2676-c5b2-4b6c-9ade-85d38e095e69",
+      "sha256" : "6c45bc6f95ab1b5d4076e8ccca1f73409295403914e6f7724540720adc4fea9b",
+      "submission" : 447,
+      "title" : "Can't it be true",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=444&event=133",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "Sound piercer feat.ΣX mov.Ratif",
+      "comment" : "同梱譜面",
+      "level" : "5",
+      "md5" : "ed4920db5c733d06b3c0cbaadc990cad",
+      "proposer" : "Telperion",
+      "proposerMinirid" : "049d2676-c5b2-4b6c-9ade-85d38e095e69",
+      "sha256" : "bedc456a34914264a7f047d61e6a0ca2987420022fa74ff0a6fce330d1c1b07d",
+      "submission" : 448,
+      "title" : "新 漢江水打令 [DP LEGGENDARIA]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=234&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "sound piercer",
       "comment" : "1?、同梱譜面",
       "level" : "1",
