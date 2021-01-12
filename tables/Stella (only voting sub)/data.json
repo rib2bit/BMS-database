@@ -133,6 +133,22 @@
       "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html"
    },
    {
+      "artist" : "daisan Movie : highluin / obj.hex",
+      "level" : "2",
+      "md5" : "a7b3fba3112aa3000b53816a0b3b1a88",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "ab97a1e1805a843dfe8acdbf2ca3d298f604a3799037f170f7edf6388ea4d3ae",
+      "submission" : 995,
+      "title" : "ペニンシュラの踊り子 The dancer of a peninsula [Hexagon]",
+      "url" : "http://clockxellox.sakura.ne.jp/BMS/Peninsular.zip",
+      "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 3
+   },
+   {
       "artist" : "Sound piercer feat.ΣX mov.Ratif",
       "comment" : "BPM158 2連打",
       "level" : "4",
