@@ -12,6 +12,22 @@
       "url_diff" : "http://sabosabun.tank.jp/"
    },
    {
+      "artist" : "World's endo pisum sativum L. obj:七海",
+      "level" : "12",
+      "md5" : "07e5040e7a381f045d8798560ee95b43",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "43c148897b3fb239a2fa626ed319287f1ca923722f3db3bb7f04ca8a14c6a05e",
+      "submission" : 1596,
+      "title" : "Alice I [WTF]",
+      "url" : "https://www.bmsworld.nz/download/b-j-cup-8th-stage-worlds-endo-pisum-sativum-l-alice-i/#",
+      "url_diff" : "https://trfce.github.io/wtf.html",
+      "voteNeutral" : 0,
+      "voteNo" : 2,
+      "votePercent" : 77.7777777777778,
+      "voteYes" : 7
+   },
+   {
       "artist" : "でぱみぃ vs utzbo obj:七海",
       "comment" : "BOFXVI 高速乱打、発狂少し。",
       "level" : "12",
@@ -49,6 +65,20 @@
       "title" : "Be With U",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=272&event=133",
       "url_diff" : ""
+   },
+   {
+      "artist" : "r obj. DK",
+      "comment" : "compared to _NormalVisor.bms, no misalignments",
+      "level" : "1",
+      "md5" : "2865caf7729490150384201d666c4db9",
+      "proposer" : "moka",
+      "proposerLr2id" : 167326,
+      "sha256" : "4dfc5043ba8396ff8a2a0b51f46b49246e63bddf0f21fea9a6592eb71e4b36f9",
+      "submission" : 1788,
+      "title" : "クロノバイザー [パラドックス]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=88&event=132",
+      "url_diff" : "https://frozensat.github.io/sabun/Visor_DK.zip",
+      "zureCount" : 0
    },
    {
       "artist" : "しーけー",
@@ -371,6 +401,31 @@
       "submission" : 1756,
       "title" : "Cutee☆NeverLand [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=127",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "paraneumann obj : Mary_Sue",
+      "comment" : "compared to transicio_mihaiti.bm_s, no misalignments",
+      "level" : "0",
+      "md5" : "e19dbc01deecd0fe62d9769116703d2a",
+      "proposer" : "moka",
+      "proposerLr2id" : 167326,
+      "sha256" : "7280266b6551152b7b2555e5dabc56cb5abcd871561d6a960d6d37c2fe49ac83",
+      "submission" : 1787,
+      "title" : "Transicio [Marymal]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=132",
+      "url_diff" : "https://darksabun.github.io/Mary_Sue/"
+   },
+   {
+      "artist" : "COWBELL MASTER 心愛 -COCOA- BGA: w, OBJ: w",
+      "level" : "1",
+      "md5" : "e62f07b38621e9e084f3f9f77d631c82",
+      "proposer" : "mqppppp",
+      "proposerLr2id" : 129162,
+      "sha256" : "df80853ca6cb20f30daf3e862393ece4e621d7ea90d57bbb9364184a2c8c9277",
+      "submission" : 1786,
+      "title" : "GET ON WiTH FUNKOT [SP HELL]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=80&event=133",
       "url_diff" : ""
    },
    {
