@@ -54,6 +54,45 @@
       "zureCount" : 0
    },
    {
+      "artist" : "ZUN(Arr.sun3)",
+      "level" : "4",
+      "md5" : "347e728cf787c9eddcb2986abe6c028e",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "de27e3fd8f50475f2c5f6f4c27d15bada4456670a2284e5f713911f773804cef",
+      "submission" : 454,
+      "title" : "月時計　Last・Dial (DPA)",
+      "url" : "http://web.archive.org/web/20081020014319/http://succinicacid.hp.infoseek.co.jp/music.html",
+      "url_diff" : "https://w.atwiki.jp/14key/pages/23.html",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "8284 / Obj:ゆ～兎",
+      "level" : "3",
+      "md5" : "4b09fc33f71a32e2c6bbc7602048ab21",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "836bca8ba12e82855966a60fe10fc9b804742557c0c60a0ee52c709d04fdb35a",
+      "submission" : 450,
+      "title" : "Central Nucleus [DP ANOTHER]",
+      "url" : "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/folder/UB8gABwB",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/117",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "Hyparpax obj : 71066",
+      "level" : "3",
+      "md5" : "7d9100fba417fa838b31f86728ba2659",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "ec6c3abcba28695066e54d0a9f45a64fa87c56d8852d66618a32f685ab900944",
+      "submission" : 453,
+      "title" : "RAVE NIGHTINGALE [Daybreak14]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=130",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/799",
+      "zureCount" : 0
+   },
+   {
       "artist" : "nmk / Obj:ゆ～兎",
       "level" : "2",
       "md5" : "81ed3f5c9df93ce4e98a623052a526ac",
@@ -107,6 +146,19 @@
       "title" : "Can't it be true",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=444&event=133",
       "url_diff" : ""
+   },
+   {
+      "artist" : "しらいし obj:けろりん",
+      "level" : "3",
+      "md5" : "e255f2454ad464f042b2ea6f83d143ab",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "3a8557753356b07916a3bd654c5faf90ee7ec8404fb542aadb76d092f3e32df2",
+      "submission" : 451,
+      "title" : "Loki [Trickster]",
+      "url" : "http://www1.axfc.net/uploader/He/so/354752&key=sage",
+      "url_diff" : "http://favo.kitchen/bms/",
+      "zureCount" : 0
    },
    {
       "artist" : "Sound piercer feat.ΣX mov.Ratif",

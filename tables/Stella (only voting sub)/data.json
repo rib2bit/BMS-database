@@ -176,6 +176,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "わかどり BGA : もがみ / obj:th",
+      "comment" : "SPN: #017 01 (11 / 16) #WAVCW is missing. (b_piano-melo_00008_dp.wav)",
+      "level" : "3",
+      "md5" : "c9ffe8fa9d5000b3f5a734216487270c",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "3414b03a066293e5f5b094a087cafee5fbe0c3e246f9df570a41f937859d72f7",
+      "submission" : 1350,
+      "title" : "NightTheater [FishLife]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=18&event=133",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04829"
+   },
+   {
       "artist" : "諸星きらり/緒方智絵里",
       "level" : "1",
       "md5" : "d00e7d9111ad2bd2bba587616627fc69",

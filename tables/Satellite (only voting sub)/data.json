@@ -1,5 +1,19 @@
 [
    {
+      "artist" : "七草くりむ mov.都森れん obj.Mary_Sue",
+      "comment" : "",
+      "level" : "8",
+      "md5" : "0083f9de62f737c85c99e962074fb07a",
+      "proposer" : "Restia",
+      "proposerLr2id" : 115265,
+      "sha256" : "ebf4e332aeaabfaed2862ba8dcceaca46009c3678d0114f4d98f2a31bc2acbc8",
+      "submission" : 1790,
+      "title" : "IDOLL [DOLLISH]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=126&event=133       ",
+      "url_diff" : "https://darksabun.github.io/Mary_Sue/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Y.W/さ",
       "level" : "5",
       "md5" : "0347dba6685a97b8f56bed590a74c9a1",
@@ -118,6 +132,20 @@
       "title" : "War in the Mirrorworld [ZANDACLAUS]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=389&event=133",
       "url_diff" : ""
+   },
+   {
+      "artist" : "naotyu- obj:K-SPIN",
+      "comment" : "皿複合、縦連",
+      "level" : "1",
+      "md5" : "45817b5ca58e3c86ff54af24135dd13b",
+      "proposer" : "bluemouse",
+      "proposerMinirid" : "38b6fd3c-5f86-4e87-aef8-3f9952471580",
+      "sha256" : "dcd6caf6d8974b05a177f485784823a07a3b104aa32ea6e7dab881adcaa4fe61",
+      "submission" : 1791,
+      "title" : "#74 -7SPINNER-",
+      "url" : "http://skydrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21271",
+      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up4367.zip",
+      "zureCount" : 0
    },
    {
       "artist" : "kanone BGA:Shuto / obj:SUZUKAZEΛ",
@@ -492,5 +520,18 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=220&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04919",
       "zureCount" : 0
+   },
+   {
+      "artist" : "あとぅす feat.つゆり花鈴 BGI:りーふぱいザウルス　obj:Rian",
+      "comment" : "従連打系 地力練習",
+      "level" : "4",
+      "md5" : "f57c93ffabedb60b76a9f51f26aa84c7",
+      "proposer" : "Restia",
+      "proposerLr2id" : 115265,
+      "sha256" : "89a17fc54bfa76a7d697419088ff98c9806a4cb6f906474e78dd825e072274c5",
+      "submission" : 1789,
+      "title" : "FIRST PROMIZE [INSANE]",
+      "url" : "https://venue.bmssearch.net/mutualfaith3/9",
+      "url_diff" : ""
    }
 ]
