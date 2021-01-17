@@ -2671,6 +2671,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "69 de 74 BGA:FanfRS",
+      "comment" : "BPM225 高速階段",
+      "level" : "6",
+      "md5" : "19e7661ba1ae245d5bfadea3fede9ad6",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "e7603a98a346ac66c5224067de70fa13746c74b2976295a18f02105406d811ff",
+      "submission" : 1795,
+      "title" : "LWVIIX [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "wigen",
       "comment" : "乱打、加速ギミックあり(LNであれば影響なし)",
       "level" : "5",
@@ -13350,6 +13363,20 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Ponchi feat.はぁち obj.霧切杏子",
+      "comment" : "高速乱打、階段。SPIの補完として",
+      "level" : "6",
+      "md5" : "87fb235042996e564dbddbd3f84a69f0",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "1a0697c66d6bfa73ead58ec1dbe6e01df2cc5e813649ace46882c6308acca288",
+      "submission" : 1794,
+      "title" : "インフェルノシティ [SOUL METRO 地獄鉄 死号線 冥洞駅 UNPACIFIC HOTEL]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=244&event=133",
+      "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpymRc3hbVWzXm7VnlX?e=p0HTos",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Lime feat. Salita / deadblue238 / obj: Lennon",
       "comment" : "BPM136 乱打",
       "level" : "2",
@@ -20841,6 +20868,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "38k",
+      "comment" : "BPM173 乱打",
+      "level" : "6",
+      "md5" : "d3275a3e1a0c3bb5d93eeaaa2b8bd419",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "0c329d446f4694d2572456280b8208082d180c175dadbf4407c3cb6f1e6ecb8d",
+      "submission" : 1796,
+      "title" : "Retronika [INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=240&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "69 de 74 BGI:MUSH.T",
       "comment" : "神 Wind - BMSをいっぱい作る2019、~★7、乱打、皿同時押し、微LN",
       "level" : "4",
@@ -23349,6 +23389,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "雑味蔵",
+      "comment" : "高速階段, 二重階段",
+      "level" : "2",
+      "md5" : "ed0a08bb6c87d4002d758602d3f2aac8",
+      "proposer" : "Topio",
+      "proposerMinirid" : "381c5078-4634-43ae-a3b9-e042de243d8c",
+      "sha256" : "7a61991d61f2ecb28daa0977998580e0b6c0a7ce61c3d4c7c9fcaa2493645642",
+      "submission" : 1792,
+      "title" : "3000 Moons",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=505&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "be5moti / うまるつふり obj:Fender",
       "comment" : "少し連打有",
       "level" : "8",
@@ -23598,6 +23651,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Team.Varistyle(Chobo)",
+      "comment" : "HS-FIX : AVG",
+      "level" : "12",
+      "md5" : "eed9ede40f263013bf8bab36ea5bfb6e",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "4ff51db34e7f657c3e641bd3c82e09342fac2dd2a0bb584a3226c4bd3aac5ec4",
+      "submission" : 1793,
+      "title" : "NarkotismuS [DRUG]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/NarkotismuS%20%28by%20Team.Varistyle%28Chobo%29%29.rar",
+      "url_diff" : ""
    },
    {
       "artist" : "ridis(Rai) / obj. laner",
