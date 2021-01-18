@@ -129,6 +129,19 @@
       "url_diff" : "http://epics.client.jp/"
    },
    {
+      "artist" : "ぽんきち",
+      "comment" : "同梱譜面",
+      "level" : "6",
+      "md5" : "0927a8e429d04fb821bd166947c8bcd1",
+      "proposer" : "Telperion",
+      "proposerMinirid" : "049d2676-c5b2-4b6c-9ade-85d38e095e69",
+      "sha256" : "1eb442f21586212e07cab28b685412a403e221bc07f70bcb59f2c760b6003d73",
+      "submission" : 456,
+      "title" : "PPBQ",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=394&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "カラフル・サウンズ・ポート / obj.LetsOTL",
       "comment" : "4~5? 階段、乱打",
       "level" : "4",
