@@ -147,6 +147,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "hayato87b",
+      "comment" : "音頭",
+      "level" : "0",
+      "md5" : "3e146dd01c3c393c53a1b7b87193feb3",
+      "proposer" : "|/|",
+      "proposerLr2id" : 147895,
+      "sha256" : "7a0dcf51fadb71bb97635f5e5aa44a89927458fe527b9b89309a75da2124586c",
+      "submission" : 1802,
+      "title" : "Invisible FullMoon 2021 音頭",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=129",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html"
+   },
+   {
       "artist" : "naotyu- obj:K-SPIN",
       "comment" : "皿複合、縦連",
       "level" : "1",
@@ -172,6 +185,19 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=358&event=133",
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "zureCount" : 0
+   },
+   {
+      "artist" : "LU VS 8 to 7 VS sak BGA:8 to 7",
+      "comment" : "2~3? 同梱譜面",
+      "level" : "2",
+      "md5" : "4cd5898d37374cadc0a1069d0baa60e3",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "5724088fb9b0975dcea6aaf6ea4f02f08c766a448f2ceb9861d2d831c1cd602c",
+      "submission" : 1801,
+      "title" : "My DIMENSIONS OF THE FOUR",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=107&event=93",
+      "url_diff" : ""
    },
    {
       "artist" : "LisicA movie : ルゼ(LuzeriA) / illust : Orphee / obj:SUZUKAZEΛ",
