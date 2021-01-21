@@ -43,6 +43,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "COWBELL MASTER 心愛 -COCOA- BGA: w, OBJ: KEH",
+      "comment" : "sl0～sl2？ ラストに回復あり",
+      "level" : "1",
+      "md5" : "224ce2a5d7ac3a808e2c859aa0575eac",
+      "proposer" : "もち",
+      "proposerLr2id" : 53819,
+      "sha256" : "c1e56177acf712f4837c4e52d9066b6792358d4b937e35792e71ee18104767bb",
+      "submission" : 462,
+      "title" : "GET ON WiTH FUNKOT [DP HARD]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=80&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Cosmograph / yusi. obj. Limite",
       "comment" : "階段, 同時押し",
       "level" : "2",
@@ -95,6 +108,22 @@
       "url" : "http://leafbms.web.fc2.com/song.html",
       "url_diff" : "https://www.dropbox.com/s/xzjxuwwnkntvmkz/Poison%20AND%C3%B7OR%20Affection.zip?dl=0",
       "zureCount" : 0
+   },
+   {
+      "artist" : "削除 feat. Nikki Simmons Movie:Radiocity&yoshimo / obj:Starfish",
+      "level" : "8",
+      "md5" : "3313af61d72229ebf2910b7d82108083",
+      "proposer" : "もち",
+      "proposerLr2id" : 53819,
+      "sha256" : "881465ee0a9df6381bd41b7c294c5feeccd4db886ae46473b7e9b97c1dab3b12",
+      "submission" : 150,
+      "title" : "Destr0yer [DP ☆NOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=123",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/541",
+      "voteNeutral" : 0,
+      "voteNo" : 1,
+      "votePercent" : 66.6666666666667,
+      "voteYes" : 2
    },
    {
       "artist" : "ZUN(Arr.sun3)",
