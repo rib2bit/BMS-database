@@ -120,6 +120,19 @@
       "url_diff" : "https://bms.parksulab.xyz"
    },
    {
+      "artist" : "isocosa Illust: Dr.Exodium Object: LuvTek",
+      "comment" : "BoobooBounce_blank.dummy 基準ズレ無し,ガチ押し,連打",
+      "level" : "1",
+      "md5" : "6c3124ed05f85523620c109d738393a1",
+      "proposer" : "Restia",
+      "proposerLr2id" : 115265,
+      "sha256" : "b04650b328183e92577b28e3bc4ad233391a9a37825567839d0881d158da9906",
+      "submission" : 1352,
+      "title" : "Booboo Bounce! [7k LT's Insane]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=137&event=133",
+      "url_diff" : "https://darksabun.github.io/event/bofxvi/"
+   },
+   {
       "artist" : "ZUN remixed by LeaF Movie:Optie/Illust:セシル◇タイト/selene.",
       "comment" : "",
       "level" : "5",
@@ -144,6 +157,20 @@
       "title" : "#DoomeyTunes [Maryther]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=29&event=133",
       "url_diff" : "https://darksabun.github.io/Mary_Sue/"
+   },
+   {
+      "artist" : "Sampling Challenger BYTE / obj : Mary_Sue",
+      "comment" : "全押し★大好き（빅장★조~아)",
+      "level" : "2",
+      "md5" : "a4cf24c101d9490d59fdb29a23cf7b95",
+      "proposer" : "Restia",
+      "proposerLr2id" : 115265,
+      "sha256" : "f849a03a895954fc01ea1b0009ae87fc08921e4417036647315a058d4634b373",
+      "submission" : 1353,
+      "title" : "School of Scramble [FINAL EXAM]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=379&event=133",
+      "url_diff" : "https://darksabun.github.io/Mary_Sue/",
+      "zureCount" : 0
    },
    {
       "artist" : "tetsuo Sliced by DAC / obj.hex",
