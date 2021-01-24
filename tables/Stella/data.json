@@ -1166,7 +1166,7 @@
    },
    {
       "artist" : "kei_iwata Illust:morph/ BGA&obj:qfeileadh",
-      "level" : "1",
+      "level" : "2",
       "md5" : "1e62d6f6394c0be0a87a8850f1f92c1a",
       "proposer" : "파이어",
       "sha256" : "1b0e090642c3fb097172a565ab735665b287c745aef03eba584290aa15867695",
@@ -1693,6 +1693,18 @@
       "title" : "★LittlE HearTs★ -Ragnarok-",
       "url" : "http://necoco.2-d.jp/",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01755"
+   },
+   {
+      "artist" : "Cosmograph / yusi. obj.霧切杏子",
+      "comment" : "総合譜面",
+      "level" : "0",
+      "md5" : "2a3af61bc6c47284f45a007e88308707",
+      "proposer" : "Mallow♪",
+      "sha256" : "59edddf1a8995c3fab1f995c26e32b8b20a2d2849c3d1d95c4728de5c49790a0",
+      "submission" : 1342,
+      "title" : "ELIMINATOR [Despair]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=133",
+      "url_diff" : "https://drive.google.com/file/d/1pIHEotzOf4VEGKX5irgLBM4aTFrp22KF/view"
    },
    {
       "artist" : "翡乃イスカ obj.Lapis",
@@ -2748,6 +2760,18 @@
       "url_diff" : "https://fsrs.github.io/sabun/fsrs/teumessia_fsrs.zip"
    },
    {
+      "artist" : "455-38B / obj : k_f / re : UnK-now/37X",
+      "comment" : "忙しい人々のために",
+      "level" : "4",
+      "md5" : "403e9511dd9b029a22cdf45e55f36384",
+      "proposer" : "MEES-♬",
+      "sha256" : "c9c5a786c5b805f72c1d4ef81c7d2edf1d93508155710fd662c794db9028a0c5",
+      "submission" : 1329,
+      "title" : "G e n g a o z o - f o n",
+      "url" : "http://malie.noor.jp/",
+      "url_diff" : "http://sagena.harisen.jp/"
+   },
+   {
       "artist" : "でぱみぃ obj:七海",
       "comment" : "第17回自称無名BMS作家が物申す！ sl12の強化版",
       "level" : "3",
@@ -3093,6 +3117,17 @@
       "url_diff" : "http://obj42.web.fc2.com/ "
    },
    {
+      "artist" : "qfeileadh＆レゾナンスもえこ mov:Maeus",
+      "level" : "2",
+      "md5" : "4709c903d17c408695c131d230c20dc5",
+      "proposer" : "MineC24",
+      "sha256" : "7e64759de3fc14b78fda60b264a325a3b8c5391ba8b2ed8a06faad6f044b80b2",
+      "submission" : 1341,
+      "title" : "Psalms ～魂の還るばしょ～ [ANGELUS]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=128&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Le Dos-on",
       "comment" : "BPM200長い物量",
       "level" : "7",
@@ -3417,6 +3452,18 @@
       "title" : "Schwoeren of tears [Liberation]",
       "url" : "http://yaruki0.sakura.ne.jp/event/A1_6th/impression.cgi?no=10",
       "url_diff" : ""
+   },
+   {
+      "artist" : "sasakure.UK / И",
+      "comment" : "曲をカットしたアレンジ差分です。検出されるズレ、抜けは全部意図されたものです。(同梱の_URL_sabun_readmeによると)",
+      "level" : "1",
+      "md5" : "4f8dbc1b122c133f1366c6cb8203491c",
+      "proposer" : "MarySue",
+      "sha256" : "4c6cf2d3988bca6bdf5ed7d998d684c85fa33ea43fffed802f38cb2e958fce65",
+      "submission" : 1347,
+      "title" : "+i m a z i n e x o+",
+      "url" : "https://web.archive.org/web/20070703051913/http://sasakure.bms.ms/bms/imazinexoMQver1.1.zip",
+      "url_diff" : "https://bms.parksulab.xyz"
    },
    {
       "artist" : "榊原ゆい/Team-OZ/山下慎一狼 remixed by Lemon beads",
@@ -3796,6 +3843,18 @@
       "title" : "プナイプナイたいそう [SP LAST BOSS]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=227&event=116",
       "url_diff" : "https://www.dropbox.com/s/1qzdd2d98r2u80j/_punaipunai_splabo.bms?dl=0"
+   },
+   {
+      "artist" : "RioRa obj. LuvTek",
+      "comment" : "同時押し、3連打、体力",
+      "level" : "4",
+      "md5" : "580445780f746df771efb28d25a4c03b",
+      "proposer" : "MarySue",
+      "sha256" : "9a29342076aa0c348c7a2713e4419339843c966d1176d0e83e382fa46bfd1368",
+      "submission" : 1348,
+      "title" : "SINGURIZE",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=375&event=133",
+      "url_diff" : "https://darksabun.github.io/event/bofxvi/"
    },
    {
       "artist" : "goangra/さ BGA:WCMP",
@@ -4523,7 +4582,7 @@
    {
       "artist" : "VeetaCrush Obj.Triforce",
       "comment" : "高速乱打。後半が難しいです。",
-      "level" : "3",
+      "level" : "4",
       "md5" : "67a511c6f1feed687a4865866cd4655b",
       "proposer" : "MarySue",
       "sha256" : "44459044a87053abc0f9d83fe43e9b89f19080262651881226ced744802d1801",
@@ -4531,6 +4590,18 @@
       "title" : "Sterelogue [Vengeance]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=294&event=123",
       "url_diff" : "https://www.dropbox.com/s/fzf51sbpej0slvb/Sterelogue%20%5Btriforce%5D.bme?dl=1"
+   },
+   {
+      "artist" : "maki (original:watson)",
+      "comment" : "同梱の03_rabbitburrow-ex.pms基準、検出されるズレ、抜け(C1、BA、BB、BCなどの)は全部キー音を分割して、いくつかのキー音に割れたので出たズレ、抜けです。プレーには関係無し",
+      "level" : "3",
+      "md5" : "6880dbeffc00e460a72d704be661a6ae",
+      "proposer" : "MarySue",
+      "sha256" : "0809cc0252bef1d13be9cf261e227c77eed678b76003d3617eac809374e37e58",
+      "submission" : 1339,
+      "title" : "rabbit burrow [rabbit blow]",
+      "url" : "http://pmcc.nekokan.dyndns.info/pmcc2/download.html",
+      "url_diff" : "https://bms.parksulab.xyz"
    },
    {
       "artist" : "ねこみりん Movie:iimo / and \"Noranekoxi\" all-star! / obj:sak",
@@ -4644,7 +4715,7 @@
    {
       "artist" : "Synchronous Vision (MONO&1B) / mikasa",
       "comment" : "後半部にdrrキー音が追加されている。",
-      "level" : "6",
+      "level" : "5",
       "md5" : "6c04278a8e45693e4128a8b7f3e0df24",
       "proposer" : "오수출신고수",
       "sha256" : "59b78552556e88f58cbf123a8db3cf90a0b7004f85a4e92c3ae7566fd5f3ce48",
@@ -5214,7 +5285,7 @@
    {
       "artist" : "LisicA movie : ルゼ(LuzeriA) / illust : Orphee / pattern for some reason",
       "comment" : "teumessia2",
-      "level" : "4",
+      "level" : "5",
       "md5" : "773c00048c49a0847bca38eba748fba9",
       "proposer" : "qtp13",
       "sha256" : "c6c9bee8d03d0d83e5eb51510680a5d4ef1178b786cb5f1ecac9b723b5563fa0",
@@ -6409,7 +6480,7 @@
    {
       "artist" : "BMS Sound Team\"DJ 筆箱\" / BMS Designers\"VJ 牛乳パック\" / BMS objecter \"バス地獄\"",
       "comment" : "6~7?",
-      "level" : "7",
+      "level" : "6",
       "md5" : "910be2094aba67f971f740bd0ad50806",
       "proposer" : "MineC24",
       "sha256" : "6df707493dc51f2e0d405dc2761cc44a6757319d5faeb58cedf07af1b8879760",
@@ -6846,6 +6917,18 @@
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up2202.zip"
    },
    {
+      "artist" : "Louie Fibonacci feat. ricono obj : Mary_Sue",
+      "comment" : "_DoomeyTunes_kara.bmxとズレなし",
+      "level" : "3",
+      "md5" : "9d8a6df1de8609e53b90dc3fbe7200ab",
+      "proposer" : "MineC24",
+      "sha256" : "2f7cefae0846fd681b4e0b8a6f94964cfd3a5f6e08c5c5723a8864497435e6c6",
+      "submission" : 1349,
+      "title" : "#DoomeyTunes [Maryther]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=29&event=133",
+      "url_diff" : "https://darksabun.github.io/Mary_Sue/"
+   },
+   {
       "artist" : "eicateve hrchem[illust] TOHRU MiTSUHASHi[movie] И[object]",
       "comment" : "fixed ver",
       "level" : "2",
@@ -7258,6 +7341,18 @@
       "title" : "Pernicious Deed [陸上]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=332&event=74",
       "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
+      "artist" : "tetsuo Sliced by DAC / obj.hex",
+      "comment" : "BPM165 連打複合、アレンジ差分",
+      "level" : "4",
+      "md5" : "a577d60b41ed566d5337c76bde0a9af8",
+      "proposer" : "SHAX.",
+      "sha256" : "7c1083682a291a66a47ece539d8382a3d3be3f77df9aef46be2be7669efcb802",
+      "submission" : 1337,
+      "title" : "X'mas for You [Hexagon]",
+      "url" : "https://1drv.ms/u/s!AsmoDHSAppX8gnmNIdS4Ao34dSyS",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html"
    },
    {
       "artist" : "tarolabo / obj:七海千秋",
@@ -8469,6 +8564,18 @@
       "url_diff" : "https://drive.google.com/open?id=0B-jo3hSmNHFaSUNPanhQQ3VINUU"
    },
    {
+      "artist" : "Sound piercer feat.ΣX mov.Ratif",
+      "comment" : "BPM158 2連打",
+      "level" : "4",
+      "md5" : "c3cfad8c0f1b1f6e31eb382b6dd52d82",
+      "proposer" : "SHAX.",
+      "sha256" : "370d94d9c0ad97c0900581e0d925da4c623d94da81149ea15e758e6e727145a5",
+      "submission" : 1336,
+      "title" : "新 疫病打令 (The New BOFXVID-19 Anthem)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=234&event=133",
+      "url_diff" : "https://darksabun.github.io/sabun/HanRiver_BOFXVID.zip"
+   },
+   {
       "artist" : "96ZUMMER pattern for some reason",
       "comment" : "差分ファイル同梱の_PLEASE_read_me_(about volume).txtによると、アレンジ差分ですので、全てのズレは意図的です。",
       "level" : "2",
@@ -8954,6 +9061,18 @@
       "title" : "オトゲラヴ！ [yumether]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=201&event=96",
       "url_diff" : "http://yumerusabun.web.fc2.com/nue.html"
+   },
+   {
+      "artist" : "諸星きらり/緒方智絵里",
+      "comment" : "BPM206の平たい乱打譜面",
+      "level" : "1",
+      "md5" : "d00e7d9111ad2bd2bba587616627fc69",
+      "proposer" : "ふかけん",
+      "sha256" : "c14c371ae9e082cbfa352a6340d9c4389c96353f678db41e8129e766140a636d",
+      "submission" : 1259,
+      "title" : "諸星きらりのハピハピ☆恋愛論だにぃ [SR]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/%e8%ab%b8%e6%98%9f%e3%81%8d%e3%82%89%e3%82%8a%e3%81%ae%e3%83%8f%e3%83%94%e3%83%8f%e3%83%94%e2%98%86%e6%81%8b%e6%84%9b%e8%ab%96%e3%81%a0%e3%81%ab%e3%81%83%20%28by%20%e8%ab%b8%e6%98%9f%e3%81%8d%e3%82%89%e3%82%8a%29.rar",
+      "url_diff" : "http://akred.web.fc2.com/baecon/1_SRkirari.bme"
    },
    {
       "artist" : "SHIKI / obj:DDX",
@@ -9786,7 +9905,7 @@
    {
       "artist" : "ROKINA",
       "comment" : "総合譜面",
-      "level" : "7",
+      "level" : "6",
       "md5" : "e13e43ad9e041eae42d9905e618b9e6b",
       "proposer" : "y",
       "sha256" : "bfe24ee79346c850e439e27d06097baee23463c79423111f256a266249596d60",
@@ -9966,6 +10085,18 @@
       "title" : ")-@1くvz@",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=339&event=110",
       "url_diff" : "http://akred.web.fc2.com/baecon/893_M.bms"
+   },
+   {
+      "artist" : "Yonder Voice / obj:AnyOasis(C4&NASA)",
+      "comment" : "BPM181 微連打、ズレ",
+      "level" : "5",
+      "md5" : "e5820d94259154bff12b6ad106997420",
+      "proposer" : "SHAX.",
+      "sha256" : "fd712d0cc304ad708c82f9e31b60620ba1dcb08c8687d136a4764fe80082f06e",
+      "submission" : 1312,
+      "title" : "Black or White [Abyss Nova]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=129",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/"
    },
    {
       "artist" : "魔界都市ニイガタ（黄泉路テヂーモ×dawn-system×かゆき） BGA:自動車原付 / obj.hex",
@@ -10354,6 +10485,18 @@
       "title" : "0x00000000 -neutralino-",
       "url" : "http://tm2.toymusical.net/download.html",
       "url_diff" : "http://drowsy.hannnari.com/toy.html"
+   },
+   {
+      "artist" : "cosMo / nmk / ドフォーレ商会",
+      "comment" : "Death field (bgm shifted by 1/4 for delay effect)",
+      "level" : "11",
+      "md5" : "eeaf633352d810a14b9e8fae3fb486ca",
+      "proposer" : "qtp13",
+      "sha256" : "38d0e0138bc42aebc38bcab292ad6d47c46f9bd8ede1c37d1a0343719cdcc506",
+      "submission" : 1344,
+      "title" : "覚醒フィールド -DEATHER-",
+      "url" : "http://www1.axfc.net/uploader/Li/so/65292.zip",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
    },
    {
       "artist" : "Is-m obj:firi. BGA:coda obj:firi.",

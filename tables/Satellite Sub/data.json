@@ -5589,6 +5589,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "sa10",
+      "comment" : "normal判定　折り返し階段　トリル",
+      "level" : "0",
+      "md5" : "370be5fbe1eed1d47ea1645a5f4b6c45",
+      "proposer" : "bluemouse",
+      "proposerMinirid" : "38b6fd3c-5f86-4e87-aef8-3f9952471580",
+      "sha256" : "7b186f15ddfe98d61f10fd976406024f485c798a97d7c256e2e5a4dab8c38c0d",
+      "submission" : 1806,
+      "title" : "VII",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=47&event=92",
+      "url_diff" : ""
+   },
+   {
       "artist" : "KaKi",
       "comment" : "",
       "level" : "11",
@@ -6175,6 +6188,19 @@
       "submission" : 1150,
       "title" : "XVOTO",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=127",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "Zombomb",
+      "comment" : "(BOFXVI) not enough scratch in satellite",
+      "level" : "1",
+      "md5" : "3ec165d7e45aabd7197b1e98a2662a04",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "3ea0f645e0a703728cf37434fa82e8f0904caffe77cc397e60f743943adac512",
+      "submission" : 1809,
+      "title" : "Throwback to the Midnight",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=267&event=133",
       "url_diff" : ""
    },
    {
@@ -15054,6 +15080,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "eir / orig: Soushi Mizutani / obj:Holy",
+      "comment" : "sl2~3 ondo",
+      "level" : "2",
+      "md5" : "9b26a2c178a5fb10c8224e45c976b7a6",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "403034881e157fbcb135d9bcd486f820cae7683cb4bbc9a1ecabc438cece5127",
+      "submission" : 1804,
+      "title" : "evondo (sondolstice mix)",
+      "url" : "http://1drv.ms/1AICGpH",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04037"
+   },
+   {
       "artist" : "Lime / Roaring Flame/さ",
       "comment" : "sl11～12 体力",
       "level" : "11",
@@ -16346,7 +16385,7 @@
    {
       "artist" : "kunzite + BBBB / obj:Mr.Faine",
       "comment" : "BPM148 微連打",
-      "level" : "8",
+      "level" : "7",
       "md5" : "a918d1e97aab52bd15034e211242fd72",
       "proposer" : "SHAX.",
       "proposerLr2id" : 65624,
@@ -17205,6 +17244,19 @@
       "url" : "https://drive.google.com/uc?id=1JaZE8OZQKjAvl74G9E2sBnqmXfRZwAWB",
       "url_diff" : "https://trfce.github.io/sabun/(115)SEKIDO_Triforce.zip",
       "zureCount" : 0
+   },
+   {
+      "artist" : "Lian",
+      "comment" : "同梱譜面　ズレ乱打",
+      "level" : "4",
+      "md5" : "b11c5327a7a8300a9058e557b6da1039",
+      "proposer" : "なさ式",
+      "proposerLr2id" : 108918,
+      "sha256" : "731c1e9b2631fc6fa8f2d446ad61219a0fbf2cda2bb13984a90afbc0cb04c040",
+      "submission" : 1807,
+      "title" : "Marmot [INSANE]",
+      "url" : "https://venue.bmssearch.net/bmstukuru2020/12",
+      "url_diff" : ""
    },
    {
       "artist" : "nmk feat.℃ｉｅｌ /差分　赤い人",
@@ -20846,7 +20898,7 @@
    },
    {
       "artist" : "あとぅす feat.橘花音 BGI:りーふぱいザウルス",
-      "level" : "7",
+      "level" : "6",
       "md5" : "d1c385f99b7a276c407a80280aa3fa7d",
       "proposer" : "Haze*",
       "proposerLr2id" : 112076,
@@ -21002,6 +21054,20 @@
       "title" : "Angelic Snow [DELAY]",
       "url" : "http://estish.nobody.jp/",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03362"
+   },
+   {
+      "artist" : "Ray Nautica obj. AXION",
+      "comment" : "sl12~st0? 物量",
+      "level" : "12",
+      "md5" : "d4012f958b723b5cbcbb605e51287df6",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "e484af438a71688a3741cbecbb2b4b7606f0310ade6229f6616a498e97c5892c",
+      "submission" : 1805,
+      "title" : "Ever Forever [EX]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=294&event=133",
+      "url_diff" : "https://stellabms.xyz/upload/441",
+      "zureCount" : 0
    },
    {
       "artist" : "Yu^ta",
@@ -22174,6 +22240,20 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Jehezukiel / obj. AXION",
+      "comment" : "皿・連打・THE エジプト",
+      "level" : "5",
+      "md5" : "df125a0ac8d8f1759d7e72e82dc6d454",
+      "proposer" : "AYhaz",
+      "proposerLr2id" : 123475,
+      "sha256" : "a8a17c1d7e049da2e4f33eb31d71f923d76b3660d78a9814a7236fe59900d8f5",
+      "submission" : 1808,
+      "title" : "バステット [EX]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=147&event=133",
+      "url_diff" : "https://stellabms.xyz/upload/436",
+      "zureCount" : 0
+   },
+   {
       "artist" : "eoll feat.白羽美依 obj:SUZUKAZEΛ",
       "level" : "2",
       "md5" : "df9cca9b79c4e1e016238731ad516328",
@@ -23191,7 +23271,7 @@
    {
       "artist" : "立秋 feat.ちょこ / obj:七海 / support:LuvTek",
       "comment" : " BPMを固定させて、ズレがあることがあります (readme.txt) ご参照しました。",
-      "level" : "12",
+      "level" : "10",
       "md5" : "ea0861af7110b2a256d51b6cbe1fba02",
       "proposer" : "Restia",
       "proposerLr2id" : 115265,
@@ -25075,6 +25155,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Alkome BGA: zukutya / obj: hnxqch",
+      "comment" : "BOFXVI、連打、皿、乱打",
+      "level" : "3",
+      "md5" : "fdec50f67770705ab69ada377ef52c66",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "5022ad5a4544b70e4164c066fb1a82b78d6f91f46d4545de9f828381704f7fce",
+      "submission" : 1810,
+      "title" : "Mind Disorder [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=133",
+      "url_diff" : ""
    },
    {
       "artist" : "maru BGA:Johnny / obj:平成",

@@ -144,6 +144,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Raimukun / obj:スノート",
+      "comment" : "st5~6? (hard ending)",
+      "level" : "5",
+      "md5" : "01ece23ddfa61274bf4838795ff72a5f",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "68055006ca4b322fc2666c2a021a2a44e351a9f969fa136e23a9931ffca90b89",
+      "submission" : 1355,
+      "title" : "Icyxis [SUMMIT]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=72&event=133",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04789",
+      "zureCount" : 0
+   },
+   {
       "artist" : "HOUJIROU obj:Omino",
       "comment" : "st7~8?",
       "level" : "9",
@@ -1548,6 +1562,20 @@
       "url_diff" : "https://sites.google.com/site/ibmssabun/"
    },
    {
+      "artist" : "idzuchi obj.hex",
+      "comment" : "BPM275 8分同時押し",
+      "level" : "3",
+      "md5" : "16e2b3ea625c3ea794d593e878ae35c2",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "2ca683fcf492da5069be3803dfb540aab3119c863eff2ad2b7701b42f12bd2ee",
+      "submission" : 1354,
+      "title" : "Fragments of Toybox [Pentagon]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/Fragments%20of%20Toybox%20%28by%20idzuchi%29.rar",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "ノクティス・江口・チェラム / obj morio",
       "comment" : "縦連階段",
       "level" : "8",
@@ -1985,7 +2013,7 @@
    },
    {
       "artist" : "kei_iwata Illust:morph/ BGA&obj:qfeileadh",
-      "level" : "1",
+      "level" : "2",
       "md5" : "1e62d6f6394c0be0a87a8850f1f92c1a",
       "proposer" : "파이어",
       "proposerLr2id" : 7290,
@@ -2357,6 +2385,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "7mai / obj: ∇・tachyon",
+      "comment" : "BPM195 微連打、ディレイ",
+      "level" : "10",
+      "md5" : "241e82b318e97de873efaa8d9f107755",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "ff7afb6122e86d60b2eb8cb790b652d5bf3b19747621e72e5d9c466a3444756b",
+      "submission" : 1356,
+      "title" : "Boxel Adventure [Null]",
+      "url" : "https://dl.dropboxusercontent.com/s/btzynwyugggfo34/7mai_BoxelAdventure.rar",
+      "url_diff" : "https://darksabun.github.io/event/mf/",
+      "zureCount" : 0
    },
    {
       "artist" : "TamaDo / Ondajoy",
@@ -7672,7 +7714,7 @@
    {
       "artist" : "VeetaCrush Obj.Triforce",
       "comment" : "高速乱打。後半が難しいです。",
-      "level" : "3",
+      "level" : "4",
       "md5" : "67a511c6f1feed687a4865866cd4655b",
       "proposer" : "MarySue",
       "proposerLr2id" : 147889,
@@ -7969,7 +8011,7 @@
    {
       "artist" : "Synchronous Vision (MONO&1B) / mikasa",
       "comment" : "後半部にdrrキー音が追加されている。",
-      "level" : "6",
+      "level" : "5",
       "md5" : "6c04278a8e45693e4128a8b7f3e0df24",
       "proposer" : "오수출신고수",
       "proposerLr2id" : 73333,
@@ -8882,7 +8924,7 @@
    {
       "artist" : "LisicA movie : ルゼ(LuzeriA) / illust : Orphee / pattern for some reason",
       "comment" : "teumessia2",
-      "level" : "4",
+      "level" : "5",
       "md5" : "773c00048c49a0847bca38eba748fba9",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -9365,6 +9407,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Louie Fibonacci feat. ricono obj:qfeileadh",
+      "comment" : "高速乱打",
+      "level" : "8",
+      "md5" : "7f2cbe01342d3935dd6e72a7ef2b4aa3",
+      "proposer" : "BAECON",
+      "proposerLr2id" : 46122,
+      "sha256" : "7d0ddbba0af763d7fd4aad8307e6a12321e5a8c4e890c7770c22407590b1dc72",
+      "submission" : 1357,
+      "title" : "#DoomeyTunes [phi]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=29&event=133",
+      "url_diff" : "https://stellabms.xyz/upload/478"
    },
    {
       "artist" : "ああああ / A",
@@ -10708,7 +10763,7 @@
    {
       "artist" : "BMS Sound Team\"DJ 筆箱\" / BMS Designers\"VJ 牛乳パック\" / BMS objecter \"バス地獄\"",
       "comment" : "6~7?",
-      "level" : "7",
+      "level" : "6",
       "md5" : "910be2094aba67f971f740bd0ad50806",
       "proposer" : "MineC24",
       "proposerLr2id" : 84597,
@@ -16663,7 +16718,7 @@
    {
       "artist" : "ROKINA",
       "comment" : "総合譜面",
-      "level" : "7",
+      "level" : "6",
       "md5" : "e13e43ad9e041eae42d9905e618b9e6b",
       "proposer" : "y",
       "sha256" : "bfe24ee79346c850e439e27d06097baee23463c79423111f256a266249596d60",
