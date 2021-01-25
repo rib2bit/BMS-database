@@ -70,6 +70,36 @@
       "zureCount" : 0
    },
    {
+      "artist" : "U-ske feat. 利香 obj:りこりす・らぢあーた",
+      "comment" : "高速、同時押し、ラス殺し、軸など",
+      "level" : "2",
+      "md5" : "43501ad9870d5f58ed4f8bc8adc7e1da",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "5a56e8b54b6d6b139b2d622423f3012bcf7235669b07d38a962ff5fc7592d088",
+      "submission" : 1363,
+      "title" : "KiraKira‥Explorer [ぽに！]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=100&event=133",
+      "url_diff" : "https://stellabms.xyz/upload/540",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "Lime / И",
+      "level" : "4",
+      "md5" : "59870e6c1b936fe10f8a8ed36f75b6be",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "ca014f386ab83d2de643928ba182191712b4148537ab31baea215433a417e7c5",
+      "submission" : 1127,
+      "title" : "Aurora [64.96°N, 19.02°W]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=330&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
+      "voteNeutral" : 0,
+      "voteNo" : 2,
+      "votePercent" : 71.4285714285714,
+      "voteYes" : 5
+   },
+   {
       "artist" : "isocosa Illust: Dr.Exodium Object: LuvTek",
       "comment" : "BoobooBounce_blank.dummy 基準ズレ無し,ガチ押し,連打",
       "level" : "1",
@@ -94,6 +124,36 @@
       "title" : "Armageddon -Genocide-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=129",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04172"
+   },
+   {
+      "artist" : "syatten + coda obj.hex",
+      "level" : "3",
+      "md5" : "968d17b52500bc20415d9669f11e69f5",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "cfaa7b54faaff3449d5cf83c89bedbfee429330be5e502ab9c2554a79751cc39",
+      "submission" : 1256,
+      "title" : "hurt, scenery, groundrainbow [Randomizer]",
+      "url" : "https://web.archive.org/web/20130210075745/http://www.planetoid.biz/bms/hsgr.rar",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html",
+      "voteNeutral" : 1,
+      "voteNo" : 2,
+      "votePercent" : 64.2857142857143,
+      "voteYes" : 4
+   },
+   {
+      "artist" : "浅田たん/さ",
+      "comment" : "体力、乱打、皿など",
+      "level" : "2",
+      "md5" : "985e530b1dbed71537b20990e0da531d",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "9a4be99a6a965c3eb70e977702341e6ad6745036a442484542316554eb40cc22",
+      "submission" : 1362,
+      "title" : "十十日月 -萌-",
+      "url" : "http://web.archive.org/web/20061207053935/http://asdf.bms.ms/junk/bms/curryyojo_asd_jjng_ogg.zip",
+      "url_diff" : "http://web.archive.org/web/20170430142848/http://sabosabun.tank.jp/sabun/juujuuhigetu%20sabun.zip",
+      "zureCount" : 0
    },
    {
       "artist" : "Sampling Challenger BYTE / obj : Mary_Sue",
@@ -126,6 +186,34 @@
       "voteYes" : 3
    },
    {
+      "artist" : "saaa object: LuvTek",
+      "comment" : "끊어치기",
+      "level" : "4",
+      "md5" : "a85994133df21871af5dc168d1fabbfd",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "c00ae7f2fc360632d4daf1c2bad5ee71755e48e24384808b6c78b33fa8a16043",
+      "submission" : 1361,
+      "title" : "1516 [3032]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=133",
+      "url_diff" : "https://darksabun.github.io/event/bofxvi/",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "BLACKTIGER obj: Haze*",
+      "comment" : "st0~1",
+      "level" : "1",
+      "md5" : "adee09690fd41706427c4d0a7d9016d1",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "02fa2e7ce366497d792eff6d6b3621ef731c8fd209803e68459c91910f76ca08",
+      "submission" : 1358,
+      "title" : "BADSECRET [BADEXPOSURE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=312&event=133",
+      "url_diff" : "https://stellabms.xyz/upload/594",
+      "zureCount" : 0
+   },
+   {
       "artist" : "わかどり BGA : もがみ / obj:th",
       "comment" : "SPN: #017 01 (11 / 16) #WAVCW is missing. (b_piano-melo_00008_dp.wav)",
       "level" : "3",
@@ -137,6 +225,33 @@
       "title" : "NightTheater [FishLife]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=18&event=133",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04829"
+   },
+   {
+      "artist" : "ねこみりん feat.杠葉えりか×Sennzai×とおる×小宮真央 Movie:むらしん / Illust:りゅうら / obj.Pretia",
+      "comment" : "3~4? ラストが難しい",
+      "level" : "3",
+      "md5" : "cc3950cec4bec9c5fd7c7d3f5f1fee75",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "b33a6b5875755a33e8d64d002e5b5510ee55c7272ab2bedb8b0f530ff85ba176",
+      "submission" : 1359,
+      "title" : "うらドラみたいにスカートめくるなっ！ [動くな!! イカサマかよ!!]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=413&event=133",
+      "url_diff" : "https://darksabun.github.io/event/bofxvi/",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "Cosmograph / yusi. / И",
+      "level" : "4",
+      "md5" : "f2106aa9aa8ccc0f96ab64c883c6b79e",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "de2da9eab0b9a1a91a19b37ef3218470a4848f62239e2f07ebbb18c5ba2065cd",
+      "submission" : 1360,
+      "title" : "ELIMINATOR [A0]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=133",
+      "url_diff" : "https://bms.parksulab.xyz",
+      "zureCount" : 0
    },
    {
       "artist" : "scytheleg obj:homare",

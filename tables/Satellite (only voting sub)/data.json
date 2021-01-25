@@ -71,6 +71,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Larimar Movie : Hauynite",
+      "comment" : "차분 제작자 홈페이지에 의도적 즈레 라고 기재되어있음.",
+      "level" : "12",
+      "md5" : "25ed9d698d4b80e03635a481751c0c30",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "86237efbb6d9562d6cd3d3391b8d3cbe2d7813b3858a2400f7db9ab4501550dc",
+      "submission" : 1814,
+      "title" : "overtrue [nostalgie]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=110",
+      "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
       "artist" : "r obj. DK",
       "comment" : "compared to _NormalVisor.bms, no misalignments",
       "level" : "1",
@@ -148,6 +161,19 @@
       "title" : "#74 -7SPINNER-",
       "url" : "http://skydrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21271",
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up4367.zip",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "テヅカ x Aoi feat.桃雛なの obj : Scely",
+      "level" : "1",
+      "md5" : "48012e5f214cfd09586aa6cade1af67e",
+      "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
+      "sha256" : "65a25e107aaa1b7b692fcb11c2a4cfaa683ccdbbae0d3ae486ea3f11bdcb097c",
+      "submission" : 1812,
+      "title" : "Sunset Toybox [Sweet]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=498&event=133",
+      "url_diff" : "https://stellabms.xyz/upload/544",
       "zureCount" : 0
    },
    {
@@ -291,6 +317,32 @@
       "zureCount" : 0
    },
    {
+      "artist" : "ginkiha / obj:七海",
+      "level" : "10",
+      "md5" : "988010f041bbd81cda28bacd9e151350",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "55aacb3c8ce263005e172e606903e78242b6dc7d39ef4d04bc350ed0dd428f1c",
+      "submission" : 1815,
+      "title" : "EOS -Last Hope-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=300&event=83",
+      "url_diff" : "https://www.dropbox.com/s/8a8xmeeve4tkoak/eos_fix.zip?dl=1",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "w_tre obj:LAPIS",
+      "comment" : "▼12",
+      "level" : "7",
+      "md5" : "99d8a05101d4200464c66a4ccc8596f8",
+      "proposer" : "Haze*",
+      "proposerLr2id" : 112076,
+      "sha256" : "5013b57f6dbcc65945c967380c3e3614dca02ce1aefa141cb579477c3bece065",
+      "submission" : 1813,
+      "title" : "Shannon's Theorem [MIMO]",
+      "url" : "http://dropbox.bms.ms/u/61735491/shannons_theorem.zip",
+      "url_diff" : "http://lapisbms.web.fc2.com/"
+   },
+   {
       "artist" : "eir / orig: Soushi Mizutani / obj:Holy",
       "comment" : "sl2~3 ondo",
       "level" : "2",
@@ -342,6 +394,19 @@
       "url" : "https://dropbox.bms.ms/u/28765267/er_baby-frenzy.zip",
       "url_diff" : "http://siokazebms.web.fc2.com/",
       "zureCount" : 0
+   },
+   {
+      "artist" : "Loreley obj:1/8",
+      "comment" : "pmsなのでズレチェックができません",
+      "level" : "8",
+      "md5" : "cea103a95debd51c88c4ce50fa672c16",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "d299e30d367e73d43c17345d302b20b5c0009f2e8075f5ad8774772a3d19f552",
+      "submission" : 1811,
+      "title" : "おわりのうた -ある絵画の末路-",
+      "url" : "http://tm2.toymusical.net/download.html",
+      "url_diff" : "http://monaka1374.game-ss.com/bms/convert7"
    },
    {
       "artist" : "38k",
