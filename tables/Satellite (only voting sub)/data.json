@@ -290,6 +290,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "------",
+      "comment" : "同梱譜面/和風神曲",
+      "level" : "0",
+      "md5" : "6e37f0f6a1a33836bc63185715d6c49b",
+      "proposer" : "TR1",
+      "proposerLr2id" : 152181,
+      "sha256" : "9e444059b54808b336a0299258349b274b88cf950fa0fefcdb4b2883538b0b06",
+      "submission" : 1819,
+      "title" : "神仙・竜巻返し ～ Black Whirlwind",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=38&event=119",
+      "url_diff" : ""
+   },
+   {
       "artist" : "kyosei/Artwork:うまるつふり",
       "comment" : "尾杀/同梱譜面/BMS衆議院",
       "level" : "0",
@@ -382,6 +395,20 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04037"
    },
    {
+      "artist" : "Queen P.A.L. VJ KINTA / obj by sound piercer",
+      "comment" : "曲も差分も入手困難で保管リンク",
+      "level" : "1",
+      "md5" : "9f03d0a2965b56338d6fa975777662be",
+      "proposer" : "|/|",
+      "proposerLr2id" : 147895,
+      "sha256" : "b8d5396745eb451be7fa3bea4181260c042564da3853e9aed19f1806a52543ac",
+      "submission" : 1820,
+      "title" : "JULIAN \"for B.O.F. 2009\" [SP-RX INSANE]",
+      "url" : "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/oNEAVCTB",
+      "url_diff" : "https://mega.nz/folder/sXZTFSxS#UX7Cpqoi03tRQ-jpzn8F6A/file/gShkARwQ",
+      "zureCount" : 0
+   },
+   {
       "artist" : "SOMON obj:monaka",
       "level" : "2",
       "md5" : "a1aa1470016bae84642a040bfaaca0ec",
@@ -420,6 +447,19 @@
       "url" : "https://dropbox.bms.ms/u/28765267/er_baby-frenzy.zip",
       "url_diff" : "http://siokazebms.web.fc2.com/",
       "zureCount" : 0
+   },
+   {
+      "artist" : "みーに feat. 初音ミク",
+      "comment" : "PABAT2020/同梱譜面",
+      "level" : "1",
+      "md5" : "c4fb56811b0bf7c0b6f2635deaaf9416",
+      "proposer" : "TR1",
+      "proposerLr2id" : 152181,
+      "sha256" : "4ffcca32586f0fc15b9b565e235f7aea64b27192afe65bb767643e1d3d7e26cf",
+      "submission" : 1818,
+      "title" : "冬星センチメンタル [AVALANCHE]",
+      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=3&order=reg&odtype=a",
+      "url_diff" : ""
    },
    {
       "artist" : "Loreley obj:1/8",
