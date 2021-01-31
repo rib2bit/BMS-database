@@ -316,6 +316,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "tcheb BGA:なおや OBJ:paraph",
+      "comment" : "BOFXVI 출품작. 좋은 곡인데 제안된 차분이 없길래 제안합니다.",
+      "level" : "10",
+      "md5" : "73ae012eabc321bb943b07ac517af5ce",
+      "proposer" : "OnlyForYou",
+      "proposerMinirid" : "07ec8ca6-3bf5-4e12-89f1-8e5876458451",
+      "sha256" : "f9a959ce5e200deb13faa1e44b6618e291ae77d859e36b2c5a88e39b542fb814",
+      "submission" : 1821,
+      "title" : "楓 [SP INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=229&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "polysha",
       "comment" : "皿複合/微軸/同梱譜面/東方音弾遊戯 6",
       "level" : "0",
@@ -500,6 +513,22 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=294&event=133",
       "url_diff" : "https://stellabms.xyz/upload/441",
       "zureCount" : 0
+   },
+   {
+      "artist" : "翡乃イスカ",
+      "level" : "5",
+      "md5" : "d72fd8244a48425f7a23a0cdfdaf66a2",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "78cea180d025fc4277722b9f75a317c25e7aafa8aab8f136dfb3aa65ca77806a",
+      "submission" : 393,
+      "title" : "#be_fortunate",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=387&event=123",
+      "url_diff" : "",
+      "voteNeutral" : 2,
+      "voteNo" : 4,
+      "votePercent" : 58.3333333333333,
+      "voteYes" : 6
    },
    {
       "artist" : "Jehezukiel / obj. AXION",
