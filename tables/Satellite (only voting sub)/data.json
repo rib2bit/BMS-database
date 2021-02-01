@@ -71,6 +71,32 @@
       "url_diff" : ""
    },
    {
+      "artist" : "tanacoro Obj.Triforce",
+      "comment" : "同梱のq_N基準ズレが一つありますが、透明キー音を消したので発生したズレです。プレーとは関係なし。",
+      "level" : "0",
+      "md5" : "1b078dd98c5db4a62666b81019adea66",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "ebc83bcc16d4d36b3cfb4ce90c00a0dbf14e8e24d951375cf9bf741feade4f90",
+      "submission" : 1826,
+      "title" : "Q [R.T.]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=7&event=101",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/challenge/BMS_chart_challenge_20201022_fixed.zip"
+   },
+   {
+      "artist" : "ROKINA BGA:REI-K obj. DK",
+      "comment" : "AnzuTool検証 SPH基準ズレ無し (AnzuTool 기준 SPH 기준 오류 X)",
+      "level" : "9",
+      "md5" : "243ed9e410040cc2c16bb1ae77f6008b",
+      "proposer" : "Restia",
+      "proposerLr2id" : 115265,
+      "sha256" : "69c60e36b5d746ffc2add8d80caff0e8292e8e80d8ee0a2fd14048ca88f059a4",
+      "submission" : 1822,
+      "title" : "キミとボクへの葬送歌 [Requiem]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=104",
+      "url_diff" : "https://frozensat.github.io/sabun/10_exc_DK.zip"
+   },
+   {
       "artist" : "Larimar Movie : Hauynite",
       "comment" : "차분 제작자 홈페이지에 의도적 즈레 라고 기재되어있음.",
       "level" : "12",
@@ -265,6 +291,33 @@
       "url_diff" : ""
    },
    {
+      "artist" : "mots",
+      "comment" : "BPM180 微連打発狂",
+      "level" : "10",
+      "md5" : "61f02477375f23a6c93ca4af5051364f",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "bba2decfc7fac865b85f63a36284315070838a90e2cff9d05c5e9ef2611611e3",
+      "submission" : 1824,
+      "title" : "Trooping the Colour [7keys MIND THE GAP]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=131",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "Widowmaker / obj:七海",
+      "comment" : "ソフラン少し、同時押し、連打",
+      "level" : "11",
+      "md5" : "62c4774f7c7a0cf0c8ffe36bd8868f7e",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "111b00bd68d81d28e39664738142e1a67de838aa30a13123abbb70de257d6493",
+      "submission" : 1825,
+      "title" : "Giselle -Despair-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=262&event=123",
+      "url_diff" : "https://www.dropbox.com/s/2szjwj333hjpd4j/AtoZ_G.zip?dl=1",
+      "zureCount" : 0
+   },
+   {
       "artist" : "M-UE",
       "comment" : "BOFXVI、乱打、皿",
       "level" : "3",
@@ -448,6 +501,20 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Microsoft Sound Team obj: fartfucker",
+      "comment" : "ガチ押し",
+      "level" : "8",
+      "md5" : "b4163ff1e58c1277645244008a2311ce",
+      "proposer" : "AYhaz",
+      "proposerLr2id" : 123475,
+      "sha256" : "623f7af79842aa44bc581e736a18e73fbbceac6ef7bf7d3ca31a47b6dbe1b553",
+      "submission" : 1827,
+      "title" : "CANYON.MID -KILL-",
+      "url" : "https://drive.google.com/file/d/1gpcBa3_zWJDlxlHcItXYusxpi47pp4wC/edit",
+      "url_diff" : "https://www.dropbox.com/s/vi1hhv5muq33zh4/canyon_KILL.zip?dl=0",
+      "zureCount" : 0
+   },
+   {
       "artist" : "er /obj.siokaze",
       "comment" : "2~3?",
       "level" : "2",
@@ -529,6 +596,19 @@
       "voteNo" : 4,
       "votePercent" : 58.3333333333333,
       "voteYes" : 6
+   },
+   {
+      "artist" : "あとぅす movie:TM",
+      "comment" : "BPM155 乱打、微連打",
+      "level" : "9",
+      "md5" : "dbda221048c2965327d27d3b80b94cf8",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "96477167f5bf18ba83a1604c7bcf966ec165aa98dd92e5707cbb0eab1ab6cd9e",
+      "submission" : 1823,
+      "title" : "All Time Over System [INSANE]",
+      "url" : "https://sites.google.com/view/yuruyurubms/phase-4",
+      "url_diff" : ""
    },
    {
       "artist" : "Jehezukiel / obj. AXION",
