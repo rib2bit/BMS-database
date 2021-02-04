@@ -291,6 +291,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "P*Light",
+      "comment" : "",
+      "level" : "1",
+      "md5" : "61519b432a4912f0b8d3258803b02ea1",
+      "proposer" : "moka",
+      "proposerLr2id" : 167326,
+      "sha256" : "5e0c01b043aa1ca7bca77a261a59d49775f8371c9eb8d676214d0d94ecc21af4",
+      "submission" : 1828,
+      "title" : "Poppin' Shower",
+      "url" : "https://onedrive.live.com/?id=FC95A680740CA8C9%21201&cid=FC95A680740CA8C9",
+      "url_diff" : ""
+   },
+   {
       "artist" : "mots",
       "comment" : "BPM180 微連打発狂",
       "level" : "10",
@@ -513,6 +526,18 @@
       "url" : "https://drive.google.com/file/d/1gpcBa3_zWJDlxlHcItXYusxpi47pp4wC/edit",
       "url_diff" : "https://www.dropbox.com/s/vi1hhv5muq33zh4/canyon_KILL.zip?dl=0",
       "zureCount" : 0
+   },
+   {
+      "artist" : "kireji / POLYNOID",
+      "level" : "4",
+      "md5" : "bf112747a2e66cb7956cfaad9c2b0c5f",
+      "proposer" : "moka",
+      "proposerLr2id" : 167326,
+      "sha256" : "e890b10e51ba72ee6c914f16ba33b13673b1870851185bb5781340557b09af60",
+      "submission" : 1829,
+      "title" : "神託機械 -Oracle Machine-",
+      "url" : "http://www7a.biglobe.ne.jp/~kireji/mpe.html",
+      "url_diff" : ""
    },
    {
       "artist" : "er /obj.siokaze",
