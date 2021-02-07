@@ -14,7 +14,7 @@
    {
       "artist" : "Notorious(Nota & TRIAL) BGA:inukoro obj:Yosk!",
       "comment" : "4~5? 二重乱打、同梱譜面",
-      "level" : "5",
+      "level" : "6",
       "md5" : "04a0afae2e165a4676c777d9bb9b55db",
       "proposer" : "にゃむ",
       "sha256" : "b0dbdab0bc9487d1c01dfc0069dbf3b2f14894a9f58e5ab041a5050820977098",
@@ -81,6 +81,18 @@
       "title" : "PPBQ",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=394&event=133",
       "url_diff" : ""
+   },
+   {
+      "artist" : "カラフル・サウンズ・ポート / obj.LetsOTL",
+      "comment" : "4~5? 階段、乱打",
+      "level" : "4",
+      "md5" : "09d1c8ce11ca00865862fd4a94d00250",
+      "proposer" : "にゃむ",
+      "sha256" : "1495dce5c9b287e9f9123a8044019487ba8d34a1feaacb90c41249d498aba270",
+      "submission" : 364,
+      "title" : "Granblaze [DP ANOTHER]",
+      "url" : "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/folder/UB8gABwB",
+      "url_diff" : "http://www.dropbox.com/s/5wfbukhp6wsuhe1/granblaze_dp.zip?dl=0"
    },
    {
       "artist" : "LeaF Movie:Optie / obj:alt",
@@ -297,6 +309,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Aoi mov:出前 / obj.LetsOTL",
+      "comment" : "片手16分乱打と階段・連皿 1～2?",
+      "level" : "2",
+      "md5" : "1754b47ff373aa71494bff859a6a0ba8",
+      "proposer" : "selene.",
+      "sha256" : "c08c186efe844a1371c8ff8bd7218d784312a14bfed0b0c5f6d2b7eaae691518",
+      "submission" : 375,
+      "title" : "c.s.q.n. [DP]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=223&event=127",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/649"
+   },
+   {
       "artist" : "69 de 74 BGI:れおん",
       "comment" : "同梱譜面　前後のノーツに干渉しない全押しあり",
       "level" : "11",
@@ -331,6 +355,17 @@
       "title" : "Love☆Spellcard",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=118",
       "url_diff" : "http://flowermaster.web.fc2.com/kikaku/kikaku10.zip"
+   },
+   {
+      "artist" : "Nakaiankow × VirtualNoiz × kju8 obj:みっと",
+      "level" : "6",
+      "md5" : "1a8bf502c603ff2f2b9fca64a47de401",
+      "proposer" : "coco",
+      "sha256" : "6e8f07120872c0c901e17b924957cc82b18d85dd32cec050f26092605dadf16e",
+      "submission" : 465,
+      "title" : "Parallel Evolution (DP Very Hard)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=249&event=133",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/1079"
    },
    {
       "artist" : "SHK/obj:epics-",
@@ -426,6 +461,29 @@
       "url_diff" : "https://web.archive.org/web/20181105105352/http://www.geocities.jp/uccdpbms/bof2011.html"
    },
    {
+      "artist" : "SEPHID BGA by EraPi0nner / obj RaiN",
+      "level" : "7",
+      "md5" : "21538d163ad1a5852a5d55bf5f66e016",
+      "proposer" : "coco",
+      "sha256" : "e89b3fc18606737211e9dfab5cbef4c5713acf7360433d9cca8a042198ecea1d",
+      "submission" : 464,
+      "title" : "Enneaquest [MEGALOPOLIS]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=133",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/1015"
+   },
+   {
+      "artist" : "COWBELL MASTER 心愛 -COCOA- BGA: w, OBJ: KEH",
+      "comment" : "sl0～sl2？ ラストに回復あり",
+      "level" : "1",
+      "md5" : "224ce2a5d7ac3a808e2c859aa0575eac",
+      "proposer" : "もち",
+      "sha256" : "c1e56177acf712f4837c4e52d9066b6792358d4b937e35792e71ee18104767bb",
+      "submission" : 462,
+      "title" : "GET ON WiTH FUNKOT [DP HARD]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=80&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Cosmograph / yusi. obj. Limite",
       "comment" : "階段, 同時押し",
       "level" : "2",
@@ -436,18 +494,6 @@
       "title" : "ELIMINATOR [DP ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=133",
       "url_diff" : ""
-   },
-   {
-      "artist" : "Arch/movie: Reku/obj:ゆゆゆ！",
-      "comment" : "同時押し、両手乱打、片手乱打＆LN dpbms_0848.zip",
-      "level" : "2",
-      "md5" : "229d455b6bb29029ddfb9fa97f091576",
-      "proposer" : "にゃむ",
-      "sha256" : "3690f7f0206afbf80ae17468bc62524ba7ba7d52abf744270f494e5e4e573aea",
-      "submission" : 111,
-      "title" : "fragile crystal -DP empty dream-",
-      "url" : "https://dropbox.bms.ms/u/59482273/arch_fragile_crystal.zip",
-      "url_diff" : "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download"
    },
    {
       "artist" : "Is-m BGA:ハマドメハマル",
@@ -544,6 +590,18 @@
       "title" : "melody_express [express14]",
       "url" : "https://dropbox.bms.ms/u/30230629/melody_express%5Bogg%5D.zip",
       "url_diff" : ""
+   },
+   {
+      "artist" : "daisan obj.Lapis",
+      "comment" : "5~6?",
+      "level" : "6",
+      "md5" : "268bb5d71fd21b3c8dd1d138f2e3e9fd",
+      "proposer" : "JHS",
+      "sha256" : "8ec7120f7985092ce2075929b28478a5f4a3c5a00ac0a382abcf5a74d6eefdd0",
+      "submission" : 343,
+      "title" : "-+ [DP LAPITHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=88",
+      "url_diff" : "http://lapisbms.xyz/"
    },
    {
       "artist" : "siromaru + cranky // movie: iimo // obj:epics-",
@@ -688,6 +746,18 @@
       "url_diff" : "http://web.archive.org/web/20140921042604/http://timetorain.web.fc2.com/sabun/DP-obj.V-E.zip"
    },
    {
+      "artist" : "削除 feat. Nikki Simmons Movie:Radiocity&yoshimo / obj:Starfish",
+      "comment" : "8?、LN、ラスト回復",
+      "level" : "8",
+      "md5" : "3313af61d72229ebf2910b7d82108083",
+      "proposer" : "JHS",
+      "sha256" : "881465ee0a9df6381bd41b7c294c5feeccd4db886ae46473b7e9b97c1dab3b12",
+      "submission" : 150,
+      "title" : "Destr0yer [DP ☆NOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=123",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/541"
+   },
+   {
       "artist" : "sweet smeller/obj:epics-",
       "comment" : "δ11 同時押し",
       "level" : "0",
@@ -792,6 +862,18 @@
       "title" : "多重極展開 [DP Molecules]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=62&event=88",
       "url_diff" : "https://www.dropbox.com/s/obtkshiedykhvya/dpsabun_kenin_200408.rar?dl=1"
+   },
+   {
+      "artist" : "薄荷堂 龍 vs. futonbound obj.vectorla",
+      "comment" : "4~5? 同時押し、乱打",
+      "level" : "4",
+      "md5" : "395811c489090c3e648d2385995de94c",
+      "proposer" : "にゃむ",
+      "sha256" : "7b0eb0cb3c97a9334c8b6af960ea9dba33bf8d5e0ab9d42500e63e90c20b66df",
+      "submission" : 458,
+      "title" : "霖風 [DP HYPER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=132",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/1037"
    },
    {
       "artist" : "ETIA. feat. Jenga MV: わっふゑ / obj: shiba",
@@ -1021,7 +1103,7 @@
    {
       "artist" : "Lokan 0bj. 0ne",
       "comment" : "階段 差分は本体に同梱",
-      "level" : "0",
+      "level" : "1",
       "md5" : "51480d58ea703c56178cbf4aa1818ab2",
       "proposer" : "にゃむ",
       "sha256" : "df6531d64809a90c23cfa1e4029881d93d7c4d49ac5fd0e201bb52ca424a1340",
@@ -1339,6 +1421,18 @@
       "url_diff" : "https://ux.getuploader.com/dpbms/download/705"
    },
    {
+      "artist" : "uma feat. ましろ obj:JHS",
+      "comment" : "5～6?、同時、乱打、着地皿 ",
+      "level" : "5",
+      "md5" : "66590d9d44d410d0c22868eed08bc3a4",
+      "proposer" : "MIST",
+      "sha256" : "53b68ab089bbc6692bf101cb26a6d0b8fe36ac5e4c7e461e2cb1a988a4fc8436",
+      "submission" : 334,
+      "title" : "take me to the moon [DP Insane]",
+      "url" : "https://dl.dropboxusercontent.com/s/nueah4vl998bujc/takemetothemoon_bms_ogg.zip",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/870"
+   },
+   {
       "artist" : "あずにゃん",
       "comment" : "低速発狂、皿、LN (Anzu BMS Diff Toolで_azul_rr_7a.bmsと比較してズレ抜けなし)",
       "level" : "5",
@@ -1586,6 +1680,18 @@
       "title" : "Ophelia (14keys Maniac)",
       "url" : "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ",
       "url_diff" : "http://monoglider.web.fc2.com/"
+   },
+   {
+      "artist" : "Seibin obj:17",
+      "comment" : "同時押し",
+      "level" : "5",
+      "md5" : "76fd4bd3f9937e3880739fa116c7dcae",
+      "proposer" : "JHS",
+      "sha256" : "68d765923675d8ccc71b0152325c1102e620a66d76c255282fe68b4dbe5ef9ef",
+      "submission" : 419,
+      "title" : "Brandnew Mind [14A]",
+      "url" : "http://skydrive.live.com/?cid=6580dd8662a42efd&id=6580DD8662A42EFD%21105",
+      "url_diff" : "https://w.atwiki.jp/14key/pages/23.html"
    },
    {
       "artist" : "ゆんゆん / obj:星宮",
@@ -1857,6 +1963,17 @@
       "title" : "Ms.Naive Princess [Symmetry14]",
       "url" : "http://wayback.archive.org/web/20140803145510/http://roaraddiction.mods.jp/bms/x006_mnp_ogg.rar",
       "url_diff" : "http://epics.client.jp/"
+   },
+   {
+      "artist" : "EBIMAYO / obj.LetsOTL",
+      "level" : "6",
+      "md5" : "862bad018be732989b33886f12264d98",
+      "proposer" : "coco",
+      "sha256" : "98ce25303fa810c7b5f656da0a2dbc32948f220756bc93e35318d63c197566a9",
+      "submission" : 467,
+      "title" : "GOODTEK [DP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=83&event=104",
+      "url_diff" : "http://www.dropbox.com/s/8jreoryjav1mgs0/GOODTEK%28DP%29.zip?dl=0"
    },
    {
       "artist" : "Kei Izumi",
@@ -2132,7 +2249,7 @@
    {
       "artist" : "ixi's / obj : Ill Movie : TAKRIDER",
       "comment" : "低速物量、甘ゲージ、6~7?",
-      "level" : "7",
+      "level" : "8",
       "md5" : "a1a97ad73b976ebfc6f110026b60b1a4",
       "proposer" : "JHS",
       "sha256" : "2b66502bcfba35026503eec6c152781cce66c2769748715b3fc61f423ecc1ebc",
@@ -2522,6 +2639,30 @@
       "url_diff" : "http://nekokan.dyndns.info/~lobsak/genocide/grade.html"
    },
    {
+      "artist" : "qfeileadh&レゾナンスもえこ / Limite feat.制限 mov:Maeus",
+      "comment" : "9~10? 高速片手乱打",
+      "level" : "10",
+      "md5" : "b69172f4882a5a0e03d84352f812a994",
+      "proposer" : "にゃむ",
+      "sha256" : "1382919fa2e51062312a795428a480cc7e590ffbf9ceb000e360ac4c7edb3c0a",
+      "submission" : 457,
+      "title" : "Psalms [さよなら、ユートピア]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=128&event=133",
+      "url_diff" : "https://www.limiteknj.net/BMS/"
+   },
+   {
+      "artist" : "punchhh",
+      "comment" : "3~4? 同梱譜面、高速乱打",
+      "level" : "3",
+      "md5" : "b6f635f6986a8ac6627accd79332df4d",
+      "proposer" : "にゃむ",
+      "sha256" : "ed890ed9d1ac89f753d6fb725d0f70b53a145b5ec7ed3a32484e8a8447502a0e",
+      "submission" : 414,
+      "title" : "the scenery [DP ANOTHER]",
+      "url" : "http://k-bms.com/party_pabat/party2018.jsp?board_num=18&num=45&order=reg&odtype=a",
+      "url_diff" : ""
+   },
+   {
       "artist" : "HOUJIROU / BGA: hardlove obj:けろりん",
       "level" : "11",
       "md5" : "b7244f66328a360a34a6d6a66028fed9",
@@ -2639,6 +2780,18 @@
       "url_diff" : "https://ux.getuploader.com/dpbms/download/986"
    },
    {
+      "artist" : "sound piercer x ginkiha (mov : 1B) obj by chion",
+      "comment" : "同梱譜面 luminus package BLACK",
+      "level" : "3",
+      "md5" : "bbf97c0b70b7f68a363cddbd99462f67",
+      "proposer" : "JHS",
+      "sha256" : "be0fbaf77dfea5d7ee5fdec4e46a7051d62fdd6fc6b9df0bdb5a88e35c84a9eb",
+      "submission" : 410,
+      "title" : "BLAZE YOUR SOUL [DP ANOTHER]",
+      "url" : "http://l-bms.space/1st/download.html",
+      "url_diff" : ""
+   },
+   {
       "artist" : "qfeileadh mov.アトリエ海百合　feat. レゾナンスもえこ / ハタイッセー",
       "comment" : "中速物量",
       "level" : "5",
@@ -2673,6 +2826,18 @@
       "title" : "すばらきしこのせかい [for Beginner]",
       "url" : "https://onedrive.live.com/?id=863934608D908CD0%21105&cid=863934608D908CD0",
       "url_diff" : "http://epics.client.jp/bms2011.html"
+   },
+   {
+      "artist" : "ゆんゆん",
+      "comment" : "同梱譜面",
+      "level" : "6",
+      "md5" : "bea9dcaf2cf21b7bfbce7da243b1a68b",
+      "proposer" : "coco",
+      "sha256" : "199d6c49063e2b4cc2565ede5c62e825bf7cf26ec0d96dc4b490842778a7be99",
+      "submission" : 463,
+      "title" : "Old Pal",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=396&event=133",
+      "url_diff" : ""
    },
    {
       "artist" : "TiS feat. maho / object by meteor* (Cineraria Studio)",
@@ -2803,6 +2968,17 @@
       "title" : "electric butterfly [A14]",
       "url" : "http://www.qumarich.net/misstype/",
       "url_diff" : "https://web.archive.org/web/20181106000700/http://www.geocities.jp/uccdpbms/bms/ele_butter.zip"
+   },
+   {
+      "artist" : "REX / Obj:ゆ～兎",
+      "level" : "5",
+      "md5" : "c553262ed4d2db9cf25eb39e6a6028a7",
+      "proposer" : "coco",
+      "sha256" : "3f5e0da876e6d2554e8e1afef93821fc3113b110fe9ce257ec79a301815957b3",
+      "submission" : 466,
+      "title" : "Scarlet Double Dance [DP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=40&event=92",
+      "url_diff" : "http://timetorain.web.fc2.com/"
    },
    {
       "artist" : "mommy",
@@ -3092,7 +3268,7 @@
    {
       "artist" : "Zris feat. Katie / Limite",
       "comment" : "6~8?、片手二重、ラスト回復、ハード難",
-      "level" : "7",
+      "level" : "8",
       "md5" : "d73cdd6d5d1897e2d3052b74263b5283",
       "proposer" : "JHS",
       "sha256" : "e168590d536011ca96dcf023bf0c818913b0b9cbca7d9efcb71cc315bf8e6fc2",
@@ -3125,6 +3301,17 @@
       "url_diff" : ""
    },
    {
+      "artist" : "-45/わなな・BANI",
+      "level" : "2",
+      "md5" : "d95223a411d9aece9a16eaf733d6797c",
+      "proposer" : "siyamaki",
+      "sha256" : "1c96df23058a44ffc4b776fd5c3a799b00d15b14b723e24f5bab611ef11f43a6",
+      "submission" : 326,
+      "title" : "Empress of Raizze (14H)",
+      "url" : "https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
+      "url_diff" : "https://w.atwiki.jp/14key/pages/23.html"
+   },
+   {
       "artist" : "Nego_tiator Obj. 0ne",
       "comment" : "純正階段",
       "level" : "4",
@@ -3150,7 +3337,7 @@
    {
       "artist" : "カラフル・サウンズ・ポート obj.にゃむ",
       "comment" : "4?、同時押し",
-      "level" : "4",
+      "level" : "3",
       "md5" : "daa91f5884399436c2c29c6b3f830f87",
       "proposer" : "JHS",
       "sha256" : "0d63fd197b8631d5bb30ab6526f681613fc905a3d262466f66c715623cd290fe",
@@ -3170,6 +3357,18 @@
       "title" : "This Club is not 4 U [DP ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=105&event=123",
       "url_diff" : ""
+   },
+   {
+      "artist" : "椎名まゆり obj: shiba",
+      "comment" : "★★3? 物量、ソフランカットによるズレあり",
+      "level" : "11",
+      "md5" : "db61816ce6a0d8e08446af4d95c0c0a0",
+      "proposer" : "にゃむ",
+      "sha256" : "6d22868d4d659a8d573b4e41d635479e1ace27c1cfc5dbe5948bb9e4861b9de1",
+      "submission" : 460,
+      "title" : "星屑アポトーシス",
+      "url" : "https://www.dropbox.com/s/8k9jv25hpd9u42n/%E6%98%9F%E5%B1%91%E3%82%A2%E3%83%9D%E3%83%88%E3%83%BC%E3%82%B7%E3%82%B9.zip?dl=0",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/930"
    },
    {
       "artist" : "Zris feat. Kri",
@@ -3360,6 +3559,17 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Silentroom × 駿 / obj.LetsOTL",
+      "level" : "7",
+      "md5" : "e7b02a0c898847cccdef2db546e16c1b",
+      "proposer" : "RIVERSTAR",
+      "sha256" : "09b23c3139d414efe1aa8eb459b4f1e70c88eb16fa20bd44eefbc64d4d2fc596",
+      "submission" : 21,
+      "title" : "Nhelv [SRBOFU2017DP]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=386&event=116",
+      "url_diff" : "https://www.dropbox.com/s/13a7kz5spsebf7v/SRBOFU2017DP.zip?dl=0"
+   },
+   {
       "artist" : "U-hey　BGA:ユウノ obj:肴",
       "comment" : "3~4? 混フレ、同時押し",
       "level" : "4",
@@ -3406,6 +3616,18 @@
       "title" : "新 漢江水打令 [DP LEGGENDARIA]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=234&event=133",
       "url_diff" : ""
+   },
+   {
+      "artist" : "わかどり BGA : もがみ / obj:RaiN",
+      "comment" : "階段、微連打",
+      "level" : "6",
+      "md5" : "ed9f8b45adf6a073a8a9fd2915608f19",
+      "proposer" : "にゃむ",
+      "sha256" : "b3f46d219ee023a5f3570955f4fc0a6a1f361b4329315f6a86ad29ab43c0aecb",
+      "submission" : 461,
+      "title" : "NightTheater [DP ANOTHER+]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=18&event=133",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/1055"
    },
    {
       "artist" : "wigen_ obj:けろりん",

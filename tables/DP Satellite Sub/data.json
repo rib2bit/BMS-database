@@ -54,7 +54,7 @@
    {
       "artist" : "Notorious(Nota & TRIAL) BGA:inukoro obj:Yosk!",
       "comment" : "4~5? 二重乱打、同梱譜面",
-      "level" : "4",
+      "level" : "6",
       "md5" : "04a0afae2e165a4676c777d9bb9b55db",
       "proposer" : "にゃむ",
       "proposerLr2id" : 139958,
@@ -707,19 +707,6 @@
       "url_diff" : ""
    },
    {
-      "artist" : "Arch/movie: Reku/obj:ゆゆゆ！",
-      "comment" : "同時押し、両手乱打、片手乱打＆LN dpbms_0848.zip",
-      "level" : "2",
-      "md5" : "229d455b6bb29029ddfb9fa97f091576",
-      "proposer" : "にゃむ",
-      "proposerLr2id" : 139958,
-      "sha256" : "3690f7f0206afbf80ae17468bc62524ba7ba7d52abf744270f494e5e4e573aea",
-      "submission" : 111,
-      "title" : "fragile crystal -DP empty dream-",
-      "url" : "https://dropbox.bms.ms/u/59482273/arch_fragile_crystal.zip",
-      "url_diff" : "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download"
-   },
-   {
       "artist" : "Is-m BGA:ハマドメハマル",
       "comment" : "★★2?、同梱譜面",
       "level" : "11",
@@ -850,6 +837,20 @@
       "title" : "-+ [DP LAPITHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=88",
       "url_diff" : "http://lapisbms.xyz/",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "SHIKI / obj.にゃむ movie:140/fth",
+      "comment" : "",
+      "level" : "0",
+      "md5" : "26b42ffeaeb605b67a8255d65ce1cbbf",
+      "proposer" : "もち",
+      "proposerLr2id" : 53819,
+      "sha256" : "dc41272580c89f7a1c511ad441c3e137d4ad2a2fe9f89fce2abec50eaf65d28a",
+      "submission" : 469,
+      "title" : "Fractal [DPA]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=243&event=133",
+      "url_diff" : "https://stellabms.xyz/upload/613",
       "zureCount" : 0
    },
    {
@@ -1651,7 +1652,7 @@
    {
       "artist" : "Lokan 0bj. 0ne",
       "comment" : "階段 差分は本体に同梱",
-      "level" : "0",
+      "level" : "1",
       "md5" : "51480d58ea703c56178cbf4aa1818ab2",
       "proposer" : "にゃむ",
       "proposerLr2id" : 139958,
@@ -3293,7 +3294,7 @@
    {
       "artist" : "ixi's / obj : Ill Movie : TAKRIDER",
       "comment" : "低速物量、甘ゲージ、6~7?",
-      "level" : "7",
+      "level" : "8",
       "md5" : "a1a97ad73b976ebfc6f110026b60b1a4",
       "proposer" : "JHS",
       "proposerLr2id" : 128228,
@@ -4685,6 +4686,18 @@
       "zureCount" : 0
    },
    {
+      "artist" : "EmoCosine / 出前 / Limite",
+      "level" : "5",
+      "md5" : "d650ba8622f1f079681efb67dd7ee04e",
+      "proposer" : "もち",
+      "proposerLr2id" : 53819,
+      "sha256" : "fa8d283105d07088c4763248f45431fc657320f8703d711c24c7ca02c65fefc8",
+      "submission" : 470,
+      "title" : "Cutter [DP INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Sobrem",
       "level" : "0",
       "md5" : "d65aa7b67d31d9b20a87b47c92d02058",
@@ -4751,7 +4764,7 @@
    {
       "artist" : "Zris feat. Katie / Limite",
       "comment" : "6~8?、片手二重、ラスト回復、ハード難",
-      "level" : "7",
+      "level" : "8",
       "md5" : "d73cdd6d5d1897e2d3052b74263b5283",
       "proposer" : "JHS",
       "proposerLr2id" : 128228,
@@ -4828,7 +4841,7 @@
    {
       "artist" : "カラフル・サウンズ・ポート obj.にゃむ",
       "comment" : "4?、同時押し",
-      "level" : "4",
+      "level" : "3",
       "md5" : "daa91f5884399436c2c29c6b3f830f87",
       "proposer" : "JHS",
       "proposerLr2id" : 128228,
@@ -5085,6 +5098,18 @@
       "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=50&order=reg&odtype=a",
       "url_diff" : "https://ux.getuploader.com/dpbms/download/740",
       "zureCount" : 0
+   },
+   {
+      "artist" : "Sound piercer feat.ΣX mov.Ratif",
+      "level" : "0",
+      "md5" : "e3ca8c0c1f1a412f7824745d4f8e090f",
+      "proposer" : "Topio",
+      "proposerMinirid" : "381c5078-4634-43ae-a3b9-e042de243d8c",
+      "sha256" : "e1614e903cb4d8f9daa86b4d23d68b852597c1ca8f7142ab690534e2e0af84eb",
+      "submission" : 471,
+      "title" : "新 漢江水打令 [DP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=234&event=133",
+      "url_diff" : ""
    },
    {
       "artist" : "eicateve hrchem[illust] TOHRU MiTSUHASHi[movie] w[object]",
