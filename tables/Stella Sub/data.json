@@ -9793,6 +9793,19 @@
       "url_diff" : "https://bms.parksulab.xyz"
    },
    {
+      "artist" : "mommy",
+      "comment" : "音源追加、キー音アレンジのせいで同梱差分基準ズレが発生していますが、プレーには問題ないです。(差分ファイル同梱の_88D_0note.xxxで作った譜面です。)",
+      "level" : "4",
+      "md5" : "83f00578264e48fd02f27e5b117abd65",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "505f5c993320896dd587d5ad3717bde586fcb33a26a8269d4ff778ebd13bc6c7",
+      "submission" : 1371,
+      "title" : "88D",
+      "url" : "http://mommy16807.seesaa.net/article/395741193.html",
+      "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
       "artist" : "SHIKI / 93",
       "comment" : "",
       "level" : "7",
@@ -12099,6 +12112,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Sound-Box(feat.A.Dokuga) M-SPIN(feat.α-Gorila)",
+      "comment" : "同梱SPN基準ズレが一つありますがBGIのズレだからプレーには問題ないです。",
+      "level" : "3",
+      "md5" : "a232f8241beb2dc1e14a413b78423828",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "2a594c0b75b177693abe4edad82d27798dafdb8d025fd8513420b7c7ae0bc8d5",
+      "submission" : 1370,
+      "title" : "白 [Project AG]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=148&event=133",
+      "url_diff" : "https://darksabun.github.io/event/bofxvi/"
    },
    {
       "artist" : "punchhh / obj. Tristan97",

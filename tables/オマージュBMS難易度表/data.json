@@ -83,7 +83,7 @@
       "md5" : "039c94912cc55c8e0535755fbdbeb856",
       "name_diff" : null,
       "name_pack" : null,
-      "state" : 1,
+      "state" : 0,
       "tag" : null,
       "title" : "Leviathan",
       "url" : "",
@@ -3856,6 +3856,21 @@
       "url_pack" : null
    },
    {
+      "artist" : "Nycticebus",
+      "comment" : null,
+      "eval" : 0,
+      "level" : "10",
+      "md5" : "6ca4cf15cba22a7cdf3790c1253a4b0c",
+      "name_diff" : null,
+      "name_pack" : null,
+      "state" : 1,
+      "tag" : null,
+      "title" : "Mondlicht [SP HYPER]",
+      "url" : "",
+      "url_diff" : "",
+      "url_pack" : null
+   },
+   {
       "artist" : "siromaru / BGA:Aki",
       "comment" : null,
       "eval" : 0,
@@ -4311,7 +4326,7 @@
       "md5" : "7790d7ebb667cb52c6ef2f43bd272647",
       "name_diff" : null,
       "name_pack" : null,
-      "state" : 1,
+      "state" : 0,
       "tag" : null,
       "title" : "Leviathan",
       "url" : "",
@@ -6667,6 +6682,21 @@
       "url_pack" : null
    },
    {
+      "artist" : "Nycticebus",
+      "comment" : null,
+      "eval" : 0,
+      "level" : "12",
+      "md5" : "b914da45e4dbf5599b7edee4d3c7e8a9",
+      "name_diff" : null,
+      "name_pack" : null,
+      "state" : 1,
+      "tag" : null,
+      "title" : "Mondlicht [SP ANOTHER]",
+      "url" : "",
+      "url_diff" : "",
+      "url_pack" : null
+   },
+   {
       "artist" : "sak(BGA:Roaring Flame)",
       "comment" : "作品No.30<br>原曲：幽霊楽団〜Phantom Esemble",
       "eval" : 0,
@@ -8164,6 +8194,21 @@
       "url_pack" : null
    },
    {
+      "artist" : "Nycticebus",
+      "comment" : null,
+      "eval" : 0,
+      "level" : "4",
+      "md5" : "ddf0507da1b53f8c053881d8119317f4",
+      "name_diff" : null,
+      "name_pack" : null,
+      "state" : 1,
+      "tag" : null,
+      "title" : "Mondlicht [SP NORMAL]",
+      "url" : "",
+      "url_diff" : "",
+      "url_pack" : null
+   },
+   {
       "artist" : "Zun Arranged by Mist",
       "comment" : null,
       "eval" : 0,
@@ -8889,7 +8934,7 @@
       "md5" : "f5914a8d65aa640746cc06b51a1b7182",
       "name_diff" : null,
       "name_pack" : null,
-      "state" : 1,
+      "state" : 0,
       "tag" : null,
       "title" : "Leviathan",
       "url" : "",
