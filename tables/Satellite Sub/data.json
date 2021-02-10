@@ -1759,6 +1759,18 @@
       "zureCount" : 0
    },
    {
+      "artist" : "MALVA. obj : BAECON",
+      "level" : "9",
+      "md5" : "0f16db4d8c083957cdb5fc4f1a773be5",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "344be6a9821cdde0f98f9bfc3ebf76dc62b9812d94c6f75f1a0568eacc19640a",
+      "submission" : 1837,
+      "title" : "Heilenwelt [SP N/A]",
+      "url" : "https://venue.bmssearch.net/3/52",
+      "url_diff" : ""
+   },
+   {
       "artist" : "otoshi.b Movie:Arishima_Caprico",
       "comment" : "",
       "level" : "3",
@@ -6872,6 +6884,19 @@
       "title" : "白菊 [Snother]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=268&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02873"
+   },
+   {
+      "artist" : "AOiRO_Manbow with kagerow/ 差分 赤い人",
+      "level" : "6",
+      "md5" : "43c38e39b1d5f9557fc927571a005073",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "8e976068a3d2f424a05e82226612abc51a0857581214d3e69f90c1f569ff9dcb",
+      "submission" : 1836,
+      "title" : "dreamin' -happycore version - [HARDEST]",
+      "url" : "http://tm2.toymusical.net/download.html",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/dreamin_happycore-HARDEST.bms",
+      "zureCount" : 0
    },
    {
       "artist" : "corok-Bb",

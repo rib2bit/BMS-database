@@ -30,6 +30,48 @@
       "zureCount" : 0
    },
    {
+      "artist" : "daisan obj : 71066",
+      "comment" : "G2R2018",
+      "level" : "7",
+      "md5" : "66f2263a8e854298029231c872c3e14b",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "bb34f3fd840cf90422ebb29491e08223a8d460e6e8984893cac0cd04b3db2579",
+      "submission" : 472,
+      "title" : "Deepsea Moonlight [Cuvelia14]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=20&event=123",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/962",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "しーけー / obj:十六夜",
+      "comment" : "BOFXVI",
+      "level" : "6",
+      "md5" : "774d0a249b1f6eade39de8dfec32a5d8",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "600f097b9aaf521e68cbb3cfa229b4cbbb30b628f63e037892302528d60498cf",
+      "submission" : 475,
+      "title" : "La souvenir [DPYoitherEASY]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=193&event=133",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/1049",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "litmus* / obj:sagoo mov : まも",
+      "comment" : "BOFU2017",
+      "level" : "7",
+      "md5" : "bdb21ed11e1e31d8b1b3f3afb52f820f",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "04eaa1a9ad02f0e1336bce85c1bb6cb33a05d92144123104d594575be4af42be",
+      "submission" : 473,
+      "title" : "The SkyScrapers [DP-sagINSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=53&event=116",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/1073",
+      "zureCount" : 0
+   },
+   {
       "artist" : "-45 / obj: black train",
       "level" : "9",
       "md5" : "c3bf136bd9de6d08e6a212aae47f8813",
@@ -71,6 +113,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Rabbit House BGA : Ratif / Vocal Edit : Chester Park / Object : 0ne",
+      "comment" : "BOFXVI 同梱譜面",
+      "level" : "5",
+      "md5" : "d887b961b629ba57d04147324e1291b8",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "f49ce00fdf80c81fa805e06b27ff29e1adece6a28a3b5a28c87dc32464720d0a",
+      "submission" : 476,
+      "title" : "未来へ続く道 feat. 紙木はさみ [DP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Sound piercer feat.ΣX mov.Ratif",
       "level" : "0",
       "md5" : "e3ca8c0c1f1a412f7824745d4f8e090f",
@@ -97,5 +152,19 @@
       "voteNo" : 0,
       "votePercent" : 83.3333333333333,
       "voteYes" : 2
+   },
+   {
+      "artist" : "Arch/movie: Reku obj:Lilium",
+      "comment" : "dpbms_0877",
+      "level" : "6",
+      "md5" : "f97eb1e2a6015ccf91ec6cdce0f48c81",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "89a1c27707e4d16946041149822ccafa0021bcea4e9192e57b4cd62abd993916",
+      "submission" : 474,
+      "title" : "fragile crystal -14keys-",
+      "url" : "https://dropbox.bms.ms/u/59482273/arch_fragile_crystal.zip",
+      "url_diff" : "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download",
+      "zureCount" : 0
    }
 ]
