@@ -50,6 +50,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "U2 Remixed by rider",
+      "comment" : "同梱譜面/BOFU2010",
+      "level" : "1",
+      "md5" : "135443cc431b85603a5f52500e589566",
+      "proposer" : "TR1",
+      "proposerLr2id" : 152181,
+      "sha256" : "58a5e6a6567e5e43151323d28dbf46db44abe25be05c3230c10712bed90081ef",
+      "submission" : 1841,
+      "title" : "Missing Banquet [7KEY ANOTHER]",
+      "url" : "http://flowermaster.web.fc2.com/riderbms/index.html",
+      "url_diff" : ""
+   },
+   {
       "artist" : "otokaz / obj:NASA",
       "level" : "2",
       "md5" : "17a602c719ef0f1612fc5afba37953f5",
@@ -117,6 +130,19 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=88&event=132",
       "url_diff" : "https://frozensat.github.io/sabun/Visor_DK.zip",
       "zureCount" : 0
+   },
+   {
+      "artist" : "SOMON",
+      "comment" : "同梱譜面/A-1 ClimaX 9th",
+      "level" : "1",
+      "md5" : "2dfe8ce71b87ccf054b0620db6d44d78",
+      "proposer" : "TR1",
+      "proposerLr2id" : 152181,
+      "sha256" : "74d982410794ca8c67dab8f191a22af30697308b5f1b8cccb629e92baa90658c",
+      "submission" : 1840,
+      "title" : "-零- 【ANOTHER】",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=126",
+      "url_diff" : ""
    },
    {
       "artist" : "Dr.ReB obj. DK",
@@ -238,6 +264,20 @@
       "title" : "Poppin' Shower",
       "url" : "https://onedrive.live.com/?id=FC95A680740CA8C9%21201&cid=FC95A680740CA8C9",
       "url_diff" : ""
+   },
+   {
+      "artist" : "wa. / deadblue238 obj. sera",
+      "comment" : "GENOCIDE Reinterpretation ★4",
+      "level" : "3",
+      "md5" : "62eef2308ebdc1d906b78a46f1521821",
+      "proposer" : "|/|",
+      "proposerLr2id" : 147895,
+      "sha256" : "13f1dc30862e0c7c5e0307d5090d8295db16a3c644bda823a1fee41f6592f946",
+      "submission" : 1838,
+      "title" : "Lieselotte [REDUCTION]",
+      "url" : "https://web.archive.org/web/20160506153918/http://creation-records.info/bms/_wa_lieselotte.rar",
+      "url_diff" : "https://darksabun.github.io/event/renewal/",
+      "zureCount" : 0
    },
    {
       "artist" : "------",
@@ -505,5 +545,19 @@
       "title" : "GET ON WiTH FUNKOT [SP HELL]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=80&event=133",
       "url_diff" : ""
+   },
+   {
+      "artist" : "髭姫 feat.しゆ＆橘花音/さ LYRICS：やんばるん BGA：Milk_tya ILLUST：UNOQLO",
+      "comment" : "らららしぇるどっきんぐ 栄光は私たちへと",
+      "level" : "12",
+      "md5" : "f8f198a7ddcd6a8ad5eacb719f046ea9",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "1602f4b3807d694bd5013d78937fe28b8104b0ef93959d92ced0343657dcafe8",
+      "submission" : 1839,
+      "title" : "しぇる☆どっきんぐ ～だめ！このままじゃ溢れちゃう！～ (EX)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=106&event=88",
+      "url_diff" : "http://web.archive.org/web/20170903011440/http://sabosabun.tank.jp/sabun/yuriyuri.zip",
+      "zureCount" : 0
    }
 ]
