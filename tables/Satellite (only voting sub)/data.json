@@ -161,6 +161,19 @@
       "voteYes" : 11
    },
    {
+      "artist" : "GRASS",
+      "comment" : "同梱譜面/BMSたくさん作るぜ’20",
+      "level" : "0",
+      "md5" : "39cb7b3a1ded3e853875380000c229d9",
+      "proposer" : "mochikina",
+      "proposerMinirid" : "bb3f3f51-51aa-49aa-accf-c18d91b195d7",
+      "sha256" : "3178bc092fd302fdccc5b32ebad195292fc2c593e5350472636d461d8a74ccba",
+      "submission" : 1842,
+      "title" : "Electron World [7keys_ANOTHER]",
+      "url" : "https://venue.bmssearch.net/bmstukuru2020/53",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Zombomb",
       "comment" : "(BOFXVI) not enough scratch in satellite",
       "level" : "1",
