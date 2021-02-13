@@ -10995,6 +10995,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "クワガタ feat. 鳳梨みこ / note: Michael",
+      "comment" : "4~5?",
+      "level" : "5",
+      "md5" : "6d8145c457495da25ac1faef91c74a54",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "76c7ffa99f4c572ff276031d9c52df4b33c0ce5990726febb914ea8265a04e7b",
+      "submission" : 1843,
+      "title" : "sleep on dancing (BMS Edit) [Melatonic]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=184&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "srask obj: qtp13",
       "comment" : "高速乱打",
       "level" : "8",
@@ -14886,6 +14899,19 @@
       "title" : "Sparkling☆Sunshine!! [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=127",
       "url_diff" : ""
+   },
+   {
+      "artist" : "remixed. by gmtn.  / obj.2RLZ Graphic : koavenit (invert colors)",
+      "comment" : "同梱spa基準61小節にズレが一つありますが、差分作者によるとライドシンバルの配置を変えたので発生された意図的なズレです。プレーには特に問題なさそうです。",
+      "level" : "10",
+      "md5" : "966d2a967a22f98877c8d923c302db6f",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "04ad1157619df4e23c6a90a039404f6b3446572d7cc30d4443b0abd907915e52",
+      "submission" : 1844,
+      "title" : "Extreme Z4 (Aggressive HC mix) [183km/h]",
+      "url" : "https://web.archive.org/web/20130901100022/http://gmtn.sub.jp/carage_extreme_z4_aggressive_hc_mix_ogg.zip",
+      "url_diff" : "https://darksabun.github.io/event/renewal/"
    },
    {
       "artist" : "kas_0120",

@@ -7916,6 +7916,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "qfeileadh mov:むらたむうた",
+      "comment" : "0~1?",
+      "level" : "1",
+      "md5" : "68f7337ffb77de90919f6fa68a4f6eb5",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "7cc1d94a450a1f14e77591519b183993289640368a18521622655c34627fe6b1",
+      "submission" : 1373,
+      "title" : "シレノ [DILUVIAL]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=139&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "beatMARIO/obj KAMIO*",
       "comment" : "ガチ押し　up5638",
       "level" : "4",
@@ -8712,6 +8725,18 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=331&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04378",
       "zureCount" : 0
+   },
+   {
+      "artist" : "qfeileadh&のあ mov:Kengo Nakao",
+      "level" : "1",
+      "md5" : "72b1ce4b2051bd2a396dfa11a2d785ee",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "20f37dc62287e8bdc7bee5427d76193d32894830a0bd09ffbbaa46d5daaf60f8",
+      "submission" : 1374,
+      "title" : "HEXPERUS [NEXTAGE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=164&event=133",
+      "url_diff" : ""
    },
    {
       "artist" : "LunaticSounds / ShiginoEicar OBJ : ランダマイザ",
