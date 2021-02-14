@@ -200,6 +200,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "saaa",
+      "comment" : "BPM138 多要素",
+      "level" : "9",
+      "md5" : "442d55185f1b14532c81ebb21793c5cc",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "70de1e35acb2843aa30b78aa231aa847f22c6f612f19a0b9901c7e810e8175cd",
+      "submission" : 1848,
+      "title" : "1516 [SAETHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "naotyu- obj:K-SPIN",
       "comment" : "皿複合、縦連",
       "level" : "1",
@@ -425,6 +438,20 @@
       "zureCount" : 0
    },
    {
+      "artist" : "t+pazolite / obj:七海",
+      "comment" : "GENOCIDE REINTERPARETATION 出身差分 ★9~10?",
+      "level" : "5",
+      "md5" : "acaaa0aaa4e8a3de3cbf8041f4891d72",
+      "proposer" : "Restia",
+      "proposerLr2id" : 115265,
+      "sha256" : "9c7ee0185e44fb649637a332e5c02ec038c241fcb3040b06f34b075067e324ce",
+      "submission" : 1845,
+      "title" : "Little \"Sister\" Bitch -Hope-",
+      "url" : "https://www.mediafire.com/file/21t44ddqr0dzwpo/Little_Sister_B%2Atch.zip/file",
+      "url_diff" : "https://darksabun.github.io/event/renewal/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Lian",
       "comment" : "同梱譜面　ズレ乱打",
       "level" : "4",
@@ -450,6 +477,35 @@
       "url" : "https://drive.google.com/file/d/1gpcBa3_zWJDlxlHcItXYusxpi47pp4wC/edit",
       "url_diff" : "https://www.dropbox.com/s/vi1hhv5muq33zh4/canyon_KILL.zip?dl=0",
       "zureCount" : 0
+   },
+   {
+      "artist" : "Manmin Central Church",
+      "level" : "0",
+      "md5" : "b88ac5e2895f32206b2f4f20095361a4",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "61acd1cbaba7a3902f16bfef67376cda8b9327a593fc2b97c9fd4b60f3b923ae",
+      "submission" : 1533,
+      "title" : "SHINCHEONJI [MOOAN WATER]",
+      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=66&order=reg&odtype=a",
+      "url_diff" : "",
+      "voteNeutral" : 4,
+      "voteNo" : 4,
+      "votePercent" : 62.5,
+      "voteYes" : 8
+   },
+   {
+      "artist" : "noctie* obj.XYZ / quantized by Mallow♪",
+      "comment" : "GENOCIDE REINTERPARETATION 出身差分 すべてのズレは意図的なズレです。",
+      "level" : "10",
+      "md5" : "be8fba586b19687fbb1330fa6cdd58c7",
+      "proposer" : "Restia",
+      "proposerLr2id" : 115265,
+      "sha256" : "1b0d825ec0c8f8df712d6bc59eefde0db76764ba090d4ada2b1e6392d386c19c",
+      "submission" : 1846,
+      "title" : "resta del tramonto",
+      "url" : "https://dropbox.bms.ms/u/106790826/resta_del_tramonto.rar",
+      "url_diff" : "https://darksabun.github.io/event/renewal/"
    },
    {
       "artist" : "kireji / POLYNOID",
@@ -529,6 +585,19 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=294&event=133",
       "url_diff" : "https://stellabms.xyz/upload/441",
       "zureCount" : 0
+   },
+   {
+      "artist" : "kas_0120",
+      "comment" : "BPM216 乱打",
+      "level" : "2",
+      "md5" : "d5a51b6cb45beeb7282310ff61a435cb",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "db4c91553a2da2a59c7287307fa1c7fb3af5b00d623c42fe1e437996200f92ab",
+      "submission" : 1847,
+      "title" : "One Muffin. Please. [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=338&event=133",
+      "url_diff" : ""
    },
    {
       "artist" : "翡乃イスカ",
