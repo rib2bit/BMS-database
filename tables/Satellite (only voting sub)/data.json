@@ -371,6 +371,20 @@
       "zureCount" : 0
    },
    {
+      "artist" : "tarolabo / obj. 0e5r",
+      "comment" : "神曲",
+      "level" : "1",
+      "md5" : "919690e94d61a1571f4c351ed94a261f",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "3a36e1e0611f2df5b6b7d60ccb6b9c2e81a49cbdcbb9e0c5410a3b5585eb3688",
+      "submission" : 1850,
+      "title" : "Do you go to the another? [7key_EXTREME]",
+      "url" : "http://www.mediafire.com/download/ydb0ayg9wyqcgjy/Do+you+go+to+the+another.zip",
+      "url_diff" : "http://absolute.pv.land.to/uploader/src/up0188.zip",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Lian",
       "comment" : "同梱譜面　物量",
       "level" : "5",
@@ -654,6 +668,22 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=147&event=133",
       "url_diff" : "https://stellabms.xyz/upload/436",
       "zureCount" : 0
+   },
+   {
+      "artist" : "LeaF Movie:Optie / obj:1008",
+      "level" : "0",
+      "md5" : "e075b31c6eec47111bc3a516dab225a0",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "e25e0c466acd6c243b95cf226b25f2bb86c36503b9b8c2500c0e14e1ce611ead",
+      "submission" : 1625,
+      "title" : "Aleph-0 [Alpha]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=498&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04612",
+      "voteNeutral" : 5,
+      "voteNo" : 2,
+      "votePercent" : 76.3157894736842,
+      "voteYes" : 12
    },
    {
       "artist" : "COWBELL MASTER 心愛 -COCOA- BGA: w, OBJ: w",
