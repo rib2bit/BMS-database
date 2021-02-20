@@ -14876,6 +14876,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "ぷらすちっくと女の子",
+      "comment" : "GENOCIDE Reinterpretation、02_maisou-h.pmsと比較してズレないことを確認",
+      "level" : "3",
+      "md5" : "94deb00eda745ea4961703bfe71dd9f6",
+      "proposer" : "|/|",
+      "proposerLr2id" : 147895,
+      "sha256" : "15f47cff99c31be063d82daaac951affc31828398f186a9edf3e87b288413517",
+      "submission" : 1853,
+      "title" : "少女の舞葬 [PARTY]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/%e5%b0%91%e5%a5%b3%e3%81%ae%e8%88%9e%e8%91%ac%20%28by%20%e3%81%b7%e3%82%89%e3%81%99%e3%81%a1%e3%81%a3%e3%81%8f%e3%81%a8%e5%a5%b3%e3%81%ae%e5%ad%90%29.rar",
+      "url_diff" : "https://darksabun.github.io/event/renewal/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "kanoryo BGI.:MOAI WORKS / obj.:LuvTek",
       "comment" : "ラストが難しい",
       "level" : "10",
@@ -15975,6 +15989,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "nora2r / exemoss",
+      "comment" : "normal判定　",
+      "level" : "1",
+      "md5" : "a0d6b451d78c152a54e13a97e81c2bd3",
+      "proposer" : "bluemouse",
+      "proposerMinirid" : "38b6fd3c-5f86-4e87-aef8-3f9952471580",
+      "sha256" : "f05126eeb6158cf8fd68039b8fca8c075a69de3a8d27f50dc5cd3faa4cd586bd",
+      "submission" : 1852,
+      "title" : "Tell The Truth (7KEYS ANOTHER)",
+      "url" : "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/1EE1xabA",
+      "url_diff" : ""
    },
    {
       "artist" : "DashRaver feat. RainbowColors illust:れおん / obj:夢瑠",
@@ -21682,6 +21709,19 @@
       "title" : "squartatrice [HARD]",
       "url" : "http://web.archive.org/web/20190406024100/http://gmtn.sub.jp/_hard_renaissayaka_ogg.zip",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/squartatriceHARD.bme"
+   },
+   {
+      "artist" : "void feat. Salita Momomi Aoyama / obj : BAECON",
+      "comment" : "楽しい譜面",
+      "level" : "2",
+      "md5" : "d5506bfc06fad5b5ad1b4afb2ad79dff",
+      "proposer" : "じゅん",
+      "proposerLr2id" : 29899,
+      "sha256" : "e27e4c01900b9f6e54a7cf1a44d3770cfeae22938e0d4df3d33e210581f68ac6",
+      "submission" : 1851,
+      "title" : "Reach to the sky [EX]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=243&event=96",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04667"
    },
    {
       "artist" : "otoshi.b × みゅい × はしたかさん × BAECON",
