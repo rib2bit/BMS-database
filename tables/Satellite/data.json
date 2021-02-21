@@ -1337,7 +1337,7 @@
    {
       "artist" : "69 de 74 BGA:FanfRS",
       "comment" : "BPM225 高速階段",
-      "level" : "6",
+      "level" : "8",
       "md5" : "19e7661ba1ae245d5bfadea3fede9ad6",
       "proposer" : "SHAX.",
       "sha256" : "e7603a98a346ac66c5224067de70fa13746c74b2976295a18f02105406d811ff",
@@ -2350,7 +2350,7 @@
    {
       "artist" : "MONO BGA: 乙青商会 / OBJ: LuvTek",
       "comment" : "BOFXVI 同梱の_urania_7n基準ズレが一つ検出されるかもしれませんですが、それはbgaの拡張子に関連したズレなのでプレーには関係なし",
-      "level" : "9",
+      "level" : "10",
       "md5" : "2b13530120df96c374f4fb79e3599ce6",
       "proposer" : "MarySue",
       "sha256" : "3d7c1bf1151e50b07dfd3611de35246ac0b2803477c45fe911fd3dfe4111d2bb",
@@ -2576,7 +2576,7 @@
    {
       "artist" : "宮水 三葉 / obj. Tristan97",
       "comment" : "Gachi Push + Grace Notes",
-      "level" : "10",
+      "level" : "11",
       "md5" : "306bf3bbe1367a629e4efb519f29178e",
       "proposer" : "Tristan97",
       "proposerLr2id" : 127886,
@@ -4127,6 +4127,18 @@
       "submission" : 626,
       "title" : "Tribute [Black Another]",
       "url" : "https://dropbox.bms.ms/u/84148289/tribute_ogg_.zip",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "Music : Zekk / Movie : vol-t",
+      "comment" : "同梱譜面　物量　微縦",
+      "level" : "6",
+      "md5" : "4cc3a2ae8ae0bfff7b1bbe65c0093e2b",
+      "proposer" : "siron",
+      "sha256" : "379df1a951ae1ca9aad2e9f4d9975c54987faf2c8a9e9783c250acc2a88ee618",
+      "submission" : 1817,
+      "title" : "NIRVANA [SP INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=104",
       "url_diff" : ""
    },
    {
@@ -5861,6 +5873,18 @@
       "url_diff" : "https://www.dropbox.com/s/85xffo5sp1zp8if/loshaxi_nanami.zip?dl=1"
    },
    {
+      "artist" : "------",
+      "comment" : "同梱譜面/和風神曲",
+      "level" : "0",
+      "md5" : "6e37f0f6a1a33836bc63185715d6c49b",
+      "proposer" : "TR1",
+      "sha256" : "9e444059b54808b336a0299258349b274b88cf950fa0fefcdb4b2883538b0b06",
+      "submission" : 1819,
+      "title" : "神仙・竜巻返し ～ Black Whirlwind",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=38&event=119",
+      "url_diff" : ""
+   },
+   {
       "artist" : "ああああ illust:いかお / A",
       "comment" : "同時押し、ズレ",
       "level" : "5",
@@ -6152,7 +6176,7 @@
    {
       "artist" : "tcheb BGA:なおや OBJ:paraph",
       "comment" : "BOFXVI 출품작. 좋은 곡인데 제안된 차분이 없길래 제안합니다.",
-      "level" : "10",
+      "level" : "11",
       "md5" : "73ae012eabc321bb943b07ac517af5ce",
       "proposer" : "OnlyForYou",
       "sha256" : "f9a959ce5e200deb13faa1e44b6618e291ae77d859e36b2c5a88e39b542fb814",
@@ -7364,6 +7388,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Ponchi feat.はぁち obj.霧切杏子",
+      "comment" : "高速乱打、階段。SPIの補完として",
+      "level" : "6",
+      "md5" : "87fb235042996e564dbddbd3f84a69f0",
+      "proposer" : "MarySue",
+      "sha256" : "1a0697c66d6bfa73ead58ec1dbe6e01df2cc5e813649ace46882c6308acca288",
+      "submission" : 1794,
+      "title" : "インフェルノシティ [SOUL METRO 地獄鉄 死号線 冥洞駅 UNPACIFIC HOTEL]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=244&event=133",
+      "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpymRc3hbVWzXm7VnlX?e=p0HTos"
+   },
+   {
       "artist" : "Lime feat. Salita / deadblue238 / obj: Lennon",
       "comment" : "BPM136 乱打",
       "level" : "2",
@@ -7439,7 +7475,7 @@
    },
    {
       "artist" : "ETIA. feat.Jenga/ 差分 赤い人 deadblue238 / 篠乃ちよ",
-      "level" : "9",
+      "level" : "10",
       "md5" : "89e87af0a7df4a284abfbd6860194498",
       "proposer" : "MIUNA",
       "sha256" : "94b5d8cec26bdbb40eef0c80613efc9fd1207601c51b7cb5b348eef52047bcc3",
@@ -7902,6 +7938,18 @@
       "url_diff" : "http://vertigo_.web.fc2.com/index.html"
    },
    {
+      "artist" : "Lian",
+      "comment" : "同梱譜面　物量",
+      "level" : "5",
+      "md5" : "93dd848bebc1197dfa055784f244e81a",
+      "proposer" : "siron",
+      "sha256" : "b41092511b8519f093e045d03cc40410c45458ca8fd1c3332a669edc38d9c002",
+      "submission" : 1816,
+      "title" : "ソラハナ [INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=7&event=131",
+      "url_diff" : ""
+   },
+   {
       "artist" : "ikaruga_nex obj.quad",
       "comment" : "乱打、同時押し",
       "level" : "6",
@@ -8092,6 +8140,17 @@
       "title" : "rabbit burrow -EX-",
       "url" : "http://nekokan.dyndns.info/~pmcc/pmcc2/index.html",
       "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/"
+   },
+   {
+      "artist" : "ginkiha / obj:七海",
+      "level" : "10",
+      "md5" : "988010f041bbd81cda28bacd9e151350",
+      "proposer" : "파이어",
+      "sha256" : "55aacb3c8ce263005e172e606903e78242b6dc7d39ef4d04bc350ed0dd428f1c",
+      "submission" : 1815,
+      "title" : "EOS -Last Hope-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=300&event=83",
+      "url_diff" : "https://www.dropbox.com/s/8a8xmeeve4tkoak/eos_fix.zip?dl=1"
    },
    {
       "artist" : "xarva / obj:LeaF",
@@ -8429,6 +8488,18 @@
       "title" : "翼の折れた天使たちのレクイエム [Another]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=123",
       "url_diff" : ""
+   },
+   {
+      "artist" : "Queen P.A.L. VJ KINTA / obj by sound piercer",
+      "comment" : "曲も差分も入手困難で保管リンク",
+      "level" : "1",
+      "md5" : "9f03d0a2965b56338d6fa975777662be",
+      "proposer" : "|/|",
+      "sha256" : "b8d5396745eb451be7fa3bea4181260c042564da3853e9aed19f1806a52543ac",
+      "submission" : 1820,
+      "title" : "JULIAN \"for B.O.F. 2009\" [SP-RX INSANE]",
+      "url" : "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/oNEAVCTB",
+      "url_diff" : "https://mega.nz/folder/sXZTFSxS#UX7Cpqoi03tRQ-jpzn8F6A/file/gShkARwQ"
    },
    {
       "artist" : "NIKITA / nabehiro",
@@ -9396,6 +9467,18 @@
       "title" : "SEKIDO [Berkowitz]",
       "url" : "https://drive.google.com/uc?id=1JaZE8OZQKjAvl74G9E2sBnqmXfRZwAWB",
       "url_diff" : "https://trfce.github.io/sabun/(115)SEKIDO_Triforce.zip"
+   },
+   {
+      "artist" : "Lian",
+      "comment" : "同梱譜面　ズレ乱打",
+      "level" : "4",
+      "md5" : "b11c5327a7a8300a9058e557b6da1039",
+      "proposer" : "なさ式",
+      "sha256" : "731c1e9b2631fc6fa8f2d446ad61219a0fbf2cda2bb13984a90afbc0cb04c040",
+      "submission" : 1807,
+      "title" : "Marmot [INSANE]",
+      "url" : "https://venue.bmssearch.net/bmstukuru2020/12",
+      "url_diff" : ""
    },
    {
       "artist" : "nmk feat.℃ｉｅｌ /差分　赤い人",
@@ -11019,18 +11102,6 @@
       "url_diff" : ""
    },
    {
-      "artist" : "Yonder Voice / obj.かに",
-      "comment" : "11~12? ラスト回復",
-      "level" : "12",
-      "md5" : "c8e5a63d16a07b4df9ef7d87be6cfe08",
-      "proposer" : "MineC24",
-      "sha256" : "c3f33e2d1df63a31bc9947f62e4c7eecac7bb437591d25bea9f372b4ccbc4b35",
-      "submission" : 1418,
-      "title" : "Black or White [KANITHER]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=129",
-      "url_diff" : "http://kanisabun.gozaru.jp/index.html"
-   },
-   {
       "artist" : "痛男次郎 obj:bmstube",
       "comment" : "発狂入門",
       "level" : "0",
@@ -11457,6 +11528,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "dandeless obj:dandeless",
+      "comment" : "sl0-1 BOFXVI、皿",
+      "level" : "1",
+      "md5" : "d1f9e7ff31d79e9b4506ae5ae06595d8",
+      "proposer" : "ww",
+      "sha256" : "5e6d0372bb09ea197f58e5a0b0cd9bcbab4473d953f24726d832f8fbb90d3347",
+      "submission" : 1832,
+      "title" : "work.it [hump day]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=95&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "xixuezique BGA : 空読無 白眼",
       "comment" : "sl?",
       "level" : "3",
@@ -11527,6 +11610,18 @@
       "title" : "Operation_ALTAIR [CodeName-V.E.G.A.]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=125&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/"
+   },
+   {
+      "artist" : "Ray Nautica obj. AXION",
+      "comment" : "sl12~st0? 物量",
+      "level" : "12",
+      "md5" : "d4012f958b723b5cbcbb605e51287df6",
+      "proposer" : "qtp13",
+      "sha256" : "e484af438a71688a3741cbecbb2b4b7606f0310ade6229f6616a498e97c5892c",
+      "submission" : 1805,
+      "title" : "Ever Forever [EX]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=294&event=133",
+      "url_diff" : "https://stellabms.xyz/upload/441"
    },
    {
       "artist" : "Yu^ta",
@@ -11808,7 +11903,7 @@
    {
       "artist" : "kei_iwata Illust:morph/ BGA&obj:qfeileadh",
       "comment" : "7~8?",
-      "level" : "9",
+      "level" : "11",
       "md5" : "d8a2719afd4a0649028f06d8850c437d",
       "proposer" : "MineC24",
       "sha256" : "a8bea6d7867720cb02fda8b59a1fee67a2dbd75749a2ad65eb069f7b6c3cbc86",
@@ -11844,7 +11939,7 @@
    {
       "artist" : "keyc / obj : lemon_aided",
       "comment" : "微縦連＋地力",
-      "level" : "9",
+      "level" : "10",
       "md5" : "d920d25c67322dbf47824f6a56aeb173",
       "proposer" : "Kraken.G",
       "proposerLr2id" : 52167,
@@ -12599,6 +12694,17 @@
       "title" : "Sea Breeze Memory -Summer Vacation-",
       "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/22/",
       "url_diff" : "https://ux.getuploader.com/monaka_sabun_2/download/166"
+   },
+   {
+      "artist" : "COWBELL MASTER 心愛 -COCOA- BGA: w, OBJ: w",
+      "level" : "1",
+      "md5" : "e62f07b38621e9e084f3f9f77d631c82",
+      "proposer" : "mqppppp",
+      "sha256" : "df80853ca6cb20f30daf3e862393ece4e621d7ea90d57bbb9364184a2c8c9277",
+      "submission" : 1786,
+      "title" : "GET ON WiTH FUNKOT [SP HELL]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=80&event=133",
+      "url_diff" : ""
    },
    {
       "artist" : "Cataclysmic Order BGI:FARNA",

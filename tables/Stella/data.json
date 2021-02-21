@@ -53,7 +53,7 @@
    {
       "artist" : "Raimukun / obj:スノート",
       "comment" : "st5~6? (hard ending)",
-      "level" : "5",
+      "level" : "6",
       "md5" : "01ece23ddfa61274bf4838795ff72a5f",
       "proposer" : "qtp13",
       "sha256" : "68055006ca4b322fc2666c2a021a2a44e351a9f969fa136e23a9931ffca90b89",
@@ -381,7 +381,7 @@
    {
       "artist" : "矢立肇 / obj: Mary_Sue",
       "comment" : "BPM175 微連打、序盤難",
-      "level" : "3",
+      "level" : "4",
       "md5" : "0b3382d2bc20ab4ae70514a89c8d8ba0",
       "proposer" : "SHAX.",
       "sha256" : "b90b01b5a3f96e52037221dde699a0f88089e287a7fc422e3cc7266ebe7f6f7c",
@@ -932,6 +932,18 @@
       "title" : "BLAZE YOUR SOUL [SP INSANE+]",
       "url" : "http://k-bms.com/party_pabat/party2014.jsp?board_num=11&num=46",
       "url_diff" : "http://akred.web.fc2.com/baecon/sp_gkh_blaze_your_soul_06_spi-plus.bms"
+   },
+   {
+      "artist" : "idzuchi obj.hex",
+      "comment" : "BPM275 8分同時押し",
+      "level" : "3",
+      "md5" : "16e2b3ea625c3ea794d593e878ae35c2",
+      "proposer" : "SHAX.",
+      "sha256" : "2ca683fcf492da5069be3803dfb540aab3119c863eff2ad2b7701b42f12bd2ee",
+      "submission" : 1354,
+      "title" : "Fragments of Toybox [Pentagon]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/Fragments%20of%20Toybox%20%28by%20idzuchi%29.rar",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html"
    },
    {
       "artist" : "ノクティス・江口・チェラム / obj morio",
@@ -2317,7 +2329,7 @@
    },
    {
       "artist" : "kurenaissance / obj:夢瑠",
-      "level" : "3",
+      "level" : "4",
       "md5" : "3844ffb7b5de4d43525fd07a2b1b0ed1",
       "proposer" : "LUXURY",
       "sha256" : "b5461773a9f11f532463ba47423f9acfc3268833eaf41936d3b9959073e77d49",
@@ -2565,18 +2577,6 @@
       "title" : "Revelator -Revenger-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=68&event=102",
       "url_diff" : "http://gnqg.rosx.net/upload/"
-   },
-   {
-      "artist" : "Omnipotenx obj:mute",
-      "comment" : "皆伝が 倒 せ な い",
-      "level" : "7",
-      "md5" : "3bbc99a15d6b60533e512134b5ade036",
-      "proposer" : "LUXURY",
-      "sha256" : "15308cce13ea9314fc5113ab71be18e1a079f8d8db3f8d5226b10c59aab44300",
-      "submission" : 29,
-      "title" : "PEACE BREAKER [KAIDEN BREAKER]",
-      "url" : "http://monochrome-world.sakura.ne.jp/peace_breaker.zip",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01398"
    },
    {
       "artist" : "p_d/s_h Artwork : ふりっと★",
@@ -3141,7 +3141,7 @@
    {
       "artist" : "otoshi.b × みゅい × はしたかさん × BAECON",
       "comment" : "同梱　高速物量　微縦連",
-      "level" : "8",
+      "level" : "7",
       "md5" : "45681e84e18abc0b7056db209a694309",
       "proposer" : "qfeileadh",
       "sha256" : "b4d922e1fb4db77ba02ef41841e9306d6edc4b1049b1b27ba6e574552df07b36",
@@ -3354,6 +3354,18 @@
       "title" : "LOVE☆BEAM (orange summer mix) -^^-",
       "url" : "https://web.archive.org/web/20111219094756/http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=33",
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up4358.zip"
+   },
+   {
+      "artist" : "Pleiades (あとぅす vs. Lian)",
+      "comment" : "BPM186 乱打",
+      "level" : "1",
+      "md5" : "4bb844bb29b847786c14313e1f61e62c",
+      "proposer" : "SHAX.",
+      "sha256" : "384f8dffa65e9887419860c2e7f410b3429c4bf2dc3d9a3c06ffe2e73ce980c0",
+      "submission" : 1366,
+      "title" : "ETERNiZE [EXTREME]",
+      "url" : "https://venue.bmssearch.net/bmstukuru2020/11",
+      "url_diff" : ""
    },
    {
       "artist" : "じぽたん MIDI : 猫姫 差分:わふわふ",
@@ -4206,7 +4218,7 @@
    {
       "artist" : "Ωμεγα / BANZAI",
       "comment" : "0 - 1?",
-      "level" : "1",
+      "level" : "2",
       "md5" : "5f39e01adf89be8aeb0052f62168e40e",
       "proposer" : "Skalim",
       "sha256" : "4a2a709014e9de06aa2ba72ad490e90080045cb7a1e6acc194be63295c573991",
@@ -4713,6 +4725,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "qfeileadh mov:むらたむうた",
+      "comment" : "0~1?",
+      "level" : "1",
+      "md5" : "68f7337ffb77de90919f6fa68a4f6eb5",
+      "proposer" : "MineC24",
+      "sha256" : "7cc1d94a450a1f14e77591519b183993289640368a18521622655c34627fe6b1",
+      "submission" : 1373,
+      "title" : "シレノ [DILUVIAL]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=139&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "beatMARIO/obj KAMIO*",
       "comment" : "ガチ押し　up5638",
       "level" : "4",
@@ -5197,6 +5221,17 @@
       "title" : "ZHRO",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=331&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04378"
+   },
+   {
+      "artist" : "qfeileadh&のあ mov:Kengo Nakao",
+      "level" : "1",
+      "md5" : "72b1ce4b2051bd2a396dfa11a2d785ee",
+      "proposer" : "MineC24",
+      "sha256" : "20f37dc62287e8bdc7bee5427d76193d32894830a0bd09ffbbaa46d5daaf60f8",
+      "submission" : 1374,
+      "title" : "HEXPERUS [NEXTAGE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=164&event=133",
+      "url_diff" : ""
    },
    {
       "artist" : "LunaticSounds / ShiginoEicar OBJ : ランダマイザ",
@@ -5873,6 +5908,18 @@
       "url_diff" : "https://bms.parksulab.xyz"
    },
    {
+      "artist" : "mommy",
+      "comment" : "音源追加、キー音アレンジのせいで同梱差分基準ズレが発生していますが、プレーには問題ないです。(差分ファイル同梱の_88D_0note.xxxで作った譜面です。)",
+      "level" : "4",
+      "md5" : "83f00578264e48fd02f27e5b117abd65",
+      "proposer" : "MarySue",
+      "sha256" : "505f5c993320896dd587d5ad3717bde586fcb33a26a8269d4ff778ebd13bc6c7",
+      "submission" : 1371,
+      "title" : "88D",
+      "url" : "http://mommy16807.seesaa.net/article/395741193.html",
+      "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
       "artist" : "橘花音 かなえゆめ composed by nmk / Obj:lightX Illustration:かぜっと",
       "comment" : "",
       "level" : "9",
@@ -6478,7 +6525,7 @@
    {
       "artist" : "ZUN/arr.みょん / iimode-do / かげきち/ obj:BAECON",
       "comment" : "高速乱打",
-      "level" : "3",
+      "level" : "4",
       "md5" : "8f4f76217b814c837860126cc0919eda",
       "proposer" : "sak",
       "sha256" : "1caae10b219605e2339b674fe2e9721d18bfbc3f1f6dff84d97afcecfec1ab45",
@@ -6832,6 +6879,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02060"
    },
    {
+      "artist" : "浅田たん/さ",
+      "comment" : "体力、乱打、皿など",
+      "level" : "2",
+      "md5" : "985e530b1dbed71537b20990e0da531d",
+      "proposer" : "MarySue",
+      "sha256" : "9a4be99a6a965c3eb70e977702341e6ad6745036a442484542316554eb40cc22",
+      "submission" : 1362,
+      "title" : "十十日月 -萌-",
+      "url" : "http://web.archive.org/web/20061207053935/http://asdf.bms.ms/junk/bms/curryyojo_asd_jjng_ogg.zip",
+      "url_diff" : "http://web.archive.org/web/20170430142848/http://sabosabun.tank.jp/sabun/juujuuhigetu%20sabun.zip"
+   },
+   {
       "artist" : "koushirou（卑屈P）/さ",
       "comment" : "同時押し",
       "level" : "2",
@@ -6926,6 +6985,18 @@
       "title" : "Chatblanc [La Scala]",
       "url" : "http://web.archive.org/web/20141124133307/http://str3.org/data/roop/roop_chatblanc.zip",
       "url_diff" : "http://bms.parksulab.xyz"
+   },
+   {
+      "artist" : "Hendrex obj.hex",
+      "comment" : "BPM124 区切りガチ押し アレンジ差分",
+      "level" : "1",
+      "md5" : "9a71a30bb7aabb4fcacd9094d1dfaa45",
+      "proposer" : "SHAX.",
+      "sha256" : "e9644d07ccc7c9309f23ddc33b06428b3f5f099ffe7b177e0e361094585b06c1",
+      "submission" : 1367,
+      "title" : "Snow in February [Hexagon]",
+      "url" : "https://onedrive.live.com/?cid=2E0B6A331309387C&id=2E0B6A331309387C%21151&parId=2E0B6A331309387C%21107&o=OneUp",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html"
    },
    {
       "artist" : "Sound piercer & Sobrem / selene.",
@@ -7256,6 +7327,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Sound-Box(feat.A.Dokuga) M-SPIN(feat.α-Gorila)",
+      "comment" : "同梱SPN基準ズレが一つありますがBGIのズレだからプレーには問題ないです。",
+      "level" : "3",
+      "md5" : "a232f8241beb2dc1e14a413b78423828",
+      "proposer" : "MarySue",
+      "sha256" : "2a594c0b75b177693abe4edad82d27798dafdb8d025fd8513420b7c7ae0bc8d5",
+      "submission" : 1370,
+      "title" : "白 [Project AG]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=148&event=133",
+      "url_diff" : "https://darksabun.github.io/event/bofxvi/"
+   },
+   {
       "artist" : "punchhh / obj. Tristan97",
       "comment" : "~St1?  Please Enjoy!",
       "level" : "2",
@@ -7441,7 +7524,7 @@
    {
       "artist" : "tetsuo Sliced by DAC / obj.hex",
       "comment" : "BPM165 連打複合、アレンジ差分",
-      "level" : "4",
+      "level" : "5",
       "md5" : "a577d60b41ed566d5337c76bde0a9af8",
       "proposer" : "SHAX.",
       "sha256" : "7c1083682a291a66a47ece539d8382a3d3be3f77df9aef46be2be7669efcb802",
@@ -7558,6 +7641,18 @@
       "title" : "ペニンシュラの踊り子 The dancer of a peninsula [Hexagon]",
       "url" : "http://clockxellox.sakura.ne.jp/BMS/Peninsular.zip",
       "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html"
+   },
+   {
+      "artist" : "saaa object: LuvTek",
+      "comment" : "끊어치기",
+      "level" : "4",
+      "md5" : "a85994133df21871af5dc168d1fabbfd",
+      "proposer" : "파이어",
+      "sha256" : "c00ae7f2fc360632d4daf1c2bad5ee71755e48e24384808b6c78b33fa8a16043",
+      "submission" : 1361,
+      "title" : "1516 [3032]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=133",
+      "url_diff" : "https://darksabun.github.io/event/bofxvi/"
    },
    {
       "artist" : "ああああ / A",
@@ -7782,7 +7877,7 @@
    {
       "artist" : "BLACKTIGER obj: Haze*",
       "comment" : "st0~1",
-      "level" : "1",
+      "level" : "2",
       "md5" : "adee09690fd41706427c4d0a7d9016d1",
       "proposer" : "MineC24",
       "sha256" : "02fa2e7ce366497d792eff6d6b3621ef731c8fd209803e68459c91910f76ca08",
@@ -8160,7 +8255,7 @@
    {
       "artist" : "Cres / *8284* / hex obj.hex",
       "comment" : "原曲アレンジ、カットあり　st1～2？",
-      "level" : "1",
+      "level" : "2",
       "md5" : "b6aba5810b09bc6af607c3eb299f4053",
       "proposer" : "のの",
       "sha256" : "54a6c2af55d0e038285d80ba82f7ff875fc737c4763a021f7d2c507ea333ee50",
@@ -8550,7 +8645,7 @@
    {
       "artist" : "Naukorin obj.Mallow♪",
       "comment" : "ガチ押し、徐々に難しくなる",
-      "level" : "0",
+      "level" : "1",
       "md5" : "bf1d6e8f15d53bdd35c3160b1f4567a8",
       "proposer" : "スノート",
       "sha256" : "e2cb9bc61367a7b99549ab6a1d9a6014ca5441891b938558165e5415348b29c1",
@@ -8865,6 +8960,18 @@
       "title" : "Plasma Sphere (SP kusofumen)",
       "url" : "https://dropbox.bms.ms/u/74200759/PlasmaSphere.zip",
       "url_diff" : "http://iroirokiba.web.fc2.com/bms.html"
+   },
+   {
+      "artist" : "Yonder Voice / obj.かに",
+      "comment" : "from Stella",
+      "level" : "0",
+      "md5" : "c8e5a63d16a07b4df9ef7d87be6cfe08",
+      "proposer" : "LUXURY♪",
+      "sha256" : "c3f33e2d1df63a31bc9947f62e4c7eecac7bb437591d25bea9f372b4ccbc4b35",
+      "submission" : 1375,
+      "title" : "Black or White [KANITHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=129",
+      "url_diff" : "http://kanisabun.gozaru.jp/index.html"
    },
    {
       "artist" : "Laur obj:O",
@@ -9368,7 +9475,7 @@
    {
       "artist" : "syatten + coda Sliced by bms newbie",
       "comment" : "BPM180 ディレイ",
-      "level" : "3",
+      "level" : "4",
       "md5" : "d26e5a64c2527b7268ce450cc99700c4",
       "proposer" : "SHAX.",
       "sha256" : "730322429134bfccc7b353e0c4263f0cc49ef53997adde8bede4a2d4cd40ece6",
@@ -9892,7 +9999,7 @@
    {
       "artist" : "kei_iwata 監督：KeiuO",
       "comment" : "同梱譜面。ガチ押し、ずれ階段少し。",
-      "level" : "0",
+      "level" : "1",
       "md5" : "dd93b8ee483f04d739a4d444d83d4cee",
       "proposer" : "MarySue",
       "sha256" : "f3078f2c154d74f31a4a2626e3d7293074578e93240b6c6c07793636c3b4ec0d",
@@ -9985,6 +10092,17 @@
       "title" : "Angel dust -C17H25N-",
       "url" : "https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
       "url_diff" : "http://kanisabun.gozaru.jp/index.html"
+   },
+   {
+      "artist" : "LisicA movie : ルゼ(LuzeriA) / illust : Orphee / obj:И + 七海",
+      "level" : "3",
+      "md5" : "e017d69d372af1ffa790ff304af48291",
+      "proposer" : "파이어",
+      "sha256" : "23895a8bfdc3267d289526b53c0f312482c85800fb8662b293a278b4c9ba3890",
+      "submission" : 1369,
+      "title" : "タマモッチ -Dystopia-",
+      "url" : "https://www.luzeria.net/music/xx_tamamo_ogg.zip",
+      "url_diff" : "https://dl.dropboxusercontent.com/s/nr1da6gqsn1jg89/tamamo_nanami_N.zip"
    },
    {
       "artist" : "sasakure.UK m / Omino",
@@ -10779,7 +10897,7 @@
    },
    {
       "artist" : "Cosmograph / yusi. / И",
-      "level" : "4",
+      "level" : "5",
       "md5" : "f2106aa9aa8ccc0f96ab64c883c6b79e",
       "proposer" : "파이어",
       "sha256" : "de2da9eab0b9a1a91a19b37ef3218470a4848f62239e2f07ebbb18c5ba2065cd",
