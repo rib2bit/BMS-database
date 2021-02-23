@@ -1,5 +1,30 @@
 [
    {
+      "artist" : "Zris",
+      "level" : "2",
+      "md5" : "001c193f5714c0a2ed39859268b6febe",
+      "proposer" : "mqppppp",
+      "proposerLr2id" : 129162,
+      "sha256" : "cbc8d67c6d70fd780a680a20195ec893faad53d4fc0d57d208c799354284796b",
+      "submission" : 1862,
+      "title" : "GREAT GREAT",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=428&event=123",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "ROKINA on schwarzekugel BGA:アカツキユウ / ImageIllust:あひゅりむ / 差分　赤い人",
+      "level" : "11",
+      "md5" : "031853cb587955ecc95d9915c1f5ff86",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "e243218975a737036292c66bdf7f31c3a8a8b042c730f052fdabb42cf4e2d2ad",
+      "submission" : 1864,
+      "title" : "Fiore Tempesta [HARDEST]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=98",
+      "url_diff" : "http://akred.web.fc2.com/ak-red.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Ponchi feat.はぁち obj:mathath",
       "comment" : "BOFXVI、高速、階段、トリル、軸、皿",
       "level" : "1",
@@ -359,6 +384,31 @@
       "title" : "冬星センチメンタル [AVALANCHE]",
       "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=3&order=reg&odtype=a",
       "url_diff" : ""
+   },
+   {
+      "artist" : "Daily天利 BGA by Daily天利 & Nakaiankow / obj: Scely",
+      "level" : "1",
+      "md5" : "cb1bead8f1793f122f7b7484f429e182",
+      "proposer" : "mqppppp",
+      "proposerLr2id" : 129162,
+      "sha256" : "28c354e64c018620e8e7596e748f41a5ed82ca412fb64477ec7b6e5c51b709ec",
+      "submission" : 1863,
+      "title" : "After ZABANIYA [SP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=119&event=133",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "カラフル・サウンズ・ポート/mov:むらしん/obj:赤い人",
+      "level" : "10",
+      "md5" : "ce9af2e67217c07bba407fd1d9f25749",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "ffd1c9b9c24e66bba43a985b74c1495b7c5ddb23570fc40ada3a7b8d752d67c5",
+      "submission" : 1865,
+      "title" : "聖戦の輪舞 [DELAY]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=515&event=110",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/seisen_DELAY.bms",
+      "zureCount" : 0
    },
    {
       "artist" : "void feat. Salita Momomi Aoyama / obj : BAECON",

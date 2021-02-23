@@ -4978,6 +4978,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "FOLiACETATE /差分 赤い人",
+      "level" : "3",
+      "md5" : "4381520e50468a1b0cd12213782c1606",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "c4f62674bf61a1e79d7152d6ea39293195813260334ce96e3e73c03ca205f20d",
+      "submission" : 1382,
+      "title" : "Heterochromia Iridis [INFERNO]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=43&event=85",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/Heterochromaia-INFERNO.bms",
+      "zureCount" : 0
+   },
+   {
       "artist" : "otoshi.b obj:mute",
       "comment" : "超高速",
       "level" : "9",
@@ -7984,6 +7997,19 @@
       "title" : "Comet (BMS Edit) [CHOCOMINT=CRIME]",
       "url" : "https://k-bms.com/party_pabat/party.jsp?board_num=20&num=38&order=reg&odtype=a",
       "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
+      "artist" : "otoshi.b BGI:はしたかさん obj.mute",
+      "level" : "4",
+      "md5" : "69e76ecdfd8064c934bc8a5aaad6a17a",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "51fceabdae1d8b6164141f31ad99401284f042abad48d1764bfea2dee2775457",
+      "submission" : 1383,
+      "title" : "Sparkling☆Sunshine!! [Last Resort]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=127",
+      "url_diff" : "",
+      "zureCount" : 0
    },
    {
       "artist" : "かたぎり illust:YuleOz obj:MineC24",
