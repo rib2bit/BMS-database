@@ -2130,6 +2130,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "ZUN / nmk / NA2KI(CrossGear) / obj RAY / Ds",
+      "level" : "2",
+      "md5" : "12e9844926aa7b89c8d7052319b036ac",
+      "proposer" : "moka",
+      "proposerLr2id" : 167326,
+      "sha256" : "7231fc23df66467359544fb506114575cc12018015c0984d30f859a78bc7ccd4",
+      "submission" : 1866,
+      "title" : "hinadelic",
+      "url" : "https://web.archive.org/web/20130628040753/http://miohosina.moe.hm/bms/hinadelic.html",
+      "url_diff" : "http://sagena.harisen.jp/bms.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "DJ TAKUAN 及び 佐倉アヤキ 　及　び obj:BAECON",
       "comment" : "",
       "level" : "12",
@@ -22838,6 +22851,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "田井中 律 / obj: かに",
+      "level" : "2",
+      "md5" : "de9bd6d46c4a0fc7f6fecc9d1e8df567",
+      "proposer" : "moka",
+      "proposerLr2id" : 167326,
+      "sha256" : "82846c233e59ae6c4a42969648706fcbd6b5502912465b32df3f0b3d0117a364",
+      "submission" : 1867,
+      "title" : "異説彼岸花 第二 -終世のリコリス- -狐花-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=141&event=65",
+      "url_diff" : "http://kanisabun.gozaru.jp/index.html",
+      "zureCount" : 0
    },
    {
       "artist" : "8284 vs wa.",
