@@ -949,6 +949,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Lime / 58418 + 71066",
+      "level" : "7",
+      "md5" : "29218763f7b55ddf23d1f4e1ec112816",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "313c15eef44f8bc9f4f0c6f4ff98c573c0093f541612639d6cf5a6c6d22d649e",
+      "submission" : 490,
+      "title" : "Stellaria -Veritas Lux Mea-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=434&event=133",
+      "url_diff" : "https://stellabms.xyz/upload/651",
+      "zureCount" : 0
+   },
+   {
       "artist" : "梅干茶漬け obj: Psyk",
       "comment" : "4~5?",
       "level" : "4",
@@ -1130,6 +1143,19 @@
       "title" : "R.I.P.",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=123&num=339",
       "url_diff" : ""
+   },
+   {
+      "artist" : "daisan obj:けろりん",
+      "level" : "7",
+      "md5" : "328535c09400f1d31460f9314013d34b",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "ee2dcd24a61b3793049d747d4ee91efe9c0a15e4066a6724f7aef27fafbc951f",
+      "submission" : 491,
+      "title" : "平衡世界 Parallel World [Spring Ephemeral]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=83",
+      "url_diff" : "http://favo.kitchen/bms/",
+      "zureCount" : 0
    },
    {
       "artist" : "削除 feat. Nikki Simmons Movie:Radiocity&yoshimo / obj:Starfish",
@@ -2403,6 +2429,19 @@
       "url_diff" : "http://flowermaster.web.fc2.com/"
    },
    {
+      "artist" : "TetraElemental / Obj:ゆ～兎",
+      "level" : "7",
+      "md5" : "707b92679398b7de2505a2d308da8364",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "609f3e99a5354991f5417cc4eec5c0eaaa1409636dc561c7695834126196badb",
+      "submission" : 493,
+      "title" : "Ultimate Weapon [DP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=91",
+      "url_diff" : "http://timetorain.web.fc2.com/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "美月 正(obj:A-4+)",
       "comment" : "7～8 高速bpm、同時押し、縦連。重複ノート1あり（元譜面より）",
       "level" : "7",
@@ -3432,6 +3471,33 @@
       "title" : "Acid Drizzle -レイクサイド-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=88",
       "url_diff" : "https://drive.google.com/file/d/1gMZwQ23hmAlScmbh-Wyhd-dyOIgJ1Zg-/view?usp=sharing"
+   },
+   {
+      "artist" : "薄荷堂 龍 obj:RaiN",
+      "level" : "7",
+      "md5" : "9efd3a958f5f34ddbbe9068262673652",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "f5592b36470ce4b00156879e777dc7b289e64e11306312a5c7c3a843a5131946",
+      "submission" : 492,
+      "title" : "薄雲 [14KEYS ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=303&event=123",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/945",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "Forced Leaving / obj:Lilium & Rosa",
+      "comment" : "dpbms_1145.zip",
+      "level" : "7",
+      "md5" : "a0514d8ed746ca43bac5ec626593269f",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "7ab5fb33f639b2e9523892a387e1c502364c03dcb943b2e00e5844d136c1e365",
+      "submission" : 494,
+      "title" : "Fascinating Laser -14keys-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=54&event=93",
+      "url_diff" : "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download",
+      "zureCount" : 0
    },
    {
       "artist" : "papyrus Movie: 浪漫映像制作倶楽部 / Obj: Lapis + Pumpkin_Man",

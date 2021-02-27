@@ -14,6 +14,22 @@
       "zureCount" : 0
    },
    {
+      "artist" : "SOMON obj.onzonium",
+      "level" : "1",
+      "md5" : "190ef89f7c890d5ac3bf327acc4f6800",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "c34bcad990a04d545bd3ffd59d711f52630a775137086912afbee9286428cbfe",
+      "submission" : 370,
+      "title" : "-Never ending journey- [Forever]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=113&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 4
+   },
+   {
       "artist" : "ろうて Obj:ゆ～兎",
       "comment" : "4~5?, 第9回差分企画",
       "level" : "4",
@@ -28,6 +44,22 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Ark-Z  Illustration by 春雨 / Obj:ゆ～兎",
+      "level" : "3",
+      "md5" : "21129c8e705e3e94f649c73900dc35b8",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "6ec54d9f3bae993a3e20260fded352604b3f5040ebfeb956939406ec7b53a921",
+      "submission" : 145,
+      "title" : "Singing of Night birds [DP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=37&event=92",
+      "url_diff" : "http://flowermaster.web.fc2.com/",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 4
+   },
+   {
       "artist" : "Moses vs SPELL BREAK/obj:epics-",
       "comment" : "2?",
       "level" : "2",
@@ -39,6 +71,32 @@
       "title" : "Deus ex Machina [DPH]",
       "url" : "https://onedrive.live.com/?id=B32C1D1F5C2CC841%21111&cid=B32C1D1F5C2CC841",
       "url_diff" : "http://epics.client.jp/bof2011/deus_ex_machina_EP.zip",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "Lime / 58418 + 71066",
+      "level" : "7",
+      "md5" : "29218763f7b55ddf23d1f4e1ec112816",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "313c15eef44f8bc9f4f0c6f4ff98c573c0093f541612639d6cf5a6c6d22d649e",
+      "submission" : 490,
+      "title" : "Stellaria -Veritas Lux Mea-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=434&event=133",
+      "url_diff" : "https://stellabms.xyz/upload/651",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "daisan obj:けろりん",
+      "level" : "7",
+      "md5" : "328535c09400f1d31460f9314013d34b",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "ee2dcd24a61b3793049d747d4ee91efe9c0a15e4066a6724f7aef27fafbc951f",
+      "submission" : 491,
+      "title" : "平衡世界 Parallel World [Spring Ephemeral]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=83",
+      "url_diff" : "http://favo.kitchen/bms/",
       "zureCount" : 0
    },
    {
@@ -97,6 +155,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "TetraElemental / Obj:ゆ～兎",
+      "level" : "7",
+      "md5" : "707b92679398b7de2505a2d308da8364",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "609f3e99a5354991f5417cc4eec5c0eaaa1409636dc561c7695834126196badb",
+      "submission" : 493,
+      "title" : "Ultimate Weapon [DP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=91",
+      "url_diff" : "http://timetorain.web.fc2.com/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "美月 正(obj:A-4+)",
       "comment" : "7～8 高速bpm、同時押し、縦連。重複ノート1あり（元譜面より）",
       "level" : "7",
@@ -139,6 +210,22 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Dachs BGA : Miatis / Obj:ゆ～兎",
+      "level" : "3",
+      "md5" : "99424f8ed89f058e609493a11f2c0b77",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "d944405ea38b590e745b784a90ea6b86306dba25b342475201cff3c5d6454b3f",
+      "submission" : 354,
+      "title" : "Ovital [DP HYPER]",
+      "url" : "http://yatai.ath.cx/c03_shuffle2/detail.php?n=42",
+      "url_diff" : "http://web.archive.org/web/20140921042604/http://timetorain.web.fc2.com/sabun/dachs_ovital_YH.zip",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 3
+   },
+   {
       "artist" : "Aliesrite* (Ym1024 feat. lamie*) obj: shiba",
       "level" : "10",
       "md5" : "99cbb8f15bae66bb36f942d7c6389de6",
@@ -149,6 +236,33 @@
       "title" : "Realize [starry 14]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=477&event=133",
       "url_diff" : "https://ux.getuploader.com/dpbms/download/1085",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "薄荷堂 龍 obj:RaiN",
+      "level" : "7",
+      "md5" : "9efd3a958f5f34ddbbe9068262673652",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "f5592b36470ce4b00156879e777dc7b289e64e11306312a5c7c3a843a5131946",
+      "submission" : 492,
+      "title" : "薄雲 [14KEYS ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=303&event=123",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/945",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "Forced Leaving / obj:Lilium & Rosa",
+      "comment" : "dpbms_1145.zip",
+      "level" : "7",
+      "md5" : "a0514d8ed746ca43bac5ec626593269f",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "7ab5fb33f639b2e9523892a387e1c502364c03dcb943b2e00e5844d136c1e365",
+      "submission" : 494,
+      "title" : "Fascinating Laser -14keys-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=54&event=93",
+      "url_diff" : "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download",
       "zureCount" : 0
    },
    {
@@ -168,6 +282,22 @@
       "voteYes" : 2
    },
    {
+      "artist" : "Qayo obj:LIEF",
+      "level" : "4",
+      "md5" : "c8165d170ccb541a766ce33a74d284a7",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "a6b889cae7ac16b4c0f422b900e7dc9c2fb80b323c32f64111f0e53a65810180",
+      "submission" : 427,
+      "title" : "S'il vous plait! [DP_Li]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=54&event=132",
+      "url_diff" : "https://yaruki0.net/sabun/WW1.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 3
+   },
+   {
       "artist" : "みーにと琴葉葵 / obj:sagoo",
       "level" : "0",
       "md5" : "de22bde8f104e132afdc15ac65c14021",
@@ -179,6 +309,38 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=133",
       "url_diff" : "https://ux.getuploader.com/dpbms/download/1030",
       "zureCount" : 0
+   },
+   {
+      "artist" : "Shaman Cure-All / obj:2y",
+      "level" : "2",
+      "md5" : "df3e947f0886e96f59760f8ed2ef38b8",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "71fb000e6f12f49c0378b3851b4c7deec4f26075193cb9f077df46970909fe46",
+      "submission" : 421,
+      "title" : "Nichirin [DP Another]",
+      "url" : "https://drive.google.com/file/d/15bArXkCaIRJ05rjYWe0-jIEwCwSPrO04/view?usp=sharing",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/183",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 3
+   },
+   {
+      "artist" : "ShiraiC4 obj: misty.ls04",
+      "level" : "2",
+      "md5" : "dfecee0e19120dcdc4f92271699016fa",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "786286b4ecf3a8d9490406c0c764fbecfc2f7a9e40f263eaab2b53f26c5d674a",
+      "submission" : 371,
+      "title" : "XALICE [DP WONDERLAND]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=355&event=127",
+      "url_diff" : "https://yaruki0.net/sabun/dp2019.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 3
    },
    {
       "artist" : "polysha / Obj:ゆ～兎",
