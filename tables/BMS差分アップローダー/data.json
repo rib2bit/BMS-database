@@ -4905,6 +4905,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02721"
    },
    {
+      "adddate" : "2021/02/28 10:02",
+      "artist" : "schwarzekugel BGA:出前",
+      "comment" : "LisicA/タマモッチのマップと差分の名前はジャンルの部分にあるはずですが、誰もがそれをやめました。",
+      "folder" : "2021/02",
+      "genre" : "TECH-BREAKBEATS",
+      "keys" : 7,
+      "level" : "2021/02",
+      "lr2_bmsid" : "297081",
+      "md5" : "0cfd8e6b6091d27eb244582ad75ce05a",
+      "org_level" : null,
+      "title" : "$trange Attraktor [(ASOTHER)]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05085"
+   },
+   {
       "adddate" : "2021/01/27 21:18",
       "artist" : "Colorful Sounds Port (Chart BY DJ ANDREA)",
       "comment" : "SP差分です。今回は余ったキー音とそれの配置を色々と工夫しました。",
@@ -49106,7 +49121,7 @@
       "md5" : "8571bea6294a74f5a42ebac8c956537e",
       "org_level" : null,
       "title" : "DOLL [DP NORMAL]",
-      "url" : "",
+      "url" : "https://web.archive.org/web/20151030093509/http://mikihara.cheap.jp/bms/BOF2015/doll_ogg.zip",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04599"
    },
    {
