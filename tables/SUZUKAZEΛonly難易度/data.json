@@ -31,6 +31,7 @@
       "md5" : "011d370c8a0d66bf3175a88609dca383",
       "name_diff" : "DL",
       "reg_date" : " ",
+      "state" : 4,
       "title" : "Berry Go!! [ZOI-EZ]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=116",
       "url_diff" : "https://dl.dropbox.com/s/6tr8p5yg2ogit67/Freezer%20feat.%E5%A6%83%E8%8B%BA%20-%20Berry%20Go%21%21_zoi.zip?dl=1"
@@ -108,6 +109,18 @@
       "title" : "Dizzolve [Insane]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=56&event=116",
       "url_diff" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=56&event=116"
+   },
+   {
+      "artist" : "tkqn14_Append obj:SUZUKAZEΛ",
+      "comment" : "同時押し,乱打,高速階段,微縦連",
+      "level" : "9",
+      "lr2_bmsid" : "297228",
+      "md5" : "07603b850fbb24fa6e532f70a8ebc735",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "スズカゼの森 [ZOI]",
+      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=21&num=42",
+      "url_diff" : "https://dl.dropbox.com/s/i4fe462oo1e83vb/_suzukaze_zoi.zip?dl=1"
    },
    {
       "artist" : "P4koo feat. つゆり花鈴 Art:Doro-nyong / Movie:Ratif / obj:SUZUKAZEΛ",
@@ -221,6 +234,18 @@
       "url_diff" : "https://dl.dropbox.com/s/46whq6364glccoz/%5BSS003%5Dlitmus_soundsouler_twophace_zoi.zip?dl=1"
    },
    {
+      "artist" : "Potwi obj:SUZUKAZEΛ",
+      "comment" : "乱打,LN,ガチ押し,皿複合",
+      "level" : "10",
+      "lr2_bmsid" : "293958",
+      "md5" : "10fb16d79f95467f2f393f906a5bac57",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "U-knighted Servant [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=494&event=133",
+      "url_diff" : "https://dl.dropbox.com/s/emb5obv1p0hkson/potwi_u-knighted_servant_zoi.zip?dl=1"
+   },
+   {
       "artist" : "Yu^ta obj:SUZUKAZEΛ",
       "comment" : "高速乱打,地力",
       "level" : "12",
@@ -302,6 +327,7 @@
       "md5" : "16ad289f62383c1a69ffa5486bef46e9",
       "name_diff" : "DL",
       "reg_date" : "2016/3/4",
+      "state" : 4,
       "tag" : "二重階段,縦連打",
       "title" : "new earth [ZOI]",
       "url" : "https://www.axfc.net/u/3838433",
@@ -1032,6 +1058,18 @@
       "url_diff" : "https://dl.dropbox.com/s/pgd8d1htw1cbvm8/nue_zoi.zip?dl=1"
    },
    {
+      "artist" : "Se-U-Ra obj:SUZUKAZEΛ",
+      "comment" : "ガチ押し,高速階段,皿複合",
+      "level" : "5",
+      "lr2_bmsid" : "292243",
+      "md5" : "464d5bba930518c196b81307cd915d72",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "ハイノド [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=142&event=133",
+      "url_diff" : "https://dl.dropbox.com/s/12gnlaj6a9bi1zo/hainodo_zoi.zip?dl=1"
+   },
+   {
       "artist" : "ぽんきち obj:SUZUKAZEΛ",
       "comment" : "同時押し,皿複合,高速階段",
       "level" : "4",
@@ -1130,6 +1168,18 @@
       "url_diff" : "https://dl.dropbox.com/s/cg0wvazak3q0df6/%E9%9C%A7%E3%81%AE%E6%B9%96%E3%81%AE%E7%89%A9%E8%AA%9E_zoi.zip?dl=1"
    },
    {
+      "artist" : "⑮ obj:SUZUKAZEΛ",
+      "comment" : "微縦連,二重階段,皿複合,LN",
+      "level" : "1",
+      "lr2_bmsid" : "292687",
+      "md5" : "4a0bc6636bcf0b816b6053ce23f9b77a",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "ふゆざくら [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=241&event=133",
+      "url_diff" : "https://dl.dropbox.com/s/wux8mk6ppfr8zt6/%E3%81%B5%E3%82%86%E3%81%96%E3%81%8F%E3%82%89_zoi.zip?dl=1"
+   },
+   {
       "artist" : "フロン / ラズベリル / ライターハデス obj:SUZUKAZEΛ",
       "comment" : "乱打,皿複合,停止,BGI同梱 [up03277の差分]",
       "level" : "9",
@@ -1142,6 +1192,18 @@
       "url_diff" : "https://dl.dropbox.com/s/q228gdzsrqk84h8/love%20%EF%BC%86%20jutice%20lighter%20edition_zoi.zip?dl=1"
    },
    {
+      "artist" : "linear ring obj:SUZUKAZEΛ",
+      "comment" : "LN,ハネ,微縦連,皿複合",
+      "level" : "4",
+      "lr2_bmsid" : "293077",
+      "md5" : "4bc6cf9081034e5bfd006d101da9c232",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "enchanted love [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=108&event=133",
+      "url_diff" : "https://dl.dropbox.com/s/gi7ynsas5oljah5/enchanted%20love_zoi.zip?dl=1"
+   },
+   {
       "artist" : "ZUN(Arr.髭姫) VOCAL:nmk BGA:NRF / obj:SUZUKAZEΛ",
       "comment" : "乱打,皿複合",
       "level" : "8",
@@ -1152,6 +1214,18 @@
       "title" : "ゆゆこ▼パンツ [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=129",
       "url_diff" : "https://dl.dropbox.com/s/djafvul2egipyzx/higehime_yp_zoi.zip?dl=1"
+   },
+   {
+      "artist" : "kanone BGA:Shuto / obj:SUZUKAZEΛ",
+      "comment" : "乱打,ガチ押し,高速階段,皿",
+      "level" : "9",
+      "lr2_bmsid" : "293078",
+      "md5" : "4c83348de96cb971f65497032c09708d",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "Neutrφn Reaper [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=358&event=133",
+      "url_diff" : "https://dl.dropbox.com/s/75fntawojy2nq1i/%5Bddec%5Dkanone_nr_zoi.zip?dl=1"
    },
    {
       "artist" : "Freezer feat. 妃苺 obj:SUZUKAZEΛ",
@@ -1189,6 +1263,18 @@
       "title" : "Sparkling☆Sunshine!! [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=127",
       "url_diff" : "https://dl.dropbox.com/s/l2p39pv33pz93xh/%5B73kb_otoshi.b%5Dsparkling_sunshine%21%21_zoi.zip?dl=1"
+   },
+   {
+      "artist" : "LisicA movie : ルゼ(LuzeriA) / illust : Orphee / obj:SUZUKAZEΛ",
+      "comment" : "割れ,高速階段,微縦連,皿複合,LN",
+      "level" : "6",
+      "lr2_bmsid" : "292247",
+      "md5" : "4ed5e3b613b9a836b89b2a393ec2bcf2",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "タマモッチ [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=200&event=133",
+      "url_diff" : "https://dl.dropbox.com/s/q935t1rozk96qqi/xx_tamamo_zoi.zip?dl=1"
    },
    {
       "artist" : "KAH BGA:自動車 原付 / illust:手鞠鈴 / obj:SUZUKAZEΛ",
@@ -1559,6 +1645,18 @@
       "url_diff" : "https://dl.dropbox.com/s/x925bvdj7yd659u/Untitled%20Soul_zoi.zip?dl=1"
    },
    {
+      "artist" : "F Rabbeat / Movie:Yeahtuna BMS:Nakaiankow obj:SUZUKAZEΛ",
+      "comment" : "皿複合,同時押し,微縦連",
+      "level" : "5",
+      "lr2_bmsid" : "292688",
+      "md5" : "5f851785394f3b646bdc2669b1f2ddde",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "Be With U [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=272&event=133",
+      "url_diff" : "https://dl.dropbox.com/s/fyx194t85evv4i6/f_rabbeat_be_with_u_zoi.zip?dl=1"
+   },
+   {
       "artist" : "EBIMAYO obj:SUZUKAZEΛ",
       "comment" : "同時押し,皿複合,高速階段",
       "level" : "8",
@@ -1643,6 +1741,18 @@
       "title" : "QSHELL －拒色のシェルル－ [EZ-ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=147&event=123",
       "url_diff" : "https://dl.dropbox.com/s/iel0tchwwpj03e3/Sheruru_zoi.zip?dl=1"
+   },
+   {
+      "artist" : "P4koo feat.つゆり花鈴 Illust PlatiSU / obj:SUZUKAZEΛ",
+      "comment" : "同時押し,乱打",
+      "level" : "4",
+      "lr2_bmsid" : "292249",
+      "md5" : "6403a560c3f61e1a387e3e2437228971",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "ほしのねがい [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=322&event=133",
+      "url_diff" : "https://dl.dropbox.com/s/d3kds148z4earf0/hoshino_negai_zoi.zip?dl=1"
    },
    {
       "artist" : "azu obj:SUZUKAZEΛ",
@@ -2162,9 +2272,22 @@
       "md5" : "808c6bbaf7b78b8b2a50187d950ad7b0",
       "name_diff" : "DL",
       "reg_date" : " ",
+      "state" : 4,
       "title" : "桜シロガネ妖狐伝説 [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=96&event=115",
       "url_diff" : "https://dl.dropbox.com/s/oo7c6r10zua5jxg/%5BLiA%5DSAKURASHIROGANE-zoi.zip?dl=1"
+   },
+   {
+      "artist" : "nonomori feat.晃. obj:SUZUKAZEΛ",
+      "comment" : "ズレ,乱打,微縦連,皿複合",
+      "level" : "3",
+      "lr2_bmsid" : "292619",
+      "md5" : "814b9f10b13d70dc2814774aee68c631",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "昇－noboru－ [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=90&event=133",
+      "url_diff" : "https://dl.dropbox.com/s/3yqstnc8xehmo90/nothing%20but%20seven_zoi.zip?dl=1"
    },
    {
       "artist" : "雑雑 obj:SUZUKAZEΛ",
@@ -2339,6 +2462,18 @@
       "url_diff" : "https://dl.dropbox.com/s/stb10p3vqmfzdqe/kaleidoscope_zoi.zip?dl=1"
    },
    {
+      "artist" : "r obj:SUZUKAZEΛ",
+      "comment" : "乱打,ガチ押し,LN,微縦連,[BGI同梱]",
+      "level" : "5",
+      "lr2_bmsid" : "293079",
+      "md5" : "8c9265b714211b1fba736be4fd051b73",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "Abendo [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=426&event=133",
+      "url_diff" : "https://dl.dropbox.com/s/a72fxg3xudbm8vb/abendo_zoi.zip?dl=1"
+   },
+   {
       "artist" : "Lycoris vs. Pied d'Alouette obj:SUZUKAZEΛ",
       "comment" : "乱打,皿複合,微縦連",
       "level" : "4",
@@ -2447,6 +2582,18 @@
       "title" : "宵闇夜 －Leggendaria ver－ [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=50&event=129",
       "url_diff" : "https://dl.dropbox.com/s/r9k01d76h47ynye/%5B%E9%9F%B3%E7%8B%90%20%E9%BB%92%E8%91%89%5D%20%E5%AE%B5%E9%97%87%E5%A4%9C%20-%20leggendaria%20ver_zoi.zip?dl=1"
+   },
+   {
+      "artist" : "Jehezukiel Pattern Design: MEGAtive / obj:SUZUKAZEΛ",
+      "comment" : "皿,微縦連,デニム",
+      "level" : "8",
+      "lr2_bmsid" : "292916",
+      "md5" : "9a9ba543f4749dea5a87cedb5c5f43eb",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "バステット [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=147&event=133",
+      "url_diff" : "https://dl.dropbox.com/s/vmzrzbrc1dwx29t/bastet%20-%20jehezukiel_zoi.zip?dl=1"
    },
    {
       "artist" : "Getty vs. DJ DiA BGA:わっふゑ vs. でこちんハンマー / obj:SUZUKAZEΛ",
@@ -2644,11 +2791,12 @@
    {
       "artist" : "Mr.K obj:SUZUKAZEΛ",
       "comment" : "乱打,微縦連,皿複合",
-      "level" : "7",
+      "level" : "8",
       "lr2_bmsid" : "289020",
       "md5" : "a34cc2170bd381182f1344d215426675",
       "name_diff" : "DL",
       "reg_date" : " ",
+      "state" : 4,
       "title" : "xeusonic [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=132",
       "url_diff" : "https://dl.dropbox.com/s/9rv2c8o2zy2x02k/%5Bmr.k%5Dxeusonic_zoi.zip?dl=1"
@@ -2741,7 +2889,7 @@
    {
       "artist" : "kas_0120 obj:SUZUKAZEΛ",
       "comment" : "トリル,割れ,皿複合",
-      "level" : "6",
+      "level" : "5",
       "lr2_bmsid" : "289556",
       "md5" : "a8dc14a15025035528e26c983c8b13c9",
       "name_diff" : "DL",
@@ -2967,6 +3115,18 @@
       "title" : "Hypnos Metropolis [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=327&event=123",
       "url_diff" : "https://dl.dropbox.com/s/sqe8120ult1mq7k/%5B1genBROS%5DHypnosMetropolis_zoi.zip?dl=1"
+   },
+   {
+      "artist" : "Jun Kuroda feat.mirto obj:SUZUKAZEΛ",
+      "comment" : "ガチ押し,中速階段",
+      "level" : "4",
+      "lr2_bmsid" : "292048",
+      "md5" : "b3e8be7dca2891dbffaf241ab5e01184",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "藍より青い憧憬 [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=70&event=133",
+      "url_diff" : "https://dl.dropbox.com/s/uq410gr72ta4g27/aiyoriaoishoukei_zoi.zip?dl=1"
    },
    {
       "artist" : "MALVA. BGA : 焼き鳥　Illustration : しえろ。+ 萬田 / obj:SUZUKAZEΛ",
@@ -3483,6 +3643,18 @@
       "url_diff" : "https://dl.dropbox.com/s/otrw5qgixg9ssln/_btb_hw_171011_zoi.zip?dl=1"
    },
    {
+      "artist" : "shimizushi BGA : AnD ILLUST : a.a / obj:SUZUKAZEΛ",
+      "comment" : "乱打,デニム,中速階段",
+      "level" : "4",
+      "lr2_bmsid" : "292050",
+      "md5" : "cefe760111fb4d2e51b634ec3c8aa30c",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "The Crack of Dawn [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=133",
+      "url_diff" : "https://dl.dropbox.com/s/2vst30zy4sqqrct/%5Bshimizushi%5Dthe%20crack%20of%20dawn_zoi.zip?dl=1"
+   },
+   {
       "artist" : "mommy obj:SUZUKAZEΛ",
       "comment" : "皿絡み,微縦連,ズレ",
       "level" : "4",
@@ -3530,6 +3702,30 @@
       "title" : "十七絃と箏と尺八のための東方萃夢想 [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=129",
       "url_diff" : "https://dl.dropbox.com/s/fjeyom8o20us09a/%5B54cm%5Dsuimuso_for_sankyoku_zoi.zip?dl=1"
+   },
+   {
+      "artist" : "EmoCosine / 出前 obj:SUZUKAZEΛ",
+      "comment" : "高速階段,同時押し,皿複合",
+      "level" : "5",
+      "lr2_bmsid" : "292915",
+      "md5" : "d2f6aefc9664145b3bd7a6055f814ef1",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "Cutter [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=133",
+      "url_diff" : "https://dl.dropbox.com/s/sosxt5kqht4hmm6/bofxvi_emocosine_cutter_zoi.zip?dl=1"
+   },
+   {
+      "artist" : "SEPHID BG by Ano / obj:SUZUKAZEΛ",
+      "comment" : "乱打,皿,同時押し",
+      "level" : "8",
+      "lr2_bmsid" : "292521",
+      "md5" : "d32677e0d8753636a23bda201fa039c2",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "Nothing But Seven [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=220&event=133",
+      "url_diff" : "https://dl.dropbox.com/s/3yqstnc8xehmo90/nothing%20but%20seven_zoi.zip?dl=1"
    },
    {
       "artist" : "Remixed by Ino (Original by mommy) obj:SUZUKAZEΛ",
@@ -3779,6 +3975,18 @@
       "url_diff" : "http://dl.dropbox.com/s/peozrzd2fcfdb1k/%5Bsak%5DReason_of_being_zoi.zip?dl=0"
    },
    {
+      "artist" : "しーけー obj:SUZUKAZEΛ",
+      "comment" : "同時押し,ズレ,トリル,高速階段,物量",
+      "level" : "7",
+      "lr2_bmsid" : "292052",
+      "md5" : "df2e27e2e65c5da5fd687b481a53aae5",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "La souvenir [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=193&event=133",
+      "url_diff" : "https://dl.dropbox.com/s/hw3g3jawgwmxlho/la_souvenir_zoi.zip?dl=1"
+   },
+   {
       "artist" : "P4koo/つゆり花鈴/BlueArpeggio Illust GATTOMOTTO/Movie Ratif / obj:SUZUKAZEΛ",
       "comment" : "同時押し,微縦連,皿複合",
       "level" : "7",
@@ -3826,6 +4034,18 @@
       "title" : "Kaeru no Anthem [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=103&event=116",
       "url_diff" : "https://dl.dropbox.com/s/eg1x1sbr0jpv49t/%5BPhracta%5DKaeru%20no%20Anthem_zoi.zip?dl=1"
+   },
+   {
+      "artist" : "Setca. feat. 音崎リタ mov:tolz obj:SUZUKAZEΛ",
+      "comment" : "同時押し,乱打",
+      "level" : "6",
+      "lr2_bmsid" : "292620",
+      "md5" : "e004aff5490b0f3ea9d4958e4f5a85f7",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "透明すぎた僕らの夏は。 [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=370&event=133",
+      "url_diff" : "https://dl.dropbox.com/s/vfz9rejff1q27nd/%5Bsetca.%5Dour_summer_zoi.zip?dl=1"
    },
    {
       "artist" : "Kitty obj:SUZUKAZEΛ",
@@ -4175,6 +4395,18 @@
       "url_diff" : "https://dl.dropbox.com/s/zh8ev6rlo0zrvu1/energy%20trixxx_zoi.zip?dl=1"
    },
    {
+      "artist" : "立秋 feat.ちょこ obj:SUZUKAZEΛ",
+      "comment" : "ソフラン(ギアチェン必須※AVERAGE),乱打,壁,個人差",
+      "level" : "9",
+      "lr2_bmsid" : "292520",
+      "md5" : "efa2338cf6ed710767ad64577ad651cd",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "竹 [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=365&event=133",
+      "url_diff" : "https://dl.dropbox.com/s/htcj9e1amk9mtuf/take003_zoi.zip?dl=1"
+   },
+   {
       "artist" : "Widowmaker",
       "comment" : "ズレ,同時押し,ソフラン,微縦連,階段",
       "level" : "8",
@@ -4259,6 +4491,18 @@
       "title" : "鍵 [ZOI]",
       "url" : "http://qstol.info/events/venue/detail?event=3&id=16",
       "url_diff" : "https://dl.dropbox.com/s/momeg007gc07vhb/%5B9RAN%5DKagi_zoi.zip?dl=1"
+   },
+   {
+      "artist" : "SHIKI movie:140/fth / obj:SUZUKAZEΛ",
+      "comment" : "乱打,ガチ押し,微縦連",
+      "level" : "8",
+      "lr2_bmsid" : "293104",
+      "md5" : "f2e0faae32f4db6c89c446f2284bd522",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "Fractal [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=243&event=133",
+      "url_diff" : "https://dl.dropbox.com/s/nmncu4nmoxgeydz/shiki_fractal_bms_zoi.zip?dl=1"
    },
    {
       "artist" : "Sakamiya feat.一花 mov:くわぎう img:じゃっこ / obj:SUZUKAZEΛ",
