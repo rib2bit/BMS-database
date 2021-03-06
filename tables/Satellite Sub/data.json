@@ -4473,6 +4473,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "knot",
+      "comment" : "判定NORMAL/同梱譜面/戦國～夏の陣～",
+      "level" : "0",
+      "md5" : "2989ee0519438b7b44b18abfc1f8a0f2",
+      "proposer" : "TR1",
+      "proposerLr2id" : 152181,
+      "sha256" : "39c58e2b0986aaf73d7e1d4fa69c4cb60e73258b97f6a2181011d496cbf61dd5",
+      "submission" : 1885,
+      "title" : "cold planet (ANOTHER)",
+      "url" : "http://web.archive.org/web/20071210121539/http://www.geocities.jp/panda_bms/sengoku.html",
+      "url_diff" : ""
+   },
+   {
       "artist" : "m108 BGA:メツヤ Illust:flap Notes:夢瑠",
       "comment" : "BOFU2017、階段、BPM 195->186->189",
       "level" : "5",
@@ -10435,6 +10448,20 @@
       "title" : "Song for Denim [unmeasured]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=132",
       "url_diff" : "https://stellabms.xyz/upload/357",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "モリモリあつし obj:LAPIS",
+      "comment" : "ズレ、低トータル",
+      "level" : "2",
+      "md5" : "64e3148d9b0d0bec242b026af08f1125",
+      "proposer" : "|/|",
+      "proposerLr2id" : 147895,
+      "sha256" : "4da770809e0b6d2e28d36f100c5c07eecba1c57098f61c7fb1f825990afc9bdd",
+      "submission" : 1884,
+      "title" : "MilK [Low Fat]",
+      "url" : "https://dropbox.bms.ms/u/37251493/MilK.zip",
+      "url_diff" : "http://lapisbms.xyz/",
       "zureCount" : 0
    },
    {
@@ -19030,6 +19057,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Nycticebus",
+      "comment" : "衆議院選第三回/同梱譜面",
+      "level" : "1",
+      "md5" : "b914da45e4dbf5599b7edee4d3c7e8a9",
+      "proposer" : "TR1",
+      "proposerLr2id" : 152181,
+      "sha256" : "465d3dfa629df1d63e610b86dcd272b83851fa2603ccb70ae7726f5c166e3949",
+      "submission" : 1886,
+      "title" : "Mondlicht [SP ANOTHER]",
+      "url" : "https://venue.bmssearch.net/bmsshuin3/72",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Syatten / obj:BAECON",
       "level" : "7",
       "md5" : "b91ed7f26020b9397d47851d6f50300f",
@@ -19376,6 +19416,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "w_tre / Mer",
+      "comment" : "hard ending",
+      "level" : "2",
+      "md5" : "bc7385176d3ee956fc8f981acd4178cf",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "f133678fa6f49d8ddc4f8c4611bbf972e1d1af971daefb8268d30d418c80c5b6",
+      "submission" : 1883,
+      "title" : "Sunday Sundae Frost [Another]",
+      "url" : "http://www.mediafire.com/file/qf00wiqjpg2ga9d/SSFogg.zip",
+      "url_diff" : ""
    },
    {
       "artist" : "er",
