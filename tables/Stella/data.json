@@ -1274,7 +1274,7 @@
    {
       "artist" : "2X obj.hex",
       "comment" : "手動ディレイ",
-      "level" : "3",
+      "level" : "4",
       "md5" : "201d63bb3bb44abd0e71d251574e3c0d",
       "proposer" : "スノート",
       "sha256" : "41098e9325e3040c7f0249e8e75b30ce560615345833e747219dde422dcb62c5",
@@ -2008,6 +2008,18 @@
       "title" : "シレノ [Tidal wave]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=139&event=133",
       "url_diff" : ""
+   },
+   {
+      "artist" : "pr.s obj:七海",
+      "comment" : "Genocide Reinterpretation 早い乱打。",
+      "level" : "2",
+      "md5" : "2f5700265c49e8b1d6dfda9a2d79c198",
+      "proposer" : "MarySue",
+      "sha256" : "84275a88dcad2d5b995ebc81611eac7d9d43ce828a0e732fe2c4507418c12e83",
+      "submission" : 1380,
+      "title" : "Lepontinia -Despair & Hope-",
+      "url" : "https://dl.dropboxusercontent.com/s/tspye2yzxlr69gd/prs_Lepontinia.rar",
+      "url_diff" : "https://darksabun.github.io/event/renewal/"
    },
    {
       "artist" : "Yosk! / A",
@@ -2993,6 +3005,17 @@
       "url_diff" : "https://web.archive.org/web/20200306165639/http://3228monsta.web.fc2.com/"
    },
    {
+      "artist" : "FOLiACETATE /差分 赤い人",
+      "level" : "3",
+      "md5" : "4381520e50468a1b0cd12213782c1606",
+      "proposer" : "파이어",
+      "sha256" : "c4f62674bf61a1e79d7152d6ea39293195813260334ce96e3e73c03ca205f20d",
+      "submission" : 1382,
+      "title" : "Heterochromia Iridis [INFERNO]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=43&event=85",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/Heterochromaia-INFERNO.bms"
+   },
+   {
       "artist" : "otoshi.b obj:mute",
       "comment" : "超高速",
       "level" : "9",
@@ -3318,6 +3341,18 @@
       "title" : "EVERLASTING HAPPiNESS↑ [AETERNUM]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=109",
       "url_diff" : "http://gnqg.rosx.net/upload/"
+   },
+   {
+      "artist" : "MisomyL / obj : Mary_Sue",
+      "comment" : "BPM230 乱打",
+      "level" : "7",
+      "md5" : "49dae02d73b30e37473ed9c1094a7e33",
+      "proposer" : "SHAX.",
+      "sha256" : "072f7ef09e1a4963f4dbd007830195654bfe7941ca360ddd1ee348830a662e98",
+      "submission" : 1379,
+      "title" : "Catalinesie [Maryther_LASTBOSS]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=442&event=133",
+      "url_diff" : "https://darksabun.github.io/Mary_Sue/"
    },
    {
       "artist" : "Luxion /差分 赤い人",
@@ -4532,7 +4567,7 @@
    {
       "artist" : "TOMA Remixed by FALL/さ",
       "comment" : "ミクちゃん好き",
-      "level" : "2",
+      "level" : "3",
       "md5" : "648a52b6a2fc5d649624eb4e07280c6e",
       "proposer" : "MEES-♬",
       "proposerLr2id" : 39693,
@@ -4759,6 +4794,17 @@
       "title" : "Comet (BMS Edit) [CHOCOMINT=CRIME]",
       "url" : "https://k-bms.com/party_pabat/party.jsp?board_num=20&num=38&order=reg&odtype=a",
       "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
+      "artist" : "otoshi.b BGI:はしたかさん obj.mute",
+      "level" : "5",
+      "md5" : "69e76ecdfd8064c934bc8a5aaad6a17a",
+      "proposer" : "파이어",
+      "sha256" : "51fceabdae1d8b6164141f31ad99401284f042abad48d1764bfea2dee2775457",
+      "submission" : 1383,
+      "title" : "Sparkling☆Sunshine!! [Last Resort]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=127",
+      "url_diff" : ""
    },
    {
       "artist" : "Feryquitous movie:Sight / obj:Omino",
@@ -5412,6 +5458,18 @@
       "title" : "タマモッチ",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=200&event=133",
       "url_diff" : "https://darksabun.github.io/event/bofxvi/"
+   },
+   {
+      "artist" : "COWBELL MASTER 心愛 -COCOA- BGA: w, OBJ: 七海",
+      "comment" : "st1~3; extermination",
+      "level" : "2",
+      "md5" : "7766a195676f3b41cc3bbd80a2894a07",
+      "proposer" : "qtp13",
+      "sha256" : "d57f8fb17b40eaaca3ffe0207433ca87c9c917ac369a315d2de1ced290a78ca0",
+      "submission" : 1376,
+      "title" : "GET ON WiTH FUNKOT [SP X-BUNNY]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=80&event=133",
+      "url_diff" : "https://www.dropbox.com/s/7sz0du09jlohblo/getonwith_nanami.zip?dl=1"
    },
    {
       "artist" : "nez obj.hex",
@@ -7645,7 +7703,7 @@
    {
       "artist" : "saaa object: LuvTek",
       "comment" : "끊어치기",
-      "level" : "4",
+      "level" : "5",
       "md5" : "a85994133df21871af5dc168d1fabbfd",
       "proposer" : "파이어",
       "sha256" : "c00ae7f2fc360632d4daf1c2bad5ee71755e48e24384808b6c78b33fa8a16043",

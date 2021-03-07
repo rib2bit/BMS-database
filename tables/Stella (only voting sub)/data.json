@@ -1,88 +1,5 @@
 [
    {
-      "artist" : "Soba Yamamori obj.hex",
-      "level" : "1",
-      "md5" : "1d7f683ae8f47dedde454d252162d2e6",
-      "proposer" : "ふかけん",
-      "proposerLr2id" : 145204,
-      "sha256" : "4d4cf07adb6c93a9ef0a392f99f438f8f57f93e85485d16c602e0cfafbab8d1d",
-      "submission" : 1286,
-      "title" : "SYNTHETICS [Pentagon]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=285&event=123",
-      "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : 87.5,
-      "voteYes" : 10
-   },
-   {
-      "artist" : "pr.s obj:七海",
-      "comment" : "Genocide Reinterpretation 早い乱打。",
-      "level" : "2",
-      "md5" : "2f5700265c49e8b1d6dfda9a2d79c198",
-      "proposer" : "MarySue",
-      "proposerLr2id" : 147889,
-      "sha256" : "84275a88dcad2d5b995ebc81611eac7d9d43ce828a0e732fe2c4507418c12e83",
-      "submission" : 1380,
-      "title" : "Lepontinia -Despair & Hope-",
-      "url" : "https://dl.dropboxusercontent.com/s/tspye2yzxlr69gd/prs_Lepontinia.rar",
-      "url_diff" : "https://darksabun.github.io/event/renewal/",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "FOLiACETATE /差分 赤い人",
-      "level" : "3",
-      "md5" : "4381520e50468a1b0cd12213782c1606",
-      "proposer" : "파이어",
-      "proposerLr2id" : 7290,
-      "sha256" : "c4f62674bf61a1e79d7152d6ea39293195813260334ce96e3e73c03ca205f20d",
-      "submission" : 1382,
-      "title" : "Heterochromia Iridis [INFERNO]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=43&event=85",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/Heterochromaia-INFERNO.bms",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "MisomyL / obj : Mary_Sue",
-      "comment" : "BPM230 乱打",
-      "level" : "7",
-      "md5" : "49dae02d73b30e37473ed9c1094a7e33",
-      "proposer" : "SHAX.",
-      "proposerLr2id" : 65624,
-      "sha256" : "072f7ef09e1a4963f4dbd007830195654bfe7941ca360ddd1ee348830a662e98",
-      "submission" : 1379,
-      "title" : "Catalinesie [Maryther_LASTBOSS]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=442&event=133",
-      "url_diff" : "https://darksabun.github.io/Mary_Sue/",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "enxel vs D.J.Nero",
-      "comment" : "同梱差分。乱打、皿少し。",
-      "level" : "0",
-      "md5" : "5bba3ca09152db51e480863d4f74682f",
-      "proposer" : "MarySue",
-      "proposerLr2id" : 147889,
-      "sha256" : "6925b9359bab1c5c659864afefefeb9ae6815757a9e217498b65d285eeb22eeb",
-      "submission" : 1381,
-      "title" : "Misdirection [ANOTHER]",
-      "url" : "http://sunaneko.iptime.org/BMS_Library/Misdirection%20%28by%20enxel%20vs%20D.J.Nero%29.rar",
-      "url_diff" : ""
-   },
-   {
-      "artist" : "otoshi.b BGI:はしたかさん obj.mute",
-      "level" : "4",
-      "md5" : "69e76ecdfd8064c934bc8a5aaad6a17a",
-      "proposer" : "파이어",
-      "proposerLr2id" : 7290,
-      "sha256" : "51fceabdae1d8b6164141f31ad99401284f042abad48d1764bfea2dee2775457",
-      "submission" : 1383,
-      "title" : "Sparkling☆Sunshine!! [Last Resort]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=127",
-      "url_diff" : "",
-      "zureCount" : 0
-   },
-   {
       "artist" : "syatten + 140 obj.Mallow♪",
       "comment" : "Genocide Reinterpretation; st5~6 ガチ押し",
       "level" : "5",
@@ -97,20 +14,6 @@
       "zureCount" : 0
    },
    {
-      "artist" : "COWBELL MASTER 心愛 -COCOA- BGA: w, OBJ: 七海",
-      "comment" : "st1~3; extermination",
-      "level" : "2",
-      "md5" : "7766a195676f3b41cc3bbd80a2894a07",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "d57f8fb17b40eaaca3ffe0207433ca87c9c917ac369a315d2de1ced290a78ca0",
-      "submission" : 1376,
-      "title" : "GET ON WiTH FUNKOT [SP X-BUNNY]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=80&event=133",
-      "url_diff" : "https://www.dropbox.com/s/7sz0du09jlohblo/getonwith_nanami.zip?dl=1",
-      "zureCount" : 0
-   },
-   {
       "artist" : "アスパラ音楽隊 obj.hex",
       "comment" : "BPM120 ガチ押し",
       "level" : "3",
@@ -122,5 +25,18 @@
       "title" : "DEYANEN [Hexagon]",
       "url" : "https://web.archive.org/web/20160321130346/http://big.freett.com/woody_/deyanen.zip",
       "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html"
+   },
+   {
+      "artist" : "Pleiades (あとぅす vs. Lian)",
+      "comment" : "BPM186 微連打",
+      "level" : "6",
+      "md5" : "ccdbd7df4c2a0a2af1cdc1cbba7b083f",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "e9ae3cfe60a8132f2bad62f6527a1365c5e594c191e9d3e6796d80a2a133b72a",
+      "submission" : 1384,
+      "title" : "ETERNiZE [ETERNiTY]",
+      "url" : "https://venue.bmssearch.net/bmstukuru2020/11",
+      "url_diff" : ""
    }
 ]

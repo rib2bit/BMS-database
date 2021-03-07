@@ -547,7 +547,7 @@
    },
    {
       "artist" : "じぽたん MIDI : 猫姫/差分　赤い人",
-      "level" : "6",
+      "level" : "10",
       "md5" : "03b5e03744b05b8f6534f8a8869d2243",
       "proposer" : "SANY",
       "proposerLr2id" : 128405,
@@ -1699,7 +1699,7 @@
    {
       "artist" : "あとぅす",
       "comment" : "同梱譜面、中速、CNは難易度にほぼ影響なし、sl3～4？",
-      "level" : "3",
+      "level" : "2",
       "md5" : "0e0ea8aa78af27437b2f5df5d1726a3b",
       "proposer" : "quinto",
       "proposerLr2id" : 141043,
@@ -4855,6 +4855,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "pencil / obj. marie",
+      "comment" : "連打・局所発狂",
+      "level" : "8",
+      "md5" : "2df058712eb389106d33733b99c218a1",
+      "proposer" : "AYhaz",
+      "proposerLr2id" : 123475,
+      "sha256" : "d5d7fb4f1d944e65c0bbd186397009e29069c8f60a424081b1668c825961cde0",
+      "submission" : 1887,
+      "title" : "Sousyou Soukoku [marienother]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=269&event=133",
+      "url_diff" : "https://stellabms.xyz/upload/695",
+      "zureCount" : 0
+   },
+   {
       "artist" : "SOMON",
       "comment" : "同梱譜面/A-1 ClimaX 9th",
       "level" : "1",
@@ -5112,6 +5126,19 @@
       "title" : "SAMBISTA [sio-another]",
       "url" : "http://onedrive.live.com/?cid=FC95A680740CA8C9&id=FC95A680740CA8C9!111",
       "url_diff" : "http://siokazebms.web.fc2.com/"
+   },
+   {
+      "artist" : "Zris",
+      "comment" : "ズレ、乱打、連打、LN",
+      "level" : "2",
+      "md5" : "30c1993623dcda955b497b356077c34b",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "f8be12c54fe6808f06866e5da0eaf2358e5ceea83a58f7a515bd5252364eb4de",
+      "submission" : 1889,
+      "title" : "Sweet Pie",
+      "url" : "https://venue.bmssearch.net/bmsshuin3/90",
+      "url_diff" : ""
    },
    {
       "artist" : "Remixed by Yamajet Movie : iimo",
@@ -7597,7 +7624,7 @@
    },
    {
       "artist" : "鹿目まどか /差分　赤い人 佐倉杏子",
-      "level" : "8",
+      "level" : "9",
       "md5" : "4971f11e2d0c0831f8ef83054ed843e4",
       "proposer" : "鷺沢文香",
       "proposerLr2id" : 133436,
@@ -7986,7 +8013,7 @@
    {
       "artist" : "imario",
       "comment" : "ノーマル判定、微縦連複合乱打",
-      "level" : "8",
+      "level" : "9",
       "md5" : "4cc2c2ecc2bc384b0e8e4628c8fa208d",
       "proposer" : "姫川友紀",
       "proposerLr2id" : 125835,
@@ -8702,6 +8729,19 @@
       "submission" : 1370,
       "title" : "Telescope [INSANE]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=126",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "SOMON",
+      "comment" : "第三回BMS衆議院選. 高Total",
+      "level" : "3",
+      "md5" : "536f359a34cd55ee64c74549d9a3f244",
+      "proposer" : "OnlyForYou",
+      "proposerMinirid" : "07ec8ca6-3bf5-4e12-89f1-8e5876458451",
+      "sha256" : "1859faf27a0cf2120e94dc22c1700953df3016249c359c6d0f5602aa066394d8",
+      "submission" : 1891,
+      "title" : "Σxilio [ANOTHER]",
+      "url" : "https://venue.bmssearch.net/bmsshuin3/109",
       "url_diff" : ""
    },
    {
@@ -9683,7 +9723,7 @@
    {
       "artist" : "ROKINA",
       "comment" : "slX?",
-      "level" : "4",
+      "level" : "5",
       "md5" : "5e02110c1f58d795fc5875cf4c96d507",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -13079,7 +13119,7 @@
    {
       "artist" : "azu / obj:秘密",
       "comment" : "乱打,微縦連,皿複合,物量",
-      "level" : "7",
+      "level" : "8",
       "md5" : "7ef4a2ae7e1807e6081289f6b9f432f5",
       "proposer" : "SUZUKAZEΛ",
       "proposerLr2id" : 111239,
@@ -15540,7 +15580,7 @@
    {
       "artist" : "w_tre obj:LAPIS",
       "comment" : "▼12",
-      "level" : "7",
+      "level" : "8",
       "md5" : "99d8a05101d4200464c66a4ccc8596f8",
       "proposer" : "Haze*",
       "proposerLr2id" : 112076,
@@ -16272,7 +16312,7 @@
    },
    {
       "artist" : "SOMON obj:monaka",
-      "level" : "2",
+      "level" : "3",
       "md5" : "a1aa1470016bae84642a040bfaaca0ec",
       "proposer" : "Mallow♪",
       "proposerLr2id" : 154796,
@@ -16551,6 +16591,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "69 de 74 BGA:Arishima_Caprico",
+      "comment" : "第三回BMS衆議院選, ★9中",
+      "level" : "5",
+      "md5" : "a45a6ea7111699cfb8fc042fbbc5709e",
+      "proposer" : "OnlyForYou",
+      "proposerMinirid" : "07ec8ca6-3bf5-4e12-89f1-8e5876458451",
+      "sha256" : "5f1633389c9f3875b7810bb365d9f407319d1178d98ecdffe6d1ee43331dc11a",
+      "submission" : 1888,
+      "title" : "RTTR [INSANE]",
+      "url" : "https://venue.bmssearch.net/bmsshuin3/73",
+      "url_diff" : ""
    },
    {
       "artist" : "ROKINA on schwarzekugel BGA:アカツキユウ / ImageIllust:あひゅりむ / 差分　赤い人",
@@ -17579,7 +17632,7 @@
    {
       "artist" : "ZUN remixed by翡乃イスカ obj:LIEF",
       "comment" : "高速",
-      "level" : "10",
+      "level" : "11",
       "md5" : "ad6d4631747d7aa03530a5db4b9120c7",
       "proposer" : "BAECON",
       "proposerLr2id" : 46122,
@@ -20095,7 +20148,7 @@
    {
       "artist" : "Antistar//mov:Niba obj:Scely",
       "comment" : "同梱譜面、アウトロややゲージ回復多め。",
-      "level" : "1",
+      "level" : "2",
       "md5" : "c1a5b071d1c654750ef8d6d902274e43",
       "proposer" : "quinto",
       "proposerLr2id" : 141043,
@@ -20121,7 +20174,7 @@
    {
       "artist" : "うまるつふり/obj.sitoras",
       "comment" : "うまるつふり god",
-      "level" : "7",
+      "level" : "8",
       "md5" : "c1b9047c9f8bc75fae5a20edeb6dbddd",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -20229,7 +20282,7 @@
    {
       "artist" : "しらいし obj.sennko",
       "comment" : "GENO★20の弱体化版",
-      "level" : "10",
+      "level" : "12",
       "md5" : "c2b6dfa3ff970186fc81a074cd193d1d",
       "proposer" : "桜ノ宮苺香",
       "proposerLr2id" : 61713,
@@ -20549,7 +20602,7 @@
    {
       "artist" : "+45 / obj:BAECON",
       "comment" : "地力",
-      "level" : "6",
+      "level" : "7",
       "md5" : "c6b9bfcef0215b51317cebc4a4520d9c",
       "proposer" : "*ふわうさ*",
       "proposerLr2id" : 60626,
@@ -21086,7 +21139,7 @@
    {
       "artist" : "Plesiopidae",
       "comment" : "同梱譜面、多要素。",
-      "level" : "7",
+      "level" : "6",
       "md5" : "caa803a5156405d0ede822d165bd91a6",
       "proposer" : "quinto",
       "proposerLr2id" : 141043,
@@ -21760,6 +21813,19 @@
       "submission" : 1832,
       "title" : "work.it [hump day]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=95&event=133",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "獸人控 obj 男の娘控",
+      "comment" : "皿、乱打、軸",
+      "level" : "3",
+      "md5" : "d22a90a8ce22c5e5b492ec6eb55d78fd",
+      "proposer" : "ww",
+      "proposerLr2id" : 147642,
+      "sha256" : "e21a8337bca5a80b217ab22f3015a5a2e65716874da2a224360e65bb1e5ef7a4",
+      "submission" : 1890,
+      "title" : "ドリアン爆弾 [SP ANOTHER]",
+      "url" : "https://venue.bmssearch.net/bmsshuin3/2",
       "url_diff" : ""
    },
    {
@@ -24085,7 +24151,7 @@
    },
    {
       "artist" : "nmk feat.かなえゆめ BGA:ぐやもこたん / obj:ELIGOS vs BAECON",
-      "level" : "6",
+      "level" : "10",
       "md5" : "e8de0fe9c739a15c8810327cfc06e00e",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -24723,7 +24789,7 @@
    },
    {
       "artist" : "Chocolate Powder / Lucy ChocoPow Graphic team x jaSMINe Aroma",
-      "level" : "5",
+      "level" : "6",
       "md5" : "eebf5db925bf70226162ee90cea00646",
       "proposer" : "MEES-♬",
       "proposerLr2id" : 39693,
