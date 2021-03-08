@@ -205,6 +205,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "First Class obj. w",
+      "comment" : "同時押し,乱打,LN",
+      "level" : "4",
+      "md5" : "012acdf138ea86da12cb86f95d8735f5",
+      "proposer" : "SUZUKAZEΛ",
+      "proposerLr2id" : 111239,
+      "sha256" : "85e704931965be0fc09ec3e17307f283e46a177bdaeb68e4cfa75e1394938045",
+      "submission" : 1892,
+      "title" : "fancy bus [W]",
+      "url" : "http://starkey.ivory.ne.jp/bemusicwest/bmw2/detail/view/3/",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04315"
+   },
+   {
       "artist" : "Zekk BGA : yusi",
       "comment" : "G2R2018、皿同時押し、微LN、微皿、トリル",
       "level" : "0",
@@ -10921,6 +10934,20 @@
       "title" : "Amethyst Moon [SP Another]",
       "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/9/",
       "url_diff" : ""
+   },
+   {
+      "artist" : "CAELUS obj. AYhaz",
+      "comment" : "loud jacks",
+      "level" : "2",
+      "md5" : "6988adbe9ae2fbc5c5b8851d6e4a62e9",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "e968fbd5d4f6b8535170d29edcaa71816efd86027e8a3b5a8787ad23efee6f96",
+      "submission" : 1894,
+      "title" : "Twin Woods [7K EXTREME]",
+      "url" : "https://venue.bmssearch.net/bmsshuin2/83",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03239",
+      "zureCount" : 0
    },
    {
       "artist" : "M-UE",
@@ -24990,6 +25017,19 @@
       "submission" : 1423,
       "title" : "絶対なる殷賑の因果律 -the causality melody- <SP ANOTHER>",
       "url" : "https://www.dropbox.com/s/ot7em2x0bsc1has/_carage_causality_melody.zip?dl=0",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "Music:庭師/BGA:SELDO obj:C4",
+      "comment" : "0~1?",
+      "level" : "0",
+      "md5" : "f17b3c8fbf09823c31c5ec65b19b3003",
+      "proposer" : "mqppppp",
+      "proposerLr2id" : 129162,
+      "sha256" : "bc2d2cfd3f1f3adae864b7ac8d02e368b647462b81abb11fea19b12111b226a8",
+      "submission" : 1893,
+      "title" : "Cyclone-Joker [Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=357&event=127",
       "url_diff" : ""
    },
    {
