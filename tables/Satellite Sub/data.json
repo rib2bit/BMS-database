@@ -16168,6 +16168,20 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html"
    },
    {
+      "artist" : "BACO / obj:nov",
+      "comment" : "Beatmania Song Remix",
+      "level" : "2",
+      "md5" : "9f89a4972295b99a4eb16b705e3fbcfc",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "0da5a3a250501969c9d843d03502657be5c9b55035ad8b03c9154ab6fb9bd2e2",
+      "submission" : 1897,
+      "title" : "20,November (ELE FUTURE mix) [EX]",
+      "url" : "https://web.archive.org/web/20120120215633/http://www3.pf-x.net/~boxism-8500/bms/20nov_ele.rar",
+      "url_diff" : "https://dl.dropboxusercontent.com/s/p93qyduwvqe01tt/20novemberelefuturemix_ex.rar",
+      "zureCount" : 0
+   },
+   {
       "artist" : "けふぃー BGI:ましろ obj:k-spin",
       "comment" : "階段乱打 ",
       "level" : "4",
@@ -16702,6 +16716,18 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "kas_0120",
+      "level" : "1",
+      "md5" : "a4d421835db7c343b24b35841e7db26f",
+      "proposer" : "MineC24",
+      "proposerLr2id" : 84597,
+      "sha256" : "830fa8838c7f88aa14ccc7a26393117aa471f22e2cb6170370bd9d1e4f27155e",
+      "submission" : 1896,
+      "title" : "Dog-Run Panic!",
+      "url" : "https://venue.bmssearch.net/bmsshuin3/113",
+      "url_diff" : ""
    },
    {
       "artist" : "山蝙蝠ホールディングス movie : Y.A.B.tudidama / obj:NASA",
