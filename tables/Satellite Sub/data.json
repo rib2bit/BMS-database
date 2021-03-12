@@ -2695,6 +2695,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "kireji obj. DK + Limite",
+      "comment" : "ソフラン、乱打、同時押しなど",
+      "level" : "3",
+      "md5" : "18b800c1e326df4f38fd57424befb0e8",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "46f21a700712b591e4d63f85c0187f7f07e424324a731f3611c382f22e929068",
+      "submission" : 1899,
+      "title" : "YATA (馞)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=88",
+      "url_diff" : "https://frozensat.github.io/sabun/yata_wa.zip",
+      "zureCount" : 0
+   },
+   {
       "artist" : "ひより(CV:ＯＲＩ姫) 作詞,作曲:nmk BGI:アカツキユウ",
       "comment" : "sl3~4? (no misalignment)",
       "level" : "3",
@@ -25188,6 +25202,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "猫蟹丸 / obj:NASA",
+      "comment" : "トリル、連打、LNなど。ユニークな譜面だからおすすめしたいと思います。",
+      "level" : "4",
+      "md5" : "f2b941d23b71d6fa37781b74b0028af5",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "305ec6d79d6250d184dd41e132d0e5258fec3759415ea52ff6d676e75b8228ba",
+      "submission" : 1898,
+      "title" : "5.1.1(ReMix) [73Another]",
+      "url" : "https://web.archive.org/web/20070107082819/http://yoshinoya.dnsalias.com:8888/knm/2005_511.lzh",
+      "url_diff" : "https://darksabun.github.io/event/renewal/",
+      "zureCount" : 0
    },
    {
       "artist" : "69 de 74 BGI:MUSH.T",

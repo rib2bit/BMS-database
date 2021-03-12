@@ -2826,6 +2826,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "MILK / И",
+      "comment" : "音源が追加されたので同梱差分とはズレチェックができません。代わりに差分ファイル同梱のmilk-kyrka-addsound-0noteとはズレなし。",
+      "level" : "3",
+      "md5" : "2913190c27ed8c73c5b9221a4d9b2b07",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "31e7971a63af7f51ce86a1f05b54863adb347ee64711f5d924832ddb6a84141f",
+      "submission" : 1391,
+      "title" : "kyrka [Haereticum]",
+      "url" : "http://diverse.jp/dbhtml/",
+      "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
       "artist" : "ねこみみ魔法使い / selene.",
       "comment" : "体力",
       "level" : "7",
