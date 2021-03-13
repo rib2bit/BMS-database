@@ -2013,6 +2013,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "paraoka",
+      "comment" : "(readme引用)担当難易度★23で提出した譜面と同様LIGHT 7譜面と比較して音ズレがないことを確認しました。",
+      "level" : "0",
+      "md5" : "1d28ce2b812bee70b5ec8f9010fb29b7",
+      "proposer" : "Restia",
+      "proposerLr2id" : 115265,
+      "sha256" : "3e91301beafea90432de2731b1396a6863c7fee505d87dbaa1acacfd3536f792",
+      "submission" : 1393,
+      "title" : "L9 -Heaven-",
+      "url" : "https://onedrive.live.com/?id=26D9698EC1CEC044%21212&cid=26D9698EC1CEC044",
+      "url_diff" : "https://darksabun.github.io/event/renewal/"
+   },
+   {
       "artist" : "Soba Yamamori obj.hex",
       "comment" : "",
       "level" : "0",
@@ -11302,6 +11315,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "七草くりむ mov.都森れん obj.Mary_Sue",
+      "comment" : "Dollishの上位譜面",
+      "level" : "2",
+      "md5" : "952afb94446bbf08bd90954954e99926",
+      "proposer" : "Restia",
+      "proposerLr2id" : 115265,
+      "sha256" : "69a11a6af7ceee0e21f859475d70f3ee9b2e1922ea6d94e5b1587627bf5cadbe",
+      "submission" : 1392,
+      "title" : "IDOLL [MARYTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=126&event=133       ",
+      "url_diff" : "https://darksabun.github.io/Mary_Sue/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "SHIKI // BGA:あかくらげ & M.H / selene.",
       "comment" : "物量",
       "level" : "3",
@@ -13674,6 +13701,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "MisomyL obj:mathath / selene.",
+      "comment" : "BPM230の乱打と同時押しなど。LN少し。",
+      "level" : "3",
+      "md5" : "b3cb3cb61f7f1de982223ef4e037e02e",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "ca3475e01b43c9c0f4fc06b71a817ac1f13232f606eace55d7de31c5122bb4cd",
+      "submission" : 1394,
+      "title" : "Catalinesie -Luna-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=442&event=133",
+      "url_diff" : "https://stellabms.xyz/upload/568",
+      "zureCount" : 0
    },
    {
       "artist" : "uet (mov:いかお)",
