@@ -40,6 +40,20 @@
       "url_diff" : "https://bms.parksulab.xyz"
    },
    {
+      "artist" : "tkqn14_Append mov : Ju_E / obj.hex",
+      "comment" : "BPM160-165 多要素",
+      "level" : "4",
+      "md5" : "3056ea6c325121c4d3488bb28d51fac0",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "3bade779c8c27089a1edcc0b6c4b6f48b7d80c4c1d8404f5bd669b6ebe8f6882",
+      "submission" : 1396,
+      "title" : "ぼうけんの森 [Hexagon]",
+      "url" : "http://k-bms.com/party_pabat/party2019.jsp?board_num=19&num=46",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "otoshi.b × みゅい × はしたかさん × BAECON",
       "level" : "4",
       "md5" : "4e8f460102a15b8b885955cf3e094a4d",
@@ -50,6 +64,20 @@
       "title" : "Cong＊Chu＊Jelly [mint flavor]",
       "url" : "https://venue.bmssearch.net/bmsshuin3/54",
       "url_diff" : ""
+   },
+   {
+      "artist" : "TKR/obj.もにもに BGA:seizan",
+      "comment" : "連打系、SPAと比較しズレなし",
+      "level" : "5",
+      "md5" : "55608d3ca34e95dfebbe874babe0c536",
+      "proposer" : "ひろ",
+      "proposerLr2id" : 32696,
+      "sha256" : "faa8078c4b41c1efa8c2ec48768c5f74fe386a7cc26e0fdce5c3870945c46ce6",
+      "submission" : 1395,
+      "title" : "Meaning of Existence [magical]",
+      "url" : "https://www.dropbox.com/s/nbc6lrxvr00d4lr/MoE_TKR.zip?dl=1",
+      "url_diff" : "https://stellabms.xyz/upload/726",
+      "zureCount" : 0
    },
    {
       "artist" : "Flat:nique obj:MineC24",
