@@ -2442,7 +2442,7 @@
    {
       "artist" : "7mai / obj: ∇・tachyon",
       "comment" : "BPM195 微連打、ディレイ",
-      "level" : "10",
+      "level" : "11",
       "md5" : "241e82b318e97de873efaa8d9f107755",
       "proposer" : "SHAX.",
       "proposerLr2id" : 65624,
@@ -4452,19 +4452,6 @@
       "title" : "キミとボクへの葬送歌 [Absolutely kill]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=104&num=4",
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
-   },
-   {
-      "artist" : "Ponchi feat.はぁち obj.霧切杏子",
-      "comment" : "SPIとズレがありますが、ディレイです。(Readmeから)",
-      "level" : "5",
-      "md5" : "3c21b7c732a3f8e49cac9531792ffa9e",
-      "proposer" : "MineC24",
-      "proposerLr2id" : 84597,
-      "sha256" : "87a0693f68a928bdefbf759b4b9913173833da65f4e311b6a5eb42c6b2d5d93d",
-      "submission" : 1326,
-      "title" : "インフェルノシティ [SOUL METRO 地獄鉄 裏号線 新設洞駅 地下死階]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=244&event=133",
-      "url_diff" : "https://darksabun.github.io/event/bofxvi/"
    },
    {
       "artist" : "psi obj:Luft",
@@ -8863,7 +8850,7 @@
    },
    {
       "artist" : "qfeileadh&のあ mov:Kengo Nakao",
-      "level" : "1",
+      "level" : "0",
       "md5" : "72b1ce4b2051bd2a396dfa11a2d785ee",
       "proposer" : "MineC24",
       "proposerLr2id" : 84597,
@@ -17113,7 +17100,7 @@
    },
    {
       "artist" : "LisicA movie : ルゼ(LuzeriA) / illust : Orphee / obj:И + 七海",
-      "level" : "3",
+      "level" : "4",
       "md5" : "e017d69d372af1ffa790ff304af48291",
       "proposer" : "파이어",
       "proposerLr2id" : 7290,
@@ -17577,7 +17564,7 @@
    {
       "artist" : "tarolabo/さ",
       "comment" : "st1強化版",
-      "level" : "11",
+      "level" : "10",
       "md5" : "e721802b0a2eaed03f92765a081c39df",
       "proposer" : "MineC24",
       "proposerLr2id" : 84597,
