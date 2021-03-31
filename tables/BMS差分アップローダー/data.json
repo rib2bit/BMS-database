@@ -7706,7 +7706,7 @@
       "md5" : "1452d09136916d7c52662974686f2769",
       "org_level" : null,
       "title" : "BOBO BOBO ～ボボ ボボ～ BEGINNER",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=274&event=133",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04768"
    },
    {
@@ -10946,7 +10946,7 @@
       "md5" : "1cc3ef8d8b7dec5515d7168e5e03cfa7",
       "org_level" : null,
       "title" : "Transfixation [STERRITE]",
-      "url" : "https://k-bms.com/party_pabat/party2019.jsp?board_num=19&num=51&order=reg&odtype=a",
+      "url" : "http://k-bms.com/party_pabat/party2019.jsp?board_num=19&num=51&order=reg&odtype=a",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04304"
    },
    {
@@ -15446,7 +15446,7 @@
       "md5" : "29ffc6465e3a0f42de801bfd4b919f5e",
       "org_level" : null,
       "title" : "BOBO BOBO ～ボボ ボボ～ INSANE",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=274&event=133",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04768"
    },
    {
@@ -45120,6 +45120,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01194"
    },
    {
+      "adddate" : "2021/03/31 19:48",
+      "artist" : "DOT96 obj.MONO",
+      "comment" : "高速化",
+      "folder" : "2021/03",
+      "genre" : "ROCKIN' DNB",
+      "keys" : 7,
+      "level" : "2021/03",
+      "lr2_bmsid" : "",
+      "md5" : "78f0acdfb532f30bd6f973ccf56f0c88",
+      "org_level" : null,
+      "title" : "MANO CORNUTO -hi speed edit- [MONO]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05162"
+   },
+   {
       "adddate" : "2020/03/09 00:18",
       "artist" : "uma feat. ましろ obj.Mallow♪",
       "comment" : "東方音弾遊戯9のBMS作品限定で差分を作るイベントに提出された34作品。HP→http://ur0.work/RjIQ",
@@ -58635,6 +58650,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04279"
    },
    {
+      "adddate" : "2021/04/01 01:23",
+      "artist" : "U-MA vs. CirCy Remixed by BAGROOTER",
+      "comment" : "",
+      "folder" : "2021/04",
+      "genre" : "minimal psybient",
+      "keys" : 7,
+      "level" : "2021/04",
+      "lr2_bmsid" : "",
+      "md5" : "9c621b075f3dac08019a0edcdf57d55c",
+      "org_level" : null,
+      "title" : "Tricomposit(Remix)",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05163"
+   },
+   {
       "adddate" : "2017/08/24 17:25",
       "artist" : "MA$AKI /obj.O",
       "comment" : "00166の簡単版 MAX-BPMでOK",
@@ -68276,7 +68306,7 @@
       "md5" : "b3cb3cb61f7f1de982223ef4e037e02e",
       "org_level" : null,
       "title" : "Catalinesie -Luna-",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=442&event=133",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04905"
    },
    {
@@ -69583,6 +69613,21 @@
       "title" : "no mean eye -meaningless-",
       "url" : "",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01854"
+   },
+   {
+      "adddate" : "2021/03/31 19:48",
+      "artist" : "DOT96 obj.stereo",
+      "comment" : "高速化",
+      "folder" : "2021/03",
+      "genre" : "ROCKIN' DNB",
+      "keys" : 7,
+      "level" : "2021/03",
+      "lr2_bmsid" : "",
+      "md5" : "b75b1b3027ddd9105797033944ba549b",
+      "org_level" : null,
+      "title" : "MANO CORNUTO -hi speed edit-[stereo]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05162"
    },
    {
       "adddate" : "2020/01/17 11:49",
