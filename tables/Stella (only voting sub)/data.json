@@ -27,6 +27,33 @@
       "zureCount" : 0
    },
    {
+      "artist" : "ridis /obj. laner",
+      "level" : "3",
+      "md5" : "7308ca05265bdaded630375665e7b0b3",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "c396e12e7d094cc828ac287a7cac97a6d956f614506284005ef1bbe107669fac",
+      "submission" : 1397,
+      "title" : "Rigel [mayones]",
+      "url" : "https://onedrive.live.com/?authkey=%21AJleBqQEnxtF%2DuQ&id=B34BD1F8ACE93FD7%21138&cid=B34BD1F8ACE93FD7",
+      "url_diff" : "https://web.archive.org/web/20190322230138/http://www.hyper-laner.com/sabun/all201807_laner.rar",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "Ninja Action Team / selene.",
+      "comment" : "BPM149 微縦",
+      "level" : "2",
+      "md5" : "7475064331247e0c1dfcb7f61d6c87a7",
+      "proposer" : "垢伴次郎",
+      "proposerMinirid" : "39fcf843-3931-4605-a729-2f3f61d0970b",
+      "sha256" : "1d22873c3739351a2fb0aa8364755f4ccfc8b1a727d1a5daf75cf0042dcdbd10",
+      "submission" : 1399,
+      "title" : "Born -彼岸-",
+      "url" : "http://ninjaactionteam.sakura.ne.jp/sakuhin_bms.html",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Coco / obj:alt",
       "level" : "2",
       "md5" : "79c1ad2bd63bd1c2595e5ee3db2e25fd",
@@ -43,6 +70,19 @@
       "voteYes" : 3
    },
    {
+      "artist" : "FOLiACETATE obj.mn",
+      "level" : "4",
+      "md5" : "9b014afcf845da8dc2dd9689224c6777",
+      "proposer" : "파이어",
+      "proposerLr2id" : 7290,
+      "sha256" : "162bb77fc03399a35f4dadb18cb7f52f45a99a9fcb5687bf450d788ac98ee04e",
+      "submission" : 1398,
+      "title" : "Heterochromia Iridis [EX]",
+      "url" : "http://leafbms.web.fc2.com/song.html",
+      "url_diff" : "http://stairway.sakura.ne.jp/dosukoi/index.htm",
+      "zureCount" : 0
+   },
+   {
       "artist" : "MisomyL obj:mathath / selene.",
       "comment" : "BPM230の乱打と同時押しなど。LN少し。",
       "level" : "3",
@@ -55,6 +95,19 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=442&event=133",
       "url_diff" : "https://stellabms.xyz/upload/568",
       "zureCount" : 0
+   },
+   {
+      "artist" : "qfeileadh feat.kei_iwata mov:e381b5e38187e38184e38286e3818ae38186",
+      "comment" : "う",
+      "level" : "1",
+      "md5" : "e86e5e6e9b5409e86cd40d6c8cb402f6",
+      "proposer" : "AYhaz",
+      "proposerLr2id" : 123475,
+      "sha256" : "3c87e4d189b69591666b8e7ae4bc9c40d38639a1e8d61a28d3c7c3e52d472ce9",
+      "submission" : 1400,
+      "title" : "whence [whither]",
+      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=21&num=38&order=reg&odtype=a",
+      "url_diff" : ""
    },
    {
       "artist" : "remixed celas feat.ARU Notes:OREN-G",
