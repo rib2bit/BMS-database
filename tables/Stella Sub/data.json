@@ -545,6 +545,18 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Airylic M-SPIN",
+      "level" : "7",
+      "md5" : "08e499d3c49724fee3b1335708e4f208",
+      "proposer" : "Guaema",
+      "proposerLr2id" : 73333,
+      "sha256" : "15c9584a5c897dd7ef17117e2553b31b4168c41dff05d79b9fcaeb3ff4255b11",
+      "submission" : 1403,
+      "title" : "Tears of the Sunrise [No More Tears]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=104",
+      "url_diff" : "https://darksabun.github.io/event/renewal/"
+   },
+   {
       "artist" : "DJ Saw-Low / obj:秘密 vs BAECON",
       "comment" : "★★5; 天皇賞",
       "level" : "7",
@@ -3356,6 +3368,20 @@
       "zureCount" : 0
    },
    {
+      "artist" : "69 de 74 BGI:れおん / obj.hex",
+      "comment" : "st6~7 madness",
+      "level" : "7",
+      "md5" : "2f6e2c4f802c932f00b3b8ee4c593083",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "5c1c6cda9854bc30c82ddb1b612e04a18753a979d67175e8ecb84b4040a2c754",
+      "submission" : 1402,
+      "title" : "マッドメチャクチャニズム [Hexagon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=127",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "秋月アキラ feat. 保堂 京 obj:monaka",
       "comment" : "BPM224 区切り8分同時押し、24分螺旋階段",
       "level" : "0",
@@ -4892,7 +4918,7 @@
    {
       "artist" : "fmy. × TrioStaR × Lylica* × ｂ cislv × Mentalstock / Notes:キラ",
       "comment" : "ガチ押し | st1~2",
-      "level" : "1",
+      "level" : "2",
       "md5" : "428854a0ba981d8befba26db97dd5ae0",
       "proposer" : "MIUNA",
       "proposerLr2id" : 122137,
@@ -6218,6 +6244,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "おみー obj. LuvTek",
+      "level" : "2",
+      "md5" : "51c54a58f1b9c6a6c9f9642ec2779370",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "3fe69f64d2d1793b2ae1cae777c5550bc1a041f907bbd63663767ac5545c698a",
+      "submission" : 1406,
+      "title" : "Girl's Heart ～人形少女 [Dishonest]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=118&event=133",
+      "url_diff" : "https://darksabun.github.io/event/bofxvi/",
+      "zureCount" : 0
    },
    {
       "artist" : "Se-U-Ra / И",
@@ -8714,6 +8753,19 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
    },
    {
+      "artist" : "SHIKI movie:Nyu / putain",
+      "comment" : "WAVファイルが追加されたのでズレがあります",
+      "level" : "1",
+      "md5" : "70fe11d2dce993a95cb1151a02d7d6d0",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "8230f923c5a2cbd3dc237e3573da4549673ab4d2dc4b182d894814f9db51bc62",
+      "submission" : 1404,
+      "title" : "Crystal palace [GOD]",
+      "url" : "http://shiki2.sakura.ne.jp/fohs.html",
+      "url_diff" : "https://stellabms.xyz/upload/739"
+   },
+   {
       "artist" : "void / obj:Tristan97 Momomi Aoyama",
       "comment" : "物量",
       "level" : "0",
@@ -10908,6 +10960,19 @@
       "url_diff" : "https://web.archive.org/web/20190322230138/http://www.hyper-laner.com/sabun/all201807_laner.rar"
    },
    {
+      "artist" : "Is-m & muramasa obj.fhyu",
+      "comment" : "st2~3 (arrange sabun, no misalignment compared to gravitronicⅠ -ANOTHER-)",
+      "level" : "2",
+      "md5" : "8f070b86221e89714fed93bd1eed3eaa",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "79178003ee7786e1f297aa8aaca98ef1b051337355aed7a291baa4fdcde8eb15",
+      "submission" : 1401,
+      "title" : "gravitronicⅠ -ONE MORE EXTRA-",
+      "url" : "http://www.is-m.jp/",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02780"
+   },
+   {
       "artist" : "哀愁マニア",
       "comment" : "★★5",
       "level" : "8",
@@ -12291,6 +12356,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Felisica / BGA:空読無 白眼 / Obj:И",
+      "comment" : "BPM169 微連打",
+      "level" : "3",
+      "md5" : "a10a71e34431f64f8950263ccf22428d",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "9229c2907e2947b3da0c16afafc1fb5a31c2414c826d3c8e3810adca4dba3480",
+      "submission" : 1407,
+      "title" : "Klartraum (7keys Insane)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=120",
+      "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
       "artist" : "Kuwagata / obj:七海",
       "comment" : "st5~6",
       "level" : "5",
@@ -12891,6 +12969,19 @@
       "title" : "ペニンシュラの踊り子 The dancer of a peninsula [Hexagon]",
       "url" : "http://clockxellox.sakura.ne.jp/BMS/Peninsular.zip",
       "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html"
+   },
+   {
+      "artist" : "kanoryo BGI.:MOAI WORKS / obj.:LuvTek / reobj.:BMS Newbie",
+      "level" : "1",
+      "md5" : "a7e56dd90eceaeeef9d932ec683b8ed1",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "aeeb702590a58a329debceb819c503871dd3fc24a21f13a94b8d0d8ee390173c",
+      "submission" : 1405,
+      "title" : "Seiren [Silence]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=235&event=127",
+      "url_diff" : "https://bms.parksulab.xyz",
+      "zureCount" : 0
    },
    {
       "artist" : "Judah BGA:Lucifer",
@@ -16660,6 +16751,20 @@
       "title" : "CODE-F -soar to the Frontier- [frontier]",
       "url" : "http://flowermaster.web.fc2.com/iwatabms/index.html",
       "url_diff" : ""
+   },
+   {
+      "artist" : "Potwi obj: qtp13",
+      "comment" : "BPM162 微連打",
+      "level" : "4",
+      "md5" : "d7e6e2281fb817239a363d4c8afd3200",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "0d4de929cb7d05cae243b57a60614d66f046fc8fd801d31194550e9cc732d414",
+      "submission" : 1408,
+      "title" : "U-knighted Servant [Finite Code // rev.]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=494&event=133",
+      "url_diff" : "https://stellabms.xyz/upload/639",
+      "zureCount" : 0
    },
    {
       "artist" : "Le Dos-on arranged by s-don illust : jubeated / obj.hex",

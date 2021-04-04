@@ -1,5 +1,17 @@
 [
    {
+      "artist" : "Airylic M-SPIN",
+      "level" : "7",
+      "md5" : "08e499d3c49724fee3b1335708e4f208",
+      "proposer" : "Guaema",
+      "proposerLr2id" : 73333,
+      "sha256" : "15c9584a5c897dd7ef17117e2553b31b4168c41dff05d79b9fcaeb3ff4255b11",
+      "submission" : 1403,
+      "title" : "Tears of the Sunrise [No More Tears]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=104",
+      "url_diff" : "https://darksabun.github.io/event/renewal/"
+   },
+   {
       "artist" : "MILK / И",
       "comment" : "音源が追加されたので同梱差分とはズレチェックができません。代わりに差分ファイル同梱のmilk-kyrka-addsound-0noteとはズレなし。",
       "level" : "3",
@@ -11,6 +23,20 @@
       "title" : "kyrka [Haereticum]",
       "url" : "http://diverse.jp/dbhtml/",
       "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
+      "artist" : "69 de 74 BGI:れおん / obj.hex",
+      "comment" : "st6~7 madness",
+      "level" : "7",
+      "md5" : "2f6e2c4f802c932f00b3b8ee4c593083",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "5c1c6cda9854bc30c82ddb1b612e04a18753a979d67175e8ecb84b4040a2c754",
+      "submission" : 1402,
+      "title" : "マッドメチャクチャニズム [Hexagon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=127",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html",
+      "zureCount" : 0
    },
    {
       "artist" : "tkqn14_Append mov : Ju_E / obj.hex",
@@ -25,6 +51,32 @@
       "url" : "http://k-bms.com/party_pabat/party2019.jsp?board_num=19&num=46",
       "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html",
       "zureCount" : 0
+   },
+   {
+      "artist" : "おみー obj. LuvTek",
+      "level" : "2",
+      "md5" : "51c54a58f1b9c6a6c9f9642ec2779370",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "3fe69f64d2d1793b2ae1cae777c5550bc1a041f907bbd63663767ac5545c698a",
+      "submission" : 1406,
+      "title" : "Girl's Heart ～人形少女 [Dishonest]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=118&event=133",
+      "url_diff" : "https://darksabun.github.io/event/bofxvi/",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "SHIKI movie:Nyu / putain",
+      "comment" : "WAVファイルが追加されたのでズレがあります",
+      "level" : "1",
+      "md5" : "70fe11d2dce993a95cb1151a02d7d6d0",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "8230f923c5a2cbd3dc237e3573da4549673ab4d2dc4b182d894814f9db51bc62",
+      "submission" : 1404,
+      "title" : "Crystal palace [GOD]",
+      "url" : "http://shiki2.sakura.ne.jp/fohs.html",
+      "url_diff" : "https://stellabms.xyz/upload/739"
    },
    {
       "artist" : "ridis /obj. laner",
@@ -70,6 +122,19 @@
       "voteYes" : 3
    },
    {
+      "artist" : "Is-m & muramasa obj.fhyu",
+      "comment" : "st2~3 (arrange sabun, no misalignment compared to gravitronicⅠ -ANOTHER-)",
+      "level" : "2",
+      "md5" : "8f070b86221e89714fed93bd1eed3eaa",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "79178003ee7786e1f297aa8aaca98ef1b051337355aed7a291baa4fdcde8eb15",
+      "submission" : 1401,
+      "title" : "gravitronicⅠ -ONE MORE EXTRA-",
+      "url" : "http://www.is-m.jp/",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02780"
+   },
+   {
       "artist" : "FOLiACETATE obj.mn",
       "level" : "4",
       "md5" : "9b014afcf845da8dc2dd9689224c6777",
@@ -80,6 +145,32 @@
       "title" : "Heterochromia Iridis [EX]",
       "url" : "http://leafbms.web.fc2.com/song.html",
       "url_diff" : "http://stairway.sakura.ne.jp/dosukoi/index.htm",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "Felisica / BGA:空読無 白眼 / Obj:И",
+      "comment" : "BPM169 微連打",
+      "level" : "3",
+      "md5" : "a10a71e34431f64f8950263ccf22428d",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "9229c2907e2947b3da0c16afafc1fb5a31c2414c826d3c8e3810adca4dba3480",
+      "submission" : 1407,
+      "title" : "Klartraum (7keys Insane)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=120",
+      "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
+      "artist" : "kanoryo BGI.:MOAI WORKS / obj.:LuvTek / reobj.:BMS Newbie",
+      "level" : "1",
+      "md5" : "a7e56dd90eceaeeef9d932ec683b8ed1",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "aeeb702590a58a329debceb819c503871dd3fc24a21f13a94b8d0d8ee390173c",
+      "submission" : 1405,
+      "title" : "Seiren [Silence]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=235&event=127",
+      "url_diff" : "https://bms.parksulab.xyz",
       "zureCount" : 0
    },
    {
@@ -97,6 +188,20 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Potwi obj: qtp13",
+      "comment" : "BPM162 微連打",
+      "level" : "4",
+      "md5" : "d7e6e2281fb817239a363d4c8afd3200",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "0d4de929cb7d05cae243b57a60614d66f046fc8fd801d31194550e9cc732d414",
+      "submission" : 1408,
+      "title" : "U-knighted Servant [Finite Code // rev.]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=494&event=133",
+      "url_diff" : "https://stellabms.xyz/upload/639",
+      "zureCount" : 0
+   },
+   {
       "artist" : "qfeileadh feat.kei_iwata mov:e381b5e38187e38184e38286e3818ae38186",
       "comment" : "う",
       "level" : "1",
@@ -108,21 +213,5 @@
       "title" : "whence [whither]",
       "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=21&num=38&order=reg&odtype=a",
       "url_diff" : ""
-   },
-   {
-      "artist" : "remixed celas feat.ARU Notes:OREN-G",
-      "level" : "0",
-      "md5" : "fda4ee1b8c03b7b4a9610d3e9a97c9b0",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "47285b3567e8794c01fc8b9d36c9eb7a9f4bfdc2ca296bd3592cffd28888a231",
-      "submission" : 785,
-      "title" : "BlythE:ExtenD [MUST DIE]",
-      "url" : "https://web.archive.org/web/20160808001644/http://creation-records.info:80/bms/blythe_r_ogg.rar",
-      "url_diff" : "https://darksabun.github.io/mirror/absolute/uploader/up1959.zip",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
    }
 ]

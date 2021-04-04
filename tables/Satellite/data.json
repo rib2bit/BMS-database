@@ -71,6 +71,18 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html"
    },
    {
+      "artist" : "First Class obj. w",
+      "comment" : "同時押し,乱打,LN",
+      "level" : "4",
+      "md5" : "012acdf138ea86da12cb86f95d8735f5",
+      "proposer" : "SUZUKAZEΛ",
+      "sha256" : "85e704931965be0fc09ec3e17307f283e46a177bdaeb68e4cfa75e1394938045",
+      "submission" : 1892,
+      "title" : "fancy bus [W]",
+      "url" : "http://starkey.ivory.ne.jp/bemusicwest/bmw2/detail/view/3/",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04315"
+   },
+   {
       "artist" : "Zekk BGA : yusi",
       "comment" : "G2R2018、皿同時押し、微LN、微皿、トリル",
       "level" : "0",
@@ -475,6 +487,18 @@
       "title" : "オリヴィアの幻術 [Close-up]",
       "url" : "http://aoi.prismusic.net/bms/olivia.rar",
       "url_diff" : "http://swamelo.web.fc2.com/_olivia_Close-up_Mitto.bme"
+   },
+   {
+      "artist" : "Tanchiky Obj.Triforce",
+      "comment" : "",
+      "level" : "10",
+      "md5" : "07d0643bd73d5aba7415b513003b38cf",
+      "proposer" : "nozomi",
+      "sha256" : "af79cf59bbec565c61c4ea2b4acdce20d77b0f5a06c24b378205fcfb0a297a29",
+      "submission" : 1905,
+      "title" : "ENERGY SYNERGY MATRIX [Nemesis]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=484&event=116",
+      "url_diff" : "https://www.dropbox.com/s/yzypux2sm0ujefe/_esm_triforce.bme?dl=1"
    },
    {
       "artist" : "daisan feat. えみゅう。 / zue-row obj : swa vs 0samil0",
@@ -1738,7 +1762,7 @@
    {
       "artist" : "2TORI / obj:numuto",
       "comment" : "artistic",
-      "level" : "9",
+      "level" : "10",
       "md5" : "1f1ada3e57c4ffeb74be2bbd9b01039c",
       "proposer" : "yy",
       "sha256" : "57725d6523fc1764d407ea792970549c02834553618a36f492edf327dfc29246",
@@ -6509,6 +6533,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/"
    },
    {
+      "artist" : "LisicA movie : ルゼ(LuzeriA) / illust : Orphee / obj : スノート",
+      "comment" : "乱打、縦連、ディレイ、同梱03_tamamo_spa.bms基準ズレ無し。",
+      "level" : "12",
+      "md5" : "78897b6144c95a866b645f8d0a222959",
+      "proposer" : "ぶんぺ～",
+      "sha256" : "ca1428560a1d037ffaa5eef0e4ce13f0f10851deb927307195990486e013cc4b",
+      "submission" : 1902,
+      "title" : "タマモッチ [Snother]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=200&event=133",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05062"
+   },
+   {
       "artist" : "Larimar / 制限 Movie : Hauynite",
       "level" : "1",
       "md5" : "78913c122c82dccd0f2d74a703246d98",
@@ -7806,6 +7842,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Feryquitous Sennzai / Dazzle / Cymby",
+      "comment" : "치는맛이 매우 좋아 추천해봅니다.",
+      "level" : "5",
+      "md5" : "8faa0fc06a989fdb3f153e38ac7efddd",
+      "proposer" : "nozomi",
+      "sha256" : "162ce72ff89213cf87057b734b4b376589b8427865e1ed740161950f0227c0d4",
+      "submission" : 1880,
+      "title" : "Strahv -Encore-",
+      "url" : "http://www.dropbox.com/s/14sbfaq70lsr2ev/%5BFeryquitous%5DStrahv.zip?dl=1",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Est/さ",
       "level" : "7",
       "md5" : "8ff8f7dca521b31d3097066e97874540",
@@ -8430,7 +8478,7 @@
    },
    {
       "artist" : "カラフル・サウンズ・ポート obj:Fendou",
-      "level" : "6",
+      "level" : "5",
       "md5" : "9d50bbfc4adff7faef7f86b8e731b185",
       "proposer" : "Star*",
       "sha256" : "6e9c809f8e96aa9f9df0e5b3a582ec35dd8f2d9f75c6d647b3bd4175af9b6409",
@@ -9206,7 +9254,7 @@
    {
       "artist" : "ETIA. feat.Jenga jubeated",
       "comment" : "低速縦連",
-      "level" : "1",
+      "level" : "2",
       "md5" : "ab57c9999681616cf61bf746a6a4170a",
       "proposer" : "スノート",
       "sha256" : "11ce03eba51b2aeec91f259afdc6a73ed407b6da98f31b7edd363c9664ed07eb",
@@ -10056,7 +10104,7 @@
    {
       "artist" : "天使真央 obj.森さん",
       "comment" : "BPM180 高速階段",
-      "level" : "9",
+      "level" : "10",
       "md5" : "b7143d7df5c81feddfdabefdf3704320",
       "proposer" : "SHAX.",
       "sha256" : "d43bef970c7c25262744bec74fdbc8e2aa820dc037d422cd7567d68a5d200c1a",
@@ -10213,6 +10261,18 @@
       "title" : "Maxi [Ephedrine]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=110",
       "url_diff" : "http://lapisbms.web.fc2.com/"
+   },
+   {
+      "artist" : "Nycticebus",
+      "comment" : "衆議院選第三回/同梱譜面",
+      "level" : "1",
+      "md5" : "b914da45e4dbf5599b7edee4d3c7e8a9",
+      "proposer" : "TR1",
+      "sha256" : "465d3dfa629df1d63e610b86dcd272b83851fa2603ccb70ae7726f5c166e3949",
+      "submission" : 1886,
+      "title" : "Mondlicht [SP ANOTHER]",
+      "url" : "https://venue.bmssearch.net/bmsshuin3/72",
+      "url_diff" : ""
    },
    {
       "artist" : "Syatten / obj:BAECON",

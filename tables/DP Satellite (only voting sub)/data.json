@@ -1,5 +1,46 @@
 [
    {
+      "artist" : "NIKITA / Obj:ゆ～兎",
+      "comment" : "5~6?",
+      "level" : "6",
+      "md5" : "11c50f76c098e858c2b61e04db177ecc",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "446351f3aa332476df8918165261c7c13853129631874b8d2fd956f6fc65c221",
+      "submission" : 501,
+      "title" : "DESPERATE [DP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=88",
+      "url_diff" : "http://web.archive.org/web/20140921042604/http://timetorain.web.fc2.com/sabun/DESPERATE_ogg_YH.zip",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "Junk / obj:十六夜",
+      "comment" : "3~4?",
+      "level" : "4",
+      "md5" : "5ccbb93e6752084e3226246260ed9eb3",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "95119b4593acbf703bc424d9e7633643a30b0040b4f84670e78af0baa92e331f",
+      "submission" : 498,
+      "title" : "Life is PIANO [DPYoither]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=375&event=123",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/572",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "anubasu-anubasu BGA by 出前 / obj:Lilium",
+      "comment" : "dpbms_0934.zip　SPHとの35.57小節のDOキー音ズレはSPN,Aと比較して異常なし",
+      "level" : "6",
+      "md5" : "925a23c6e9de8b91bb22f6f6c7e368cd",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "311b31c808eabfa3fe5f4a88d98284bd6268cc5f98a149e07d6c1773239b24d3",
+      "submission" : 499,
+      "title" : "Jack o' Lantern -14keys-",
+      "url" : "http://bmssearch.net/bms?id=5163",
+      "url_diff" : "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download"
+   },
+   {
       "artist" : "-45 / obj: black train",
       "level" : "9",
       "md5" : "c3bf136bd9de6d08e6a212aae47f8813",
@@ -14,5 +55,31 @@
       "voteNo" : 1,
       "votePercent" : 66.6666666666667,
       "voteYes" : 2
+   },
+   {
+      "artist" : "NS-Factory × deadblue238 × hi-low Obj:GO--YA",
+      "level" : "5",
+      "md5" : "c961c5ba3da39fe054fb91e48da9daaa",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "e8b82381f9f62da52bb5d25bc6f892f26ef95c47579bf8b45738bd665aa9f5c8",
+      "submission" : 500,
+      "title" : "Infinite Galaxy",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=330&event=83",
+      "url_diff" : "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "Music:しらいし/obj:tts1374",
+      "comment" : "3~4? 同時押し",
+      "level" : "4",
+      "md5" : "f08008100ce91d1a162f1ccbe5ff59af",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "94dc75fd7baec581b0eb8a1ddd665566ca20c2e027f8509d1d0b7fec8bcd0ed7",
+      "submission" : 497,
+      "title" : "Happico Happico -Dream and sweets remix- (14Another)",
+      "url" : "https://shiraishi2007.exblog.jp/27987601/",
+      "url_diff" : ""
    }
 ]
