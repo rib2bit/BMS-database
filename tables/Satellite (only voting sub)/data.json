@@ -92,6 +92,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "あとぅす feat.橘花音 BGI:りーふぱいザウルス",
+      "comment" : "동봉채보, 연타가 조금 섞인 입문 차분",
+      "level" : "0",
+      "md5" : "152868a80cee75a86411bdc60c68dd36",
+      "proposer" : "nozomi",
+      "proposerLr2id" : 115265,
+      "sha256" : "4150102aeeaebfddc00089fe2bb88de602257e31feed54c94954b9c8b454360a",
+      "submission" : 1940,
+      "title" : "LAST PROPOZE [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=124&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "shimizushi / obj kohane BGA : vol-t & a.a",
       "comment" : "delay",
       "level" : "4",
@@ -317,6 +330,22 @@
       "zureCount" : 0
    },
    {
+      "artist" : "MORRIGAN / obj:Felisica",
+      "level" : "12",
+      "md5" : "7c6a1c1af2862f457bc8dababc84f59c",
+      "proposer" : "AYhaz",
+      "proposerLr2id" : 123475,
+      "sha256" : "8c8fbeda570e0fbeead5d97f230dfd7051f24a08ac01ab2b04ad2e1e4fb4e92a",
+      "submission" : 1555,
+      "title" : "the core [core]",
+      "url" : "http://web.archive.org/web/20070105100125/http://pal.mydns.to:80/morrigan/jazz/bms/core.rar",
+      "url_diff" : "http://fuki1755.starfree.jp/sabun/the_core_fel.zip",
+      "voteNeutral" : 3,
+      "voteNo" : 5,
+      "votePercent" : 40.9090909090909,
+      "voteYes" : 3
+   },
+   {
       "artist" : "m108 / obj:夢瑠 BGA : 砂糖天麩羅 / シキイチル",
       "comment" : "低速/二重乱打/ディレイ",
       "level" : "9",
@@ -407,6 +436,20 @@
       "title" : "20,November (ELE FUTURE mix) [EX]",
       "url" : "https://web.archive.org/web/20120120215633/http://www3.pf-x.net/~boxism-8500/bms/20nov_ele.rar",
       "url_diff" : "https://dl.dropboxusercontent.com/s/p93qyduwvqe01tt/20novemberelefuturemix_ex.rar",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "eicateve tonishina[vocal] 高松[movie] 森永君尋[illust] MineC24[object]",
+      "comment" : "",
+      "level" : "5",
+      "md5" : "a2b6255523f2bafd16b058ab5ad5b425",
+      "proposer" : "nozomi",
+      "proposerLr2id" : 115265,
+      "sha256" : "b1cc3ce58c22f25dbad9b118e50f315dc2ee6a7a00f55c5110f982528180f1d2",
+      "submission" : 1939,
+      "title" : "itsuka [明日また会えるよね]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=428&event=116",
+      "url_diff" : "https://www.dropbox.com/s/oxveyrom8wax74b/15_itsuka_spegs.bms?dl=0",
       "zureCount" : 0
    },
    {
@@ -577,6 +620,19 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=133",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05138",
       "zureCount" : 0
+   },
+   {
+      "artist" : "Remixed by Yamajet Movie : iimo /  Obj : rat",
+      "comment" : "for HARD判定 LOVERS",
+      "level" : "11",
+      "md5" : "e84b5f86da122a9f3eab5e5e4faf181f",
+      "proposer" : "AYhaz",
+      "proposerLr2id" : 123475,
+      "sha256" : "2644dbf7d4260fd23e54db4b8959b2855b0c79f2a206e1013ccebe2cb4fe8c0b",
+      "submission" : 1941,
+      "title" : "SpellBound [7KEYS INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=77&event=132",
+      "url_diff" : ""
    },
    {
       "artist" : "HOUJIROU / obj:marquee",
