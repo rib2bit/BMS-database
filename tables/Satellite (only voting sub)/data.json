@@ -330,6 +330,30 @@
       "zureCount" : 0
    },
    {
+      "artist" : "q/stol / obj_jakko",
+      "level" : "3",
+      "md5" : "73e45d6f82b6d69bad566cdddca277cf",
+      "proposer" : "DJ_Shoko2DX",
+      "proposerMinirid" : "547f7c56-0e6d-41ae-b376-76c0272bce33",
+      "sha256" : "0d6878a066ce64c773cdcf9ef48a65bf97ca63d760b0edaa1868023ff248acd0",
+      "submission" : 1943,
+      "title" : "GIN TONIC FLAVOR [aspER7]",
+      "url" : "http://qstol.info/BMS/gin_tonic_flavor.zip",
+      "url_diff" : "https://www.axfc.net/u/3990028"
+   },
+   {
+      "artist" : "Chino obj.screw",
+      "level" : "1",
+      "md5" : "758dcee38a5931b3fb0d0a61feddb324",
+      "proposer" : "DJ_Shoko2DX",
+      "proposerMinirid" : "547f7c56-0e6d-41ae-b376-76c0272bce33",
+      "sha256" : "d755d9e99a3a21f64c359999f905248441fd025338306eba3d712ce0acd52fc3",
+      "submission" : 1942,
+      "title" : "Espresso Shots [convert]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=96",
+      "url_diff" : "http://absolute.pv.land.to/uploader/src/up5502"
+   },
+   {
       "artist" : "MORRIGAN / obj:Felisica",
       "level" : "12",
       "md5" : "7c6a1c1af2862f457bc8dababc84f59c",
