@@ -9965,6 +9965,20 @@
       "url_diff" : "https://stellabms.xyz/upload/333"
    },
    {
+      "artist" : "あまつち探検隊 Arkplot + 杠葉えりか / extra",
+      "comment" : "鍵盤特化",
+      "level" : "4",
+      "md5" : "5db7bef388eef5816d2caf4231a37ec2",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "f6a3d997936dc7e3b37bfa2ad8b1e8c7a0ce9e282396fdd274ac9774743f0900",
+      "submission" : 1945,
+      "title" : "プラネット -Nebula-",
+      "url" : "https://venue.bmssearch.net/bmsshuin3/80",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04984",
+      "zureCount" : 0
+   },
+   {
       "artist" : "EmoCo. / 玲架 obj. Lapis",
       "comment" : "総合力、皿",
       "level" : "4",
@@ -14689,6 +14703,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "円湯(Maroyu)",
+      "comment" : "同時押し、微縦連、乱打、LN　sl3-4?",
+      "level" : "3",
+      "md5" : "8afdf8703ce4597e7ac71f3bf37756f1",
+      "proposer" : "たる",
+      "proposerLr2id" : 146726,
+      "sha256" : "5a1727f05a0a8da45262b14d655bf651fe02abc9760480ffe4f1a97baecded22",
+      "submission" : 1944,
+      "title" : "Digital Signage [W]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=83&event=133",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05072",
+      "zureCount" : 0
    },
    {
       "artist" : "髭姫 feat. えみゅう。/obj:comet",

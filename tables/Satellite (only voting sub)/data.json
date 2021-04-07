@@ -288,6 +288,20 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05028"
    },
    {
+      "artist" : "あまつち探検隊 Arkplot + 杠葉えりか / extra",
+      "comment" : "鍵盤特化",
+      "level" : "4",
+      "md5" : "5db7bef388eef5816d2caf4231a37ec2",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "f6a3d997936dc7e3b37bfa2ad8b1e8c7a0ce9e282396fdd274ac9774743f0900",
+      "submission" : 1945,
+      "title" : "プラネット -Nebula-",
+      "url" : "https://venue.bmssearch.net/bmsshuin3/80",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04984",
+      "zureCount" : 0
+   },
+   {
       "artist" : "削除 / 140 / obj:SUKIMA",
       "comment" : "BPM155 乱打",
       "level" : "3",
@@ -328,6 +342,22 @@
       "url" : "https://venue.bmssearch.net/bmsshuin2/83",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03239",
       "zureCount" : 0
+   },
+   {
+      "artist" : "前川みく + 多田李衣菜",
+      "level" : "0",
+      "md5" : "6a03edca1637f868cc1e89654f2bf599",
+      "proposer" : "ИИ",
+      "proposerLr2id" : 147895,
+      "sha256" : "745726982ca93b27afa745366c1bebbbcb0f7c0d9bcc3222c1e86a0731650e26",
+      "submission" : 1449,
+      "title" : "Rockstar [ANOTHER]",
+      "url" : "https://k-bms.com/party_pabat/party2016.jsp?board_num=16&num=9&order=reg&odtype=a",
+      "url_diff" : "",
+      "voteNeutral" : 6,
+      "voteNo" : 3,
+      "votePercent" : 72.7272727272727,
+      "voteYes" : 13
    },
    {
       "artist" : "q/stol / obj_jakko",
@@ -406,6 +436,20 @@
       "title" : "Stargazer [Gaussian prime]",
       "url" : "https://onedrive.live.com/?authkey=%21ACus%5FtYiwMpTc6A&id=B32C1D1F5C2CC841%21111&cid=B32C1D1F5C2CC841#authkey=%21ACus%5FtYiwMpTc6A&cid=B32C1D1F5C2CC841&id=B32C1D1F5C2CC841%21132&parId=B32C1D1F5C2CC841%21111&action=defaultclick",
       "url_diff" : "https://darksabun.github.io/event/renewal/",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "円湯(Maroyu)",
+      "comment" : "同時押し、微縦連、乱打、LN　sl3-4?",
+      "level" : "3",
+      "md5" : "8afdf8703ce4597e7ac71f3bf37756f1",
+      "proposer" : "たる",
+      "proposerLr2id" : 146726,
+      "sha256" : "5a1727f05a0a8da45262b14d655bf651fe02abc9760480ffe4f1a97baecded22",
+      "submission" : 1944,
+      "title" : "Digital Signage [W]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=83&event=133",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05072",
       "zureCount" : 0
    },
    {
