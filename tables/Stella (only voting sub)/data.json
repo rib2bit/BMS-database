@@ -120,6 +120,22 @@
       "zureCount" : 0
    },
    {
+      "artist" : "SHIKI / black train",
+      "level" : "0",
+      "md5" : "751738dea1169c5c39db935adfc9e85f",
+      "proposer" : "nozomi",
+      "proposerLr2id" : 115265,
+      "sha256" : "d63e801eb3779633285fc22d2e37a64c8d2768241c13c5ce4b7dd0ac53b16bc6",
+      "submission" : 865,
+      "title" : "Air -GOD-",
+      "url" : "http://web.archive.org/web/20051118202018/http://www.remarkablesense.org/~shiki/air.exe",
+      "url_diff" : "http://absolute.pv.land.to/Anotherbms.html",
+      "voteNeutral" : 3,
+      "voteNo" : 15,
+      "votePercent" : 66.3265306122449,
+      "voteYes" : 31
+   },
+   {
       "artist" : "Coco / obj:alt",
       "level" : "2",
       "md5" : "79c1ad2bd63bd1c2595e5ee3db2e25fd",
