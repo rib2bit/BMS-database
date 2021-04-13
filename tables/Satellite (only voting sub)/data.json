@@ -134,6 +134,22 @@
       "url_diff" : "https://darksabun.github.io/mirror/absolute/uploader/up5112.zip"
    },
    {
+      "artist" : "Notorious(Nota & TRIAL) BGA:inukoro",
+      "level" : "2",
+      "md5" : "17a6ceb271b925c80eceee9523ed1bc6",
+      "proposer" : "C4",
+      "proposerLr2id" : 120385,
+      "sha256" : "b11504fc665e442b69ef99b8cfae853257574545bf63d2e36d722be3c6128a83",
+      "submission" : 1833,
+      "title" : "GIFT [7key Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=76&event=133",
+      "url_diff" : "",
+      "voteNeutral" : 7,
+      "voteNo" : 2,
+      "votePercent" : 71.0526315789474,
+      "voteYes" : 10
+   },
+   {
       "artist" : "kireji obj. DK + Limite",
       "comment" : "ソフラン、乱打、同時押しなど",
       "level" : "3",
@@ -265,6 +281,19 @@
       "submission" : 1912,
       "title" : "シレノ [CATACLYSM]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=139&event=133",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "ZUN&SADA (arranged by Ark-Z with nmk)",
+      "comment" : "ディレイ　同梱譜面　sl9~11？",
+      "level" : "10",
+      "md5" : "50466d38deeb5543d83e1263364485d5",
+      "proposer" : "えば",
+      "proposerLr2id" : 19425,
+      "sha256" : "80748db0abfd318f739c46451188893aaa457b6535a97c0676eb5d01f15f7688",
+      "submission" : 1948,
+      "title" : "Udongebanded -LUNATIC-",
+      "url" : "http://www1.axfc.net/uploader/Si/so/109855.zip",
       "url_diff" : ""
    },
    {
