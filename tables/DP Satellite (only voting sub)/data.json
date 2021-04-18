@@ -27,22 +27,6 @@
       "zureCount" : 0
    },
    {
-      "artist" : "ふぃるまーち！（CV：ちょこ＆藍月なくる＆山田じぇみ子） MV: うまるつふり ＆ 自動車 原付 / Obj:ゆ～兎",
-      "level" : "4",
-      "md5" : "3106c92d0952f2aaa165e041d70a391c",
-      "proposer" : "LUXURY♪",
-      "proposerLr2id" : 23110,
-      "sha256" : "a0db725b8481c12f1a2cf14a3e7ba269c54edc41e7b4f52103d9f622a743b88f",
-      "submission" : 13,
-      "title" : "バーチャルセラピー [DP INSANE]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=167&event=123",
-      "url_diff" : "",
-      "voteNeutral" : 0,
-      "voteNo" : 1,
-      "votePercent" : 85.7142857142857,
-      "voteYes" : 6
-   },
-   {
       "artist" : "Junk / obj:十六夜",
       "comment" : "3~4?",
       "level" : "4",
@@ -55,6 +39,19 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=375&event=123",
       "url_diff" : "https://ux.getuploader.com/dpbms/download/572",
       "zureCount" : 0
+   },
+   {
+      "artist" : "Yosk!",
+      "comment" : "同梱譜面　最後がちょっと優しくなるから9～10の中でわかんない",
+      "level" : "10",
+      "md5" : "7e3def092791e260b1a3b2f0ae4638b3",
+      "proposer" : "Telperion",
+      "proposerMinirid" : "049d2676-c5b2-4b6c-9ade-85d38e095e69",
+      "sha256" : "998e37cf398204a3d377b8aec9928c36e0d4a47fc75a7cc29f8652b9755866dd",
+      "submission" : 503,
+      "title" : "Ceebu Yapp",
+      "url" : "https://drive.google.com/file/d/1Fxg3zMqhu-oZDJRhQ0uvtQfOeMw_lnpT",
+      "url_diff" : ""
    },
    {
       "artist" : "anubasu-anubasu BGA by 出前 / obj:Lilium",

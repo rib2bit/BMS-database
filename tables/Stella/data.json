@@ -318,6 +318,17 @@
       "url_diff" : "http://sagena.harisen.jp/"
    },
    {
+      "artist" : "Airylic M-SPIN",
+      "level" : "7",
+      "md5" : "08e499d3c49724fee3b1335708e4f208",
+      "proposer" : "Guaema",
+      "sha256" : "15c9584a5c897dd7ef17117e2553b31b4168c41dff05d79b9fcaeb3ff4255b11",
+      "submission" : 1403,
+      "title" : "Tears of the Sunrise [No More Tears]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=104",
+      "url_diff" : "https://darksabun.github.io/event/renewal/"
+   },
+   {
       "artist" : "anubasu-anubasu / obj.7zs",
       "comment" : "同時押し、ちょっと低速",
       "level" : "0",
@@ -1754,6 +1765,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02263"
    },
    {
+      "artist" : "MILK / И",
+      "comment" : "音源が追加されたので同梱差分とはズレチェックができません。代わりに差分ファイル同梱のmilk-kyrka-addsound-0noteとはズレなし。",
+      "level" : "3",
+      "md5" : "2913190c27ed8c73c5b9221a4d9b2b07",
+      "proposer" : "MarySue",
+      "sha256" : "31e7971a63af7f51ce86a1f05b54863adb347ee64711f5d924832ddb6a84141f",
+      "submission" : 1391,
+      "title" : "kyrka [Haereticum]",
+      "url" : "http://diverse.jp/dbhtml/",
+      "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
       "artist" : "ねこみみ魔法使い / selene.",
       "comment" : "体力",
       "level" : "7",
@@ -2034,6 +2057,18 @@
       "url_diff" : "https://darksabun.github.io/event/renewal/"
    },
    {
+      "artist" : "69 de 74 BGI:れおん / obj.hex",
+      "comment" : "st6~7 madness",
+      "level" : "7",
+      "md5" : "2f6e2c4f802c932f00b3b8ee4c593083",
+      "proposer" : "qtp13",
+      "sha256" : "5c1c6cda9854bc30c82ddb1b612e04a18753a979d67175e8ecb84b4040a2c754",
+      "submission" : 1402,
+      "title" : "マッドメチャクチャニズム [Hexagon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=127",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html"
+   },
+   {
       "artist" : "Yosk! / A",
       "comment" : "FUTURE 2299",
       "level" : "2",
@@ -2068,6 +2103,18 @@
       "title" : "Gang Riots [INSANE]",
       "url" : "http://k-bms.com/party_pabat/party2019.jsp?board_num=19&num=2&order=reg&odtype=a",
       "url_diff" : ""
+   },
+   {
+      "artist" : "tkqn14_Append mov : Ju_E / obj.hex",
+      "comment" : "BPM160-165 多要素",
+      "level" : "4",
+      "md5" : "3056ea6c325121c4d3488bb28d51fac0",
+      "proposer" : "SHAX.",
+      "sha256" : "3bade779c8c27089a1edcc0b6c4b6f48b7d80c4c1d8404f5bd669b6ebe8f6882",
+      "submission" : 1396,
+      "title" : "ぼうけんの森 [Hexagon]",
+      "url" : "http://k-bms.com/party_pabat/party2019.jsp?board_num=19&num=46",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html"
    },
    {
       "artist" : "kbwnk max / obj:uet",
@@ -3706,6 +3753,17 @@
       "url_diff" : "http://bms.hexlataia.xyz/"
    },
    {
+      "artist" : "おみー obj. LuvTek",
+      "level" : "2",
+      "md5" : "51c54a58f1b9c6a6c9f9642ec2779370",
+      "proposer" : "MarySue",
+      "sha256" : "3fe69f64d2d1793b2ae1cae777c5550bc1a041f907bbd63663767ac5545c698a",
+      "submission" : 1406,
+      "title" : "Girl's Heart ～人形少女 [Dishonest]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=118&event=133",
+      "url_diff" : "https://darksabun.github.io/event/bofxvi/"
+   },
+   {
       "artist" : "Se-U-Ra / И",
       "comment" : "st6~8",
       "level" : "7",
@@ -5193,6 +5251,18 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
    },
    {
+      "artist" : "SHIKI movie:Nyu / putain",
+      "comment" : "WAVファイルが追加されたのでズレがあります",
+      "level" : "1",
+      "md5" : "70fe11d2dce993a95cb1151a02d7d6d0",
+      "proposer" : "七海",
+      "sha256" : "8230f923c5a2cbd3dc237e3573da4549673ab4d2dc4b182d894814f9db51bc62",
+      "submission" : 1404,
+      "title" : "Crystal palace [GOD]",
+      "url" : "http://shiki2.sakura.ne.jp/fohs.html",
+      "url_diff" : "https://stellabms.xyz/upload/739"
+   },
+   {
       "artist" : "void / obj:Tristan97 Momomi Aoyama",
       "comment" : "物量",
       "level" : "0",
@@ -5347,6 +5417,18 @@
       "title" : "Electric Emotion -Negative Emotion-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=181&event=123",
       "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
+      "artist" : "Ninja Action Team / selene.",
+      "comment" : "BPM149 微縦",
+      "level" : "2",
+      "md5" : "7475064331247e0c1dfcb7f61d6c87a7",
+      "proposer" : "垢伴次郎",
+      "sha256" : "1d22873c3739351a2fb0aa8364755f4ccfc8b1a727d1a5daf75cf0042dcdbd10",
+      "submission" : 1399,
+      "title" : "Born -彼岸-",
+      "url" : "http://ninjaactionteam.sakura.ne.jp/sakuhin_bms.html",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
    },
    {
       "artist" : "秋月アキラ feat. 保堂 京 obj.Я х И",
@@ -5590,6 +5672,18 @@
       "title" : "図書室のエルザ [EXTRA]",
       "url" : "http://tosyosituno-elsa.tumblr.com/",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01955"
+   },
+   {
+      "artist" : "Coco / obj:alt",
+      "comment" : "BPM152 微縦",
+      "level" : "2",
+      "md5" : "79c1ad2bd63bd1c2595e5ee3db2e25fd",
+      "proposer" : "SHAX.",
+      "sha256" : "0571601565491416c579feac58142c3c648bb883219a975a7a67f2c067083465",
+      "submission" : 1163,
+      "title" : "pp-hunk [Phxxkin]",
+      "url" : "https://onedrive.live.com/?cid=863934608D908CD0&id=863934608D908CD0%21106",
+      "url_diff" : "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view?usp=sharing"
    },
    {
       "artist" : "otoshi.b × みゅい × はしたかさん × BAECON",
@@ -6205,6 +6299,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Le Dos-on obj:Guanacoite",
+      "comment" : "乱打、体力譜面",
+      "level" : "1",
+      "md5" : "893d732923cc950da5906d13266f1cd5",
+      "proposer" : "スノート",
+      "sha256" : "e6d4ce9cba3f573c8c114df68acd120adf8917d2771391007ad714f427cfc22e",
+      "submission" : 1409,
+      "title" : "Epatoivo LdsRmx [IMPLICITNESS]",
+      "url" : "http://nekokan.dyndns.info/file/log/review/pupuly/bms/view.cgi%253Fid=50&section=orig.html",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04744"
+   },
+   {
       "artist" : "sak feat.みゅい obj.mute",
       "level" : "3",
       "md5" : "89a788ea8806be7351295c155a5988af",
@@ -6764,7 +6870,7 @@
    {
       "artist" : "+45 / obj: white train",
       "comment" : "sl12~st0 respect for Aci-L-GOD",
-      "level" : "1",
+      "level" : "2",
       "md5" : "91b0a169e6cde78b058fda8a404240a0",
       "proposer" : "qtp13",
       "sha256" : "afa8331c98cad7b387997c8d87e1ad5969055495b2afb054d18847b79ef551d9",
@@ -8491,6 +8597,17 @@
       "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html"
    },
    {
+      "artist" : "ZUN(Arr.sun3) / 差分　赤い人",
+      "level" : "0",
+      "md5" : "b903a2579e150c6687bbe2530a60fa80",
+      "proposer" : "LUXURY♪",
+      "sha256" : "c0a71472cd07994e391369d061e9726ed0d3253a48ae703f141978140bb33aaa",
+      "submission" : 610,
+      "title" : "風塵少女-Wind Rush- [INFELNO]",
+      "url" : "https://onedrive.live.com/?id=578814ACC2BD5A74%21140&cid=578814ACC2BD5A74",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/windrush-INFELNO.bme"
+   },
+   {
       "artist" : "azu obj.hex",
       "comment" : "kawaii delay",
       "level" : "5",
@@ -9930,6 +10047,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00489"
    },
    {
+      "artist" : "Potwi obj: qtp13",
+      "comment" : "BPM162 微連打",
+      "level" : "4",
+      "md5" : "d7e6e2281fb817239a363d4c8afd3200",
+      "proposer" : "SHAX.",
+      "sha256" : "0d4de929cb7d05cae243b57a60614d66f046fc8fd801d31194550e9cc732d414",
+      "submission" : 1408,
+      "title" : "U-knighted Servant [Finite Code // rev.]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=494&event=133",
+      "url_diff" : "https://stellabms.xyz/upload/639"
+   },
+   {
       "artist" : "Le Dos-on arranged by s-don illust : jubeated / obj.hex",
       "comment" : "全押し、微縦連",
       "level" : "4",
@@ -10184,6 +10313,18 @@
       "title" : "Titanomaquia -Genocide-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=330&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01607"
+   },
+   {
+      "artist" : "Lime obj.2RLZ",
+      "comment" : "from Satellite",
+      "level" : "0",
+      "md5" : "de568a953fd06180b6b0462cb20e0789",
+      "proposer" : "LUXURY♪",
+      "sha256" : "25228cad5fc67973dab2e2c866c764f3818bc683048a1a782425116e3f50fbc3",
+      "submission" : 1415,
+      "title" : "Ophelia [Phamrsolone]",
+      "url" : "http://kanki2.net/bms.html",
+      "url_diff" : "http://2rlz.github.io/"
    },
    {
       "artist" : "Yosk! / SubAtrist / И",
@@ -10633,6 +10774,18 @@
       "title" : "NULCTRL [NUL]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=261&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02516"
+   },
+   {
+      "artist" : "qfeileadh feat.kei_iwata mov:e381b5e38187e38184e38286e3818ae38186",
+      "comment" : "う",
+      "level" : "1",
+      "md5" : "e86e5e6e9b5409e86cd40d6c8cb402f6",
+      "proposer" : "AYhaz",
+      "sha256" : "3c87e4d189b69591666b8e7ae4bc9c40d38639a1e8d61a28d3c7c3e52d472ce9",
+      "submission" : 1400,
+      "title" : "whence [whither]",
+      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=21&num=38&order=reg&odtype=a",
+      "url_diff" : ""
    },
    {
       "artist" : "Nami Haven obj.Guanacoite",
