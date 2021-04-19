@@ -27,6 +27,32 @@
       "zureCount" : 0
    },
    {
+      "artist" : "星の祈り手 BGI：軌跡の紡ぎ手",
+      "comment" : "5~6?, 連打",
+      "level" : "6",
+      "md5" : "3054144fdb43bf0404bd424570ff4ab3",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "ecfa5d76cb84f6fb553ef4fb96c9a1334b10329b70746d3b711a54eedc6102cc",
+      "submission" : 505,
+      "title" : "Pray of ShootingStar [DP Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=254&event=123",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "Walpurgis obj. Gisela",
+      "comment" : "5~6?",
+      "level" : "5",
+      "md5" : "3fa3c4b284014b8ab24ca5818998a036",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "1e024c70014d1a1bb8317309ff1b3906f7f9369a6c06f802ab9496867b356cd8",
+      "submission" : 506,
+      "title" : "Nice Magicgirls VS scary Walpurgis [14KEY HYPER]",
+      "url" : "http://onedrive.live.com/?id=FC95A680740CA8C9%21201&cid=FC95A680740CA8C9",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Junk / obj:十六夜",
       "comment" : "3~4?",
       "level" : "4",
@@ -38,6 +64,20 @@
       "title" : "Life is PIANO [DPYoither]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=375&event=123",
       "url_diff" : "https://ux.getuploader.com/dpbms/download/572",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "TiS feat. maho / object by meteor* (Cineraria Studio)",
+      "comment" : "2~3? dpbms_0834.zip",
+      "level" : "3",
+      "md5" : "66b882badc4e36f85d2138c6154bf298",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "45d6a9620385b2ceaec4dae9de89ea71bb339d3eddc03e5814e69516a8a74e50",
+      "submission" : 507,
+      "title" : "Lucid Dreaming [DP INSANE+]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=144&event=88",
+      "url_diff" : "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download",
       "zureCount" : 0
    },
    {
@@ -54,6 +94,20 @@
       "url_diff" : ""
    },
    {
+      "artist" : "syzfonics / obj:Louis",
+      "comment" : "3?、軽いゲージ、dpbms_0734.zip",
+      "level" : "3",
+      "md5" : "8abb36d45b4dd51eac2a67421f87f677",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "661901f05b5c6a8fbd3c27b003a7e5e1ca53a0ade610358cfc959d9a881a9f80",
+      "submission" : 508,
+      "title" : "Point Graphy [DP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=45&event=85",
+      "url_diff" : "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download",
+      "zureCount" : 0
+   },
+   {
       "artist" : "anubasu-anubasu BGA by 出前 / obj:Lilium",
       "comment" : "dpbms_0934.zip　SPHとの35.57小節のDOキー音ズレはSPN,Aと比較して異常なし",
       "level" : "6",
@@ -65,6 +119,19 @@
       "title" : "Jack o' Lantern -14keys-",
       "url" : "http://bmssearch.net/bms?id=5163",
       "url_diff" : "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download"
+   },
+   {
+      "artist" : "ふぃるまーち！（CV：ちょこ＆藍月なくる＆山田じぇみ子） MV: うまるつふり ＆ 自動車 原付 / Obj:ゆ～兎",
+      "comment" : "7~8?",
+      "level" : "7",
+      "md5" : "9b2a7f55232d233a4dfa40442425db4b",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "3df040bc12ccabda432ffdf14696557e3f3736691b27da740405c3243cb7cf09",
+      "submission" : 504,
+      "title" : "バーチャルセラピー [DP THERAPY]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=167&event=123",
+      "url_diff" : ""
    },
    {
       "artist" : "-45 / obj: black train",

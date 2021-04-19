@@ -99,6 +99,20 @@
       "voteYes" : 10
    },
    {
+      "artist" : "ルゼ [obj. vi]",
+      "comment" : "6~7?",
+      "level" : "7",
+      "md5" : "28e74356833a56b4673905fa2940a205",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "b999353374d9a7c9c625b4486c41272b4783a3b8a3c2d31804373236bfb03d35",
+      "submission" : 1969,
+      "title" : "3.14 @`・ ω ・´@",
+      "url" : "https://mega.nz/file/tdNBzAZK#OJnmd3N7o0p7bBUNTjZymjwtGUovFPKmSaqtAxMIp6Y",
+      "url_diff" : "https://stellabms.xyz/upload/745",
+      "zureCount" : 0
+   },
+   {
       "artist" : "大臣",
       "comment" : "Toy Musical 2より。同梱譜面の03_djn_ed6fate-ex.pmsと比べたらなにもズレてない",
       "level" : "5",
@@ -175,6 +189,19 @@
       "url" : "http://3t1a.net/bms/etia_knockitoff_ogg_2.zip",
       "url_diff" : "https://www.dropbox.com/s/rurqy1hcleas3n4/knock_it_off_another%2B.zip?dl=0",
       "zureCount" : 0
+   },
+   {
+      "artist" : "kas_0120 vs hard",
+      "comment" : "3~4?",
+      "level" : "4",
+      "md5" : "58272df624a2618c920bfd6e09ed4e37",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "9ba02443ac1ad6c06b260953ab8bc305665b0895c00e538e8901a907cb121365",
+      "submission" : 1968,
+      "title" : "Chainsaw NINJA vs ALIEN [INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=133",
+      "url_diff" : ""
    },
    {
       "artist" : "ridis(Rai) / obj. hplaner",
@@ -447,6 +474,22 @@
       "zureCount" : 0
    },
    {
+      "artist" : "TOMA obj.XYZ",
+      "level" : "12",
+      "md5" : "d27f59651d786b69cf53f8f81668a4c9",
+      "proposer" : "polynya",
+      "proposerLr2id" : 165397,
+      "sha256" : "8f66ba7ca92957a299fd86ca39239a0bdb0d86188ff442f89bc8d5057a881884",
+      "submission" : 630,
+      "title" : "DANCE & (wish me a) MERRY CHRISTMAS!",
+      "url" : "http://tm2.toymusical.net/download.html",
+      "url_diff" : "https://www.dropbox.com/s/0wvnw778i3o0u0d/dmc_mcms_xyz.bms?dl=0",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 0,
+      "voteYes" : 1
+   },
+   {
       "artist" : "メスクラ (エヴァたん＆メコたん) obj.Restia",
       "level" : "4",
       "md5" : "dce9793e55b5462723279b280cfb9fd7",
@@ -483,6 +526,19 @@
       "submission" : 1950,
       "title" : "Anger Control [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=457&event=133",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "絢瀬絵里",
+      "comment" : "発狂入門",
+      "level" : "0",
+      "md5" : "ee442968265636cfa12f5a8ab16e5c6a",
+      "proposer" : "Muya",
+      "proposerLr2id" : 115381,
+      "sha256" : "5f183e1b10bf0545cfaca6b79f5cd27dfae473ccd568ffb47fd6c910018cd643",
+      "submission" : 1967,
+      "title" : "ココロココカラ→",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=321&event=104",
       "url_diff" : ""
    },
    {
