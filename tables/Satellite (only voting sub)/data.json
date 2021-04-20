@@ -1,18 +1,5 @@
 [
    {
-      "artist" : "Grand Thaw",
-      "comment" : "連打",
-      "level" : "1",
-      "md5" : "0108ff92119d48e0ca0e2eae1f3dffbf",
-      "proposer" : "　　",
-      "proposerLr2id" : 147895,
-      "sha256" : "9f0e12898c9f62766e6d9ae5e666af8f6f2ba01225dfe9fdbbc8bfec0483b077",
-      "submission" : 1910,
-      "title" : "ERIS MX",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=233&event=65",
-      "url_diff" : ""
-   },
-   {
       "artist" : "Blogath",
       "level" : "0",
       "md5" : "09a8612434b7ea1e7b0e00bb1ca8b971",
@@ -44,7 +31,7 @@
    {
       "artist" : "siqlo /obj:Block BGA:HalfEar",
       "comment" : "乱打、ディレイ、縦連、wholeheatedly[A].bms基準ズレ抜け無し。",
-      "level" : "11",
+      "level" : "10",
       "md5" : "13756934dd32940cdd59df75dc94509c",
       "proposer" : "ぶんぺ～",
       "proposerMinirid" : "3708ebc6-f813-4964-a5e4-deb86620233a",
@@ -115,7 +102,7 @@
    {
       "artist" : "大臣",
       "comment" : "Toy Musical 2より。同梱譜面の03_djn_ed6fate-ex.pmsと比べたらなにもズレてない",
-      "level" : "5",
+      "level" : "4",
       "md5" : "2c245b43e351a5bce7a114d920c6970b",
       "proposer" : "AYhaz",
       "proposerLr2id" : 123475,
@@ -139,6 +126,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "polysha feat.Eir&Sasara",
+      "level" : "5",
+      "md5" : "374e0ed751e14a00888c06bda67fc53b",
+      "proposer" : "moka",
+      "proposerLr2id" : 167326,
+      "sha256" : "625ee7d82938754b49b8d0dbed20e678161ea587c488ecad6116c504f4fdc90f",
+      "submission" : 1971,
+      "title" : "Bogus of True [EXTRA]",
+      "url" : "https://onedrive.live.com/?id=9FCBA96F905DBB43%21109&cid=9FCBA96F905DBB43",
+      "url_diff" : "http://absolute.pv.land.to/uploader/src/up4147.zip",
+      "zureCount" : 0
+   },
+   {
       "artist" : "かたぎり BGI: morph",
       "comment" : "BOFXVI、高速、ズレ、軸、連打、皿、LN、階段",
       "level" : "0",
@@ -154,7 +154,7 @@
    {
       "artist" : "dawn-system Vo: もちこまめ / BGA: うまるつふり＆わっふゑ",
       "comment" : "ソフラン",
-      "level" : "0",
+      "level" : "1",
       "md5" : "3f6ac4b2ea584c19b9372b7f850e8727",
       "proposer" : "ИИ",
       "proposerLr2id" : 147895,
@@ -219,7 +219,7 @@
    {
       "artist" : "あまつち探検隊 Arkplot + 杠葉えりか / extra",
       "comment" : "鍵盤特化",
-      "level" : "4",
+      "level" : "3",
       "md5" : "5db7bef388eef5816d2caf4231a37ec2",
       "proposer" : "にゃむ",
       "proposerLr2id" : 139958,
@@ -247,7 +247,7 @@
    {
       "artist" : "Remixed by sue / obj:DaiPan",
       "comment" : "3~4? 軸",
-      "level" : "3",
+      "level" : "4",
       "md5" : "6708298f7dd9538a0ed2bc3e611f7ee6",
       "proposer" : "七海",
       "proposerLr2id" : 84597,
@@ -289,6 +289,18 @@
       "zureCount" : 0
    },
    {
+      "artist" : "矢立肇 obj:MiyA",
+      "level" : "8",
+      "md5" : "7913efdc1d5ff89b388a34682f7a6152",
+      "proposer" : "moka",
+      "proposerLr2id" : 167326,
+      "sha256" : "bfd924d17b2e1bc00e29383ee026a903b9676af5bf26e2593f8a69878f7da247",
+      "submission" : 1972,
+      "title" : "God Morning [SP \"O\"]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=305&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Stoic Comodo-TL12 Visualized by Irelriser, obj: SmiGoon",
       "comment" : "GENRE SHUFFLE 3/同梱譜面",
       "level" : "0",
@@ -304,7 +316,7 @@
    {
       "artist" : "TRIAL BGA:KinCraft obj:saaa",
       "comment" : "同時押し系",
-      "level" : "5",
+      "level" : "6",
       "md5" : "7d32fbf83f574f95a2d0346fa10755fe",
       "proposer" : "rat",
       "proposerLr2id" : 83454,
@@ -371,7 +383,7 @@
    {
       "artist" : "HEXAHEDRA / BGA:Johnny",
       "comment" : "同梱譜面/ラス殺し/BGA Version",
-      "level" : "0",
+      "level" : "1",
       "md5" : "990df60870aedb80cc22233ea30583b4",
       "proposer" : "TR1",
       "proposerLr2id" : 152181,
@@ -423,7 +435,7 @@
    },
    {
       "artist" : "otoshi.b × みゅい × はしたかさん",
-      "level" : "3",
+      "level" : "2",
       "md5" : "a556f9145914158ab05356b482937799",
       "proposer" : "파이어",
       "proposerLr2id" : 7290,
@@ -446,6 +458,19 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=124&event=133",
       "url_diff" : "https://stellabms.xyz/upload/785",
       "zureCount" : 0
+   },
+   {
+      "artist" : "P.E. / D",
+      "comment" : "jacks (regarding misalignments: some snare rolls were readded as individual keysounds)",
+      "level" : "11",
+      "md5" : "c16ad6046d2f0d5f65a66bbbba6aaaa8",
+      "proposer" : "marie",
+      "proposerMinirid" : "3977549d-6d82-4c50-ba91-1fdc6b430afe",
+      "sha256" : "756c5bf430dc5284695b3deaf9d9e821e3a832025f2b5f79bdad4c816f1d3795",
+      "submission" : 1970,
+      "title" : "Central GRAY [Crazy]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=60",
+      "url_diff" : "http://absolute.pv.land.to/uploader/src/up4378.rar"
    },
    {
       "artist" : "ねこみみ魔法使い / tomsfir",
@@ -491,7 +516,7 @@
    },
    {
       "artist" : "メスクラ (エヴァたん＆メコたん) obj.Restia",
-      "level" : "4",
+      "level" : "5",
       "md5" : "dce9793e55b5462723279b280cfb9fd7",
       "proposer" : "MarySue",
       "proposerLr2id" : 147889,

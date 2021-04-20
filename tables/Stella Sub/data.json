@@ -2306,6 +2306,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "ridis(Rai) / obj. laner",
+      "level" : "2",
+      "md5" : "20af45b8fbef2cdc5fd07b2c217a9904",
+      "proposer" : "♪♪",
+      "proposerLr2id" : 7290,
+      "sha256" : "66614c48636949a9926282926481e5436aa069ea2d5352f04a7078f842591d3a",
+      "submission" : 1413,
+      "title" : "Dilapidated city [おにぎり]",
+      "url" : "https://web.archive.org/web/20030403093155/http://hat774.hp.infoseek.co.jp/dcity2.lzh",
+      "url_diff" : "https://web.archive.org/web/20190322230355id_/https://www.hyper-laner.com/sabun/dcity7_lanerlaner.bme",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Est / A",
       "comment" : "物量",
       "level" : "0",
@@ -10897,6 +10910,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "guna",
+      "comment" : "ランダマイザ差分です。スクリプトプログラムを用いてできた譜面なので、発生したすべてのズレ、抜けは意図的なものだと差分ファイル同梱の_sabun_readmeに書いています。",
+      "level" : "1",
+      "md5" : "8bea8f1bec55a5770f6e391eb79e48d3",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "e57280b0ff6973f1fda11fb9672c22aa354d5d89154aaa947bd25321b67fcf7a",
+      "submission" : 1427,
+      "title" : "雪月夜鐘 [Randomizest]",
+      "url" : "http://aquaseeds.net/archives/rickytick_bell_hq.rar",
+      "url_diff" : "https://darksabun.github.io/sabun/rickytick_bell_randomizest.zip"
+   },
+   {
       "artist" : "Roy Mikelate obj:saaa",
       "comment" : "同時押しとか",
       "level" : "1",
@@ -16381,7 +16407,7 @@
    {
       "artist" : "しらいし あ",
       "comment" : "指を速く動かし続ける練習に",
-      "level" : "3",
+      "level" : "2",
       "md5" : "d23a2e7dcf07ed2742477f09e50e1bf3",
       "proposer" : "けーちゃん",
       "proposerLr2id" : 137190,

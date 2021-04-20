@@ -151,6 +151,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "guna",
+      "comment" : "ランダマイザ差分です。スクリプトプログラムを用いてできた譜面なので、発生したすべてのズレ、抜けは意図的なものだと差分ファイル同梱の_sabun_readmeに書いています。",
+      "level" : "1",
+      "md5" : "8bea8f1bec55a5770f6e391eb79e48d3",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "e57280b0ff6973f1fda11fb9672c22aa354d5d89154aaa947bd25321b67fcf7a",
+      "submission" : 1427,
+      "title" : "雪月夜鐘 [Randomizest]",
+      "url" : "http://aquaseeds.net/archives/rickytick_bell_hq.rar",
+      "url_diff" : "https://darksabun.github.io/sabun/rickytick_bell_randomizest.zip"
+   },
+   {
       "artist" : "ポポス / obj : Mary_Sue",
       "comment" : "BPM168 微連打",
       "level" : "1",
@@ -205,7 +218,7 @@
    {
       "artist" : "しらいし あ",
       "comment" : "指を速く動かし続ける練習に",
-      "level" : "3",
+      "level" : "2",
       "md5" : "d23a2e7dcf07ed2742477f09e50e1bf3",
       "proposer" : "けーちゃん",
       "proposerLr2id" : 137190,
@@ -228,19 +241,6 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=80&event=132",
       "url_diff" : "https://stellabms.xyz/upload/650",
       "zureCount" : 0
-   },
-   {
-      "artist" : "fnixkm obj:七海",
-      "comment" : "同梱差分基準ズレが多数ありますが、曲をカットしたりBGAの問題になる部分を削除したりしたので発生されたものです。プレーとは関係なし。",
-      "level" : "0",
-      "md5" : "dd4e21e6cac42f25d28dbc81897c2275",
-      "proposer" : "MarySue",
-      "proposerLr2id" : 147889,
-      "sha256" : "601db4f22c5e07b57d43f94356056dadf85bbded35e165db6d867e98858b962e",
-      "submission" : 1421,
-      "title" : "dwllns (short ver) -Despair-",
-      "url" : "http://uploader.bms.ms/data/bof2008/Magnificent_knights_LQ.zip?download=vfpq_dwllns_1001ogghq.rar",
-      "url_diff" : "https://www.dropbox.com/s/zkzmwf4tefnobo6/dwllns_fix.zip?dl=1"
    },
    {
       "artist" : "あとぅす feat.つゆり花鈴 BGI:りーふぱいザウルス / obj:BAECON",
