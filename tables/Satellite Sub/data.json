@@ -6210,6 +6210,19 @@
       "url_diff" : "https://www.dropbox.com/s/mub73zhqm8v7gfe/rengokupriestess.zip?dl=0"
    },
    {
+      "artist" : "scytheleg / obj.siokaze",
+      "comment" : "本質譜面",
+      "level" : "9",
+      "md5" : "38616b85332037cc12924f2ae2840262",
+      "proposer" : "ごるらま",
+      "proposerLr2id" : 137489,
+      "sha256" : "195fe1be5c3e74fccd04dc426e05f8a9cfa8a1059c339d0a23e99f63661f0b7d",
+      "submission" : 1975,
+      "title" : "gazer [MANIAQ]",
+      "url" : "http://scytheleg.sakura.ne.jp/tempyou/release/tempyou/",
+      "url_diff" : "http://siokazebms.web.fc2.com/"
+   },
+   {
       "artist" : "DJ Ash Ketchum / obj : LindBlum",
       "comment" : "Hyper差分基準ズレなし、高速乱打",
       "level" : "9",
@@ -25961,6 +25974,20 @@
       "title" : "雪月夜鐘 [まだまだ走れます]",
       "url" : "http://aquaseeds.net/archives/rickytick_bell_hq.rar",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03045"
+   },
+   {
+      "artist" : "kanone / obj.swa",
+      "comment" : "",
+      "level" : "5",
+      "md5" : "efae90d527a71d753ea7ad2847ec2006",
+      "proposer" : "polynya",
+      "proposerLr2id" : 165397,
+      "sha256" : "25d9d442e226ce6b8fd7c061c7427371cbd2e7300109f2cd5687cfbf5dd61146",
+      "submission" : 1974,
+      "title" : "CO5M1C R4ILR0AD [ON3 M0RE 3XTR4]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=220&event=110",
+      "url_diff" : "http://swamelo.web.fc2.com/_CR_extra.bms",
+      "zureCount" : 0
    },
    {
       "artist" : "Yosk!",

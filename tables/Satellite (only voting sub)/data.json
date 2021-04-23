@@ -151,6 +151,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "scytheleg / obj.siokaze",
+      "comment" : "本質譜面",
+      "level" : "9",
+      "md5" : "38616b85332037cc12924f2ae2840262",
+      "proposer" : "ごるらま",
+      "proposerLr2id" : 137489,
+      "sha256" : "195fe1be5c3e74fccd04dc426e05f8a9cfa8a1059c339d0a23e99f63661f0b7d",
+      "submission" : 1975,
+      "title" : "gazer [MANIAQ]",
+      "url" : "http://scytheleg.sakura.ne.jp/tempyou/release/tempyou/",
+      "url_diff" : "http://siokazebms.web.fc2.com/"
+   },
+   {
       "artist" : "かたぎり BGI: morph",
       "comment" : "BOFXVI、高速、ズレ、軸、連打、皿、LN、階段",
       "level" : "0",
@@ -577,6 +590,20 @@
       "title" : "ココロココカラ→",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=321&event=104",
       "url_diff" : ""
+   },
+   {
+      "artist" : "kanone / obj.swa",
+      "comment" : "",
+      "level" : "5",
+      "md5" : "efae90d527a71d753ea7ad2847ec2006",
+      "proposer" : "polynya",
+      "proposerLr2id" : 165397,
+      "sha256" : "25d9d442e226ce6b8fd7c061c7427371cbd2e7300109f2cd5687cfbf5dd61146",
+      "submission" : 1974,
+      "title" : "CO5M1C R4ILR0AD [ON3 M0RE 3XTR4]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=220&event=110",
+      "url_diff" : "http://swamelo.web.fc2.com/_CR_extra.bms",
+      "zureCount" : 0
    },
    {
       "artist" : "S-Life obj. sera",
