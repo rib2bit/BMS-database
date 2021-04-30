@@ -125,6 +125,20 @@
       "url_diff" : "https://onedrive.live.com/?authkey=%21ANz1HhHo25YLkO0&id=CE038C7E1045ACD3%21897&cid=CE038C7E1045ACD3"
    },
    {
+      "artist" : "浅田たん/さ",
+      "comment" : "scratchlet btfo ",
+      "level" : "10",
+      "md5" : "2f4ada00e131ad4ba3f81bcb33f305db",
+      "proposer" : "AYhaz",
+      "proposerLr2id" : 123475,
+      "sha256" : "c15df046cda0011b637fb28f63d9575589c1bc6968fb7c76aa52fe9653bbfbc6",
+      "submission" : 1977,
+      "title" : "十十日月 -もえ-",
+      "url" : "http://web.archive.org/web/20061207053935/http://asdf.bms.ms/junk/bms/curryyojo_asd_jjng_ogg.zip",
+      "url_diff" : "http://web.archive.org/web/20170430142848/http://sabosabun.tank.jp/sabun/juujuuhigetu%20sabun.zip",
+      "zureCount" : 0
+   },
+   {
       "artist" : "ETIA. Movie: Freezer",
       "comment" : "いろんな配置がある体力譜面",
       "level" : "0",
@@ -379,6 +393,22 @@
       "url_diff" : ""
    },
    {
+      "artist" : "tarolabo / 29",
+      "level" : "4",
+      "md5" : "86be60e07f01c5fa43bd0c49322f3494",
+      "proposer" : "AYhaz",
+      "proposerLr2id" : 123475,
+      "sha256" : "4a375a2cdf866cdf554d7106cb0fee40e155a76e2677b7331ce8e11963e94304",
+      "submission" : 1570,
+      "title" : "Zeitmesser [29Another]",
+      "url" : "http://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21111",
+      "url_diff" : "http://nick.xxxxxxxx.jp/",
+      "voteNeutral" : 2,
+      "voteNo" : 4,
+      "votePercent" : 68.75,
+      "voteYes" : 10
+   },
+   {
       "artist" : "円湯(Maroyu)",
       "comment" : "同時押し、微縦連、乱打、LN　sl3-4?",
       "level" : "3",
@@ -563,6 +593,19 @@
       "submission" : 1925,
       "title" : "ALife Contradiction",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=132",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "カラフル・サウンズ・ポート",
+      "comment" : "god music",
+      "level" : "0",
+      "md5" : "e8618b082d72096e9793c4fe8d8dfed0",
+      "proposer" : "used_tami",
+      "proposerMinirid" : "89c2f656-677d-4fa8-828e-11786ee340ca",
+      "sha256" : "d759746b01bc4cdfb4fe9541b6604fd35dfeb2d4b5e484a105134d35f36bcc99",
+      "submission" : 1978,
+      "title" : "ETERNAL DRAIN (ANOTHER)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=276&event=74",
       "url_diff" : ""
    },
    {
