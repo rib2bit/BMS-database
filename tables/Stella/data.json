@@ -235,7 +235,7 @@
    {
       "artist" : "LeaF Movie:想起 / Illust:セシル◇タイト",
       "comment" : "同梱譜面、ラス殺し?",
-      "level" : "0",
+      "level" : "1",
       "md5" : "06bce609c001cfd7ecf1b28a513b9a6c",
       "proposer" : "MarySue",
       "sha256" : "eb5200dfdacb755f22f33a2e98d84eceb444d68a7cac6416f18545daf71a9c09",
@@ -2314,6 +2314,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01630"
    },
    {
+      "artist" : "litmus* / obj. marie mov : Can.D -mtmrw",
+      "comment" : "ガチ押し、階段",
+      "level" : "0",
+      "md5" : "349bc491ec40d5595412637d8a4c8d2e",
+      "proposer" : "ぶんぺ～",
+      "sha256" : "2abca94a637d5869016b62cbffef327c629f53d93e420831ed30e9b0cb6e4329",
+      "submission" : 1424,
+      "title" : "The NightScape [marienother]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=110",
+      "url_diff" : "https://stellabms.xyz/upload/692"
+   },
+   {
       "artist" : "髭姫 BGA：FleetingLovely illust：(う)。 obj：もさ子",
       "comment" : "★22～★23　ズレ押し　物量",
       "level" : "3",
@@ -2581,7 +2593,7 @@
    {
       "artist" : "o.s.gateと重音テト姫とUnK-nowと37X",
       "comment" : "地力",
-      "level" : "1",
+      "level" : "2",
       "md5" : "3a6b8533397c763f5f674b504d3641f3",
       "proposer" : "MEES-♬",
       "sha256" : "99b9e77dabf1ceb2bbcb74b851066e7c5e10a5a6ab3efa6563a9bf10c602bb47",
@@ -2902,6 +2914,30 @@
       "title" : "Gravity -227 [Ω]",
       "url" : "http://nekokan.dyndns.info/~pmcc/pmcc2/index.html",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02134"
+   },
+   {
+      "artist" : "void / Gt. HAKKYOU-KUN / nokir / obj:夢瑠",
+      "comment" : "少しだけ癖のある地力譜面、最高すぎでは？？？",
+      "level" : "1",
+      "md5" : "405d51c75f22e27739e03728f317dbc2",
+      "proposer" : "AYhaz",
+      "sha256" : "9fa8251eeadcb3f372fe868b16752647bdd7361e5f7218e42cfc87056666b5c9",
+      "submission" : 1422,
+      "title" : "Never Escape [yumether]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=274&event=123",
+      "url_diff" : "http://yumerusabun.web.fc2.com/nue.html"
+   },
+   {
+      "artist" : "Remixed by BACO feat.えみゅう (Original : xi) OBJ: M-SPIN",
+      "comment" : "同時押し、皿、発狂など。",
+      "level" : "0",
+      "md5" : "4065e4ff3e56fb1543df3a36e8576555",
+      "proposer" : "MarySue",
+      "sha256" : "7876d7354385105b4160c9f79f779df38d9e5d06dbac51d2db1696a3f9b00850",
+      "submission" : 1420,
+      "title" : "Halcyon -MY INTERPRETATION- [7KEYS (^ω^)/]",
+      "url" : "https://drive.google.com/file/d/1zrLndEChstF2ga51v_Dm55q-ULfWS3c2",
+      "url_diff" : "https://fsrs.github.io/table.html"
    },
    {
       "artist" : "Aozuna obj:???",
@@ -3411,6 +3447,18 @@
       "title" : "High-Priestess [INFERNO]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=159&event=83",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/HighPriestess-INFERNOf.bme"
+   },
+   {
+      "artist" : "DJ Aye^2 BGI: VJ Giraffe",
+      "comment" : "乱打、微縦連",
+      "level" : "0",
+      "md5" : "4ad3d6fd738190796262510dd3619b1f",
+      "proposer" : "ぶんぺ～",
+      "sha256" : "622d71f6e7f5cea8bf063013d656c11795cfd134d2250d03ed60571b66f2199b",
+      "submission" : 1423,
+      "title" : "Spherescense",
+      "url" : "https://venue.bmssearch.net/bmsshuin3/42",
+      "url_diff" : ""
    },
    {
       "artist" : "NIKITA / Optie obj:1/8",
@@ -4175,6 +4223,18 @@
       "title" : "Decompozer [Decryption]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=254&event=127",
       "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
+      "artist" : "うまるつふり",
+      "comment" : "BPM224のゴチャゴチャ系 同梱譜面",
+      "level" : "8",
+      "md5" : "5accb2f61f444dc721f23f244db00936",
+      "proposer" : "kai",
+      "sha256" : "77863b401bb3b79f805b4a4f5284cb26761c56767040fdf863e238b33f031e23",
+      "submission" : 1418,
+      "title" : "綺機 ～あやはずみ～ [25回秘密箱]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=54&event=133",
+      "url_diff" : ""
    },
    {
       "artist" : "Lime / inukoro",
@@ -6662,6 +6722,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00074"
    },
    {
+      "artist" : "ポポス / obj : Mary_Sue",
+      "comment" : "BPM168 微連打",
+      "level" : "3",
+      "md5" : "8dbfdb9a32919d2083f5079bfc6d1288",
+      "proposer" : "SHAX.",
+      "sha256" : "d458a362bfe40f7cc4fa83c4debd660501310fdebba0765e25efef2a2cbe31a8",
+      "submission" : 1417,
+      "title" : "breakpush [Maryther]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/breakpush%20%28by%20%e3%83%9d%e3%83%9d%e3%82%b9%29.rar",
+      "url_diff" : "https://darksabun.github.io/Mary_Sue/"
+   },
+   {
       "artist" : "ROKINA BGA:REI-K / obj:LAPIS",
       "comment" : "",
       "level" : "0",
@@ -7502,6 +7574,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Felisica / BGA:空読無 白眼 / Obj:И",
+      "comment" : "BPM169 微連打",
+      "level" : "3",
+      "md5" : "a10a71e34431f64f8950263ccf22428d",
+      "proposer" : "SHAX.",
+      "sha256" : "9229c2907e2947b3da0c16afafc1fb5a31c2414c826d3c8e3810adca4dba3480",
+      "submission" : 1407,
+      "title" : "Klartraum (7keys Insane)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=120",
+      "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
       "artist" : "Kuwagata / obj:七海",
       "comment" : "st5~6",
       "level" : "5",
@@ -7828,6 +7912,18 @@
       "title" : "Strahv [Dstrahrv]",
       "url" : "http://www.dropbox.com/s/14sbfaq70lsr2ev/%5BFeryquitous%5DStrahv.zip?dl=1",
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up5918.rar"
+   },
+   {
+      "artist" : "ALFOU obj.hex",
+      "comment" : "",
+      "level" : "6",
+      "md5" : "a78f66ec6dc23a9f9ad36b57cb7b3e5b",
+      "proposer" : "歳納京子",
+      "sha256" : "e3e91117de2b04841410b515782d966b3a45f81fc347c872adeaf2362ef6e25f",
+      "submission" : 1428,
+      "title" : "Fluctuate [Hexagon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=429&event=123",
+      "url_diff" : "http://bms.hexlataia.xyz/sabun/%E2%98%85%E2%98%853%20%E2%98%85%E2%98%854%20Fluctuate%20%5BPentagon%5D%20%5BHexagon%5D.zip"
    },
    {
       "artist" : "美樹さやか with 美樹さやか / Hitler von Xeckendolff / obj:Rian",
@@ -8913,6 +9009,18 @@
       "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/"
    },
    {
+      "artist" : "TJ.hangneil vs Jackz OBJ:O",
+      "comment" : "9~10? ディレイ",
+      "level" : "9",
+      "md5" : "bf36d5c76ef6449f805888b7bdc334f4",
+      "proposer" : "七海",
+      "sha256" : "705c12c89a0ab634e6ac9f1043a852228ca283411fd5464fc81ac66035bdd201",
+      "submission" : 1425,
+      "title" : "ozma +Noizy",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=132",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05155"
+   },
+   {
       "artist" : "Cataclysmic Order BGI:FARNA / selene.",
       "comment" : "物量・ズレ発狂",
       "level" : "10",
@@ -9731,6 +9839,18 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/carage_solitary_melody-INFERNOf.bml"
    },
    {
+      "artist" : "しらいし あ",
+      "comment" : "指を速く動かし続ける練習に",
+      "level" : "2",
+      "md5" : "d23a2e7dcf07ed2742477f09e50e1bf3",
+      "proposer" : "けーちゃん",
+      "sha256" : "7281148bc04c26ac407302d748ec8219c3e240e0d03d7bf234ac50e1a49b9744",
+      "submission" : 1410,
+      "title" : "Happico Happico -mundanity-",
+      "url" : "http://www1.axfc.net/uploader/Li/so/128884",
+      "url_diff" : "http://drowsy.hannnari.com/index.html"
+   },
+   {
       "artist" : "TiS feat. maho / obj. laner (Cineraria Studio)",
       "comment" : "ガチ押し",
       "level" : "1",
@@ -10123,6 +10243,18 @@
       "url_diff" : "http://swamelo.web.fc2.com/BD_sls.bms"
    },
    {
+      "artist" : "CAELUS / 日焼女子愛好者",
+      "comment" : "st0~1 (st0 sling beat like, scr wall)",
+      "level" : "1",
+      "md5" : "d9aef0de31c3aaaea6ca09ebf1c71033",
+      "proposer" : "qtp13",
+      "sha256" : "934c0a39f84bb79ff0903d648767ed79f907e4a435cc2174a1b4d6f23a174912",
+      "submission" : 1411,
+      "title" : "Espada de los angeles (｀皿´メ)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=80&event=132",
+      "url_diff" : "https://stellabms.xyz/upload/650"
+   },
+   {
       "artist" : "しらいし obj:C4",
       "comment" : "st3~4",
       "level" : "5",
@@ -10253,6 +10385,18 @@
       "title" : "Chronostasis [Futabather]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=252&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=364"
+   },
+   {
+      "artist" : "削除 / И / α-Gorila",
+      "comment" : "tateren. this pattern includes additional key notes. so zure verification is not available.",
+      "level" : "7",
+      "md5" : "dcf8869b8ccdc96f249eeda05f94a2ee",
+      "proposer" : "LUXURY♪",
+      "sha256" : "5b956d67e2f78c3f7fac7e3bad7ff0dad160969b948d6f8c96723921996d7f03",
+      "submission" : 1430,
+      "title" : "Yes namer",
+      "url" : "https://www.axfc.net/u/956768&key=bms",
+      "url_diff" : "https://bms.parksulab.xyz"
    },
    {
       "artist" : "Irish Kappa / selene. BGA: Rinser",
@@ -10572,6 +10716,18 @@
       "url_diff" : "http://bms.hexlataia.xyz/"
    },
    {
+      "artist" : "あとぅす feat.つゆり花鈴 BGI:りーふぱいザウルス / obj:BAECON",
+      "comment" : "BPM157 微縦連系",
+      "level" : "6",
+      "md5" : "e3364a47e49d2d7315cc65afe8fccf41",
+      "proposer" : "kai",
+      "sha256" : "0b8154ed2575ca6c3994bdb2eb960de16b266b8a3ddf6f4cde380522fa3b5221",
+      "submission" : 1419,
+      "title" : "REZIDUAL MiND [REMAIN]",
+      "url" : "https://venue.bmssearch.net/bmsshuin3/34",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05135"
+   },
+   {
       "artist" : "Yu^ta / アド / obj:.ctc",
       "level" : "2",
       "md5" : "e3799294302b15cf1b7e33cd6903eaaa",
@@ -10617,6 +10773,18 @@
       "title" : "Shade of Gloria [INFERNO]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=82&event=88",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/SoG_INFERNO.bme"
+   },
+   {
+      "artist" : "eicateve movie:龍花 / object:Restia",
+      "comment" : "すべてのズレは追加音ですなので問題ありません。",
+      "level" : "1",
+      "md5" : "e4d3f2907ce7b35a3f9736db024756b8",
+      "proposer" : "七海",
+      "sha256" : "5059d4fe154d197907a3fc5c947377a123d3f5c1de10f0bfc3bf212f9097081d",
+      "submission" : 1426,
+      "title" : "D3C3MB3R [G0D]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=405&event=133",
+      "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpymVwnZVMCglAdJM7o?e=uCZcoq"
    },
    {
       "artist" : "QURELESS obj : BAECON",

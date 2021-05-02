@@ -421,7 +421,7 @@
    {
       "artist" : "LeaF Movie:想起 / Illust:セシル◇タイト",
       "comment" : "同梱譜面、ラス殺し?",
-      "level" : "0",
+      "level" : "1",
       "md5" : "06bce609c001cfd7ecf1b28a513b9a6c",
       "proposer" : "MarySue",
       "proposerLr2id" : 147889,
@@ -1268,6 +1268,20 @@
       "title" : "Evoltex [Eventual Epoch]",
       "url" : "https://dropbox.bms.ms/u/59482273/arch_avoltex_ogg.zip",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04342",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "ぽんきち obj.hex",
+      "comment" : "BPM145 微連打 ガチ押し",
+      "level" : "2",
+      "md5" : "1278a7f680f3438cf5c753a5637e6e7b",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "eef72d9372357b611e89029afa236a4b5453b11d7e6d990788f52c26fec58ee4",
+      "submission" : 1434,
+      "title" : "ココナツ・アバンチュール [Hexagon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=229&event=116",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html",
       "zureCount" : 0
    },
    {
@@ -2388,6 +2402,19 @@
       "title" : "INSANER [Snother]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=123",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03882"
+   },
+   {
+      "artist" : "w_tre / obj.sialua",
+      "comment" : "st1~2 (no actual misalignment when compared with _se_p5.pms)",
+      "level" : "1",
+      "md5" : "2275ee5949383d2aa22a120c31ce6ec5",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "61da12497640199517ecefb4075e875f54c5709aa0b0687214c23b4b4e709b01",
+      "submission" : 1433,
+      "title" : "Shannon's Theorem [WCDMA]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/Shannon%27s%20Theorem%20%28by%20w_tre%29.rar",
+      "url_diff" : "http://www.dropbox.com/s/hfsj1wpo763jt84/_se_WCDMA.zip?dl=0"
    },
    {
       "artist" : "NIKITA / misokabocha obj:ランダマイザ",
@@ -4359,7 +4386,7 @@
    {
       "artist" : "o.s.gateと重音テト姫とUnK-nowと37X",
       "comment" : "地力",
-      "level" : "1",
+      "level" : "2",
       "md5" : "3a6b8533397c763f5f674b504d3641f3",
       "proposer" : "MEES-♬",
       "sha256" : "99b9e77dabf1ceb2bbcb74b851066e7c5e10a5a6ab3efa6563a9bf10c602bb47",
@@ -5815,6 +5842,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "しーけー obj:naiya",
+      "level" : "1",
+      "md5" : "4b990e9a93c8edcc6047ce1334b978dd",
+      "proposer" : "♪♪",
+      "proposerLr2id" : 7290,
+      "sha256" : "2900b69c46310c4ed7d1102f5b3c0d0cb19bdb475329db0af670acc4e6542cc9",
+      "submission" : 1435,
+      "title" : "クロートーと星の観測者 [Na]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=215&event=104",
+      "url_diff" : "https://darksabun.github.io/mirror/absolute/bof/up0920.zip",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Pleiades (あとぅす vs. Lian)",
       "comment" : "BPM186 乱打",
       "level" : "0",
@@ -6437,6 +6477,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Lemi. / obj:ぶんぺ～",
+      "comment" : "SPAとズレなし(uploaderで書いてます)",
+      "level" : "2",
+      "md5" : "532beed6344df2931f961e873e903f2a",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "421383427647f91dc574959d172a27053ad79451f871fc05180d8633681e610a",
+      "submission" : 1440,
+      "title" : "\"Fresco\" [NEX+AGE]",
+      "url" : "https://venue.bmssearch.net/bmsshuin3/75",
+      "url_diff" : "https://stellabms.xyz/upload/791"
    },
    {
       "artist" : "o.s.gateと重音テト姫とUnK-nowと37X",
@@ -9706,6 +9759,19 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00074"
    },
    {
+      "artist" : "SOMON / extra",
+      "comment" : "percussion delay (#066 13 (1 / 2) #WAV6L is missing. (b_arpeggio1_v100l96-5o5d.wav))",
+      "level" : "2",
+      "md5" : "7c6d0e0cd119632e0a7a90d37c19a6d9",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "80b4f870e2c2f6541c6387214f6ef9a6a21c3366339cd34aebc547e2e8eda75b",
+      "submission" : 1438,
+      "title" : "STARGAZER [DELAYED]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=230&event=133",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05033"
+   },
+   {
       "artist" : "P4koo feat. A.Dokuga image : keiyuu/mov : VISREV /eleanor",
       "comment" : "1~2? st6の弱化版",
       "level" : "2",
@@ -10046,6 +10112,20 @@
       "title" : "Rush-More [Cataclysm]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=127",
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
+   },
+   {
+      "artist" : "recognize m. / BGA retu / obj:七海",
+      "comment" : "乱打 / 同時押し / ソフラン中は密度薄",
+      "level" : "2",
+      "md5" : "81fa58cf3499771c4f9f73da4e5f386a",
+      "proposer" : "ぶんぺ～",
+      "proposerMinirid" : "3708ebc6-f813-4964-a5e4-deb86620233a",
+      "sha256" : "5c276e3ea9fb67e49eaeae4dbbca61f472ce44e4748826cd0d189847e57610c4",
+      "submission" : 1441,
+      "title" : "happy century -Despair & Hope-",
+      "url" : "https://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21260&parId=26D9698EC1CEC044%21212&o=OneUp",
+      "url_diff" : "https://www.dropbox.com/s/r32eb0ie2qw59li/happycentury_nanami.zip?dl=1",
+      "zureCount" : 0
    },
    {
       "artist" : "Shinji Hirano / obj:Rian",
@@ -11149,6 +11229,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "LV.4 / this is so fucking hard, this is Overjoy BMS at its fucking core",
+      "comment" : "BPM180 乱打",
+      "level" : "1",
+      "md5" : "8edd881723dd9cdd7b1704405812c50a",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "42ae8d64db97c12f5190be7dcbcab7bc1127bb5b5917253dbc9b0b18c0a29186",
+      "submission" : 1437,
+      "title" : "Believe in tomorrow (7keys VERYFUCK)",
+      "url" : "https://drive.google.com/file/d/1KnwQa73OHUUYOvnF3uo2XhNz53g8EAkq/view?usp=sharing",
+      "url_diff" : "https://stellabms.xyz/upload/765"
+   },
+   {
       "artist" : "maki / obj.hplaner",
       "comment" : "subconsciousness -KILL-",
       "level" : "0",
@@ -12186,6 +12279,20 @@
       "title" : "TURNDOWN [Excelsior]",
       "url" : "https://dropbox.bms.ms/u/63612044/TURNDOWN_bms.rar",
       "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
+      "artist" : "daiki* obj : LindBlum",
+      "comment" : "乱打 / 同時押し",
+      "level" : "0",
+      "md5" : "9c3c64cc0e14209303c04e34e687b030",
+      "proposer" : "ぶんぺ～",
+      "proposerMinirid" : "3708ebc6-f813-4964-a5e4-deb86620233a",
+      "sha256" : "1b33c6b790232e0572a999c568469dde83a4520800a5d59d4ec1474a0b44a52c",
+      "submission" : 1442,
+      "title" : "Nemesia -Xe-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=92&event=131",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05203",
+      "zureCount" : 0
    },
    {
       "artist" : "daiji+lobsak",
@@ -13531,6 +13638,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Kyuzo Sameura feat. きりたん obj:Holy",
+      "comment" : "BPM135 サンバ系ガチ押し",
+      "level" : "4",
+      "md5" : "ad4381ec0ffe5a76d18c03bf715c9d5c",
+      "proposer" : "垢伴次郎",
+      "proposerMinirid" : "39fcf843-3931-4605-a729-2f3f61d0970b",
+      "sha256" : "90627946c1dd033e3c3178a8536421f4361e19fbb6791eec567606219e6cb8f9",
+      "submission" : 1432,
+      "title" : "ceu [WHITE ANOTHER]",
+      "url" : "https://venue.bmssearch.net/bmsshuin3/96",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05224",
+      "zureCount" : 0
    },
    {
       "artist" : "er/仙人掌の人",
@@ -15779,6 +15900,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "R.M. Object by Gekko japonicus",
+      "comment" : "ズレなし(Readmeで書いてます)",
+      "level" : "7",
+      "md5" : "ca4e55f005bbc1057c69cf3b6b0ccfbe",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "4b0ae063e5d90f41155e85fa1815b0aff080e8443b8a88b9145aa790fed971e7",
+      "submission" : 1439,
+      "title" : "Gecko [Japonicus]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=89&event=123",
+      "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
       "artist" : "ZUN remixed by LeaF Movie:Optie",
       "comment" : "楽しい",
       "level" : "0",
@@ -17977,6 +18111,19 @@
       "title" : "浮世絵横丁 [Hexagon]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=482&event=116",
       "url_diff" : "http://www.ribbit.xyz/bms/tables/bmsuploader2.html"
+   },
+   {
+      "artist" : "LeaF/さ Movie:q/stol",
+      "level" : "4",
+      "md5" : "e5d71ddb6aa7e626eb773be94ac0f92f",
+      "proposer" : "♪♪",
+      "proposerLr2id" : 7290,
+      "sha256" : "38a85ecceb36de82a31630b10ccfed967a4c936e2aa771d64cc07a564e6cbc9c",
+      "submission" : 1436,
+      "title" : "Arcanum Guardian [EX]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=77&event=83",
+      "url_diff" : "https://web.archive.org/web/20120918210013/http://sabosabun.tank.jp/",
+      "zureCount" : 0
    },
    {
       "artist" : "nmk / わっふゑ / selene.",
