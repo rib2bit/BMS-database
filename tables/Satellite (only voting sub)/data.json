@@ -53,6 +53,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "みーに feat. 初音ミク",
+      "comment" : "BOFXVI、同時押し、皿",
+      "level" : "4",
+      "md5" : "172befdbe25acf86149dc790c7097345",
+      "proposer" : ".w",
+      "proposerLr2id" : 147642,
+      "sha256" : "2da6e2fd506bfd986543de837da9bef83e8060a57e2bfc9503dbe259a91d2724",
+      "submission" : 1992,
+      "title" : "Moment in the Sky [MEMORABILIA]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Notorious(Nota & TRIAL) BGA:inukoro",
       "level" : "2",
       "md5" : "17a6ceb271b925c80eceee9523ed1bc6",
@@ -81,6 +94,19 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=299&event=116",
       "url_diff" : "https://darksabun.github.io/Mary_Sue/",
       "zureCount" : 0
+   },
+   {
+      "artist" : "帽子屋 BGI : はしたかさん",
+      "comment" : "中盤難、ハネリズム",
+      "level" : "0",
+      "md5" : "234d04f03394a4175c8d5d6d936055ec",
+      "proposer" : "bluemouse",
+      "proposerMinirid" : "38b6fd3c-5f86-4e87-aef8-3f9952471580",
+      "sha256" : "a50e46deecd977ce2ec2830ab2c13c964bfe742e55cd15a2bf626e9f030475ce",
+      "submission" : 1996,
+      "title" : "ALICE IN PICOPICO NIGHT (SP Another)",
+      "url" : "https://event.yaruki0.net/BMSquare/impression/11",
+      "url_diff" : ""
    },
    {
       "artist" : "Εσοπτρον/差分 赤い人",
@@ -133,6 +159,34 @@
       "title" : "Bogus of True [EXTRA]",
       "url" : "https://onedrive.live.com/?id=9FCBA96F905DBB43%21109&cid=9FCBA96F905DBB43",
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up4147.zip",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "空読無 白眼 obj. w",
+      "comment" : "皿、連打、同時押しなど。",
+      "level" : "3",
+      "md5" : "45edaa26471cb3c715e31e6916ec728b",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "4dfb6615e2c57a156fa6fda1d0ffda1673ae5f1faeb56591f279772dc97da73b",
+      "submission" : 1998,
+      "title" : "conjunctiva [W]",
+      "url" : "http://starkey.ivory.ne.jp/bemusicwest/bmw2/detail/view/10/",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04023",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "DJ Aye^2 BGI: VJ Giraffe / Obj.Triforce",
+      "comment" : "乱打、連打少し",
+      "level" : "4",
+      "md5" : "467f58280ddedb50ae20c18d40253f79",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "f74e5f8f8053a4e9dbd7afb5809328243d01fae1f5b9acd8ab65836b2d790054",
+      "submission" : 1997,
+      "title" : "Spherescense [Nemesis]",
+      "url" : "https://venue.bmssearch.net/bmsshuin3/42",
+      "url_diff" : "https://trfce.github.io/sabun/(133)Spherescense_triforce.zip",
       "zureCount" : 0
    },
    {
@@ -212,6 +266,19 @@
       "url" : "https://venue.bmssearch.net/bmsshuin3/80",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04984",
       "zureCount" : 0
+   },
+   {
+      "artist" : "kei_iwata 監督：KeiuO / 譜面監修：saaa",
+      "comment" : "BOFXVI、高速階段、連打、乱打、皿",
+      "level" : "4",
+      "md5" : "6c857d6b6c87782e698f0b6610d3d2b6",
+      "proposer" : ".w",
+      "proposerLr2id" : 147642,
+      "sha256" : "4555a06c08a6bfe31a93b7b9feacd5f56526007284f6feae627b0e65e470e433",
+      "submission" : 1991,
+      "title" : "ゼイタクするまで抱きしめて [サエザー]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=133",
+      "url_diff" : ""
    },
    {
       "artist" : "tarolabo obj:七海",
@@ -336,6 +403,33 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Aliesrite* (Ym1024 feat. lamie*) obj: Haze*",
+      "comment" : "★10級?",
+      "level" : "6",
+      "md5" : "a5a980fe7c4ff921f1b101ea60c9e83f",
+      "proposer" : "nozomi",
+      "proposerLr2id" : 115265,
+      "sha256" : "40de4ae5949a15447af72df65c2c78e6de032792804dc529ab481a6c26c37a99",
+      "submission" : 1994,
+      "title" : "faraway faraway -dusk-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=476&event=133",
+      "url_diff" : "https://stellabms.xyz/upload/587",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "Ice (object: XEIR)",
+      "comment" : "BOF2012",
+      "level" : "6",
+      "md5" : "aadb7d00993afd10642ee637c8981e5b",
+      "proposer" : "NoScrPlz",
+      "proposerLr2id" : 168296,
+      "sha256" : "fa5795d6558c7f8f6389761663a98846b9034707728567f39b55fb5ac275e98a",
+      "submission" : 1995,
+      "title" : "L (ANOTHER)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=146&event=83",
+      "url_diff" : ""
+   },
+   {
       "artist" : "あとぅす feat.橘花音 BGI:りーふぱいザウルス obj:ぶんぺ～",
       "comment" : "乱打、連打少し。",
       "level" : "11",
@@ -412,6 +506,19 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=259&event=127",
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
       "zureCount" : 0
+   },
+   {
+      "artist" : "LaValse",
+      "comment" : "",
+      "level" : "1",
+      "md5" : "e6989cd8b24af03d12c3b9b37d65d87c",
+      "proposer" : "nozomi",
+      "proposerLr2id" : 115265,
+      "sha256" : "1a9be24da93a7f194e5e462248b3e760be1b11b0bd1c6c0c242fdce91ec303fa",
+      "submission" : 1993,
+      "title" : "marine snow",
+      "url" : "http://wayback.archive.org/web/20070627024549/http://bof.nothing.sh:8080/bof2005/LaValse_marinesnow.rar",
+      "url_diff" : ""
    },
    {
       "artist" : "カラフル・サウンズ・ポート",
