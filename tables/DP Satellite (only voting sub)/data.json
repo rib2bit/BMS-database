@@ -55,5 +55,18 @@
       "voteNo" : 1,
       "votePercent" : 66.6666666666667,
       "voteYes" : 2
+   },
+   {
+      "artist" : "雨漏りP obj:Gypsy",
+      "level" : "0",
+      "md5" : "e6f267c44ec3330ff6d88bb1b535f76f",
+      "proposer" : "DJ_Lumina",
+      "proposerMinirid" : "6924569b-0940-4b75-ba18-9d26e82532bd",
+      "sha256" : "4d935027698d33c6add40985442158b0bdada50f395b13e8905283b92bfb9ac4",
+      "submission" : 509,
+      "title" : "Blackstar [Gy-H]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=320&event=116",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/308",
+      "zureCount" : 0
    }
 ]
