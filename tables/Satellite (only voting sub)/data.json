@@ -109,6 +109,22 @@
       "zureCount" : 0
    },
    {
+      "artist" : "養土卵 光 / 浜 柔好 / obj. AXION",
+      "level" : "9",
+      "md5" : "214fb544f578bd76ff58370332d2aab8",
+      "proposer" : "AYhaz",
+      "proposerLr2id" : 123475,
+      "sha256" : "370d253355e5ff60edcb738a817b7a22db473f4fc6e103bada5343812a82d849",
+      "submission" : 364,
+      "title" : "electric butterfly [EX]",
+      "url" : "http://www.qumarich.net/misstype/",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01707",
+      "voteNeutral" : 0,
+      "voteNo" : 10,
+      "votePercent" : 44.4444444444444,
+      "voteYes" : 8
+   },
+   {
       "artist" : "帽子屋 BGI : はしたかさん",
       "comment" : "中盤難、ハネリズム",
       "level" : "0",
@@ -531,6 +547,19 @@
       "title" : "月花",
       "url" : "https://wumalutsufuri.wixsite.com/wumalutsufuri/bms",
       "url_diff" : ""
+   },
+   {
+      "artist" : "paraoka obj: Haze*",
+      "level" : "4",
+      "md5" : "c7c7b226226b6b00dfa7206b009b8b29",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "5ab91e484e32d49c1a333f24253bbca03a27c8d347f5fc70b9cde2ee12c30be8",
+      "submission" : 2002,
+      "title" : "summerghost -dawn-",
+      "url" : "https://skydrive.live.com/?cid=2E0B6A331309387C&id=2E0B6A331309387C%21107",
+      "url_diff" : "https://stellabms.xyz/upload/801",
+      "zureCount" : 0
    },
    {
       "artist" : "ProjectG Obj.Triforce",
