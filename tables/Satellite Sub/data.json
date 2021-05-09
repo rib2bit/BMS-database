@@ -9551,6 +9551,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Hate/kody 妖",
+      "comment" : "BPM148 微連打",
+      "level" : "10",
+      "md5" : "5565488c278367eae3f5fd01c74eb946",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "8e90e540c8b34e8566fd45c5afd5257dd9040cd22f6aac76fed5738d50700bdd",
+      "submission" : 2005,
+      "title" : "Lapislazuli -Mystic-",
+      "url" : "http://nekokan.dyndns.info/~anonymous/bms/Lapislazuli/Lapislazuli_MQ.zip",
+      "url_diff" : "https://darksabun.github.io/mirror/absolute/uploader/up4659.zip",
+      "zureCount" : 0
+   },
+   {
       "artist" : "猫蟹丸 / obj: black train",
       "comment" : "地力",
       "level" : "7",
@@ -14227,6 +14241,19 @@
       "url" : "https://web.archive.org/web/20150713173014/http://str3.org/data/bms/strallstars_crossover.zip",
       "url_diff" : "http://swamelo.web.fc2.com/_crossover-77-fade.bme",
       "zureCount" : 0
+   },
+   {
+      "artist" : "kireji",
+      "comment" : "BPM155 多要素",
+      "level" : "8",
+      "md5" : "812ef3a2a8f7c246c063feea81682a8a",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "a300380316a8ebc410f4f6236e4f14cff12655cc5ee9f8a3bc39e4904eab3e98",
+      "submission" : 2006,
+      "title" : "A mass of grudge [ABNEGATION]",
+      "url" : "https://venue.bmssearch.net/bmsshuin3/70",
+      "url_diff" : ""
    },
    {
       "artist" : "Personative vs. void obj:monaka",

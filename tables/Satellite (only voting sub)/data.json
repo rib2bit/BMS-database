@@ -40,6 +40,22 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Hyparpax",
+      "level" : "5",
+      "md5" : "0f11ca484064380eefa624cc34cb30c5",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "c315097dec2e129d8a6003df2b6f89e5ab9394da2caabd897c7d8f9cb0c84e06",
+      "submission" : 1768,
+      "title" : "Rin-Rin [W]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=251&event=133",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04894",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteYes" : 2
+   },
+   {
       "artist" : "ume/さ",
       "level" : "6",
       "md5" : "10170f67b2581759c9f21533ba8f8a0c",
@@ -256,6 +272,20 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Hate/kody 妖",
+      "comment" : "BPM148 微連打",
+      "level" : "10",
+      "md5" : "5565488c278367eae3f5fd01c74eb946",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "8e90e540c8b34e8566fd45c5afd5257dd9040cd22f6aac76fed5738d50700bdd",
+      "submission" : 2005,
+      "title" : "Lapislazuli -Mystic-",
+      "url" : "http://nekokan.dyndns.info/~anonymous/bms/Lapislazuli/Lapislazuli_MQ.zip",
+      "url_diff" : "https://darksabun.github.io/mirror/absolute/uploader/up4659.zip",
+      "zureCount" : 0
+   },
+   {
       "artist" : "kas_0120 vs hard",
       "comment" : "3~4?",
       "level" : "4",
@@ -385,6 +415,19 @@
       "submission" : 1964,
       "title" : "Inside Out [SP INSANE]",
       "url" : "https://k-bms.com/party_pabat/party.jsp?board_num=21&num=24&order=reg&odtype=a",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "kireji",
+      "comment" : "BPM155 多要素",
+      "level" : "8",
+      "md5" : "812ef3a2a8f7c246c063feea81682a8a",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "a300380316a8ebc410f4f6236e4f14cff12655cc5ee9f8a3bc39e4904eab3e98",
+      "submission" : 2006,
+      "title" : "A mass of grudge [ABNEGATION]",
+      "url" : "https://venue.bmssearch.net/bmsshuin3/70",
       "url_diff" : ""
    },
    {
