@@ -19665,6 +19665,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04876"
    },
    {
+      "adddate" : "2021/05/12 07:08",
+      "artist" : "ルゼ / obj:ReiOW",
+      "comment" : "05111の[WhiteDay]11小節目だけのズレ修正（レベル表記も修正）",
+      "folder" : "2021/05",
+      "genre" : "PSYTEC",
+      "keys" : "7",
+      "level" : "2021/05",
+      "lr2_bmsid" : "297372",
+      "md5" : "34c355d5b554f6c969a6a95fab2e8df6",
+      "org_level" : null,
+      "title" : "3.14 (TT mix) [265]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05282"
+   },
+   {
       "adddate" : "2021/03/10 23:59",
       "artist" : "ルゼ / obj:ReiOW",
       "comment" : "[265]★1 皿+縦連、乱打；[WhiteDay]☆11縦連、トリル",
@@ -53040,6 +53055,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02868"
    },
    {
+      "adddate" : "2021/05/12 17:55",
+      "artist" : "Nakaiankow obj:1008",
+      "comment" : "VERYHARD判定、ソフラン (動画 : https://youtu.be/iXIT-kBYS6g)",
+      "folder" : "2021/05",
+      "genre" : "Dubstep",
+      "keys" : 7,
+      "level" : "2021/05",
+      "lr2_bmsid" : "298948",
+      "md5" : "89cb2a1ec08602e4f336ec29f8b9e674",
+      "org_level" : null,
+      "title" : "#3000 *confuse*",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=134",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05283"
+   },
+   {
       "adddate" : "2020/01/05 12:00",
       "artist" : "指定暴力団はるかぜ組",
       "comment" : "9KEY",
@@ -58198,6 +58228,21 @@
       "title" : "片翼のライカ -BMS Remaster- [PARADISE LOST]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=24&event=98",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04402"
+   },
+   {
+      "adddate" : "2021/05/12 07:08",
+      "artist" : "ルゼ / obj:ReiOW",
+      "comment" : "05111の[WhiteDay]11小節目だけのズレ修正（レベル表記も修正）",
+      "folder" : "2021/05",
+      "genre" : "PSYTEC",
+      "keys" : 7,
+      "level" : "2021/05",
+      "lr2_bmsid" : "298940",
+      "md5" : "9711425d1c12f7c73f7003c76ae153e1",
+      "org_level" : null,
+      "title" : "3.14 (TT mix) [WhiteDay]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05282"
    },
    {
       "adddate" : "2020/08/21 23:13",
