@@ -1,5 +1,18 @@
 [
    {
+      "artist" : "vorbis obj:azurite",
+      "comment" : "",
+      "level" : "3",
+      "md5" : "02064175d217843b7dc2c511b3e4236e",
+      "proposer" : "Topio",
+      "proposerMinirid" : "381c5078-4634-43ae-a3b9-e042de243d8c",
+      "sha256" : "a7530dacbbc8410cb5e4b6722203db3be432d0722b9eee0e1c8428641b735de4",
+      "submission" : 510,
+      "title" : "Back 2 Oldskool [DP Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=138&event=96",
+      "url_diff" : "http://ax77.seesaa.net/category/20797962-1.html"
+   },
+   {
       "artist" : "gya9 vs anubasu-anubasu BGA by KG / Obj:ゆ～兎",
       "level" : "2",
       "md5" : "03028a53619420a7318f76c1c04f5cf1",
@@ -1473,6 +1486,20 @@
       "title" : "ふゆいろ ドリーマー",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=100",
       "url_diff" : "https://twitter.com/pme_yw/status/933629434749263872"
+   },
+   {
+      "artist" : "ケドメ　絵/るい　歌/初音ミク 差分/にゃむ",
+      "comment" : "2~3?",
+      "level" : "3",
+      "md5" : "3c4dbc85d18236ca08a8e95549415e9c",
+      "proposer" : "Topio",
+      "proposerMinirid" : "381c5078-4634-43ae-a3b9-e042de243d8c",
+      "sha256" : "3fb928c76b021f4c22be573f0a53bb251260f19fd2f858daee90f53cc23c2725",
+      "submission" : 511,
+      "title" : "QTロジック [DPロジック]",
+      "url" : "https://web.archive.org/web/20151030093456/http://mikihara.cheap.jp/bms/BOF2015/QTlogic_ogg.zip",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/1103",
+      "zureCount" : 0
    },
    {
       "artist" : "sun3 / BGA:Johnny /obj:QJITAI",
