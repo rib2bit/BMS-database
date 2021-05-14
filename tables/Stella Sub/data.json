@@ -2174,6 +2174,18 @@
       "voteYes" : 0
    },
    {
+      "artist" : "くるぶっこちゃん / obj:夢瑠",
+      "level" : "2",
+      "md5" : "1f61632c00fa4fd050c7ccefe54190a1",
+      "proposer" : "Argentum",
+      "proposerLr2id" : 155945,
+      "sha256" : "758cf8918f6a0f22e5aeaecb4f758f13761da7a316a1bde8e74e371e5bcedc66",
+      "submission" : 1452,
+      "title" : "The 84th Flight -aletheia-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=218&event=83",
+      "url_diff" : "http://yumerusabun.web.fc2.com/nue.html"
+   },
+   {
       "artist" : "Lime / inukoro",
       "comment" : "高速",
       "level" : "5",

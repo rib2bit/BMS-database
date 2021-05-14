@@ -8550,6 +8550,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00065"
    },
    {
+      "adddate" : "2021/05/14 14:10",
+      "artist" : "Block / extra-HELL",
+      "comment" : "乱打,連打",
+      "folder" : "2021/05",
+      "genre" : "Techno",
+      "keys" : 7,
+      "level" : "2021/05",
+      "lr2_bmsid" : "",
+      "md5" : "167c7e1299f5d8f7ed075bc1967e8fce",
+      "org_level" : null,
+      "title" : "Subdivision recollection",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05289"
+   },
+   {
       "adddate" : "2020/09/12 21:12",
       "artist" : "MUSIC:ZUN / BMS:銅螺子 obj:tamate",
       "comment" : "16分乱打穴抜き",
@@ -15015,6 +15030,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00749"
    },
    {
+      "adddate" : "2021/05/15 02:06",
+      "artist" : "tanacoro / obj.ぶんぺ～",
+      "comment" : "手動ディレイ(動画:https://youtu.be/C_h1uMJ3Hfc)",
+      "folder" : "2021/05",
+      "genre" : "electro trance",
+      "keys" : "7",
+      "level" : "2021/05",
+      "lr2_bmsid" : "",
+      "md5" : "28095ddd33c068db406e71a4df514c18",
+      "org_level" : null,
+      "title" : "Q [べぇ]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05292"
+   },
+   {
       "adddate" : "2019/10/19 13:15",
       "artist" : "ねこみりん feat.みゆ / むらしん",
       "comment" : "たくさんある",
@@ -15418,6 +15448,21 @@
       "title" : "moongazer [MANIAC]",
       "url" : "",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02735"
+   },
+   {
+      "adddate" : "2021/05/15 02:04",
+      "artist" : "be5moti / うまるつふり / obj.ぶんぺ～",
+      "comment" : "手動ディレイ(動画:https://youtu.be/WMJoqklBD50)",
+      "folder" : "2021/05",
+      "genre" : "betrayer",
+      "keys" : "7",
+      "level" : "2021/05",
+      "lr2_bmsid" : "298944",
+      "md5" : "29066cf60717712fba4526bbf5794fd3",
+      "org_level" : null,
+      "title" : "Trahison [White]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05291"
    },
    {
       "adddate" : "2021/05/11 01:02",
@@ -16228,6 +16273,21 @@
       "title" : "beyond the LuvTek",
       "url" : "http://www.dropbox.com/sh/xrr3fvlhagzsmm2/Wo6KvwhFql/bms",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04229"
+   },
+   {
+      "adddate" : "2021/05/14 15:16",
+      "artist" : "梅干茶漬け (obj:ReiOW)",
+      "comment" : "二重階段、LN、縦連",
+      "folder" : "2021/05",
+      "genre" : "Interstellar flight",
+      "keys" : 7,
+      "level" : "2021/05",
+      "lr2_bmsid" : "297037",
+      "md5" : "2acacfadcf84b192df6daf4cb9a22ec7",
+      "org_level" : null,
+      "title" : "「ほしのおうじさま」 (Hat or snake?)",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05290"
    },
    {
       "adddate" : "2019/04/15 15:03",
@@ -42628,6 +42688,21 @@
       "title" : "浮世絵横丁 [bizarre]",
       "url" : "",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01300"
+   },
+   {
+      "adddate" : "2021/05/14 15:16",
+      "artist" : "梅干茶漬け (obj:ReiOW)",
+      "comment" : "二重階段、LN、縦連",
+      "folder" : "2021/05",
+      "genre" : "Interstellar flight",
+      "keys" : 7,
+      "level" : "2021/05",
+      "lr2_bmsid" : "",
+      "md5" : "70134553f6b17580ffbb2a67c4e79fff",
+      "org_level" : null,
+      "title" : "「ほしのおうじさま」 (From B612)",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05290"
    },
    {
       "adddate" : "2019/06/02 02:50",
@@ -94646,7 +94721,7 @@
       "md5" : "f1ac6350ac2620a7fb5563febb53116a",
       "org_level" : null,
       "title" : "enchanted love [SAETHER]",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=108&event=133",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05265"
    },
    {
