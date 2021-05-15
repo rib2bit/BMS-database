@@ -13530,6 +13530,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Sound piercer Obj.Triforce",
+      "comment" : "乱打",
+      "level" : "4",
+      "md5" : "7ad9ee05094d6bd4e64ed4f65ad2476c",
+      "proposer" : "ИИ",
+      "proposerLr2id" : 147895,
+      "sha256" : "421df56c1b1f07e0e8f158b347431163ecbd31099e9cfd8a51ca69a0cd2ad719",
+      "submission" : 2010,
+      "title" : "DistortedIntelligence [AntiArea]",
+      "url" : "https://venue.bmssearch.net/bmsshuin2/57",
+      "url_diff" : "https://trfce.github.io/sabun/DistortedIntelligence_triforce.zip",
+      "zureCount" : 0
+   },
+   {
       "artist" : "BMS:○△□ / arrange：ろっきゅ",
       "level" : "1",
       "md5" : "7aebf98badb348bd9fc021d3679f675b",
@@ -22178,6 +22192,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Namiel BGI：グーラン / selene.",
+      "comment" : "乱打 / 同時押し / ディレイ",
+      "level" : "12",
+      "md5" : "c840aab0e204e69392b77840f0e42583",
+      "proposer" : "ぶんぺ～",
+      "proposerMinirid" : "3708ebc6-f813-4964-a5e4-deb86620233a",
+      "sha256" : "f016442bb60490aaf5d93d9eeed6e898f39b6188cce5846715f7d6b763fe38bb",
+      "submission" : 2008,
+      "title" : "Grimoire Judgment -Luna-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=129",
+      "url_diff" : "https://stellabms.xyz/upload/551",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Sakamiya feat.mirina img:なのたろ",
       "comment" : "微縦連",
       "level" : "0",
@@ -23579,6 +23607,19 @@
       "title" : "Cutee☆NeverLand [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=127",
       "url_diff" : ""
+   },
+   {
+      "artist" : "r obj : Scely",
+      "level" : "1",
+      "md5" : "d6259aa76c94bdd4e4b885dc2af26623",
+      "proposer" : "ИИ",
+      "proposerLr2id" : 147895,
+      "sha256" : "5bef852c3fbb524e4d1b709d998166c3ad62c31971b940df67f530497d545eb3",
+      "submission" : 2009,
+      "title" : "Abendo [Trioxide]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=426&event=133",
+      "url_diff" : "https://stellabms.xyz/upload/543",
+      "zureCount" : 0
    },
    {
       "artist" : "Team:SASAKURATION obj:YOURI",
@@ -25251,6 +25292,20 @@
       "title" : "ELIMINATOR [AD : 2222]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=133",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05138",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "Black Lotus obj.Restia Assault X",
+      "comment" : "乱打 / 同時押し / 縦連",
+      "level" : "12",
+      "md5" : "e57f292dbed90c3ef23944e43acdcedf",
+      "proposer" : "ぶんぺ～",
+      "proposerMinirid" : "3708ebc6-f813-4964-a5e4-deb86620233a",
+      "sha256" : "7b5e96d27cc227a76591bdb8429e7bbc4f708c9108ce2af6b971c89e8a5b3930",
+      "submission" : 2007,
+      "title" : "suffruti [BLOODY CARNIVAL]",
+      "url" : "https://www.dropbox.com/s/8uo9qsz5acwfuxb/suffruti_BMS_ogg.zip?dl=0",
+      "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpyl0hOC_N2QDEli790?e=gUVlFy",
       "zureCount" : 0
    },
    {
