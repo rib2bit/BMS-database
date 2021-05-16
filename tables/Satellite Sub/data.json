@@ -109,7 +109,7 @@
    {
       "artist" : "七草くりむ mov.都森れん obj.Mary_Sue",
       "comment" : "",
-      "level" : "8",
+      "level" : "6",
       "md5" : "0083f9de62f737c85c99e962074fb07a",
       "proposer" : "Restia",
       "proposerLr2id" : 115265,
@@ -674,7 +674,7 @@
    {
       "artist" : "Kuwagata",
       "comment" : "地力",
-      "level" : "11",
+      "level" : "12",
       "md5" : "049a283f3e0ae3509a718474a2706c7c",
       "proposer" : "KIYOM99",
       "proposerLr2id" : 128003,
@@ -2347,7 +2347,7 @@
    {
       "artist" : "siqlo /obj:Block BGA:HalfEar",
       "comment" : "乱打、ディレイ、縦連、wholeheatedly[A].bms基準ズレ抜け無し。",
-      "level" : "10",
+      "level" : "11",
       "md5" : "13756934dd32940cdd59df75dc94509c",
       "proposer" : "ぶんぺ～",
       "proposerMinirid" : "3708ebc6-f813-4964-a5e4-deb86620233a",
@@ -2879,7 +2879,7 @@
    {
       "artist" : "Personative obj : coolbrl",
       "comment" : "いい!! 打撃感",
-      "level" : "8",
+      "level" : "9",
       "md5" : "1834e440eb1574429d84354807389809",
       "proposer" : "Restia",
       "proposerLr2id" : 115265,
@@ -4795,7 +4795,7 @@
    },
    {
       "artist" : "Cosmos remix by polysha / selene.",
-      "level" : "10",
+      "level" : "9",
       "md5" : "295dfc6bac48fd8a805173be0a5360d0",
       "proposer" : "파이어",
       "proposerLr2id" : 7290,
@@ -5155,7 +5155,7 @@
    {
       "artist" : "sa10/さ",
       "comment" : "ズレ　簡易版バナナマン",
-      "level" : "11",
+      "level" : "12",
       "md5" : "2d034bffd18881fe6757706d6729eb33",
       "proposer" : "matsu",
       "proposerLr2id" : 127851,
@@ -6594,6 +6594,20 @@
       "title" : "The Third Castle [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=136&event=110",
       "url_diff" : ""
+   },
+   {
+      "artist" : "tkqn14 mov : Ju_E / obj : tami",
+      "comment" : "sl6~8 loudness + scr",
+      "level" : "7",
+      "md5" : "3aa72eae8cedec2169f23791e3cd9b51",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "8ccc0736ce0fc6fe0588ea8d59812299121cd68aaa0534c265c4575fa2490d50",
+      "submission" : 2014,
+      "title" : "GASOLiNE BURST [FUJiWARA's TAPiOCA]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=192&event=123",
+      "url_diff" : "https://stellabms.xyz/upload/351",
+      "zureCount" : 0
    },
    {
       "artist" : "Chitose (Movie:zue-row)",
@@ -14836,7 +14850,7 @@
    {
       "artist" : "ルゼ obj. AYhaz",
       "comment" : "sl1-3 hard ending",
-      "level" : "2",
+      "level" : "3",
       "md5" : "869cc79745fd54db3aa1824c2cc1ce5d",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -17684,6 +17698,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "lixound mov:Xquid",
+      "comment" : "同捆譜面/☆12？",
+      "level" : "0",
+      "md5" : "a3c8e94822409624336ded03ee03f831",
+      "proposer" : "TR1",
+      "proposerLr2id" : 152181,
+      "sha256" : "9df4b31011520c7a388af43b690a2fe0572d60a3136811d7deee6a0b0a098b5d",
+      "submission" : 2011,
+      "title" : "Chasing Stars [ANOTHER]",
+      "url" : "https://k-bms.com/party_pabat/party.jsp?board_num=21&num=39",
+      "url_diff" : ""
+   },
+   {
       "artist" : "ああああ [Lyrics：あゆむ]  [Vocal：seaside-metro]  [BGA：TOYCAT]",
       "level" : "0",
       "md5" : "a40af0bc31c2324abca47fb93a6c38dc",
@@ -17926,7 +17953,7 @@
    },
    {
       "artist" : "saaa",
-      "level" : "1",
+      "level" : "0",
       "md5" : "a628db93ddef91ebc48a775f09b06ee3",
       "proposer" : "LimiteKNJ",
       "proposerLr2id" : 58418,
@@ -19853,7 +19880,7 @@
    },
    {
       "artist" : "猫蟹丸 / obj: black train",
-      "level" : "11",
+      "level" : "12",
       "md5" : "b53162a6ed6659406cae48612e943faf",
       "proposer" : "파이어",
       "proposerLr2id" : 7290,
@@ -19934,6 +19961,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "ポロロッカ",
+      "comment" : "inugami koroneは何ですか？",
+      "level" : "0",
+      "md5" : "b60f96f0cd09bd732dc2a8e6da1b1fc4",
+      "proposer" : "used_tami",
+      "proposerMinirid" : "89c2f656-677d-4fa8-828e-11786ee340ca",
+      "sha256" : "89430f7e23c5609b8c49d55d8aef5f0075afde3a7c1d36558c616e5d75431634",
+      "submission" : 2013,
+      "title" : "蒼く爽昧な夢のようで [Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=26&event=131",
+      "url_diff" : ""
    },
    {
       "artist" : "fether obj: qtp13",
@@ -21525,6 +21565,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "BOKKEN PINK BOKKEN DODOME+MAGENTA",
+      "comment" : "ズレ、階段、トリルなど。",
+      "level" : "12",
+      "md5" : "c25af3598e0adbc5e4aade55ddb2019f",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "28ac1457b0a2e6c6a741113f549deac583e93fe544629669c514091e41c1690e",
+      "submission" : 2017,
+      "title" : "eth剣 [Fusion Etude]",
+      "url" : "http://uploader.bms.ms/data/bof2010sr10xl2g/mirror/ethken_ogg.zip",
+      "url_diff" : "https://bms.parksulab.xyz",
+      "zureCount" : 0
+   },
+   {
       "artist" : "LeaF",
       "comment" : "皿地帯無理でもクリア可能",
       "level" : "0",
@@ -22713,6 +22767,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "戒 + テオン / obj.ぶんぺ～",
+      "comment" : "高速乱打、同時押しなど。",
+      "level" : "8",
+      "md5" : "cc711d3cb0c68216693debfe73e102ac",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "9fb093f8e910d8707f45b46e126e2e160ee337bde2ae0e45516a5a7b06a42a24",
+      "submission" : 2016,
+      "title" : "摩訶幻想マジトリク [K-T]",
+      "url" : "https://venue.bmssearch.net/bmsshuin3/14",
+      "url_diff" : "https://stellabms.xyz/upload/802",
+      "zureCount" : 0
    },
    {
       "artist" : "秋山 澪 / obj:夢瑠",
@@ -25036,6 +25104,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "KaKi",
+      "comment" : "sl0~1",
+      "level" : "1",
+      "md5" : "e317b693e89f8fefcef6947603c1b003",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "da228cf785d320fdc921ac9fe6b849290c129e152fe546800d3d43e7fe1aabeb",
+      "submission" : 2015,
+      "title" : "Big Wave [SP ANOTHER]",
+      "url" : "https://bmssearch.net/venue/detail?event=vfpq02&id=15",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Yu^ta",
       "level" : "7",
       "md5" : "e318552be7647f44014dea14989af536",
@@ -27314,6 +27395,19 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=68&event=132",
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "zureCount" : 0
+   },
+   {
+      "artist" : "テヅカ × Qayo BGA: inukoro",
+      "comment" : "同捆譜面/BGA Version",
+      "level" : "0",
+      "md5" : "f8b9491a8e949ede493af3a00ddcb2c6",
+      "proposer" : "TR1",
+      "proposerLr2id" : 152181,
+      "sha256" : "6528df6dc401cd21513801f8c854cac5e219849e4b296754680ce15f2a3585ed",
+      "submission" : 2012,
+      "title" : "ニニ [SP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=124",
+      "url_diff" : ""
    },
    {
       "artist" : "unknown \"β\"",

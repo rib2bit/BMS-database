@@ -3917,7 +3917,7 @@
    {
       "artist" : "litmus* / obj. marie mov : Can.D -mtmrw",
       "comment" : "ガチ押し、階段",
-      "level" : "1",
+      "level" : "0",
       "md5" : "349bc491ec40d5595412637d8a4c8d2e",
       "proposer" : "ぶんぺ～",
       "proposerMinirid" : "3708ebc6-f813-4964-a5e4-deb86620233a",
@@ -4101,6 +4101,20 @@
       "title" : "duty [act out of \"duty\"]",
       "url" : "http://uploader.bms.ms/data/duty_mqwav.zip",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02787"
+   },
+   {
+      "artist" : "Avantgarde obj. LuvTek",
+      "comment" : "ズレ、階段、皿少し。",
+      "level" : "0",
+      "md5" : "377570a11bf6eae491a106ec9a50c43c",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "a63328a7009bfe9215768a7a9250107a5ef8680d846b17aaa18351f1484d44d4",
+      "submission" : 1457,
+      "title" : "GLaDOS [A piece of cake]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=351&event=127",
+      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/",
+      "zureCount" : 0
    },
    {
       "artist" : "403 ERROR Image by HEART CREATE / obj:秘密",
@@ -4985,7 +4999,7 @@
    {
       "artist" : "Remixed by BACO feat.えみゅう (Original : xi) OBJ: M-SPIN",
       "comment" : "同時押し、皿、発狂など。",
-      "level" : "0",
+      "level" : "1",
       "md5" : "4065e4ff3e56fb1543df3a36e8576555",
       "proposer" : "MarySue",
       "proposerLr2id" : 147889,
@@ -5071,6 +5085,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "ねここうもり #ねここ14歳 / obj:muscleMEN",
+      "comment" : "st2~3 no bga ver (misalignment by bga?)",
+      "level" : "3",
+      "md5" : "4146467a6c5bd4c27b5022f10c14efb8",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "46ebf1260b7c01aec6016902cbbae3b5979d94603ae705e1463390a8828a57fe",
+      "submission" : 1454,
+      "title" : "りりくろ！ [DEATH CLOCK]",
+      "url" : "http://necoco.2-d.jp/",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01958"
+   },
+   {
       "artist" : "どうぶつビスケッツ×PPP×Kamisaka obj.hex",
       "comment" : "Remixから著作権 OK..?",
       "level" : "1",
@@ -5101,6 +5128,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "みーに feat. 初音ミク obj:Guanacoite",
+      "comment" : "chords",
+      "level" : "3",
+      "md5" : "41683e94df20635d83a42b2c03a55e45",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "40a3ced064eb84591c57ebe3337d58c31380d26118ea93c8e97103aa498661e6",
+      "submission" : 1455,
+      "title" : "Edge of bravery [Persist in Devastation]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=127",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04665",
+      "zureCount" : 0
    },
    {
       "artist" : "Y.W / A",
@@ -6100,7 +6141,7 @@
    {
       "artist" : "Sound piercer feat.DAZBEE NeLiME / CHERISH / fxxh / Feyrlin obj.akasaka",
       "comment" : "st3?",
-      "level" : "3",
+      "level" : "4",
       "md5" : "4dfe267c203adc4d98989ccebd66271c",
       "proposer" : "MineC24",
       "proposerLr2id" : 84597,
@@ -6461,7 +6502,7 @@
    {
       "artist" : "Chino / obj;NoName",
       "comment" : "0~1?",
-      "level" : "0",
+      "level" : "1",
       "md5" : "518c27df28b90cc4043961b295f3a477",
       "proposer" : "MineC24",
       "proposerLr2id" : 84597,
@@ -8149,6 +8190,19 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03753"
    },
    {
+      "artist" : "SUKE underground",
+      "comment" : "BPM148 連打",
+      "level" : "1",
+      "md5" : "66ad18dc4b94085c87324b757286755b",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "de622e2ed17ed87720c6585a9efdc1c29dd37e231cba8f7401eacc4235f77b1c",
+      "submission" : 1456,
+      "title" : "anti [anticipated]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/anti%20%28by%20SUKE%20underground%29.rar",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
+   },
+   {
       "artist" : "tdef / ZUN / obj. 子",
       "comment" : "from Satellite",
       "level" : "1",
@@ -9036,7 +9090,7 @@
    {
       "artist" : "SHIKI movie:Nyu / putain",
       "comment" : "WAVファイルが追加されたのでズレがあります",
-      "level" : "1",
+      "level" : "2",
       "md5" : "70fe11d2dce993a95cb1151a02d7d6d0",
       "proposer" : "七海",
       "proposerLr2id" : 84597,
@@ -10742,7 +10796,7 @@
    {
       "artist" : "Le Dos-on obj:Guanacoite",
       "comment" : "乱打、体力譜面",
-      "level" : "1",
+      "level" : "2",
       "md5" : "893d732923cc950da5906d13266f1cd5",
       "proposer" : "スノート",
       "proposerLr2id" : 86393,
@@ -11268,7 +11322,7 @@
    {
       "artist" : "ポポス / obj : Mary_Sue",
       "comment" : "BPM168 微連打",
-      "level" : "1",
+      "level" : "2",
       "md5" : "8dbfdb9a32919d2083f5079bfc6d1288",
       "proposer" : "SHAX.",
       "proposerLr2id" : 65624,
@@ -12784,9 +12838,22 @@
       "url_diff" : "https://bms.parksulab.xyz"
    },
    {
+      "artist" : "Takeshita",
+      "comment" : "同梱zip「_Do_you_know_my_BiRTHDAY」に暗号「0112」と入力すれば解凍できます。",
+      "level" : "1",
+      "md5" : "a114160e8bb5dd670908e3d74e45b2eb",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "bf173d76223dba09da883cd44d3d60a0312735179da28ebb985c3296414f8618",
+      "submission" : 1458,
+      "title" : "BiRTH [DAY]",
+      "url" : "https://mega.nz/file/XtNBQCwT#ZXUzHNoZvu-Rur2hK1DyDSXY4-_Qo3gX9XlG54yA6MM",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Kuwagata / obj:七海",
       "comment" : "st5~6",
-      "level" : "5",
+      "level" : "4",
       "md5" : "a129e26fb60d6381fd44b07fd0ab9725",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -14024,7 +14091,7 @@
    {
       "artist" : "qfeileadh＆レゾナンスもえこ mov:Maeus",
       "comment" : "BOFXVI GOD CHART 1",
-      "level" : "6",
+      "level" : "5",
       "md5" : "b0279420063b1f5bc8f16c36cf990f0f",
       "proposer" : "LUXURY♪",
       "proposerLr2id" : 23110,
@@ -16688,7 +16755,7 @@
    {
       "artist" : "しらいし あ",
       "comment" : "指を速く動かし続ける練習に",
-      "level" : "2",
+      "level" : "3",
       "md5" : "d23a2e7dcf07ed2742477f09e50e1bf3",
       "proposer" : "けーちゃん",
       "proposerLr2id" : 137190,
