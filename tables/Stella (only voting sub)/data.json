@@ -40,6 +40,19 @@
       "url_diff" : "http://yumerusabun.web.fc2.com/nue.html"
    },
    {
+      "artist" : "ridis(Rai) Sliced by Crude Sound Cutter Randomized by И",
+      "comment" : "random ",
+      "level" : "4",
+      "md5" : "29459b0e1a1dc2422ab36579beabc253",
+      "proposer" : "♪♪",
+      "proposerLr2id" : 7290,
+      "sha256" : "a49acbb597e58114b50346818970258db7039b8e1d949fd07ea2ed54869c22b4",
+      "submission" : 1464,
+      "title" : "時計仕掛けの少女 [Randomizer]",
+      "url" : "https://www.mediafire.com/file/5x7aeezm20yvlgq/tokeizikake.rar/file",
+      "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
       "artist" : "Avantgarde obj. LuvTek",
       "comment" : "ズレ、階段、皿少し。",
       "level" : "0",
@@ -81,6 +94,20 @@
       "zureCount" : 0
    },
    {
+      "artist" : "nektar obj : Mary_Sue",
+      "comment" : "ガチ押し / 連打",
+      "level" : "2",
+      "md5" : "42e9c19c53f9169ef7b4fde4b132fec3",
+      "proposer" : "ぶんぺ～",
+      "proposerMinirid" : "3708ebc6-f813-4964-a5e4-deb86620233a",
+      "sha256" : "4d1d47805a95bfa8fa013c95c843a2952a220196c74eb89c5dd059331f783d7f",
+      "submission" : 1461,
+      "title" : "Le danseur de Blancs Manteaux [La Danseuse Etoile]",
+      "url" : "https://dropbox.bms.ms/u/38466798/Le%20danseur%20de%20Blancs%20Manteaux%20.zip",
+      "url_diff" : "https://darksabun.github.io/Mary_Sue/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "nmk feat.一花 / obj. AXION Illust:りーふぱい/BGA:わっふゑ",
       "comment" : "BPM173 微縦連系",
       "level" : "6",
@@ -93,6 +120,32 @@
       "url" : "https://venue.bmssearch.net/bmsshuin3/57",
       "url_diff" : "https://stellabms.xyz/upload/770",
       "zureCount" : 0
+   },
+   {
+      "artist" : "qfeileadh&のあ mov:Kengo Nakao",
+      "comment" : "8~9?",
+      "level" : "9",
+      "md5" : "46a2c6c0f73f1520feac4228982eb17d",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "de855068826b71013c371d98aaff047143a043cb7721ceb1149a7d440a1463a4",
+      "submission" : 1459,
+      "title" : "HEXPERUS [ZENITH]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=164&event=133",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "5C01 (C4 + 九八式旋回機関銃) / BGA:scytheleg / obj:C4",
+      "comment" : "0~1?",
+      "level" : "1",
+      "md5" : "51b68d9168d78e215be32c1b8c1f7ce8",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "3e9475fbb2d85407e67fdeaf4fc8a96febc03016151e726a3fcfa8c27ad26a23",
+      "submission" : 1460,
+      "title" : "aberrant sorcery [ANOTHER]",
+      "url" : "https://venue.bmssearch.net/mutualfaith3/20",
+      "url_diff" : ""
    },
    {
       "artist" : "paraoka",
@@ -121,6 +174,33 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
    },
    {
+      "artist" : "美月 正 / arranged by ridis obj.hex",
+      "level" : "2",
+      "md5" : "6d51cb31ecf6e9079e53f3f0d29d2d7c",
+      "proposer" : "♪♪",
+      "proposerLr2id" : 7290,
+      "sha256" : "712da242010a80d738c5ea60940412766725442b0075ff7bf80045cdd5715624",
+      "submission" : 1465,
+      "title" : "heartless wind -ceres remix- [heartless beat machine]",
+      "url" : "https://web.archive.org/web/20041113144827/http://hat774.hp.infoseek.co.jp/ceres_r.zip",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "Music : Lunatic Sounds / BGA : Photonskyto object:nozomi",
+      "comment" : "乱打",
+      "level" : "0",
+      "md5" : "a0ae63d5d9ee29663ecb68f3f63c0f60",
+      "proposer" : "ぶんぺ～",
+      "proposerMinirid" : "3708ebc6-f813-4964-a5e4-deb86620233a",
+      "sha256" : "d320f36f015fe10ba77246d76c4371b70b2ad45282633407400df189bf893a77",
+      "submission" : 1462,
+      "title" : "DataErr0r [EXCEED GEAR -LIGHTNING MODEL-]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=104",
+      "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpymiWPMzSoD-5T-SfA?e=kRz8v0",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Takeshita",
       "comment" : "同梱zip「_Do_you_know_my_BiRTHDAY」に暗号「0112」と入力すれば解凍できます。",
       "level" : "1",
@@ -132,6 +212,19 @@
       "title" : "BiRTH [DAY]",
       "url" : "https://mega.nz/file/XtNBQCwT#ZXUzHNoZvu-Rur2hK1DyDSXY4-_Qo3gX9XlG54yA6MM",
       "url_diff" : ""
+   },
+   {
+      "artist" : "ろうて / 差分 赤い人",
+      "comment" : "横に広い乱打,同時押し,ディレイ（ズレはディレイ由来）",
+      "level" : "1",
+      "md5" : "d4b83bba2acba96689fab73253bca103",
+      "proposer" : "Mallow♪",
+      "proposerLr2id" : 154796,
+      "sha256" : "d95e84f4a501a23f9a4aa4373b1d804db5fe1d2d1626dafab10bd1b9c64b24a8",
+      "submission" : 1463,
+      "title" : "アリスの空虚で愉快な人形劇 [INFERNO]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=102",
+      "url_diff" : "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html"
    },
    {
       "artist" : "syatten + 140 / selene. respect for 発汗BMS",

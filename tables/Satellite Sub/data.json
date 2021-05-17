@@ -15527,6 +15527,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Jun Kuroda feat.mirto",
+      "comment" : "瞬間暴打, 高速乱打",
+      "level" : "3",
+      "md5" : "8e0e786e7dc156fd326e9be4e59861c1",
+      "proposer" : "polynya",
+      "proposerLr2id" : 165397,
+      "sha256" : "c7219e8dfca39f4ee8ca6359e4b2d4e0aa0b51015e0dd2961fbe02cd42fca5da",
+      "submission" : 2019,
+      "title" : "藍より青い憧憬 [Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=70&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "utubo",
       "comment" : "NORMAL判定 総合譜面",
       "level" : "1",
@@ -18195,6 +18208,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Beatrice de Fermat Movie: Evariste Galois",
+      "comment" : "同時押し,  乱打,  皿,  LN",
+      "level" : "2",
+      "md5" : "a892a30eccf09346c3f3ddc587c111c1",
+      "proposer" : "polynya",
+      "proposerLr2id" : 165397,
+      "sha256" : "178fd4c594b6a8d4631a0b7c7ba5eb2998ae6956e9d99aa17cfffe10b852accb",
+      "submission" : 2021,
+      "title" : "Lieselotte et le Sanctuaire des Etoiles [Memoires]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=133",
+      "url_diff" : ""
    },
    {
       "artist" : "judithz / И",
@@ -24816,6 +24842,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "nmk/かなえゆめ obj.quad",
+      "level" : "9",
+      "md5" : "e05b195c3f1898cc7432c1f3969d82ab",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "218fb624f17310058620c626f4d810efa35176c8db67ee1bfb356a41c91ab493",
+      "submission" : 2018,
+      "title" : "Childie Sharp [MANIAC(remake)]",
+      "url" : "http://colosseo.nekokan.dyndns.info/c02_shuffle/detail.php?n=41",
+      "url_diff" : "https://stellabms.xyz/upload/740",
+      "zureCount" : 0
+   },
+   {
       "artist" : "LeaF Movie:Optie / obj:1008",
       "comment" : "BPM一定、ズレあり（詳細はFILES 04611のtxt参考）",
       "level" : "0",
@@ -25891,6 +25930,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "o.s.gate obj:七海",
+      "comment" : "el paraíso rigido (forma de 七海)",
+      "level" : "2",
+      "md5" : "eaaef1ecb6f00074ca25e451b223134d",
+      "proposer" : "AYhaz",
+      "proposerLr2id" : 123475,
+      "sha256" : "3c0d4ce18ee21eca76e56dc31b38cc99e7dab80aeeb8b4c24c24da2d22bcf05b",
+      "submission" : 2020,
+      "title" : "リジットXXパラダイス -Hope-",
+      "url" : "http://sagena.harisen.jp/osg.html",
+      "url_diff" : "https://dl.dropboxusercontent.com/s/qxdgiw3nxulfl86/rizix_nanami.zip",
+      "zureCount" : 0
    },
    {
       "artist" : "Lycoris vs. Pied d'Alouette",
