@@ -1,5 +1,18 @@
 [
    {
+      "artist" : "Lime feat. Salita / deadblue238",
+      "comment" : "☆12入門",
+      "level" : "0",
+      "md5" : "0cc3e5910b567ef01e5dafb8dd0e34ea",
+      "proposer" : "bluemouse",
+      "proposerMinirid" : "38b6fd3c-5f86-4e87-aef8-3f9952471580",
+      "sha256" : "eca4692622abf6168b982e4944a16c3e90c1e2429df4ffb19f2048ba4302c94f",
+      "submission" : 2024,
+      "title" : "Snowfairy [Fairy]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=379&event=83",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Hyparpax",
       "level" : "5",
       "md5" : "0f11ca484064380eefa624cc34cb30c5",
@@ -148,6 +161,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "SHiNKA",
+      "level" : "0",
+      "md5" : "5f8a3d9fd897f22b86c2eddd7a727125",
+      "proposer" : "bluemouse",
+      "proposerMinirid" : "38b6fd3c-5f86-4e87-aef8-3f9952471580",
+      "sha256" : "322eaf37904071422ee50b0e6c65ffe3cfd18bfed83e43d421ded651cb5abba8",
+      "submission" : 2023,
+      "title" : "Trans -- Another",
+      "url" : "http://shinka-cb.sakura.ne.jp/shi_trans.htm",
+      "url_diff" : ""
+   },
+   {
       "artist" : "P*Light / obj:SUKIMA",
       "level" : "3",
       "md5" : "6a96a0341cc77947c76d5e0cd353497f",
@@ -158,6 +183,19 @@
       "title" : "The Shining*",
       "url" : "http://www.mediafire.com/download/aixaaleoae9p0ox/the_shining.rar",
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up1222.rar",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "Chicala Lpis movie:K.MONO,illustration:戀 / obj:SUZUKAZEΛ",
+      "level" : "4",
+      "md5" : "6c0520062fc8eece0ec90b47913bc0ee",
+      "proposer" : "moka",
+      "proposerLr2id" : 167326,
+      "sha256" : "9056c8e6bc63a25343dbf40ba1eeb096bee37feac99ec22a9011e7159eb48ddc",
+      "submission" : 2025,
+      "title" : "Kafig [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=116",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "zureCount" : 0
    },
    {
@@ -507,5 +545,30 @@
       "url" : "https://web.archive.org/web/20040816043156/http://oak.zero.ad.jp/~zac31925/musicbox/lavos.rar",
       "url_diff" : "https://stellabms.xyz/upload/352",
       "zureCount" : 0
+   },
+   {
+      "artist" : "切れてない",
+      "level" : "10",
+      "md5" : "fc2709e715c0e00589cd0903b02fa2c2",
+      "proposer" : "moka",
+      "proposerLr2id" : 167326,
+      "sha256" : "b5346f9b6f4f2d104f0011ab1dfddb8ed0604e7a24ea9d72c5031fbbc10083fe",
+      "submission" : 2026,
+      "title" : "BEN.",
+      "url" : "http://bounge.sakura.ne.jp/kireji_ben_ogg.rar",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "ブースター obj:bms newbie",
+      "comment" : "同時押し系(☆12?)、ゲージ少し重め。　TOTAL値430(0.22%/note)",
+      "level" : "0",
+      "md5" : "fc6ff0a69a913e8f5314d8edb4d5e131",
+      "proposer" : "たる",
+      "proposerLr2id" : 146726,
+      "sha256" : "df077ec54d034df9f549a98b6bb3fb4c786b80f263c7c2a078e64aaba14f765a",
+      "submission" : 2022,
+      "title" : "tightrope city [walkaround]",
+      "url" : "http://aquaseeds.net/archives/bof2010_tightropecity_ogg.rar",
+      "url_diff" : "https://bms.parksulab.xyz"
    }
 ]
