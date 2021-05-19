@@ -19800,6 +19800,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04876"
    },
    {
+      "adddate" : "2021/05/20 04:04",
+      "artist" : "ルゼ / obj:ReiOW",
+      "comment" : "05111ズレ修正[BMSDiffで検査]",
+      "folder" : "2021/05",
+      "genre" : "PSYTEC",
+      "keys" : "7",
+      "level" : "2021/05",
+      "lr2_bmsid" : "297372",
+      "md5" : "34c355d5b554f6c969a6a95fab2e8df6",
+      "org_level" : null,
+      "title" : "3.14 (TT mix) [265]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05312"
+   },
+   {
       "adddate" : "2021/05/12 07:08",
       "artist" : "ルゼ / obj:ReiOW",
       "comment" : "05111の[WhiteDay]11小節目だけのズレ修正（レベル表記も修正）",
@@ -21328,6 +21343,21 @@
       "title" : "tinnitus [Nyannurs]",
       "url" : "https://onedrive.live.com/?cid=578814ACC2BD5A74&id=578814ACC2BD5A74!140",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04652"
+   },
+   {
+      "adddate" : "2021/05/19 17:31",
+      "artist" : "LeaF Movie:Optie&Fiz / obj tyrcs",
+      "comment" : "delay",
+      "folder" : "2021/05",
+      "genre" : "PHANTASMA",
+      "keys" : 7,
+      "level" : "2021/05",
+      "lr2_bmsid" : "",
+      "md5" : "392fc05a3b85e5dfeff29c2858cdd6b7",
+      "org_level" : null,
+      "title" : "MARENOL -chrono revisior-",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05310"
    },
    {
       "adddate" : "2018/06/19 18:13",
@@ -31078,6 +31108,21 @@
       "title" : "ステキナミライ (beginning)",
       "url" : "",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03699"
+   },
+   {
+      "adddate" : "2021/05/20 04:04",
+      "artist" : "ルゼ / obj:ReiOW",
+      "comment" : "05111ズレ修正[BMSDiffで検査]",
+      "folder" : "2021/05",
+      "genre" : "PSYTEC",
+      "keys" : 7,
+      "level" : "2021/05",
+      "lr2_bmsid" : "",
+      "md5" : "50b618d7ec74d73e3eae317ae708722d",
+      "org_level" : null,
+      "title" : "3.14 (TT mix) [WhiteDay]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05312"
    },
    {
       "adddate" : "2020/03/04 12:03",
@@ -45221,7 +45266,7 @@
       "md5" : "765d908b35d56f9b2bb97d0fbd37d1ff",
       "org_level" : null,
       "title" : "Jade Star [Dimlight]",
-      "url" : "",
+      "url" : "http://shiki2.sakura.ne.jp/",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05281"
    },
    {
@@ -49093,6 +49138,21 @@
       "title" : "物怪舞踏[座敷童子]",
       "url" : "http://tsubu.ath.cx/~electrogic/bms/mononoke.rar",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01973"
+   },
+   {
+      "adddate" : "2021/05/20 04:01",
+      "artist" : "しーけー (OBJ: ReiOW)",
+      "comment" : "ズレ全て修正[BMSDiffで検査]",
+      "folder" : "2021/05",
+      "genre" : "musette",
+      "keys" : 7,
+      "level" : "2021/05",
+      "lr2_bmsid" : "",
+      "md5" : "7fd5169e562e523f674006d4c70dc687",
+      "org_level" : null,
+      "title" : "La souvenir [L'Amnesie](v1.0.3)",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05311"
    },
    {
       "adddate" : "2018/04/16 16:47",
