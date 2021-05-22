@@ -15351,6 +15351,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Feryquitous movie:Sight / obj_jakko",
+      "comment" : "sl2-3　G2R2014、ズレ、連打、皿",
+      "level" : "3",
+      "md5" : "8a8a6c2f3511eb0876a6c9a2027d7bbe",
+      "proposer" : ".w",
+      "proposerLr2id" : 147642,
+      "sha256" : "6bc985dc9a28a7654a84744e1f20062e2cfc2aae5026eb465b246f64826f1592",
+      "submission" : 2031,
+      "title" : "Dstorv [false_fix]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=212&event=96",
+      "url_diff" : "http://www.dropbox.com/s/viu4th1ftwobcw5/Dstorv_act1_single4_fix.zip?dl=1",
+      "zureCount" : 0
+   },
+   {
       "artist" : "円湯(Maroyu)",
       "comment" : "同時押し、微縦連、乱打、LN　sl3-4?",
       "level" : "3",
