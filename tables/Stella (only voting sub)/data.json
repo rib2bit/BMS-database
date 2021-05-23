@@ -187,6 +187,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Sakamiya feat.小宮真央 mov:わっふゑ img:hrchem / selene.",
+      "comment" : "(readme.txt) 同梱譜面と比較して手動ディレイ箇所以外の音ズレはありません。",
+      "level" : "1",
+      "md5" : "77920dee7732911b0921c3a87a8b06a8",
+      "proposer" : "nozomi",
+      "proposerLr2id" : 115265,
+      "sha256" : "1eb63c7c20e615175484372dee6fe1647168ac04a37b950add4d8247310f5b5a",
+      "submission" : 1467,
+      "title" : "Luna Express 2032 -Heaven-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=116",
+      "url_diff" : "https://stellabms.xyz/upload/748"
+   },
+   {
       "artist" : "Music : Lunatic Sounds / BGA : Photonskyto object:nozomi",
       "comment" : "乱打",
       "level" : "0",
@@ -212,6 +225,19 @@
       "title" : "BiRTH [DAY]",
       "url" : "https://mega.nz/file/XtNBQCwT#ZXUzHNoZvu-Rur2hK1DyDSXY4-_Qo3gX9XlG54yA6MM",
       "url_diff" : ""
+   },
+   {
+      "artist" : "ねこひめたん",
+      "comment" : "差分のズレはすべて意図的なものです。（ホームページご参照）",
+      "level" : "2",
+      "md5" : "b30814bb85218726148de4ab78affef3",
+      "proposer" : "nozomi",
+      "proposerLr2id" : 115265,
+      "sha256" : "aa27d0f9df9e73d40f11d20de54160b542e49dff4de8ffc96ec663ad2fe50fc5",
+      "submission" : 1466,
+      "title" : "スプラッシュコード－０６ [KF]",
+      "url" : "http://d11x.sakura.ne.jp/bms/curryyojo_Splashcode.rar",
+      "url_diff" : "https://darksabun.github.io/event/renewal/"
    },
    {
       "artist" : "ろうて / 差分 赤い人",
