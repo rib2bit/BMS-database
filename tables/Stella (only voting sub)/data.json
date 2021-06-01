@@ -53,6 +53,20 @@
       "url_diff" : ""
    },
    {
+      "artist" : "LiA",
+      "comment" : "乱打、皿、同時押しなど多要素",
+      "level" : "0",
+      "md5" : "60421a543b4bc1b08fb77f433c5c8408",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "e8246aacd81c5fe6a55be984b8a1c7e53b98723d876a38b58f5539967e1f22be",
+      "submission" : 1480,
+      "title" : "桜シロガネ妖狐伝説 -LiALIZE-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=96&event=115",
+      "url_diff" : "",
+      "zureCount" : 0
+   },
+   {
       "artist" : "rider ILLUST by syuri22 / pattern for some realization",
       "comment" : "基本BPM150 微縦",
       "level" : "4",
@@ -65,6 +79,32 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=18&event=129",
       "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/",
       "zureCount" : 0
+   },
+   {
+      "artist" : "Joulez BG by 羚驢子 / obj by LuvTek",
+      "comment" : "ノーツの少ない易しい微連打譜面。追加音源があるので、全てのズレは意図的なアレンジです。（同梱の20201116.txt参照）",
+      "level" : "5",
+      "md5" : "8785e08433db1d9089a58c3fcf5e7e56",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "90d0c51f4877e18d3fcd25da4c5eb6a9972867b2307c899c16a5b4a7fc260a29",
+      "submission" : 1481,
+      "title" : "Violet Haze [410nm]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=250&event=133",
+      "url_diff" : "https://darksabun.github.io/event/bofxvi/"
+   },
+   {
+      "artist" : "ユナイテッド・メルトダウン・オ嬢 (†Sennzai†ひめりんご†) kanone,Kaoru/Brilliance,hi-low,出前,黒鉛",
+      "comment" : "は？",
+      "level" : "4",
+      "md5" : "8ea6c062df98f73c9211ed793e6d947c",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "977244a1cce33257ba9f7b1df22de2e81cc730e81601407fa69742eee8a9952f",
+      "submission" : 1479,
+      "title" : "爆音峠岬 [は？]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=469&event=133",
+      "url_diff" : ""
    },
    {
       "artist" : "DJ 葱 remixed by silcostones obj : tami",

@@ -6704,6 +6704,20 @@
       "url_diff" : ""
    },
    {
+      "artist" : "India Action Team obj:七海",
+      "comment" : "乱打、トリルなど",
+      "level" : "1",
+      "md5" : "3b0dac1fb0c198db6a588875244dee6a",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "02418effc370ed700870a32963c42f1421a8ee8c4e2377d40d7a537a53b2f4e8",
+      "submission" : 2044,
+      "title" : "Curry -Hope-",
+      "url" : "http://web.archive.org/web/20160614094331/http://ninjaactionteam.sakura.ne.jp/sakuhin_bms.html",
+      "url_diff" : "https://www.dropbox.com/s/gi42ti5vey52ve8/curry_nanami.zip?dl=1",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Music:しらいし obj:Fender",
       "level" : "6",
       "md5" : "3b2d67a4f985b08e2722d867af055d9a",
@@ -20797,6 +20811,20 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02202"
    },
    {
+      "artist" : "くっちー/さ",
+      "comment" : "3~4?",
+      "level" : "4",
+      "md5" : "ba3adb82d930f49620ed810cedd73eae",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "86b83e8d020a6cc7fc837f667a39644f8f02f101d35bc4ed9af3bf2e680b1e9e",
+      "submission" : 2043,
+      "title" : "小さなてのひら (Join Handz Remix) [SABOTHER]",
+      "url" : "http://page.freett.com/ykyk00/",
+      "url_diff" : "http://web.archive.org/web/20190207151524/http://sabosabun.tank.jp/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "TK pattern for some reason",
       "comment" : "sl11のOut of the System[for some reason]が少し珍しい譜面だったのでそれの練習用で",
       "level" : "3",
@@ -21400,6 +21428,20 @@
       "title" : "resta del tramonto",
       "url" : "https://dropbox.bms.ms/u/106790826/resta_del_tramonto.rar",
       "url_diff" : "https://darksabun.github.io/event/renewal/"
+   },
+   {
+      "artist" : "yukitani / DKN Obj.Triforce",
+      "comment" : "同時押し、乱打、体力系。ソフラン少し。",
+      "level" : "5",
+      "md5" : "bebcb4ccdaa9b43840d91a7ccd13e355",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "ba61a1d53f086ae8a44dd964627d8cf7dfc2bdf6c2941e92783555d0ab2557f1",
+      "submission" : 2045,
+      "title" : "Amusing Reflection Rag. [Magical]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=212&event=104",
+      "url_diff" : "https://www.dropbox.com/s/jnrq6xv0fp3e1cy/arr_sptriforce.bme?dl=0",
+      "zureCount" : 0
    },
    {
       "artist" : "yassu/さ BGA : Mentalstock",
