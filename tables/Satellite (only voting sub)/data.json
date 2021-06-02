@@ -109,6 +109,20 @@
       "zureCount" : 0
    },
    {
+      "artist" : "SHIKI movie:Nyu / obj:air",
+      "comment" : "面白い同時押し",
+      "level" : "8",
+      "md5" : "470f274c1c789f8a6d522a71b8575548",
+      "proposer" : "nozomi",
+      "proposerLr2id" : 115265,
+      "sha256" : "b2ba160dd0de32b41a8adcf53ce0a8eb85639d02cee6144532227c578f7974c1",
+      "submission" : 2048,
+      "title" : "Crystal palace [Mr. Blue Eyes]",
+      "url" : "http://shiki2.sakura.ne.jp/",
+      "url_diff" : "http://14b.starfree.jp/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "やっす～/obj:dfsty",
       "level" : "1",
       "md5" : "4c9eac48034b36614e00c0b957db33b0",
@@ -336,6 +350,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "ZUN Arranged by yoa / Lucy BGA:zue-row",
+      "level" : "6",
+      "md5" : "d4d442fc7ff5575b81c6c402026832f6",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "734cf43a874a981b6d2b394225c5e75cac4468be4d1408dbc839b71017e6ed1d",
+      "submission" : 2046,
+      "title" : "Library Rules [Hell]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=92",
+      "url_diff" : "http://www.dropbox.com/s/1birun7qspei9e2/_Library_Rules_7Hell.zip",
+      "zureCount" : 0
+   },
+   {
       "artist" : "r obj : Scely",
       "level" : "1",
       "md5" : "d6259aa76c94bdd4e4b885dc2af26623",
@@ -426,6 +453,19 @@
       "url" : "http://sagena.harisen.jp/osg.html",
       "url_diff" : "https://dl.dropboxusercontent.com/s/qxdgiw3nxulfl86/rizix_nanami.zip",
       "zureCount" : 0
+   },
+   {
+      "artist" : "utzbo obj: K4Y5",
+      "comment" : "最高にハイってJazzだ / 同梱譜面",
+      "level" : "0",
+      "md5" : "eacce744b660550fea3e0727403e6535",
+      "proposer" : "nozomi",
+      "proposerLr2id" : 115265,
+      "sha256" : "df54d80c3c4f423115abb50ddf97a0d55c630aad527f8599e98ad06269bf7a8e",
+      "submission" : 2047,
+      "title" : "Kiss in the dark [SP ANOTHER]",
+      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=21&num=1&order=reg&odtype=a",
+      "url_diff" : ""
    },
    {
       "artist" : "ブースター obj:bms newbie",
