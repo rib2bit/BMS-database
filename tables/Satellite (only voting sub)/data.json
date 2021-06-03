@@ -175,6 +175,18 @@
       "zureCount" : 0
    },
    {
+      "artist" : "ROKINA Illust:あひゅりむ",
+      "level" : "12",
+      "md5" : "6d2293f5b3c248a00094169c1f10f2b6",
+      "proposer" : "moka",
+      "proposerLr2id" : 167326,
+      "sha256" : "4a85b746614c4894164e4f9577e39423c458598debdb2725645d638e812a7a92",
+      "submission" : 2049,
+      "title" : "La Tierra de Majestad [MASTER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=262&event=110",
+      "url_diff" : ""
+   },
+   {
       "artist" : "* (Asterisk) / obj:スノート 前川みく×多田李衣菜",
       "comment" : "強めのsl2くらいかなあって思います",
       "level" : "2",
@@ -214,6 +226,19 @@
       "title" : "STAR TRACK (NiraicA_nai Mix) [constellation]",
       "url" : "http://thbok.com/data/roop_startrack.rar",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04182",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "bubbles obj:Fender",
+      "level" : "2",
+      "md5" : "9a50c8e205ac779944a6855b9c003b6f",
+      "proposer" : "moka",
+      "proposerLr2id" : 167326,
+      "sha256" : "8665c771643d7c13c9d8fdb329c45cd02cfda208228da816f82dd52966b17efd",
+      "submission" : 2050,
+      "title" : "F [F]",
+      "url" : "http://web.archive.org/web/20070110055722/http://popcandy.bms.ms/bof2006/thepowerpuffgirls-bubbles-F.rar",
+      "url_diff" : "http://fenderbms.web.fc2.com/",
       "zureCount" : 0
    },
    {
