@@ -1,4 +1,346 @@
 {
+   "course" : [
+      [
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2",
+               "ln"
+            ],
+            "md5" : [
+               "9ee5524e4ed8a3e7033b4de1fedc35fd",
+               "9498378a847b94b949d11a566a86d3c0",
+               "4023045d9134dfc47e953bc430e5ef07",
+               "bb5d0716c18b37f9687bbcea17fc646c"
+            ],
+            "name" : "Satellite Skill Analyzer 2nd sl0",
+            "trophy" : [
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2",
+               "ln"
+            ],
+            "md5" : [
+               "ddb2c34e1543c219c4b251b13671be1f",
+               "d2d922aa6bcaeed61087d434b330c30e",
+               "02af89d2c76d4494b6561ee2c94b15cd",
+               "a0f64c8af8621f4fdce97e24193a76cb"
+            ],
+            "name" : "Satellite Skill Analyzer 2nd sl1",
+            "trophy" : [
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2",
+               "ln"
+            ],
+            "md5" : [
+               "e5f4a30db9a9bd1ebab13d97b37fca75",
+               "fffcdd50280873a3a6a8efb584b5454b",
+               "bb51e06228e7279b47120b9a5c527421",
+               "dc5d89d22642fe863b5ec6ec83b3eada"
+            ],
+            "name" : "Satellite Skill Analyzer 2nd sl2",
+            "trophy" : [
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2",
+               "ln"
+            ],
+            "md5" : [
+               "de4b2ccfd35befc3aa9fd746343115c1",
+               "8eb958b06d294ec88dc0620ce43e10b3",
+               "6334415043e69d0eb5afc18da3aab1a4",
+               "e85c07e4aa2601ea97d90d7157a89894"
+            ],
+            "name" : "Satellite Skill Analyzer 2nd sl3",
+            "trophy" : [
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2",
+               "ln"
+            ],
+            "md5" : [
+               "d72477a3cbf5f2c096039a4685b4929f",
+               "1804c40d5ed2092fea58ad5b7e98e882",
+               "1cc3ef8d8b7dec5515d7168e5e03cfa7",
+               "d5414294b120d5f2dbfec4eb6cd59f38"
+            ],
+            "name" : "Satellite Skill Analyzer 2nd sl4",
+            "trophy" : [
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2",
+               "ln"
+            ],
+            "md5" : [
+               "b6f2c8d798b81f67a14ce05c50cb3b07",
+               "85ff41c5e0d78d19d06507dbb16ba72f",
+               "21b4c6161aa75946b0692ed375010f68",
+               "164efb64a46f8bd10b83c00b9436f5f8"
+            ],
+            "name" : "Satellite Skill Analyzer 2nd sl5",
+            "trophy" : [
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2",
+               "ln"
+            ],
+            "md5" : [
+               "fe2fbfefcdf57b56bb6aaa89d6ee11cc",
+               "c565d6dbf6346e6a28277742ecd9d60c",
+               "7d8b3dcd63e6adea25807ab25ea1544c",
+               "438fa3931fcbb5b71c27b6587c5034c3"
+            ],
+            "name" : "Satellite Skill Analyzer 2nd sl6",
+            "trophy" : [
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2",
+               "ln"
+            ],
+            "md5" : [
+               "649ee01d75eae442f8c1122ca35c70f0",
+               "e6e9e37764eb800b5417d43824c92717",
+               "c778712db728ca7e88b9ba3cf1836479",
+               "489ddffa0c8d458530d93da6b0354cae"
+            ],
+            "name" : "Satellite Skill Analyzer 2nd sl7",
+            "trophy" : [
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2",
+               "ln"
+            ],
+            "md5" : [
+               "b7148c7e0a7a5fd58232c85f3b4b8692",
+               "4ca647a61e781803b2d7bf54f0d582c2",
+               "1bc969cfd715e1bea67839599035c94e",
+               "225552f7a4a30610e0ff28671ca7230f"
+            ],
+            "name" : "Satellite Skill Analyzer 2nd sl8",
+            "trophy" : [
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2",
+               "ln"
+            ],
+            "md5" : [
+               "116b85b4c01a2cd2cc76ac9e4572e3fe",
+               "d7f000e155172ab880f7be09769124cb",
+               "cf7c4f006cd571da3b83e355bc64f314",
+               "1bc98542eaf7f0cccfb4026bb3c25f49"
+            ],
+            "name" : "Satellite Skill Analyzer 2nd sl9",
+            "trophy" : [
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2",
+               "ln"
+            ],
+            "md5" : [
+               "fd76b7d207db6c3942bfac0af6fac8db",
+               "24c869a51384af113e9271a766e7d4be",
+               "1fdd8463a1bc45db75e803f33708ab8e",
+               "8b3c66f945d041b5df53ba3e292e5c54"
+            ],
+            "name" : "Satellite Skill Analyzer 2nd sl10",
+            "trophy" : [
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2",
+               "ln"
+            ],
+            "md5" : [
+               "cc1c4f40886d7ea1d32f867fb9ea2e20",
+               "5ef59b86b228978d435115aa7a9e564a",
+               "4f86c4d20af4d619f9fbe693db0c0d30",
+               "be15c9f54f0a0cd0e5c1737415dc7182"
+            ],
+            "name" : "Satellite Skill Analyzer 2nd sl11",
+            "trophy" : [
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         },
+         {
+            "constraint" : [
+               "grade_mirror",
+               "gauge_lr2",
+               "ln"
+            ],
+            "md5" : [
+               "1eeb095a41e3db3addbacf2483c80a3a",
+               "6a3762ad91ec89392dda8554360f66c1",
+               "84f24615319041873d799faf257d86bf",
+               "4648b0a5679acf21bc8102ac95e50585"
+            ],
+            "name" : "Satellite Skill Analyzer 2nd sl12",
+            "trophy" : [
+               {
+                  "missrate" : 5,
+                  "name" : "silvermedal",
+                  "scorerate" : 70
+               },
+               {
+                  "missrate" : 2.5,
+                  "name" : "goldmedal",
+                  "scorerate" : 85
+               }
+            ]
+         }
+      ]
+   ],
    "data_url" : "data.json",
    "name" : "Satellite (only voting sub)",
    "original_url" : "https://stellabms.xyz/sl/table_vote.html",
