@@ -67,6 +67,23 @@
       "zureCount" : 0
    },
    {
+      "artist" : "あとぅす feat.つゆり花鈴 BGI:りーふぱいザウルス",
+      "level" : "9",
+      "md5" : "39451b7b2ef9310b5d9685c07fb2fd42",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "3ff806be6e29eb11641b2a9ebcaf6051c64eb470dd1c5b62fb111060b88ed29b",
+      "submission" : 1877,
+      "title" : "REZIDUAL MiND [CONNECT]",
+      "url" : "https://venue.bmssearch.net/bmsshuin3/34",
+      "url_diff" : "",
+      "voteNeutral" : 1,
+      "voteNo" : 2,
+      "votePercent" : 80.7692307692308,
+      "voteVersion" : 2,
+      "voteYes" : 10
+   },
+   {
       "artist" : "455 / *8284* / obj:秘密",
       "comment" : "アレンジなのでズレチェック不可能",
       "level" : "11",
@@ -242,6 +259,23 @@
       "zureCount" : 0
    },
    {
+      "artist" : "MORRIGAN / obj:Felisica",
+      "level" : "12",
+      "md5" : "7c6a1c1af2862f457bc8dababc84f59c",
+      "proposer" : "marie",
+      "proposerMinirid" : "3977549d-6d82-4c50-ba91-1fdc6b430afe",
+      "sha256" : "8c8fbeda570e0fbeead5d97f230dfd7051f24a08ac01ab2b04ad2e1e4fb4e92a",
+      "submission" : 1555,
+      "title" : "the core [core]",
+      "url" : "http://web.archive.org/web/20070105100125/http://pal.mydns.to:80/morrigan/jazz/bms/core.rar",
+      "url_diff" : "http://fuki1755.starfree.jp/sabun/the_core_fel.zip",
+      "voteNeutral" : 3,
+      "voteNo" : 5,
+      "votePercent" : 40.9090909090909,
+      "voteVersion" : 2,
+      "voteYes" : 3
+   },
+   {
       "artist" : "roop from STR [obj. vi]",
       "comment" : "sl0 ~ sl1",
       "level" : "1",
@@ -375,6 +409,23 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Daily天利 BGA by Daily天利 & Nakaiankow / obj: Scely",
+      "level" : "1",
+      "md5" : "cb1bead8f1793f122f7b7484f429e182",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "28c354e64c018620e8e7596e748f41a5ed82ca412fb64477ec7b6e5c51b709ec",
+      "submission" : 1863,
+      "title" : "After ZABANIYA [SP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=119&event=133",
+      "url_diff" : "",
+      "voteNeutral" : 5,
+      "voteNo" : 2,
+      "votePercent" : 75,
+      "voteVersion" : 2,
+      "voteYes" : 11
+   },
+   {
       "artist" : "戒 + テオン / obj.ぶんぺ～",
       "comment" : "高速乱打、同時押しなど。",
       "level" : "8",
@@ -426,6 +477,23 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=426&event=133",
       "url_diff" : "https://stellabms.xyz/upload/543",
       "zureCount" : 0
+   },
+   {
+      "artist" : "LV.4 obj.Restia",
+      "level" : "2",
+      "md5" : "dce567d3248c22cb169a0dda996ae674",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "743f748925cc2333cec8e4b9f3217a463386dc3ca30965d132a03937da95a998",
+      "submission" : 1673,
+      "title" : "Mind Quest [7key//ABNORMAL]",
+      "url" : "https://1drv.ms/u/s!ApwaJAUHJdpyjx31NpN0wGy-yO9V",
+      "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpylzdetL3mbvjyhr-U?e=h2U868",
+      "voteNeutral" : 1,
+      "voteNo" : 0,
+      "votePercent" : 95.8333333333333,
+      "voteVersion" : 2,
+      "voteYes" : 11
    },
    {
       "artist" : "BMS：Ｆ／Ａ１８　MIDI：徒桜　BGA：kaoru/さ",
@@ -506,6 +574,23 @@
       "url_diff" : ""
    },
    {
+      "artist" : "mossari feat.TEA",
+      "level" : "1",
+      "md5" : "e70b8c18644b7f2fca66ba7d32b45179",
+      "proposer" : "ИИ",
+      "proposerLr2id" : 147895,
+      "sha256" : "fdb98d14506b7758b3af7c07fbe91c4357814e1fa9b431cb2439d7de4e43e999",
+      "submission" : 1678,
+      "title" : "Midnight o'clock [Insane]",
+      "url" : "https://dropbox.bms.ms/u/59367462/Midnight%20o'clock.rar",
+      "url_diff" : "",
+      "voteNeutral" : 5,
+      "voteNo" : 2,
+      "votePercent" : 73.5294117647059,
+      "voteVersion" : 2,
+      "voteYes" : 10
+   },
+   {
       "artist" : "o.s.gate obj:七海",
       "comment" : "el paraíso rigido (forma de 七海)",
       "level" : "2",
@@ -531,6 +616,20 @@
       "title" : "Kiss in the dark [SP ANOTHER]",
       "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=21&num=1&order=reg&odtype=a",
       "url_diff" : ""
+   },
+   {
+      "artist" : "H.U.T GiGAR / obj:K-SPIN",
+      "comment" : "同時押し",
+      "level" : "6",
+      "md5" : "ecd5bb8416bff09a481e8a53ef9e7df6",
+      "proposer" : "CZ",
+      "proposerLr2id" : 71142,
+      "sha256" : "c21dab92ae67a8fcf808b620f185551643322a186c6a35551fbef0f58347716b",
+      "submission" : 2054,
+      "title" : "WE ARE NOT BACK DOWN -RUNOTHER-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=337&event=104",
+      "url_diff" : "https://web.archive.org/web/20180609051857/http://kspinbms.web.fc2.com/insane.html",
+      "zureCount" : 0
    },
    {
       "artist" : "ブースター obj:bms newbie",

@@ -26588,6 +26588,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "H.U.T GiGAR / obj:K-SPIN",
+      "comment" : "同時押し",
+      "level" : "6",
+      "md5" : "ecd5bb8416bff09a481e8a53ef9e7df6",
+      "proposer" : "CZ",
+      "proposerLr2id" : 71142,
+      "sha256" : "c21dab92ae67a8fcf808b620f185551643322a186c6a35551fbef0f58347716b",
+      "submission" : 2054,
+      "title" : "WE ARE NOT BACK DOWN -RUNOTHER-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=337&event=104",
+      "url_diff" : "https://web.archive.org/web/20180609051857/http://kspinbms.web.fc2.com/insane.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "雑味蔵",
       "comment" : "高速階段, 二重階段",
       "level" : "2",

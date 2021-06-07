@@ -4429,6 +4429,19 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04572"
    },
    {
+      "artist" : "daisan obj.hex",
+      "level" : "0",
+      "md5" : "3a1661a3eaafa13f976e1010d5b87ca0",
+      "proposer" : "moka",
+      "proposerLr2id" : 167326,
+      "sha256" : "38510936640eb8fc3859dc38ee876fa144a2e314469b2b4122a5cdca9ab5e8f9",
+      "submission" : 1482,
+      "title" : "reAdvenTia [Pentagon]",
+      "url" : "http://clockxellox.sakura.ne.jp/BMS/%5bBOFU2015%5dreadventia%5bSAIJAKU%5d.zip",
+      "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "q/stol / obj:秘密",
       "comment" : "ラストが少し簡単？",
       "level" : "1",
@@ -8267,6 +8280,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "unknown \"θ\" obj : Mary_Sue",
+      "level" : "0",
+      "md5" : "6657e1f9888d369ad28da3d3396e4d65",
+      "proposer" : "moka",
+      "proposerLr2id" : 167326,
+      "sha256" : "b5b47d28ed0b90b35c3e3d0c879cdd7a115317a842f05cb86eae5854310d0a12",
+      "submission" : 1483,
+      "title" : "宇宙を照らすイミテーション・スター [Maryther]",
+      "url" : "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/MIsn2R4J",
+      "url_diff" : "https://darksabun.github.io/Mary_Sue/",
+      "zureCount" : 0
    },
    {
       "artist" : "fether/NitsuR",
