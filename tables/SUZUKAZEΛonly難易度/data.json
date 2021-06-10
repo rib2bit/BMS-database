@@ -628,6 +628,18 @@
       "url_diff" : "https://dl.dropbox.com/s/0734okim2xx464n/ne_sala_zoi.zip?dl=1"
    },
    {
+      "artist" : "かんざきしおん obj:SUZUKAZEΛ",
+      "comment" : "乱打,微縦連,LN,皿複合",
+      "level" : "10",
+      "lr2_bmsid" : "299840",
+      "md5" : "29ed987261fb7f0ede60a3db277daae8",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "Teravolt [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=45&event=135",
+      "url_diff" : "https://dl.dropbox.com/s/350tv5zcev5m2ag/teravolt_kanzakishion_zoi.zip?dl=1"
+   },
+   {
       "artist" : "Playerβ obj:SUZUKAZEΛ",
       "comment" : "乱打,同時押し,皿絡み",
       "level" : "7",
@@ -700,6 +712,18 @@
       "title" : "Rise Above the Firmament [ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=121",
       "url_diff" : "https://dl.dropbox.com/s/4xbf6fcp9l92fka/%5Bsaaa%5DRise%20Above%20the%20Firmament_zoi.zip?dl=1"
+   },
+   {
+      "artist" : "hard obj:SUZUKAZEΛ",
+      "comment" : "乱打,LN,皿",
+      "level" : "12",
+      "lr2_bmsid" : "299841",
+      "md5" : "31a14f8d035f9d0801c5d173b0d31c38",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "EMOTIONAL POLARIZATION [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=79&event=135",
+      "url_diff" : "https://dl.dropbox.com/s/8akhlvfvt8arjxg/%5Bhard%5Demotinal_polarization_zoi.zip?dl=1"
    },
    {
       "artist" : "q/stol obj:SUZUKAZEΛ",
@@ -1683,6 +1707,19 @@
       "url_diff" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=76&event=127"
    },
    {
+      "artist" : "TranceMAX obj:SUZUKAZEΛ",
+      "comment" : "★4～5,乱打,LN,微縦連",
+      "level" : "ZOI",
+      "lr2_bmsid" : "300013",
+      "md5" : "5adffdaef14156061914a7d0b7674ea7",
+      "name_diff" : "第三弾 DL",
+      "reg_date" : " ",
+      "state" : 1,
+      "title" : "Extreme Wave 2 [ZOI]",
+      "url" : "http://musicgamelab.com:88/KBSP2009.exe",
+      "url_diff" : "https://dl.dropbox.com/s/mqlpmcsjw1ar2x8/trancemax%20-%20extreme%20wave%202_zoi.zip?dl=1"
+   },
+   {
       "artist" : "かむちゃうらる obj:SUZUKAZEΛ",
       "comment" : "ズレ,ガチ押し,乱打",
       "level" : "6",
@@ -1839,6 +1876,18 @@
       "title" : "QSHELL －拒色のシェルル－ [EZ-ZOI]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=147&event=123",
       "url_diff" : "https://dl.dropbox.com/s/iel0tchwwpj03e3/Sheruru_zoi.zip?dl=1"
+   },
+   {
+      "artist" : "MoVIIkA Movie:Arishima_ / obj:SUZUKAZEΛ",
+      "comment" : "乱打,同時押し,物量",
+      "level" : "8",
+      "lr2_bmsid" : "299859",
+      "md5" : "64027766480f1d959034defec4350419",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "Throoughout [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=69&event=135",
+      "url_diff" : "https://dl.dropbox.com/s/6hoouaxxqh39hbb/moviika%20-%20throoughout_zoi.zip?dl=1"
    },
    {
       "artist" : "P4koo feat.つゆり花鈴 Illust PlatiSU / obj:SUZUKAZEΛ",
@@ -4628,6 +4677,18 @@
       "url_diff" : "https://dl.dropbox.com/s/ao1n1e5zo9z4ux2/searoadremix2zoi.zip?dl=0"
    },
    {
+      "artist" : "白羽 ft, Y BGI.Yamucha / obj:SUZUKAZEΛ",
+      "comment" : "乱打,皿,微縦連",
+      "level" : "7",
+      "lr2_bmsid" : "299858",
+      "md5" : "f2009a2fbd81ad20fdae611c8aeefb05",
+      "name_diff" : "DL",
+      "reg_date" : " ",
+      "title" : "LychniS -Flannel- [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=50&event=135",
+      "url_diff" : "https://dl.dropbox.com/s/wbh6l6947hv5v6c/lychnis_zoi.zip?dl=1"
+   },
+   {
       "artist" : "KAH BGA:自動車 原付 illust:りゅうら / obj:SUZUKAZEΛ",
       "comment" : "皿複合,微縦連,ズレ,高速階段",
       "level" : "7",
@@ -4729,7 +4790,7 @@
    {
       "artist" : "さかみりと img:しぐれぷに子",
       "comment" : "高速階段,微縦連,皿複合",
-      "level" : "10",
+      "level" : "9",
       "lr2_bmsid" : "253948",
       "md5" : "f4e9aca685fa4e3ab896010474ea1d45",
       "name_diff" : "DL",
