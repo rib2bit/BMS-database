@@ -67,6 +67,23 @@
       "zureCount" : 0
    },
    {
+      "artist" : "m108 BGA:メツヤ Illust:flap Notes:夢瑠",
+      "level" : "5",
+      "md5" : "29b0684e44c96d385748fca44f5533b9",
+      "proposer" : "com0",
+      "proposerLr2id" : 138984,
+      "sha256" : "b47be767b4960005383ea4458ecfee4849c164be8e87f0c167805f6aedeb0858",
+      "submission" : 779,
+      "title" : "XIII Charlotte -BLACK ANOTHER-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=116",
+      "url_diff" : "",
+      "voteNeutral" : 2,
+      "voteNo" : 3,
+      "votePercent" : 73.3333333333333,
+      "voteVersion" : 2,
+      "voteYes" : 10
+   },
+   {
       "artist" : "梅干茶漬け (obj:ReiOW)",
       "comment" : "BOFXVI/LN/中盤発狂/階段",
       "level" : "2",
@@ -164,6 +181,19 @@
       "title" : "Crystal palace [Mr. Blue Eyes]",
       "url" : "http://shiki2.sakura.ne.jp/",
       "url_diff" : "http://14b.starfree.jp/",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "linear ring obj:SUZUKAZEΛ",
+      "level" : "2",
+      "md5" : "4bc6cf9081034e5bfd006d101da9c232",
+      "proposer" : "EZ2BMSDX",
+      "proposerMinirid" : "f5ed3606-f38e-40e7-bfd7-57661d61b852",
+      "sha256" : "f81c80198139322d3c0f37bb728fdd4b9ced87cf28eb35a1283f8d13447aeab7",
+      "submission" : 2056,
+      "title" : "enchanted love [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=108&event=133",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "zureCount" : 0
    },
    {
