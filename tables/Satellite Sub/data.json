@@ -277,6 +277,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "SHIKI movie:Nyu",
+      "comment" : "同梱譜面 sl1~2 ?",
+      "level" : "2",
+      "md5" : "016dbabf3eef17255efa4b675806a3ee",
+      "proposer" : "はさい",
+      "proposerLr2id" : 96305,
+      "sha256" : "bc8d659964a4e898d52d028bdfa1565d3bbaa388181ceeab50d9c1879b59f377",
+      "submission" : 2059,
+      "title" : "Crystal palace [ANOTER7]",
+      "url" : "http://shiki2.sakura.ne.jp/fohs.html",
+      "url_diff" : ""
+   },
+   {
       "artist" : "ATEMAK / obj:GN",
       "comment" : "高速",
       "level" : "8",
@@ -2744,20 +2757,6 @@
       "url_diff" : ""
    },
    {
-      "artist" : "MisomyL obj.Restia",
-      "comment" : "乱打、ガチ押し、ズレ、トリル",
-      "level" : "12",
-      "md5" : "16d093e99822d1bc7bdc8a0f79c2ec9c",
-      "proposer" : "ぶんぺ～",
-      "proposerMinirid" : "3708ebc6-f813-4964-a5e4-deb86620233a",
-      "sha256" : "61a769b73abae01347570a1e1c188b10afb1489c9f421e98bedd9dfbdf3717b7",
-      "submission" : 1952,
-      "title" : "Catalinesie [Lunatic]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=442&event=133",
-      "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpymh62EVgcwVkpWPs6?e=wdxUZc",
-      "zureCount" : 0
-   },
-   {
       "artist" : "ginkiha",
       "level" : "0",
       "md5" : "16fbc506283b3630d7c5289deef5a8ec",
@@ -4740,6 +4739,19 @@
       "title" : "VoLueTRiC -ANOTHER-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=108",
       "url_diff" : ""
+   },
+   {
+      "artist" : "牧野 Sliced by И",
+      "comment" : "ガチ押し / 追加音源分キー音ズレが有ります。",
+      "level" : "12",
+      "md5" : "289a9abfbe1b7f3ee35813ade6e5155b",
+      "proposer" : "ぶんぺ～",
+      "proposerMinirid" : "3708ebc6-f813-4964-a5e4-deb86620233a",
+      "sha256" : "066e6464a20372fa9d5d689aba4e6da64e322ee578c9f5a271feb7608bf77587",
+      "submission" : 2058,
+      "title" : "From Megalopolis with Love [A+]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=124",
+      "url_diff" : "https://bms.parksulab.xyz"
    },
    {
       "artist" : "GYAON / obj:颯",
@@ -8898,6 +8910,20 @@
       "title" : "もう一つのregrets -鬼-",
       "url" : "http://creation-records.info/bms/lr_r_44teru-k.rar",
       "url_diff" : ""
+   },
+   {
+      "artist" : "MINT BGA : Can.D-mtmrw / obj : porter9876",
+      "comment" : "乱打 / 縦連 / ディレイ",
+      "level" : "12",
+      "md5" : "4dbd9d03b996fb9e3d671d3f723834ef",
+      "proposer" : "ぶんぺ～",
+      "proposerMinirid" : "3708ebc6-f813-4964-a5e4-deb86620233a",
+      "sha256" : "50bcd45f8ddd6b2388a949265a91b6a40d895c8289d96195556237a52d4df68b",
+      "submission" : 2057,
+      "title" : "CYCLONE [Typhoon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=37&event=96",
+      "url_diff" : "https://stellabms.xyz/upload/937",
+      "zureCount" : 0
    },
    {
       "artist" : "Aliesrite* (Ym1024 feat. lamie*) obj:monaka",
@@ -19125,7 +19151,7 @@
    {
       "artist" : "BACO feat. るぜ obj : Mary_Sue",
       "comment" : "(본 이벤트 코멘트 참조) 곡 본체의 'PLUS'라는 압축파일에 동봉된 ____whitelolita_def.bme(미배치 파일) 기준 즈레없음.",
-      "level" : "8",
+      "level" : "9",
       "md5" : "acde9160cc8b668d78580fc8cc247116",
       "proposer" : "nozomi",
       "proposerLr2id" : 115265,
@@ -21486,6 +21512,18 @@
       "voteYes" : 0
    },
    {
+      "artist" : "tarolabo & Sakuzyo Movie:あるし",
+      "level" : "0",
+      "md5" : "be3f51590d58e054b83d87a3ca2802dc",
+      "proposer" : "ИИ",
+      "proposerLr2id" : 147895,
+      "sha256" : "958682ab7f858c5862f5ad960f8b80cf8b0394dc8bffe61612817e99237be30c",
+      "submission" : 2060,
+      "title" : "眠りの花束 [INSANE]",
+      "url" : "https://drive.google.com/u/0/uc?id=192r_emSD6pkfQtOV3qb78n5tPGsdh4oK&export=download",
+      "url_diff" : ""
+   },
+   {
       "artist" : "みーに feat. 初音ミク",
       "level" : "0",
       "md5" : "be75d2aa1742255f3fdaa94d11ba166f",
@@ -22279,6 +22317,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "kireji",
+      "comment" : "なるほど2021年じゃねーの",
+      "level" : "0",
+      "md5" : "c645a8969e6831c30441ccfa77fc77bd",
+      "proposer" : "ИИ",
+      "proposerLr2id" : 147895,
+      "sha256" : "01ceaa1db4841bed9ea8bae1a199dd541bc2a1c47fee8598bb47d2c1b1cadf50",
+      "submission" : 2061,
+      "title" : "なるほど2011年じゃねーの [日の出]",
+      "url" : "https://drive.google.com/uc?export=download&id=1yT58CJsEe2R_tuXIR_oVzEs1E6MPQ-n_",
+      "url_diff" : ""
    },
    {
       "artist" : "さかみりな img:おまる氏 notes:おさら",

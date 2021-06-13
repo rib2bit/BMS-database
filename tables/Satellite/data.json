@@ -1328,18 +1328,6 @@
       "url_diff" : ""
    },
    {
-      "artist" : "MisomyL obj.Restia",
-      "comment" : "乱打、ガチ押し、ズレ、トリル",
-      "level" : "12",
-      "md5" : "16d093e99822d1bc7bdc8a0f79c2ec9c",
-      "proposer" : "ぶんぺ～",
-      "sha256" : "61a769b73abae01347570a1e1c188b10afb1489c9f421e98bedd9dfbdf3717b7",
-      "submission" : 1952,
-      "title" : "Catalinesie [Lunatic]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=442&event=133",
-      "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpymh62EVgcwVkpWPs6?e=wdxUZc"
-   },
-   {
       "artist" : "ginkiha",
       "level" : "0",
       "md5" : "16fbc506283b3630d7c5289deef5a8ec",
@@ -3394,6 +3382,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "455 / *8284* / obj:秘密",
+      "comment" : "アレンジなのでズレチェック不可能",
+      "level" : "11",
+      "md5" : "3aa94d21ece8da5ef2f5e31b10188d7c",
+      "proposer" : "七海",
+      "sha256" : "1027e94da8b1cb925915247a1227eb4dabd2128fd060784ee6ebd3c438b845c2",
+      "submission" : 2027,
+      "title" : "G e n g a o z o GOD⇒Side",
+      "url" : "http://malie.noor.jp/",
+      "url_diff" : "http://hiiiii.web.fc2.com/sabun/insane.html"
+   },
+   {
       "artist" : "Chitose (Movie:zue-row)",
       "comment" : "良地力譜面",
       "level" : "0",
@@ -4065,6 +4065,18 @@
       "title" : "Spherescense [Nemesis]",
       "url" : "https://venue.bmssearch.net/bmsshuin3/42",
       "url_diff" : "https://trfce.github.io/sabun/(133)Spherescense_triforce.zip"
+   },
+   {
+      "artist" : "CAELUS / obj:K-SPIN",
+      "comment" : "ガチ押し",
+      "level" : "9",
+      "md5" : "46a5f63f83827ca256f9caec48d57844",
+      "proposer" : "AYhaz",
+      "sha256" : "f5c040e7f5784fd093c3d7557ac906fc68f56b8c93b5dc06a2aece8b0914612d",
+      "submission" : 2030,
+      "title" : "Aloft -Montgolfier-",
+      "url" : "https://drive.google.com/file/d/1P8wEPMiwbciEcn3gEV1f-YP9Bx_gDAMr/view?usp=sharing",
+      "url_diff" : "http://mirror.lovelrad.io/uploader/src/up6329.zip"
    },
    {
       "artist" : "はがね obj. 0samil0 vs Lapis",
@@ -7033,6 +7045,18 @@
       "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html"
    },
    {
+      "artist" : "Sound piercer Obj.Triforce",
+      "comment" : "乱打",
+      "level" : "4",
+      "md5" : "7ad9ee05094d6bd4e64ed4f65ad2476c",
+      "proposer" : "ИИ",
+      "sha256" : "421df56c1b1f07e0e8f158b347431163ecbd31099e9cfd8a51ca69a0cd2ad719",
+      "submission" : 2010,
+      "title" : "DistortedIntelligence [AntiArea]",
+      "url" : "https://venue.bmssearch.net/bmsshuin2/57",
+      "url_diff" : "https://trfce.github.io/sabun/DistortedIntelligence_triforce.zip"
+   },
+   {
       "artist" : "Lokan Obj. DK",
       "level" : "0",
       "md5" : "7b1c1f836719de43e0bd288ec6f9c516",
@@ -8494,6 +8518,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "roop from STR [obj. vi]",
+      "comment" : "sl0 ~ sl1",
+      "level" : "1",
+      "md5" : "94f6d6cb981939882e9010f7230801e2",
+      "proposer" : "NEKOMA",
+      "sha256" : "1e16fbd498b20c0914f93a0a4a60282633c60c2fa58c9e7076ef25b5966ab4cb",
+      "submission" : 2003,
+      "title" : "STAR TRACK (NiraicA_nai Mix) [constellation]",
+      "url" : "http://thbok.com/data/roop_startrack.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04182"
+   },
+   {
       "artist" : "kanoryo BGI.:MOAI WORKS / obj.:LuvTek",
       "comment" : "ラストが難しい",
       "level" : "10",
@@ -9804,6 +9840,18 @@
       "submission" : 1845,
       "title" : "Little \"Sister\" Bitch -Hope-",
       "url" : "https://www.mediafire.com/file/21t44ddqr0dzwpo/Little_Sister_B%2Atch.zip/file",
+      "url_diff" : "https://darksabun.github.io/event/renewal/"
+   },
+   {
+      "artist" : "BACO feat. るぜ obj : Mary_Sue",
+      "comment" : "(본 이벤트 코멘트 참조) 곡 본체의 'PLUS'라는 압축파일에 동봉된 ____whitelolita_def.bme(미배치 파일) 기준 즈레없음.",
+      "level" : "9",
+      "md5" : "acde9160cc8b668d78580fc8cc247116",
+      "proposer" : "nozomi",
+      "sha256" : "3ea277c5c8bc56a5e22c711624f2c3df1d1c78088d7224e921b12d35beeb528c",
+      "submission" : 2028,
+      "title" : "白と臙脂のオモチャバコ [Dead]",
+      "url" : "http://boxism8500.sakura.ne.jp/wp/wp-content/uploads/2016/03/whitelolita.rar",
       "url_diff" : "https://darksabun.github.io/event/renewal/"
    },
    {
@@ -11308,6 +11356,18 @@
       "url_diff" : "http://zzssccaxd.wix.com/bmsabun"
    },
    {
+      "artist" : "BOKKEN PINK BOKKEN DODOME+MAGENTA",
+      "comment" : "ズレ、階段、トリルなど。",
+      "level" : "12",
+      "md5" : "c25af3598e0adbc5e4aade55ddb2019f",
+      "proposer" : "MarySue",
+      "sha256" : "28ac1457b0a2e6c6a741113f549deac583e93fe544629669c514091e41c1690e",
+      "submission" : 2017,
+      "title" : "eth剣 [Fusion Etude]",
+      "url" : "http://uploader.bms.ms/data/bof2010sr10xl2g/mirror/ethken_ogg.zip",
+      "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
       "artist" : "itaojirou / obj.OXYGEN",
       "comment" : "皿多いけど地力の範疇？",
       "level" : "3",
@@ -11951,6 +12011,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02138"
    },
    {
+      "artist" : "戒 + テオン / obj.ぶんぺ～",
+      "comment" : "高速乱打、同時押しなど。",
+      "level" : "8",
+      "md5" : "cc711d3cb0c68216693debfe73e102ac",
+      "proposer" : "MarySue",
+      "sha256" : "9fb093f8e910d8707f45b46e126e2e160ee337bde2ae0e45516a5a7b06a42a24",
+      "submission" : 2016,
+      "title" : "摩訶幻想マジトリク [K-T]",
+      "url" : "https://venue.bmssearch.net/bmsshuin3/14",
+      "url_diff" : "https://stellabms.xyz/upload/802"
+   },
+   {
       "artist" : "Silentroom × iimo",
       "comment" : "高速系",
       "level" : "7",
@@ -12403,6 +12475,17 @@
       "title" : "Cutee☆NeverLand [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=127",
       "url_diff" : ""
+   },
+   {
+      "artist" : "r obj : Scely",
+      "level" : "1",
+      "md5" : "d6259aa76c94bdd4e4b885dc2af26623",
+      "proposer" : "ИИ",
+      "sha256" : "5bef852c3fbb524e4d1b709d998166c3ad62c31971b940df67f530497d545eb3",
+      "submission" : 2009,
+      "title" : "Abendo [Trioxide]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=426&event=133",
+      "url_diff" : "https://stellabms.xyz/upload/543"
    },
    {
       "artist" : "Sakamiya feat.toz img:ぬけみち Lyrics:uoru",
@@ -12983,6 +13066,17 @@
       "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/"
    },
    {
+      "artist" : "nmk/かなえゆめ obj.quad",
+      "level" : "9",
+      "md5" : "e05b195c3f1898cc7432c1f3969d82ab",
+      "proposer" : "七海",
+      "sha256" : "218fb624f17310058620c626f4d810efa35176c8db67ee1bfb356a41c91ab493",
+      "submission" : 2018,
+      "title" : "Childie Sharp [MANIAC(remake)]",
+      "url" : "http://colosseo.nekokan.dyndns.info/c02_shuffle/detail.php?n=41",
+      "url_diff" : "https://stellabms.xyz/upload/740"
+   },
+   {
       "artist" : "S-10duck-TL12XD feat. re_you Illustration by Neru&Keiyuu / obj.七海千秋",
       "level" : "8",
       "md5" : "e0a0385dd8f4a0d4960d0e8c12c4324e",
@@ -13110,6 +13204,18 @@
       "title" : "なついろ アーチ [夏]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=80",
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html"
+   },
+   {
+      "artist" : "ZUN(Arranged by kinoco nyokki) obj.Mallow♪",
+      "comment" : "乱打 / 同時押し / 意図的なキー音ズレが存在(差分Readme参照)",
+      "level" : "12",
+      "md5" : "e2b2d2cfa8f25daa1818bdb08a29dec6",
+      "proposer" : "ぶんぺ～",
+      "sha256" : "62feaaa30a279ea4dbba4e98c4ff229b87f1b00418c95e898a86df35deef4397",
+      "submission" : 2038,
+      "title" : "We Are CrazyBackDancerz!!!!! [Dance Evolution]",
+      "url" : "https://www.axfc.net/u/3883980",
+      "url_diff" : "https://stellabms.xyz/upload/44"
    },
    {
       "artist" : "44teru-k remixed wa. / 差分 赤い人",
@@ -13616,6 +13722,18 @@
       "title" : "多重極展開 [MANIAQ]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=62&event=88",
       "url_diff" : "http://siokazebms.web.fc2.com/"
+   },
+   {
+      "artist" : "o.s.gate obj:七海",
+      "comment" : "el paraíso rigido (forma de 七海)",
+      "level" : "2",
+      "md5" : "eaaef1ecb6f00074ca25e451b223134d",
+      "proposer" : "AYhaz",
+      "sha256" : "3c0d4ce18ee21eca76e56dc31b38cc99e7dab80aeeb8b4c24c24da2d22bcf05b",
+      "submission" : 2020,
+      "title" : "リジットXXパラダイス -Hope-",
+      "url" : "http://sagena.harisen.jp/osg.html",
+      "url_diff" : "https://dl.dropboxusercontent.com/s/qxdgiw3nxulfl86/rizix_nanami.zip"
    },
    {
       "artist" : "Lycoris vs. Pied d'Alouette",
@@ -14310,18 +14428,6 @@
       "title" : "oo i s oo - Perfection - [IDENTITY]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=545&event=110",
       "url_diff" : "https://www.dropbox.com/s/4w88t40d1w6s2wn/ooisoo_triforce.bme?dl=0"
-   },
-   {
-      "artist" : "Soba Yamamori",
-      "comment" : "ズレ、ラス殺し",
-      "level" : "3",
-      "md5" : "f7ca62641d0363f5bc205c6b5dad18c8",
-      "proposer" : "桜ノ宮苺香",
-      "sha256" : "91168a627493ad29ef4d7389bc69bbe28080601e946bb6018a2e5510a9801c09",
-      "submission" : 807,
-      "title" : "SYNTHETICS",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=285&event=123",
-      "url_diff" : ""
    },
    {
       "artist" : "L-Mys / selene.",
