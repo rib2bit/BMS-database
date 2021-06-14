@@ -15827,6 +15827,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "縦連打に奇異なるよろこびをもたらすもの / 全ての時間、全ての空間に隣接する球体群 obj tyrcs",
+      "comment" : "_.xxxとズレなし",
+      "level" : "2",
+      "md5" : "c172208f7e73625f6590e410ab40493b",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "f4db5e2ba9780255a17eb96713c35b8fb41cc4cc85526625767f6f039dfa1f90",
+      "submission" : 1496,
+      "title" : "IoAV\"inf\"A Θ hgVoA [Eerie gazer]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=328&event=123",
+      "url_diff" : "https://stellabms.xyz/upload/950",
+      "zureCount" : 0
+   },
+   {
       "artist" : "メスクラ (エヴァたん＆メコたん) / selene.",
       "comment" : "乱打 / 階段 / 連打 / 意図的なキー音ズレが存在(差分Readme参照)",
       "level" : "0",
@@ -16358,6 +16372,19 @@
       "url_diff" : "http://gnqg.rosx.net/upload/"
    },
    {
+      "artist" : "wigen (feat. miyol) obj.hex",
+      "level" : "1",
+      "md5" : "c934c1f6398e334aa63f4494882bff9b",
+      "proposer" : "歳納京子",
+      "proposerLr2id" : 75332,
+      "sha256" : "a15e588a2c73a336f5ad96302028f75ba8a41df7f8e9dc8e2a2c632f38c8969f",
+      "submission" : 1497,
+      "title" : "Radio Girl [Hexagon]",
+      "url" : "http://web.archive.org/web/20140114105414/http://neoarre.aquz.biz/bms/3rd/radiogirl.rar",
+      "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "ねこみりん feat.小宮真央×みゆ×えみゅう。 Movie:kkkfff2 / Illust:永山ゆうのん obj.綾地寧々",
       "comment" : "",
       "level" : "11",
@@ -16735,6 +16762,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Lime / Crude Sound Adder",
+      "comment" : "人間にできるか不明だけど曲と譜面に魅力を感じたため。リドミ的にはズレ無しらしい。",
+      "level" : "11",
+      "md5" : "cdf5b366fc7e518bcb9ea1e9a169e5ea",
+      "proposer" : "turbow",
+      "proposerMinirid" : "6ff4a3e0-3764-464e-ba27-37e10197ee2a",
+      "sha256" : "335013a3b8fb95e537c9f72c70a10758fbac57bbdb4a1d206be55f46d4fd2811",
+      "submission" : 1498,
+      "title" : "bEyOnD",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=492&event=133",
+      "url_diff" : "https://bms.parksulab.xyz"
    },
    {
       "artist" : "Freezer feat. 妃苺 obj.hex",
