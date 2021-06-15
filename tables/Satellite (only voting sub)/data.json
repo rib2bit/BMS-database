@@ -84,6 +84,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "kooridori feat. a-m BGA:Roaring Flame / obj.rat",
+      "comment" : "同梱譜面 / 同時押し/ BOFXVI",
+      "level" : "4",
+      "md5" : "2b1ffcb56ef7ee00d13fd47557127b54",
+      "proposer" : "polynya",
+      "proposerLr2id" : 165397,
+      "sha256" : "2a0ec035ab78884dfbfa0c0a184d8206717334ce4784eb38cb840ea4109c4939",
+      "submission" : 2070,
+      "title" : "アドバンス・ユア・ワンウェイ 【INSANE】",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=84&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "kireji / selene.",
       "comment" : "やさしい低速",
       "level" : "11",
@@ -95,6 +108,20 @@
       "title" : "YATA -狂月-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=88",
       "url_diff" : "http://bmsselene.web.fc2.com/moonlit_table.html",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "BACO / bga:kody obj.ぶんぺ～",
+      "comment" : "乱打, 瞬間減速",
+      "level" : "11",
+      "md5" : "2dc1723be41aef520202ca2310dec2d6",
+      "proposer" : "polynya",
+      "proposerLr2id" : 165397,
+      "sha256" : "b45bacadafec3511b3ac5b225cb40fd637f34d8442d22aec4800a434b4be9655",
+      "submission" : 2071,
+      "title" : "Brain Analysis [IQ120]",
+      "url" : "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/FIViHZKZ",
+      "url_diff" : "https://stellabms.xyz/upload/948",
       "zureCount" : 0
    },
    {
@@ -142,6 +169,20 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Black hood obj: Haze*",
+      "comment" : "連打なし",
+      "level" : "11",
+      "md5" : "4049fef0752c925c6d8c9d286301a631",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "cf926ce7657de9640eb0980b523bd867f7b894f77f608413e37343c1ed07bfe0",
+      "submission" : 2066,
+      "title" : "fragmentation -dusk-",
+      "url" : "https://www.luzeria.net/?p=387",
+      "url_diff" : "https://stellabms.xyz/upload/952",
+      "zureCount" : 0
+   },
+   {
       "artist" : "SHIKI movie:Nyu / obj:air",
       "comment" : "面白い同時押し",
       "level" : "8",
@@ -169,6 +210,20 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Sakamiya feat.一花 mov:くわぎう img:じゃっこ obj:ぶんぺ～",
+      "comment" : "中速乱打、同時押しなど。",
+      "level" : "8",
+      "md5" : "4c06071c51dca3992ea1781211b4af4a",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "cd59c6392234725a0ba51c68290d701774f5490872c784975cab44d215ecd962",
+      "submission" : 2068,
+      "title" : "マツユキソウ [Blizzard]",
+      "url" : "https://event.yaruki0.net/VSevent/impression/3",
+      "url_diff" : "https://stellabms.xyz/upload/809",
+      "zureCount" : 0
+   },
+   {
       "artist" : "やっす～/obj:dfsty",
       "level" : "1",
       "md5" : "4c9eac48034b36614e00c0b957db33b0",
@@ -193,6 +248,19 @@
       "title" : "CYCLONE [Typhoon]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=37&event=96",
       "url_diff" : "https://stellabms.xyz/upload/937",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "Seichi Yumeno / obj. laner",
+      "level" : "12",
+      "md5" : "54122c5fe4306ef765cff0433b5a7176",
+      "proposer" : "moka",
+      "proposerLr2id" : 167326,
+      "sha256" : "bafeb894ddd4e6b0b0236c9c0c5140b08ce88df4a0ab067415f9171375000cd5",
+      "submission" : 2069,
+      "title" : "ぽっぷる！ [delay party]",
+      "url" : "http://web.archive.org/web/20040618175634/http://www11.plala.or.jp:80/ta2_1103/BMS/[PTH02]poppuru.exe",
+      "url_diff" : "https://web.archive.org/web/20190322230138/http://www.hyper-laner.com/sabun/all201807_laner.rar",
       "zureCount" : 0
    },
    {
@@ -459,6 +527,20 @@
       "title" : "WE ARE NOT BACK DOWN -RUNOTHER-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=337&event=104",
       "url_diff" : "https://web.archive.org/web/20180609051857/http://kspinbms.web.fc2.com/insane.html",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "mossari / obj:NASA",
+      "comment" : "同時押し、乱打、皿複合など。",
+      "level" : "4",
+      "md5" : "eec9756065dc22ea19310758a1559c9c",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "45780b6a4d0ad38612603ebe39a5eb58a9fca7f9426c65cd2d05c00882428699",
+      "submission" : 2067,
+      "title" : "Coda [★]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=210&event=104",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00639",
       "zureCount" : 0
    },
    {

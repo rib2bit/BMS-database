@@ -14,6 +14,18 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Lime / Roaring Flame",
+      "level" : "0",
+      "md5" : "2a73669b92b7c0f84043cefc9773af32",
+      "proposer" : "moka",
+      "proposerLr2id" : 167326,
+      "sha256" : "553bc31cfdd576e014ad6da82e598e361d099aa198b52f33e7740aa7ca93b1d0",
+      "submission" : 1499,
+      "title" : "Gleam of Aigis (超地獄級)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=31&event=103",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Frums/UnK-now/37X",
       "comment" : "Perfect ",
       "level" : "11",
@@ -38,6 +50,19 @@
       "title" : "char fleuri [Etude]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=115",
       "url_diff" : "https://bms.parksulab.xyz",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "BACO VS ルゼ feat.えみゅう。 / obj : Lampades",
+      "level" : "0",
+      "md5" : "413ee29a922e595bdc831d55d7bf869c",
+      "proposer" : "moka",
+      "proposerLr2id" : 167326,
+      "sha256" : "c627a72f058fb9c77be88c05fe984845c9f1aeea5912c9ee2018fe297941944e",
+      "submission" : 1500,
+      "title" : "uncaged [Self-hypnosis]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=336&event=74",
+      "url_diff" : "http://k-bms.com/board/board_append.jsp?board_num=13&co_num=25",
       "zureCount" : 0
    },
    {
@@ -143,6 +168,20 @@
       "votePercent" : 71.4285714285714,
       "voteVersion" : 2,
       "voteYes" : 5
+   },
+   {
+      "artist" : "テヅカ x Aoi feat.桃雛なの / obj:夢瑠",
+      "comment" : "st4-5 ディレイ 連打複合",
+      "level" : "5",
+      "md5" : "b68e4ddc153ab9b9391f3d9a2f856e7a",
+      "proposer" : "mukyu--",
+      "proposerLr2id" : 71314,
+      "sha256" : "ea5ca258b13c467d3cf7c4c74a59e8272e48a4493f8373164bb9efba97c47b3b",
+      "submission" : 1501,
+      "title" : "Sunset Toybox [EXTRA]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=498&event=133",
+      "url_diff" : "https://dl.dropboxusercontent.com/s/wi896g8u0kgx4nn/_Sunset_Toybox_yume.zip",
+      "zureCount" : 0
    },
    {
       "artist" : "daisan obj.hex",
