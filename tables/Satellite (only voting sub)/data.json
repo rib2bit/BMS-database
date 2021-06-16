@@ -1,16 +1,17 @@
 [
    {
-      "artist" : "SHIKI movie:Nyu",
-      "comment" : "同梱譜面 sl1~2 ?",
-      "level" : "2",
-      "md5" : "016dbabf3eef17255efa4b675806a3ee",
-      "proposer" : "はさい",
-      "proposerLr2id" : 96305,
-      "sha256" : "bc8d659964a4e898d52d028bdfa1565d3bbaa388181ceeab50d9c1879b59f377",
-      "submission" : 2059,
-      "title" : "Crystal palace [ANOTER7]",
-      "url" : "http://shiki2.sakura.ne.jp/fohs.html",
-      "url_diff" : ""
+      "artist" : "er/ 差分",
+      "comment" : "同時押し ズレ",
+      "level" : "8",
+      "md5" : "04430d542adc343c48ddb3928104f552",
+      "proposer" : "fuko",
+      "proposerMinirid" : "ba0690c9-b068-498b-8f78-4f10295e3e7f",
+      "sha256" : "f2792b0d5ddbaa0ea16d14c72a05074e923f1452e3e4037d3fae57364dab4210",
+      "submission" : 2072,
+      "title" : "午後のこいしちゃん [HARDEST]",
+      "url" : "https://dropbox.bms.ms/u/28765267/er_koishi.zip",
+      "url_diff" : "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html",
+      "zureCount" : 0
    },
    {
       "artist" : "Lime feat. Salita / deadblue238",
@@ -180,6 +181,19 @@
       "title" : "fragmentation -dusk-",
       "url" : "https://www.luzeria.net/?p=387",
       "url_diff" : "https://stellabms.xyz/upload/952",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "矢澤にこ obj:SUZUKAZEΛ",
+      "level" : "4",
+      "md5" : "4302697bca3ec6583e4adf087cdcdbb5",
+      "proposer" : "moka",
+      "proposerLr2id" : 167326,
+      "sha256" : "a7f7455479c4f7da51f1d555de786e6e503daaaac1cf04fbea33cec36ea38eca",
+      "submission" : 2073,
+      "title" : "すまいる・まじっく [ZOI]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=397&event=104",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
       "zureCount" : 0
    },
    {
