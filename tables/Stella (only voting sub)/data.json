@@ -66,6 +66,20 @@
       "zureCount" : 0
    },
    {
+      "artist" : "AKITO / obj. laner",
+      "comment" : "遅い同時押し",
+      "level" : "1",
+      "md5" : "4101dd74b1eb5fcb04dd892a1eff3e76",
+      "proposer" : "fuko",
+      "proposerMinirid" : "ba0690c9-b068-498b-8f78-4f10295e3e7f",
+      "sha256" : "0a87afa045e7366d94a8cc84d88dcea24409527f00d8f7b4482de3a9604cf6bd",
+      "submission" : 1503,
+      "title" : "追憶の森 -Voices of the Earth- [wide]",
+      "url" : "http://web.archive.org/web/20060722001945/http://big.freett.com/akito11/tuioku_mq.rar",
+      "url_diff" : "https://web.archive.org/web/20190322230138/http://www.hyper-laner.com/sabun/all201807_laner.rar",
+      "zureCount" : 0
+   },
+   {
       "artist" : "BACO VS ルゼ feat.えみゅう。 / obj : Lampades",
       "level" : "0",
       "md5" : "413ee29a922e595bdc831d55d7bf869c",
@@ -105,6 +119,23 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=105&event=83",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03752",
       "zureCount" : 0
+   },
+   {
+      "artist" : "II-L obj:蒸餅擬キ",
+      "level" : "2",
+      "md5" : "57f79c36ef424dd0cb0bee533d894cd7",
+      "proposer" : "w2w2",
+      "proposerLr2id" : 112172,
+      "sha256" : "a5ff5abd1a25587b949688b91555fb27d4392f465190e2b7f5d9260e35967a57",
+      "submission" : 328,
+      "title" : "V804N [time capsule]",
+      "url" : "http://www.mediafire.com/file/18wnwxx50a83drz/V804N.zip",
+      "url_diff" : "http://www.ribbit.xyz/bms/tables/bmsuploader2.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteVersion" : 2,
+      "voteYes" : 2
    },
    {
       "artist" : "ZUN remixed by LeaF Movie:Optie/Illust:セシル◇タイト/selene.",
@@ -164,6 +195,23 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=183&event=133",
       "url_diff" : "https://stellabms.xyz/upload/557",
       "zureCount" : 0
+   },
+   {
+      "artist" : "MisomyL obj:mathath / selene.",
+      "level" : "3",
+      "md5" : "b3cb3cb61f7f1de982223ef4e037e02e",
+      "proposer" : "nozomi",
+      "proposerLr2id" : 115265,
+      "sha256" : "ca3475e01b43c9c0f4fc06b71a817ac1f13232f606eace55d7de31c5122bb4cd",
+      "submission" : 1394,
+      "title" : "Catalinesie -Luna-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=442&event=133",
+      "url_diff" : "https://stellabms.xyz/upload/568",
+      "voteNeutral" : 2,
+      "voteNo" : 0,
+      "votePercent" : 85.7142857142857,
+      "voteVersion" : 2,
+      "voteYes" : 5
    },
    {
       "artist" : "鈎兎(KagiUsagi) obj.fhyu",
