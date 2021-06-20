@@ -291,6 +291,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "うまるつふり",
+      "comment" : "要素沢山で楽しい譜面です",
+      "level" : "1",
+      "md5" : "5a0e87a6bbf93a7a85675510d358799d",
+      "proposer" : "10c*",
+      "proposerLr2id" : 170055,
+      "sha256" : "51a81dd72e9777294a670912298b07287b23bdbce265d2e9b3c8f47068abaddb",
+      "submission" : 2077,
+      "title" : "綺機 ～あやはずみ～ [1回秘密箱]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=54&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Sobrem feat.Sound piercer Obj.Triforce",
       "comment" : "BPM158 高速階段",
       "level" : "6",
@@ -609,6 +622,18 @@
       "title" : "Chasing the Mouse [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=458&event=88",
       "url_diff" : ""
+   },
+   {
+      "artist" : "ridis ＆ 草野ほうき / obj. hplaner",
+      "level" : "8",
+      "md5" : "f574ad7a05395dba796d9a0de9c3512e",
+      "proposer" : "♪♪",
+      "proposerLr2id" : 7290,
+      "sha256" : "348ff641a2f991f7e4f0ee7b98ce7332ea0dd8026374c43d59e373148f7577fc",
+      "submission" : 2078,
+      "title" : "deadly daydream [虫様筋BEGINNER]",
+      "url" : "http://aquaseeds.net/archives/dday_hq.rar",
+      "url_diff" : "https://web.archive.org/web/20190322230138/https://www.hyper-laner.com/sabun/dday7laner.bme"
    },
    {
       "artist" : "ブースター obj:bms newbie",
