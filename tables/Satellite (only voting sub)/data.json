@@ -583,6 +583,20 @@
       "zureCount" : 0
    },
    {
+      "artist" : "T & Y obj. Kamikaze",
+      "comment" : "hard judge (it's easy to hit)",
+      "level" : "3",
+      "md5" : "ecea3b8c103b84be7771cfb8afc06682",
+      "proposer" : "marie",
+      "proposerMinirid" : "3977549d-6d82-4c50-ba91-1fdc6b430afe",
+      "sha256" : "0e35f451ee6c1610c74db9c63fa46706654d2ce5c598aa7d480562da6b5afe95",
+      "submission" : 2079,
+      "title" : "サラダ [Touch Grass]",
+      "url" : "http://web.archive.org/web/20090218135454/http://pokoneko.haru.gs/linersystem/bms/salad_hq.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05359",
+      "zureCount" : 0
+   },
+   {
       "artist" : "mossari / obj:NASA",
       "comment" : "同時押し、乱打、皿複合など。",
       "level" : "4",
