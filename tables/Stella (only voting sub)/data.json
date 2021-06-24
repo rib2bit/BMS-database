@@ -39,6 +39,20 @@
       "url_diff" : "http://sagena.harisen.jp/hyou.html"
    },
    {
+      "artist" : "Archlade/さ",
+      "comment" : "仙人掌の人 LOVE",
+      "level" : "2",
+      "md5" : "31f842ad52122071bacdf96f8bc45d30",
+      "proposer" : "AYhaz",
+      "proposerLr2id" : 123475,
+      "sha256" : "3c2e5872e488a99eee8e97c2111c1c68eb967c9cbfaaa975a131b1d21af96406",
+      "submission" : 1506,
+      "title" : "Illumiscape [EX]",
+      "url" : "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/dI0mXCiR",
+      "url_diff" : "https://web.archive.org/web/20190211032606/http://sabosabun.tank.jp/sabun/illumiscape%20sabun.zip",
+      "zureCount" : 0
+   },
+   {
       "artist" : "哀愁マニア",
       "level" : "5",
       "md5" : "33ad480c97ae9e7ab44a69e29d424a19",
@@ -163,6 +177,23 @@
       "votePercent" : 100,
       "voteVersion" : 2,
       "voteYes" : 2
+   },
+   {
+      "artist" : "SHIKI / black train",
+      "level" : "0",
+      "md5" : "751738dea1169c5c39db935adfc9e85f",
+      "proposer" : "polynya",
+      "proposerLr2id" : 165397,
+      "sha256" : "d63e801eb3779633285fc22d2e37a64c8d2768241c13c5ce4b7dd0ac53b16bc6",
+      "submission" : 865,
+      "title" : "Air -GOD-",
+      "url" : "http://web.archive.org/web/20051118202018/http://www.remarkablesense.org/~shiki/air.exe",
+      "url_diff" : "http://absolute.pv.land.to/Anotherbms.html",
+      "voteNeutral" : 3,
+      "voteNo" : 15,
+      "votePercent" : 66.3265306122449,
+      "voteVersion" : 2,
+      "voteYes" : 31
    },
    {
       "artist" : "ZUN remixed by LeaF Movie:Optie/Illust:セシル◇タイト/selene.",
