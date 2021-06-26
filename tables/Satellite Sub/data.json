@@ -5778,6 +5778,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "LV.4/obj.poly",
+      "comment" : "最後までノーツたっぷりの体力譜面...だと思います",
+      "level" : "3",
+      "md5" : "328f84997abd6480fd09cb95e3f020e8",
+      "proposer" : "10c*",
+      "proposerLr2id" : 170055,
+      "sha256" : "69c571cfb5c6334215d3cf4966dc91aa1d885836d2aab50a63ac2fcbbb87a0a6",
+      "submission" : 2084,
+      "title" : "Angel dust [FEATHER]",
+      "url" : "http://skydrive.live.com/?cid=B95CFF3A8A971013&id=B95CFF3A8A971013%21373",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "tcheb / mov : inukoro obj: JoeT + Offliner",
       "level" : "2",
       "md5" : "3293b614002e85c8a230287b1876b67b",
@@ -5847,6 +5861,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Sakamiya / obj.fuko",
+      "comment" : "God Chart!!",
+      "level" : "11",
+      "md5" : "3306e0ad9a72073aaf2cdfbc054d8b9d",
+      "proposer" : "nozomi",
+      "proposerLr2id" : 115265,
+      "sha256" : "acb4575be8968911ea3c59e7d281fb34225b1bb9226a058e1eff32568a3520a6",
+      "submission" : 2083,
+      "title" : "Valkyrie Revolutia [Blossom]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=119",
+      "url_diff" : "https://stellabms.xyz/upload/997",
+      "zureCount" : 0
    },
    {
       "artist" : "Kankitsu feat. Salita",
@@ -13355,6 +13383,19 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=284&event=127",
       "url_diff" : "https://frozensat.github.io/sabun/Celeste_DK.zip",
       "zureCount" : 0
+   },
+   {
+      "artist" : "SHIKI / 壱air obj: qtp13",
+      "comment" : "Fixed missing cymbals in 0note, should be final (sound append)",
+      "level" : "5",
+      "md5" : "765d908b35d56f9b2bb97d0fbd37d1ff",
+      "proposer" : "nozomi",
+      "proposerLr2id" : 115265,
+      "sha256" : "255caac9fb4f0b963816e363523f2a3471ba81d66879c624d9dfdbc11973e387",
+      "submission" : 2082,
+      "title" : "Jade Star [Dimlight]",
+      "url" : "http://shiki2.sakura.ne.jp/",
+      "url_diff" : "https://stellabms.xyz/upload/853"
    },
    {
       "artist" : "fether (Remixed by Yamajet) obj:goe",
