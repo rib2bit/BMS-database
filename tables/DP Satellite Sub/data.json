@@ -460,7 +460,7 @@
    {
       "artist" : "Ester mov : mi",
       "comment" : "7~8? 同時押し 　　__ester_dizzolve_00_empty.bms_と比較して出るズレ抜け62個はそれぞれ同じキー音",
-      "level" : "8",
+      "level" : "7",
       "md5" : "15254743d61a5c1b52e1d2d6471f6902",
       "proposer" : "JHS",
       "proposerLr2id" : 128228,
@@ -2620,7 +2620,7 @@
    },
    {
       "artist" : "P4koo Obj:ゆ～兎",
-      "level" : "8",
+      "level" : "9",
       "md5" : "6c60ebb93243207d2b30da98ee18fcf0",
       "proposer" : "coco",
       "proposerLr2id" : 147123,
@@ -3093,6 +3093,20 @@
       "url_diff" : ""
    },
    {
+      "artist" : "void Momomi Aoyama / obj:みすげ～",
+      "comment" : "3?",
+      "level" : "3",
+      "md5" : "7b00521bff9a8275d02b71a4f2a5086a",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "ce7d943597f0d366dac508e9f8276d8b146b08329c90803738208a70ba0d3c0b",
+      "submission" : 550,
+      "title" : "Caelumize [MG]",
+      "url" : "https://dropbox.bms.ms/u/65076260/void-caelumize2.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04281",
+      "zureCount" : 0
+   },
+   {
       "artist" : "xi",
       "comment" : "8?",
       "level" : "8",
@@ -3540,6 +3554,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Yosk!",
+      "comment" : "2~3?",
+      "level" : "3",
+      "md5" : "89d5132c0ad8972ae7ace513bc229cfe",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "8385cbe0af2db76790e7584bb80171066395f4652b7ad227082160b0e8b90b4a",
+      "submission" : 546,
+      "title" : "FUTURE 1999",
+      "url" : "https://drive.google.com/file/d/1Af0zlqrIEY32DjyKbKE8LGTM75_7iP2g",
+      "url_diff" : ""
+   },
+   {
       "artist" : "scytheleg / obj:OSR",
       "level" : "9",
       "md5" : "8a03405fa7a6a3b0f93880e81ccc3f46",
@@ -3643,6 +3670,19 @@
       "url" : "http://flowermaster.web.fc2.com/riderbms/index.html",
       "url_diff" : "https://ux.getuploader.com/dpbms/download/787",
       "zureCount" : 0
+   },
+   {
+      "artist" : "NiGHTS.",
+      "comment" : "5~6? 同梱譜面",
+      "level" : "5",
+      "md5" : "910681db5dfded14ac907e0cfe9122e2",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "51430b74e642d965ea90abc1fa982f621a8353b4251e079f94a50a4c304285a8",
+      "submission" : 548,
+      "title" : "Zero Dimension [ANOTHER14]",
+      "url" : "https://onedrive.live.com/?id=BAA5016BBB692AE0%21217&cid=BAA5016BBB692AE0",
+      "url_diff" : ""
    },
    {
       "artist" : "Sentire / obj.にゃむ",
@@ -4838,6 +4878,20 @@
       "url_diff" : "http://epics.client.jp/bms2011.html"
    },
    {
+      "artist" : "Festa 鑓田(alpha complex) obj:Yosk!",
+      "comment" : "2~3?",
+      "level" : "3",
+      "md5" : "bd873696e6b2fc5d44323c2daf6ec696",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "ac12ae9d4e3ad7821003e5c894ce2a142e009a565637283088f5d34cb35a7b2f",
+      "submission" : 547,
+      "title" : "Lemuria [DP HYPER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=536&event=110",
+      "url_diff" : "http://nekokan.dyndns.info/~lobsak/genocide/grade.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "litmus* / obj:sagoo mov : まも",
       "comment" : "BOFU2017",
       "level" : "7",
@@ -6002,6 +6056,19 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=320&event=116",
       "url_diff" : "https://ux.getuploader.com/dpbms/download/308",
       "zureCount" : 0
+   },
+   {
+      "artist" : "dawn-system BGA:216 (office-φ) / Original:ZUN / Obj:ゆ～兎",
+      "comment" : "0~1? 同梱譜面",
+      "level" : "0",
+      "md5" : "e782085c783fda169e8cd0b56670a76f",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "16543b3000574e147e89c125b76b7448e3dae033800bba3ddce4c20cb18b5e4e",
+      "submission" : 549,
+      "title" : "進め！イッスン軍団 -Rebellion of the Dwarfs-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=178&event=116",
+      "url_diff" : ""
    },
    {
       "artist" : "ZUN bms:乙UИ obj:けろりん",

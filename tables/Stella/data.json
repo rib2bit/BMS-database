@@ -837,7 +837,7 @@
    {
       "artist" : "しらいし/さ",
       "comment" : "地力",
-      "level" : "1",
+      "level" : "2",
       "md5" : "139e276ecc7da4f18947bdc240d26415",
       "proposer" : "otoshi.b",
       "sha256" : "9c8ee83e6c91d4cb5239d02d2f6c21466358a951908897a8e59b9d3a1ee8daae",
@@ -1909,6 +1909,17 @@
       "url_diff" : "http://lapisbms.web.fc2.com/"
    },
    {
+      "artist" : "Lime / Roaring Flame",
+      "level" : "0",
+      "md5" : "2a73669b92b7c0f84043cefc9773af32",
+      "proposer" : "moka",
+      "sha256" : "553bc31cfdd576e014ad6da82e598e361d099aa198b52f33e7740aa7ca93b1d0",
+      "submission" : 1499,
+      "title" : "Gleam of Aigis (超地獄級)",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=31&event=103",
+      "url_diff" : ""
+   },
+   {
       "artist" : "er obj:Omino",
       "comment" : "00859",
       "level" : "4",
@@ -2031,7 +2042,7 @@
    },
    {
       "artist" : "69 de 74 BGI:れおん / obj.hex",
-      "level" : "11",
+      "level" : "10",
       "md5" : "2c72cf3fcc47e7cbc82c3f9075da64a4",
       "proposer" : "歳納京子",
       "sha256" : "8ec04ef2b78bd30216740c29fc0b8a4f17469bb2082a90f41ed3b9c47d56a4df",
@@ -2493,6 +2504,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02035"
    },
    {
+      "artist" : "Trinity BGA:q/stol Obj:Flower",
+      "comment" : "みんなに好かれている物量譜面",
+      "level" : "1",
+      "md5" : "375e655a00423b9814145776eb081ad9",
+      "proposer" : "MarySue",
+      "sha256" : "8612c1ae963f0f2bf181d25ae615077c0a2c1783d2ecadac94500598851afd7a",
+      "submission" : 1493,
+      "title" : "char fleuri [Etude]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=115",
+      "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
       "artist" : "Hate / obj:C4 BGA : S.P.S.B.",
       "comment" : "from Satellite",
       "level" : "0",
@@ -2777,6 +2800,18 @@
       "title" : "Revelator -Revenger-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=68&event=102",
       "url_diff" : "http://gnqg.rosx.net/upload/"
+   },
+   {
+      "artist" : "LeaF Movie:To7 / obj:LuNATiC SEquENcER",
+      "comment" : "SPAとズレなし(#135のズレはhidden note)",
+      "level" : "11",
+      "md5" : "3b8dc35b550dcd07876688d9cb0571f0",
+      "proposer" : "七海",
+      "sha256" : "8167f62db0d474f3d0f4b863e0c6eedd2c0f5e91d1a92e1d08fc64e95815cf61",
+      "submission" : 1504,
+      "title" : "Doppelganger -雋ｴ譁ｹ縺ｯ豁ｻ繧薙□-",
+      "url" : "https://dropbox.bms.ms/u/87878874/Doppelganger_LeaF.zip",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02921"
    },
    {
       "artist" : "p_d/s_h Artwork : ふりっと★",
@@ -3079,6 +3114,18 @@
       "title" : "わがまま×マニフェスト [Dead Ending]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=245&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00037"
+   },
+   {
+      "artist" : "AKITO / obj. laner",
+      "comment" : "遅い同時押し",
+      "level" : "1",
+      "md5" : "4101dd74b1eb5fcb04dd892a1eff3e76",
+      "proposer" : "fuko",
+      "sha256" : "0a87afa045e7366d94a8cc84d88dcea24409527f00d8f7b4482de3a9604cf6bd",
+      "submission" : 1503,
+      "title" : "追憶の森 -Voices of the Earth- [wide]",
+      "url" : "http://web.archive.org/web/20060722001945/http://big.freett.com/akito11/tuioku_mq.rar",
+      "url_diff" : "https://web.archive.org/web/20190322230138/http://www.hyper-laner.com/sabun/all201807_laner.rar"
    },
    {
       "artist" : "ねここうもり #ねここ14歳 / obj:muscleMEN",
@@ -3450,7 +3497,7 @@
    {
       "artist" : "qfeileadh&のあ mov:Kengo Nakao",
       "comment" : "8~9?",
-      "level" : "8",
+      "level" : "7",
       "md5" : "46a2c6c0f73f1520feac4228982eb17d",
       "proposer" : "七海",
       "sha256" : "de855068826b71013c371d98aaff047143a043cb7721ceb1149a7d440a1463a4",
@@ -3485,7 +3532,7 @@
    {
       "artist" : "Process 2.3.1. / obj.go2",
       "comment" : "ディレイ物量",
-      "level" : "6",
+      "level" : "7",
       "md5" : "4736cfba80aead33107abad1cdf0c3f0",
       "proposer" : "otoshi.b",
       "proposerLr2id" : 87474,
@@ -4108,6 +4155,18 @@
       "title" : "魂姫～たまひめ～ -虐-",
       "url" : "https://venue.bmssearch.net/bmsshuin2/7",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03242"
+   },
+   {
+      "artist" : "しらいし / obj:スノート",
+      "comment" : "BPM153 ディレイ 微縦",
+      "level" : "2",
+      "md5" : "543523332bfdc7b8cbf2ffb06e02052f",
+      "proposer" : "垢伴次郎",
+      "sha256" : "557487663452c1ac42de27c2ba25876f6dbf27b2693e178de8347ae19403972f",
+      "submission" : 1489,
+      "title" : "王位継承 [伝承]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=105&event=83",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03752"
    },
    {
       "artist" : "LisicA / movie : ルゼ(LuzeriA) / illust : Orphee obj:Mallow♪ + 七海",
@@ -4897,7 +4956,7 @@
    {
       "artist" : "Micelle / obj:七海",
       "comment" : "地力系。sl3に提案されたものの強化版。BGAの植物女の子かわいい。",
-      "level" : "1",
+      "level" : "0",
       "md5" : "64717b19b5f609b6f59c6e00b4ac0dcb",
       "proposer" : "MarySue",
       "sha256" : "04bff3d5cf1c6b0de50a44c142d8e1e1363397a1dfe45954894ef9ec7cc2f08f",
@@ -5128,7 +5187,7 @@
    {
       "artist" : "beatMARIO/obj KAMIO*",
       "comment" : "ガチ押し　up5638",
-      "level" : "4",
+      "level" : "3",
       "md5" : "695543c1fa363b783d7a749524663102",
       "proposer" : "APRICOT",
       "sha256" : "71deffdafd5c119f1848060b3304ff987b34e67a8fc47c47d05270287a3206bf",
@@ -5972,7 +6031,7 @@
    },
    {
       "artist" : "otoshi.b × みゅい × はしたかさん × BAECON",
-      "level" : "2",
+      "level" : "1",
       "md5" : "7a7e23eb2a6f734152f520053422e939",
       "proposer" : "파이어",
       "sha256" : "5919b8a8a7b8c944288925f6b1b574665b3ea7a6f8d44ac7ccd685f2cc77a58c",
@@ -6248,6 +6307,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "ZUN remixed by LeaF Movie:Optie/Illust:セシル◇タイト/selene.",
+      "comment" : "",
+      "level" : "5",
+      "md5" : "8122a17d61cf9a6f6a09c79238310465",
+      "proposer" : "Guaema",
+      "sha256" : "afe3c3b5f908e5d9fc14cdada47e1a413d58396a2e0417d42e5bf5f7c3f3cfb4",
+      "submission" : 1351,
+      "title" : "Armageddon -Genocide-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=129",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04172"
+   },
+   {
       "artist" : "ETIA. feat.Jenga deadblue238 / 篠乃ちよ / U",
       "comment" : "横に広い物量+微縦連",
       "level" : "3",
@@ -6272,6 +6343,18 @@
       "url_diff" : "http://www.dropbox.com/s/ob3mnzf94bptw8d/Love%26Justice_sabun.zip"
    },
    {
+      "artist" : "xi / 差分　赤い人",
+      "comment" : "hard ending",
+      "level" : "3",
+      "md5" : "81cffd4c50402037a8d9864c5fdbf656",
+      "proposer" : "qtp13",
+      "sha256" : "27a34e864d3faef883193052d9aaeb94de049e675f19b7203bd745fc7347d3b4",
+      "submission" : 1485,
+      "title" : "Pandemonium [死ぬがよい]",
+      "url" : "https://web.archive.org/web/20140120135056/http://tbstk.main.jp/extreme/everyone/xi_Pandemonium_ogg.zip",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/Pandemonium-DEATH.bml"
+   },
+   {
       "artist" : "Venstant BGA : nanairo&flap  Obj :賽銭箱",
       "comment" : "微連打が少し混じる物量",
       "level" : "1",
@@ -6286,7 +6369,7 @@
    {
       "artist" : "recognize m. / BGA retu / obj:七海",
       "comment" : "乱打 / 同時押し / ソフラン中は密度薄",
-      "level" : "1",
+      "level" : "0",
       "md5" : "81fa58cf3499771c4f9f73da4e5f386a",
       "proposer" : "ぶんぺ～",
       "sha256" : "5c276e3ea9fb67e49eaeae4dbbca61f472ce44e4748826cd0d189847e57610c4",
@@ -7117,7 +7200,7 @@
    {
       "artist" : "Shiraishi / obj:天野ピカミィ",
       "comment" : "何故か私が以前にアップロードした真千年女王のオートプレイが話題になっていますが、何故か知っていますか？ usada pekoraは何ですか？",
-      "level" : "3",
+      "level" : "2",
       "md5" : "90349f13c4f8d8523ac800269b00e0a1",
       "proposer" : "AYhaz",
       "sha256" : "6e54f4d9ae847e101634dfacf4746da6126608e73953c7495ff039260dbc19e7",
@@ -7703,7 +7786,7 @@
    {
       "artist" : "Lime",
       "comment" : "横に広い物量",
-      "level" : "3",
+      "level" : "4",
       "md5" : "9dd20fc49c9a5f5ce9cd6ac5fdb3e68c",
       "proposer" : "Leva",
       "sha256" : "5847eeedc568e876e882968587939268c04bc3fd78d40ae8f77675469d6c340a",
@@ -8430,6 +8513,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02844"
    },
    {
+      "artist" : "Nuekawa obj: qtp13",
+      "comment" : "乱打 / 縦連",
+      "level" : "1",
+      "md5" : "ace090f0f3246d5ea1bdb5a73f0e80a3",
+      "proposer" : "ぶんぺ～",
+      "sha256" : "fa596708aeffec74715824905febc28f4fcc638f0f6d8a80bfa4223aebc85c63",
+      "submission" : 1491,
+      "title" : "R3x1NSPELL -Lunatic-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=183&event=133",
+      "url_diff" : "https://stellabms.xyz/upload/557"
+   },
+   {
       "artist" : "Neun_jack / BGI:うまるつふり / OBJ: Mary_Sue",
       "comment" : "乱打 / 階段 / 連打",
       "level" : "1",
@@ -8457,7 +8552,7 @@
    {
       "artist" : "Kyuzo Sameura feat. きりたん obj:Holy",
       "comment" : "BPM135 サンバ系ガチ押し",
-      "level" : "4",
+      "level" : "3",
       "md5" : "ad4381ec0ffe5a76d18c03bf715c9d5c",
       "proposer" : "垢伴次郎",
       "sha256" : "90627946c1dd033e3c3178a8536421f4361e19fbb6791eec567606219e6cb8f9",
@@ -8905,6 +9000,18 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01642"
    },
    {
+      "artist" : "テヅカ x Aoi feat.桃雛なの / obj:夢瑠",
+      "comment" : "st4-5 ディレイ 連打複合",
+      "level" : "5",
+      "md5" : "b68e4ddc153ab9b9391f3d9a2f856e7a",
+      "proposer" : "mukyu--",
+      "sha256" : "ea5ca258b13c467d3cf7c4c74a59e8272e48a4493f8373164bb9efba97c47b3b",
+      "submission" : 1501,
+      "title" : "Sunset Toybox [EXTRA]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=498&event=133",
+      "url_diff" : "https://dl.dropboxusercontent.com/s/wi896g8u0kgx4nn/_Sunset_Toybox_yume.zip"
+   },
+   {
       "artist" : "Cres / *8284* / hex obj.hex",
       "comment" : "原曲アレンジ、カットあり　st1～2？",
       "level" : "2",
@@ -9072,6 +9179,18 @@
       "title" : "EXORCIST -Execution-",
       "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/23/",
       "url_diff" : "https://www.dropbox.com/s/8rpuf2tlfmploxe/exorcist_nanami.zip?dl=1"
+   },
+   {
+      "artist" : "daisan obj.hex",
+      "comment" : "BPM180 乱打 微連打",
+      "level" : "5",
+      "md5" : "bae134c66f0654a801dd832a799ac822",
+      "proposer" : "SHAX.",
+      "sha256" : "a93e26ed07657c78e006b7563af8e5c6ae1a2a3c2f04b03d9347c6b2f1fa4b75",
+      "submission" : 1488,
+      "title" : "reAdvenTia [Hexagon]",
+      "url" : "http://clockxellox.sakura.ne.jp/BMS/%5bBOFU2015%5dreadventia%5bSAIJAKU%5d.zip",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html"
    },
    {
       "artist" : "Squar / 差分 赤い人",
@@ -9391,6 +9510,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "縦連打に奇異なるよろこびをもたらすもの / 全ての時間、全ての空間に隣接する球体群 obj tyrcs",
+      "comment" : "_.xxxとズレなし",
+      "level" : "3",
+      "md5" : "c172208f7e73625f6590e410ab40493b",
+      "proposer" : "七海",
+      "sha256" : "f4db5e2ba9780255a17eb96713c35b8fb41cc4cc85526625767f6f039dfa1f90",
+      "submission" : 1496,
+      "title" : "IoAV\"inf\"A Θ hgVoA [Eerie gazer]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=328&event=123",
+      "url_diff" : "https://stellabms.xyz/upload/950"
+   },
+   {
       "artist" : "メスクラ (エヴァたん＆メコたん) / selene.",
       "comment" : "乱打 / 階段 / 連打 / 意図的なキー音ズレが存在(差分Readme参照)",
       "level" : "0",
@@ -9686,6 +9817,17 @@
       "url_diff" : "http://gnqg.rosx.net/upload/"
    },
    {
+      "artist" : "wigen (feat. miyol) obj.hex",
+      "level" : "2",
+      "md5" : "c934c1f6398e334aa63f4494882bff9b",
+      "proposer" : "歳納京子",
+      "sha256" : "a15e588a2c73a336f5ad96302028f75ba8a41df7f8e9dc8e2a2c632f38c8969f",
+      "submission" : 1497,
+      "title" : "Radio Girl [Hexagon]",
+      "url" : "http://web.archive.org/web/20140114105414/http://neoarre.aquz.biz/bms/3rd/radiogirl.rar",
+      "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html"
+   },
+   {
       "artist" : "ねこみりん feat.小宮真央×みゆ×えみゅう。 Movie:kkkfff2 / Illust:永山ゆうのん obj.綾地寧々",
       "comment" : "",
       "level" : "11",
@@ -9773,7 +9915,7 @@
    {
       "artist" : "R.M. Object by Gekko japonicus",
       "comment" : "ズレなし(Readmeで書いてます)",
-      "level" : "6",
+      "level" : "5",
       "md5" : "ca4e55f005bbc1057c69cf3b6b0ccfbe",
       "proposer" : "七海",
       "sha256" : "4b0ae063e5d90f41155e85fa1815b0aff080e8443b8a88b9145aa790fed971e7",
@@ -9906,7 +10048,7 @@
    {
       "artist" : "DJ Eye",
       "comment" : "中速連打複合",
-      "level" : "3",
+      "level" : "4",
       "md5" : "cd23bf9461293a207a045afbc92c333f",
       "proposer" : "BAECON",
       "sha256" : "aae922715d62ab321d7b0097adef98b6031245867a8ba5599b87942cbdb6a322",
@@ -11338,7 +11480,7 @@
    {
       "artist" : "kei_iwata feat.レゾナンスもえこ obj:七海 Movie:Arishima_Caprico Illust:Morph",
       "comment" : "THEガチ押し VeryGood譜面　ズレなし",
-      "level" : "4",
+      "level" : "3",
       "md5" : "e9fc82f22a048d62165c482841eb0d33",
       "proposer" : "qfeileadh",
       "sha256" : "a79ade67dbbd658d996489ed64d9d649a95514ccb2ee7590f824da23441fac00",
@@ -11704,7 +11846,7 @@
    {
       "artist" : "RearDawn BGA: HYOUTAN / obj: 七海千秋",
       "comment" : "高速乱打、発狂。",
-      "level" : "4",
+      "level" : "3",
       "md5" : "f08d82e959c860ae803a8f12b27d1261",
       "proposer" : "MarySue",
       "sha256" : "4b7319345d38f2d10fb46add2d795dcd972bf6d2f0c56574be23c07bb4ffdbd2",
@@ -11945,7 +12087,7 @@
    {
       "artist" : "ZUN remixed by LeaF Movie:Optie/Illust:セシル◇タイト/Obj:Omino",
       "comment" : "10~11だと思います...",
-      "level" : "10",
+      "level" : "9",
       "md5" : "f6f6de31a6a7501e329374fc17b878dc",
       "proposer" : "MineC24",
       "sha256" : "f87549db790b04403506d7ba4dc1c1a33fc154850e6b4fc97fef1194b14e2441",

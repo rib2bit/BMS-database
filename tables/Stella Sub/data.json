@@ -187,6 +187,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "mommy obj.hex",
+      "comment" : "BPM132 ガチ押し (ズレは追加音源によるもの)",
+      "level" : "4",
+      "md5" : "02a2aee824b3d0bb1c1d55022f8e8d5c",
+      "proposer" : "垢伴次郎",
+      "proposerMinirid" : "39fcf843-3931-4605-a729-2f3f61d0970b",
+      "sha256" : "2e432127da80bbcae1fbc63d61ad106134ed3e347a5dbfddedbbbb0c0011a7d9",
+      "submission" : 1513,
+      "title" : "Flavor [Hexagon]",
+      "url" : "https://dl.dropboxusercontent.com/s/10c06tcwoa3ck6c/Flavor.rar",
+      "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html"
+   },
+   {
       "artist" : "#ねここ14歳",
       "comment" : "連打複合低トータル",
       "level" : "4",
@@ -1417,7 +1430,7 @@
    {
       "artist" : "しらいし/さ",
       "comment" : "地力",
-      "level" : "1",
+      "level" : "2",
       "md5" : "139e276ecc7da4f18947bdc240d26415",
       "proposer" : "otoshi.b",
       "proposerLr2id" : 87474,
@@ -2046,6 +2059,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Queen P.A.L. / obj:mezna",
+      "comment" : "BPM155 微縦 同時押し",
+      "level" : "4",
+      "md5" : "1bca8c429f5edf8c46ee749999be7845",
+      "proposer" : "垢伴次郎",
+      "proposerMinirid" : "39fcf843-3931-4605-a729-2f3f61d0970b",
+      "sha256" : "fd28eeabcad836bd40090a9ac504e9ca17b7b891f72fd43eb9403f1a98dfea38",
+      "submission" : 1507,
+      "title" : "Maharaja Trance [simultaneous]",
+      "url" : "http://web.archive.org/web/20020817193500/http://isweb13.infoseek.co.jp/art/yuhno/poem/maharaja.exe",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00969",
+      "zureCount" : 0
    },
    {
       "artist" : "削除 / selene.",
@@ -3389,7 +3416,7 @@
    },
    {
       "artist" : "69 de 74 BGI:れおん / obj.hex",
-      "level" : "11",
+      "level" : "10",
       "md5" : "2c72cf3fcc47e7cbc82c3f9075da64a4",
       "proposer" : "歳納京子",
       "proposerLr2id" : 75332,
@@ -5814,7 +5841,7 @@
    {
       "artist" : "qfeileadh&のあ mov:Kengo Nakao",
       "comment" : "8~9?",
-      "level" : "8",
+      "level" : "7",
       "md5" : "46a2c6c0f73f1520feac4228982eb17d",
       "proposer" : "七海",
       "proposerLr2id" : 84597,
@@ -5867,7 +5894,7 @@
    {
       "artist" : "Process 2.3.1. / obj.go2",
       "comment" : "ディレイ物量",
-      "level" : "6",
+      "level" : "7",
       "md5" : "4736cfba80aead33107abad1cdf0c3f0",
       "proposer" : "otoshi.b",
       "proposerLr2id" : 87474,
@@ -7276,6 +7303,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "paraneumann / obj:夢瑠",
+      "comment" : "BPM175 微連打",
+      "level" : "6",
+      "md5" : "5827e0246163f6319696981fb5cc5c03",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "64c56f5e21f2ad3009e55320e8cbd2160629a3be4a3c9e039ee5a7a13854da87",
+      "submission" : 1510,
+      "title" : "CRUSH THE PARTY [EXTRA]",
+      "url" : "https://venue.bmssearch.net/bmsshuin3/51",
+      "url_diff" : "https://dl.dropboxusercontent.com/s/n8uufwnh7kt1vlr/_crush_the_party_yume.zip",
+      "zureCount" : 0
+   },
+   {
       "artist" : "鈎兎(KagiUsagi) obj : Mary_Sue",
       "comment" : "皿が多いです(SPAとズレなし)",
       "level" : "1",
@@ -7804,6 +7845,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Se-U-Ra / obj.7zs",
+      "level" : "0",
+      "md5" : "5ef3b0917da9fa14ad03a61706f86f48",
+      "proposer" : "moka",
+      "proposerLr2id" : 167326,
+      "sha256" : "e81aa7b0e7436da50a8f862d6e0a8060625070cdc051f6e10cf28320b6ee9abe",
+      "submission" : 1514,
+      "title" : "写儀の少女Lix [Tabula Rasa]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=89&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi",
+      "zureCount" : 0
    },
    {
       "artist" : "Lime / inukoro obj:zukocchi",
@@ -8347,7 +8401,7 @@
    {
       "artist" : "Micelle / obj:七海",
       "comment" : "地力系。sl3に提案されたものの強化版。BGAの植物女の子かわいい。",
-      "level" : "1",
+      "level" : "0",
       "md5" : "64717b19b5f609b6f59c6e00b4ac0dcb",
       "proposer" : "MarySue",
       "proposerLr2id" : 147889,
@@ -8735,7 +8789,7 @@
    {
       "artist" : "beatMARIO/obj KAMIO*",
       "comment" : "ガチ押し　up5638",
-      "level" : "4",
+      "level" : "3",
       "md5" : "695543c1fa363b783d7a749524663102",
       "proposer" : "APRICOT",
       "sha256" : "71deffdafd5c119f1848060b3304ff987b34e67a8fc47c47d05270287a3206bf",
@@ -10082,7 +10136,7 @@
    },
    {
       "artist" : "otoshi.b × みゅい × はしたかさん × BAECON",
-      "level" : "2",
+      "level" : "1",
       "md5" : "7a7e23eb2a6f734152f520053422e939",
       "proposer" : "파이어",
       "proposerLr2id" : 7290,
@@ -10625,7 +10679,7 @@
    {
       "artist" : "recognize m. / BGA retu / obj:七海",
       "comment" : "乱打 / 同時押し / ソフラン中は密度薄",
-      "level" : "1",
+      "level" : "0",
       "md5" : "81fa58cf3499771c4f9f73da4e5f386a",
       "proposer" : "ぶんぺ～",
       "proposerMinirid" : "3708ebc6-f813-4964-a5e4-deb86620233a",
@@ -11196,6 +11250,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "lazward/obj:RAICA",
+      "comment" : "with 00_Re_incarnacion_master.bmx no misalignments",
+      "level" : "1",
+      "md5" : "894728e6137599a7f5540aaffd86500a",
+      "proposer" : "moka",
+      "proposerLr2id" : 167326,
+      "sha256" : "2cd21e5093384994c1b04aff514e0de1a9555005c906ed520c0d21568e4c1b58",
+      "submission" : 1512,
+      "title" : "Re*incarnacion [BLACK RAITHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=121&event=96",
+      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
+   },
+   {
       "artist" : "さかみりと img:しぐれぷに子 obj:MineC24",
       "comment" : "焼肉大会",
       "level" : "0",
@@ -11521,6 +11588,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "あとぅす Movie:TM/ obj.turbow",
+      "comment" : "chords+streams",
+      "level" : "8",
+      "md5" : "8bcd8668916359019f17b8599fd39486",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "55183affed76b1775c0d89c4003658e292f49909d6c0a1bfd6c3c1d1117fcdf0",
+      "submission" : 1508,
+      "title" : "Call of Abyss 【crest】",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/Call%20of%20Abyss%20%28by%20%e3%81%82%e3%81%a8%e3%81%85%e3%81%99%29.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05322"
    },
    {
       "artist" : "o.s.gate feat 重音テト / Ds",
@@ -11904,7 +11984,7 @@
    {
       "artist" : "Shiraishi / obj:天野ピカミィ",
       "comment" : "何故か私が以前にアップロードした真千年女王のオートプレイが話題になっていますが、何故か知っていますか？ usada pekoraは何ですか？",
-      "level" : "3",
+      "level" : "2",
       "md5" : "90349f13c4f8d8523ac800269b00e0a1",
       "proposer" : "AYhaz",
       "proposerLr2id" : 123475,
@@ -12974,7 +13054,7 @@
    {
       "artist" : "Lime",
       "comment" : "横に広い物量",
-      "level" : "3",
+      "level" : "4",
       "md5" : "9dd20fc49c9a5f5ce9cd6ac5fdb3e68c",
       "proposer" : "Leva",
       "sha256" : "5847eeedc568e876e882968587939268c04bc3fd78d40ae8f77675469d6c340a",
@@ -13123,6 +13203,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "paraneumann / obj:C4",
+      "comment" : "Anzutoolで同梱anotherと比較するとズレ抜けなし",
+      "level" : "1",
+      "md5" : "9f65db9775f16e4438eccec2036cd43b",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "866d91479693160bbe12de1a6e42a66bcf19648e12386c4fc2d67b2d8d0b18b5",
+      "submission" : 1515,
+      "title" : "Weaponhuman [Ultimate]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=20&event=131",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05341"
    },
    {
       "artist" : "さかみりと img:しぐれぷに子 obj:球根",
@@ -14287,7 +14380,7 @@
    {
       "artist" : "Kyuzo Sameura feat. きりたん obj:Holy",
       "comment" : "BPM135 サンバ系ガチ押し",
-      "level" : "4",
+      "level" : "3",
       "md5" : "ad4381ec0ffe5a76d18c03bf715c9d5c",
       "proposer" : "垢伴次郎",
       "proposerMinirid" : "39fcf843-3931-4605-a729-2f3f61d0970b",
@@ -15678,6 +15771,20 @@
       "zureCount" : 0
    },
    {
+      "artist" : "EmoCosine / 出前 obj. nozomi vs Mary_Sue",
+      "comment" : "このBMSは18歳未満の方に不適切な内容を含んでいます",
+      "level" : "5",
+      "md5" : "bd39e096fef2f903ab539a9da04338e8",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "98699dfacec8cd0102faf22ab39847af0cae7b934a39f1db8a2cde816c9a3f27",
+      "submission" : 1517,
+      "title" : "Cutter [血赤ちゃんのカッター]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=133",
+      "url_diff" : "https://stellabms.xyz/upload/863",
+      "zureCount" : 0
+   },
+   {
       "artist" : "TCN180 (DJ TECHNORCH) / selene.",
       "comment" : "無名戦4 連打混じり物量",
       "level" : "3",
@@ -15936,7 +16043,7 @@
    {
       "artist" : "縦連打に奇異なるよろこびをもたらすもの / 全ての時間、全ての空間に隣接する球体群 obj tyrcs",
       "comment" : "_.xxxとズレなし",
-      "level" : "2",
+      "level" : "3",
       "md5" : "c172208f7e73625f6590e410ab40493b",
       "proposer" : "七海",
       "proposerLr2id" : 84597,
@@ -16480,7 +16587,7 @@
    },
    {
       "artist" : "wigen (feat. miyol) obj.hex",
-      "level" : "1",
+      "level" : "2",
       "md5" : "c934c1f6398e334aa63f4494882bff9b",
       "proposer" : "歳納京子",
       "proposerLr2id" : 75332,
@@ -16628,7 +16735,7 @@
    {
       "artist" : "R.M. Object by Gekko japonicus",
       "comment" : "ズレなし(Readmeで書いてます)",
-      "level" : "7",
+      "level" : "5",
       "md5" : "ca4e55f005bbc1057c69cf3b6b0ccfbe",
       "proposer" : "七海",
       "proposerLr2id" : 84597,
@@ -16815,7 +16922,7 @@
    {
       "artist" : "DJ Eye",
       "comment" : "中速連打複合",
-      "level" : "3",
+      "level" : "4",
       "md5" : "cd23bf9461293a207a045afbc92c333f",
       "proposer" : "BAECON",
       "proposerLr2id" : 46122,
@@ -19041,6 +19148,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "ZUN/arr.みょん / iimode-do / かげきち / extra",
+      "comment" : "st2~3 delay (2 notes misaligned (another chart) by 1/8 due to delay effect)",
+      "level" : "2",
+      "md5" : "e73457a90730035c6178f9f339eea553",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "2b9e8e63e03d9fabf45fffde0006657f5f0c804576cf61ef665b52aefa357f72",
+      "submission" : 1509,
+      "title" : "Plastic Mind [DERAY]",
+      "url" : "http://iimode-do.jp/obj/m/m11_plastic.zip",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05408"
+   },
+   {
       "artist" : "紅蓮月影 BGA:A-ZERO Project/obj:仙人掌の人",
       "comment" : "縦連複合、発狂",
       "level" : "6",
@@ -19161,7 +19281,7 @@
    {
       "artist" : "kei_iwata feat.レゾナンスもえこ obj:七海 Movie:Arishima_Caprico Illust:Morph",
       "comment" : "THEガチ押し VeryGood譜面　ズレなし",
-      "level" : "4",
+      "level" : "3",
       "md5" : "e9fc82f22a048d62165c482841eb0d33",
       "proposer" : "qfeileadh",
       "proposerLr2id" : 143120,
@@ -19559,6 +19679,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "tcheb / mov : 石王マサト / obj : swa",
+      "level" : "1",
+      "md5" : "ef55e67fd19d4bd067dddef58a06f9d7",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "59b7357000463a335edbcded41e01ec2d1a2d2e028244c16b7ad0ade1668b1dc",
+      "submission" : 1516,
+      "title" : "Our Dream, Our Justice [SP Our Challenge]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=262&event=104",
+      "url_diff" : "http://absolute.pv.land.to/bof/src/up0938.zip",
+      "zureCount" : 0
+   },
+   {
       "artist" : "L-Mys / bms newbie",
       "comment" : "5~6? (すべてのズレとノーツが抜けているのは意図的です)",
       "level" : "6",
@@ -19685,6 +19818,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Luv Strawberry's Delta",
+      "comment" : "BPM190の16分乱打譜面 同梱7a譜面と比べるとズレが1つありますがソフランを消したことによります",
+      "level" : "3",
+      "md5" : "f0369b6ad8cbebd6c8057b826abd77cf",
+      "proposer" : "ふかけん",
+      "proposerLr2id" : 145204,
+      "sha256" : "3f2e78fac121b4883f5c40ee0907319889942a4a6b40dd139ce6f2cb7b2b88da",
+      "submission" : 1518,
+      "title" : "ゴクラクハスノウテナ (EX)",
+      "url" : "https://onedrive.live.com/?cid=F881BCC298BA2E47&id=F881BCC298BA2E47%21104",
+      "url_diff" : "https://web.archive.org/web/20190211031819/http://sabosabun.tank.jp/"
+   },
+   {
       "artist" : "さかみりと img:しぐれぷに子",
       "comment" : "",
       "level" : "10",
@@ -19715,7 +19861,7 @@
    {
       "artist" : "RearDawn BGA: HYOUTAN / obj: 七海千秋",
       "comment" : "高速乱打、発狂。",
-      "level" : "4",
+      "level" : "3",
       "md5" : "f08d82e959c860ae803a8f12b27d1261",
       "proposer" : "MarySue",
       "proposerLr2id" : 147889,
@@ -19854,6 +20000,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Kuwagata obj:七海千秋",
+      "comment" : "BPM138 区切りの多いガチ押し",
+      "level" : "5",
+      "md5" : "f2cc0a67e5b042702927c6a2bb301797",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "3662518021c51f80999839c3c3f50ad8b0155f675ee6e527444eb5dd8c70095d",
+      "submission" : 1511,
+      "title" : "Colour My Sky -To The Future-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=214&event=110",
+      "url_diff" : "https://www.dropbox.com/s/75mvv8gaj3pol9l/cms.zip?dl=1",
+      "zureCount" : 0
    },
    {
       "artist" : "ROKINA",
@@ -20139,7 +20299,7 @@
    {
       "artist" : "ZUN remixed by LeaF Movie:Optie/Illust:セシル◇タイト/Obj:Omino",
       "comment" : "10~11だと思います...",
-      "level" : "11",
+      "level" : "9",
       "md5" : "f6f6de31a6a7501e329374fc17b878dc",
       "proposer" : "MineC24",
       "proposerLr2id" : 84597,
