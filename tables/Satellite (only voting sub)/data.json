@@ -286,6 +286,20 @@
       "url_diff" : "https://stellabms.xyz/upload/853"
    },
    {
+      "artist" : "Junk / obj:ぶんぺ～",
+      "comment" : "ディレイ 準備運動",
+      "level" : "11",
+      "md5" : "8e6fe304fa48f03cd021a0b5a062f865",
+      "proposer" : "polynya",
+      "proposerLr2id" : 165397,
+      "sha256" : "4ed6db40dc7b27c5c5b4d8a300e0689353f867678f65205ad201450d4f585379",
+      "submission" : 2096,
+      "title" : "Qualia [Type-D]",
+      "url" : "https://onedrive.live.com/?cid=BEA3EA5126192983&id=BEA3EA5126192983%21211&parId=BEA3EA5126192983%21112&o=OneUp",
+      "url_diff" : "https://stellabms.xyz/upload/792",
+      "zureCount" : 0
+   },
+   {
       "artist" : "ptar124 BGA: Yumemochi, OBJ: w",
       "comment" : "同梱譜面/BOFXVI",
       "level" : "0",
@@ -385,6 +399,18 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Grand Thaw",
+      "level" : "2",
+      "md5" : "dfda2cdf3527b470e8951ba285d6bc28",
+      "proposer" : "ИИ",
+      "proposerLr2id" : 147895,
+      "sha256" : "79e79750d717a4a627939d985230902beeadc488019f2841ecffc32f48d6a409",
+      "submission" : 2095,
+      "title" : "Aeventyr [MX]",
+      "url" : "http://www5f.biglobe.ne.jp/~careless/",
+      "url_diff" : ""
+   },
+   {
       "artist" : "oni56shi",
       "level" : "0",
       "md5" : "e67ca6ff5b4ff4edff6eb819591bb296",
@@ -467,6 +493,19 @@
       "title" : "Solstice III [reasonable]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=55&event=133",
       "url_diff" : "https://darksabun.github.io/event/bofxvi/"
+   },
+   {
+      "artist" : "Ino loves みずたま & 加藤裕幸(sweez) / obj:lime",
+      "comment" : "アレンジ差分、作者HP参考",
+      "level" : "1",
+      "md5" : "f492aee6154abb984b9cdcc63cfd36ab",
+      "proposer" : "ИИ",
+      "proposerLr2id" : 147895,
+      "sha256" : "dfa740993404176984041b86e08541694759c406eec123bf74d6639b8c78811c",
+      "submission" : 2094,
+      "title" : "ナツイノ [BITTER7]",
+      "url" : "https://dropbox.bms.ms/u/53751238/Ino_BOFU2016_Natsuino_OGG.zip",
+      "url_diff" : "http://kanki2.net/bme.html"
    },
    {
       "artist" : "ridis ＆ 草野ほうき / obj. hplaner",
