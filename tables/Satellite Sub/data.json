@@ -26167,6 +26167,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "紬 ヴェンダース Remix by 七海",
+      "comment" : "??????????????????????????????????",
+      "level" : "7",
+      "md5" : "e4c6d03ac3f8d2a64c2a760b21ff77a2",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "b161fdefaa78471d46ba6cbdc8908c505da45477b62d6f7011b9fa1860db7002",
+      "submission" : 2098,
+      "title" : "紬の夏休み (やりたいことRemix) -むぎゅ-",
+      "url" : "https://www.dropbox.com/s/rva9y5wnsjz6ebl/mugyu_1.00.zip?dl=1",
+      "url_diff" : ""
+   },
+   {
       "artist" : "xi / selene. 鑓田(alpha complex)",
       "comment" : "ラストが難しい",
       "level" : "12",
@@ -27757,6 +27770,19 @@
       "url" : "https://web.archive.org/web/20070107082819/http://yoshinoya.dnsalias.com:8888/knm/2005_511.lzh",
       "url_diff" : "https://darksabun.github.io/event/renewal/",
       "zureCount" : 0
+   },
+   {
+      "artist" : "hapi⇒ fw. 緋藤レイル&Wnya （fetherさん許可済）",
+      "comment" : "皿複合",
+      "level" : "10",
+      "md5" : "f2c999551aab1455e145ce60c6b340fe",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "253216c8f99e558a628d8640ea34c974b96b6ffe6cac87b1719636e1059d24aa",
+      "submission" : 2097,
+      "title" : "KIRBY-CHAN'D CANYON (CZ Ver.) [LEGGENDARIA]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=116",
+      "url_diff" : ""
    },
    {
       "artist" : "69 de 74 BGI:MUSH.T",
