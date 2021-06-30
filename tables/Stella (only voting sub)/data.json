@@ -197,6 +197,20 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05341"
    },
    {
+      "artist" : "eoll feat.白羽美依 obj:monaka",
+      "comment" : "ディレイ",
+      "level" : "0",
+      "md5" : "b364f6f23032b1f0c63d710996113002",
+      "proposer" : "ぶんぺ～",
+      "proposerMinirid" : "3708ebc6-f813-4964-a5e4-deb86620233a",
+      "sha256" : "1ad74bfc882989a75e83e27fc6f49af18ce9358da4d7bcd89484ccd06c8e496b",
+      "submission" : 1529,
+      "title" : "パステルプラネット [Fairy Tale]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=284&event=110",
+      "url_diff" : "http://ux.getuploader.com/monaka_sabun_2/download/101/pastelplanet.zip",
+      "zureCount" : 0
+   },
+   {
       "artist" : "MisomyL obj:mathath / selene.",
       "level" : "3",
       "md5" : "b3cb3cb61f7f1de982223ef4e037e02e",
@@ -239,6 +253,36 @@
       "url" : "https://venue.bmssearch.net/bmsshuin3/57",
       "url_diff" : "https://stellabms.xyz/upload/985",
       "zureCount" : 0
+   },
+   {
+      "artist" : "しらいし/obj:JELLY",
+      "comment" : "手動ディレイ (追加音源によるキー音ズレが有ります)",
+      "level" : "0",
+      "md5" : "c521a30f6b72904dad01d1bbdb42deb1",
+      "proposer" : "ぶんぺ～",
+      "proposerMinirid" : "3708ebc6-f813-4964-a5e4-deb86620233a",
+      "sha256" : "ab7a8aff6e7bff92621c18a55160a0e281ee2f7ef3b9ea02ab8a1b2d68a75d03",
+      "submission" : 1528,
+      "title" : "天叢雲剣 [White_Normal7]",
+      "url" : "http://www1.axfc.net/uploader/He/so/355552",
+      "url_diff" : "https://dtongue.web.fc2.com/sabun/murakumo_jelly.zip"
+   },
+   {
+      "artist" : "ねこみりん feat.杠葉えりか×Sennzai×とおる×小宮真央 Movie:むらしん / Illust:りゅうら / obj.Pretia",
+      "level" : "3",
+      "md5" : "cc3950cec4bec9c5fd7c7d3f5f1fee75",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "b33a6b5875755a33e8d64d002e5b5510ee55c7272ab2bedb8b0f530ff85ba176",
+      "submission" : 1359,
+      "title" : "うらドラみたいにスカートめくるなっ！ [動くな!! イカサマかよ!!]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=413&event=133",
+      "url_diff" : "https://darksabun.github.io/event/bofxvi/",
+      "voteNeutral" : 4,
+      "voteNo" : 2,
+      "votePercent" : 63.6363636363636,
+      "voteVersion" : 2,
+      "voteYes" : 5
    },
    {
       "artist" : "Iriss-Frantzz / obj:七海",

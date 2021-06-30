@@ -14974,6 +14974,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "eoll feat.白羽美依 obj:monaka",
+      "comment" : "ディレイ",
+      "level" : "0",
+      "md5" : "b364f6f23032b1f0c63d710996113002",
+      "proposer" : "ぶんぺ～",
+      "proposerMinirid" : "3708ebc6-f813-4964-a5e4-deb86620233a",
+      "sha256" : "1ad74bfc882989a75e83e27fc6f49af18ce9358da4d7bcd89484ccd06c8e496b",
+      "submission" : 1529,
+      "title" : "パステルプラネット [Fairy Tale]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=284&event=110",
+      "url_diff" : "http://ux.getuploader.com/monaka_sabun_2/download/101/pastelplanet.zip",
+      "zureCount" : 0
+   },
+   {
       "artist" : "wa. / 百舌谷 obj. B_K",
       "comment" : "",
       "level" : "2",
@@ -16383,6 +16397,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "しらいし/obj:JELLY",
+      "comment" : "手動ディレイ (追加音源によるキー音ズレが有ります)",
+      "level" : "0",
+      "md5" : "c521a30f6b72904dad01d1bbdb42deb1",
+      "proposer" : "ぶんぺ～",
+      "proposerMinirid" : "3708ebc6-f813-4964-a5e4-deb86620233a",
+      "sha256" : "ab7a8aff6e7bff92621c18a55160a0e281ee2f7ef3b9ea02ab8a1b2d68a75d03",
+      "submission" : 1528,
+      "title" : "天叢雲剣 [White_Normal7]",
+      "url" : "http://www1.axfc.net/uploader/He/so/355552",
+      "url_diff" : "https://dtongue.web.fc2.com/sabun/murakumo_jelly.zip"
    },
    {
       "artist" : "xixuezique BGA : 空読無 白眼",
