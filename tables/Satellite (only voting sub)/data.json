@@ -300,6 +300,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "djUSA.GI obj: A",
+      "level" : "3",
+      "md5" : "a08807ec10a4d9ad89de12f27dd6d39e",
+      "proposer" : "moka",
+      "proposerLr2id" : 167326,
+      "sha256" : "df969f8cce44af796787cbee9850661a877f8cf0671bfd8e44a8380c95615d01",
+      "submission" : 2099,
+      "title" : "Mercy Heals A Broken Heart [Determination]",
+      "url" : "http://ryu.s-ul.eu/Fnpt6yKr",
+      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up6899.zip",
+      "zureCount" : 0
+   },
+   {
       "artist" : "ptar124 BGA: Yumemochi, OBJ: w",
       "comment" : "同梱譜面/BOFXVI",
       "level" : "0",
@@ -337,6 +350,23 @@
       "title" : "なるほど2011年じゃねーの [日の出]",
       "url" : "https://drive.google.com/uc?export=download&id=1yT58CJsEe2R_tuXIR_oVzEs1E6MPQ-n_",
       "url_diff" : ""
+   },
+   {
+      "artist" : "シュワッチ / bms:firi / obj:神聖六文字",
+      "level" : "9",
+      "md5" : "c985335e6d26e8d8f9e6c46d2eca2002",
+      "proposer" : "ﾐｽﾀｰﾌﾞｰﾋﾞｰ",
+      "proposerLr2id" : 119698,
+      "sha256" : "1412b10753e6172b267f2ebf9e20b01aff48e7d4dcedcf9e658c4b6a2afc5caa",
+      "submission" : 613,
+      "title" : "パカッと参上！カラーマン [PAKATHER]",
+      "url" : "http://www1.axfc.net/u/3689628/bms",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 5,
+      "votePercent" : 66.6666666666667,
+      "voteVersion" : 2,
+      "voteYes" : 10
    },
    {
       "artist" : "Daily天利 BGA by Daily天利 & Nakaiankow / obj: Scely",
