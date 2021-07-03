@@ -2931,6 +2931,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "ピクニカル男かゆき obj : ピクニカルMary_Sue",
+      "comment" : "denimgirl",
+      "level" : "4",
+      "md5" : "180ecc755af1b5875dbd110789cfe5b0",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "65a40af0050b75d5a63ac6a6ec9ede886316ce0212893abbe8ff6bb1c7027afb",
+      "submission" : 2103,
+      "title" : "ピクニックガール [Dead]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=85",
+      "url_diff" : "https://darksabun.github.io/Mary_Sue/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "sasakure.UK",
       "comment" : "アレンジ",
       "level" : "11",
@@ -3040,6 +3054,19 @@
       "title" : "Stokesia [NEXT]",
       "url" : "http://sunaneko.iptime.org/BMS_Library/Stokesia%20%28by%20lazward%29.rar",
       "url_diff" : "http://www.ribbit.xyz/bms/mirror/bof/src/up1008.zip"
+   },
+   {
+      "artist" : "ROKINA",
+      "comment" : "高速",
+      "level" : "12",
+      "md5" : "19416ee5637e16421aaa90c73894cf09",
+      "proposer" : "fuko",
+      "proposerMinirid" : "ba0690c9-b068-498b-8f78-4f10295e3e7f",
+      "sha256" : "33ead01ef04bb7a3e895dc95f773686951291cd6325d6866d63f8283db49305d",
+      "submission" : 2105,
+      "title" : "Schwerkraft [Dwarf]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=263&event=110",
+      "url_diff" : ""
    },
    {
       "artist" : "Rethisly BGA:るっかるか / obj:monaka",
@@ -8221,6 +8248,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Axya BGA by TARA #376 / obj AZVW_2",
+      "comment" : "sl2くらいの皿複合乱打、中盤の密度が薄めなのでsl1で提案します",
+      "level" : "1",
+      "md5" : "4742543fffbfe352fbe26f859e1fded4",
+      "proposer" : "10c*",
+      "proposerLr2id" : 170055,
+      "sha256" : "ce3e7c28d3a75746ca6b9245fbb9830ccbd5b45fbfe09d6a9403a506b74c6968",
+      "submission" : 2104,
+      "title" : "Reverie Chaser [SP ANOTHER]",
+      "url" : "https://venue.bmssearch.net/bmsshuin3/36",
+      "url_diff" : ""
    },
    {
       "artist" : "nonomori feat. よみ人知らず",
@@ -17630,6 +17670,19 @@
       "submission" : 1250,
       "title" : "翳月 [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=95",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "13eastie",
+      "comment" : "some scratching",
+      "level" : "4",
+      "md5" : "9cbad659f6ee97fb5b9861cacef727ba",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "3de916dd76458b135ef2e1826e657284ecbd85be4c8f52fcff871e3545d932a3",
+      "submission" : 2102,
+      "title" : "Mermaid Breeze [SP_ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=192&event=127",
       "url_diff" : ""
    },
    {

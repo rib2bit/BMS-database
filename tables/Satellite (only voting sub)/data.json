@@ -27,6 +27,23 @@
       "url_diff" : ""
    },
    {
+      "artist" : "ねこみりん feat.杠葉えりか×Sennzai×とおる×小宮真央 Movie:むらしん / Illust:りゅうら / obj:Paz_L",
+      "level" : "3",
+      "md5" : "15522ea068abfc49b2ff7365a48760fc",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "6e33575621069636457244147ca3ed8ce7620f1985fe42c5686ec5cd5218cfa8",
+      "submission" : 1741,
+      "title" : "うらドラみたいにスカートめくるなっ！ [ANOTHER7]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=413&event=133",
+      "url_diff" : "",
+      "voteNeutral" : 1,
+      "voteNo" : 9,
+      "votePercent" : 56.8181818181818,
+      "voteVersion" : 2,
+      "voteYes" : 12
+   },
+   {
       "artist" : "Atomic Sphere / obj : Mary_Sue",
       "comment" : "乱打 / 同時押し / ラス殺し",
       "level" : "12",
@@ -39,6 +56,33 @@
       "url" : "https://mega.nz/folder/EpgWgJqa#7OItZfYLQxZ0X8OB19yvNQ/file/pt5CmTpR",
       "url_diff" : "https://darksabun.github.io/Mary_Sue/",
       "zureCount" : 0
+   },
+   {
+      "artist" : "ピクニカル男かゆき obj : ピクニカルMary_Sue",
+      "comment" : "denimgirl",
+      "level" : "4",
+      "md5" : "180ecc755af1b5875dbd110789cfe5b0",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "65a40af0050b75d5a63ac6a6ec9ede886316ce0212893abbe8ff6bb1c7027afb",
+      "submission" : 2103,
+      "title" : "ピクニックガール [Dead]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=85",
+      "url_diff" : "https://darksabun.github.io/Mary_Sue/",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "ROKINA",
+      "comment" : "高速",
+      "level" : "12",
+      "md5" : "19416ee5637e16421aaa90c73894cf09",
+      "proposer" : "fuko",
+      "proposerMinirid" : "ba0690c9-b068-498b-8f78-4f10295e3e7f",
+      "sha256" : "33ead01ef04bb7a3e895dc95f773686951291cd6325d6866d63f8283db49305d",
+      "submission" : 2105,
+      "title" : "Schwerkraft [Dwarf]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=263&event=110",
+      "url_diff" : ""
    },
    {
       "artist" : "ume / obj.にゃむ",
@@ -160,6 +204,19 @@
       "submission" : 2093,
       "title" : "G e n g a o z o -Screen music- -SP HYPER-",
       "url" : "https://drive.google.com/file/d/1TrVBjlY6pZPKo-CnB5W0leTAJtidQ8jt/view?usp=sharing",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "Axya BGA by TARA #376 / obj AZVW_2",
+      "comment" : "sl2くらいの皿複合乱打、中盤の密度が薄めなのでsl1で提案します",
+      "level" : "1",
+      "md5" : "4742543fffbfe352fbe26f859e1fded4",
+      "proposer" : "10c*",
+      "proposerLr2id" : 170055,
+      "sha256" : "ce3e7c28d3a75746ca6b9245fbb9830ccbd5b45fbfe09d6a9403a506b74c6968",
+      "submission" : 2104,
+      "title" : "Reverie Chaser [SP ANOTHER]",
+      "url" : "https://venue.bmssearch.net/bmsshuin3/36",
       "url_diff" : ""
    },
    {
@@ -298,6 +355,19 @@
       "url" : "https://onedrive.live.com/?cid=BEA3EA5126192983&id=BEA3EA5126192983%21211&parId=BEA3EA5126192983%21112&o=OneUp",
       "url_diff" : "https://stellabms.xyz/upload/792",
       "zureCount" : 0
+   },
+   {
+      "artist" : "13eastie",
+      "comment" : "some scratching",
+      "level" : "4",
+      "md5" : "9cbad659f6ee97fb5b9861cacef727ba",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "3de916dd76458b135ef2e1826e657284ecbd85be4c8f52fcff871e3545d932a3",
+      "submission" : 2102,
+      "title" : "Mermaid Breeze [SP_ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=192&event=127",
+      "url_diff" : ""
    },
    {
       "artist" : "djUSA.GI obj: A",
