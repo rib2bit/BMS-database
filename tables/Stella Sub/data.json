@@ -6297,6 +6297,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "ridis ＆ 草野ほうき / obj. hplaner",
+      "level" : "2",
+      "md5" : "4be5021dad62aa8045b34b7509de021c",
+      "proposer" : "♪♪",
+      "proposerLr2id" : 7290,
+      "sha256" : "cec45877a8a854422958677f7e4b8db61ad463a87727eda5c64ecd90e0ec73b4",
+      "submission" : 1534,
+      "title" : "deadly daydream [虫様筋EX]",
+      "url" : "https://web.archive.org/web/20121126161324/http://aquaseeds.net/archives/dday_hq.rar",
+      "url_diff" : "https://web.archive.org/web/20190322230353/https://www.hyper-laner.com/sabun/dday7lanerlaner.bme"
+   },
+   {
       "artist" : "じぽたん MIDI : 猫姫 差分:わふわふ",
       "comment" : "連打複合、ディレイ",
       "level" : "5",
@@ -8939,6 +8951,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "あとぅす feat.つゆり花鈴 BGI:りーふぱいザウルス / obj : BAECON",
+      "level" : "9",
+      "md5" : "6a8730fe3aabeeb027452a28f164111d",
+      "proposer" : "歳納京子",
+      "proposerLr2id" : 75332,
+      "sha256" : "54ec57c173246aaf25065826c1dbd8be0e9f95e059141714c6124d014c72fb5b",
+      "submission" : 1535,
+      "title" : "FIRST PROMIZE [LAST DECISION]",
+      "url" : "https://venue.bmssearch.net/mutualfaith3/9",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04685",
+      "zureCount" : 0
    },
    {
       "artist" : "Feryquitous movie:Sight / obj:Omino",
@@ -21095,6 +21120,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Hidingpast/さ",
+      "comment" : "The Ultimate 同時押し Experience",
+      "level" : "4",
+      "md5" : "ff746be0f2b692ffe6adc1bdd23c130c",
+      "proposer" : "AYhaz",
+      "proposerLr2id" : 123475,
+      "sha256" : "6baa127c7bc044092aef29b9aff9dc0940a23cf905a701043c660165f19d5467",
+      "submission" : 1533,
+      "title" : "非徘徊主義 (･∀･)",
+      "url" : "https://web.archive.org/web/20160331123858/http://nextreflection.net/music/hihaikai/hihaikai.rar",
+      "url_diff" : "http://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/sabun/hihaikai%20sabun.zip",
+      "zureCount" : 0
    },
    {
       "artist" : "hayato87b obj: air",
