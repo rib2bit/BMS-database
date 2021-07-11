@@ -737,6 +737,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "plastic feat.サキト / yuyuko",
+      "comment" : "令和で一番ホットな譜面です",
+      "level" : "12",
+      "md5" : "09ed1d6bd689dee2b8ffea8e63aab5f1",
+      "proposer" : "ール",
+      "proposerLr2id" : 158523,
+      "sha256" : "599720bc333c01badbed0159a5a6f103bf5f02e9eab96a9682599026cdea6382",
+      "submission" : 1546,
+      "title" : "ひつぎとふたご [7KEY/PHANTASM]",
+      "url" : "http://skydrive.live.com/?cid=FD93B4F2CB8CD95F&id=FD93B4F2CB8CD95F%21105",
+      "url_diff" : "http://www.geocities.jp/minomusiwokokoronisoete/"
+   },
+   {
       "artist" : "MITCH DOWNVELL / obj:qfeileadh",
       "comment" : "6~7? ディレイなどのズレあり",
       "level" : "6",
@@ -1963,6 +1976,18 @@
       "voteYes" : 0
    },
    {
+      "artist" : "ξ青龍ξ / BGA:いかお",
+      "level" : "0",
+      "md5" : "19b1f8f86e9c67b2399620dcc0cdd216",
+      "proposer" : "moka",
+      "proposerLr2id" : 167326,
+      "sha256" : "3ef598c30b36d67dc4820b219f0e14180789b63dbab5069b00c68f92b0970353",
+      "submission" : 1544,
+      "title" : "Chateau",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=99&event=96",
+      "url_diff" : ""
+   },
+   {
       "artist" : "mommy",
       "comment" : "ガチ押し",
       "level" : "3",
@@ -2076,7 +2101,7 @@
    {
       "artist" : "Queen P.A.L. / obj:mezna",
       "comment" : "BPM155 微縦 同時押し",
-      "level" : "4",
+      "level" : "3",
       "md5" : "1bca8c429f5edf8c46ee749999be7845",
       "proposer" : "垢伴次郎",
       "proposerMinirid" : "39fcf843-3931-4605-a729-2f3f61d0970b",
@@ -4103,7 +4128,7 @@
    {
       "artist" : "Sakamiya feat.前野 / obj.fuko mov:hx",
       "comment" : "BPM184の8分5～6個同時押し譜面",
-      "level" : "2",
+      "level" : "1",
       "md5" : "34a0bb8b6182a81044d22c5795726d08",
       "proposer" : "ふかけん",
       "proposerLr2id" : 145204,
@@ -5569,7 +5594,7 @@
    },
    {
       "artist" : "FOLiACETATE /差分 赤い人",
-      "level" : "3",
+      "level" : "4",
       "md5" : "4381520e50468a1b0cd12213782c1606",
       "proposer" : "파이어",
       "proposerLr2id" : 7290,
@@ -6040,6 +6065,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "yukitani / DKN",
+      "level" : "0",
+      "md5" : "48b55ea1b274b6b4cdf519fa2521de90",
+      "proposer" : "moka",
+      "proposerLr2id" : 167326,
+      "sha256" : "f420ba289c4c1cc8db8fd5e29b7a82f9af5cb524d356833567af4d65adfec871",
+      "submission" : 1545,
+      "title" : "Amusing Colorful Pudding. (a la mode)",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/Amusing%20Colorful%20Pudding.%20%28by%20yukitani%ef%bc%8fDKN%29.rar",
+      "url_diff" : "https://web.archive.org/web/20190211031819/http://sabosabun.tank.jp/sabun/ACP.zip",
+      "zureCount" : 0
+   },
+   {
       "artist" : "ginkiha / PING",
       "comment" : "0~1?",
       "level" : "0",
@@ -6143,7 +6181,7 @@
    {
       "artist" : "わかどり BGA : もがみ / obj:Jakads",
       "comment" : "teatro de la noche (forma de Jakadsさんの差分譜面)",
-      "level" : "0",
+      "level" : "1",
       "md5" : "49c4f513cee8d334b2ead2b329c0eb8c",
       "proposer" : "AYhaz",
       "proposerLr2id" : 123475,
@@ -6615,7 +6653,7 @@
    {
       "artist" : "sasakure.UK / И",
       "comment" : "曲をカットしたアレンジ差分です。検出されるズレ、抜けは全部意図されたものです。(同梱の_URL_sabun_readmeによると)",
-      "level" : "3",
+      "level" : "2",
       "md5" : "4f8dbc1b122c133f1366c6cb8203491c",
       "proposer" : "MarySue",
       "proposerLr2id" : 147889,
@@ -7193,6 +7231,19 @@
       "url" : "https://www.dropbox.com/s/nbc6lrxvr00d4lr/MoE_TKR.zip?dl=1",
       "url_diff" : "https://stellabms.xyz/upload/726",
       "zureCount" : 0
+   },
+   {
+      "artist" : "paraneumann / obj:C4",
+      "comment" : "弱体化CYCLONE[Other]+SUPERCOLORFULで一生連打 同梱Anotherと比較するとズレあり",
+      "level" : "9",
+      "md5" : "55d5fd21b94ed9d5e9039120b570b699",
+      "proposer" : "りこりす・らぢあーた",
+      "proposerLr2id" : 143120,
+      "sha256" : "e11a941069a6fcb84038b267f9e882cee417c029aa8bd2056dcf44408786ca6f",
+      "submission" : 1541,
+      "title" : "Weaponhuman [Armageddon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=20&event=131",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05341"
    },
    {
       "artist" : "w_tre obj.XYZ",
@@ -7954,6 +8005,20 @@
       "url_diff" : "http://moriosabun.digi2.jp/"
    },
    {
+      "artist" : "sa10 obj:剣竜",
+      "comment" : "st11~12 gachizure",
+      "level" : "12",
+      "md5" : "5f1d7cb69f1b7692304e17e1dd692906",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "07d84be13108e68604bdfef02a9c49a58da5879589fdf802e87a22e519430bcc",
+      "submission" : 1536,
+      "title" : "Magus Logos [Casper]",
+      "url" : "https://lobsak.bms.ms/bms/maguslogos_ogg.zip",
+      "url_diff" : "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Ωμεγα / BANZAI",
       "comment" : "0 - 1?",
       "level" : "2",
@@ -8355,6 +8420,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Yu^ta feat. みずにんじん",
+      "comment" : "Despair&Hope-",
+      "level" : "4",
+      "md5" : "633141a17ae7ba45fd4ed3729c48d4ef",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "44fdb44b37c6805e5e90096bbd19ba3eadf3095c6d7bdadbe7de0525b3f9f563",
+      "submission" : 1537,
+      "title" : "Strawberry Mint Chocolate [v('ω')v]",
+      "url" : "http://yuinore.net/2017/02/smc-package/",
+      "url_diff" : ""
    },
    {
       "artist" : "plastic feat.呉舞かなと obj:七海千秋",
@@ -8783,20 +8861,6 @@
       "title" : "warfire [for some reason]",
       "url" : "http://web.archive.org/web/20030518122232/http://www.boreas.dti.ne.jp:80/~qurter/sound/warfire.rar",
       "url_diff" : "https://fsrs.github.io/table.html"
-   },
-   {
-      "artist" : "あとぅす / obj.fuko Illust:Micelle/Movie:TM",
-      "comment" : " 乱打,  連打",
-      "level" : "0",
-      "md5" : "67f4387cb513c9242b919df282e89fbe",
-      "proposer" : "polynya",
-      "proposerLr2id" : 165397,
-      "sha256" : "942b39ac077654826bd2d68a2d84545819fef582f8a995a2cd443ab9035650c1",
-      "submission" : 1523,
-      "title" : "LiVEMeTAL [HEROIC]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=131",
-      "url_diff" : "https://stellabms.xyz/upload/994",
-      "zureCount" : 0
    },
    {
       "artist" : "maki (original:watson)",
@@ -9715,6 +9779,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "bj.HaLo / obj:夢瑠",
+      "comment" : "あ",
+      "level" : "4",
+      "md5" : "727ab7a4bc5995f9d4e53b0273b8e698",
+      "proposer" : "ール",
+      "proposerLr2id" : 158523,
+      "sha256" : "957e9ec2c54b954ba73503e19069bea835775f358e5f64ac592fcabc523015ce",
+      "submission" : 1543,
+      "title" : "撃墜-HELL AIR FORCE- [Hartmann]",
+      "url" : "http://uploader.bms.ms/data/hellairforceHQ.rar",
+      "url_diff" : "http://yumerusabun.web.fc2.com/nue.html"
    },
    {
       "artist" : "混沌の彼方より出ずるもの / 歪みと重みに悶える祈りの存在 obj:homare",
@@ -11215,6 +11292,19 @@
       "title" : "Violet Haze [410nm]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=250&event=133",
       "url_diff" : "https://darksabun.github.io/event/bofxvi/"
+   },
+   {
+      "artist" : "Centain",
+      "comment" : "BPM160 連打複合",
+      "level" : "5",
+      "md5" : "87b6810739d2f3761300e8180b543dbe",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "d5b96f4331d03336f00741821d76ddb3aca2c8ddf9c42b9158d8c8dc57674d3c",
+      "submission" : 1538,
+      "title" : "Fake it [INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=135",
+      "url_diff" : ""
    },
    {
       "artist" : "Snack_X",
@@ -13407,20 +13497,6 @@
       "url_diff" : "http://absolute.pv.land.to/bmsuploader.html"
    },
    {
-      "artist" : "Music : Lunatic Sounds / BGA : Photonskyto object:nozomi",
-      "comment" : "乱打",
-      "level" : "0",
-      "md5" : "a0ae63d5d9ee29663ecb68f3f63c0f60",
-      "proposer" : "ぶんぺ～",
-      "proposerMinirid" : "3708ebc6-f813-4964-a5e4-deb86620233a",
-      "sha256" : "d320f36f015fe10ba77246d76c4371b70b2ad45282633407400df189bf893a77",
-      "submission" : 1462,
-      "title" : "DataErr0r [EXCEED GEAR -LIGHTNING MODEL-]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=104",
-      "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpymiWPMzSoD-5T-SfA?e=kRz8v0",
-      "zureCount" : 0
-   },
-   {
       "artist" : "しらいし / obj.siokaze",
       "comment" : "乱打",
       "level" : "0",
@@ -13470,7 +13546,7 @@
    {
       "artist" : "Felisica / BGA:空読無 白眼 / Obj:И",
       "comment" : "BPM169 微連打",
-      "level" : "3",
+      "level" : "4",
       "md5" : "a10a71e34431f64f8950263ccf22428d",
       "proposer" : "SHAX.",
       "proposerLr2id" : 65624,
@@ -14996,7 +15072,7 @@
    {
       "artist" : "ROKINA / obj:O",
       "comment" : "st11上~12...? 大宇宙 超次元 スパーノヴァ",
-      "level" : "11",
+      "level" : "12",
       "md5" : "b2f7473368d7e566e605ca6d0e01236e",
       "proposer" : "qtp13",
       "sha256" : "c1d6e20ee6a6ced21a6afcf41cde07a949000dd8b56fe7e479f67ac7d897d0fa",
@@ -16721,6 +16797,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Lokan",
+      "comment" : "キー音アレンジ差分です。一応_anger_control_add_mihaiti.xxx基準ズレ抜けなし。",
+      "level" : "0",
+      "md5" : "c92054eb2733f1a7f0b556e9e874097c",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "1b78df7a9e0cf5df64df828a3b9425fa988d8095217609e0eddfda6b8171fc6e",
+      "submission" : 1540,
+      "title" : "Anger Control [Calm]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=457&event=133",
+      "url_diff" : "https://bms.parksulab.xyz"
+   },
+   {
       "artist" : "uma vs. モリモリあつし obj:mute",
       "comment" : "",
       "level" : "3",
@@ -17845,6 +17934,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "RAY arranged by sumomo / obj : Mary_Sue",
+      "comment" : "BPM153 微連打",
+      "level" : "3",
+      "md5" : "d3cca0efec2a6bfcc0814295cafe9a6e",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "7724f9db432dd167c066f5706fc99fc98b4c800902a812ee8dc8f0b322be2e89",
+      "submission" : 1539,
+      "title" : "アイのハネいろ！ [Maryther]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=126",
+      "url_diff" : "https://darksabun.github.io/Mary_Sue/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "● / obj : Mary_Sue",
       "comment" : "BPM144(-156) 微連打",
       "level" : "4",
@@ -18453,6 +18556,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "SHIKI / obj.ぶんぺ～",
+      "comment" : "音追加差分のためキー音ズレがあります(According to the included text)",
+      "level" : "0",
+      "md5" : "db58d9c9fe42379299fa9f615da87dd9",
+      "proposer" : "歳納京子",
+      "proposerLr2id" : 75332,
+      "sha256" : "7ae305878f7130985fadcdef67d040f19c601b9972b6397cebea140cc092e2ac",
+      "submission" : 1548,
+      "title" : "Air -GAIA-",
+      "url" : "http://shiki2.sakura.ne.jp/fohs.html",
+      "url_diff" : "https://stellabms.xyz/upload/1020"
+   },
+   {
       "artist" : "HOUJIROU obj:krg",
       "comment" : "物量 ディレイ",
       "level" : "4",
@@ -18764,7 +18880,7 @@
    {
       "artist" : "qfeileadh feat.kei_iwata mov:Pelican visual lab.",
       "comment" : "st3~4 BPM120 ハネてるガチ押し",
-      "level" : "3",
+      "level" : "4",
       "md5" : "df692f0447ec63f7d578947fd26a3c46",
       "proposer" : "mukyu--",
       "proposerLr2id" : 71314,
@@ -19085,6 +19201,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Sakamiya feat.一花 img:ttv / obj.ぶんぺ～",
+      "level" : "0",
+      "md5" : "e3492456f465cc646d1c4b1414873c8f",
+      "proposer" : "polynya",
+      "proposerLr2id" : 165397,
+      "sha256" : "4e5e4049a51b5b8b244ae1333683a1c44e48ced13be75b375dc254c033ca6679",
+      "submission" : 1542,
+      "title" : "Start over agaIn [melodies]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=419&event=133",
+      "url_diff" : "https://stellabms.xyz/upload/1027",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Yu^ta / アド / obj:.ctc",
       "level" : "2",
       "md5" : "e3799294302b15cf1b7e33cd6903eaaa",
@@ -19350,7 +19479,7 @@
    {
       "artist" : "ZUN/arr.みょん / iimode-do / かげきち / extra",
       "comment" : "st2~3 delay (2 notes misaligned (another chart) by 1/8 due to delay effect)",
-      "level" : "2",
+      "level" : "3",
       "md5" : "e73457a90730035c6178f9f339eea553",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -19618,6 +19747,18 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Yu^ta / obj:Azel",
+      "level" : "0",
+      "md5" : "ebb09ec26373b370f98ab6fa7e784fbc",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "ea600a63293e12ad99df5d3fe54eec0091a59eb975a7b43217ad24a63addec4c",
+      "submission" : 1547,
+      "title" : "現実をカットアップしてみた [Final]",
+      "url" : "http://famousbms.web.fc2.com/",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Yu^ta feat. みずにんじん",
       "comment" : "物量",
       "level" : "2",
@@ -19678,7 +19819,7 @@
    {
       "artist" : "Nego_tiator BGI:*reinahitomi OBJ:bms newbie feat. Alpha-Gorila",
       "comment" : "Paracelestia.xxx基準84小節のGWノーツにズレが一つありますが(Anzutoolで)、差分ファイル同梱の「URL_readme」によると、意図的なズレです。プレーには問題なし",
-      "level" : "2",
+      "level" : "3",
       "md5" : "ecc2343d183d12dd1798950c8bbc618f",
       "proposer" : "MarySue",
       "proposerLr2id" : 147889,
@@ -19880,7 +20021,7 @@
    },
    {
       "artist" : "tcheb / mov : 石王マサト / obj : swa",
-      "level" : "1",
+      "level" : "2",
       "md5" : "ef55e67fd19d4bd067dddef58a06f9d7",
       "proposer" : "MarySue",
       "proposerLr2id" : 147889,

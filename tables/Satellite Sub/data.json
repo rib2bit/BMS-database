@@ -1699,6 +1699,20 @@
       "url_diff" : ""
    },
    {
+      "artist" : "橘花音 かなえゆめ composed by nmk Illustration:かぜっと / obj:monaka",
+      "comment" : "sl2弱、繰り返し、物量譜面",
+      "level" : "2",
+      "md5" : "0ceab9497a4a560cce822be07a635ec2",
+      "proposer" : "10c*",
+      "proposerLr2id" : 170055,
+      "sha256" : "4148ae72f6007e624da3696c19d1096842f1bd62f625fcf57f8aafc3f91d904a",
+      "submission" : 2110,
+      "title" : "図書室のエルザ [Setting Sun]",
+      "url" : "http://tosyosituno-elsa.tumblr.com/",
+      "url_diff" : "http://ux.getuploader.com/monaka_sabun_2/download/103/elsa.zip",
+      "zureCount" : 0
+   },
+   {
       "artist" : "わかどり BGA : もがみ / obj:saaa",
       "level" : "1",
       "md5" : "0cecd610a3ec8dd993edfc9907de5120",
@@ -1871,7 +1885,7 @@
    {
       "artist" : "あとぅす",
       "comment" : "同梱譜面、中速、CNは難易度にほぼ影響なし、sl3～4？",
-      "level" : "2",
+      "level" : "1",
       "md5" : "0e0ea8aa78af27437b2f5df5d1726a3b",
       "proposer" : "quinto",
       "proposerLr2id" : 141043,
@@ -3403,6 +3417,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "RykSeb obj. marie respect for HARD判定 ENJOYERS",
+      "comment" : "同時押し、ソフラン、皿、良譜面。Anzutool基準_11_5k.bmeとズレなし。",
+      "level" : "1",
+      "md5" : "1bd79989429cfe17f0d08e6e881387f1",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "a24f072b378ceeacea698d7070d112ad5c2fd0eca9e0b8617f0454c8bfb60131",
+      "submission" : 2113,
+      "title" : "RETINAE -TIMELET PARADISE-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=335&event=133",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05435"
    },
    {
       "artist" : "Qayo mov:AnD + sho_ishida",
@@ -5053,7 +5080,7 @@
    {
       "artist" : "MONO BGA: 乙青商会 / OBJ: LuvTek",
       "comment" : "BOFXVI 同梱の_urania_7n基準ズレが一つ検出されるかもしれませんですが、それはbgaの拡張子に関連したズレなのでプレーには関係なし",
-      "level" : "12",
+      "level" : "11",
       "md5" : "2b13530120df96c374f4fb79e3599ce6",
       "proposer" : "MarySue",
       "proposerLr2id" : 147889,
@@ -6425,7 +6452,7 @@
    {
       "artist" : "er / obj:夢瑠",
       "comment" : "夢瑠 LOVE",
-      "level" : "7",
+      "level" : "8",
       "md5" : "3708785d280e53e10719b35fb76e01b5",
       "proposer" : "AYhaz",
       "proposerLr2id" : 123475,
@@ -7010,6 +7037,18 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=126",
       "url_diff" : "https://www.dropbox.com/s/gts7ft9dlrkdven/_on%20the%20WAVE-nanami01.bms?dl=1",
       "zureCount" : 0
+   },
+   {
+      "artist" : "kanoryo",
+      "level" : "0",
+      "md5" : "3c23e4d9ff6c96376ea70b6e2b945897",
+      "proposer" : "ИИ",
+      "proposerLr2id" : 147895,
+      "sha256" : "9934af204d2c99d07ee5d8e93c41d477aedb5b20bf57a9e7de04ec09aa707047",
+      "submission" : 2119,
+      "title" : "Bipolar [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=135",
+      "url_diff" : ""
    },
    {
       "artist" : "かたぎり BGI: morph",
@@ -9103,6 +9142,18 @@
       "url_diff" : "https://www.dropbox.com/s/udntep1i8bewlwx/imazinexo%5B10-triforce%5D.bme?dl=1"
    },
    {
+      "artist" : "charlotte",
+      "level" : "8",
+      "md5" : "4d958e0fed30f779da857a996a1afc4f",
+      "proposer" : "moka",
+      "proposerLr2id" : 167326,
+      "sha256" : "fca4799a9d5babbb0a0cfaa3ad0b12cfc0b67f6e38654b76645fd831ad8edc3c",
+      "submission" : 2116,
+      "title" : "cheeselove [SP insane]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/cheeselove%20%28by%20charlotte%29.rar",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Nameless14 Sound Team \"alfear vs crim\" obj:SUZUKAZEΛ",
       "comment" : "無名戦対抗戦",
       "level" : "2",
@@ -9248,6 +9299,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Potwi",
+      "comment" : "-1 ~ 0?",
+      "level" : "0",
+      "md5" : "4f08deef2417b75b0b5ef1a453fa9000",
+      "proposer" : "polynya",
+      "proposerLr2id" : 165397,
+      "sha256" : "93097b28366471f15606afaf4fa08b559dce9ebba6c03e5d9ac45a92ff37575b",
+      "submission" : 2118,
+      "title" : "U-knighted Servant [7_ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=494&event=133",
+      "url_diff" : ""
    },
    {
       "artist" : "nmk feat.かなえゆめ BGA:SIGMA/ASTE Illust:かぜっと",
@@ -10446,7 +10510,7 @@
    {
       "artist" : "うまるつふり",
       "comment" : "要素沢山で楽しい譜面です",
-      "level" : "1",
+      "level" : "2",
       "md5" : "5a0e87a6bbf93a7a85675510d358799d",
       "proposer" : "10c*",
       "proposerLr2id" : 170055,
@@ -12048,6 +12112,20 @@
       "title" : "SHERRY FLIP",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=345&event=127",
       "url_diff" : ""
+   },
+   {
+      "artist" : "あとぅす / obj.fuko Illust:Micelle/Movie:TM",
+      "comment" : "from Stella",
+      "level" : "12",
+      "md5" : "67f4387cb513c9242b919df282e89fbe",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "942b39ac077654826bd2d68a2d84545819fef582f8a995a2cd443ab9035650c1",
+      "submission" : 2112,
+      "title" : "LiVEMeTAL [HEROIC]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=131",
+      "url_diff" : "https://stellabms.xyz/upload/994",
+      "zureCount" : 0
    },
    {
       "artist" : "イヴ / obj:夢瑠",
@@ -14764,7 +14842,7 @@
    },
    {
       "artist" : "LiA obj:SUZUKAZEΛ",
-      "level" : "5",
+      "level" : "6",
       "md5" : "808c6bbaf7b78b8b2a50187d950ad7b0",
       "proposer" : "TA2YA.",
       "proposerLr2id" : 64145,
@@ -15916,6 +15994,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "MALVA. BGA : 焼き鳥　Illustration : しえろ。+ 萬田",
+      "comment" : "同梱譜面/G2R2018",
+      "level" : "0",
+      "md5" : "8b0521f918724898e96e79fcc2ab448c",
+      "proposer" : "TR1",
+      "proposerLr2id" : 152181,
+      "sha256" : "574597d13e0d99424f6030c9205298b78e9bfbc45460d1b3015a1caf62abac2d",
+      "submission" : 2108,
+      "title" : "Trane [SP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=123",
+      "url_diff" : ""
+   },
+   {
       "artist" : "髭姫 feat. えみゅう。/obj:comet",
       "comment" : "yandere",
       "level" : "5",
@@ -16041,7 +16132,7 @@
    {
       "artist" : "Kyuzo Sameura vs Kanata.S feat.きりたん BGA:Kyuzo Sameura vs Kanata.S, obj:今村水産市場",
       "comment" : "Mutual Fumen/ガチ押し",
-      "level" : "10",
+      "level" : "9",
       "md5" : "8ca516f1b5d1e5b7f63ba1fe0c9e90cc",
       "proposer" : "かに",
       "proposerLr2id" : 115381,
@@ -16997,6 +17088,18 @@
       "title" : "超絶技巧練習曲第一番「新世界」 [NANATHER]",
       "url" : "https://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21208",
       "url_diff" : "http://flowermaster.web.fc2.com/"
+   },
+   {
+      "artist" : "SOMON",
+      "level" : "2",
+      "md5" : "97384c5af4e235435129a85d3af28bed",
+      "proposer" : "ИИ",
+      "proposerLr2id" : 147895,
+      "sha256" : "6dd01f00300a0e4cb00e3ff826b81c9540534639edc36ecc617f2ba76270ff18",
+      "submission" : 2120,
+      "title" : "Falling in LOVE [BLACKANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=261&event=133",
+      "url_diff" : ""
    },
    {
       "artist" : "HASEKO feat.setuna BGA:わっふゑ / selene.",
@@ -18086,6 +18189,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Music : Lunatic Sounds / BGA : Photonskyto object:nozomi",
+      "comment" : "from Satellite",
+      "level" : "12",
+      "md5" : "a0ae63d5d9ee29663ecb68f3f63c0f60",
+      "proposer" : "LUXURY♪",
+      "proposerLr2id" : 23110,
+      "sha256" : "d320f36f015fe10ba77246d76c4371b70b2ad45282633407400df189bf893a77",
+      "submission" : 2115,
+      "title" : "DataErr0r [EXCEED GEAR -LIGHTNING MODEL-]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=104",
+      "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpymiWPMzSoD-5T-SfA?e=kRz8v0",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Mellover / Harusabin 7Key - Mellover/SmiGoon",
       "comment" : "sl0-1",
       "level" : "1",
@@ -18289,6 +18406,19 @@
       "title" : "itsuka [明日また会えるよね]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=428&event=116",
       "url_diff" : "https://www.dropbox.com/s/oxveyrom8wax74b/15_itsuka_spegs.bms?dl=0",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "nmk feat.℃ｉｅｌ / obj.ぶんぺ～",
+      "level" : "10",
+      "md5" : "a2ec60adc207ae461ee7dc0074717904",
+      "proposer" : "MarySue",
+      "proposerLr2id" : 147889,
+      "sha256" : "eb9f29c5da1ff8cb41ddd3ee9b87277fa78a2140654c180f639d44a4d9be9ff6",
+      "submission" : 2114,
+      "title" : "紅月夜想　 [うー☆]",
+      "url" : "http://yaruki0.sakura.ne.jp/event/ondanyugi4/impression.cgi?no=27",
+      "url_diff" : "https://stellabms.xyz/upload/973",
       "zureCount" : 0
    },
    {
@@ -19391,6 +19521,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "カラフル・サウンズ・ポート / 差分　赤い人",
+      "comment" : "ディレイ / 追加音源分キー音ズレが有ります。",
+      "level" : "11",
+      "md5" : "abaad8dae6cc9d43310c84f765d3c340",
+      "proposer" : "ぶんぺ～",
+      "proposerMinirid" : "3708ebc6-f813-4964-a5e4-deb86620233a",
+      "sha256" : "682d6786db4b7c7f3f22214d17519926fa7487e9e6464bd7cd6546b3439f187a",
+      "submission" : 2109,
+      "title" : "ETERNAL DRAIN(ETERNAL DELAY",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=276&event=74",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/eternal_drain_deray.bms"
+   },
+   {
       "artist" : "ProjectG as 東方朔 obj:コ",
       "comment" : "同時押し、所々連皿あり",
       "level" : "0",
@@ -19697,7 +19840,7 @@
    {
       "artist" : "あとぅす feat.橘花音 BGI:りーふぱいザウルス obj:ぶんぺ～",
       "comment" : "乱打、連打少し。",
-      "level" : "11",
+      "level" : "10",
       "md5" : "ae24d8a3d5526131ab9fe48d2cbcd568",
       "proposer" : "MarySue",
       "proposerLr2id" : 147889,
@@ -22993,7 +23136,7 @@
    },
    {
       "artist" : "paraoka obj: Haze*",
-      "level" : "4",
+      "level" : "3",
       "md5" : "c7c7b226226b6b00dfa7206b009b8b29",
       "proposer" : "七海",
       "proposerLr2id" : 84597,
@@ -23963,6 +24106,20 @@
       "title" : "AVALON -Resurrection-",
       "url" : "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/RZ9XEIQI",
       "url_diff" : "https://darksabun.github.io/event/renewal/"
+   },
+   {
+      "artist" : "utzbo obj.nozomi",
+      "comment" : "ガチ押し / 縦連 / 同時押し / ズレ",
+      "level" : "11",
+      "md5" : "cfe8ad9b75ba72ca331755b14df24373",
+      "proposer" : "ぶんぺ～",
+      "proposerMinirid" : "3708ebc6-f813-4964-a5e4-deb86620233a",
+      "sha256" : "4ba6ef011cdcac86df6fe4af986d9203698628666ad8b18692c36d4d05564dd8",
+      "submission" : 2111,
+      "title" : "Kiss in the dark [入って来るのは自由だけど 出るのは出来ない]",
+      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=21&num=1&order=reg&odtype=a",
+      "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpymiv2jvGhjuvMn1qk?e=BDkAEl",
+      "zureCount" : 0
    },
    {
       "artist" : "Lime / inukoro / 制限",
@@ -25236,6 +25393,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "MALVA. vs. Venstant Illustration:Mare.S",
+      "comment" : "同梱譜面",
+      "level" : "1",
+      "md5" : "dcc2190faff4e000fd7ac32bd3a2bac6",
+      "proposer" : "TR1",
+      "proposerLr2id" : 152181,
+      "sha256" : "875d8713e2015f737e9a093374fc69f49e0bf201f45463f3024b486ee9095a57",
+      "submission" : 2117,
+      "title" : "Spiritoso Killer [SP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=115",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Kuwagata",
       "comment" : "同時押し、微縦連",
       "level" : "3",
@@ -25592,7 +25762,7 @@
    },
    {
       "artist" : "BMS：Ｆ／Ａ１８　MIDI：徒桜　BGA：kaoru/さ",
-      "level" : "1",
+      "level" : "2",
       "md5" : "df74fc6538c854e7366dbd51686ec056",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -26446,7 +26616,7 @@
    },
    {
       "artist" : "oni56shi",
-      "level" : "0",
+      "level" : "1",
       "md5" : "e67ca6ff5b4ff4edff6eb819591bb296",
       "proposer" : "SANY",
       "proposerLr2id" : 128405,
@@ -28257,7 +28427,7 @@
    },
    {
       "artist" : "ridis ＆ 草野ほうき / obj. hplaner",
-      "level" : "8",
+      "level" : "9",
       "md5" : "f574ad7a05395dba796d9a0de9c3512e",
       "proposer" : "♪♪",
       "proposerLr2id" : 7290,
