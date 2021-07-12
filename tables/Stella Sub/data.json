@@ -11802,6 +11802,18 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Rabbit House / stairD_ obj.B_K",
+      "level" : "0",
+      "md5" : "8be3bd33fa25ee12569a92e0f3260111",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "4c92ed09328b27a28516836eede9b99c4ef9b3a543bb5d2a000cc5520af799a8",
+      "submission" : 1550,
+      "title" : "YOu NeEd tO dIE [DIE]",
+      "url" : "http://sunaneko.iptime.org/BMS_Library/YOu%20NeEd%20tO%20dIE%20%28by%20Rabbit%20House%ef%bc%8fstairD_%29.rar",
+      "url_diff" : ""
+   },
+   {
       "artist" : "guna",
       "comment" : "ランダマイザ差分です。スクリプトプログラムを用いてできた譜面なので、発生したすべてのズレ、抜けは意図的なものだと差分ファイル同梱の_sabun_readmeに書いています。",
       "level" : "1",
@@ -19327,6 +19339,20 @@
       "title" : "Black or White [Abyss Nova]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=129",
       "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "HOLY SAMBA MASTER 佐藤 -SATOH- / obj.fuko",
+      "comment" : "LAST BOSSの弱化版",
+      "level" : "2",
+      "md5" : "e5877413b78d1cc462a635dec7bd568b",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "56ed7d50c88ed19e607dc23a9ea78d20be6ba20295b2e80c0c0c253ceb328102",
+      "submission" : 1549,
+      "title" : "ホーリーサンバランド [Soleil]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=193&event=96",
+      "url_diff" : "https://stellabms.xyz/upload/1042",
       "zureCount" : 0
    },
    {

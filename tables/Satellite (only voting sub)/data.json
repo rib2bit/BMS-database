@@ -75,6 +75,19 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05435"
    },
    {
+      "artist" : "ゴリライザー制作委員会 obj:七海",
+      "comment" : "고릴레인저 새틀라이트포스 (실수로 인한 패턴 재제안)",
+      "level" : "3",
+      "md5" : "22b1a578c70b9d2668e18c31aaba53e4",
+      "proposer" : "nozomi",
+      "proposerLr2id" : 115265,
+      "sha256" : "9ea47d06bad8b945a58e59301f8d11642c5dd99a15876bb2cf39a1672d0ad3b4",
+      "submission" : 2124,
+      "title" : "音弾超人ゴリライザー [サトライザー]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=82&event=104",
+      "url_diff" : "https://www.dropbox.com/s/3jaz8xxvfvu10eo/hero_nanami.zip?dl=1"
+   },
+   {
       "artist" : "kanoryo",
       "level" : "0",
       "md5" : "3c23e4d9ff6c96376ea70b6e2b945897",
@@ -84,6 +97,19 @@
       "submission" : 2119,
       "title" : "Bipolar [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=135",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "ポロロッカ",
+      "comment" : "ころねすきーです",
+      "level" : "10",
+      "md5" : "3f055cc6d0e7b394b3952b5927235860",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "41b0ff027fb2445a10f634fd9138efb635191ba470f8869f3cf570573df64b98",
+      "submission" : 2122,
+      "title" : "蒼く爽昧な夢のようで [BlackAnother]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=26&event=131",
       "url_diff" : ""
    },
    {
@@ -262,6 +288,20 @@
       "title" : "ETERNAL DRAIN(ETERNAL DELAY",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=276&event=74",
       "url_diff" : "http://akred.web.fc2.com/bmsfile/eternal_drain_deray.bms"
+   },
+   {
+      "artist" : "H.U.T GiGAR / obj : Mary_Sue BGI/かぜっと BGA/Unknown*",
+      "comment" : "",
+      "level" : "11",
+      "md5" : "bd51437a802fd2570011d96178f06c9b",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "e482799ddf2850a5c92400996341fef702e9498da34e4b4179d2ede29de439c3",
+      "submission" : 2123,
+      "title" : "CHAINSAW PARTY <MARYTHER>",
+      "url" : "https://www.dropbox.com/sh/3itpljj607ltxvz/AABmbPOx3q650aPVjYbFIKLoa?dl=0",
+      "url_diff" : "https://darksabun.github.io/Mary_Sue/",
+      "zureCount" : 0
    },
    {
       "artist" : "utzbo obj.nozomi",

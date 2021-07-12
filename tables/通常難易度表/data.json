@@ -3367,7 +3367,7 @@
    },
    {
       "artist" : "TrioStaR x Lilyca x Mentalstock obj:Lime",
-      "comment" : "",
+      "comment" : "本体URL先のURLのうちdropboxのURLを修正したもの↓\nhttps://dropbox.bms.ms/u/106923045/fg_ogg2.zip (ogg版BGAHQ完全版include）(推奨)\nhttps://dropbox.bms.ms/u/106923045/fg_ogg.zip （ogg版ミラー）\nhttps://dropbox.bms.ms/u/106923045/fg_wav.rar （wav版）\n\n",
       "level" : "12",
       "lr2_bmsid" : "140459",
       "md5" : "7be824959813f139cb4e78fc26e56a95",
@@ -4929,13 +4929,13 @@
    },
    {
       "artist" : "ZUN remix by 44teru-k Notes:ztar",
-      "comment" : "",
+      "comment" : "作品No.1\n原曲：感情の摩天楼～Cosmic Mind（東方星蓮船）\n",
       "level" : "12",
       "lr2_bmsid" : "52768",
       "md5" : "b3326cf41692fa2b5d0bacfb38957083",
       "name_diff" : "ZUN remix by 44teru-k Notes:ztar",
       "title" : "感情の摩天楼～PandoraBox [ANOTHER]",
-      "url" : "",
+      "url" : "http://creation-records.info/bms.htm",
       "url_diff" : "http://oblivion.dip.jp/creation/index.htm"
    },
    {
