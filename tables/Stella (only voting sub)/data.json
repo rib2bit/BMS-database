@@ -103,6 +103,23 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Louie Fibonacci feat. ricono obj:qfeileadh",
+      "level" : "8",
+      "md5" : "7f2cbe01342d3935dd6e72a7ef2b4aa3",
+      "proposer" : "もにもに",
+      "proposerLr2id" : 61019,
+      "sha256" : "7d0ddbba0af763d7fd4aad8307e6a12321e5a8c4e890c7770c22407590b1dc72",
+      "submission" : 1357,
+      "title" : "#DoomeyTunes [phi]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=29&event=133",
+      "url_diff" : "https://stellabms.xyz/upload/478",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteVersion" : 2,
+      "voteYes" : 2
+   },
+   {
       "artist" : "Centain",
       "comment" : "BPM160 連打複合",
       "level" : "5",
