@@ -88,6 +88,19 @@
       "url_diff" : "https://www.dropbox.com/s/3jaz8xxvfvu10eo/hero_nanami.zip?dl=1"
    },
    {
+      "artist" : "ohon",
+      "comment" : "乱打、ラスト回復(40%程度) / ややTOTAL高め。(TOTAL値550, 0.32%/note)",
+      "level" : "2",
+      "md5" : "342dfee0da81adf19fc7abc6beff7b12",
+      "proposer" : "たる",
+      "proposerLr2id" : 146726,
+      "sha256" : "37ed103f6d211d0806116a1f749a974383c6986d801d5244d63f6cf0dd35402c",
+      "submission" : 2128,
+      "title" : "The Grinder [SP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=135",
+      "url_diff" : ""
+   },
+   {
       "artist" : "kanoryo",
       "level" : "0",
       "md5" : "3c23e4d9ff6c96376ea70b6e2b945897",
@@ -166,6 +179,19 @@
       "votePercent" : 91.1764705882353,
       "voteVersion" : 2,
       "voteYes" : 15
+   },
+   {
+      "artist" : "Ym1024 / obj: Lennon",
+      "comment" : "really fun",
+      "level" : "1",
+      "md5" : "6194849044f280c87969fae6b4c1ef1a",
+      "proposer" : "marie",
+      "proposerLr2id" : 88591,
+      "sha256" : "f125e1733f3c13b2905a936729385108eebdccb118badc2eea6d75cea29be423",
+      "submission" : 2130,
+      "title" : "orange tea [for I]",
+      "url" : "http://yellowmapleleaf.com",
+      "url_diff" : ""
    },
    {
       "artist" : "paraneumann / obj:夢瑠",
@@ -263,6 +289,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "nmk / obj:ひめささ",
+      "level" : "12",
+      "md5" : "9eae56a69165b9f87a9ab7925702ed96",
+      "proposer" : "moka",
+      "proposerLr2id" : 167326,
+      "sha256" : "592e3ec294b822e66ed7940ccb57e55a8e5ef291c4a986afdd4f02eac008e935",
+      "submission" : 2129,
+      "title" : "Mercury [姫符]",
+      "url" : "https://docs.google.com/uc?authuser=0&id=0B97xj9Ow1Tu8c01uVWlQQURxV00&export=download",
+      "url_diff" : "http://drive.google.com/file/d/0B6gzvhYqRdovWi1iYUEwRkRlRHM/view?usp=sharing",
+      "zureCount" : 0
+   },
+   {
       "artist" : "djUSA.GI obj: A",
       "level" : "3",
       "md5" : "a08807ec10a4d9ad89de12f27dd6d39e",
@@ -328,6 +367,19 @@
       "url" : "https://www.dropbox.com/sh/3itpljj607ltxvz/AABmbPOx3q650aPVjYbFIKLoa?dl=0",
       "url_diff" : "https://darksabun.github.io/Mary_Sue/",
       "zureCount" : 0
+   },
+   {
+      "artist" : "Snowyplane",
+      "comment" : "god music",
+      "level" : "0",
+      "md5" : "c3779a46c1e3669313216798e2bc9088",
+      "proposer" : "used_tami",
+      "proposerMinirid" : "89c2f656-677d-4fa8-828e-11786ee340ca",
+      "sha256" : "ccb58177d0056ab5258fc5f0f5709ab7b7570f921720b11da8cd619e3a6ae043",
+      "submission" : 2127,
+      "title" : "Acacia [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=80&event=135",
+      "url_diff" : ""
    },
    {
       "artist" : "utzbo obj.nozomi",
