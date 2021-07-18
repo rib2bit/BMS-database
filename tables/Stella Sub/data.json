@@ -9002,6 +9002,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Lime / inukoro obj:黄金チキン",
+      "comment" : "BPM227の連打複合物量",
+      "level" : "11",
+      "md5" : "6a3fdf72fda4f1e01ce568d6ffc82aa7",
+      "proposer" : "otoshi.b",
+      "proposerLr2id" : 87474,
+      "sha256" : "c687a88ab67b7c8078402e479537f342afed04cf8768f87a42523e1af9d68482",
+      "submission" : 1552,
+      "title" : "Chronomia [Silence]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=550&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00291",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Symphonian / obj : hxrt",
       "comment" : "BPM222　軸多め",
       "level" : "7",
@@ -14888,6 +14902,19 @@
       "title" : "プナイプナイげんそう -LAST BOSS-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=249&event=127",
       "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
+   },
+   {
+      "artist" : "daiki / BGA:chromato graphy / obj : porter9876",
+      "comment" : "BPM188の16分三重乱打、キー音抜けが1つありますが演奏していて影響はないと判断しました",
+      "level" : "4",
+      "md5" : "b0762b9db7de06bc0676ce7ff1b60270",
+      "proposer" : "ふかけん",
+      "proposerLr2id" : 145204,
+      "sha256" : "8e39e8ce33c9e23dcdc77ea132ee42d649637a1275c14434d9ad91aded9ca743",
+      "submission" : 1553,
+      "title" : "Lewisia -EX-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=187&event=74",
+      "url_diff" : "https://stellabms.xyz/upload/947"
    },
    {
       "artist" : "Flont Twiright / obj : LindBlum",
