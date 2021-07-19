@@ -19499,6 +19499,23 @@
       "video3" : ""
    },
    {
+      "artist" : "D11X",
+      "comment" : "",
+      "level" : "査定中",
+      "md5" : "2c5c1a3e13adef0010f31ee99f7b4cee",
+      "memo" : "",
+      "name_diff" : "非公式修正譜面",
+      "no" : "50096",
+      "sha256" : "",
+      "state" : "",
+      "title" : "wild.sh -extend-",
+      "url" : "https://www.dropbox.com/sh/4xvl14y949kr3rb/AACLL3EugKYov5Avilkvn3ena?dl=0",
+      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/wild.sh_unofficial_fixed.zip",
+      "video1" : "",
+      "video2" : "",
+      "video3" : ""
+   },
+   {
       "artist" : "髭姫",
       "comment" : "後半の変速トリル以降が勝負。ハードだとBADはまりが怖いし色々考えさせられる。",
       "level" : "4",
@@ -31532,6 +31549,23 @@
       "url_diff" : "http://dossypms.web.fc2.com/TMSAP.html",
       "video1" : "",
       "video2" : "gKiYW8Sju8o",
+      "video3" : ""
+   },
+   {
+      "artist" : "zun (キー音ありバージョン)",
+      "comment" : "",
+      "level" : "17",
+      "md5" : "47388f07395233a9312ea58b75c43411",
+      "memo" : "見てない難易度",
+      "name_diff" : "Rustin (非公式修正譜面)",
+      "no" : "30306",
+      "sha256" : "",
+      "state" : "1",
+      "title" : "Reincarnation [修正譜面(本体BMSも差し替えてください)]",
+      "url" : "https://www.dropbox.com/s/b4tuu442mcubp2l/Reincarnation_key.rar?dl=1",
+      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/Reincarnation_unofficial_fixed.zip",
+      "video1" : "",
+      "video2" : "nFG411AaxzQ",
       "video3" : ""
    },
    {
@@ -43690,6 +43724,23 @@
       "video3" : ""
    },
    {
+      "artist" : "SHIKI",
+      "comment" : "",
+      "level" : "査定中",
+      "md5" : "633943accbfaf1e782e9aa13229093c3",
+      "memo" : "",
+      "name_diff" : "赤ヘル友の会 (非公式修正譜面)",
+      "no" : "50100",
+      "sha256" : "",
+      "state" : "",
+      "title" : "SEPIA",
+      "url" : "http://shiki2.sakura.ne.jp/",
+      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/sepia_unofficial_fixed.zip",
+      "video1" : "",
+      "video2" : "",
+      "video3" : ""
+   },
+   {
       "artist" : "urimu (音弾6パッケージ)",
       "comment" : "序盤の桂馬階段は結構差が出るが、後半がキメラや謀反トランスにちょい増えた程度の完全分割乱打なのでそこで回復できればあまり関係がない。",
       "level" : "10",
@@ -55522,23 +55573,6 @@
       "video3" : ""
    },
    {
-      "artist" : "zun",
-      "comment" : "",
-      "level" : "17",
-      "md5" : "7f81e53a3af94fb7f98cc43c475a1d28",
-      "memo" : "見てない難易度",
-      "name_diff" : "Rustin(KDS)",
-      "no" : "30306",
-      "sha256" : "",
-      "state" : "6",
-      "title" : "Reincarnation",
-      "url" : "http://onedrive.live.com/?authkey=%21AHXNigSGRDZ6G8w&id=40805CD20B6241C6%211920&cid=40805CD20B6241C6",
-      "url_diff" : "https://dl.dropbox.com/s/5llmzyimhox5z2i/pmslove.pms?dl=1",
-      "video1" : "",
-      "video2" : "nFG411AaxzQ",
-      "video3" : ""
-   },
-   {
       "artist" : "kbwnk max (S9F2012)",
       "comment" : "ゲージは軽いけど中盤の熱暴走の4個押しの判断が非常に難しい。その後回復があるがラスト前も殺しに来る。",
       "level" : "15",
@@ -63321,6 +63355,23 @@
       "url_diff" : "",
       "video1" : "",
       "video2" : "1m4zv5kiK54",
+      "video3" : ""
+   },
+   {
+      "artist" : "Ｋ＠Ｔ with Dark_wan-wan",
+      "comment" : "",
+      "level" : "査定中",
+      "md5" : "91b51ae44392c2614b8a1cb8f560519f",
+      "memo" : "",
+      "name_diff" : "本体に同梱",
+      "no" : "50102",
+      "sha256" : "",
+      "state" : "",
+      "title" : "針金 [9±]",
+      "url" : "http://www.jzxyst.net/public/tukiyama/D11%20-%20A.S.D.F.2007.zip",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : "",
       "video3" : ""
    },
    {
@@ -75989,6 +76040,23 @@
       "video3" : ""
    },
    {
+      "artist" : "bj.HaLo (BOF2010)",
+      "comment" : "",
+      "level" : "査定中",
+      "md5" : "af00407b94457469314161848df706d9",
+      "memo" : "",
+      "name_diff" : "非公式修正譜面",
+      "no" : "50097",
+      "sha256" : "",
+      "state" : "",
+      "title" : "Ende",
+      "url" : "https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html",
+      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/ende_unofficial_fixed.zip",
+      "video1" : "",
+      "video2" : "",
+      "video3" : ""
+   },
+   {
       "artist" : "ああああ",
       "comment" : "TOTAL520",
       "level" : "18",
@@ -79423,6 +79491,23 @@
       "video3" : ""
    },
    {
+      "artist" : "D11",
+      "comment" : "",
+      "level" : "査定中",
+      "md5" : "b7853daf31cc5813cf21bd2aa1d82fb7",
+      "memo" : "",
+      "name_diff" : "非公式修正譜面",
+      "no" : "50099",
+      "sha256" : "",
+      "state" : "",
+      "title" : "this is the severe internet !!!!",
+      "url" : "http://www.jzxyst.net/public/tukiyama/D11%20-%20A.S.D.F.2007.zip",
+      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/this_is_the_severe_internet!!!!_unofficial_fixed.zip",
+      "video1" : "",
+      "video2" : "",
+      "video3" : ""
+   },
+   {
       "artist" : "しらいし",
       "comment" : "",
       "level" : "6",
@@ -82021,6 +82106,23 @@
       "url_diff" : "",
       "video1" : "",
       "video2" : "615GaR6CG_0",
+      "video3" : ""
+   },
+   {
+      "artist" : "Ｋ＠Ｔ with Dark_wan-wan",
+      "comment" : "",
+      "level" : "査定中",
+      "md5" : "bcfb7aebd434ba2fe7e528ced059aba1",
+      "memo" : "",
+      "name_diff" : "非公式修正譜面",
+      "no" : "50101",
+      "sha256" : "",
+      "state" : "",
+      "title" : "針金 [9±] (Unofficial Fixed)",
+      "url" : "http://www.jzxyst.net/public/tukiyama/D11%20-%20A.S.D.F.2007.zip",
+      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/d11_04_harigane_unofficial_fixed.zip",
+      "video1" : "",
+      "video2" : "",
       "video3" : ""
    },
    {
@@ -101843,6 +101945,23 @@
       "url_diff" : "https://saigyouzi.blog.ss-blog.jp/2014-06-28",
       "video1" : "",
       "video2" : "ov88mctgbwM",
+      "video3" : ""
+   },
+   {
+      "artist" : "adumac / dp131",
+      "comment" : "",
+      "level" : "査定中",
+      "md5" : "e8762d5fabbcb4c40c0c2106480c99bc",
+      "memo" : "",
+      "name_diff" : "[ブライトメモリーズ]鷺沢文香+ (非公式修正譜面)",
+      "no" : "50098",
+      "sha256" : "",
+      "state" : "",
+      "title" : "Cinderella Story",
+      "url" : "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/NINjmL7Z",
+      "url_diff" : "http://pmsdifficulty.xxxxxxxx.jp/hokan/cinderella_story_unofficial_fixed.zip",
+      "video1" : "",
+      "video2" : "",
       "video3" : ""
    },
    {
