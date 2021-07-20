@@ -190,6 +190,20 @@
       "url_diff" : ""
    },
    {
+      "artist" : "SHIKI obj.nozomi",
+      "comment" : "BPM146 微縦",
+      "level" : "10",
+      "md5" : "010d5e5f5225616215c1b365f68a604b",
+      "proposer" : "垢伴次郎",
+      "proposerMinirid" : "39fcf843-3931-4605-a729-2f3f61d0970b",
+      "sha256" : "2f9bdf0affba1c29b0df6870a9f58961ca37335c39ed94cf31cab7577d75d479",
+      "submission" : 2135,
+      "title" : "Lapis [World Extend]",
+      "url" : "http://shiki2.sakura.ne.jp/shiki_lapismq.rar",
+      "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpymi6V8Ih_rYoKDJAj?e=2tRG9K",
+      "zureCount" : 0
+   },
+   {
       "artist" : "sak feat.みゅい Movie: げ～むばか Illust: 球根 obj: 七海千秋",
       "comment" : "高速階段、トリル、終盤難",
       "level" : "12",
@@ -12257,6 +12271,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "SHIKI AME3",
+      "comment" : "基本BPM180 同時押し",
+      "level" : "3",
+      "md5" : "68c18a76a33a4849779b618755453f7e",
+      "proposer" : "垢伴次郎",
+      "proposerMinirid" : "39fcf843-3931-4605-a729-2f3f61d0970b",
+      "sha256" : "7700508ce74b3d3ac6b36ea5a249f9a0610d18847aa514f4cd53547812d899f1",
+      "submission" : 2134,
+      "title" : "Digitalic Rain [Night]",
+      "url" : "http://shiki2.sakura.ne.jp/bms.shtml",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=1223",
+      "zureCount" : 0
    },
    {
       "artist" : "ZUN Remixed by NoKANY obj AZVW_2",
