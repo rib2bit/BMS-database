@@ -2099,6 +2099,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "㍊ゼ / obj:SRKR",
+      "comment" : "乱打, 同時押し, 連皿なし, デニム後殺なし",
+      "level" : "2",
+      "md5" : "1b5ac0745528ef12ae03ce66b31fb6a5",
+      "proposer" : "polynya",
+      "proposerLr2id" : 165397,
+      "sha256" : "e8ad2d62e81ae108b238e8b84ce563c201c9ec8b33baf92610ce2357300ee8d4",
+      "submission" : 1559,
+      "title" : "Milly Barll",
+      "url" : "http://www.luzeria.net/?p=387",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04225",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Queen P.A.L. / obj:mezna",
       "comment" : "BPM155 微縦 同時押し",
       "level" : "3",

@@ -14,6 +14,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Setca. feat. A.Dokuga obj:qfeileadh",
+      "comment" : "",
+      "level" : "5",
+      "md5" : "04d96716449a9301ca187c657aed3558",
+      "proposer" : "AYhaz",
+      "proposerLr2id" : 123475,
+      "sha256" : "04084991f4a89ed56d5bb484878a8c1770ec2f61edce9b6e53f970aa91f21489",
+      "submission" : 2137,
+      "title" : "サクラノユメ。 [満開]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=93&event=131",
+      "url_diff" : ""
+   },
+   {
       "artist" : "橘花音 かなえゆめ composed by nmk Illustration:かぜっと / obj:monaka",
       "comment" : "sl2弱、繰り返し、物量譜面",
       "level" : "2",
@@ -248,6 +261,31 @@
       "url" : "http://shiki2.sakura.ne.jp/bms.shtml",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=1223",
       "zureCount" : 0
+   },
+   {
+      "artist" : "TamaDo feat.初音ミク",
+      "comment" : "皿複合, 乱打, 連打",
+      "level" : "2",
+      "md5" : "73c5a6506dbc59ea4a84cefc32508e78",
+      "proposer" : "polynya",
+      "proposerLr2id" : 165397,
+      "sha256" : "05cffd79054f74afac000da2d87eaf118cd0cf484fa08dcce85155ab7db3669e",
+      "submission" : 2136,
+      "title" : "払暁の翼 [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=239&event=133",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "bbangsami feat.Sugar Reactor / Haping,SMIN",
+      "level" : "1",
+      "md5" : "760143c5fe7caee39e5d7d36c91cefbe",
+      "proposer" : "H∀H",
+      "proposerLr2id" : 152181,
+      "sha256" : "01ca83a5137ac8384f25001cb4d0fe4d8e0374a2314152a3f5ef3a1b593ef3f7",
+      "submission" : 2138,
+      "title" : "kkotipari Hangaduk [7keys Another]",
+      "url" : "https://drive.google.com/file/d/1X1cDPn04bN8JHThE5KWtj8k0yHW3ecLY/view?usp=sharing",
+      "url_diff" : ""
    },
    {
       "artist" : "TAROS / obj.siokaze",
