@@ -572,6 +572,18 @@
       "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html"
    },
    {
+      "artist" : "ゴリライザー制作委員会 obj:七海",
+      "comment" : "ヒーロー",
+      "level" : "0",
+      "md5" : "0e1e496945f9f1b7b55f46cff48686aa",
+      "proposer" : "polynya",
+      "sha256" : "dff3eefbe205d82a2d36b7bcf0973ac076ed79b0b4b0c5b717bbe4dc6b23385b",
+      "submission" : 1532,
+      "title" : "音弾超人ゴリライザー [ステライザー]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=82&event=104",
+      "url_diff" : "https://www.dropbox.com/s/3jaz8xxvfvu10eo/hero_nanami.zip?dl=1"
+   },
+   {
       "artist" : "ZUN remixed by LeaF Movie:Optie/Illust:セシル◇タイト/selene.",
       "comment" : "Armageddon",
       "level" : "2",
@@ -1164,6 +1176,17 @@
       "url_diff" : "https://www.dropbox.com/s/hehq2jqj98w2asl/_44_magicalgirl_KILL.zip?dl=0"
    },
    {
+      "artist" : "ξ青龍ξ / BGA:いかお",
+      "level" : "0",
+      "md5" : "19b1f8f86e9c67b2399620dcc0cdd216",
+      "proposer" : "moka",
+      "sha256" : "3ef598c30b36d67dc4820b219f0e14180789b63dbab5069b00c68f92b0970353",
+      "submission" : 1544,
+      "title" : "Chateau",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=99&event=96",
+      "url_diff" : ""
+   },
+   {
       "artist" : "mommy",
       "comment" : "ガチ押し",
       "level" : "3",
@@ -1321,7 +1344,7 @@
    },
    {
       "artist" : "kei_iwata Illust:morph/ BGA&obj:qfeileadh",
-      "level" : "2",
+      "level" : "1",
       "md5" : "1e62d6f6394c0be0a87a8850f1f92c1a",
       "proposer" : "파이어",
       "sha256" : "1b0e090642c3fb097172a565ab735665b287c745aef03eba584290aa15867695",
@@ -2025,18 +2048,6 @@
       "title" : "iterated [Creation]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=93",
       "url_diff" : "http://onmacodayo.web.fc2.com/iterated/litmus_iterated_creation.bme"
-   },
-   {
-      "artist" : "World's endo pisum sativum L. obj:MineC24",
-      "comment" : "原曲を後半のみカット、微連打、物量",
-      "level" : "4",
-      "md5" : "2ba21de222df76f61a553d31d7bf3610",
-      "proposer" : "MineC24",
-      "sha256" : "b44868b91e9bea0c7796f9246a7b98152b5a6c3c4a2cc2688b9c8fb8f224d6c9",
-      "submission" : 368,
-      "title" : "loves honey, crazy apple. [ ]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=44",
-      "url_diff" : "https://www.dropbox.com/s/plazo8qw3i1tvmp/lhca_eg.bms?dl=0"
    },
    {
       "artist" : "Spire / obj.7zs",
@@ -3530,6 +3541,17 @@
       "url_diff" : "http://obj42.web.fc2.com/ "
    },
    {
+      "artist" : "wa. / 百舌谷 obj : LindBlum",
+      "level" : "11",
+      "md5" : "4663109750a2e9ca7a108fa534547a04",
+      "proposer" : "せんりゃく",
+      "sha256" : "215cc31e88a74b3bb38b0ba8c6bec9628be8dc16374f562973a2455d082c0713",
+      "submission" : 1554,
+      "title" : "Black Lotus -Bismarck-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=138&event=110",
+      "url_diff" : "https://1drv.ms/f/s!AsRicL2I3VhqgVJmXjya_y0a8nc4"
+   },
+   {
       "artist" : "qfeileadh&のあ mov:Kengo Nakao",
       "comment" : "8~9?",
       "level" : "7",
@@ -4204,6 +4226,18 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up4076.zip"
    },
    {
+      "artist" : "Seichi Yumeno / obj. laner",
+      "comment" : "from Satellite",
+      "level" : "0",
+      "md5" : "54122c5fe4306ef765cff0433b5a7176",
+      "proposer" : "LUXURY♪",
+      "sha256" : "bafeb894ddd4e6b0b0236c9c0c5140b08ce88df4a0ab067415f9171375000cd5",
+      "submission" : 1560,
+      "title" : "ぽっぷる！ [delay party]",
+      "url" : "http://web.archive.org/web/20040618175634/http://www11.plala.or.jp:80/ta2_1103/BMS/[PTH02]poppuru.exe",
+      "url_diff" : "https://web.archive.org/web/20190322230138/http://www.hyper-laner.com/sabun/all201807_laner.rar"
+   },
+   {
       "artist" : "うまるつふり / selene.",
       "comment" : "たのしい！",
       "level" : "2",
@@ -4313,6 +4347,18 @@
       "title" : "Meaning of Existence [magical]",
       "url" : "https://www.dropbox.com/s/nbc6lrxvr00d4lr/MoE_TKR.zip?dl=1",
       "url_diff" : "https://stellabms.xyz/upload/726"
+   },
+   {
+      "artist" : "paraneumann / obj:C4",
+      "comment" : "弱体化CYCLONE[Other]+SUPERCOLORFULで一生連打 同梱Anotherと比較するとズレあり",
+      "level" : "9",
+      "md5" : "55d5fd21b94ed9d5e9039120b570b699",
+      "proposer" : "りこりす・らぢあーた",
+      "sha256" : "e11a941069a6fcb84038b267f9e882cee417c029aa8bd2056dcf44408786ca6f",
+      "submission" : 1541,
+      "title" : "Weaponhuman [Armageddon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=20&event=131",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05341"
    },
    {
       "artist" : "tkqn14 mov : Ju_E obj: qtp13",
@@ -4975,6 +5021,18 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html"
    },
    {
+      "artist" : "Yu^ta feat. みずにんじん",
+      "comment" : "Despair&Hope-",
+      "level" : "4",
+      "md5" : "633141a17ae7ba45fd4ed3729c48d4ef",
+      "proposer" : "qtp13",
+      "sha256" : "44fdb44b37c6805e5e90096bbd19ba3eadf3095c6d7bdadbe7de0525b3f9f563",
+      "submission" : 1537,
+      "title" : "Strawberry Mint Chocolate [v('ω')v]",
+      "url" : "http://yuinore.net/2017/02/smc-package/",
+      "url_diff" : ""
+   },
+   {
       "artist" : "o.s.gate / Ds",
       "comment" : "osgjoy",
       "level" : "5",
@@ -5301,6 +5359,29 @@
       "title" : "Sparkling☆Sunshine!! [Last Resort]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=127",
       "url_diff" : ""
+   },
+   {
+      "artist" : "Lime / inukoro obj:黄金チキン",
+      "comment" : "BPM227の連打複合物量",
+      "level" : "11",
+      "md5" : "6a3fdf72fda4f1e01ce568d6ffc82aa7",
+      "proposer" : "otoshi.b",
+      "sha256" : "c687a88ab67b7c8078402e479537f342afed04cf8768f87a42523e1af9d68482",
+      "submission" : 1552,
+      "title" : "Chronomia [Silence]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=550&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00291"
+   },
+   {
+      "artist" : "あとぅす feat.つゆり花鈴 BGI:りーふぱいザウルス / obj : BAECON",
+      "level" : "9",
+      "md5" : "6a8730fe3aabeeb027452a28f164111d",
+      "proposer" : "歳納京子",
+      "sha256" : "54ec57c173246aaf25065826c1dbd8be0e9f95e059141714c6124d014c72fb5b",
+      "submission" : 1535,
+      "title" : "FIRST PROMIZE [LAST DECISION]",
+      "url" : "https://venue.bmssearch.net/mutualfaith3/9",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04685"
    },
    {
       "artist" : "Feryquitous movie:Sight / obj:Omino",
@@ -6366,6 +6447,18 @@
       "url_diff" : "https://www.dropbox.com/s/el188z1ifbhtx0n/_atropos_nanami01.bms?dl=0"
    },
    {
+      "artist" : "Louie Fibonacci feat. ricono obj:qfeileadh",
+      "comment" : "高速乱打",
+      "level" : "8",
+      "md5" : "7f2cbe01342d3935dd6e72a7ef2b4aa3",
+      "proposer" : "BAECON",
+      "sha256" : "7d0ddbba0af763d7fd4aad8307e6a12321e5a8c4e890c7770c22407590b1dc72",
+      "submission" : 1357,
+      "title" : "#DoomeyTunes [phi]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=29&event=133",
+      "url_diff" : "https://stellabms.xyz/upload/478"
+   },
+   {
       "artist" : "ああああ / A",
       "comment" : "同時押し・物量",
       "level" : "0",
@@ -6700,6 +6793,18 @@
       "title" : "Violet Haze [410nm]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=250&event=133",
       "url_diff" : "https://darksabun.github.io/event/bofxvi/"
+   },
+   {
+      "artist" : "Centain",
+      "comment" : "BPM160 連打複合",
+      "level" : "5",
+      "md5" : "87b6810739d2f3761300e8180b543dbe",
+      "proposer" : "SHAX.",
+      "sha256" : "d5b96f4331d03336f00741821d76ddb3aca2c8ddf9c42b9158d8c8dc57674d3c",
+      "submission" : 1538,
+      "title" : "Fake it [INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=135",
+      "url_diff" : ""
    },
    {
       "artist" : "Snack_X",
@@ -7500,6 +7605,18 @@
       "title" : "STAR STREAM [Hexagon]",
       "url" : "https://www.nicovideo.jp/watch/sm20083112",
       "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html"
+   },
+   {
+      "artist" : "qfeileadh Arishima_Caprico / obj : BAECON",
+      "comment" : "The judgement day is coming...",
+      "level" : "8",
+      "md5" : "945186e72918774b15cff9a38fe7d8ec",
+      "proposer" : "otoshi.b",
+      "sha256" : "e2a2e1b39090f3d49e1f550e79c040f5226ace3af46cb9e0f523be7b741880d8",
+      "submission" : 1531,
+      "title" : "CrucifiXus [THE JUDGEMENT DAY]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=132",
+      "url_diff" : ""
    },
    {
       "artist" : "SHIKI // BGA:あかくらげ & M.H / selene.",
@@ -9177,19 +9294,6 @@
       "title" : "wilis [G3]",
       "url" : "http://www.is-m.jp/",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi"
-   },
-   {
-      "artist" : "Alicia*  /差分 赤い人",
-      "comment" : "物量",
-      "level" : "1",
-      "md5" : "b7dff18d9aeac74702940455e90a6555",
-      "proposer" : "LUXURY♪",
-      "proposerLr2id" : 23110,
-      "sha256" : "21d776adcfcbaed6d5769e4b4cc346dcfbfa934cb59e996a031d78351e70be23",
-      "submission" : 502,
-      "title" : "アイーシャの剣-Forcing breakthrough-ＡＮＯＴＨＥＲ＋",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=174&event=74",
-      "url_diff" : "http://akred.web.fc2.com/bmsfile/aisha_7keys.a-plus.bms"
    },
    {
       "artist" : "DJ LATI BGA : EMSH / OBJ. swa",
@@ -11476,6 +11580,18 @@
       "url_diff" : "http://akred.web.fc2.com/baecon/893_M.bms"
    },
    {
+      "artist" : "ROKINA BGA:アカツキユウ / obj : Milkous",
+      "comment" : "ディレイ、微縦連",
+      "level" : "10",
+      "md5" : "e51b1544caec9007d25578ce16e51b98",
+      "proposer" : "スノート",
+      "sha256" : "cde6e70d26da41887757cd6621361279a1e738ee8987b5e3fce41dbf1b213729",
+      "submission" : 1551,
+      "title" : "Holyvenger -Divine Justice-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05405"
+   },
+   {
       "artist" : "Yonder Voice / obj:AnyOasis(C4&NASA)",
       "comment" : "BPM181 微連打、ズレ",
       "level" : "5",
@@ -11486,6 +11602,18 @@
       "title" : "Black or White [Abyss Nova]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=129",
       "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/"
+   },
+   {
+      "artist" : "HOLY SAMBA MASTER 佐藤 -SATOH- / obj.fuko",
+      "comment" : "LAST BOSSの弱化版",
+      "level" : "2",
+      "md5" : "e5877413b78d1cc462a635dec7bd568b",
+      "proposer" : "七海",
+      "sha256" : "56ed7d50c88ed19e607dc23a9ea78d20be6ba20295b2e80c0c0c253ceb328102",
+      "submission" : 1549,
+      "title" : "ホーリーサンバランド [Soleil]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=193&event=96",
+      "url_diff" : "https://stellabms.xyz/upload/1042"
    },
    {
       "artist" : "魔界都市ニイガタ（黄泉路テヂーモ×dawn-system×かゆき） BGA:自動車原付 / obj.hex",
@@ -11969,19 +12097,6 @@
       "title" : "Lucifuge Rofocale [EXPERT]",
       "url" : "https://onedrive.live.com/?cid=CA7A5144414EC4CA&id=CA7A5144414EC4CA!405",
       "url_diff" : "https://bms.parksulab.xyz"
-   },
-   {
-      "artist" : "GNMD (Feat. Eve Yi) / ∞",
-      "comment" : "ディレイ",
-      "level" : "8",
-      "md5" : "ef7bf467e73ab8408c2611d71b999675",
-      "proposer" : "MEES-♬",
-      "proposerLr2id" : 39693,
-      "sha256" : "22a15aa9cb0f9e4cce8149aef0efa58fd2dab1e79ee241af9294521df0d6c6bc",
-      "submission" : 464,
-      "title" : "Trichterwinde [infinity]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=104",
-      "url_diff" : "http://absolute.pv.land.to/uploader/upload.html"
    },
    {
       "artist" : "horoscope / selene.",

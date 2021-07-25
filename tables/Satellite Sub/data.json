@@ -8792,6 +8792,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "tami",
+      "comment" : "swing",
+      "level" : "0",
+      "md5" : "4b24f76a59fd2f89838e1ecb985a662c",
+      "proposer" : "ИИ",
+      "proposerLr2id" : 147895,
+      "sha256" : "caf83e15b54718ff95cfeba89012e0c873fc2cb9256fa6896a357d3e64a5a6b1",
+      "submission" : 2140,
+      "title" : "devote [sp another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=107&event=131",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Nankumo (BGA：HYOUTAN) obj:秘密 vs krg",
       "comment" : "総合",
       "level" : "1",
@@ -9962,19 +9975,6 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
-   },
-   {
-      "artist" : "Seichi Yumeno / obj. laner",
-      "level" : "12",
-      "md5" : "54122c5fe4306ef765cff0433b5a7176",
-      "proposer" : "moka",
-      "proposerLr2id" : 167326,
-      "sha256" : "bafeb894ddd4e6b0b0236c9c0c5140b08ce88df4a0ab067415f9171375000cd5",
-      "submission" : 2069,
-      "title" : "ぽっぷる！ [delay party]",
-      "url" : "http://web.archive.org/web/20040618175634/http://www11.plala.or.jp:80/ta2_1103/BMS/[PTH02]poppuru.exe",
-      "url_diff" : "https://web.archive.org/web/20190322230138/http://www.hyper-laner.com/sabun/all201807_laner.rar",
-      "zureCount" : 0
    },
    {
       "artist" : "wa. / 百舌谷",
@@ -11533,7 +11533,7 @@
       "submission" : 2130,
       "title" : "orange tea [for I]",
       "url" : "http://yellowmapleleaf.com",
-      "url_diff" : ""
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00878"
    },
    {
       "artist" : "sak respect for Arata Iiyoshi Movie:Optie Illust:とざくろ",
@@ -13050,6 +13050,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "uncorworld",
+      "comment" : "キー音アレンジ差分なのでズレが発生しています。",
+      "level" : "12",
+      "md5" : "6f7325a35ff4bb9d058ae8c785d0bf28",
+      "proposer" : "Mary_Sue",
+      "proposerLr2id" : 147889,
+      "sha256" : "f61808825fb48b41e78b91ad80261e1b9b0b31495d46f6f04cf3be876b5ff78f",
+      "submission" : 2144,
+      "title" : "unkosong 2008 -LIVE AT Club TOTO- [@imperi_2006]",
+      "url" : "https://www.dropbox.com/s/7hs1fdhm8pnp7xi/unkosong%202008%20%5Buncorworld%5D.rar?dl=1",
+      "url_diff" : "https://www.dropbox.com/s/n64dt6qn6mcftgx/unkosong2008_2006.bme"
    },
    {
       "artist" : "SHIKI /*8284*/ obj.siokaze",
@@ -15163,6 +15176,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "momo★yama,erotic server,Initial-P,pinky brass man,JUMPERS (全部桃山) / obj:sarao3",
+      "comment" : "BPM145 多要素",
+      "level" : "12",
+      "md5" : "81ae4a7752a9c0293d595b0bf0e27309",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "1e3ff324853edd81f43fb5f90ec1652fdb8849cca189a83f287be95d0fed5e52",
+      "submission" : 2145,
+      "title" : "空跳ぶ少女 [EXTREME7]",
+      "url" : "https://dropbox.bms.ms/u/59483835/spanish.rar",
+      "url_diff" : "https://darksabun.github.io/mirror/absolute/uploader/up2701.zip"
    },
    {
       "artist" : "Ym1024 feat. lamie* Illustration : 恋々",
@@ -17354,6 +17380,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "-RYO-",
+      "comment" : "sl1~2",
+      "level" : "2",
+      "md5" : "9863fa6d88f44158a1d899cc2f0f9f87",
+      "proposer" : "ИИ",
+      "proposerLr2id" : 147895,
+      "sha256" : "e98bfe8687d6d15fbe2f60c2deb86d82d25d19c79819f068dd505e6de5e03ca1",
+      "submission" : 2141,
+      "title" : "Daybreak [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=157&event=74",
+      "url_diff" : ""
+   },
+   {
       "artist" : "ginkiha / obj:七海",
       "level" : "10",
       "md5" : "988010f041bbd81cda28bacd9e151350",
@@ -18865,6 +18904,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "ノクティス・江口・チェラム / 制限",
+      "level" : "3",
+      "md5" : "a5403b5987e427a7e357d0a4cf12b2df",
+      "proposer" : "Mary_Sue",
+      "proposerLr2id" : 147889,
+      "sha256" : "568f9502e5b3bd4c321486428fbe5c0f1a78d1e47de07958edc6d6d9b623628f",
+      "submission" : 2143,
+      "title" : "ヒメタイプ",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=94&event=96",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00604",
+      "zureCount" : 0
+   },
+   {
       "artist" : "山蝙蝠ホールディングス movie : Y.A.B.tudidama / obj:NASA",
       "comment" : "局所の発狂有",
       "level" : "2",
@@ -18986,6 +19038,20 @@
       "title" : "Blah Dha [ANOTHER]",
       "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=21&num=9&order=reg&odtype=a",
       "url_diff" : ""
+   },
+   {
+      "artist" : "アスパラ音楽隊",
+      "comment" : "連打練習, 同時押し+連打",
+      "level" : "5",
+      "md5" : "a62c7fe7ebe8d57a6abddd56b8ef9590",
+      "proposer" : "polynya",
+      "proposerLr2id" : 165397,
+      "sha256" : "b986999ca7ee2a4ad9c547f3c344d35200534a63bd4d7c8d0925d8f77cd0d5d3",
+      "submission" : 2142,
+      "title" : "DEYANEN [連打リハビリ]",
+      "url" : "https://web.archive.org/web/20160321130346/http://big.freett.com/woody_/deyanen.zip",
+      "url_diff" : "https://bms.parksulab.xyz",
+      "zureCount" : 0
    },
    {
       "artist" : "SOMON",
@@ -19708,7 +19774,7 @@
    {
       "artist" : "カラフル・サウンズ・ポート / 差分　赤い人",
       "comment" : "ディレイ / 追加音源分キー音ズレが有ります。",
-      "level" : "11",
+      "level" : "12",
       "md5" : "abaad8dae6cc9d43310c84f765d3c340",
       "proposer" : "ぶんぺ～",
       "proposerMinirid" : "3708ebc6-f813-4964-a5e4-deb86620233a",
@@ -24322,7 +24388,7 @@
    {
       "artist" : "utzbo obj.nozomi",
       "comment" : "ガチ押し / 縦連 / 同時押し / ズレ",
-      "level" : "11",
+      "level" : "12",
       "md5" : "cfe8ad9b75ba72ca331755b14df24373",
       "proposer" : "ぶんぺ～",
       "proposerMinirid" : "3708ebc6-f813-4964-a5e4-deb86620233a",
@@ -26062,7 +26128,7 @@
    },
    {
       "artist" : "Grand Thaw",
-      "level" : "2",
+      "level" : "1",
       "md5" : "dfda2cdf3527b470e8951ba285d6bc28",
       "proposer" : "ИИ",
       "proposerLr2id" : 147895,
@@ -26455,6 +26521,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Chelp",
+      "comment" : "同捆譜面/備考/酷 炫 豪 宅",
+      "level" : "0",
+      "md5" : "e352b44cd1a2755fff0dc7a1751080d7",
+      "proposer" : "H∀H",
+      "proposerLr2id" : 152181,
+      "sha256" : "304ff2612d6ff04576d288f846a1025e25a3a33fba7041ec64ac239370d4bf37",
+      "submission" : 2139,
+      "title" : "Sweet Suite Room [7keys Another]",
+      "url" : "http://teambmp.tistory.com/93",
+      "url_diff" : ""
    },
    {
       "artist" : "ginkiha あ",
