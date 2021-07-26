@@ -2240,6 +2240,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Zris feat. Kri obj. marie",
+      "comment" : "#33.8125でズレがありますが,22ms差なのでプレイは大丈夫だと思います",
+      "level" : "2",
+      "md5" : "1d28845b374187db7abf06cae6609981",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "33fec9f99ad2ab3c7f509c229e5cfdec653323d910834532beaa2e90071889ef",
+      "submission" : 1570,
+      "title" : "Can't it be true [so true...]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=444&event=133",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05428"
+   },
+   {
       "artist" : "paraoka",
       "comment" : "(readme引用)担当難易度★23で提出した譜面と同様LIGHT 7譜面と比較して音ズレがないことを確認しました。",
       "level" : "0",
@@ -10293,6 +10306,19 @@
       "title" : "Luna Express 2032 -Heaven-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=116",
       "url_diff" : "https://stellabms.xyz/upload/748"
+   },
+   {
+      "artist" : "Kuwagata obj : LindBlum",
+      "level" : "5",
+      "md5" : "77bf244abecda64517ad9bce06757fbe",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "b8d244734204d3fee4d735e8dbc35c097410000af643eb5c0b748d11e17d6b45",
+      "submission" : 1571,
+      "title" : "シグナルほっぴんぐ -(^-^)/-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=190&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04329",
+      "zureCount" : 0
    },
    {
       "artist" : "SUPER STAR 健人 obj.hex",

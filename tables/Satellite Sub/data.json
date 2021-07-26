@@ -18337,6 +18337,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "crossworld / obj:Lian",
+      "comment" : "BPM197 乱打",
+      "level" : "9",
+      "md5" : "a012caed633272cfa83f5606f53b1c8c",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "61713929f4ece5c8188f8b379dc46390dbb4c2430dcbfbed51a401e0b33d34de",
+      "submission" : 2148,
+      "title" : "Theine [EXTREME]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=135",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05427"
+   },
+   {
       "artist" : "* (Asterisk) 前川みく×多田李衣菜 / obj:monaka",
       "level" : "4",
       "md5" : "a025de6f81e79a6d965e9a590ecd9e1c",
@@ -18791,6 +18804,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Puru obj:Reat",
+      "comment" : "はやいトリル注意",
+      "level" : "3",
+      "md5" : "a430ab61aa54ede1c6e8a55088125313",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "26d328b004b2cbcb8a4863168363f98f43bef40214e78d65591ca4a0f2cafd4e",
+      "submission" : 2146,
+      "title" : "Snow White [RT]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=323&event=104",
+      "url_diff" : "https://stellabms.xyz/upload/610",
+      "zureCount" : 0
+   },
+   {
       "artist" : "結月ゆかり and Ark-Z obj:音ゲーマーゆかり",
       "comment" : "物量 微縱連",
       "level" : "8",
@@ -19042,7 +19069,7 @@
    {
       "artist" : "アスパラ音楽隊",
       "comment" : "連打練習, 同時押し+連打",
-      "level" : "5",
+      "level" : "2",
       "md5" : "a62c7fe7ebe8d57a6abddd56b8ef9590",
       "proposer" : "polynya",
       "proposerLr2id" : 165397,
@@ -29134,6 +29161,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "SHIKI / 29",
+      "comment" : "end7.bmeとズレがありますが(25.625,26.875), end7an.bmeにはズレなし",
+      "level" : "2",
+      "md5" : "f922e84c7eb800a0e6f0bcbe6f47d74e",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "6065a1d005de15c7ee9d5e0281b7c3682a37b791a80235722c9ed8e21d64c2b2",
+      "submission" : 2147,
+      "title" : "Endless Dream [29Mix]",
+      "url" : "http://shiki2.sakura.ne.jp/shiki_endlessdream.zip",
+      "url_diff" : "http://nick.xxxxxxxx.jp/"
    },
    {
       "artist" : "eicateve / obj:Restia hrchem,Takamatsu,Sennzai,Yamaguchi,eoll",
