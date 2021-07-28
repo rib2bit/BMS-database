@@ -81,6 +81,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "ROKINA on schwarzekugel BGA:アカツキユウ / ImageIllust:あひゅりむ / A",
+      "comment" : "in anzubmsdiff no misalignments with sp MASTER",
+      "level" : "0",
+      "md5" : "6eab44ebe4d61f16e06c67ef45024e56",
+      "proposer" : "moka",
+      "proposerLr2id" : 167326,
+      "sha256" : "cf5d897a966735608c344f8a594a39e716ffcc4e7d8dd58c6238f73dd6ccec49",
+      "submission" : 1573,
+      "title" : "Fiore Tempesta [百花繚乱]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=98",
+      "url_diff" : "http://www.dropbox.com/s/ceh2wqpegxbparv/06-tempesta_WW.zip?dl=0"
+   },
+   {
       "artist" : "Kuwagata obj : LindBlum",
       "level" : "5",
       "md5" : "77bf244abecda64517ad9bce06757fbe",
@@ -118,6 +131,20 @@
       "title" : "Eternal Super Hyper Ultimate Doggo [Endmost Supreme Highest Universal Drumming]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=132",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04531"
+   },
+   {
+      "artist" : "Zris feat. Kri obj. marie",
+      "comment" : "so true",
+      "level" : "2",
+      "md5" : "8ee5d815420374323d52e5b84d043457",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "5eee72415e8b10c96adf322eb0e7948112d18e0abc0b6c88a0dbff511810d80d",
+      "submission" : 1572,
+      "title" : "Can't it be true [so true...]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=444&event=133",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05487",
+      "zureCount" : 0
    },
    {
       "artist" : "bbangsami feat.Sugar Reactor / Haping,SMIN / obj.fuko",
