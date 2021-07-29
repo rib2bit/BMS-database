@@ -5914,6 +5914,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "gmtn. (llustrations by kwtr.)",
+      "comment" : "_gmtn_tacticanalyst_7BA.nbg",
+      "level" : "0",
+      "md5" : "45da2f41c322490312e943599033cfe9",
+      "proposer" : "moka",
+      "proposerLr2id" : 167326,
+      "sha256" : "b6c3fd0c138d755b1ca472be8f58019e11d0cf75c2d6ddb10b5778ae72379903",
+      "submission" : 1574,
+      "title" : "Tacticanalyst <SP NBG>",
+      "url" : "https://web.archive.org/web/20150602024031/http://gmtn.sub.jp/_kirishima_tacticanalyst.zip",
+      "url_diff" : ""
+   },
+   {
       "artist" : "養土卵 光 / 浜 柔好 obj:m",
       "comment" : "サビ超発狂・ごまかし系連打",
       "level" : "9",
@@ -11191,6 +11204,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "nmk feat.かなえゆめ mov:わっふゑ obj: qtp13",
+      "comment" : "中速連打複合、ガチ押し st3～st4",
+      "level" : "3",
+      "md5" : "83d81a0ce10a4136bed82e12d932e46e",
+      "proposer" : "M48N",
+      "proposerLr2id" : 149709,
+      "sha256" : "af8ff7a88528861228a6e8eb4d846e6a313cac0b2b475d1cbedfd53caf8b4fb8",
+      "submission" : 1575,
+      "title" : "あさつゆ [朝露]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=221&event=104",
+      "url_diff" : "https://stellabms.xyz/upload/242",
+      "zureCount" : 0
    },
    {
       "artist" : "6yen / И",
