@@ -61,6 +61,23 @@
       "voteYes" : 8
    },
    {
+      "artist" : "hurirai BGA:hrchem",
+      "level" : "3",
+      "md5" : "0fe696ac60e831fc111285d6099eadbb",
+      "proposer" : "Yozora",
+      "proposerMinirid" : "4c16cc28-11d8-406c-9a4f-17230a91074e",
+      "sha256" : "63a01573c4bcca4d8350eb213570c99e29dc77fb6c3bb6ba6102a08632a97e51",
+      "submission" : 107,
+      "title" : "Andromeda [SP Another]",
+      "url" : "https://drive.google.com/file/d/0B2b58uoHEDp7bGZqdUFkeUxOUU0/view?usp=sharing",
+      "url_diff" : "",
+      "voteNeutral" : 0,
+      "voteNo" : 11,
+      "votePercent" : 38.8888888888889,
+      "voteVersion" : 2,
+      "voteYes" : 7
+   },
+   {
       "artist" : "ピクニカル男かゆき obj : ピクニカルMary_Sue",
       "comment" : "denimgirl",
       "level" : "4",
