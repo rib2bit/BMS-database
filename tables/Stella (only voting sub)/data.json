@@ -227,6 +227,23 @@
       "zureCount" : 0
    },
    {
+      "artist" : "9-zen obj.hex",
+      "level" : "3",
+      "md5" : "a0e534d02c919996fef1f2a83c44c418",
+      "proposer" : "w2w2",
+      "proposerLr2id" : 112172,
+      "sha256" : "4fb18c030425b33f1cd7c841fd2af7e3a0fd267e2b5486928454720c566633e2",
+      "submission" : 1198,
+      "title" : "ルーネイトエルフ～霧の湖の物語～ [Pentagon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=129",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html",
+      "voteNeutral" : 1,
+      "voteNo" : 0,
+      "votePercent" : 91.6666666666667,
+      "voteVersion" : 2,
+      "voteYes" : 5
+   },
+   {
       "artist" : "sun3 obj : LindBlum",
       "comment" : "BPM180 乱打 縦連",
       "level" : "5",
