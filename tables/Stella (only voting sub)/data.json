@@ -200,6 +200,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Music:xi / DTX:水月 / BMS:nov obj.hex",
+      "comment" : "AnzuBMSDiffTool로 검사 시 즈레 없음",
+      "level" : "1",
+      "md5" : "93be82ee6df8a74e2c111c975270f65e",
+      "proposer" : "♪♪",
+      "proposerLr2id" : 7290,
+      "sha256" : "81c3a23697ef130c2aaba093acbf8763e127d260654ce9638b653c5cdb079e0c",
+      "submission" : 1579,
+      "title" : "Happy Dreams [Pentagon]",
+      "url" : "https://dl.dropboxusercontent.com/s/jh1gqnlqewuaohj/557788_HappyDreams.rar",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html"
+   },
+   {
       "artist" : "bbangsami feat.Sugar Reactor / Haping,SMIN / obj.fuko",
       "level" : "4",
       "md5" : "9a26d2df4184905110819efcbea59e35",
@@ -296,5 +309,17 @@
       "url" : "https://mega.nz/folder/sXZTFSxS#UX7Cpqoi03tRQ-jpzn8F6A/file/hSJhzKyD",
       "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html",
       "zureCount" : 0
+   },
+   {
+      "artist" : "ROKINA",
+      "level" : "0",
+      "md5" : "e981f4d1bfeb05172fc28f14b3d58ad0",
+      "proposer" : "♪♪",
+      "proposerLr2id" : 7290,
+      "sha256" : "4ec59b3a0944e4af3ab0183f0f4fb90d93990446aa954098d4edc34b11f7cfbe",
+      "submission" : 1578,
+      "title" : "MachinaRegina [MASTER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=171&event=88",
+      "url_diff" : ""
    }
 ]

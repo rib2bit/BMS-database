@@ -6822,7 +6822,7 @@
       "sha256" : "30fbba5d106b81f37d1add7777b31bc175df18c6d050bbaa5d0e587dc39bc183",
       "submission" : 1527,
       "title" : "Call of Abyss 【crest】",
-      "url" : "http://sunaneko.iptime.org/BMS_Library/Call%20of%20Abyss%20%28by%20%e3%81%82%e3%81%a8%e3%81%85%e3%81%99%29.rar",
+      "url" : "https://bms.kyouko.moe/torrent/BMS_Library/Call%20of%20Abyss%20(by%20%E3%81%82%E3%81%A8%E3%81%85%E3%81%99).rar",
       "url_diff" : "https://stellabms.xyz/upload/1016",
       "zureCount" : 0
    },
@@ -12702,6 +12702,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Music:xi / DTX:水月 / BMS:nov obj.hex",
+      "comment" : "AnzuBMSDiffTool로 검사 시 즈레 없음",
+      "level" : "1",
+      "md5" : "93be82ee6df8a74e2c111c975270f65e",
+      "proposer" : "♪♪",
+      "proposerLr2id" : 7290,
+      "sha256" : "81c3a23697ef130c2aaba093acbf8763e127d260654ce9638b653c5cdb079e0c",
+      "submission" : 1579,
+      "title" : "Happy Dreams [Pentagon]",
+      "url" : "https://dl.dropboxusercontent.com/s/jh1gqnlqewuaohj/557788_HappyDreams.rar",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html"
+   },
+   {
       "artist" : "mitssi feat. SeeU obj:goe Movie: Sabhwa",
       "comment" : "ディレイ",
       "level" : "2",
@@ -14541,7 +14554,7 @@
       "sha256" : "7c45fdaef1760436d3cc82f75dff80db17a7f6cefc327b9c897620f71dfd00cf",
       "submission" : 587,
       "title" : "carnation [for expert]",
-      "url" : "https://www.dropbox.com/s/bcvycnknv7gguot/carnation.zip?dl=1",
+      "url" : "https://web.archive.org/web/20200712181532/http://sunaneko.iptime.org/BMS_Library/carnation%20[for%20(by%20%E3%81%82%E3%81%82%E3%81%82%E3%81%82).rar",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02062",
       "voteNo" : 0,
       "votePercent" : 0,
@@ -19962,6 +19975,18 @@
       "title" : "人形楽団　～ Puppet Ensemble ・∀・ ～ [SEIRYU　EX]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=154&event=60",
       "url_diff" : "http://kusaiseiryu.web.fc2.com/doblestairs.html"
+   },
+   {
+      "artist" : "ROKINA",
+      "level" : "0",
+      "md5" : "e981f4d1bfeb05172fc28f14b3d58ad0",
+      "proposer" : "♪♪",
+      "proposerLr2id" : 7290,
+      "sha256" : "4ec59b3a0944e4af3ab0183f0f4fb90d93990446aa954098d4edc34b11f7cfbe",
+      "submission" : 1578,
+      "title" : "MachinaRegina [MASTER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=171&event=88",
+      "url_diff" : ""
    },
    {
       "artist" : "kei_iwata feat.レゾナンスもえこ obj:七海 Movie:Arishima_Caprico Illust:Morph",
