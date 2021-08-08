@@ -952,7 +952,7 @@
    {
       "artist" : "EmoCo. × NO|SER obj. BK",
       "comment" : "BOFXV, 微縦連, LN, 皿",
-      "level" : "1",
+      "level" : "0",
       "md5" : "06edf6b0b2f7b1f4582d27bac38a6840",
       "proposer" : "DK",
       "proposerLr2id" : 46697,
@@ -2871,7 +2871,7 @@
    {
       "artist" : "wigen_ / Note:薄杏",
       "comment" : "ハネリズム ",
-      "level" : "2",
+      "level" : "1",
       "md5" : "175243192b0e570c0694a16186e5dc3e",
       "proposer" : "Mayuzumy",
       "proposerLr2id" : 88804,
@@ -3398,6 +3398,20 @@
       "title" : "Le Specimen d'un Papillon [SF]",
       "url" : "http://www1.axfc.net/u/3160933.zip?key=bms",
       "url_diff" : "http://siokazebms.web.fc2.com/"
+   },
+   {
+      "artist" : "shimizushi illust:a.a / obj:monaka",
+      "comment" : "Last",
+      "level" : "7",
+      "md5" : "1b70db38910e2fad99c9874182e8ece5",
+      "proposer" : "polynya",
+      "proposerLr2id" : 165397,
+      "sha256" : "be0da9ec31751e04317d3cbb052419030b34309ddeb9f7c182484c86693d2b52",
+      "submission" : 2163,
+      "title" : "To the restored sunflower garden [EXTRA]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=116",
+      "url_diff" : "https://ux.getuploader.com/monaka_sabun_2/download/127",
+      "zureCount" : 0
    },
    {
       "artist" : "えびです obj:1008",
@@ -4549,7 +4563,7 @@
    {
       "artist" : "うまるつふり obj.sitoras",
       "comment" : "高速総合力",
-      "level" : "11",
+      "level" : "12",
       "md5" : "25fa6f793b02c300e1430864903fbb0b",
       "proposer" : "selene.",
       "proposerLr2id" : 84521,
@@ -5499,7 +5513,7 @@
    {
       "artist" : "Dachs / Movie : わっふゑ obj.Mallow♪",
       "comment" : "中速乱打+少しの微連打",
-      "level" : "8",
+      "level" : "9",
       "md5" : "2e0b721babb8fb62ce977c23c9f364f9",
       "proposer" : "SHAX.",
       "proposerLr2id" : 65624,
@@ -16088,6 +16102,20 @@
       "url_diff" : "http://siokazebms.web.fc2.com/"
    },
    {
+      "artist" : "-45 / obj:sagoo",
+      "comment" : "同梱譜面/物量/★2?",
+      "level" : "1",
+      "md5" : "89946b9f88681ee56ba63caeded24ec2",
+      "proposer" : "H∀H",
+      "proposerLr2id" : 152181,
+      "sha256" : "313945bd2614ada0a9edc0acd8ea6fa5bd2aad68ea7ceb63cf7192ad1da7cc75",
+      "submission" : 2161,
+      "title" : "夢人形-marionette dreamer- [sagANOTHER]",
+      "url" : "http://malie.noor.jp/",
+      "url_diff" : "http://onedrive.live.com/redir?resid=A972E7D14DCFAF93!110&authkey=!ADuXxYDZsf_L-I8&ithint=folder%2czip",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Dachs / 制限 Movie : mi",
       "level" : "1",
       "md5" : "89da7362e8856c1baafe78dfeaa571fc",
@@ -21428,7 +21456,7 @@
    {
       "artist" : "天使真央 obj.森さん",
       "comment" : "BPM180 高速階段",
-      "level" : "10",
+      "level" : "11",
       "md5" : "b7143d7df5c81feddfdabefdf3704320",
       "proposer" : "SHAX.",
       "proposerLr2id" : 65624,
@@ -26992,6 +27020,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "STARSTREAK CHAOS-TL12 Illustration by Neru / OBJ: SARYN",
+      "comment" : "同梱譜面 /PABAT 2018",
+      "level" : "0",
+      "md5" : "e5be45c8b010d88c161aba42a05b64f6",
+      "proposer" : "H∀H",
+      "proposerLr2id" : 152181,
+      "sha256" : "3974be187da0c60163b33fafe7a41164a0d04ead270b6fcb66a8e9826ef4b187",
+      "submission" : 2160,
+      "title" : "VENUS INVADER [7K SHDMix]",
+      "url" : "http://k-bms.com/party_pabat/party2018.jsp?board_num=18&num=1&order=reg&odtype=a",
+      "url_diff" : ""
+   },
+   {
       "artist" : "ああああ obj.XYZZZZ",
       "comment" : "軽微なソフラン",
       "level" : "1",
@@ -27804,7 +27845,7 @@
    {
       "artist" : "T & Y obj. Kamikaze",
       "comment" : "hard judge (it's easy to hit)",
-      "level" : "3",
+      "level" : "2",
       "md5" : "ecea3b8c103b84be7771cfb8afc06682",
       "proposer" : "marie",
       "proposerMinirid" : "3977549d-6d82-4c50-ba91-1fdc6b430afe",
@@ -28391,6 +28432,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "PASS (obj.mp)",
+      "comment" : "氐TOTAL(200), NORMAL判定",
+      "level" : "1",
+      "md5" : "f1cc09f3fad6dde73d4bbc856aba59e2",
+      "proposer" : "polynya",
+      "proposerLr2id" : 165397,
+      "sha256" : "69028db3bb139bab14414245b2b9d0c1389e1d8dbb3d443dd03b177e32e05729",
+      "submission" : 2162,
+      "title" : "dry flower -ANOTHER-",
+      "url" : "http://skydrive.live.com/?cid=EC29ADCCAD727122&id=EC29ADCCAD727122%21107#cid=05F2B0A1BDEDAEB2&id=5F2B0A1BDEDAEB2%21122",
+      "url_diff" : "http://ibizatrance.nomaki.jp/sabun.html",
+      "zureCount" : 0
    },
    {
       "artist" : "69 de 74 BGI:MUSH.T / obj.rat",

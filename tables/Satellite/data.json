@@ -60,6 +60,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "SHIKI obj.nozomi",
+      "comment" : "BPM146 微縦",
+      "level" : "10",
+      "md5" : "010d5e5f5225616215c1b365f68a604b",
+      "proposer" : "垢伴次郎",
+      "sha256" : "2f9bdf0affba1c29b0df6870a9f58961ca37335c39ed94cf31cab7577d75d479",
+      "submission" : 2135,
+      "title" : "Lapis [World Extend]",
+      "url" : "http://shiki2.sakura.ne.jp/shiki_lapismq.rar",
+      "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpymi6V8Ih_rYoKDJAj?e=2tRG9K"
+   },
+   {
       "artist" : "sak feat.みゅい Movie: げ～むばか Illust: 球根 obj: 七海千秋",
       "comment" : "高速階段、トリル、終盤難",
       "level" : "12",
@@ -405,7 +417,7 @@
    {
       "artist" : "EmoCo. × NO|SER obj. BK",
       "comment" : "BOFXV, 微縦連, LN, 皿",
-      "level" : "1",
+      "level" : "0",
       "md5" : "06edf6b0b2f7b1f4582d27bac38a6840",
       "proposer" : "DK",
       "sha256" : "5372cd420abacffb2c412c8bb06f8d037ad8de6caa5a1ef60b7ce36b330391ec",
@@ -999,6 +1011,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "でぱみぃ vs utzbo obj:七海",
+      "comment" : "BOFXVI 高速乱打、発狂少し。",
+      "level" : "12",
+      "md5" : "0f5b2b2df091b511e311873204203dcc",
+      "proposer" : "Mary_Sue",
+      "sha256" : "750eb20891e2cdbd1093793a5136a26764af449b4d1ef7445a4e22e73ed99ce5",
+      "submission" : 1765,
+      "title" : "Psychedelic Ritual -Despair-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=218&event=133",
+      "url_diff" : "https://www.dropbox.com/s/gc23tcyobmk7dfq/psyche_nanami.zip?dl=1"
+   },
+   {
       "artist" : "Liq_mmry obj:SUZUKAZEΛ",
       "comment" : "Chiptune",
       "level" : "3",
@@ -1353,7 +1377,7 @@
    {
       "artist" : "wigen_ / Note:薄杏",
       "comment" : "ハネリズム ",
-      "level" : "2",
+      "level" : "1",
       "md5" : "175243192b0e570c0694a16186e5dc3e",
       "proposer" : "Mayuzumy",
       "sha256" : "3c7c5f4665fe3aec40263f6be140fc2131825cd6eb378109608d9e9d82037ace",
@@ -1410,6 +1434,18 @@
       "title" : "Mr. BLACKRUM [SP RUNOTHER -Cuba Libre-]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=123&num=57",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02438"
+   },
+   {
+      "artist" : "ピクニカル男かゆき obj : ピクニカルMary_Sue",
+      "comment" : "denimgirl",
+      "level" : "4",
+      "md5" : "180ecc755af1b5875dbd110789cfe5b0",
+      "proposer" : "qtp13",
+      "sha256" : "65a40af0050b75d5a63ac6a6ec9ede886316ce0212893abbe8ff6bb1c7027afb",
+      "submission" : 2103,
+      "title" : "ピクニックガール [Dead]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=85",
+      "url_diff" : "https://darksabun.github.io/Mary_Sue/"
    },
    {
       "artist" : "sasakure.UK",
@@ -2332,7 +2368,7 @@
    {
       "artist" : "うまるつふり obj.sitoras",
       "comment" : "高速総合力",
-      "level" : "11",
+      "level" : "12",
       "md5" : "25fa6f793b02c300e1430864903fbb0b",
       "proposer" : "selene.",
       "sha256" : "2ff3e617140ce02a332186870403cd788f6ed2f677ececc1e9dc645f08ab1ac2",
@@ -5597,6 +5633,18 @@
       "title" : "Grievous Fate [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=123",
       "url_diff" : ""
+   },
+   {
+      "artist" : "あまつち探検隊 Arkplot + 杠葉えりか / extra",
+      "comment" : "鍵盤特化",
+      "level" : "3",
+      "md5" : "5db7bef388eef5816d2caf4231a37ec2",
+      "proposer" : "にゃむ",
+      "sha256" : "f6a3d997936dc7e3b37bfa2ad8b1e8c7a0ce9e282396fdd274ac9774743f0900",
+      "submission" : 1945,
+      "title" : "プラネット -Nebula-",
+      "url" : "https://venue.bmssearch.net/bmsshuin3/80",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04984"
    },
    {
       "artist" : "Yu^ta / obj:Azel",
@@ -10896,7 +10944,7 @@
    {
       "artist" : "天使真央 obj.森さん",
       "comment" : "BPM180 高速階段",
-      "level" : "10",
+      "level" : "11",
       "md5" : "b7143d7df5c81feddfdabefdf3704320",
       "proposer" : "SHAX.",
       "sha256" : "d43bef970c7c25262744bec74fdbc8e2aa820dc037d422cd7567d68a5d200c1a",
@@ -14251,7 +14299,7 @@
    {
       "artist" : "T & Y obj. Kamikaze",
       "comment" : "hard judge (it's easy to hit)",
-      "level" : "3",
+      "level" : "2",
       "md5" : "ecea3b8c103b84be7771cfb8afc06682",
       "proposer" : "marie-oraja",
       "sha256" : "0e35f451ee6c1610c74db9c63fa46706654d2ce5c598aa7d480562da6b5afe95",
@@ -14679,6 +14727,18 @@
       "title" : "Blazing Blizzard -Frostbite-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=224&event=116",
       "url_diff" : "http://beatkim.web.fc2.com/insane.html"
+   },
+   {
+      "artist" : "Ino loves みずたま & 加藤裕幸(sweez) / obj:lime",
+      "comment" : "アレンジ差分、作者HP参考",
+      "level" : "1",
+      "md5" : "f492aee6154abb984b9cdcc63cfd36ab",
+      "proposer" : "ИИ",
+      "sha256" : "dfa740993404176984041b86e08541694759c406eec123bf74d6639b8c78811c",
+      "submission" : 2094,
+      "title" : "ナツイノ [BITTER7]",
+      "url" : "https://dropbox.bms.ms/u/53751238/Ino_BOFU2016_Natsuino_OGG.zip",
+      "url_diff" : "http://kanki2.net/bme.html"
    },
    {
       "artist" : "Aglaia(Re:gats& vs. Nego_tiator) BGA:Fiz / obj:LAPIS + B_K",

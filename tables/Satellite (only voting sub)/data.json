@@ -1,66 +1,5 @@
 [
    {
-      "artist" : "SHIKI obj.nozomi",
-      "comment" : "BPM146 微縦",
-      "level" : "10",
-      "md5" : "010d5e5f5225616215c1b365f68a604b",
-      "proposer" : "垢伴次郎",
-      "proposerMinirid" : "39fcf843-3931-4605-a729-2f3f61d0970b",
-      "sha256" : "2f9bdf0affba1c29b0df6870a9f58961ca37335c39ed94cf31cab7577d75d479",
-      "submission" : 2135,
-      "title" : "Lapis [World Extend]",
-      "url" : "http://shiki2.sakura.ne.jp/shiki_lapismq.rar",
-      "url_diff" : "https://1drv.ms/u/s!ApwaJAUHJdpymi6V8Ih_rYoKDJAj?e=2tRG9K",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "Setca. feat. A.Dokuga obj:qfeileadh",
-      "comment" : "",
-      "level" : "5",
-      "md5" : "04d96716449a9301ca187c657aed3558",
-      "proposer" : "AYhaz",
-      "proposerLr2id" : 123475,
-      "sha256" : "04084991f4a89ed56d5bb484878a8c1770ec2f61edce9b6e53f970aa91f21489",
-      "submission" : 2137,
-      "title" : "サクラノユメ。 [満開]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=93&event=131",
-      "url_diff" : ""
-   },
-   {
-      "artist" : "C4 / BGI:morph",
-      "level" : "1",
-      "md5" : "07792d652e8723324938bf188d88f970",
-      "proposer" : "Mary_Sue",
-      "proposerLr2id" : 147889,
-      "sha256" : "3a6da7bcc7a862d76a448146d144a51de660a61fc28e23f576d4f1c84b4de2ca",
-      "submission" : 1314,
-      "title" : "Chilly [SP INSANE]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=126",
-      "url_diff" : "",
-      "voteNeutral" : 5,
-      "voteNo" : 3,
-      "votePercent" : 67.6470588235294,
-      "voteVersion" : 2,
-      "voteYes" : 9
-   },
-   {
-      "artist" : "でぱみぃ vs utzbo obj:七海",
-      "level" : "12",
-      "md5" : "0f5b2b2df091b511e311873204203dcc",
-      "proposer" : "ﾐｽﾀｰﾌﾞｰﾋﾞｰ",
-      "proposerLr2id" : 119698,
-      "sha256" : "750eb20891e2cdbd1093793a5136a26764af449b4d1ef7445a4e22e73ed99ce5",
-      "submission" : 1765,
-      "title" : "Psychedelic Ritual -Despair-",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=218&event=133",
-      "url_diff" : "https://www.dropbox.com/s/gc23tcyobmk7dfq/psyche_nanami.zip?dl=1",
-      "voteNeutral" : 1,
-      "voteNo" : 0,
-      "votePercent" : 94.4444444444444,
-      "voteVersion" : 2,
-      "voteYes" : 8
-   },
-   {
       "artist" : "hurirai BGA:hrchem",
       "level" : "3",
       "md5" : "0fe696ac60e831fc111285d6099eadbb",
@@ -78,17 +17,17 @@
       "voteYes" : 7
    },
    {
-      "artist" : "ピクニカル男かゆき obj : ピクニカルMary_Sue",
-      "comment" : "denimgirl",
-      "level" : "4",
-      "md5" : "180ecc755af1b5875dbd110789cfe5b0",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "65a40af0050b75d5a63ac6a6ec9ede886316ce0212893abbe8ff6bb1c7027afb",
-      "submission" : 2103,
-      "title" : "ピクニックガール [Dead]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=85",
-      "url_diff" : "https://darksabun.github.io/Mary_Sue/",
+      "artist" : "shimizushi illust:a.a / obj:monaka",
+      "comment" : "Last",
+      "level" : "7",
+      "md5" : "1b70db38910e2fad99c9874182e8ece5",
+      "proposer" : "polynya",
+      "proposerLr2id" : 165397,
+      "sha256" : "be0da9ec31751e04317d3cbb052419030b34309ddeb9f7c182484c86693d2b52",
+      "submission" : 2163,
+      "title" : "To the restored sunflower garden [EXTRA]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=116",
+      "url_diff" : "https://ux.getuploader.com/monaka_sabun_2/download/127",
       "zureCount" : 0
    },
    {
@@ -199,32 +138,6 @@
       "zureCount" : 0
    },
    {
-      "artist" : "tami",
-      "comment" : "swing",
-      "level" : "0",
-      "md5" : "4b24f76a59fd2f89838e1ecb985a662c",
-      "proposer" : "ИИ",
-      "proposerLr2id" : 147895,
-      "sha256" : "caf83e15b54718ff95cfeba89012e0c873fc2cb9256fa6896a357d3e64a5a6b1",
-      "submission" : 2140,
-      "title" : "devote [sp another]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=107&event=131",
-      "url_diff" : ""
-   },
-   {
-      "artist" : "しらいし / obj:スノート",
-      "level" : "9",
-      "md5" : "4c9ead215ef1d29265a83e0e90e64a45",
-      "proposer" : "fuko",
-      "proposerMinirid" : "ba0690c9-b068-498b-8f78-4f10295e3e7f",
-      "sha256" : "7ec1e56015e6dc17b7e6f9388c8138b962708a1d42f2a5e792a58da374249cd3",
-      "submission" : 2149,
-      "title" : "王位継承 [Snother]",
-      "url" : "https://drive.google.com/uc?id=1iQaCu_ouEO7tYnIdeoyyW84BtaQscofz",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03752",
-      "zureCount" : 0
-   },
-   {
       "artist" : "Potwi",
       "comment" : "-1 ~ 0?",
       "level" : "0",
@@ -236,23 +149,6 @@
       "title" : "U-knighted Servant [7_ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=494&event=133",
       "url_diff" : ""
-   },
-   {
-      "artist" : "あまつち探検隊 Arkplot + 杠葉えりか / extra",
-      "level" : "3",
-      "md5" : "5db7bef388eef5816d2caf4231a37ec2",
-      "proposer" : "qtp13",
-      "proposerLr2id" : 86559,
-      "sha256" : "f6a3d997936dc7e3b37bfa2ad8b1e8c7a0ce9e282396fdd274ac9774743f0900",
-      "submission" : 1945,
-      "title" : "プラネット -Nebula-",
-      "url" : "https://venue.bmssearch.net/bmsshuin3/80",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04984",
-      "voteNeutral" : 1,
-      "voteNo" : 1,
-      "votePercent" : 91.1764705882353,
-      "voteVersion" : 2,
-      "voteYes" : 15
    },
    {
       "artist" : "Ym1024 / obj: Lennon",
@@ -282,19 +178,6 @@
       "zureCount" : 0
    },
    {
-      "artist" : "uncorworld",
-      "comment" : "キー音アレンジ差分なのでズレが発生しています。",
-      "level" : "12",
-      "md5" : "6f7325a35ff4bb9d058ae8c785d0bf28",
-      "proposer" : "Mary_Sue",
-      "proposerLr2id" : 147889,
-      "sha256" : "f61808825fb48b41e78b91ad80261e1b9b0b31495d46f6f04cf3be876b5ff78f",
-      "submission" : 2144,
-      "title" : "unkosong 2008 -LIVE AT Club TOTO- [@imperi_2006]",
-      "url" : "https://www.dropbox.com/s/7hs1fdhm8pnp7xi/unkosong%202008%20%5Buncorworld%5D.rar?dl=1",
-      "url_diff" : "https://www.dropbox.com/s/n64dt6qn6mcftgx/unkosong2008_2006.bme"
-   },
-   {
       "artist" : "TamaDo feat.初音ミク",
       "comment" : "皿複合, 乱打, 連打",
       "level" : "2",
@@ -320,18 +203,6 @@
       "url_diff" : ""
    },
    {
-      "artist" : "bbangsami feat.Sugar Reactor / Haping,SMIN",
-      "level" : "1",
-      "md5" : "760143c5fe7caee39e5d7d36c91cefbe",
-      "proposer" : "H∀H",
-      "proposerLr2id" : 152181,
-      "sha256" : "01ca83a5137ac8384f25001cb4d0fe4d8e0374a2314152a3f5ef3a1b593ef3f7",
-      "submission" : 2138,
-      "title" : "kkotipari Hangaduk [7keys Another]",
-      "url" : "https://drive.google.com/file/d/1X1cDPn04bN8JHThE5KWtj8k0yHW3ecLY/view?usp=sharing",
-      "url_diff" : ""
-   },
-   {
       "artist" : "69 de 74 BGA:Arishima_Caprico",
       "comment" : "good music good chart",
       "level" : "2",
@@ -343,20 +214,6 @@
       "title" : "RTTR [ANOTHER]",
       "url" : "https://venue.bmssearch.net/bmsshuin3/73",
       "url_diff" : ""
-   },
-   {
-      "artist" : "Black Lotus obj. B_K",
-      "comment" : "8分同時押しメイン(少し微縦連)、sl3からsl4くらい...?",
-      "level" : "3",
-      "md5" : "7911c840f826c425d626290c636ed370",
-      "proposer" : "10c*",
-      "proposerLr2id" : 170055,
-      "sha256" : "f2c95500fb8e02d596546d00481635a2cd882cdf36e6edb83a28c882a4b4c331",
-      "submission" : 2132,
-      "title" : "suffruti [トラジディー]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=60&event=104",
-      "url_diff" : "http://beatkim.web.fc2.com/",
-      "zureCount" : 0
    },
    {
       "artist" : "remix:HaL Vocal:美里 / black train",
@@ -372,36 +229,6 @@
       "zureCount" : 0
    },
    {
-      "artist" : "TJ.hangneil vs Jackz Lapis vs Triforce",
-      "level" : "12",
-      "md5" : "7eb915bd46007cb773511ac93cef9c34",
-      "proposer" : "nozomi",
-      "proposerLr2id" : 115265,
-      "sha256" : "c075acb0d378d0fa339a9357b961a181cbade7c46951ccfdea5be965c973d4a4",
-      "submission" : 1618,
-      "title" : "ozma -麒麟-",
-      "url" : "https://drive.google.com/file/d/1JPa7X6xS4sUtxw-dTie59E0QMIzDfZwU",
-      "url_diff" : "https://trfce.github.io/sabun/(120)_ozma_qilin.zip",
-      "voteNeutral" : 5,
-      "voteNo" : 0,
-      "votePercent" : 75,
-      "voteVersion" : 2,
-      "voteYes" : 5
-   },
-   {
-      "artist" : "momo★yama,erotic server,Initial-P,pinky brass man,JUMPERS (全部桃山) / obj:sarao3",
-      "comment" : "BPM145 多要素",
-      "level" : "12",
-      "md5" : "81ae4a7752a9c0293d595b0bf0e27309",
-      "proposer" : "SHAX.",
-      "proposerLr2id" : 65624,
-      "sha256" : "1e3ff324853edd81f43fb5f90ec1652fdb8849cca189a83f287be95d0fed5e52",
-      "submission" : 2145,
-      "title" : "空跳ぶ少女 [EXTREME7]",
-      "url" : "https://dropbox.bms.ms/u/59483835/spanish.rar",
-      "url_diff" : "https://darksabun.github.io/mirror/absolute/uploader/up2701.zip"
-   },
-   {
       "artist" : "Sheena Ed Crow BGI:69 de 74",
       "comment" : "sl3? 고bpm, 후살",
       "level" : "3",
@@ -415,21 +242,18 @@
       "url_diff" : ""
    },
    {
-      "artist" : "Dachs / 制限 Movie : mi",
+      "artist" : "-45 / obj:sagoo",
+      "comment" : "同梱譜面/物量/★2?",
       "level" : "1",
-      "md5" : "89da7362e8856c1baafe78dfeaa571fc",
-      "proposer" : "polynya",
-      "proposerLr2id" : 165397,
-      "sha256" : "bfccb3702839c56baeaee3b3c639c109360eb58f2753fe848db046079b84978f",
-      "submission" : 19,
-      "title" : "Kalte",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=116",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01404",
-      "voteNeutral" : 0,
-      "voteNo" : 13,
-      "votePercent" : 23.5294117647059,
-      "voteVersion" : 2,
-      "voteYes" : 4
+      "md5" : "89946b9f88681ee56ba63caeded24ec2",
+      "proposer" : "H∀H",
+      "proposerLr2id" : 152181,
+      "sha256" : "313945bd2614ada0a9edc0acd8ea6fa5bd2aad68ea7ceb63cf7192ad1da7cc75",
+      "submission" : 2161,
+      "title" : "夢人形-marionette dreamer- [sagANOTHER]",
+      "url" : "http://malie.noor.jp/",
+      "url_diff" : "http://onedrive.live.com/redir?resid=A972E7D14DCFAF93!110&authkey=!ADuXxYDZsf_L-I8&ithint=folder%2czip",
+      "zureCount" : 0
    },
    {
       "artist" : "Nakaiankow / obj: Lennon Original:ZUN - 神々が恋した幻想郷",
@@ -443,19 +267,6 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=129",
       "url_diff" : "https://bms-chart-editors-group.github.io/event/ondan9/",
       "zureCount" : 0
-   },
-   {
-      "artist" : "あまつち探検隊 Arkplot + 杠葉えりか // obj : Windows Updater",
-      "comment" : "sl0~sl1 乱打 微縦",
-      "level" : "0",
-      "md5" : "8f425209fae28c57edc33c3061e08236",
-      "proposer" : "mqppppporaja",
-      "proposerMinirid" : "da079373-08be-4151-a76f-8ed44123949a",
-      "sha256" : "80f3f395424366fc6b3bc8e790b3e968012a11413921843d9d8fdb05758f8461",
-      "submission" : 2150,
-      "title" : "プラネット [Satella]",
-      "url" : "https://venue.bmssearch.net/bmsshuin3/80",
-      "url_diff" : "https://stellabms.xyz/upload/891"
    },
    {
       "artist" : "SOMON",
@@ -481,32 +292,6 @@
       "title" : "Daybreak [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=157&event=74",
       "url_diff" : ""
-   },
-   {
-      "artist" : "crossworld / obj:Lian",
-      "comment" : "BPM197 乱打",
-      "level" : "9",
-      "md5" : "a012caed633272cfa83f5606f53b1c8c",
-      "proposer" : "SHAX.",
-      "proposerLr2id" : 65624,
-      "sha256" : "61713929f4ece5c8188f8b379dc46390dbb4c2430dcbfbed51a401e0b33d34de",
-      "submission" : 2148,
-      "title" : "Theine [EXTREME]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=135",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05427"
-   },
-   {
-      "artist" : "djUSA.GI obj: A",
-      "level" : "3",
-      "md5" : "a08807ec10a4d9ad89de12f27dd6d39e",
-      "proposer" : "moka",
-      "proposerLr2id" : 167326,
-      "sha256" : "df969f8cce44af796787cbee9850661a877f8cf0671bfd8e44a8380c95615d01",
-      "submission" : 2099,
-      "title" : "Mercy Heals A Broken Heart [Determination]",
-      "url" : "http://ryu.s-ul.eu/Fnpt6yKr",
-      "url_diff" : "http://www.ribbit.xyz/bms/mirror/uploader/src/up6899.zip",
-      "zureCount" : 0
    },
    {
       "artist" : "Puru obj:Reat",
@@ -536,46 +321,6 @@
       "zureCount" : 0
    },
    {
-      "artist" : "SB_YUNE feat. 初音ミク / obj.siokaze",
-      "comment" : "",
-      "level" : "0",
-      "md5" : "a5945abd75012145345897951077f7cc",
-      "proposer" : "10c*",
-      "proposerLr2id" : 170055,
-      "sha256" : "478af1c17cacb8e601782688382d4e0181076aa86003809aae467762e975529f",
-      "submission" : 2152,
-      "title" : "Rosario -輪廻幻想譚- [Fate]",
-      "url" : "http://web.archive.org/web/20100702171407/http://homepage3.nifty.com/karihamo/",
-      "url_diff" : "http://siokazebms.web.fc2.com/",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "アスパラ音楽隊",
-      "comment" : "連打練習, 同時押し+連打",
-      "level" : "2",
-      "md5" : "a62c7fe7ebe8d57a6abddd56b8ef9590",
-      "proposer" : "polynya",
-      "proposerLr2id" : 165397,
-      "sha256" : "b986999ca7ee2a4ad9c547f3c344d35200534a63bd4d7c8d0925d8f77cd0d5d3",
-      "submission" : 2142,
-      "title" : "DEYANEN [連打リハビリ]",
-      "url" : "https://web.archive.org/web/20160321130346/http://big.freett.com/woody_/deyanen.zip",
-      "url_diff" : "https://bms.parksulab.xyz",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "くるやのぶ illust:珊瑚",
-      "level" : "11",
-      "md5" : "aabe3533f2494e66e4639d1ded733586",
-      "proposer" : "moka",
-      "proposerLr2id" : 167326,
-      "sha256" : "1c88e11a2bbc09187065efbfd330f5796f86f4093a5cc44574c366b35ab50229",
-      "submission" : 2153,
-      "title" : "RoszA [INSANE]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=135",
-      "url_diff" : ""
-   },
-   {
       "artist" : "Snowyplane",
       "comment" : "god music",
       "level" : "0",
@@ -586,19 +331,6 @@
       "submission" : 2127,
       "title" : "Acacia [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=80&event=135",
-      "url_diff" : ""
-   },
-   {
-      "artist" : "saaa",
-      "comment" : "sl10~11? 난타, 딜레이, 스크래치, 연타",
-      "level" : "11",
-      "md5" : "d258c4b51e50938cbe1a33a5c8994492",
-      "proposer" : "Haze*",
-      "proposerLr2id" : 112076,
-      "sha256" : "daae0b6dd2071978a76059a2c8c442f2c9b3f7897018be41acecdcda2bb62677",
-      "submission" : 2154,
-      "title" : "Mast [INSANE]",
-      "url" : "http://9domu46i.com/yuruyuru/phase13.html",
       "url_diff" : ""
    },
    {
@@ -632,31 +364,31 @@
       "url_diff" : ""
    },
    {
-      "artist" : "onoken obj:R1N",
-      "comment" : "乱打",
-      "level" : "1",
-      "md5" : "ecaa6b72800bfa3eeaa9f36b7a463d42",
-      "proposer" : "Rche_Lincle",
-      "proposerMinirid" : "7dbee6d9-d9e8-4a2f-abfe-91d69cb42542",
-      "sha256" : "5cc84a3bc75db582a7f6f163d1c2940f28a4a51e8a0b40c1eeeb007ab4a712c5",
-      "submission" : 2100,
-      "title" : "BRIGHTONE 7A",
-      "url" : "http://web.archive.org/web/20070111193502/www107.sakura.ne.jp/~onoken/htmls/bms.html",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03945",
-      "zureCount" : 0
+      "artist" : "STARSTREAK CHAOS-TL12 Illustration by Neru / OBJ: SARYN",
+      "comment" : "同梱譜面 /PABAT 2018",
+      "level" : "0",
+      "md5" : "e5be45c8b010d88c161aba42a05b64f6",
+      "proposer" : "H∀H",
+      "proposerLr2id" : 152181,
+      "sha256" : "3974be187da0c60163b33fafe7a41164a0d04ead270b6fcb66a8e9826ef4b187",
+      "submission" : 2160,
+      "title" : "VENUS INVADER [7K SHDMix]",
+      "url" : "http://k-bms.com/party_pabat/party2018.jsp?board_num=18&num=1&order=reg&odtype=a",
+      "url_diff" : ""
    },
    {
-      "artist" : "Ino loves みずたま & 加藤裕幸(sweez) / obj:lime",
-      "comment" : "アレンジ差分、作者HP参考",
+      "artist" : "PASS (obj.mp)",
+      "comment" : "氐TOTAL(200), NORMAL判定",
       "level" : "1",
-      "md5" : "f492aee6154abb984b9cdcc63cfd36ab",
-      "proposer" : "ИИ",
-      "proposerLr2id" : 147895,
-      "sha256" : "dfa740993404176984041b86e08541694759c406eec123bf74d6639b8c78811c",
-      "submission" : 2094,
-      "title" : "ナツイノ [BITTER7]",
-      "url" : "https://dropbox.bms.ms/u/53751238/Ino_BOFU2016_Natsuino_OGG.zip",
-      "url_diff" : "http://kanki2.net/bme.html"
+      "md5" : "f1cc09f3fad6dde73d4bbc856aba59e2",
+      "proposer" : "polynya",
+      "proposerLr2id" : 165397,
+      "sha256" : "69028db3bb139bab14414245b2b9d0c1389e1d8dbb3d443dd03b177e32e05729",
+      "submission" : 2162,
+      "title" : "dry flower -ANOTHER-",
+      "url" : "http://skydrive.live.com/?cid=EC29ADCCAD727122&id=EC29ADCCAD727122%21107#cid=05F2B0A1BDEDAEB2&id=5F2B0A1BDEDAEB2%21122",
+      "url_diff" : "http://ibizatrance.nomaki.jp/sabun.html",
+      "zureCount" : 0
    },
    {
       "artist" : "SHIKI / 29",

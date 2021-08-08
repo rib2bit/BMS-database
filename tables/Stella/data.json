@@ -933,7 +933,7 @@
    {
       "artist" : "azu / po",
       "comment" : "st7 downgrade",
-      "level" : "3",
+      "level" : "4",
       "md5" : "1570202b5ea4c4d2fcd0d85185a095e9",
       "proposer" : "LUXURY♪",
       "sha256" : "565bf7d3b8dcf71f1cfcdde30d6a9ac00e93da9bd734c1b6e11c7acae504b2b5",
@@ -1088,6 +1088,18 @@
       "title" : "水晶世界 ～Fracture～ [GOD]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=44&event=65",
       "url_diff" : "http://akred.web.fc2.com/baecon/_crystal-world_r_7GOD.bme"
+   },
+   {
+      "artist" : "ROKINA BGI:REI-K / obj.XYZ",
+      "comment" : "_05_rein_a.bms基準ZZキー音のズレがありますが、全部ロングノーツ関連のズレなのでプレーには問題なし。",
+      "level" : "1",
+      "md5" : "1781746c6ad683f0382b4714131ed8cc",
+      "proposer" : "Mary_Sue",
+      "sha256" : "2c6d8a7bce66c58e3ed4169abff1ad513b61c8f94a9db8bf807f2d00bd4a689d",
+      "submission" : 1568,
+      "title" : "Reinforced Soul",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=103",
+      "url_diff" : "https://tejawha.github.io/objxyz/"
    },
    {
       "artist" : "風鈴奏 Rustin",
@@ -1246,6 +1258,18 @@
       "title" : "虹夜パレッド [Hexagon]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=388&event=123",
       "url_diff" : "http://bms.hexlataia.xyz/tables/hexajoy.html"
+   },
+   {
+      "artist" : "㍊ゼ / obj:SRKR",
+      "comment" : "乱打, 同時押し, 連皿なし, デニム後殺なし",
+      "level" : "2",
+      "md5" : "1b5ac0745528ef12ae03ce66b31fb6a5",
+      "proposer" : "polynya",
+      "sha256" : "e8ad2d62e81ae108b238e8b84ce563c201c9ec8b33baf92610ce2357300ee8d4",
+      "submission" : 1559,
+      "title" : "Milly Barll",
+      "url" : "http://www.luzeria.net/?p=387",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04225"
    },
    {
       "artist" : "Queen P.A.L. / obj:mezna",
@@ -3742,6 +3766,18 @@
       "url_diff" : "http://akred.web.fc2.com/bmsfile/HighPriestess-INFERNOf.bme"
    },
    {
+      "artist" : "Satsuki Akatsuka / obj : Mary_Sue",
+      "comment" : "微連打、ガチ押し",
+      "level" : "1",
+      "md5" : "4a142bd47e18d95a266becb6d178ec7f",
+      "proposer" : "polynya",
+      "sha256" : "08de932b4b04e8e9062d6deacda86feb4f661f4ea34b8af6b6e6cd1b15e4c75c",
+      "submission" : 1556,
+      "title" : "Squeeze Me [Maryther]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=481&event=116",
+      "url_diff" : "https://darksabun.github.io/Mary_Sue/"
+   },
+   {
       "artist" : "DJ Aye^2 BGI: VJ Giraffe",
       "comment" : "乱打、微縦連",
       "level" : "0",
@@ -4006,6 +4042,18 @@
       "title" : "海神寓拝 [for whale]",
       "url" : "http://web.archive.org/web/20070727154611/http://sasakure.bms.ms/framemusic.htm",
       "url_diff" : "https://web.archive.org/web/20190322230138/http://www.hyper-laner.com/sabun/all201807_laner.rar"
+   },
+   {
+      "artist" : "------",
+      "comment" : "",
+      "level" : "11",
+      "md5" : "4ff669349c4d124a774e054c68bed051",
+      "proposer" : "qtp13",
+      "sha256" : "6b2b545f02342f707d6b89ab6cfc730b7914aefcd05af265d572a4553baa6ab0",
+      "submission" : 1562,
+      "title" : "BEAT MASTER SLAYER [MASTER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=119",
+      "url_diff" : ""
    },
    {
       "artist" : "翡乃イスカ / A",
@@ -5627,6 +5675,18 @@
       "url_diff" : "http://web.archive.org/web/20160330115701/http://freett.com/iidxbanzai/banzaisabun1.html"
    },
    {
+      "artist" : "ROKINA on schwarzekugel BGA:アカツキユウ / ImageIllust:あひゅりむ / A",
+      "comment" : "in anzubmsdiff no misalignments with sp MASTER",
+      "level" : "0",
+      "md5" : "6eab44ebe4d61f16e06c67ef45024e56",
+      "proposer" : "moka",
+      "sha256" : "cf5d897a966735608c344f8a594a39e716ffcc4e7d8dd58c6238f73dd6ccec49",
+      "submission" : 1573,
+      "title" : "Fiore Tempesta [百花繚乱]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=98",
+      "url_diff" : "http://www.dropbox.com/s/ceh2wqpegxbparv/06-tempesta_WW.zip?dl=0"
+   },
+   {
       "artist" : "Xacla / TOHRU MiTSUHASHi",
       "comment" : "",
       "level" : "8",
@@ -6095,6 +6155,29 @@
       "title" : "Luna Express 2032 -Heaven-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=116",
       "url_diff" : "https://stellabms.xyz/upload/748"
+   },
+   {
+      "artist" : "Kuwagata obj : LindBlum",
+      "level" : "4",
+      "md5" : "77bf244abecda64517ad9bce06757fbe",
+      "proposer" : "七海",
+      "sha256" : "b8d244734204d3fee4d735e8dbc35c097410000af643eb5c0b748d11e17d6b45",
+      "submission" : 1571,
+      "title" : "シグナルほっぴんぐ -(^-^)/-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=190&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04329"
+   },
+   {
+      "artist" : "SUPER STAR 健人 obj.hex",
+      "comment" : "ONLY ONE CHRISTMAS SONG(There is a misalignment due to the deletion of first half.)",
+      "level" : "2",
+      "md5" : "786018f3e6ed69ec70441d2316a5dbe1",
+      "proposer" : "歳納京子",
+      "sha256" : "b64bef0e9b460da911fa562116e35e781ee9a53809cd6ebd9bd7eeea201fcb3f",
+      "submission" : 1565,
+      "title" : "Lonely One Christmas [Hexagon]",
+      "url" : "https://onedrive.live.com/?cid=F61C1F8825F0CF46&id=F61C1F8825F0CF46%21344&parId=F61C1F8825F0CF46%21159&o=OneUp",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html"
    },
    {
       "artist" : "nez obj.hex",
@@ -6663,6 +6746,18 @@
       "url_diff" : "https://dl.dropboxusercontent.com/s/ixua4gbggolcdgk/yui.zip"
    },
    {
+      "artist" : "nmk feat.かなえゆめ mov:わっふゑ obj: qtp13",
+      "comment" : "中速連打複合、ガチ押し st3～st4",
+      "level" : "4",
+      "md5" : "83d81a0ce10a4136bed82e12d932e46e",
+      "proposer" : "M48N",
+      "sha256" : "af8ff7a88528861228a6e8eb4d846e6a313cac0b2b475d1cbedfd53caf8b4fb8",
+      "submission" : 1575,
+      "title" : "あさつゆ [朝露]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=221&event=104",
+      "url_diff" : "https://stellabms.xyz/upload/242"
+   },
+   {
       "artist" : "6yen / И",
       "comment" : "BPM182 同時押し、乱打、アレンジ差分",
       "level" : "3",
@@ -6699,6 +6794,18 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up5894.rar"
    },
    {
+      "artist" : "Nakaiankow obj:1008",
+      "comment" : "体力、ラス殺し、皿複合、発狂、物量",
+      "level" : "10",
+      "md5" : "84578297a427579d3b8c056f32ef8522",
+      "proposer" : "スノート",
+      "sha256" : "7c1b7fda1ad75b1de6ee1f4f2aca58022ac47dd09ed82d20373606b8bbd2b0db",
+      "submission" : 1561,
+      "title" : "Eternal Super Hyper Ultimate Doggo [Endmost Supreme Highest Universal Drumming]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=132",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04531"
+   },
+   {
       "artist" : "TetraElemental obj:Omino",
       "comment" : "",
       "level" : "9",
@@ -6721,18 +6828,6 @@
       "title" : "Blue Dragoon - Ｏ Ｖ Ｅ Ｒ 　 Ｋ  Ｉ  Ｌ Ｌ -",
       "url" : "http://kbpbms.x-y.net/xe/index.php?mid=kbp2012&document_srl=2887",
       "url_diff" : "https://drive.google.com/drive/folders/0B4chFHpe-ae4UG9zMDlwcGZiM0U?usp=sharing"
-   },
-   {
-      "artist" : "LeaF × kana / obj:chack Movie:To7",
-      "comment" : "高速トリル、ずれ、発狂",
-      "level" : "1",
-      "md5" : "8539ac49f4e8b919c9f37b9fa9d3e685",
-      "proposer" : "MarySue",
-      "sha256" : "ae9913200d914b492b90512581a91f0a2b317aeb1ce4fc43baf4daac4a7fed61",
-      "submission" : 1223,
-      "title" : "◇スト [Tenmusu]",
-      "url" : "http://sunaneko.iptime.org/BMS_Library/%e2%97%87%e3%82%b9%e3%83%88%20%28by%20LeaF%20%c3%97%20kana%29.rar",
-      "url_diff" : "http://app.box.com/s/vkmk2yjged9563xlwaz8"
    },
    {
       "artist" : "五条下位＆仲村芽衣子 // movie: kagi55x obj: swa",
@@ -7898,6 +7993,18 @@
       "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html"
    },
    {
+      "artist" : "NASA respekt for F. Chopin",
+      "comment" : "おやすみ！",
+      "level" : "11",
+      "md5" : "9babdbf73ea3bee55904b664e8a236e4",
+      "proposer" : "スノート",
+      "sha256" : "de17d528e5e9e0b37fb99c938a1b4311bf22970af12b2d782eebfa1f6a9a12f9",
+      "submission" : 1555,
+      "title" : "夜騒曲 op.Q-ν [Nightmare]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=96&event=132",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Ras / И",
       "comment" : "ガチ押し",
       "level" : "1",
@@ -8139,6 +8246,18 @@
       "title" : "硬核機動 [Maniac]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=106&event=83",
       "url_diff" : "http://siokazebms.web.fc2.com/"
+   },
+   {
+      "artist" : "9-zen obj.hex",
+      "comment" : "BPM154 ディレイ、縦連、体力",
+      "level" : "3",
+      "md5" : "a0e534d02c919996fef1f2a83c44c418",
+      "proposer" : "SHAX.",
+      "sha256" : "4fb18c030425b33f1cd7c841fd2af7e3a0fd267e2b5486928454720c566633e2",
+      "submission" : 1198,
+      "title" : "ルーネイトエルフ～霧の湖の物語～ [Pentagon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=129",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html"
    },
    {
       "artist" : "LiA",
@@ -9294,6 +9413,18 @@
       "title" : "wilis [G3]",
       "url" : "http://www.is-m.jp/",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi"
+   },
+   {
+      "artist" : "idzuchi obj.hex",
+      "comment" : "BPM275 8分同時押し",
+      "level" : "8",
+      "md5" : "b893e92d6e47224fcd81db1efc19335e",
+      "proposer" : "SHAX.",
+      "sha256" : "ca52afd8c3e73596f9b6c573c4be53092bd9e0493d3f98bec09f6f2194ed5f93",
+      "submission" : 1569,
+      "title" : "Fragments of Toybox [Hexagon]",
+      "url" : "https://mega.nz/folder/sXZTFSxS#UX7Cpqoi03tRQ-jpzn8F6A/file/hSJhzKyD",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html"
    },
    {
       "artist" : "DJ LATI BGA : EMSH / OBJ. swa",
@@ -11726,7 +11857,7 @@
    {
       "artist" : "ZUN/arr.みょん / iimode-do / かげきち / extra",
       "comment" : "st2~3 delay (2 notes misaligned (another chart) by 1/8 due to delay effect)",
-      "level" : "3",
+      "level" : "4",
       "md5" : "e73457a90730035c6178f9f339eea553",
       "proposer" : "qtp13",
       "sha256" : "2b9e8e63e03d9fabf45fffde0006657f5f0c804576cf61ef665b52aefa357f72",
