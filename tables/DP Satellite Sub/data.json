@@ -132,6 +132,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Multipleton / Trompeuse",
+      "comment" : "DPAと比較してズレは検出されるが誤差の範囲。",
+      "level" : "2",
+      "md5" : "0880177c0ba654ce0a29cf1fac69eac7",
+      "proposer" : "1coin",
+      "proposerLr2id" : 131827,
+      "sha256" : "a97ded1f8136833cc1466b6365b026ab02e5c738027cf86fdb3d443e7a5bdfe6",
+      "submission" : 576,
+      "title" : "F4C4D3 [DPH]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=112",
+      "url_diff" : "https://w.atwiki.jp/14key/pages/23.html"
+   },
+   {
       "artist" : "yuki. obj:m24m BGI iida",
       "level" : "8",
       "md5" : "08e62a99f61826c978b45ec93c490dbf",

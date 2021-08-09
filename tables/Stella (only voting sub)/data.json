@@ -13,6 +13,33 @@
       "url_diff" : "http://absolute.pv.land.to/uploader/upload.html"
    },
    {
+      "artist" : "Lian",
+      "comment" : "BPM170 微連打 ディレイ",
+      "level" : "5",
+      "md5" : "3ab8b871d49b22a206aa50f6add5f02f",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "ccb7fcf1fc5588526799af9fcd2b829e97255f710f60baae53a1e60acf306987",
+      "submission" : 1584,
+      "title" : "ソラハナ [SHD]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=7&event=131",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=5498",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "Yuhgao as Nekosola BGA:Yuhgao / ILLUST:Lenu / OBJ:LuvTek",
+      "comment" : "410_ANOTHER.bms基準、すべてのズレはbpm関連のズレです。",
+      "level" : "0",
+      "md5" : "3c3b868707f8803b8b350b0ddb260db1",
+      "proposer" : "Mary_Sue",
+      "proposerLr2id" : 147889,
+      "sha256" : "319c07b9d9801628a2d7e06dc4534c141315c470db5c4404edd2035b70c9e5cb",
+      "submission" : 1586,
+      "title" : "410:Odyssey [7K/unmeasured]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=79&event=127",
+      "url_diff" : "https://fsrs.github.io/table.html"
+   },
+   {
       "artist" : "Umiai / obj:夢瑠",
       "level" : "3",
       "md5" : "746df7f401bd7520d4dda5c503b766b7",
@@ -24,6 +51,19 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=103&event=110",
       "url_diff" : "https://dl.dropboxusercontent.com/s/7kpy1twi6mhi5u4/_End_Point_yume.zip",
       "zureCount" : 0
+   },
+   {
+      "artist" : "TOMA obj tyrcs",
+      "comment" : "（01_animalove_7n.bme基準）すべてのズレはキー音をカットしたので発生したものです。",
+      "level" : "2",
+      "md5" : "88f38f11258e97d2aaa6feddf6f6678f",
+      "proposer" : "Mary_Sue",
+      "proposerLr2id" : 147889,
+      "sha256" : "bfa80cafc68252407438ed87cf5e2a86ed4cd109ec230c4f685061744ecca5bd",
+      "submission" : 1585,
+      "title" : "あにまら [delaylove-]",
+      "url" : "https://onedrive.live.com/?cid=F61C1F8825F0CF46&id=F61C1F8825F0CF46%21330&parId=F61C1F8825F0CF46%21159&o=OneUp",
+      "url_diff" : "https://stellabms.xyz/upload/970"
    },
    {
       "artist" : "Music:xi / DTX:水月 / BMS:nov obj.hex",
@@ -50,6 +90,19 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=102",
       "url_diff" : "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html",
       "zureCount" : 0
+   },
+   {
+      "artist" : "crossworld / obj:Lian",
+      "comment" : "BPM197 乱打",
+      "level" : "5",
+      "md5" : "e5d9c4094ab7c6790e655ed95550a6ba",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "eefae46c38d1530c51d69730184a6b3862d393d2a6b9524a162b07a59c58e48a",
+      "submission" : 1583,
+      "title" : "Theine [GOD]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=135",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05427"
    },
    {
       "artist" : "ROKINA",

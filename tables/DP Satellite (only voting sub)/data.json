@@ -14,6 +14,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Multipleton / Trompeuse",
+      "comment" : "DPAと比較してズレは検出されるが誤差の範囲。",
+      "level" : "2",
+      "md5" : "0880177c0ba654ce0a29cf1fac69eac7",
+      "proposer" : "1coin",
+      "proposerLr2id" : 131827,
+      "sha256" : "a97ded1f8136833cc1466b6365b026ab02e5c738027cf86fdb3d443e7a5bdfe6",
+      "submission" : 576,
+      "title" : "F4C4D3 [DPH]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=112",
+      "url_diff" : "https://w.atwiki.jp/14key/pages/23.html"
+   },
+   {
       "artist" : "EBIMAYO / obj.LetsOTL",
       "comment" : "6~7?、速い",
       "level" : "6",
@@ -26,6 +39,23 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=122&event=116",
       "url_diff" : "https://www.dropbox.com/s/2z8vy3uxubi1thv/_GOODRAGE(DP).zip?dl=0",
       "zureCount" : 0
+   },
+   {
+      "artist" : "作詞・作曲/上野ぱんだ　編曲/ケドメ　絵/るい　歌/初音ミク obj:フォルティッシモ",
+      "level" : "1",
+      "md5" : "2a5fd0ec256acc51bafaadae24b0351a",
+      "proposer" : "JHS",
+      "proposerLr2id" : 128228,
+      "sha256" : "677aea891a3324927a77287236ae8a5df37c764f4b6bdf606e44a05ed6c0c838",
+      "submission" : 405,
+      "title" : "DOLL [DP ANOTHER]",
+      "url" : "https://web.archive.org/web/20151030093509/http://mikihara.cheap.jp/bms/BOF2015/doll_ogg.zip",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04599",
+      "voteNeutral" : 0,
+      "voteNo" : 1,
+      "votePercent" : 80,
+      "voteVersion" : 2,
+      "voteYes" : 4
    },
    {
       "artist" : "adumac / dp131 obj : 71066",
