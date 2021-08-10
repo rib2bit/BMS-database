@@ -79,6 +79,19 @@
       "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html"
    },
    {
+      "artist" : "ダークサンバマスター佐藤 -SATOH- obj:hoi2",
+      "level" : "0",
+      "md5" : "9761f807b9595a80ced1c028d96566af",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "4aab97c49f8e31087dabc78d237cb4037a7da2eb8dea2b39f35b7b9380e5999f",
+      "submission" : 1587,
+      "title" : "ダークサンバランド [Medium Boss]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=417&event=88",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05466",
+      "zureCount" : 0
+   },
+   {
       "artist" : "ZUN remixed by翡乃イスカ / obj:夢瑠",
       "level" : "1",
       "md5" : "a8d8b79e38535d10a68f17a811881820",
@@ -140,6 +153,20 @@
       "title" : "METABOKNIGHT [PIZZA]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=172&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04207",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "SHIKI / obj:Lian",
+      "comment" : "BPM142 連打複合",
+      "level" : "1",
+      "md5" : "f4743e46297acbaa00b837ba23107f6f",
+      "proposer" : "fuko",
+      "proposerMinirid" : "ba0690c9-b068-498b-8f78-4f10295e3e7f",
+      "sha256" : "a879a2f37d6398fa54744f738acca319645aab221c44db0507136237b4434fe4",
+      "submission" : 1588,
+      "title" : "Orfevre -CATACLYSM-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=276&event=123",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05511",
       "zureCount" : 0
    }
 ]

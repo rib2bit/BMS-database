@@ -17,6 +17,31 @@
       "voteYes" : 7
    },
    {
+      "artist" : "Remixed by ⑮ / obj : dfsty BGA:えらる",
+      "level" : "4",
+      "md5" : "15fef4318404488153cf5d33362f31bc",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "e469329c24360300636a2127a4d90808bb5a1175d728d1314984acedb3fb1717",
+      "submission" : 2167,
+      "title" : "TakeTrans [Sightless]",
+      "url" : "http://www.dropbox.com/s/6wxa5c6tmpw40aq/taketrans.rar",
+      "url_diff" : "https://stellabms.xyz/upload/1106",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "CrYmson /差分　赤い人",
+      "level" : "8",
+      "md5" : "1707fb95ad042704d6883f56049235f1",
+      "proposer" : "DJ_Shoko2DX",
+      "proposerMinirid" : "547f7c56-0e6d-41ae-b376-76c0272bce33",
+      "sha256" : "68779330bc42db3e953054bc24b05f2b57c1324ae41fbd0e7c69cfe089319260",
+      "submission" : 2166,
+      "title" : "Revival of Kalpa [HARDEST]",
+      "url" : "https://onedrive.live.com/?id=FC95A680740CA8C9!201&cid=FC95A680740CA8C9",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/RoK_HARDEST.bms"
+   },
+   {
       "artist" : "shimizushi illust:a.a / obj:monaka",
       "comment" : "Last",
       "level" : "7",
@@ -330,6 +355,19 @@
       "submission" : 2127,
       "title" : "Acacia [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=80&event=135",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "otoshi.b",
+      "comment" : "10~11? 皿注意",
+      "level" : "11",
+      "md5" : "d72f9f338eea43ce8a133a692051d39f",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "89d0fb43eec9d8d50f895e2dd7f110604298d44080f63041f300bb4e50eac0e2",
+      "submission" : 2168,
+      "title" : "Fortunate Future [INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=92&event=115",
       "url_diff" : ""
    },
    {
