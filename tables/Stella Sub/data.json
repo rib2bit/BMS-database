@@ -2919,6 +2919,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "SHIKI obj.n",
+      "level" : "1",
+      "md5" : "26b9b7bb2e8059d321d386a3fc66fc2e",
+      "proposer" : "polynya",
+      "proposerLr2id" : 165397,
+      "sha256" : "bacdb4000fe451e643ac4450aa02fac4aebb7db57c55aa2d6e23c78100abf6b3",
+      "submission" : 1589,
+      "title" : "Angelic layer [mildelay]",
+      "url" : "http://shiki2.sakura.ne.jp/",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04864",
+      "zureCount" : 0
+   },
+   {
       "artist" : "うえつ氏 / obj morio",
       "comment" : "ディレイ",
       "level" : "6",

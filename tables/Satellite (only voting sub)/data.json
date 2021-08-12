@@ -149,6 +149,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "KAH BGA:自動車　原付　illust:りゅうら",
+      "level" : "0",
+      "md5" : "42001e5e6faeee1c99781e570e905bad",
+      "proposer" : "ИИ",
+      "proposerLr2id" : 147895,
+      "sha256" : "dceb1600712f5856f83f2c19317cdfed7fe5f8e5402fa1223fed6956ce0bbac8",
+      "submission" : 2172,
+      "title" : "boxiv! on! fight!",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=114&event=127",
+      "url_diff" : ""
+   },
+   {
       "artist" : "siqlo BGA:Miatis 差分:0war1a",
       "comment" : "連打 軸 皿複合",
       "level" : "3",
@@ -174,6 +186,23 @@
       "title" : "U-knighted Servant [7_ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=494&event=133",
       "url_diff" : ""
+   },
+   {
+      "artist" : "P*Light",
+      "level" : "1",
+      "md5" : "61519b432a4912f0b8d3258803b02ea1",
+      "proposer" : "ИИ",
+      "proposerLr2id" : 147895,
+      "sha256" : "5e0c01b043aa1ca7bca77a261a59d49775f8371c9eb8d676214d0d94ecc21af4",
+      "submission" : 1828,
+      "title" : "Poppin' Shower",
+      "url" : "https://onedrive.live.com/?id=FC95A680740CA8C9%21201&cid=FC95A680740CA8C9",
+      "url_diff" : "",
+      "voteNeutral" : 6,
+      "voteNo" : 11,
+      "votePercent" : 46.1538461538462,
+      "voteVersion" : 2,
+      "voteYes" : 9
    },
    {
       "artist" : "klavistr + meropo illust: renren // script: SHITA",
@@ -224,6 +253,18 @@
       "submission" : 2151,
       "title" : "Misty Mountain [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=20&event=135",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "Tetrajectory",
+      "level" : "0",
+      "md5" : "7666ec3dbb20938698970449ce60fa75",
+      "proposer" : "moka",
+      "proposerLr2id" : 167326,
+      "sha256" : "317566cbd374bb50cad533195c37e9ee263b861f617f00c6eac189f828450878",
+      "submission" : 2169,
+      "title" : "Vanishing Glimmer [Gloomy]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=418&event=133",
       "url_diff" : ""
    },
    {
@@ -401,6 +442,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "篠螺悠那",
+      "comment" : "",
+      "level" : "0",
+      "md5" : "e1dfd68aab90337b91e2d107b3b29424",
+      "proposer" : "ИИ",
+      "proposerLr2id" : 147895,
+      "sha256" : "fe2b074a75d6d3fb86836ab786d2288b9306cc5c42006af539f39d771ddd338b",
+      "submission" : 2171,
+      "title" : "物怪舞踏 [Another]",
+      "url" : "https://web.archive.org/web/20190223221633/http://tsubu.ath.cx/~electrogic/bms/mononoke.rar",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Chelp",
       "comment" : "同捆譜面/備考/酷 炫 豪 宅",
       "level" : "0",
@@ -425,6 +479,19 @@
       "title" : "VENUS INVADER [7K SHDMix]",
       "url" : "http://k-bms.com/party_pabat/party2018.jsp?board_num=18&num=1&order=reg&odtype=a",
       "url_diff" : ""
+   },
+   {
+      "artist" : "U-hey respect for U2 obj:STRADA",
+      "level" : "12",
+      "md5" : "ea310efc84c6462be6febece101269d0",
+      "proposer" : "moka",
+      "proposerLr2id" : 167326,
+      "sha256" : "88f5b872c2cec97d81e4c8b9350318ad408851d5223b2ef0823b0b014d802eda",
+      "submission" : 2170,
+      "title" : "Missing Ogre(bms edit) [Missing Power]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=102",
+      "url_diff" : "http://absolute.pv.land.to/uploader/src/up6658.zip",
+      "zureCount" : 0
    },
    {
       "artist" : "PASS (obj.mp)",
