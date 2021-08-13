@@ -118,6 +118,23 @@
       "zureCount" : 0
    },
    {
+      "artist" : "-45 / obj:夢瑠",
+      "level" : "3",
+      "md5" : "d68d9c174bc83aa0580f0ae13f01bc5e",
+      "proposer" : "ふかけん",
+      "proposerLr2id" : 145204,
+      "sha256" : "a338a00dc928d5771da5e051ff3aac3be999bf01b81b003a913f98801e532e0c",
+      "submission" : 1013,
+      "title" : "The SunLight -aletheia-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=226&event=74",
+      "url_diff" : "http://yumerusabun.web.fc2.com/nue.html",
+      "voteNeutral" : 0,
+      "voteNo" : 0,
+      "votePercent" : 100,
+      "voteVersion" : 2,
+      "voteYes" : 5
+   },
+   {
       "artist" : "crossworld / obj:Lian",
       "comment" : "BPM197 乱打",
       "level" : "5",
