@@ -105,6 +105,19 @@
       "url_diff" : "https://drive.google.com/file/d/1mL9g31UwPsL_d7G7c_vAkkISaxIZP6dS/view?usp=sharing"
    },
    {
+      "artist" : "Jun Kuroda feat.mirto / Limite",
+      "level" : "3",
+      "md5" : "058922a838838d529da9766a2f683b84",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "03b2c93702c7dc206801d8489a87e88a36c0267ff0992805e50a975d501299c6",
+      "submission" : 579,
+      "title" : "藍より青い憧憬",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=70&event=133",
+      "url_diff" : "https://www.limiteknj.net/BMS/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Yu^ta/obj:LLL",
       "comment" : "2~3? 乱打",
       "level" : "3",
@@ -521,6 +534,19 @@
       "submission" : 246,
       "title" : "The Last Page [DP INSANE]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=163&event=127",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "Is-m/steelyvibe BGA:q/stol",
+      "comment" : "同梱譜面",
+      "level" : "0",
+      "md5" : "1706ce9300f42a8989e68f8124076bda",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "1ef1303c5243b5031748009106399ace30aa67e2cd210197f01223e2720913b8",
+      "submission" : 578,
+      "title" : "Fanciful False -DP HYPER-",
+      "url" : "https://bms.kyouko.moe/torrent/BMS_Library/",
       "url_diff" : ""
    },
    {
@@ -1357,6 +1383,19 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=83",
       "url_diff" : "http://favo.kitchen/bms/",
       "zureCount" : 0
+   },
+   {
+      "artist" : "atmbzk (obj : iremiha)",
+      "comment" : "同梱譜面",
+      "level" : "0",
+      "md5" : "32c4eb544798251f227dd58c7c1ee5a8",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "f2b21e1f4267afd365d3782808172977d442008a0af01e31b37981a83a8e4a3f",
+      "submission" : 580,
+      "title" : "062020 [14KEYS HYPER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=205&event=133",
+      "url_diff" : ""
    },
    {
       "artist" : "削除 feat. Nikki Simmons Movie:Radiocity&yoshimo / obj:Starfish",
@@ -6366,6 +6405,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Good Loosers obj:Yosk!",
+      "comment" : "extra key sounds",
+      "level" : "0",
+      "md5" : "e6daf926c0cf0bac383e7e24e09494da",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "f673d372718af8befb3fdfe7c9292b7651cc31207852253e9e91b0eaf2ae3eee",
+      "submission" : 577,
+      "title" : "タキオン",
+      "url" : "https://dropbox.bms.ms/u/59466043/BMS/[Good_Loosers]Tachyon.zip",
+      "url_diff" : "http://nekokan.dyndns.info/~lobsak/genocide/grade.html"
+   },
+   {
       "artist" : "雨漏りP obj:Gypsy",
       "level" : "0",
       "md5" : "e6f267c44ec3330ff6d88bb1b535f76f",
@@ -6674,6 +6726,19 @@
       "title" : "Comet (BMS Edit) [DP ANOTHER]",
       "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=38&order=reg&odtype=a",
       "url_diff" : "",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "qfeileadh feat.kei_iwata mov:e381b5e38187e38184e38286e3818ae38186 / obj. 0ne",
+      "level" : "12",
+      "md5" : "f2659eb48724603adf9e548ec9be5c04",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "757feaad13f80ae6468a0038fb89d4e638be74058fcecd41d64b847c80f7c286",
+      "submission" : 581,
+      "title" : "whence [DP FingerDance]",
+      "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=21&num=38&order=reg&odtype=a",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/1138",
       "zureCount" : 0
    },
    {
