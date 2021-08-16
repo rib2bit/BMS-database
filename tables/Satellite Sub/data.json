@@ -14876,6 +14876,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "yassu obj:SUZUKAZEΛ",
+      "level" : "2",
+      "md5" : "7d74a8fedd944a0241926fc6fa823dee",
+      "proposer" : "10c*",
+      "proposerLr2id" : 170055,
+      "sha256" : "00ad18a0cdd0a60d99916d5a6b618d3aea2d80e79364e7602aeab8cd5db4e339",
+      "submission" : 2174,
+      "title" : "Memories of Sky －2018－ [ZOI]",
+      "url" : "https://www.dropbox.com/s/hl1c9cb5s2lrsyn/yassu_memories_2018.rar?dl=1",
+      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+      "zureCount" : 0
+   },
+   {
       "artist" : "otoshi.b Movie:Arishima_Caprico",
       "comment" : "",
       "level" : "6",
@@ -27826,6 +27839,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "マッピーJr",
+      "comment" : "同時押し、皿複合",
+      "level" : "0",
+      "md5" : "eba66d0e1665be256dd6e7b9c0203361",
+      "proposer" : "Yozora",
+      "proposerMinirid" : "4c16cc28-11d8-406c-9a4f-17230a91074e",
+      "sha256" : "689e6d0936eb379945f6ae45f43bc4c139a844859114cbc22362cf315751d3a8",
+      "submission" : 2175,
+      "title" : "Trespassing Evening [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=533&event=110",
+      "url_diff" : ""
    },
    {
       "artist" : "sak feat.現流",
