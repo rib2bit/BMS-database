@@ -135,6 +135,23 @@
       "voteYes" : 5
    },
    {
+      "artist" : "kei iwata/xenothium",
+      "level" : "6",
+      "md5" : "d7cae692a376eaeaa6355c8d2fa3d73b",
+      "proposer" : "ふかけん",
+      "proposerLr2id" : 145204,
+      "sha256" : "259f81dd6609b18b7c58b48ffc6fe87ef4a61e0909612c45a7a31529de2a78a4",
+      "submission" : 1094,
+      "title" : "CODE-F -soar to the Frontier- [frontier]",
+      "url" : "http://flowermaster.web.fc2.com/iwatabms/index.html",
+      "url_diff" : "",
+      "voteNeutral" : 2,
+      "voteNo" : 1,
+      "votePercent" : 66.6666666666667,
+      "voteVersion" : 2,
+      "voteYes" : 3
+   },
+   {
       "artist" : "梅干茶漬け obj:1008",
       "level" : "7",
       "md5" : "dd86cacef821bae7aca05bdbea4e5b22",

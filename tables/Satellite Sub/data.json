@@ -1268,6 +1268,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "⑮/obj:仙人掌の人 BGA:えらる",
+      "level" : "11",
+      "md5" : "086127340430d05e483a697a6d87ce23",
+      "proposer" : "USB-MSbsh",
+      "proposerLr2id" : 173103,
+      "sha256" : "9da5981ff7388a728c7cea01006a4a0bf9bcda303e07cb7e7c175e63acecc71b",
+      "submission" : 2177,
+      "title" : "Don't rewinD",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=231&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00127",
+      "zureCount" : 0
+   },
+   {
       "artist" : "litmus* / obj.7zs",
       "level" : "10",
       "md5" : "08cd57615b032334aea711bff8392254",
@@ -9921,6 +9934,19 @@
       "title" : "Breeze [BITTER7]",
       "url" : "https://venue.bmssearch.net/bmsshuin2/92",
       "url_diff" : ""
+   },
+   {
+      "artist" : "Orange Strophe",
+      "comment" : "同梱",
+      "level" : "12",
+      "md5" : "5259bb4517b40a9752f6bc07aae18ab9",
+      "proposer" : "USB-MSbsh",
+      "proposerLr2id" : 173103,
+      "sha256" : "7530d95aa55c295314b9ff6d92f7fdcee6e574430a05512a0b6fd3459e705603",
+      "submission" : 2176,
+      "title" : "edelweiss (bms edit) [DELAY]",
+      "url" : "http://web.archive.org/web/20140121124023/http://neoarre.aquz.biz/bms/3rd/edelweiss.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01215"
    },
    {
       "artist" : "VeetaCrush mov NichRabbit / obj AZVW_2 & Gengetsu",
