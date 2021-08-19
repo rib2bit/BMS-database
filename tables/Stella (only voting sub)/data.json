@@ -53,6 +53,19 @@
       "url_diff" : "https://fsrs.github.io/table.html"
    },
    {
+      "artist" : "straw / obj:LIEF",
+      "level" : "0",
+      "md5" : "447d1d660f7539a2b97e9a263a655aff",
+      "proposer" : "USB-MSbsh",
+      "proposerLr2id" : 173103,
+      "sha256" : "c1389512ede727fe196932cd6c2ede89adbd82ef67d87d5fa8a08819251b8221",
+      "submission" : 1591,
+      "title" : "朝寝坊→超高速恋慕少女 [超]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=230&event=96",
+      "url_diff" : "http://www.dropbox.com/s/q1rv5zojup7s1r4/asanebou_lief7.bme?dl=1",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Umiai / obj:夢瑠",
       "level" : "3",
       "md5" : "746df7f401bd7520d4dda5c503b766b7",
@@ -115,6 +128,19 @@
       "title" : "Bloody Scarlet Nightmare [yumether]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=102",
       "url_diff" : "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "Trish / И Movie:Vergil",
+      "level" : "2",
+      "md5" : "bcc6cd83b75155549139cf7f0ca9251c",
+      "proposer" : "USB-MSbsh",
+      "proposerLr2id" : 173103,
+      "sha256" : "c8673fd07a7e64f075e045d2c7c838a074008b596068e5905c4a23fb656f2c3f",
+      "submission" : 1592,
+      "title" : "Blooming [7key Sunflower]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=91",
+      "url_diff" : "https://bms.parksulab.xyz",
       "zureCount" : 0
    },
    {
