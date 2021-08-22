@@ -3397,7 +3397,7 @@
    {
       "artist" : "あとぅす feat.つゆり花鈴 BGI:りーふぱいザウルス",
       "comment" : "第三回BMS衆議院選",
-      "level" : "9",
+      "level" : "10",
       "md5" : "39451b7b2ef9310b5d9685c07fb2fd42",
       "proposer" : "隻腕",
       "sha256" : "3ff806be6e29eb11641b2a9ebcaf6051c64eb470dd1c5b62fb111060b88ed29b",
@@ -4641,7 +4641,7 @@
    {
       "artist" : "kozato / obj:C4",
       "comment" : "HARD判定、別傾向な地力譜面",
-      "level" : "6",
+      "level" : "5",
       "md5" : "4cd11865d33ca347dbbfba3f90480e4d",
       "proposer" : "鷺沢文香",
       "sha256" : "30d0dc3bdc44c4ac0fff34ec3ce4119aaefa7f5ef735335fa7379016da3d39fc",
@@ -8425,7 +8425,7 @@
    {
       "artist" : "シィナ × A.M. obj:Mary_Sue",
       "comment" : "",
-      "level" : "8",
+      "level" : "7",
       "md5" : "8d5f4dac753571c8d448463dc9302406",
       "proposer" : "Restia",
       "sha256" : "452d51565f37de816082c135a36ef9d565e7e4527a69910af6a51947c9d937ac",
@@ -14559,6 +14559,18 @@
       "title" : "Exploring the blue sky [Li]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=101",
       "url_diff" : "https://obju.web.fc2.com/BOB2015/BOB2015_k_2_3_E.html"
+   },
+   {
+      "artist" : "Kanata.S feat.Salita BGA:アカツキユウ OBJ:Restia",
+      "comment" : "from Stella",
+      "level" : "12",
+      "md5" : "f0dc5e4a4c8351e915567f49d14eb718",
+      "proposer" : "LUXURY♪",
+      "sha256" : "e06f1c776bf6bb56cfd55583d58e418333d9cb3b62f01829b50c62b714a4914e",
+      "submission" : 2181,
+      "title" : "片翼のライカ [超越者]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=24&event=98",
+      "url_diff" : "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view?usp=sharing"
    },
    {
       "artist" : "Nurm/さ BGA:Roaring Flame",

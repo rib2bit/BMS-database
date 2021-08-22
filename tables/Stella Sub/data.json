@@ -16,6 +16,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "keyc/さ",
+      "comment" : "43.5,51.5のキー音(#WAV2A)が#WAV29で分割されましたのでズレなし",
+      "level" : "4",
+      "md5" : "003cdfadaf22dade9cccd3ae0d814317",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "bc6d6644cbdf9901e740dad0e503356157feb44429c10ecbe0d28423d8f154cb",
+      "submission" : 1597,
+      "title" : "dolls wish... [EX]",
+      "url" : "https://bms.kyouko.moe/torrent/BMS_Library/dolls%20wish.%20(by%20keyc).rar",
+      "url_diff" : "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/"
+   },
+   {
       "artist" : "LeaF Movie:想起 / Illust:セシル◇タイト/obj:赤い人",
       "level" : "3",
       "md5" : "0043b90b1d96234cb8f72518ae2d6681",
@@ -777,7 +790,7 @@
    {
       "artist" : "silcostones",
       "comment" : "縦連トレーニングだ!!!!!!!!!!",
-      "level" : "3",
+      "level" : "4",
       "md5" : "0accf0a451eda7adf2b6ac8242b4830d",
       "proposer" : "LUXURY",
       "sha256" : "f49c303a5961eeb9d6fd89d0e64faad7abc25d733cb56a91219c539beca61f2a",
@@ -1635,6 +1648,19 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "SHIKI/-45/obj:qfeileadh",
+      "comment" : "total is very high, technically it's st8",
+      "level" : "7",
+      "md5" : "15cff55bf011ac0542b19f9b113d2c92",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "d4fabfdfe1b8cf7dc2315859508a19c20f10f6dd6271997bb0795a8a6c4817e7",
+      "submission" : 1601,
+      "title" : "SEPIA -reminisce-",
+      "url" : "http://shiki2.sakura.ne.jp/fohs.html",
+      "url_diff" : "https://stellabms.xyz/upload/1072"
    },
    {
       "artist" : "uma feat. ましろ / selene.",
@@ -3426,6 +3452,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "山田名人 obj.hex",
+      "comment" : "BPM125 マッチョ系ガチ押し",
+      "level" : "1",
+      "md5" : "2b6640d408f8a7f10bea55b35d8f82f5",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "c7fc323ae152e42e43f807347dfb3f2de2a231eb54c24ef6f39a7bf331af889c",
+      "submission" : 1606,
+      "title" : "Tangerine Dawn -IR-",
+      "url" : "https://drive.google.com/file/d/1YyhoIQEKT930DfZpVOwGIPCdLVKvVOzS/view?usp=sharing",
+      "url_diff" : "https://darksabun.github.io/event/irbattle/"
+   },
+   {
       "artist" : "litmus* obj.maco:j",
       "comment" : "高速",
       "level" : "5",
@@ -4176,6 +4215,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "kyou1110 + Takuya Namba / OBJ : Mary_Sue / BGI:morph + 空読無 白眼",
+      "level" : "2",
+      "md5" : "3450980c996be99f58926660fb0f4c0b",
+      "proposer" : "polynya_",
+      "proposerLr2id" : 173260,
+      "sha256" : "89e8b82739286884b5bb14c4d14492124b9588bca9571c470a998abf26bd4426",
+      "submission" : 1603,
+      "title" : "7/8→6/8→7/8→6/8→7/8→6/8→17/16→10/8→3/4→7/8→14/16→6/8→9/8→4/4→7/8→6/8→12/16→7/4→4/4→13/16→5/8→3/4→14/16→4/4→14/16→10/16→5/16→7/8→3/4→11/16→7/8→3/4→9/8→7/8→4/4→3/4→5/4→7/8→3/8 [オサレ]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=120&event=127",
+      "url_diff" : "https://darksabun.github.io/event/irbattle/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "カラフル・サウンズ・ポート/mov:むらしん/obj:赤い人",
       "comment" : "DDEELLAAYY",
       "level" : "4",
@@ -4215,6 +4267,19 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=123",
       "url_diff" : "https://stellabms.xyz/upload/1007",
       "zureCount" : 0
+   },
+   {
+      "artist" : "ARMYTOM (Atomic Sphere) / obj : Mary_Sue",
+      "comment" : "BPM155 微連打",
+      "level" : "2",
+      "md5" : "34c64b9c1844d77e3fa29e30398b9c7f",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "2ed65ffac67adcbf6f91782e7b68858b2122bb690de4c76b56454f7c8a5a6cf1",
+      "submission" : 1595,
+      "title" : "GRAB BACK [Maryther]",
+      "url" : "https://mega.nz/file/qllhBSRb#Ed-GnmT3xmLVbJyM9TgylAlfDa-Gz6v0JZcJNCeDwMM",
+      "url_diff" : "https://darksabun.github.io/Mary_Sue/"
    },
    {
       "artist" : "kanone BGA:Eicar Shigino",
@@ -8215,6 +8280,20 @@
       "url_diff" : "https://drive.google.com/open?id=1A3oZPO_GMV4_NZ1DpkhWauyaoXdkMl8Y"
    },
    {
+      "artist" : "toby fox Remixed by uet / obj : LindBlum BGI : morph",
+      "comment" : "stream, chords",
+      "level" : "4",
+      "md5" : "5f3b47af4b0cbe42bdf2f2a6337caeef",
+      "proposer" : "歳納京子",
+      "proposerLr2id" : 75332,
+      "sha256" : "d8342ac22f6c1b36c262f9e5dc22f4031b6636749d28809447d4c0da10408605",
+      "submission" : 1605,
+      "title" : "Spider Dance(METTAMETA Remix) -Xe-",
+      "url" : "http://beatmaniauet.sakura.ne.jp/BMS/uet_spiderdancermx_ogg.zip",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01828",
+      "zureCount" : 0
+   },
+   {
       "artist" : "orangentle / deadblue238 / obj:夢瑠",
       "level" : "0",
       "md5" : "5f4eac4c5f1db4e86b43f846bf6476f4",
@@ -8922,7 +9001,7 @@
    {
       "artist" : "SUKE underground",
       "comment" : "BPM148 連打",
-      "level" : "1",
+      "level" : "0",
       "md5" : "66ad18dc4b94085c87324b757286755b",
       "proposer" : "SHAX.",
       "proposerLr2id" : 65624,
@@ -9858,6 +9937,20 @@
       "url_diff" : "https://stellabms.xyz/upload/140"
    },
    {
+      "artist" : "黒木鳴海 Illust:アカツキユウ / selene.",
+      "comment" : "0noteとズレなし",
+      "level" : "4",
+      "md5" : "70cb09f3c2b58e8e49e28d481aa9435c",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "55bcb2f251b45ea53ebb5786ecf667d8336ff50e85f12f303247ac01c73166ee",
+      "submission" : 1596,
+      "title" : "Be More Sadistic! (BMS Edit) -Genocide-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=30&event=132",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04658",
+      "zureCount" : 0
+   },
+   {
       "artist" : "立秋 feat.ちょこ / obj:七海",
       "comment" : "st1 or 0?",
       "level" : "1",
@@ -10436,6 +10529,20 @@
       "title" : "シグナルほっぴんぐ -(^-^)/-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=190&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04329",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "Tetrajectory feat. Ctymax",
+      "comment" : "This Bear... (East@st4; Hard@st5~6)",
+      "level" : "4",
+      "md5" : "7809898376079d1d00af68426d050646",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "b7701feadc9905063533354d83d58c969a6eee54e1bde29d7eef97c392b86fe4",
+      "submission" : 1599,
+      "title" : "Cipher : /2&//<|0 [/>/w/</]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=297&event=123",
+      "url_diff" : "https://darksabun.github.io/event/irbattle/",
       "zureCount" : 0
    },
    {
@@ -11878,6 +11985,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "sky_delta",
+      "level" : "0",
+      "md5" : "8a971d1bda0a654f87fc4225014cea5c",
+      "proposer" : "Mary_Sue",
+      "proposerLr2id" : 147889,
+      "sha256" : "340ac1aad1e4f20ac2967993657dec7bc62858e32949a274f963c0bec73ace8e",
+      "submission" : 1607,
+      "title" : "Earthlight [GOD]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=497&event=110",
+      "url_diff" : "https://bms.hexlataia.xyz/mirror/gnqg-upload/02532.zip",
+      "zureCount" : 0
+   },
+   {
       "artist" : "HYPER HYBRID(\"HYPER\" MSMcorp. vs \"HYPER\" RYO-K) obj : LindBlum",
       "comment" : "高速物量",
       "level" : "6",
@@ -12769,7 +12889,7 @@
    {
       "artist" : "Music:xi / DTX:水月 / BMS:nov obj.hex",
       "comment" : "AnzuBMSDiffTool로 검사 시 즈레 없음",
-      "level" : "1",
+      "level" : "2",
       "md5" : "93be82ee6df8a74e2c111c975270f65e",
       "proposer" : "♪♪",
       "proposerLr2id" : 7290,
@@ -12881,6 +13001,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "syrela obj.hex",
+      "comment" : "乱打、ズレ、微連打 st3-4? ",
+      "level" : "4",
+      "md5" : "94dd053331872ee0fcb858d86cefee74",
+      "proposer" : "もにもに",
+      "proposerLr2id" : 61019,
+      "sha256" : "e97c8de6701d4df136399075eb84d00ba1a5aa7c1f4d2c5ffcf375341af55e90",
+      "submission" : 1598,
+      "title" : "Valentine Memory [Hexagon]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=165&event=116",
+      "url_diff" : "https://bms.hexlataia.xyz/tables/hexajoy.html",
+      "zureCount" : 0
    },
    {
       "artist" : "七草くりむ mov.都森れん obj.Mary_Sue",
@@ -13468,6 +13602,20 @@
       "title" : "Catalyst [Other]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=108",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00558",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "ああああ / obj.7zs",
+      "comment" : "BPM133 ガチ押し ディレイ",
+      "level" : "6",
+      "md5" : "9bd201347125207b7acee0310a4d937b",
+      "proposer" : "垢伴次郎",
+      "proposerMinirid" : "39fcf843-3931-4605-a729-2f3f61d0970b",
+      "sha256" : "a59ee05b2e0b4492cf15fd438ba99800ded62941134c95875a2149984169be18",
+      "submission" : 1602,
+      "title" : "あＡアぁ亜ａァ [Forgotten Hero]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=43&event=60",
+      "url_diff" : "http://gnqg.rosx.net/upload/",
       "zureCount" : 0
    },
    {
@@ -14304,6 +14452,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Juno BGI : Sierra pattern for some reason + И",
+      "comment" : "beyond the reason",
+      "level" : "8",
+      "md5" : "a4c20fb7342ec43979c0ebe2570bd4ae",
+      "proposer" : "もにもに",
+      "proposerLr2id" : 61019,
+      "sha256" : "8b80f07ff081e4a81fb8e6ea973bc1221eb646c2d13a10df36370708457f5421",
+      "submission" : 1600,
+      "title" : "Reason [without reason]",
+      "url" : "https://dropbox.bms.ms/u/59988778/Juno%20-%20Reason.zip",
+      "url_diff" : "https://darksabun.github.io/event/irbattle/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Sampling Challenger BYTE / obj : Mary_Sue",
       "comment" : "全押し★大好き（빅장★조~아)",
       "level" : "2",
@@ -14848,6 +15010,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "ファントムP VS yoa / obj. laner Vocal&Chorus:Protects+1",
+      "comment" : "_meloncreamsoda_7d.bme基準ズレなし。",
+      "level" : "1",
+      "md5" : "aba76766b04923e8330119e030139961",
+      "proposer" : "Mary_Sue",
+      "proposerLr2id" : 147889,
+      "sha256" : "401142c5f5cd5a6171ae5a4a56e506d63ad68d79f535198929af89e3f2dd2918",
+      "submission" : 1608,
+      "title" : "メロンクリームソーダ概論 [wide]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=20&event=88",
+      "url_diff" : "https://web.archive.org/web/20190322230138/http://www.hyper-laner.com/sabun/all201807_laner.rar"
+   },
+   {
       "artist" : "syatten + 140 obj:Icyc1e",
       "comment" : "kachifushi",
       "level" : "3",
@@ -15367,6 +15542,19 @@
       "title" : "ReviXy -DespAir",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=179&event=123",
       "url_diff" : "https://www.dropbox.com/s/x9wkea5fja06z8i/ReviXy_nanami01.bms?dl=0"
+   },
+   {
+      "artist" : "DJ TAKAHIRO obj.7zs",
+      "comment" : "There is a misalignment due to the addition of a gimmick.",
+      "level" : "1",
+      "md5" : "b0f82b59f9fdaa5b4ac5caa4f973be83",
+      "proposer" : "歳納京子",
+      "proposerLr2id" : 75332,
+      "sha256" : "f34f5603e52287332a475549e5702863000b0ca016c16570122e88de0ab57237",
+      "submission" : 1604,
+      "title" : "hot_coco@ [c@ffe l@tte]",
+      "url" : "http://www.dropbox.com/s/rtfwbkw7bvd40ic/dj_takahiro_hot_cocoa.zip?dl=1",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02116"
    },
    {
       "artist" : "er",
@@ -17788,7 +17976,7 @@
    {
       "artist" : "ROKINA / C4 vs selene.",
       "comment" : "滅ぼされた次元",
-      "level" : "12",
+      "level" : "11",
       "md5" : "cfc197a4a61a57fe03a860f03b613d3a",
       "proposer" : "スノート",
       "proposerLr2id" : 86393,
@@ -19138,7 +19326,7 @@
    },
    {
       "artist" : "梅干茶漬け obj:1008",
-      "level" : "7",
+      "level" : "8",
       "md5" : "dd86cacef821bae7aca05bdbea4e5b22",
       "proposer" : "歳納京子",
       "proposerLr2id" : 75332,
@@ -20766,20 +20954,6 @@
       "voteYes" : 0
    },
    {
-      "artist" : "Kanata.S feat.Salita BGA:アカツキユウ OBJ:Restia",
-      "comment" : "同時押し",
-      "level" : "0",
-      "md5" : "f0dc5e4a4c8351e915567f49d14eb718",
-      "proposer" : "MarySue",
-      "proposerLr2id" : 147889,
-      "sha256" : "e06f1c776bf6bb56cfd55583d58e418333d9cb3b62f01829b50c62b714a4914e",
-      "submission" : 1185,
-      "title" : "片翼のライカ [超越者]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=24&event=98",
-      "url_diff" : "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view?usp=sharing",
-      "zureCount" : 0
-   },
-   {
       "artist" : "Judah BGA:Lucifer obj:VINYL",
       "comment" : "高速乱打 no misalignment",
       "level" : "8",
@@ -20880,7 +21054,7 @@
    {
       "artist" : "silcostones obj:Guanacoite",
       "comment" : "微縦連トレーニングだ!!!!!!!!!!",
-      "level" : "2",
+      "level" : "3",
       "md5" : "f3242efa149acd3ccd92a3a79af38c02",
       "proposer" : "歳納京子",
       "proposerLr2id" : 75332,
