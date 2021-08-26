@@ -90,19 +90,6 @@
       "url_diff" : "https://darksabun.github.io/event/irbattle/"
    },
    {
-      "artist" : "kyou1110 + Takuya Namba / OBJ : Mary_Sue / BGI:morph + 空読無 白眼",
-      "level" : "2",
-      "md5" : "3450980c996be99f58926660fb0f4c0b",
-      "proposer" : "polynya_",
-      "proposerLr2id" : 173260,
-      "sha256" : "89e8b82739286884b5bb14c4d14492124b9588bca9571c470a998abf26bd4426",
-      "submission" : 1603,
-      "title" : "7/8→6/8→7/8→6/8→7/8→6/8→17/16→10/8→3/4→7/8→14/16→6/8→9/8→4/4→7/8→6/8→12/16→7/4→4/4→13/16→5/8→3/4→14/16→4/4→14/16→10/16→5/16→7/8→3/4→11/16→7/8→3/4→9/8→7/8→4/4→3/4→5/4→7/8→3/8 [オサレ]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=120&event=127",
-      "url_diff" : "https://darksabun.github.io/event/irbattle/",
-      "zureCount" : 0
-   },
-   {
       "artist" : "ARMYTOM (Atomic Sphere) / obj : Mary_Sue",
       "comment" : "BPM155 微連打",
       "level" : "2",
@@ -116,16 +103,16 @@
       "url_diff" : "https://darksabun.github.io/Mary_Sue/"
    },
    {
-      "artist" : "straw / obj:LIEF",
+      "artist" : "nmk feat.橘花音 Guitar:はらたま BGA:わっふゑ obj:七海千秋",
       "level" : "0",
-      "md5" : "447d1d660f7539a2b97e9a263a655aff",
-      "proposer" : "USB-MSbsh",
-      "proposerLr2id" : 173103,
-      "sha256" : "c1389512ede727fe196932cd6c2ede89adbd82ef67d87d5fa8a08819251b8221",
-      "submission" : 1591,
-      "title" : "朝寝坊→超高速恋慕少女 [超]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=230&event=96",
-      "url_diff" : "http://www.dropbox.com/s/q1rv5zojup7s1r4/asanebou_lief7.bme?dl=1",
+      "md5" : "4176c20c968432baf65b6659595db739",
+      "proposer" : "Mary_Sue",
+      "proposerLr2id" : 147889,
+      "sha256" : "45c9591833f418825546329d9b3c3f239e5dd3bd56a5129d743a9fcf85f85f34",
+      "submission" : 1613,
+      "title" : "永劫綺譚の純潔葬花 -Despair-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=202&event=116",
+      "url_diff" : "https://www.dropbox.com/s/dbl4uax4thlb1u9/_junketu_nanami01.bms?dl=0",
       "zureCount" : 0
    },
    {
@@ -226,6 +213,20 @@
       "url_diff" : "https://web.archive.org/web/20190322230138/http://www.hyper-laner.com/sabun/all201807_laner.rar"
    },
    {
+      "artist" : "S.S.D. Arranged by Y.W / obj. laner",
+      "comment" : "同時押し 連打",
+      "level" : "3",
+      "md5" : "acfbf9f671497b20b7226754beba4fc6",
+      "proposer" : "fuko",
+      "proposerMinirid" : "ba0690c9-b068-498b-8f78-4f10295e3e7f",
+      "sha256" : "f0c944870f6e3762ca6c8858cb3402ef81956099139de4a71a81ceee55058d08",
+      "submission" : 1612,
+      "title" : "トレジャーフェスティバル!!! [wide]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=107",
+      "url_diff" : "https://web.archive.org/web/20190322230215id_/https://www.hyper-laner.com/sabun/treasure_festival-7a_laner.bme",
+      "zureCount" : 0
+   },
+   {
       "artist" : "DJ TAKAHIRO obj.7zs",
       "comment" : "There is a misalignment due to the addition of a gimmick.",
       "level" : "1",
@@ -237,19 +238,6 @@
       "title" : "hot_coco@ [c@ffe l@tte]",
       "url" : "http://www.dropbox.com/s/rtfwbkw7bvd40ic/dj_takahiro_hot_cocoa.zip?dl=1",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02116"
-   },
-   {
-      "artist" : "Trish / И Movie:Vergil",
-      "level" : "2",
-      "md5" : "bcc6cd83b75155549139cf7f0ca9251c",
-      "proposer" : "USB-MSbsh",
-      "proposerLr2id" : 173103,
-      "sha256" : "c8673fd07a7e64f075e045d2c7c838a074008b596068e5905c4a23fb656f2c3f",
-      "submission" : 1592,
-      "title" : "Blooming [7key Sunflower]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=91",
-      "url_diff" : "https://bms.parksulab.xyz",
-      "zureCount" : 0
    },
    {
       "artist" : "-45 / obj:夢瑠",

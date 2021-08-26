@@ -1,18 +1,5 @@
 [
    {
-      "artist" : "⑮/obj:仙人掌の人 BGA:えらる",
-      "level" : "11",
-      "md5" : "086127340430d05e483a697a6d87ce23",
-      "proposer" : "USB-MSbsh",
-      "proposerLr2id" : 173103,
-      "sha256" : "9da5981ff7388a728c7cea01006a4a0bf9bcda303e07cb7e7c175e63acecc71b",
-      "submission" : 2177,
-      "title" : "Don't rewinD",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=231&event=110",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00127",
-      "zureCount" : 0
-   },
-   {
       "artist" : "hurirai BGA:hrchem",
       "level" : "3",
       "md5" : "0fe696ac60e831fc111285d6099eadbb",
@@ -80,19 +67,6 @@
       "url" : "http://yellowmapleleaf.com/",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05513",
       "zureCount" : 0
-   },
-   {
-      "artist" : "Orange Strophe",
-      "comment" : "同梱",
-      "level" : "12",
-      "md5" : "5259bb4517b40a9752f6bc07aae18ab9",
-      "proposer" : "USB-MSbsh",
-      "proposerLr2id" : 173103,
-      "sha256" : "7530d95aa55c295314b9ff6d92f7fdcee6e574430a05512a0b6fd3459e705603",
-      "submission" : 2176,
-      "title" : "edelweiss (bms edit) [DELAY]",
-      "url" : "http://web.archive.org/web/20140121124023/http://neoarre.aquz.biz/bms/3rd/edelweiss.rar",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01215"
    },
    {
       "artist" : "Yosk! / И",
@@ -367,19 +341,6 @@
       "url_diff" : "https://darksabun.github.io/event/irbattle/"
    },
    {
-      "artist" : "sugar BGI : なぎうなぎ / Logo : LOTUS / obj:SUZUKAZEΛ",
-      "level" : "4",
-      "md5" : "be4d3db13ff9f1c9158ea9e8dd884f8f",
-      "proposer" : "polynya_",
-      "proposerLr2id" : 173260,
-      "sha256" : "96ea9e8ebb79d004bb9e72d8317f4796d3c0cd76a323c2074d98d33882a77728",
-      "submission" : 2189,
-      "title" : "Zeitfluss [ZOI]",
-      "url" : "https://venue.bmssearch.net/bmsshuin2/9",
-      "url_diff" : "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
-      "zureCount" : 0
-   },
-   {
       "artist" : "ProjectG obj:Scely",
       "level" : "3",
       "md5" : "db73e0de15bb1c96d4dd4791ff2950d0",
@@ -434,19 +395,6 @@
       "title" : "Missing Ogre(bms edit) [Missing Power]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=102",
       "url_diff" : "http://absolute.pv.land.to/uploader/src/up6658.zip",
-      "zureCount" : 0
-   },
-   {
-      "artist" : "raii / obj:Lorse",
-      "level" : "12",
-      "md5" : "eb7dfdcc89dee36e55bb75bc438361b8",
-      "proposer" : "polynya_",
-      "proposerLr2id" : 173260,
-      "sha256" : "da78b86e83c9c42addab24e39f6247604c8c24c31f6954e3c4a0400f35634124",
-      "submission" : 2190,
-      "title" : "Disordered Moon [Mare Serenitatis]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=45&event=118",
-      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01444",
       "zureCount" : 0
    },
    {
