@@ -30,6 +30,20 @@
       "zureCount" : 0
    },
    {
+      "artist" : "litmus* Obj.Triforce",
+      "comment" : "",
+      "level" : "3",
+      "md5" : "3611348eb923bfd666e83abc867569dd",
+      "proposer" : "ИИ",
+      "proposerLr2id" : 147895,
+      "sha256" : "e0c10b392f1d298a6453c1b28a41f786d3bb7b369f550f476c13ade57d9d0334",
+      "submission" : 2191,
+      "title" : "Bliss [Nemesis]",
+      "url" : "https://drive.google.com/file/d/1l9m24QwDKTDpYd6Ur-TtYQwj_5Ch57Fd/view?usp=sharing",
+      "url_diff" : "https://trfce.github.io/sabun/(136)bliss_triforce.zip",
+      "zureCount" : 0
+   },
+   {
       "artist" : "クワガタ feat. 鳳梨みこ",
       "comment" : "",
       "level" : "1",
@@ -178,19 +192,6 @@
       "votePercent" : 52.0833333333333,
       "voteVersion" : 2,
       "voteYes" : 10
-   },
-   {
-      "artist" : "TamaDo feat.初音ミク",
-      "comment" : "皿複合, 乱打, 連打",
-      "level" : "2",
-      "md5" : "73c5a6506dbc59ea4a84cefc32508e78",
-      "proposer" : "polynya",
-      "proposerLr2id" : 165397,
-      "sha256" : "05cffd79054f74afac000da2d87eaf118cd0cf484fa08dcce85155ab7db3669e",
-      "submission" : 2136,
-      "title" : "払暁の翼 [ANOTHER]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=239&event=133",
-      "url_diff" : ""
    },
    {
       "artist" : "Chino obj.screw",
@@ -409,20 +410,6 @@
       "title" : "Trespassing Evening [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=533&event=110",
       "url_diff" : ""
-   },
-   {
-      "artist" : "PASS (obj.mp)",
-      "comment" : "氐TOTAL(200), NORMAL判定",
-      "level" : "1",
-      "md5" : "f1cc09f3fad6dde73d4bbc856aba59e2",
-      "proposer" : "polynya",
-      "proposerLr2id" : 165397,
-      "sha256" : "69028db3bb139bab14414245b2b9d0c1389e1d8dbb3d443dd03b177e32e05729",
-      "submission" : 2162,
-      "title" : "dry flower -ANOTHER-",
-      "url" : "http://skydrive.live.com/?cid=EC29ADCCAD727122&id=EC29ADCCAD727122%21107#cid=05F2B0A1BDEDAEB2&id=5F2B0A1BDEDAEB2%21122",
-      "url_diff" : "http://ibizatrance.nomaki.jp/sabun.html",
-      "zureCount" : 0
    },
    {
       "artist" : "Linne X SCTL Visualized by Keiyuu & RED-FOX / obj tyrcs",
