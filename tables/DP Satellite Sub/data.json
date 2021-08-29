@@ -5043,6 +5043,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "SHIKI obj:みすげ～",
+      "comment" : "(comparing to shiki_metatron7H.bme) A misaligned key sound 'ZR' is by division into multiple key sounds(e.g. 5V,5T,5R~6A)",
+      "level" : "5",
+      "md5" : "b770fb13db6e5ce43f9ad78a3460908c",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "b05e0b7d0ef9445d2eb54805236e52aaa6d6826f09d5f15582758e6a7da93cfd",
+      "submission" : 593,
+      "title" : "METATRON [MG]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=146&event=104",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04662"
+   },
+   {
       "artist" : "Blue-J",
       "comment" : "同梱譜面",
       "level" : "2",
@@ -5185,6 +5198,20 @@
       "title" : "Danse de Romani",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=104",
       "url_diff" : "https://ux.getuploader.com/dpbms/download/998",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "Freezer feat. 妃苺 obj:LIEF",
+      "comment" : "(comparing to _bms) No misalignment.",
+      "level" : "7",
+      "md5" : "bb12fa09ab5443911ba51b1a7dd526db",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "33b892e12efb822c51703f2a3aa4cf7d5d4c2de474c20c3f2d78e7994c6fb354",
+      "submission" : 594,
+      "title" : "温泉大作戦 [DP_Li]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=226&event=123",
+      "url_diff" : "https://www.dropbox.com/s/fjqvp2hruxljh6i/onsen_DPLi.zip?dl=0",
       "zureCount" : 0
    },
    {
@@ -6188,6 +6215,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "yassu obj:けろりん",
+      "level" : "5",
+      "md5" : "dd3b189fa0bc5e73f65a588ea89a4e47",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "eb64fa85879f1373e08f329c886b557c11bb404c974796fbec63060529aa9764",
+      "submission" : 596,
+      "title" : "dolosus [さくらむすび]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=165&event=88",
+      "url_diff" : "http://favo.kitchen/bms/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Est / obj:nono22",
       "comment" : "片手乱打 本体URL→est038_phyla",
       "level" : "5",
@@ -6568,6 +6608,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Kak-Ta",
+      "comment" : "Arranged by sabun maker.(comment in the sabun maker's site)",
+      "level" : "4",
+      "md5" : "e709d83416ec401d28bbecd53b7e80e5",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "97d9325a2c214408748e9c1a0075bf4c7d6679ed6fd9fcce663d165554d3b9a4",
+      "submission" : 595,
+      "title" : "無想 (14A)",
+      "url" : "http://web.archive.org/web/20031030035000/http://freett.com/rapidleap/etc.html",
+      "url_diff" : "https://w.atwiki.jp/14key/pages/23.html"
+   },
+   {
       "artist" : "dawn-system BGA:216 (office-φ) / Original:ZUN / Obj:ゆ～兎",
       "comment" : "0~1? 同梱譜面",
       "level" : "0",
@@ -6918,6 +6971,19 @@
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=20&event=130",
       "url_diff" : "https://ux.getuploader.com/dpbms/download/867",
       "zureCount" : 0
+   },
+   {
+      "artist" : "11. Pops team feat.小宮真央 img:hamalu notes:alt",
+      "comment" : "同梱譜面",
+      "level" : "0",
+      "md5" : "f41a990d8137150f510e74468d9f2244",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "13e29bdafa859e80304e2edf42266cab109eb6bc9d4aedb870b9d2eebac05c83",
+      "submission" : 592,
+      "title" : "resonance [DP Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=203&event=116",
+      "url_diff" : ""
    },
    {
       "artist" : "BilliumMoto Pattern: Liquart",

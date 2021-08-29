@@ -39,6 +39,23 @@
       "url_diff" : "https://stellabms.xyz/upload/1072"
    },
    {
+      "artist" : "Star* + Cryo-Myosotis",
+      "level" : "5",
+      "md5" : "1e363649c9762aa94c4b7f4a6eb92302",
+      "proposer" : "歳納京子",
+      "proposerLr2id" : 75332,
+      "sha256" : "3eeffdbbaa2a651574c338038e08cb272b77a657fac53111a4a01ccd522f850b",
+      "submission" : 1364,
+      "title" : "Ultimate Dream [INSANE]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=262&event=116",
+      "url_diff" : "",
+      "voteNeutral" : 2,
+      "voteNo" : 1,
+      "votePercent" : 66.6666666666667,
+      "voteVersion" : 2,
+      "voteYes" : 3
+   },
+   {
       "artist" : "otoshi.b",
       "level" : "2",
       "md5" : "23defa9ae11eadeb99ec1f4b9ce1cc56",
@@ -266,6 +283,23 @@
       "title" : "hot_coco@ [c@ffe l@tte]",
       "url" : "http://www.dropbox.com/s/rtfwbkw7bvd40ic/dj_takahiro_hot_cocoa.zip?dl=1",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02116"
+   },
+   {
+      "artist" : "EmoCosine / 出前 obj. nozomi vs Mary_Sue",
+      "level" : "5",
+      "md5" : "bd39e096fef2f903ab539a9da04338e8",
+      "proposer" : "歳納京子",
+      "proposerLr2id" : 75332,
+      "sha256" : "98699dfacec8cd0102faf22ab39847af0cae7b934a39f1db8a2cde816c9a3f27",
+      "submission" : 1517,
+      "title" : "Cutter [血赤ちゃんのカッター]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=133",
+      "url_diff" : "https://stellabms.xyz/upload/863",
+      "voteNeutral" : 1,
+      "voteNo" : 3,
+      "votePercent" : 65,
+      "voteVersion" : 2,
+      "voteYes" : 6
    },
    {
       "artist" : "-45 / obj:夢瑠",
