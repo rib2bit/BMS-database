@@ -1,7 +1,7 @@
 [
    {
       "artist" : "野球君",
-      "comment" : "重乱打・BPM変化・ラス殺し<br><br>Awakeningと譜面は同一",
+      "comment" : "重乱打・BPM変化・ラス殺し<br>Awakeningと譜面は同一",
       "level" : "19",
       "lr2_bmsid" : "0",
       "md5" : "044c7563fcc4360672cdfe7fe9055cf6",
@@ -13,20 +13,8 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/∟○ω○Θ＜俺がＢＭＳに降臨だ！！！！.zip"
    },
    {
-      "artist" : "金ラメタキシード",
-      "comment" : "トリル・LN・局所難・軸",
-      "level" : "7",
-      "lr2_bmsid" : "0",
-      "md5" : "069c27f9241a2ced41736fab408bebd0",
-      "name_diff" : "DL",
-      "reg_date" : "2016-05-29",
-      "title" : "決戦！サルーイン -Final Battle with Saruin- [God Hand]",
-      "url" : "http://lucifer.pussycat.jp/BMS/L_Saruin.zip",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/決戦！サルーイン -Final Battle with Saruin-.zip"
-   },
-   {
       "artist" : "-45",
-      "comment" : "デニム",
+      "comment" : "長尺・デニム",
       "level" : "18",
       "lr2_bmsid" : "0",
       "md5" : "07feb4188b64d4dfed7dbc090c709f87",
@@ -35,6 +23,19 @@
       "title" : "44river [INSANE]",
       "url" : "http://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21111",
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/44river.zip"
+   },
+   {
+      "artist" : "しらいし",
+      "comment" : "長尺・微縦連・LN<br><br>差分企画「LR2IR Battle」参加作品(中級者・長尺)",
+      "level" : "13",
+      "lr2_bmsid" : "0",
+      "md5" : "0a442d08b89d23983fa390fc2656a6fc",
+      "name_diff" : "差分企画ページへ",
+      "name_pack" : "For Long time BMS players -長尺BMSイベント-",
+      "reg_date" : "2021-09-01",
+      "title" : "Painful Act [IR]",
+      "url" : "https://event.yaruki0.net/fltbmsp19_20/impression/6",
+      "url_diff" : "https://darksabun.github.io/event/irbattle/"
    },
    {
       "artist" : "AlbatRos",
@@ -51,8 +52,8 @@
    },
    {
       "artist" : "赤碕 翔",
-      "comment" : "重乱打・ラス殺し<br>横浜最速の男名義",
-      "level" : "13",
+      "comment" : "ラス殺し<br>横浜最速の男名義",
+      "level" : "11",
       "lr2_bmsid" : "0",
       "md5" : "10f6ef039c047c8a0b21892770e90379",
       "name_diff" : "DL",
@@ -77,8 +78,8 @@
    },
    {
       "artist" : "犬田 (a.k.a. dazla)",
-      "comment" : "同時押し・皿複合<br><br>キー音ほぼ全部",
-      "level" : "9",
+      "comment" : "同時押し・皿複合<br>キー音ほぼ全部",
+      "level" : "8",
       "lr2_bmsid" : "0",
       "md5" : "119cd5e7f0ac8f011b329c26402a9a48",
       "name_diff" : "DL",
@@ -102,18 +103,6 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/cedersphere.zip"
    },
    {
-      "artist" : "sasakure.UK",
-      "comment" : "同時押し・縦連・ラス殺し",
-      "level" : "15",
-      "lr2_bmsid" : "0",
-      "md5" : "168189763ec2943b919e37629ffa792c",
-      "name_diff" : "DL",
-      "reg_date" : "2016-03-19",
-      "title" : "Pangaea [Proxima]",
-      "url" : "http://web.archive.org/web/20070727154611/http://sasakure.bms.ms/framemusic.htm",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/Pangaea.zip"
-   },
-   {
       "artist" : "scytheleg",
       "comment" : "☆10<br>LN",
       "level" : "-1",
@@ -127,16 +116,16 @@
    },
    {
       "artist" : "MORRIGAN",
-      "comment" : "☆8<br>皿・軸<br><br>差分企画「1998 to 2020(仮)」参加作品(1998年)<br>onzonium名義",
+      "comment" : "☆8<br>皿・軸<br><br>差分企画「1998 to 2020(仮)」参加作品(1998年)",
       "level" : "-1",
       "lr2_bmsid" : "0",
       "md5" : "20f99d474db7730d5300cb25080ba5f1",
-      "name_diff" : "DLページへ",
+      "name_diff" : "差分企画ページへ",
       "name_pack" : "本体は241番",
       "reg_date" : "2020-06-14",
       "title" : "D.D.D. [ANOTHER]",
       "url" : "https://onedrive.live.com/?authkey=%21AIr4v9MWBYrS9h8&amp;id=FC95A680740CA8C9%21471&amp;cid=FC95A680740CA8C9",
-      "url_diff" : "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view"
+      "url_diff" : "https://darksabun.github.io/bceg/event/1998to2020/"
    },
    {
       "artist" : "ねこみみ魔法使い",
@@ -177,7 +166,7 @@
    },
    {
       "artist" : "Miloudi / movie: Ratif",
-      "comment" : "sl1<br>乱打・皿<br><br>差分企画「BOFXV差分二次会(仮)」参加作品<br>onzonium名義",
+      "comment" : "sl1<br>乱打・皿<br><br>差分企画「BOFXV差分二次会(仮)」参加作品",
       "level" : "1",
       "lr2_bmsid" : "0",
       "md5" : "335f6c4437c32f81a3bf06861a8a5294",
@@ -185,12 +174,12 @@
       "reg_date" : "2019-11-27",
       "title" : "Mekhtalef [INSANE]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=38&amp;event=127",
-      "url_diff" : "https://bms-chart-editors-group.github.io/event/bofxv/"
+      "url_diff" : "https://darksabun.github.io/bceg/event/bofxv/"
    },
    {
       "artist" : "SAMBA MASTER 佐藤 -SATOH- Remixed by Yosk!",
       "comment" : "乱打・皿・縦連",
-      "level" : "11",
+      "level" : "10",
       "lr2_bmsid" : "0",
       "md5" : "34113cb0762930da0bab5778450ce47b",
       "name_diff" : "DL",
@@ -202,7 +191,7 @@
    },
    {
       "artist" : "nausiuk",
-      "comment" : "☆8<br>皿・皿複合・縦連",
+      "comment" : "☆7<br>皿・皿複合・縦連",
       "level" : "-1",
       "lr2_bmsid" : "0",
       "md5" : "3f9f80c36817a059682145fdb63d91ce",
@@ -215,7 +204,7 @@
    },
    {
       "artist" : "skns",
-      "comment" : "☆11<br>乱打・皿　音源追加あり<br><br>差分企画「Initial A to Z 2019 -26 songs-」参加作品<br>onzonium名義",
+      "comment" : "☆11<br>乱打・皿　音源追加あり<br><br>差分企画「Initial A to Z 2019 -26 songs-」参加作品",
       "level" : "-1",
       "lr2_bmsid" : "0",
       "md5" : "46584933b70a60c4c5efe31c3f2a6746",
@@ -223,7 +212,7 @@
       "reg_date" : "2019-03-22",
       "title" : "H-E [INSANE]",
       "url" : "",
-      "url_diff" : "https://bmscharteditorsgroup.wixsite.com/initialatoz"
+      "url_diff" : "https://darksabun.github.io/bceg/event/atoz2019/"
    },
    {
       "artist" : "xra",
@@ -252,15 +241,15 @@
    },
    {
       "artist" : "SUZUKI",
-      "comment" : "☆10<br>乱打<br><br>差分企画「1998 to 2020(仮)」参加作品(1999年)<br>onzonium名義",
+      "comment" : "☆10<br>乱打<br><br>差分企画「1998 to 2020(仮)」参加作品(1999年)",
       "level" : "-1",
       "lr2_bmsid" : "0",
       "md5" : "5221d18b2297ac9bb25e7fc33224c3ec",
-      "name_diff" : "DLページへ",
+      "name_diff" : "差分企画ページへ",
       "reg_date" : "2020-06-14",
       "title" : "SpellBound [HYPER]",
       "url" : "https://web.archive.org/web/20070121141237/yamajet1984.net/library/suzuki/sb.rar",
-      "url_diff" : "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view?usp=sharing"
+      "url_diff" : "https://darksabun.github.io/bceg/event/1998to2020/"
    },
    {
       "artist" : "Xerenet",
@@ -273,19 +262,6 @@
       "title" : "1st Acceleration [INSANE]",
       "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
       "url_diff" : "http://onzonium.at-ninja.jp/"
-   },
-   {
-      "artist" : "Professor S",
-      "comment" : "局所難・トリル",
-      "level" : "1",
-      "lr2_bmsid" : "0",
-      "md5" : "56c5a3ca2832ee12460372a9d52508d4",
-      "name_diff" : "DL",
-      "name_pack" : "db",
-      "reg_date" : "2016-06-27",
-      "title" : "Conference on Disarmament 20XX [INSANE]",
-      "url" : "http://diverse.jp/dbhtml/download.html",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/Conference on Disarmament 20XX.zip"
    },
    {
       "artist" : "aym",
@@ -303,7 +279,7 @@
    {
       "artist" : "paraoka",
       "comment" : "局所難・階段・軸",
-      "level" : "6",
+      "level" : "5",
       "lr2_bmsid" : "0",
       "md5" : "5df13e26e4bace2b32955b1cd84c21fa",
       "name_diff" : "DL",
@@ -340,8 +316,8 @@
    },
    {
       "artist" : "YAMD",
-      "comment" : "重乱打・軸・BPM変化",
-      "level" : "16",
+      "comment" : "乱打・BPM変化",
+      "level" : "15",
       "lr2_bmsid" : "0",
       "md5" : "61913fe9ebd7c42a75d75eaf9cd08f4d",
       "name_diff" : "DL",
@@ -392,7 +368,7 @@
    {
       "artist" : "菊田研究所/lactate",
       "comment" : "乱打・階段",
-      "level" : "10",
+      "level" : "9",
       "lr2_bmsid" : "0",
       "md5" : "6cd425736a7e382bc7f8c5b5745f6091",
       "name_diff" : "DL",
@@ -405,7 +381,7 @@
    {
       "artist" : "Kyuu/gsaer",
       "comment" : "乱打",
-      "level" : "2",
+      "level" : "3",
       "lr2_bmsid" : "0",
       "md5" : "6d2d15c822afc2a6167c3807fd01da21",
       "name_diff" : "DL",
@@ -439,20 +415,8 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/mandarinduck.zip"
    },
    {
-      "artist" : "cranky",
-      "comment" : "皿複合乱打<br><br>一部音追加",
-      "level" : "7",
-      "lr2_bmsid" : "0",
-      "md5" : "74c2323687353ff9c6e6e71d2314179c",
-      "name_diff" : "DL",
-      "reg_date" : "2018-10-06",
-      "title" : "save the music [INSANE]",
-      "url" : "https://mega.nz/#F!sZMTGZqZ!YZH2Xy6jBMMNl3MvQ_pp-A",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/save the music.zip"
-   },
-   {
       "artist" : "dj Extrose",
-      "comment" : "LN・乱打<br><br>差分企画「Initial A to Z 2019 -26 songs-」参加作品<br>onzonium名義",
+      "comment" : "LN・乱打<br><br>差分企画「Initial A to Z 2019 -26 songs-」参加作品",
       "level" : "4",
       "lr2_bmsid" : "0",
       "md5" : "7ac91ba3aaf91f650fa44bac94cc2de3",
@@ -460,19 +424,7 @@
       "reg_date" : "2019-03-22",
       "title" : "unquenchable [INSANE]",
       "url" : "",
-      "url_diff" : "https://bmscharteditorsgroup.wixsite.com/initialatoz"
-   },
-   {
-      "artist" : "sept",
-      "comment" : "皿・皿複合",
-      "level" : "？",
-      "lr2_bmsid" : "0",
-      "md5" : "842bc87ced10e5d6826dec66b3ebcb51",
-      "name_diff" : "DL",
-      "reg_date" : "2017-02-21",
-      "title" : "Extinction and reproduction [CRIMSON]",
-      "url" : "http://www.scn-net.ne.jp/~estine/bms.html",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/Extinction and reproduction.zip"
+      "url_diff" : "https://darksabun.github.io/bceg/event/atoz2019/"
    },
    {
       "artist" : "skns",
@@ -501,15 +453,16 @@
    },
    {
       "artist" : "Valentina G.",
-      "comment" : "乱打・皿複合<br><br>差分企画「Initial A to Z 2020」参加作品<br>onzonium名義",
-      "level" : "13",
+      "comment" : "乱打・皿複合<br><br>差分企画「Initial A to Z 2020」参加作品",
+      "level" : "12",
       "lr2_bmsid" : "0",
       "md5" : "95c7d777f51b6ebbc6b4f8a32f588b69",
-      "name_diff" : "DLページへ",
+      "name_diff" : "差分企画ページへ",
+      "name_pack" : "WORLD WAR -BATTLE ROYALE IN ALL REGIONS-",
       "reg_date" : "2021-02-07",
       "title" : "your gaze [SCOPOPHOBIA]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=28&amp;event=132",
-      "url_diff" : "https://drive.google.com/file/d/1QDflf2RipqjbZDfTT1sZ68vaCPmJym3w/view"
+      "url_diff" : "https://darksabun.github.io/bceg/event/atoz2020/"
    },
    {
       "artist" : "paraoka",
@@ -526,15 +479,29 @@
    },
    {
       "artist" : "Valentina G.",
-      "comment" : "乱打・皿複合<br><br>差分企画「Initial A to Z 2020」参加作品<br>onzonium名義",
+      "comment" : "乱打・皿複合<br><br>差分企画「Initial A to Z 2020」参加作品",
       "level" : "3",
       "lr2_bmsid" : "0",
       "md5" : "a0d583d56181253ef782a4e89eb3285c",
-      "name_diff" : "DLページへ",
+      "name_diff" : "差分企画ページへ",
+      "name_pack" : "WORLD WAR-BATTLE ROYALE IN ALL REGIONS-",
       "reg_date" : "2021-02-07",
       "title" : "your gaze [INSANE]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=28&amp;event=132",
-      "url_diff" : "https://drive.google.com/file/d/1QDflf2RipqjbZDfTT1sZ68vaCPmJym3w/view"
+      "url_diff" : "https://darksabun.github.io/bceg/event/atoz2020/"
+   },
+   {
+      "artist" : "X JAPONICA",
+      "comment" : "追加音源あり<br>トリル・軸乱打<br><br>差分企画「LR2IR Battle」参加作品(中級者・NORMAL判定)<br><a href=\"http://onzonium.at-ninja.jp/sabun/event/B18_Spirit of glasses_onzonium_f.zip\" target=\"_blank\">WAVFFの定義消去版はこちら</a>",
+      "level" : "15",
+      "lr2_bmsid" : "0",
+      "md5" : "a1ecec1628e41d88c5bcce60ae6fd500",
+      "name_diff" : "差分企画ページへ",
+      "name_pack" : "戦 [sen-goku] 國 ～夏の陣～",
+      "reg_date" : "2021-09-01",
+      "title" : "Spirit of glasses [MONOCLE]",
+      "url" : "http://iimode-do.jp/obj/m/m06_sog.rar",
+      "url_diff" : "https://darksabun.github.io/event/irbattle/"
    },
    {
       "artist" : "小宮真央 with Na+",
@@ -562,20 +529,8 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/code：Desert.zip"
    },
    {
-      "artist" : "6yen",
-      "comment" : "乱打・皿複合・BPM変化",
-      "level" : "？",
-      "lr2_bmsid" : "0",
-      "md5" : "af190d46e80d7688ab0ce1f61e13da74",
-      "name_diff" : "DL",
-      "reg_date" : "2018-08-13",
-      "title" : "on the sequence #2 [INSANE]",
-      "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/on the sequence #2.zip"
-   },
-   {
       "artist" : "-45",
-      "comment" : "乱打・階段",
+      "comment" : "長尺・乱打・階段",
       "level" : "0",
       "lr2_bmsid" : "0",
       "md5" : "ba0bfcf585ffdfd700b74b3fde807fdc",
@@ -600,7 +555,7 @@
    },
    {
       "artist" : "dj Extrose",
-      "comment" : "LN・二重階段・ラス殺し<br><br>差分企画「Initial A to Z 2019 -26 songs-」参加作品<br>onzonium名義",
+      "comment" : "LN・二重階段・ラス殺し<br><br>差分企画「Initial A to Z 2019 -26 songs-」参加作品",
       "level" : "22",
       "lr2_bmsid" : "0",
       "md5" : "beaac5dbcdea9c848428abd0ac4f7145",
@@ -608,7 +563,7 @@
       "reg_date" : "2019-03-22",
       "title" : "unquenchable [BRUTAL]",
       "url" : "",
-      "url_diff" : "https://bmscharteditorsgroup.wixsite.com/initialatoz"
+      "url_diff" : "https://darksabun.github.io/bceg/event/atoz2019/"
    },
    {
       "artist" : "socer",
@@ -624,18 +579,6 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/cedersphere.zip"
    },
    {
-      "artist" : "金ラメタキシード",
-      "comment" : "重乱打・軸・局所難・皿複合",
-      "level" : "18",
-      "lr2_bmsid" : "0",
-      "md5" : "c4c3d093261bf94a9e67ffeefe934fa7",
-      "name_diff" : "DL",
-      "reg_date" : "2016-05-29",
-      "title" : "決戦！サルーイン -Final Battle with Saruin- [心の闇]",
-      "url" : "http://lucifer.pussycat.jp/BMS/L_Saruin.zip",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/決戦！サルーイン -Final Battle with Saruin-.zip"
-   },
-   {
       "artist" : "czardas",
       "comment" : "不規則乱打・BPM変化",
       "level" : "5",
@@ -649,17 +592,43 @@
       "url_diff" : "http://onzonium.at-ninja.jp/sabun/post mortal momentum.zip"
    },
    {
-      "artist" : "Professor S",
-      "comment" : "トリル・局所難・重乱打",
-      "level" : "12",
+      "artist" : "菊田研究所 / migikacha",
+      "comment" : "皿複合",
+      "level" : "0",
       "lr2_bmsid" : "0",
-      "md5" : "d4550caa5827177ae84190a304f7d0ba",
+      "md5" : "cc99de19b5d14674eeb11effc3ec84a7",
       "name_diff" : "DL",
-      "name_pack" : "db",
-      "reg_date" : "2016-05-03",
-      "title" : "Conference on Disarmament 20XX [World War]",
-      "url" : "http://diverse.jp/dbhtml/download.html",
-      "url_diff" : "http://onzonium.at-ninja.jp/sabun/Conference on Disarmament 20XX.zip"
+      "name_pack" : "BOF2004",
+      "reg_date" : "2016-03-19",
+      "title" : "panicsmile [MANIAC]",
+      "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
+      "url_diff" : "http://onzonium.at-ninja.jp/sabun/panicsmile.zip"
+   },
+   {
+      "artist" : "菊田研究所 / migikacha",
+      "comment" : "乱打",
+      "level" : "15",
+      "lr2_bmsid" : "0",
+      "md5" : "d485008c6ec2b6a0d7fba7fe6c189655",
+      "name_diff" : "DL",
+      "name_pack" : "BOF2004",
+      "reg_date" : "2016-03-19",
+      "title" : "panicsmile [INSANE]",
+      "url" : "https://1drv.ms/f/s!ArMyTL67Bm07hHBy44Mz2xEyMpCY",
+      "url_diff" : "http://onzonium.at-ninja.jp/sabun/panicsmile.zip"
+   },
+   {
+      "artist" : "scytheleg",
+      "comment" : "低速乱打、ラス殺し<br><br>差分企画「LR2IR Battle」参加作品(初級者・低BPM)",
+      "level" : "0",
+      "lr2_bmsid" : "0",
+      "md5" : "d595971d8c865b9a4367660486b9de6b",
+      "name_diff" : "差分企画ページへ",
+      "name_pack" : "Chaotic Field",
+      "reg_date" : "2021-09-01",
+      "title" : "Sphagnum squarrosum [IR]",
+      "url" : "http://scytheleg.sakura.ne.jp/tempyou/bms/bms/stl_pmc-ss.rar",
+      "url_diff" : "https://darksabun.github.io/event/irbattle/"
    },
    {
       "artist" : "赤碕 翔",
@@ -690,7 +659,7 @@
    {
       "artist" : "赤碕 翔",
       "comment" : "重乱打・ラス殺し<br>横浜最速の男名義",
-      "level" : "18",
+      "level" : "17",
       "lr2_bmsid" : "0",
       "md5" : "ea10bdab893e93ea24118d9ca3b43e5c",
       "name_diff" : "DL",
@@ -702,15 +671,15 @@
    },
    {
       "artist" : "SUZUKI",
-      "comment" : "sl0<br>乱打・トリル<br><br>差分企画「1998 to 2020(仮)」参加作品(1999年)<br>onzonium名義",
+      "comment" : "sl0<br>乱打・トリル<br><br>差分企画「1998 to 2020(仮)」参加作品(1999年)",
       "level" : "0",
       "lr2_bmsid" : "0",
       "md5" : "fa0a38f2a1a45edbf0388492fde8c35b",
-      "name_diff" : "DLページへ",
+      "name_diff" : "差分企画ページへ",
       "reg_date" : "2020-06-14",
       "title" : "SpellBound [CHARM]",
       "url" : "https://web.archive.org/web/20070121141237/yamajet1984.net/library/suzuki/sb.rar",
-      "url_diff" : "https://drive.google.com/file/d/1PRtvsdVVVzuKujL1Y4zehNofQZxCdjir/view?usp=sharing"
+      "url_diff" : "https://darksabun.github.io/bceg/event/1998to2020/"
    },
    {
       "artist" : "野球君",
@@ -727,7 +696,7 @@
    },
    {
       "artist" : "SHIKI",
-      "comment" : "追加音源あり<br><br>曲長め・重乱打・縦連",
+      "comment" : "追加音源あり<br>長尺・縦連",
       "level" : "14",
       "lr2_bmsid" : "0",
       "md5" : "fc81394de3624caa79b5f89d453f3a18",
