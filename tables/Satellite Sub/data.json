@@ -3687,6 +3687,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "eicateve obj:七海",
+      "comment" : "HS-FIXはAVGかMINで。MINを使うとSUD+も必要。同梱flashback.bms基準、すべてのズレはBPM、STOP関連のズレです。",
+      "level" : "8",
+      "md5" : "1d7d077fcc57b9a0983159e7c4ee8589",
+      "proposer" : "Mary_Sue",
+      "proposerLr2id" : 147889,
+      "sha256" : "fc76a2dc44194d98cae2f7b3824cead3cd6a868adc65a6617a3d979bd73a939f",
+      "submission" : 2196,
+      "title" : "fLASHbACK fOUR xXXxXxXXXXXXxXXX [204-200-180-260]",
+      "url" : "http://www.eicateve.info/",
+      "url_diff" : "https://www.dropbox.com/s/7exsihpuvd62os3/AtoZ_F.zip?dl=1"
+   },
+   {
       "artist" : "Limstella",
       "comment" : "名曲良譜面",
       "level" : "0",
@@ -10604,6 +10617,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "Lapis Lazul obj:七海",
+      "comment" : "BPM135 ズレ",
+      "level" : "5",
+      "md5" : "58b8a4ab5f84e3be8805606ef0ee8077",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "1afffeec3e6a15c9ce094ae6ef78616be8014dabce5533a30e151b2a4bcdae4e",
+      "submission" : 2193,
+      "title" : "踊り子,飛行機のプロペラ,海 -IR-",
+      "url" : "https://web.archive.org/web/20041204023702/http://www.rinku.zaq.ne.jp/makky/pro.zip",
+      "url_diff" : "https://darksabun.github.io/event/irbattle/",
+      "zureCount" : 0
    },
    {
       "artist" : "Kuwagata / note:Michael",
@@ -19164,6 +19191,20 @@
       "title" : "Snow White [RT]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=323&event=104",
       "url_diff" : "https://stellabms.xyz/upload/610",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "ルゼ / obj.ぶんぺ～",
+      "comment" : "高速乱打、皿など。すでに表にあるTitanomaquia [Capsule] とは属性の異なる譜面なので…",
+      "level" : "10",
+      "md5" : "a4367270ad8f28627da0aec06b336e86",
+      "proposer" : "Mary_Sue",
+      "proposerLr2id" : 147889,
+      "sha256" : "4e803e79480569c5f2b1e40c239ff33bbafcd945a189825c1d7624e96b6bdef0",
+      "submission" : 2195,
+      "title" : "Titanomaquia [HADES]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=330&event=110",
+      "url_diff" : "https://stellabms.xyz/upload/951",
       "zureCount" : 0
    },
    {
@@ -29956,6 +29997,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "RearDawn / obj:marquee",
+      "comment" : "BPM108 ガチ押し",
+      "level" : "2",
+      "md5" : "fb96465e52ad031e66a38181cdb0d991",
+      "proposer" : "SHAX.",
+      "proposerLr2id" : 65624,
+      "sha256" : "42dfd42ab46119750a42ab482a76dd758d752bccda491fe066a504d3dee22b97",
+      "submission" : 2194,
+      "title" : "Feel Mixture [IR]",
+      "url" : "https://docs.google.com/spreadsheets/d/1lO2z7KVYyMpE-SjFwEEtvCwQhadl9Kgoqge_j2wsUPI/edit#gid=0",
+      "url_diff" : "https://darksabun.github.io/event/irbattle/",
+      "zureCount" : 0
    },
    {
       "artist" : "CRUNCH + A.I. Junko/さ",

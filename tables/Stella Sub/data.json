@@ -879,6 +879,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Naukorin α-Gorila",
+      "comment" : "gachi",
+      "level" : "4",
+      "md5" : "0be4d1d469fab7326850e5273200f855",
+      "proposer" : "歳納京子",
+      "proposerLr2id" : 75332,
+      "sha256" : "e6020873351e754d3aadb92ea1d79814e462e73cd857216062ae8c355715fd72",
+      "submission" : 1620,
+      "title" : "Luv of Magical Synth [LuvTek's Magical Sabun]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=129",
+      "url_diff" : "https://fsrs.github.io/sabun/LuvTek/Luv_of_Magical_Synth_LuvTek.zip",
+      "zureCount" : 0
+   },
+   {
       "artist" : "ROKINA obj:O Illust:あひゅりむ",
       "comment" : "ディレイ、物量",
       "level" : "7",
@@ -3167,6 +3181,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "sun3 / obj:ctc",
+      "comment" : "同時押し、皿など",
+      "level" : "0",
+      "md5" : "28a190a389a8ca4d08e73a9532152f33",
+      "proposer" : "Mary_Sue",
+      "proposerLr2id" : 147889,
+      "sha256" : "21d961430c0e2e27e0942563ec6bf5b97fee28a4075736b23bb16482b78075f2",
+      "submission" : 1621,
+      "title" : "Night Bird Noisy Voice (Abusive)",
+      "url" : "http://www1.axfc.net/u/3305796",
+      "url_diff" : "http://ctconnected.blog.fc2.com/blog-entry-1.html",
+      "zureCount" : 0
    },
    {
       "artist" : "MONO / obj:夢瑠",
@@ -5873,7 +5901,7 @@
    {
       "artist" : "ROKINA OBJ : ランダマイザ",
       "comment" : "ガチ押し",
-      "level" : "5",
+      "level" : "4",
       "md5" : "43f4fafa6ca36721d2e4229a847b2ea7",
       "proposer" : "双六",
       "sha256" : "034c1b1ad94df55f6b184a7647a41abad7f9c19eae896d8db33cc0855e5811d8",
@@ -8221,6 +8249,19 @@
       "url_diff" : "https://web.archive.org/web/20200306165639/http://3228monsta.web.fc2.com/"
    },
    {
+      "artist" : "Loreley obj:七海",
+      "comment" : "st0~1; zure style (no misalignment against 03_owarinouta-ex.pms)",
+      "level" : "1",
+      "md5" : "5e05f6064ca48c572c931d50aa34fbbe",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "6601bfbd981e81b1812463f88c1d86f7a7fcdbf3aa586ba405a17a98eecb92f6",
+      "submission" : 1618,
+      "title" : "おわりのうた -終わる世界とバースデイ-",
+      "url" : "https://bms.kyouko.moe/torrent/BMS_Library/%E3%81%8A%E3%82%8F%E3%82%8A%E3%81%AE%E3%81%86%E3%81%9F%20(by%20Loreley).rar",
+      "url_diff" : "https://darksabun.github.io/event/irbattle/"
+   },
+   {
       "artist" : "主人公 /差分 赤い人",
       "comment" : "ディレイ",
       "level" : "5",
@@ -9301,7 +9342,7 @@
    },
    {
       "artist" : "otoshi.b BGI:はしたかさん obj.mute",
-      "level" : "4",
+      "level" : "5",
       "md5" : "69e76ecdfd8064c934bc8a5aaad6a17a",
       "proposer" : "파이어",
       "proposerLr2id" : 7290,
@@ -11950,6 +11991,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "maxXx65535 obj:LuvTek",
+      "comment" : "Easy: st3~4, Hard: st4~5; uses additional keysound",
+      "level" : "4",
+      "md5" : "899fde655fdd0213ab7df89fa577dfe8",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "0337e4a85eb132b30ee4e4f252ccd2907ecd4e2b418a434b222e796dd5545412",
+      "submission" : 1617,
+      "title" : "Crystal Wind [IR]",
+      "url" : "https://onedrive.live.com/?id=26D9698EC1CEC044%21212&cid=26D9698EC1CEC044",
+      "url_diff" : "https://darksabun.github.io/event/irbattle/"
+   },
+   {
       "artist" : "sak feat.みゅい obj.mute",
       "level" : "3",
       "md5" : "89a788ea8806be7351295c155a5988af",
@@ -13389,7 +13443,7 @@
    {
       "artist" : "tanacoro/BGA:musao,wars,M.Takezaki / selene.",
       "comment" : "乱打",
-      "level" : "2",
+      "level" : "3",
       "md5" : "987521b0e5e93f2cb833e447445a2db8",
       "proposer" : "スノート",
       "proposerLr2id" : 86393,
@@ -16021,6 +16075,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Triangle Waste",
+      "comment" : "BPM128 ズレガチ押し",
+      "level" : "6",
+      "md5" : "b5998585661edaa392ba36f0607108fd",
+      "proposer" : "垢伴次郎",
+      "proposerMinirid" : "39fcf843-3931-4605-a729-2f3f61d0970b",
+      "sha256" : "de49bc4d038c6208d6a852bff8a000fd0b84764359c815e3f5a95c033805756d",
+      "submission" : 1622,
+      "title" : "Acadia -あかんやつや-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=304&event=116",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=5490",
+      "zureCount" : 0
+   },
+   {
       "artist" : "witch's slave / obj:sak",
       "comment" : "01043",
       "level" : "7",
@@ -17630,23 +17698,6 @@
       "title" : "NightTheater [FishLife]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=18&event=133",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04829"
-   },
-   {
-      "artist" : "Team:SASAKURATION  /  Goten",
-      "comment" : "???????",
-      "level" : "8",
-      "md5" : "ca0d671f6888bb05962a3574dc8aac77",
-      "proposer" : "MEES-♬",
-      "proposerLr2id" : 39693,
-      "sha256" : "45d2196a7fe4be19f0165c72c0ab1d98e21d5970fac7751a39f75f9327007107",
-      "submission" : 859,
-      "title" : "aballava (???????)",
-      "url" : "http://onedrive.live.com/?cid=43C7447B3E45559B&id=43C7447B3E45559B%21105",
-      "url_diff" : "http://absolute.pv.land.to/bmsuploader.html",
-      "voteNeutral" : 0,
-      "voteNo" : 0,
-      "votePercent" : 0,
-      "voteYes" : 0
    },
    {
       "artist" : "uet vs Neun_jack / mov:Roaring Flame / obj:Monsta",
@@ -19954,6 +20005,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Process 2.3.1 vs Y-Itoh wDith thunder Obj : DAC",
+      "comment" : "同梱papillon_bga.bms基準1F、0Bキー音のズレがありますが全部キー音を分割したので出来たズレです。それ以外は全部bpm関連のズレです",
+      "level" : "1",
+      "md5" : "e33e7d73b5eae1b70c9ab637a60b35e8",
+      "proposer" : "Mary_Sue",
+      "proposerLr2id" : 147889,
+      "sha256" : "bdcc1f313b2f277bb01a4987866bb636e0ede56ecd9f9aa58b7caa277e1fc39b",
+      "submission" : 1619,
+      "title" : "Le Specimen d'un Papillon [7標本]",
+      "url" : "https://onedrive.live.com/?cid=40805CD20B6241C6&id=40805CD20B6241C6!1916",
+      "url_diff" : "https://fsrs.github.io/table.html"
+   },
+   {
       "artist" : "Sakamiya feat.一花 img:ttv / obj.ぶんぺ～",
       "level" : "1",
       "md5" : "e3492456f465cc646d1c4b1414873c8f",
@@ -20113,7 +20177,7 @@
    {
       "artist" : "HOLY SAMBA MASTER 佐藤 -SATOH- / obj.fuko",
       "comment" : "LAST BOSSの弱化版",
-      "level" : "2",
+      "level" : "1",
       "md5" : "e5877413b78d1cc462a635dec7bd568b",
       "proposer" : "七海",
       "proposerLr2id" : 84597,
