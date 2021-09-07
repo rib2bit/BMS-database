@@ -170,6 +170,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "Chicala Lpis movie:K.MONO,illustration:戀/obj:Mary_Sue",
+      "comment" : "BPMを133に固定した差分。ソフランはまだあるけど…ズレが一つありそうですがソフランを消したので発生したものです。",
+      "level" : "2",
+      "md5" : "01d6ea667d9d87c4d5a7e939adb80647",
+      "proposer" : "♪♪",
+      "proposerLr2id" : 7290,
+      "sha256" : "5cc0bd8dfbf2657fd2ad2f7a9eb8a8945424192064af2a9fc21bb3bb0a816029",
+      "submission" : 1624,
+      "title" : "Kafig [Trennung_fixed]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=116",
+      "url_diff" : "https://darksabun.github.io/Mary_Sue/"
+   },
+   {
       "artist" : "Raimukun / obj:スノート",
       "comment" : "st5~6? (hard ending)",
       "level" : "6",
