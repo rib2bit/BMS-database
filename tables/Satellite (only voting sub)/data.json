@@ -214,6 +214,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "kurena / selene.",
+      "comment" : "5~6? (5ruinkf.bmeと57.5625にズレがありますが、これは同梱譜面のズレなので問題なし)",
+      "level" : "5",
+      "md5" : "a3aaf0c9508a1d59766e41bfbb571345",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "cbbbd22a297ae96ca22ff867a2158865e0799486ead3c4c310423901f7b436c8",
+      "submission" : 2198,
+      "title" : "Ruins Ray -Luna-",
+      "url" : "https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
+      "url_diff" : "https://www.dropbox.com/s/fivtefjbf38x6ee/Ruins%20Ray.zip?dl=1"
+   },
+   {
       "artist" : "ルゼ / obj.ぶんぺ～",
       "comment" : "高速乱打、皿など。すでに表にあるTitanomaquia [Capsule] とは属性の異なる譜面なので…",
       "level" : "10",
@@ -252,6 +265,20 @@
       "title" : "Hypertext Transfer Protocol -418-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=83",
       "url_diff" : "https://darksabun.github.io/event/irbattle/",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "HOLY SAMBA MASTER 佐藤 -SATOH- / obj.fuko",
+      "comment" : "複数パターンの中速乱打、同時押し、微縦連やジャリジャリ系など多要素を総合的に練習できる譜面だと思います / やや後半難 [150BPM, TOTAL580(0.25%/note)]",
+      "level" : "3",
+      "md5" : "e8017501a3c17c2239ffffa133994372",
+      "proposer" : "たる",
+      "proposerLr2id" : 146726,
+      "sha256" : "de039820fb2714a875cc69d9139cf3eb6802cd47a6ccabb06e62da3da32d51b4",
+      "submission" : 2197,
+      "title" : "ホーリーサンバランド [Votum]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=193&event=96",
+      "url_diff" : "https://stellabms.xyz/upload/1042",
       "zureCount" : 0
    },
    {
