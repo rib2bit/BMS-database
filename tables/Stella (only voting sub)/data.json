@@ -126,6 +126,23 @@
       "url_diff" : "https://darksabun.github.io/event/irbattle/"
    },
    {
+      "artist" : "tkqn14 pattern for some reason",
+      "level" : "2",
+      "md5" : "ae36582758da96bb250dfe22d527b840",
+      "proposer" : "qtp13",
+      "proposerLr2id" : 86559,
+      "sha256" : "9e70f05cb13df7b898c5f375814a3981ce741096dff6d5b07fc1bd10ba4e9592",
+      "submission" : 1261,
+      "title" : "SCHREiKRiEG [for some reason]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=132",
+      "url_diff" : "https://fsrs.github.io/",
+      "voteNeutral" : 2,
+      "voteNo" : 1,
+      "votePercent" : 75,
+      "voteVersion" : 2,
+      "voteYes" : 5
+   },
+   {
       "artist" : "Triangle Waste",
       "comment" : "BPM128 ズレガチ押し",
       "level" : "6",

@@ -140,6 +140,18 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Aoi mov:SELDO / obj:Aoi",
+      "level" : "0",
+      "md5" : "596b027f2a75e9c05dfd53798d26e232",
+      "proposer" : "mqppppp",
+      "proposerMinirid" : "da079373-08be-4151-a76f-8ed44123949a",
+      "sha256" : "03125a02fb68b72444d3a43bb2df2eef3077552672e5416d4ed1ce9c5d4b4258",
+      "submission" : 2199,
+      "title" : "War in the Mirrorworld [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=389&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "美月 正 obj:鈎兎(KagiUsagi)",
       "level" : "3",
       "md5" : "5b0b9cfac2a37b8fbf967f99304e1b00",
@@ -331,6 +343,19 @@
       "votePercent" : 77.2727272727273,
       "voteVersion" : 2,
       "voteYes" : 8
+   },
+   {
+      "artist" : "lixound mov:Ratif",
+      "comment" : "sl0~1 物量/LN/乱打/同時押し",
+      "level" : "0",
+      "md5" : "ea9ba15c5d02f0a053e2b08508df9f4b",
+      "proposer" : "mqppppp",
+      "proposerMinirid" : "da079373-08be-4151-a76f-8ed44123949a",
+      "sha256" : "eb544fa9a69257dd7f70cf8e845b71b064920fa1ea1d705843fb1304cfea127c",
+      "submission" : 2200,
+      "title" : "WE ARE HARDCORE [ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=307&event=123",
+      "url_diff" : ""
    },
    {
       "artist" : "Linne X SCTL Visualized by Keiyuu & RED-FOX / obj tyrcs",
