@@ -42375,6 +42375,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00259"
    },
    {
+      "adddate" : "2021/09/11 18:15",
+      "artist" : "巴マミとキュゥべえとにゃむ",
+      "comment" : "曲改変,ディレイ,1.75重乱打,軸,ティロ",
+      "folder" : "2021/09",
+      "genre" : "円環の理",
+      "keys" : 7,
+      "level" : "2021/09",
+      "lr2_bmsid" : "302279",
+      "md5" : "68f6af4901530b9f03c3d372cc9d7fb1",
+      "org_level" : null,
+      "title" : "Tiro finale [ティロ]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05591"
+   },
+   {
       "adddate" : "2020/07/14 19:09",
       "artist" : "れおん / obj:yakiniku",
       "comment" : "皿、低total、HARD判定",
@@ -48450,6 +48465,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=03400"
    },
    {
+      "adddate" : "2021/09/11 17:20",
+      "artist" : "-45",
+      "comment" : "もう穴の開いたところを探さなくて良いんです",
+      "folder" : "2021/09",
+      "genre" : "reconstruction",
+      "keys" : 7,
+      "level" : "2021/09",
+      "lr2_bmsid" : "",
+      "md5" : "77ca341ef9616f0c9da285ae31dc0fc9",
+      "org_level" : null,
+      "title" : "Total Eclipse of the Sun [がちおし]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05590"
+   },
+   {
       "adddate" : "2019/03/13 20:19",
       "artist" : "ginkiha / obj:七海千秋",
       "comment" : "乱打、LN、皿複合",
@@ -50488,6 +50518,21 @@
       "title" : "Cosmo Memory [sLunatic]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=397&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00269"
+   },
+   {
+      "adddate" : "2021/09/11 18:22",
+      "artist" : "cybermiso feat. みずたま / obj.にゃむ",
+      "comment" : "ソフラン追加 LN 縦連 皿 初見殺し NORMAL判定 Total:420",
+      "folder" : "2021/09",
+      "genre" : "歌謡MOOMBAHCORE/HYBRID TRAP",
+      "keys" : 7,
+      "level" : "2021/09",
+      "lr2_bmsid" : "302280",
+      "md5" : "7c7f236a0ea9111d229e21c276e3f809",
+      "org_level" : null,
+      "title" : "赤色のアザレア [にゃむてる]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05592"
    },
    {
       "adddate" : "2017/10/25 20:53",
@@ -57733,6 +57778,21 @@
       "title" : "GAGAJAZQUE [Another+]",
       "url" : "",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04884"
+   },
+   {
+      "adddate" : "2021/09/12 02:53",
+      "artist" : "Juno obj:hoi2 BGI : Sierra",
+      "comment" : "ガチ押し",
+      "folder" : "2021/09",
+      "genre" : "Progressive Metalcore",
+      "keys" : 7,
+      "level" : "2021/09",
+      "lr2_bmsid" : "302284",
+      "md5" : "8d3c2f672f347b4544bbef0da10309a6",
+      "org_level" : null,
+      "title" : "Reason [Full down]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05594"
    },
    {
       "adddate" : "2021/02/08 01:35",
@@ -90671,7 +90731,7 @@
       "md5" : "db60b805b666a574164a2e6b4f085cb6",
       "org_level" : null,
       "title" : "black opal [athletics]",
-      "url" : "",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=49",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05539"
    },
    {
@@ -97048,6 +97108,21 @@
       "title" : "Teravolt[MAPLE]",
       "url" : "",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05380"
+   },
+   {
+      "adddate" : "2021/09/12 02:52",
+      "artist" : "Juno obj:hoi2 BGI : Sierra",
+      "comment" : "ディレイ　高速乱打",
+      "folder" : "2021/09",
+      "genre" : "Progressive Metalcore",
+      "keys" : 7,
+      "level" : "2021/09",
+      "lr2_bmsid" : "302283",
+      "md5" : "ea40f7ebcd69c8d8417bedbe5e380de6",
+      "org_level" : null,
+      "title" : "Reason [Alretnate]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05593"
    },
    {
       "adddate" : "2019/10/19 13:15",
