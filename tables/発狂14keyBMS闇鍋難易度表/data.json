@@ -5056,7 +5056,7 @@
    {
       "artist" : "keyc / Symphonian",
       "comment" : "m9 MINIMAL",
-      "level" : "4",
+      "level" : "6",
       "md5" : "1aa0f976a5b9361fe1d2581d15b6ad51",
       "title" : "Wicked plot [DP HYPER]"
    },
@@ -5675,6 +5675,13 @@
       "level" : "★2",
       "md5" : "1e1ae8631aa60088591705da43ebac4f",
       "title" : "A D D i c T i O N 4 5 0 0 0 0 0 [ D P A ]"
+   },
+   {
+      "artist" : "結月ゆかり and Ark-Z / obj:sagoo",
+      "comment" : "VOCALOID-TRANCEPOP",
+      "level" : "★2",
+      "md5" : "1e1c6839c85633f9d198686b98505bec",
+      "title" : "RE:START [DP-soijoy]"
    },
    {
       "artist" : "Arranged by Y.W bga:kotomi / Symphonian",
@@ -9177,7 +9184,7 @@
       "title" : "夏影-summer lights- [HI-Speed Edition]"
    },
    {
-      "artist" : "Alicia* / srof *FLIP L.MIRROR",
+      "artist" : "Alicia* / srof *L.MIR or FLIP L.MIR",
       "comment" : "AMBIENT",
       "level" : "8",
       "md5" : "31610e99853d1ac07da68f3d445bda61",
@@ -15932,6 +15939,13 @@
       "title" : "kioku [brainstorming]"
    },
    {
+      "artist" : "Sakamiya feat.mirina img:十恵/obj:LLL",
+      "comment" : "Digital-J-Pop",
+      "level" : "8",
+      "md5" : "56fb12dbf24ac83b4a02364c88734567",
+      "title" : "A-chasing-Y [DPINSA.NE]"
+   },
+   {
       "artist" : "Junk/obj.vectorla BGA : YARITA  *FLIP",
       "comment" : "Trance Step",
       "level" : "2",
@@ -17418,7 +17432,7 @@
    {
       "artist" : "DJ TAKUAN 及び 佐倉アヤキ / obj:ED",
       "comment" : "TRANCE",
-      "level" : "★5",
+      "level" : "★4",
       "md5" : "5e7515ff42137507b13a60abba0bdb26",
       "title" : "織姫 [雨天]"
    },
@@ -20181,6 +20195,13 @@
       "title" : "桜花撩乱 [DPhouther]"
    },
    {
+      "artist" : "おみー obj:フォルティッシモ",
+      "comment" : "kawaiiTrance",
+      "level" : "3",
+      "md5" : "6d7583a3d79b693ea4a29912af203a3b",
+      "title" : "Sky Angelus [DP ANOTHER]"
+   },
+   {
       "artist" : "er *R.MIRROR",
       "comment" : "TRANCY FLOWPOP",
       "level" : "★6",
@@ -20466,6 +20487,13 @@
       "level" : "2",
       "md5" : "6ef1ad49d2306e388815aea25c51fd2a",
       "title" : "Another Sky　 [DP HARD]"
+   },
+   {
+      "artist" : "Sakamiya feat.mirina img:十恵/obj:LLL",
+      "comment" : "Digital-J-Pop",
+      "level" : "2",
+      "md5" : "6efd10be91930e18d3a1cb77fcd73a7f",
+      "title" : "A-chasing-Y [DPA.NOTHER]"
    },
    {
       "artist" : "Symphonian *LR.RANDOM",
@@ -22024,7 +22052,7 @@
    {
       "artist" : "MINT BGA : Can.D-mtmrw / obj: shiba",
       "comment" : "TECHNO",
-      "level" : "★3",
+      "level" : "★4",
       "md5" : "767177285abbedf42d833793842cc70d",
       "title" : "CYCLONE [Gravity Distorting Module]"
    },
@@ -22731,7 +22759,7 @@
    {
       "artist" : "IOSYS Remixed by Hate obj:ucc",
       "comment" : "原曲破壊",
-      "level" : "★2",
+      "level" : "★3",
       "md5" : "79f049d1bd6d5c924f01a549c01c7a4b",
       "title" : "魔理沙が大変な事になりました [EX14]"
    },
@@ -28098,6 +28126,13 @@
       "title" : "Free Hand zero [ANOTHER]"
    },
    {
+      "artist" : "daisan feat. 天城あくる / aoid obj.nor",
+      "comment" : "Actless Actress",
+      "level" : "6",
+      "md5" : "94e84eb1f6dd30a0b3ddcb9c1e8c49b7",
+      "title" : "aura [DP EX]"
+   },
+   {
       "artist" : "Epic Sprite vs S.C.T.L obj. Symphonian",
       "comment" : "Psychedelic Trance",
       "level" : "9",
@@ -28544,6 +28579,13 @@
       "level" : "3",
       "md5" : "9769bdf37085123a763575bd4e1bb304",
       "title" : "Virtual mode [DP VR]"
+   },
+   {
+      "artist" : "おみー obj:フォルティッシモ  *LR.MIR",
+      "comment" : "kawaiiTrance",
+      "level" : "8",
+      "md5" : "976abd1ad8acca9b27571093f9f1d87b",
+      "title" : "Sky Angelus [kawaii]"
    },
    {
       "artist" : "sun3 *R.MIRROR",
@@ -33878,6 +33920,13 @@
       "level" : "1",
       "md5" : "b38c7a723aa81d048c26719d6ebd47fa",
       "title" : "冬色遊興～angelic snow～ [DP-sagANOTHER]"
+   },
+   {
+      "artist" : "Sakamiya feat.mirina img:十恵/obj:LLL",
+      "comment" : "Digital-J-Pop",
+      "level" : "★4",
+      "md5" : "b3b9364b9175f8198e9c725ec107a873",
+      "title" : "A-chasing-Y [DPINSA.NE+]"
    },
    {
       "artist" : "Grand Thaw / obj:Louis",
@@ -41197,7 +41246,7 @@
    {
       "artist" : "masopp /OBJ:fruit",
       "comment" : "chipskit",
-      "level" : "★5",
+      "level" : "★4",
       "md5" : "da9e4429038f3a5af7f1f1a22de7b7ec",
       "title" : "happy puppy [DP 250%]"
    },
@@ -47341,7 +47390,7 @@
       "title" : "x-Aria -doubleswing mix-"
    },
    {
-      "artist" : "Yusuke Takeuchi/obj:G# *FLIP R.MIRROR",
+      "artist" : "Yusuke Takeuchi/obj:G# *R.MIRROR",
       "comment" : "Interectual",
       "level" : "★6",
       "md5" : "fbb3c866b8872253878d5b8db86fa7ed",

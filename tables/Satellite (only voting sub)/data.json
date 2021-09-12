@@ -13,6 +13,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "あとぅす feat.つゆり花鈴 BGI:りーふぱいザウルス",
+      "comment" : "同梱譜面　☆11むずかしめ～★1入門程度",
+      "level" : "1",
+      "md5" : "1cd29c630f0857f7a9cc5edb00e29a0b",
+      "proposer" : "えば",
+      "proposerLr2id" : 19425,
+      "sha256" : "4796c49f623ee6fe2da8643cd3952bc3fb7010f376f391b9af0b4ad9a9b6fddc",
+      "submission" : 2202,
+      "title" : "REZIDUAL MiND [ANOTHER]",
+      "url" : "https://venue.bmssearch.net/bmsshuin3/34",
+      "url_diff" : ""
+   },
+   {
       "artist" : "eicateve obj:七海",
       "comment" : "HS-FIXはAVGかMINで。MINを使うとSUD+も必要。同梱flashback.bms基準、すべてのズレはBPM、STOP関連のズレです。",
       "level" : "8",
@@ -298,6 +311,20 @@
       "title" : "Angel (IR Battle edition)",
       "url" : "https://mega.nz/folder/sZMTGZqZ#YZH2Xy6jBMMNl3MvQ_pp-A/file/YU0kGRqT",
       "url_diff" : "https://darksabun.github.io/event/irbattle/"
+   },
+   {
+      "artist" : "SHIKI movie:140/fth/selene.",
+      "comment" : "16分物量・LN複合（クリアに悪影響を及ぼさない程度）",
+      "level" : "8",
+      "md5" : "e05791ba3fd7eec224897da3faa1352c",
+      "proposer" : "えば",
+      "proposerLr2id" : 19425,
+      "sha256" : "3e47d1352488ee1b2810581fceffc0428618552f4862e510ddaddc35a40746ab",
+      "submission" : 2201,
+      "title" : "Fractal -Luna-",
+      "url" : "http://shiki2.sakura.ne.jp/shiki_fractal_bms_ogg.zip",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05468",
+      "zureCount" : 0
    },
    {
       "artist" : "EXCITECH / obj. marie",
