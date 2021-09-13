@@ -1296,24 +1296,6 @@
       "v_vote" : 2
    },
    {
-      "artist" : "mommy",
-      "comment" : "",
-      "delete" : 0,
-      "eval" : 0,
-      "level" : 11,
-      "lr2_bmsid" : 64256,
-      "md5" : "1f0e7bdf7cede81b4c52a1433344c117",
-      "name_diff" : "",
-      "reg_date" : " ",
-      "state" : 0,
-      "tag" : null,
-      "title" : "More Selfish [14key,Another]",
-      "url" : "http://mommy16807.seesaa.net/",
-      "url_diff" : "",
-      "v_good" : 0,
-      "v_vote" : 2
-   },
-   {
       "artist" : "momo★yama (BGA:アカツキユウ) / obj.にゃむ",
       "comment" : "会場URLhttp://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=103差分ミラーhttps://ux.getuploader.com/dpbms/download/882",
       "delete" : 0,
@@ -4635,13 +4617,13 @@
       "md5" : "6864df08cc2e18a94c977b548946c103",
       "name_diff" : "",
       "reg_date" : " ",
-      "state" : 1,
+      "state" : 0,
       "tag" : null,
       "title" : "Warm Hospital [14key Normal]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=135",
       "url_diff" : "",
       "v_good" : 1,
-      "v_vote" : 1
+      "v_vote" : 2
    },
    {
       "artist" : "guna",

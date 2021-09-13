@@ -86,6 +86,20 @@
       "zureCount" : 0
    },
    {
+      "artist" : "nitro obj : LindBlum",
+      "comment" : "3~4?",
+      "level" : "3",
+      "md5" : "59d232d917f8764613784dc121c98eed",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "f800b25556b5f9b7c0ae4643139c35beb7e0bef2441c885d3ae828d8d6e51d90",
+      "submission" : 1627,
+      "title" : "[line:theta] -Xe-",
+      "url" : "https://dl.dropboxusercontent.com/s/1wbit5p08wqyxmm/%5Bline%EF%BC%9Atheta%5D%20%28by%20nitro%29.rar",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05537",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Loreley obj:七海",
       "comment" : "st0~1; zure style (no misalignment against 03_owarinouta-ex.pms)",
       "level" : "1",
@@ -141,6 +155,19 @@
       "votePercent" : 75,
       "voteVersion" : 2,
       "voteYes" : 5
+   },
+   {
+      "artist" : "xixuezique BGA : 空読無 白眼 / obj tyrcs",
+      "comment" : "ディレイなどのズレあり",
+      "level" : "6",
+      "md5" : "b36e85ecc1718a32eb5d77f84a0163bb",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "a7fc629423176e082c3bea9a0aa1cd5a354e7e641443f0155e82bf0d5ca519b8",
+      "submission" : 1626,
+      "title" : "ophthalmomyiasis [eyeburner]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=38&event=123",
+      "url_diff" : "https://stellabms.xyz/upload/1080"
    },
    {
       "artist" : "Triangle Waste",
