@@ -5955,6 +5955,19 @@
       "zureCount" : 0
    },
    {
+      "artist" : "utah 妖",
+      "comment" : "BPM244の8分ガチ押し譜面　同梱SP譜面のいずれともずれていますが、差分作成用のテンプレートである999_砂上ノ幻憶_TEMP.temp基準から作成しており、それ基準ではズレがありません。",
+      "level" : "1",
+      "md5" : "44305430d942f03a34a2f5ab0c1891ee",
+      "proposer" : "ふかけん",
+      "proposerLr2id" : 145204,
+      "sha256" : "c45c18326572d519f8423a2d4365775df4aae01743950b4a2645a7320d77e146",
+      "submission" : 1628,
+      "title" : "砂上ノ幻憶 -Mystic-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=96&event=96",
+      "url_diff" : "http://absolute.pv.land.to/bof/src/up0735.zip"
+   },
+   {
       "artist" : "nmk feat.一花 / obj. AXION Illust:りーふぱい/BGA:わっふゑ",
       "comment" : "BPM173 微縦連系",
       "level" : "5",
