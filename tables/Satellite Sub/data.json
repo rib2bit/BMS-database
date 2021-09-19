@@ -4428,6 +4428,20 @@
       "url_diff" : "https://darksabun.github.io/bceg/event/bofxv/"
    },
    {
+      "artist" : "ZUN remixed by LeaF/ 差分 赤い人 Movie:Optie",
+      "comment" : "BPM200の16分乱打 sl10強～sl11適正？",
+      "level" : "11",
+      "md5" : "243a6ba83bc2f291a2a9bc9736b833bd",
+      "proposer" : "KAMBAL",
+      "proposerMinirid" : "5bca1114-f955-4eaa-87ff-fd46dd1ae927",
+      "sha256" : "ca80e976628ccf9a7a0f5141fce13738d65b7832db618e47725b6d491502d024",
+      "submission" : 2205,
+      "title" : "Calamity Fortune [HARDEST]",
+      "url" : "http://yaruki0.sakura.ne.jp/event/ondanyugi5/impression.cgi?no=45",
+      "url_diff" : "http://akred.web.fc2.com/bmsfile/Calamity-HARDEST.bms",
+      "zureCount" : 0
+   },
+   {
       "artist" : "ROKINA BGA:REI-K obj. DK",
       "comment" : "AnzuTool検証 SPH基準ズレ無し (AnzuTool 기준 SPH 기준 오류 X)",
       "level" : "9",
@@ -20680,7 +20694,7 @@
    {
       "artist" : "POM bga-G Sliced by DAC",
       "comment" : "If you wish to leave a record of your call, please state your message at the sound of the tone. (Uses sliced keysounds)",
-      "level" : "7",
+      "level" : "8",
       "md5" : "af2fd0e30bb7547de89d207b4d5807c5",
       "proposer" : "qtp13",
       "proposerLr2id" : 86559,
@@ -24150,6 +24164,19 @@
       "title" : "とっとこハム",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=122",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02744"
+   },
+   {
+      "artist" : "アニヨコーズ / obj:ctc",
+      "comment" : "子供向けの可愛い楽曲。_ANIYOCORE.bme基準検出されたズレは全部bpm関連のズレです。",
+      "level" : "10",
+      "md5" : "c8b4aadd39574ba1f09e983d574859bf",
+      "proposer" : "Mary_Sue",
+      "proposerLr2id" : 147889,
+      "sha256" : "917eafbaaa6a2d3ca17dce66217377cd982458dca44956171405ba8018309bde",
+      "submission" : 2207,
+      "title" : "ビミョーなPOSITION (Mince-Saw Zoo of Cocaine Bootleg)",
+      "url" : "https://mega.nz/folder/EpgWgJqa#7OItZfYLQxZ0X8OB19yvNQ/file/QtRCQSBR",
+      "url_diff" : "https://darksabun.github.io/mirror/absolute/uploader/up5088.zip"
    },
    {
       "artist" : "witch's slave",
@@ -27759,6 +27786,20 @@
       "url_diff" : ""
    },
    {
+      "artist" : "梅干茶漬け Obj.Triforce",
+      "comment" : "差分作家さんはケモノが大好きだそうです。",
+      "level" : "3",
+      "md5" : "e84e2e6b6fce1553ca2e1226c7902b33",
+      "proposer" : "Mary_Sue",
+      "proposerLr2id" : 147889,
+      "sha256" : "8c79f69717ba8e286b3fbcf1515ca4756343422eaea472783ee81db9562ab344",
+      "submission" : 2206,
+      "title" : "「ほしのおうじさま」 [A18]",
+      "url" : "https://dl.dropboxusercontent.com/s/1x13o0mh5yjnwo8/hoshi_no_oujisama_ogg.zip",
+      "url_diff" : "https://darksabun.github.io/event/irbattle/",
+      "zureCount" : 0
+   },
+   {
       "artist" : "HyuN",
       "comment" : "BGA版",
       "level" : "3",
@@ -28557,7 +28598,7 @@
    {
       "artist" : "eicateve / obj:Restia hrchem,Takamatsu,Sennzai,Yamaguchi,eoll",
       "comment" : "同時押し",
-      "level" : "2",
+      "level" : "3",
       "md5" : "edf3b5d7f64ea23cf04f70443632b782",
       "proposer" : "dstorv",
       "proposerLr2id" : 145158,

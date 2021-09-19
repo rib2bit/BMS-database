@@ -1,5 +1,17 @@
 [
    {
+      "artist" : "idzuchi takl feat. TEA obj. 0ne + Limite",
+      "comment" : "2~3",
+      "level" : "3",
+      "md5" : "0145890caff6b35499af4a3ae3f9ac02",
+      "proposer" : "coco",
+      "sha256" : "ae0157273245098b2e0f15dbafe53a6cfa5e92748d5d870583a0f1c722c3ec6f",
+      "submission" : 603,
+      "title" : "明空リュウセイグン [DP Daybreak]",
+      "url" : "https://www.dropbox.com/s/amzixc6snvwmvdx/%E6%98%8E%E7%A9%BA%E3%83%AA%E3%83%A5%E3%82%A6%E3%82%BB%E3%82%A4%E3%82%B0%E3%83%B3.zip?dl=0",
+      "url_diff" : "https://stellabms.xyz/upload/920"
+   },
+   {
       "artist" : "Black Lotus obj:shiba",
       "comment" : "★★5~6? 物量、隣接配置、低速あり",
       "level" : "12",
@@ -1068,7 +1080,7 @@
    {
       "artist" : "削除 feat. Nikki Simmons Movie:Radiocity&yoshimo / obj:Starfish",
       "comment" : "8?、LN、ラスト回復",
-      "level" : "8",
+      "level" : "9",
       "md5" : "3313af61d72229ebf2910b7d82108083",
       "proposer" : "JHS",
       "sha256" : "881465ee0a9df6381bd41b7c294c5feeccd4db886ae46473b7e9b97c1dab3b12",
@@ -1315,6 +1327,18 @@
       "url_diff" : "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download"
    },
    {
+      "artist" : "Hyparpax obj. marie",
+      "comment" : "同梱譜面　ガチ押し",
+      "level" : "0",
+      "md5" : "3e2b303f183b77fe7938104a8c7a8869",
+      "proposer" : "Telperion",
+      "sha256" : "76e80e60dc969c84843cd442cb2cc5ca042e8b736f532738ba1b956e70e46ae6",
+      "submission" : 598,
+      "title" : "Nu Flame [14K ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=136",
+      "url_diff" : ""
+   },
+   {
       "artist" : "削除 / うまい棒 / obj:けろりん",
       "comment" : "7?",
       "level" : "8",
@@ -1444,6 +1468,18 @@
       "url_diff" : "https://ux.getuploader.com/dpbms/download/231"
    },
    {
+      "artist" : "Squar / obj.LetsOTL",
+      "comment" : "misalignment fixed ver.",
+      "level" : "3",
+      "md5" : "49c7d8aa17853816883a710abc557fd0",
+      "proposer" : "coco",
+      "sha256" : "83f1ba0a428ce9fe5978fe3195f95ff206f02903424df3b288594187691ad060",
+      "submission" : 606,
+      "title" : "Elina (feat. Reislaufer) [DP UDong Mix]",
+      "url" : "https://bms.kyouko.moe/torrent/BMS_Library/",
+      "url_diff" : "https://www.dropbox.com/sh/3riw0108rj0gbij/AADRrAUyP_17gDOAl1AUDCOha?dl=0"
+   },
+   {
       "artist" : "P4koo /OBJ:key",
       "comment" : "階段、LN 差分は本体に同梱",
       "level" : "10",
@@ -1493,7 +1529,7 @@
    {
       "artist" : "-45 / obj: black train",
       "comment" : "乱打",
-      "level" : "4",
+      "level" : "5",
       "md5" : "4d4a132f107ac41bb901e43f8c809f9d",
       "proposer" : "JHS",
       "sha256" : "43c454a4abbc7130671d3f07ef3cc7ff4909e3aa4b0ab119d25d6511ef52f977",
@@ -1707,6 +1743,18 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Sakamiya feat.遊左 未 img:moyura ntoes:OSR",
+      "comment" : "同梱譜面 同色系の同時押し+16分乱打",
+      "level" : "2",
+      "md5" : "5a3d872dcaae9b644d0cd06388c7124a",
+      "proposer" : "にゃむ",
+      "sha256" : "e1c975e3759724ca946362ad78e48cffbc92ef578ca01f2d8983f3d79d8df6a4",
+      "submission" : 597,
+      "title" : "Suffering of screw [DP Another]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=105&event=110",
+      "url_diff" : ""
+   },
+   {
       "artist" : "魔界都市ニイガタ（黄泉路テヂーモ×dawn-system×かゆき） BGA:自動車原付 / Obj:ゆ～兎",
       "comment" : "同梱譜面",
       "level" : "5",
@@ -1788,6 +1836,18 @@
       "title" : "４２２ [DP HYPER]",
       "url" : "http://qstol.info/events/venue/detail?event=3&id=42",
       "url_diff" : "https://drive.google.com/file/d/0B7qCw4hNijr4VFZJbzhVcEhTd28/view"
+   },
+   {
+      "artist" : "カラフル・サウンズ・ポート / obj:Louis",
+      "comment" : "3~4? 片手力",
+      "level" : "4",
+      "md5" : "5f13acf318cab698ddf635ff0714b0ad",
+      "proposer" : "Topio",
+      "sha256" : "7342ec01280b45eaab39c8cbb704520b605270c99188a7d5db8222834add7178",
+      "submission" : 608,
+      "title" : "Close the Lights (DP EX)",
+      "url" : "http://csport.web.fc2.com/",
+      "url_diff" : "http://slash24th.web.fc2.com/"
    },
    {
       "artist" : "roop Obj.Triforce vs KENIN*",
@@ -2227,6 +2287,18 @@
       "url_diff" : "http://flowermaster.web.fc2.com/"
    },
    {
+      "artist" : "ProjectG / 0310",
+      "comment" : "7?",
+      "level" : "7",
+      "md5" : "773951a8a13fcb7165d903e57a33ec18",
+      "proposer" : "JHS",
+      "sha256" : "edacb6a3214ea90789a7afcee4cb54e07a3af2f770854a9e92df638b03da9e95",
+      "submission" : 601,
+      "title" : "Midnight Flux",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=259&event=127",
+      "url_diff" : "https://yaruki0.net/sabun/dp2019.html"
+   },
+   {
       "artist" : "しーけー / obj:十六夜",
       "comment" : "BOFXVI",
       "level" : "6",
@@ -2344,6 +2416,18 @@
       "title" : ".357 Magnum [12.3]",
       "url" : "https://onedrive.live.com/?cid=FC95A680740CA8C9&id=FC95A680740CA8C9%21263&parId=FC95A680740CA8C9%21111",
       "url_diff" : "https://drive.google.com/file/d/1J17CEdPzOAEFGYFR3YgKJbIZyUaah1Gs/view?usp=sharing"
+   },
+   {
+      "artist" : "Echo obj:HI BGA: Cirkass",
+      "comment" : "高速階段、同時押し",
+      "level" : "8",
+      "md5" : "7c0cabc127e5c83bede18c7efbf0e75e",
+      "proposer" : "にゃむ",
+      "sha256" : "41561dee55dfb8e52611df4c49985c14e2124a191a17a0a47b9ea2a65ffdd5df",
+      "submission" : 139,
+      "title" : "Og Dermed Var Det Ingen [DP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=110",
+      "url_diff" : ""
    },
    {
       "artist" : "7olzo / obj:sagoo",
@@ -2547,6 +2631,18 @@
       "url_diff" : "http://epics.client.jp/"
    },
    {
+      "artist" : "あきやまうに (bms/er) / obj:sagoo",
+      "comment" : "階段、同時押し",
+      "level" : "4",
+      "md5" : "82fc0c8a10aa9820232865dc0f996706",
+      "proposer" : "にゃむ",
+      "sha256" : "478c24617742130a2104605bb8d0391b83558caeaf495096faeb946026d859ce",
+      "submission" : 589,
+      "title" : "踊る水飛沫 [DP-sagANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=102",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/712"
+   },
+   {
       "artist" : "Omnipotenx BBA",
       "comment" : "8?、高速階段、着地皿",
       "level" : "8",
@@ -2709,6 +2805,18 @@
       "title" : "Luv 5 Dancer [Double]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=67",
       "url_diff" : "http://epics.client.jp/"
+   },
+   {
+      "artist" : "梅干茶漬け / obj.LetsOTL",
+      "comment" : "7~8?",
+      "level" : "7",
+      "md5" : "8f4c529cc67018c14ffe0463efce9e25",
+      "proposer" : "JHS",
+      "sha256" : "e20f8d27a6d5792b3194e43f37413abbc8546ab27bf514b216adb084ab6b2f39",
+      "submission" : 602,
+      "title" : "Galaxy in Toybox [DP >▽<]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=118&event=96",
+      "url_diff" : "http://www.dropbox.com/s/youg1ryfz5lfpfw/Galaxy%20in%20Toybox%5Bdouble%5D.zip?dl=0"
    },
    {
       "artist" : "削除 / Mentalstock / obj:epics-",
@@ -3349,6 +3457,18 @@
       "url_diff" : "http://flowermaster.web.fc2.com/"
    },
    {
+      "artist" : "Music:しらいし / selene",
+      "comment" : "6~7?、ズレ抜けは全て意図的に発生させたとぼすぶっち+X-DEN LEGENDARIA.txtに書いている",
+      "level" : "5",
+      "md5" : "b0cfcff35ce0732fa58a2fe3e5113e27",
+      "proposer" : "JHS",
+      "sha256" : "bb5115c228d84955aa651a4142857b5899a2b56dfc63fe173fc43d49293d429f",
+      "submission" : 600,
+      "title" : "Moon-gate -DP Chalenger-",
+      "url" : "https://shiraishi2007.exblog.jp/27987601/",
+      "url_diff" : "http://bmsselene.web.fc2.com/dpindex.html"
+   },
+   {
       "artist" : "sak feat.みゅい Movie: げ～むばか Illust: 球根 obj:nBel",
       "comment" : "9?",
       "level" : "10",
@@ -3488,6 +3608,18 @@
       "title" : "Anti Function -DP ANOTHER-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=120",
       "url_diff" : ""
+   },
+   {
+      "artist" : "SHIKI obj:みすげ～",
+      "comment" : "(comparing to shiki_metatron7H.bme) A misaligned key sound 'ZR' is by division into multiple key sounds(e.g. 5V,5T,5R~6A)",
+      "level" : "5",
+      "md5" : "b770fb13db6e5ce43f9ad78a3460908c",
+      "proposer" : "coco",
+      "sha256" : "b05e0b7d0ef9445d2eb54805236e52aaa6d6826f09d5f15582758e6a7da93cfd",
+      "submission" : 593,
+      "title" : "METATRON [MG]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=146&event=104",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04662"
    },
    {
       "artist" : "stereoberry / srof",
@@ -4969,6 +5101,18 @@
       "title" : "Plunge into cloud [DP another]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=108",
       "url_diff" : ""
+   },
+   {
+      "artist" : "onoken / obj:QJITAI",
+      "comment" : "8~9?、重ゲージ、差分は右クリック→「ファイルに保存」で保存できます",
+      "level" : "9",
+      "md5" : "f9df3384b6b1837009a174657a606070",
+      "proposer" : "JHS",
+      "sha256" : "6b3f9b37c0ceb2b5296b6e3b51990a8df5c3ff21021918517ec4a0927fa00fb2",
+      "submission" : 599,
+      "title" : "lataia [DP SUPER]",
+      "url" : "http://web.archive.org/web/20070111193502/www107.sakura.ne.jp/~onoken/htmls/bms.html",
+      "url_diff" : "https://satchanvx.web.fc2.com/main/bms/difficulty.html"
    },
    {
       "artist" : "witch's slave Graphic : koavenit / obj : 71066",
