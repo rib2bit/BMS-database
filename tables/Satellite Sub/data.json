@@ -6077,6 +6077,19 @@
       "voteYes" : 0
    },
    {
+      "artist" : "テヅカ x Aoi feat.桃雛なの",
+      "comment" : "同梱譜面",
+      "level" : "0",
+      "md5" : "32f15e4a324ab1a2450913da7f121295",
+      "proposer" : "ねおんし",
+      "proposerMinirid" : "6c94616f-06d1-449d-a9c5-7d9fb5b91cd0",
+      "sha256" : "4859a7bb9cbe4260dec1a7b68aef6ddf67a8a26c91bee06265e3b86340ba6723",
+      "submission" : 2209,
+      "title" : "Sunset Toybox [ANOTHER]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=498&event=133",
+      "url_diff" : ""
+   },
+   {
       "artist" : "Sakamiya / obj.fuko",
       "comment" : "God Chart!!",
       "level" : "11",
@@ -19743,6 +19756,19 @@
       "submission" : 1476,
       "title" : "EMOJISM",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=80&event=127",
+      "url_diff" : ""
+   },
+   {
+      "artist" : "CAELUS",
+      "comment" : "低速(BPM128)乱打、連皿、皿着地",
+      "level" : "0",
+      "md5" : "a839ed23818238261802504b1271e175",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "0dd3f93b5b5cf8269557105a69096e7360792047e33d99853eb015c5b3a5c4f8",
+      "submission" : 2208,
+      "title" : "nymph/XXXY_c [7K ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=503&event=133",
       "url_diff" : ""
    },
    {
