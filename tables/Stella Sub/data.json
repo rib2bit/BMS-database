@@ -6602,6 +6602,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "こどものなみだ / obj:いしかわ",
+      "comment" : "九段+(アレンジ...？なのでズレチェック不可能)",
+      "level" : "5",
+      "md5" : "4af383fe392b0431a5f90969173a2474",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "8c6a72db24e51279e82b06aca214c9bc554a083a784522e6cd70d1c090d3b5cb",
+      "submission" : 1638,
+      "title" : "白の魔法の光 [AJICOIME7]",
+      "url" : "http://tm2.toymusical.net/download.html",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05535"
+   },
+   {
       "artist" : "nekomimi_STRaw & kju8 pattern for some reason",
       "comment" : "同梱の_templete.disagree基準ズレ抜け無し",
       "level" : "1",
@@ -17611,6 +17624,20 @@
       "voteNo" : 0,
       "votePercent" : 0,
       "voteYes" : 0
+   },
+   {
+      "artist" : "uet mov:Roaring Flame obj:MineC24",
+      "comment" : "高bpmトリル、ラス殺し",
+      "level" : "0",
+      "md5" : "c60d87b0fd93fc80bf80ad73d1b58c2b",
+      "proposer" : "Mary_Sue",
+      "proposerLr2id" : 147889,
+      "sha256" : "5348bb15e45c508ae2c5eb2334ad3377564551dbc72d89b6d7d465bfd0e5f9e8",
+      "submission" : 1639,
+      "title" : "Brink [R5]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=120",
+      "url_diff" : "https://www.dropbox.com/s/7habssv23hw4cfu/brink_nanami_fix.zip?dl=1",
+      "zureCount" : 0
    },
    {
       "artist" : "hapi⇒ feat. 初音ミク obj.ゆーきさん",

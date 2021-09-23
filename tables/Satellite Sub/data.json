@@ -19639,6 +19639,20 @@
       "voteYes" : 0
    },
    {
+      "artist" : "composed by だい / arranged by dn3r obj:業",
+      "comment" : "たのしい",
+      "level" : "6",
+      "md5" : "a71537335d29219b96f41f182e2547b1",
+      "proposer" : "七海",
+      "proposerLr2id" : 84597,
+      "sha256" : "154aba14e2513afd22eada8933309d8c8d0f8d1fdc13446c359f35f246815e58",
+      "submission" : 2211,
+      "title" : "YOU from \"ひぐらしのなく頃に\"",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=112&event=131",
+      "url_diff" : "https://stellabms.xyz/upload/1196",
+      "zureCount" : 0
+   },
+   {
       "artist" : "あす  /差分　赤い人",
       "comment" : "ディレイ,乱打",
       "level" : "5",
