@@ -3288,6 +3288,20 @@
       "url_diff" : "https://ux.getuploader.com/dpbms/download/534"
    },
    {
+      "artist" : "Ryunosuke Kudo / obj:ue / fix:にゃむ",
+      "comment" : "同時押し ズレ抜け修正版",
+      "level" : "3",
+      "md5" : "75c837f639a0d5cc70a378c0c0b7c6ec",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "02b0bdc671a6ec345004300851be90bed56a004061aa16552c98d196ec26c13a",
+      "submission" : 616,
+      "title" : "Sweety Sweety Sweet feat. Ryunka [DP Another]",
+      "url" : "https://www.dropbox.com/s/25qj3iwx340vyxm/%5BRyunosukeKudo%5DSweetySweetySweet.7z?dl=0",
+      "url_diff" : "https://www.dropbox.com/s/v7vxxy2d2djl4nj/_sss_DP_A_fix.zip?dl=1",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Yosk!",
       "comment" : "同時押し、階段",
       "level" : "5",
@@ -4038,6 +4052,20 @@
       "title" : "Point Graphy [DP ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=45&event=85",
       "url_diff" : "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download",
+      "zureCount" : 0
+   },
+   {
+      "artist" : "ESTi remixed by bbangsami / LeaH & SMIN(obj:k)",
+      "comment" : "DP★7 BPM175の高速階段,高速乱打,物量 差分URLコピー⇒貼り付け",
+      "level" : "7",
+      "md5" : "8b64dfa0cfcc8bf659f8f863e9dea811",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "269d1252e29792ade5bc02efe6df4c354b23bedb6a13bbbaada0bbbad5d79e87",
+      "submission" : 615,
+      "title" : "Ladymade corestar [14kumanother]",
+      "url" : "https://web.archive.org/web/20191218120313/http://bemuri.com/bsi_bms/bbangsami_LeaH_SMIN_Ladymade_corestar.rar",
+      "url_diff" : "http://dpbms.at-ninja.jp/bms/ladymade_corestar_kuma.zip",
       "zureCount" : 0
    },
    {
@@ -5273,6 +5301,20 @@
       "title" : "METATRON [MG]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=146&event=104",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04662"
+   },
+   {
+      "artist" : "paraneumann mov:もじゃらむ obj:ka2o",
+      "comment" : "同色,同時押し,軸,LN",
+      "level" : "4",
+      "md5" : "b7ff48a82dc10c9622934bbf39de2202",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "2067c3c9697c5b94525a51cdf4075a89a4870ee603a14feb3bb3f50a46eef9de",
+      "submission" : 617,
+      "title" : "Nervous As the Damsel [DP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=227&event=133",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/1065",
+      "zureCount" : 0
    },
    {
       "artist" : "Blue-J",
