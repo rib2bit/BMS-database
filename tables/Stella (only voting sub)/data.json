@@ -155,6 +155,19 @@
       "voteYes" : 4
    },
    {
+      "artist" : "m108 BGA:メツヤ Illust:flap obj : BAECON",
+      "level" : "0",
+      "md5" : "a636677efdd94b802076c77dc780d53e",
+      "proposer" : "moka",
+      "proposerLr2id" : 167326,
+      "sha256" : "f5e280f1974cb9d6a83fdbceefaaabd35a1aebb1384909e5d8909862a379cf75",
+      "submission" : 1640,
+      "title" : "XIII Charlotte [Rasalhague]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=116",
+      "url_diff" : "http://akred.web.fc2.com/baecon/_SPRasalhague.bme",
+      "zureCount" : 0
+   },
+   {
       "artist" : "葵 mov:いとう まさき / obj: qtp13",
       "comment" : "同梱のolivia(Listen).bms基準ズレ抜けなし。",
       "level" : "1",
