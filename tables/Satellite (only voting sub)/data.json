@@ -184,6 +184,23 @@
       "zureCount" : 0
    },
    {
+      "artist" : "Lime obj:1008",
+      "level" : "8",
+      "md5" : "82c2dc9360a9f68a3711ed4513d81b9b",
+      "proposer" : "ふかけん",
+      "proposerLr2id" : 145204,
+      "sha256" : "b467c68fdc5b95e40700d1a5431989884d56406b68210dabb144c4ce475698b9",
+      "submission" : 1903,
+      "title" : "Stargazer [Gaussian prime]",
+      "url" : "https://onedrive.live.com/?authkey=%21ACus%5FtYiwMpTc6A&id=B32C1D1F5C2CC841%21111&cid=B32C1D1F5C2CC841#authkey=%21ACus%5FtYiwMpTc6A&cid=B32C1D1F5C2CC841&id=B32C1D1F5C2CC841%21132&parId=B32C1D1F5C2CC841%21111&action=defaultclick",
+      "url_diff" : "https://darksabun.github.io/event/renewal/",
+      "voteNeutral" : 3,
+      "voteNo" : 2,
+      "votePercent" : 75,
+      "voteVersion" : 2,
+      "voteYes" : 9
+   },
+   {
       "artist" : "kanoryo",
       "comment" : "BPM160 乱打",
       "level" : "5",

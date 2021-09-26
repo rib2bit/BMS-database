@@ -965,6 +965,20 @@
       "url_diff" : ""
    },
    {
+      "artist" : "zest:rave / Obj:ゆ～兎",
+      "comment" : "misalignment fixed ver.",
+      "level" : "5",
+      "md5" : "22aecf56d1de614852af9d27b3693984",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "e616176822bc4029981b44e5fe62ce7e1c338b8cd975b2f3d668655132027ec1",
+      "submission" : 620,
+      "title" : "H.S : Hadron Strike [DP HYPER]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=26&event=85",
+      "url_diff" : "https://www.dropbox.com/sh/eeoh6mm53ka3b7s/AABSCPRjr_rJVxPtJ56dlkLma?dl=0",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Moses vs SPELL BREAK/obj:epics-",
       "comment" : "2?",
       "level" : "2",
@@ -1017,6 +1031,19 @@
       "title" : "Lonely Hina",
       "url" : "https://drive.google.com/file/d/1A1CiB2SCQqYAX5G6T_rl73Rx02xk3ahO/view?usp=sharing",
       "url_diff" : "https://docs.google.com/uc?id=0B4Lag8JPHqO3LU1BMnZVMmNhR0k&export=download"
+   },
+   {
+      "artist" : "r / obj.にゃむ",
+      "level" : "5",
+      "md5" : "23f0c411fc26c1e8aa82f3e5dda90dbe",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "82a6689c0ab23e0c6f62cced77d5cd613222bc54f88a28190e88aa7e7de29e1a",
+      "submission" : 618,
+      "title" : "Banhotta -黄昏-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=141&event=127",
+      "url_diff" : "https://stellabms.xyz/upload/1176",
+      "zureCount" : 0
    },
    {
       "artist" : "ZUN(Arr.sun3) / srof",
@@ -1811,6 +1838,20 @@
       "url_diff" : "https://1drv.ms/f/s!AhTuCFLHGy4ljGts4x3cy5XqL0Ag"
    },
    {
+      "artist" : "ARForest / inukoro obj. RaiN",
+      "comment" : "階段,LN ズレ修正版",
+      "level" : "8",
+      "md5" : "3b308fec3ad20cae5eb13eb0e3895c7a",
+      "proposer" : "にゃむ",
+      "proposerLr2id" : 139958,
+      "sha256" : "a6c673a7ab31a74fba810ee6f33359022c80388e44a5f3de6af01760840193e8",
+      "submission" : 623,
+      "title" : "The Last Page [BEGIN]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=163&event=127",
+      "url_diff" : "https://ux.getuploader.com/dpbms/download/1251",
+      "zureCount" : 0
+   },
+   {
       "artist" : "Y.W",
       "comment" : "中速物量",
       "level" : "5",
@@ -2126,6 +2167,19 @@
       "url_diff" : ""
    },
    {
+      "artist" : "Lian",
+      "comment" : "同梱譜面?(added chart by the composer.)",
+      "level" : "5",
+      "md5" : "48bf710c8828c3a056a3d07432dde747",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "18ac8f7436f4b8d599073420ede9b84416120859a80092536cba2064f10d0f9a",
+      "submission" : 622,
+      "title" : "Sacrificio [DP ANOTHER]",
+      "url" : "https://drive.google.com/file/d/1IcbfggkENZuFlxqt6t305P_lOVqVSIoE/view",
+      "url_diff" : ""
+   },
+   {
       "artist" : "sept",
       "comment" : "両手物量、前半難、前半に隣接皿3枚",
       "level" : "1",
@@ -2307,6 +2361,20 @@
       "title" : "introspect [DP Another]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=211&event=127",
       "url_diff" : ""
+   },
+   {
+      "artist" : "Sakura Shinohara + Yuki Uchimura obj:肴",
+      "comment" : "misalignment fixed ver.",
+      "level" : "5",
+      "md5" : "51499867f8d8531220ebfec8074c116f",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "76052cb701ca7a2ecf639ff7a167e32280d8a19a3e4c16f7324d6ce35256996f",
+      "submission" : 619,
+      "title" : "Subjection Method [DPH]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=459&event=110",
+      "url_diff" : "https://www.dropbox.com/sh/a6vl0k5i9t9n00u/AAD6BJSy_OirtqT_2wtUxg1ja?dl=0",
+      "zureCount" : 0
    },
    {
       "artist" : "m108 / obj:段位認定スレの17 BGA : 砂糖天麩羅 / シキイチル",
@@ -7124,6 +7192,20 @@
       "title" : "Bogus of True (DPH)",
       "url" : "http://sdrv.ms/18yFb36",
       "url_diff" : "https://www8.atwiki.jp/14key/pages/23.html"
+   },
+   {
+      "artist" : "Archlade obj:けろりん",
+      "comment" : "misalignment fixed ver.",
+      "level" : "5",
+      "md5" : "f008dbc8cfd5f637c28b6ab0b266fd58",
+      "proposer" : "coco",
+      "proposerLr2id" : 147123,
+      "sha256" : "7b7a485480b6e07d0e39bb472cfb684b41b863e90f0ad8456acc087e20d17c38",
+      "submission" : 621,
+      "title" : "Illumiscape [DP BEGINNER]",
+      "url" : "https://bms.kyouko.moe/torrent/BMS_Library/",
+      "url_diff" : "https://www.dropbox.com/sh/wo2s32eigouq6xo/AADKAco_SLWUGgr4zKAQ1w5Ca?dl=0",
+      "zureCount" : 0
    },
    {
       "artist" : "ろうて Obj:ゆ～兎",
