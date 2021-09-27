@@ -184,6 +184,23 @@
       "zureCount" : 0
    },
    {
+      "artist" : "MORRIGAN / obj:Felisica",
+      "level" : "12",
+      "md5" : "7c6a1c1af2862f457bc8dababc84f59c",
+      "proposer" : "sera",
+      "proposerMinirid" : "8281b134-2da8-4f09-a4d0-22618e5611fd",
+      "sha256" : "8c8fbeda570e0fbeead5d97f230dfd7051f24a08ac01ab2b04ad2e1e4fb4e92a",
+      "submission" : 1555,
+      "title" : "the core [core]",
+      "url" : "http://web.archive.org/web/20070105100125/http://pal.mydns.to:80/morrigan/jazz/bms/core.rar",
+      "url_diff" : "http://fuki1755.starfree.jp/sabun/the_core_fel.zip",
+      "voteNeutral" : 3,
+      "voteNo" : 5,
+      "votePercent" : 40.9090909090909,
+      "voteVersion" : 2,
+      "voteYes" : 3
+   },
+   {
       "artist" : "Lime obj:1008",
       "level" : "8",
       "md5" : "82c2dc9360a9f68a3711ed4513d81b9b",
