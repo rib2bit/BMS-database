@@ -14,7 +14,7 @@
    {
       "artist" : "ROKINA obj : Lin. Illust:あひゅりむ",
       "comment" : "",
-      "level" : "26",
+      "level" : "26+",
       "lr2_bmsid" : "0",
       "md5" : "016695b68b548521b9fe47469c45091d",
       "name_diff" : "",
@@ -158,7 +158,7 @@
    {
       "artist" : "QURELESS / obj : LindBlum",
       "comment" : "up01221",
-      "level" : "26",
+      "level" : "26+",
       "lr2_bmsid" : "0",
       "md5" : "16cbd2fa2f555bc3ab1902e6c7e990bc",
       "name_diff" : "sabun",
@@ -470,7 +470,7 @@
    {
       "artist" : "wa. / 百舌谷 obj : LindBlum",
       "comment" : "",
-      "level" : "26",
+      "level" : "26+",
       "lr2_bmsid" : "0",
       "md5" : "4663109750a2e9ca7a108fa534547a04",
       "name_diff" : "",
@@ -482,7 +482,7 @@
    {
       "artist" : "FIG / obj : LindBlum",
       "comment" : "",
-      "level" : "26",
+      "level" : "26+",
       "lr2_bmsid" : "0",
       "md5" : "4673b1d9776768a3ba5b95c203b5b565",
       "name_diff" : "",
@@ -550,6 +550,18 @@
       "title" : "It's &quot;alice&quot; dream [I want to be...]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&amp;num=18&amp;event=92",
       "url_diff" : "https://onedrive.live.com/redir?resid=6A58DD88BD7062C4!210&amp;authkey=!AGZePJr_LRrydzg&amp;ithint=folder%2czip"
+   },
+   {
+      "artist" : "daiji&sa10 / obj : pH",
+      "comment" : "",
+      "level" : "26+",
+      "lr2_bmsid" : "0",
+      "md5" : "4ff0c8a2f63ff9f002709ea7c3e81275",
+      "name_diff" : "sabun",
+      "reg_date" : "2021-10-02",
+      "title" : "orion ring -capricorn-",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02566"
    },
    {
       "artist" : "竜。 feat.さとうささら lyrics.まさゆき:obj : LindBlum",
@@ -624,6 +636,18 @@
       "url_diff" : "http://onedrive.live.com/redir?resid=6A58DD88BD7062C4!210&amp;authkey=!AGZePJr_LRrydzg&amp;ithint=folder%2czip"
    },
    {
+      "artist" : "Is-m BGA:murotani / obj : Milkous",
+      "comment" : "",
+      "level" : "26",
+      "lr2_bmsid" : "0",
+      "md5" : "5b6c10042798d6d1af638ca3315815c9",
+      "name_diff" : "sabun",
+      "reg_date" : "2021-10-02",
+      "title" : "Ecaed -INSANITY-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=552&event=110",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05247"
+   },
+   {
       "artist" : "remixed celas obj : LindBlum",
       "comment" : "",
       "level" : "24",
@@ -658,6 +682,18 @@
       "title" : "Ultra Happy Miracle Bazoooooka!! -Marmalade-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=334&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=01612"
+   },
+   {
+      "artist" : "uma vs. モリモリあつし / obj : pH",
+      "comment" : "",
+      "level" : "26+",
+      "lr2_bmsid" : "0",
+      "md5" : "61a3e1b17df344e652f0a47a6084e806",
+      "name_diff" : "sabun",
+      "reg_date" : "2021-10-02",
+      "title" : "Re:End of a Dream -Last Dive-",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02358"
    },
    {
       "artist" : "er / obj : LindBlum",
@@ -1238,7 +1274,7 @@
    {
       "artist" : "daiji+lobsak / obj : LindBlum",
       "comment" : "up6537",
-      "level" : "26",
+      "level" : "26+",
       "lr2_bmsid" : "0",
       "md5" : "be5fde59ade61b907ab67ed6d176e86c",
       "name_diff" : "",
@@ -1286,7 +1322,7 @@
    {
       "artist" : "sak feat.みゅい / ・ワ・ BGI:球根",
       "comment" : "",
-      "level" : "26",
+      "level" : "26+",
       "lr2_bmsid" : "0",
       "md5" : "c54a8427566a8c31575130eefeca1265",
       "name_diff" : "sabun",
@@ -1368,6 +1404,18 @@
       "url_diff" : "https://onedrive.live.com/redir?resid=6A58DD88BD7062C4!210&amp;authkey=!AGZePJr_LRrydzg&amp;ithint=folder%2czip"
    },
    {
+      "artist" : "music:すてらべえ/BGA:hopkins obj : Phosphorus",
+      "comment" : "",
+      "level" : "26+",
+      "lr2_bmsid" : "0",
+      "md5" : "d7f1230979fe3ed7490fd1dc5378a906",
+      "name_diff" : "sabun",
+      "reg_date" : "2021-10-02",
+      "title" : "Upside-down",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=101",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02402"
+   },
+   {
       "artist" : "Tlahuizcalpantecuhtli obj : LindBlum BGA: Air",
       "comment" : "up00546",
       "level" : "16",
@@ -1414,6 +1462,18 @@
       "title" : "転生ディザイア -Hexagram-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=112",
       "url_diff" : "https://onedrive.live.com/?id=6A58DD88BD7062C4%21210&cid=6A58DD88BD7062C4"
+   },
+   {
+      "artist" : "loz / obj : pH",
+      "comment" : "",
+      "level" : "26+",
+      "lr2_bmsid" : "0",
+      "md5" : "dd99415b3297f6cafb5fc541259f3e2c",
+      "name_diff" : "sabun",
+      "reg_date" : "2021-10-02",
+      "title" : "Loony Princess -Nevertheless-",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=18&event=113",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=02403"
    },
    {
       "artist" : "SEPHID mov LankaNIK / obj : LindBlum",

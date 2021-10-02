@@ -1,5 +1,18 @@
 [
    {
+      "artist" : "牛頭馬頭",
+      "comment" : "演出ソフランとワープ",
+      "level" : "1",
+      "md5" : "0045c93339f06a0be08a51198c4d182b",
+      "name_diff" : "同梱(閻魔)",
+      "state" : "1",
+      "title" : "シタガエルハユウキイデタツハカクリヨカミヨニマツルハ [お前は地獄行きじゃアナザー]",
+      "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/6/",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : "0qKhnwIDDQ4"
+   },
+   {
       "artist" : "ikaruga_nex",
       "comment" : "演出ソフランと地雷文字",
       "level" : "1",
@@ -403,6 +416,19 @@
       "video2" : ""
    },
    {
+      "artist" : "エレラビッツ",
+      "comment" : "ワープと音合わせソフランと……？2",
+      "level" : "1",
+      "md5" : "17eb392cb1e170b7440acb04f1f2c7fb",
+      "name_diff" : "NASA",
+      "state" : "1",
+      "title" : "ジュウゴヤライダー [ハードボイルド]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=354&event=133",
+      "url_diff" : "http://rattoto10.blog.fc2.com/blog-entry-6.html",
+      "video1" : "",
+      "video2" : "GfN3X0_6Vhg"
+   },
+   {
       "artist" : "nmk",
       "comment" : "演出ソフランと地雷具現化",
       "level" : "2",
@@ -694,7 +720,7 @@
       "level" : "2",
       "md5" : "21f04fd6d6d66d2918f2f96b3f780fac",
       "name_diff" : "kooridori",
-      "state" : "1",
+      "state" : "",
       "title" : "クロノバイザー [k_torither_Gimmick]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=88&event=132",
       "url_diff" : "https://drive.google.com/file/d/19C2u3Hscnel5HU5LcTD0F4XGwAhf_e52/view?usp=sharing",
@@ -1950,6 +1976,19 @@
       "video2" : ""
    },
    {
+      "artist" : "クワガタ feat.鳳梨みこ",
+      "comment" : "地雷具現化(記憶要素有)",
+      "level" : "2",
+      "md5" : "62c73a8386b71554ce356e6106e29ef8",
+      "name_diff" : "同梱",
+      "state" : "1",
+      "title" : "sleep on dancing(BMS Edit) [Nightmare]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=184&event=133",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : "mVidFV2uU-o"
+   },
+   {
       "artist" : "EBIMAYO",
       "comment" : "<b>※不可視ノーツが見えるスキンでプレイ推奨</b>",
       "level" : "O",
@@ -3008,7 +3047,7 @@
       "level" : "0",
       "md5" : "99f7826ad8d974f82813d2887554b9f4",
       "name_diff" : "LTFE♪",
-      "state" : "1",
+      "state" : "",
       "title" : "点、線、面、立体 [SP CLOCKWORK]",
       "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=1&num=49",
       "url_diff" : "https://1drv.ms/u/s!AqGhyqfH85LFbEPL9bRJlhzrc-s?e=isn7li",
@@ -3484,6 +3523,19 @@
       "video2" : "85V0NEwbR7Q"
    },
    {
+      "artist" : "エレラビッツ",
+      "comment" : "ワープと音合わせソフランと……？",
+      "level" : "0",
+      "md5" : "abc9ee9ea0ff2b19f7e814f196f5d85a",
+      "name_diff" : "同梱(ルゼ)",
+      "state" : "1",
+      "title" : "ジュウゴヤライダー",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=354&event=133",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "Nakaiankow",
       "comment" : "地雷と演出ソフラン",
       "level" : "0",
@@ -3690,6 +3742,19 @@
       "url_diff" : "",
       "video1" : "",
       "video2" : ""
+   },
+   {
+      "artist" : "かたぎり",
+      "comment" : "地雷具現化とワープ",
+      "level" : "2",
+      "md5" : "b6d126e388e3d792eafa3a391d646efb",
+      "name_diff" : "------",
+      "state" : "1",
+      "title" : "Angel's Salad ------",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=273&event=133",
+      "url_diff" : "https://darksabun.github.io/event/bofxvi/table.html",
+      "video1" : "",
+      "video2" : "Ku5hMf4KToE"
    },
    {
       "artist" : "BACO vs G.S. Patch crew",
@@ -4373,7 +4438,7 @@
       "level" : "2",
       "md5" : "d37290f2a71e8faacfbb83d8f25a5b44",
       "name_diff" : "JGh",
-      "state" : "1",
+      "state" : "",
       "title" : "死んだ子の影の上で踊る [Level X]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=100",
       "url_diff" : "http://www.mediafire.com/?m920zdgp4561h62",
@@ -4425,7 +4490,7 @@
       "level" : "1",
       "md5" : "d584cd4eba37ff4d6c0328cb4ef532cd",
       "name_diff" : "XYZ",
-      "state" : "1",
+      "state" : "",
       "title" : "点、線、面、立体",
       "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=1&num=49",
       "url_diff" : "http://l-bms.space/2nd/download.html",
@@ -4854,10 +4919,10 @@
       "level" : "0",
       "md5" : "e9a6f2fb58752ec7bc2d9d512ce8c08b",
       "name_diff" : "xert*",
-      "state" : "1",
+      "state" : "",
       "title" : "点、線、面、立体 [Quadrangle]",
       "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=1&num=49",
-      "url_diff" : "http://drive.google.com/file/d/0B25KGQoGla2SN2ZFQl9RaGJfQjA/view?usp=sharing",
+      "url_diff" : "http://l-bms.space/2nd/download.html",
       "video1" : "",
       "video2" : "ERYFhik2X4g"
    },
