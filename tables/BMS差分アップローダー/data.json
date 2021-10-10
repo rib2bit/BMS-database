@@ -35730,6 +35730,21 @@
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00073"
    },
    {
+      "adddate" : "2021/10/10 18:59",
+      "artist" : "Hishin / obj: c.st0ck",
+      "comment" : "ベリハ、低TOTAL",
+      "folder" : "2021/10",
+      "genre" : "ILLBIENT(lunacy)",
+      "keys" : 7,
+      "level" : "2021/10",
+      "lr2_bmsid" : "302852",
+      "md5" : "56dc67a06d88937a3a18dcb95ca312bd",
+      "org_level" : null,
+      "title" : "プラスチックマインド-育つノイズ-",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05668"
+   },
+   {
       "adddate" : "2018/04/20 01:23",
       "artist" : "EBIMAYO/obj:hyuki",
       "comment" : "ギミック、皿、微縦連",
@@ -71246,7 +71261,7 @@
       "md5" : "ab04aae8e4fbc4693eb7f4ceca397558",
       "org_level" : null,
       "title" : "オリヴィアの幻術",
-      "url" : "http://aoi.prismusic.net/bms/olivia.rar",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=96&num=131",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04621"
    },
    {
@@ -94151,7 +94166,7 @@
       "md5" : "e0c4739af84a83b9c0577e5062fdbe14",
       "org_level" : null,
       "title" : "Luna Express 2032 -Ragnarok-",
-      "url" : "",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=116",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05130"
    },
    {
@@ -97198,6 +97213,21 @@
       "title" : "ゆらめきつまさき -honey coming girl-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=585&event=110",
       "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=00042"
+   },
+   {
+      "adddate" : "2021/10/10 12:28",
+      "artist" : "モリモリあつし / obj:mynite",
+      "comment" : "二重階段",
+      "folder" : "2021/10",
+      "genre" : "HARD RENAISSANCE",
+      "keys" : "7",
+      "level" : "2021/10",
+      "lr2_bmsid" : "302850",
+      "md5" : "e71092ddac0bfd0580511248f23d8eff",
+      "org_level" : null,
+      "title" : "PUPA[mynither]",
+      "url" : "",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=05667"
    },
    {
       "adddate" : "2020/01/10 23:59",
