@@ -5,7 +5,7 @@
       "level" : "1",
       "md5" : "0045c93339f06a0be08a51198c4d182b",
       "name_diff" : "同梱(閻魔)",
-      "state" : "1",
+      "state" : "",
       "title" : "シタガエルハユウキイデタツハカクリヨカミヨニマツルハ [お前は地獄行きじゃアナザー]",
       "url" : "http://starkey.ivory.ne.jp/mf/mf2/detail/view/6/",
       "url_diff" : "",
@@ -421,7 +421,7 @@
       "level" : "1",
       "md5" : "17eb392cb1e170b7440acb04f1f2c7fb",
       "name_diff" : "NASA",
-      "state" : "1",
+      "state" : "",
       "title" : "ジュウゴヤライダー [ハードボイルド]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=354&event=133",
       "url_diff" : "http://rattoto10.blog.fc2.com/blog-entry-6.html",
@@ -830,6 +830,19 @@
       "url_diff" : "http://flowermaster.web.fc2.com/kikaku/kikaku8.zip",
       "video1" : "",
       "video2" : "UJAJx4F3b6Q"
+   },
+   {
+      "artist" : "dosugoge",
+      "comment" : "ガラスをぶち破る小節線",
+      "level" : "0",
+      "md5" : "299004868903b40263d92ebfb6e1b7f5",
+      "name_diff" : "同梱",
+      "state" : "1",
+      "title" : "□ -SQUARE SKY-",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=222&event=110",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
    },
    {
       "artist" : "Hammer Switch",
@@ -1599,6 +1612,19 @@
       "video2" : "a4VSxvEL7GM"
    },
    {
+      "artist" : "芳野あんかけ",
+      "comment" : "演出ソフランと地雷(即死)",
+      "level" : "0",
+      "md5" : "4ef1a15a429844d4c8bd26859eafd024",
+      "name_diff" : "にゃむ",
+      "state" : "1",
+      "title" : "先輩と忍者の結婚 [にゃむてる]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=417&event=133",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04805",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "暮狛",
       "comment" : "速度制御STOPとラスト、<b>HARDのみクリア可</b>",
       "level" : "L",
@@ -1981,7 +2007,7 @@
       "level" : "2",
       "md5" : "62c73a8386b71554ce356e6106e29ef8",
       "name_diff" : "同梱",
-      "state" : "1",
+      "state" : "",
       "title" : "sleep on dancing(BMS Edit) [Nightmare]",
       "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=184&event=133",
       "url_diff" : "",
@@ -2392,6 +2418,19 @@
       "video2" : ""
    },
    {
+      "artist" : "芳野あんかけ",
+      "comment" : "ワープと穴抜き地雷",
+      "level" : "1",
+      "md5" : "77b46082c6728b5bcc27c6fae1205c97",
+      "name_diff" : "deathrain ",
+      "state" : "1",
+      "title" : "先輩と忍者の結婚 [SUPER-EX]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=417&event=133",
+      "url_diff" : "http://gnqg.rosx.net/upload/upload.cgi?get=04815",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "削除",
       "comment" : "地雷と演出ソフラン",
       "level" : "1",
@@ -2403,6 +2442,19 @@
       "url_diff" : "https://www.dropbox.com/s/1250n8ft1u6aplo/vallista_k7.zip?dl=1",
       "video1" : "",
       "video2" : "IG_S8JzYDug"
+   },
+   {
+      "artist" : "pikomimi_STRaw",
+      "comment" : "地雷具現化と曲合わせピコピコソフラン",
+      "level" : "3",
+      "md5" : "78cc20b3ef6cb0ba252c0d1c7ac73654",
+      "name_diff" : "同梱(rat)",
+      "state" : "1",
+      "title" : "The door into Summer [rather]",
+      "url" : "https://event.yaruki0.net/BMSquare/impression/3",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : "XnW5KlI5kRg"
    },
    {
       "artist" : "紅蓮月影",
@@ -3528,7 +3580,7 @@
       "level" : "0",
       "md5" : "abc9ee9ea0ff2b19f7e814f196f5d85a",
       "name_diff" : "同梱(ルゼ)",
-      "state" : "1",
+      "state" : "",
       "title" : "ジュウゴヤライダー",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=354&event=133",
       "url_diff" : "",
@@ -3749,7 +3801,7 @@
       "level" : "2",
       "md5" : "b6d126e388e3d792eafa3a391d646efb",
       "name_diff" : "------",
-      "state" : "1",
+      "state" : "",
       "title" : "Angel's Salad ------",
       "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=273&event=133",
       "url_diff" : "https://darksabun.github.io/event/bofxvi/table.html",
@@ -5445,5 +5497,18 @@
       "url_diff" : "",
       "video1" : "",
       "video2" : "8KYKsib1j00"
+   },
+   {
+      "artist" : "Fl00t",
+      "comment" : "ガクガクソフランとBPM",
+      "level" : "0",
+      "md5" : "ff2c39f157ca820f7d89f5549a23aa33",
+      "name_diff" : "同梱",
+      "state" : "1",
+      "title" : "allogamy [SP ANOTHER]",
+      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=330&event=133",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
    }
 ]
