@@ -2864,6 +2864,22 @@
       "video3" : ""
    },
    {
+      "artist" : "Octa the B.G. (TM2)",
+      "comment" : "#DEFEXRANK 誤定義が残留しており、beatoraja でプレイすると激辛判定になる。",
+      "level" : "修正あり",
+      "md5" : "0e86f5cc7faf70c92d305cbe53daff27",
+      "memo" : "",
+      "name_diff" : "Dossy",
+      "no" : "21695",
+      "state" : "",
+      "title" : "fetal movements",
+      "url" : "http://toymusical.net/",
+      "url_diff" : "http://dossypms.web.fc2.com/TMSAP.html",
+      "video1" : "",
+      "video2" : "",
+      "video3" : ""
+   },
+   {
       "artist" : "エレラビッツ",
       "comment" : "",
       "level" : "その他",
@@ -20672,6 +20688,22 @@
       "video3" : ""
    },
    {
+      "artist" : "Junk (BMSSP2009)",
+      "comment" : "",
+      "level" : "修正あり",
+      "md5" : "68d71dbb9ebfea87dfb7fd191aebf2e9",
+      "memo" : "",
+      "name_diff" : "MGN",
+      "no" : "21697",
+      "state" : "",
+      "title" : "The Panorama",
+      "url" : "http://www.yamajet.com/bmssp/guide.html",
+      "url_diff" : "https://objmgnvsmymt.web.fc2.com/index.html",
+      "video1" : "",
+      "video2" : "",
+      "video3" : ""
+   },
+   {
       "artist" : "Lime / Roaring Flame ob:ject:Femirins",
       "comment" : "",
       "level" : "その他",
@@ -25040,22 +25072,6 @@
       "video3" : ""
    },
    {
-      "artist" : "plastic feat.サキト Rustin",
-      "comment" : "",
-      "level" : "修正あり",
-      "md5" : "7e07a8f4b2aa1219b13123590771683c",
-      "memo" : "",
-      "name_diff" : "",
-      "no" : "2427",
-      "state" : "",
-      "title" : "ひつぎとふたご [KKS]",
-      "url" : "",
-      "url_diff" : "",
-      "video1" : "",
-      "video2" : "",
-      "video3" : ""
-   },
-   {
       "artist" : "削除 / 140 / UDDE",
       "comment" : "",
       "level" : "入手困難",
@@ -25385,6 +25401,22 @@
       "no" : "1980",
       "state" : "",
       "title" : "鐱皋ﾍ｣｡ﾟfrozenfield [9 EX]",
+      "url" : "",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : "",
+      "video3" : ""
+   },
+   {
+      "artist" : "hty vs D11 (TM2)",
+      "comment" : "#DEFEXRANK 誤定義が残留しており、beatoraja でプレイすると激辛判定になる。",
+      "level" : "修正あり",
+      "md5" : "8005fc5f1786e327543b2c7cc508b431",
+      "memo" : "",
+      "name_diff" : "Dossy",
+      "no" : "21696",
+      "state" : "",
+      "title" : "SUPERMETEORITEPUDDING",
       "url" : "",
       "url_diff" : "",
       "video1" : "",
