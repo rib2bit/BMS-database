@@ -2,7 +2,7 @@
    {
       "artist" : "魂魄糖",
       "comment" : "縦連、トリル",
-      "level" : "12",
+      "level" : "13",
       "md5" : "0045153b89105ac8fd25a2a23dcea466",
       "name_diff" : "同梱",
       "state" : "",
@@ -234,14 +234,14 @@
       "video2" : ""
    },
    {
-      "artist" : "Namiel BGI:グーラン",
+      "artist" : "atmbzk (movie : Y.A.B.tutidama obj : BUUFAA)",
       "comment" : "",
-      "level" : "3",
-      "md5" : "095a682bd1449abb61d5f3d7caf6ed84",
+      "level" : "11",
+      "md5" : "079ee5d9bfda0dd3f9afd203fd62931e",
       "name_diff" : "同梱",
-      "state" : "",
-      "title" : "Aequor Lucem [SP HYPER]",
-      "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=300&event=133",
+      "state" : "2",
+      "title" : "Berserk. [7KEYS ANOTHER]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=151&event=137",
       "url_diff" : "",
       "video1" : "",
       "video2" : ""
@@ -356,7 +356,7 @@
       "level" : "10",
       "md5" : "0d5345bf8ca71f130532887021a01b72",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "Tin Circus Corps",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=448&event=133",
       "url_diff" : "",
@@ -431,12 +431,25 @@
    {
       "artist" : "Ryan",
       "comment" : "",
-      "level" : "15",
+      "level" : "16",
       "md5" : "0faf0e6312c3804afe0c1476897d97df",
       "name_diff" : "同梱",
       "state" : "",
       "title" : "BATTLECRY [INVADE]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=133",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "MajesticPeriod Movie : GROUSE36",
+      "comment" : "",
+      "level" : "20",
+      "md5" : "10908ab454cb05b7e4651c596aeca208",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "PSEUDO SHROUD -Another-",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=468&event=137",
       "url_diff" : "",
       "video1" : "",
       "video2" : ""
@@ -486,7 +499,7 @@
       "level" : "18",
       "md5" : "126e150790a8c779ce32b97c8b7a698a",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "A2U",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=201&event=133",
       "url_diff" : "",
@@ -587,7 +600,7 @@
    {
       "artist" : "unknown \"δ\"(a.k.a. はがね)",
       "comment" : "はがね譜面、ラス殺し（超速トリル）",
-      "level" : "8",
+      "level" : "9",
       "md5" : "1509b5323b7ced747e8012b00b9af07f",
       "name_diff" : "同梱",
       "state" : "",
@@ -678,7 +691,7 @@
    {
       "artist" : "TRIAL bga:HYOUTAN",
       "comment" : "中盤難、三重トリル、同時押し、高速軸、連皿、体力",
-      "level" : "9",
+      "level" : "10",
       "md5" : "17a1b5b5c201a8758f024e2a73e0d147",
       "name_diff" : "同梱",
       "state" : "",
@@ -759,7 +772,7 @@
       "level" : "17",
       "md5" : "187a00152b73ef3e2f9bd6c7b659a5a8",
       "name_diff" : "同梱",
-      "state" : "1",
+      "state" : "",
       "title" : "ALL NIGHT LONG",
       "url" : "https://venue.bmssearch.net/bmsshuin3/102",
       "url_diff" : "",
@@ -834,7 +847,7 @@
    {
       "artist" : "eicateve むらしん[movie] 為宙しなこ[illust]",
       "comment" : "カオス（トリル、皿、縦連、LN、終盤局所発狂）",
-      "level" : "19",
+      "level" : "18",
       "md5" : "1a1c88486eac72b2c408e26ad95864ad",
       "name_diff" : "同梱",
       "state" : "",
@@ -1067,7 +1080,7 @@
    },
    {
       "artist" : "定空間 as 宇宙空間",
-      "comment" : "",
+      "comment" : "複数LN+皿、遅ズレLN、LN皿ラッシュ、LN",
       "level" : "3",
       "md5" : "21aa4356615d55da6cd42e59dd39cab9",
       "name_diff" : "同梱",
@@ -1133,7 +1146,7 @@
    {
       "artist" : "田井中 律 / obj:鈴木 純",
       "comment" : "終盤LN複合+皿、軸、トリル、三連皿",
-      "level" : "16",
+      "level" : "17",
       "md5" : "23a8632f802303429f5aef6a1164f89b",
       "name_diff" : "同梱",
       "state" : "",
@@ -1172,7 +1185,7 @@
    {
       "artist" : "KAH BGA:自動車 原付/illust:手鞠鈴",
       "comment" : "連皿複合、トリル、微縦連、皿複合、軸、LN",
-      "level" : "7",
+      "level" : "6",
       "md5" : "24bbf0a42e850e6ddd0e2263b9a838e9",
       "name_diff" : "同梱",
       "state" : "",
@@ -1198,7 +1211,7 @@
    {
       "artist" : "YUKI",
       "comment" : "地力譜面、高速連皿2回",
-      "level" : "9",
+      "level" : "10",
       "md5" : "25de2f05566adf37b37f7b3addb77c55",
       "name_diff" : "同梱",
       "state" : "",
@@ -1223,7 +1236,7 @@
    },
    {
       "artist" : "ああああ",
-      "comment" : "",
+      "comment" : "短LN（大）、LN、微縦連",
       "level" : "2",
       "md5" : "26e788322afc807e95156ed185a62dc1",
       "name_diff" : "同梱",
@@ -1742,6 +1755,19 @@
       "video2" : ""
    },
    {
+      "artist" : "かたぎり BGA: 水無月☆★",
+      "comment" : "",
+      "level" : "14",
+      "md5" : "341dc9b997cf5e1211062443719bf640",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "silly-willy-nilly [IGNORANCE]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=45&event=137",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "kanone BGA:Eicar Shigino",
       "comment" : "局所難",
       "level" : "19",
@@ -1841,6 +1867,19 @@
       "state" : "",
       "title" : "Vantablack [Another]",
       "url" : "https://siqlo.jimdo.com/bms/",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "ryhki BGA by keizou",
+      "comment" : "",
+      "level" : "20",
+      "md5" : "38c80dd7721f1cad28326222ec9cb035",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "Majesty of Anubis",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=121&event=137",
       "url_diff" : "",
       "video1" : "",
       "video2" : ""
@@ -1976,6 +2015,19 @@
       "video2" : ""
    },
    {
+      "artist" : "cybermiso",
+      "comment" : "",
+      "level" : "2",
+      "md5" : "3bd83458af18eeee45714ef80af4b8f6",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "3HP MISSIONS",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=412&event=137",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "uet obj:Dolphin",
       "comment" : "LN皿複合（大）、皿+LN複合、個人差譜面",
       "level" : "6",
@@ -2059,7 +2111,7 @@
       "level" : "6",
       "md5" : "3ec165d7e45aabd7197b1e98a2662a04",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "Throwback to the Midnight",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=267&event=133",
       "url_diff" : "",
@@ -2159,11 +2211,11 @@
    },
    {
       "artist" : "wataxy",
-      "comment" : "",
+      "comment" : "終盤に長い連皿、LN+皿、皿複合",
       "level" : "3",
       "md5" : "41dc578251fc7f48dd2ff8e91baeddba",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "Fizz Buzz",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=280&event=133",
       "url_diff" : "",
@@ -2277,7 +2329,7 @@
    {
       "artist" : "でぱみぃ vs utzbo",
       "comment" : "",
-      "level" : "11",
+      "level" : "12",
       "md5" : "4737b56ad3e39b7f64fb712785ffd0ae",
       "name_diff" : "同梱",
       "state" : "",
@@ -2342,10 +2394,10 @@
    {
       "artist" : "Gsus x uwu x Alnilam",
       "comment" : "",
-      "level" : "9",
+      "level" : "7",
       "md5" : "4a733faa044c4b9bf0d477a822f02864",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "hallucia",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=439&event=133",
       "url_diff" : "",
@@ -2362,6 +2414,19 @@
       "title" : "Death Opera [rather]",
       "url" : "https://mega.nz/#!4B9iwSgb!i9Vj3AVD54nnzGCMJBUbwpTsu0ucM2psbm0f06LvMmY",
       "url_diff" : "http://rattoto10.web.fc2.com/",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "Gymholax BGA:paraneumann / chart:team \"Ahtyn Laulu\"",
+      "comment" : "",
+      "level" : "6",
+      "md5" : "4b7f1c9c9543fd2158cb50e09b65f830",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "Ulster [7K ANOTHER]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=137",
+      "url_diff" : "",
       "video1" : "",
       "video2" : ""
    },
@@ -2498,7 +2563,7 @@
    {
       "artist" : "かたぎり BGI: morph",
       "comment" : "",
-      "level" : "13",
+      "level" : "11",
       "md5" : "4f775eba5ef84e100785f3e4f3e4fc28",
       "name_diff" : "同梱",
       "state" : "",
@@ -2569,6 +2634,19 @@
       "state" : "",
       "title" : "写儀の少女Lix",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=89&event=116",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "AOiRO_Manbow (a.k.a. hapi⇒) obj : ルゼ",
+      "comment" : "",
+      "level" : "15",
+      "md5" : "52ef686a69ecaa0aa38019e6913bd352",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "DIET or DIE (Let's break happiness) [7KEYS ANOTHER]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=379&event=137",
       "url_diff" : "",
       "video1" : "",
       "video2" : ""
@@ -2732,7 +2810,7 @@
    {
       "artist" : "BOKKEN FUCHSIA BOKKEN BLUE",
       "comment" : "連皿複合、終盤易化気味",
-      "level" : "18",
+      "level" : "19",
       "md5" : "56b36053b2d0178504021bd6bc09e82e",
       "name_diff" : "AMERIA",
       "state" : "",
@@ -2743,12 +2821,38 @@
       "video2" : ""
    },
    {
+      "artist" : "DARKSIDE APPROACH obj:Kucchi",
+      "comment" : "",
+      "level" : "7",
+      "md5" : "5755b92c5f188ee1e30a803b4b98e875",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "BASS KICK YAKUZA [ANOTHER]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=66&event=137",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "megawolf77 bga & obj. PizeroFox",
+      "comment" : "",
+      "level" : "2",
+      "md5" : "57a19a3e296dbaaf2dbcd818c034e059",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "Cool Blue Shark Girl",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=232&event=137",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "Roxellana",
       "comment" : "",
       "level" : "13",
       "md5" : "584d90c2640816b4da05f5cfacd98ae9",
       "name_diff" : "同梱",
-      "state" : "1",
+      "state" : "",
       "title" : "Inversion [INSANE]",
       "url" : "https://venue.bmssearch.net/bmsshuin3/97",
       "url_diff" : "",
@@ -2782,9 +2886,35 @@
       "video2" : ""
    },
    {
+      "artist" : "Zris feat. Green",
+      "comment" : "",
+      "level" : "12",
+      "md5" : "5a7d10be7fe321b9f3c793de37b2b6c3",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "スナレ",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=475&event=137",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "SOMON",
+      "comment" : "",
+      "level" : "3",
+      "md5" : "5ad93a439dc8ae1f009ad5724bfbe07c",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "BRAIN HACKER [HYPER]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=85&event=137",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "Is-m BGA:ハマドメハマル",
       "comment" : "連皿複合、高速多重トリル、細かい配置、高TOTAL",
-      "level" : "17",
+      "level" : "18",
       "md5" : "5ae0afb8bcd94330254bd16612150fb8",
       "name_diff" : "同梱",
       "state" : "",
@@ -2803,6 +2933,19 @@
       "state" : "",
       "title" : "Voice From Deep [LEGGENDARIA]",
       "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=18&order=reg&odtype=a",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "Tetrajectory feat. 並奈一如",
+      "comment" : "",
+      "level" : "5",
+      "md5" : "5c3797f92ddbb9d60a0a2f46cf53e40c",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "Precious Retrospection [Another Utopia 2020]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=415&event=137",
       "url_diff" : "",
       "video1" : "",
       "video2" : ""
@@ -2875,10 +3018,10 @@
    {
       "artist" : "黄泉路テヂーモ / 出前",
       "comment" : "",
-      "level" : "4",
+      "level" : "5",
       "md5" : "5e7f3e98d6ea402ac03c145fdc5e4322",
       "name_diff" : "同梱",
-      "state" : "1",
+      "state" : "",
       "title" : "クエンさん＊ガバメント",
       "url" : "https://venue.bmssearch.net/bmsshuin3/82",
       "url_diff" : "",
@@ -3042,6 +3185,19 @@
       "video2" : ""
    },
    {
+      "artist" : "rider BGA by 1B",
+      "comment" : "",
+      "level" : "12",
+      "md5" : "64564c273c2db7ab0e4d7f212f9844ed",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "Ginnungagap [ANOTHER]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=68&event=137",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "ETIA. feat. Jenga Movie: vol-t",
       "comment" : "中盤低速、LN複合",
       "level" : "3",
@@ -3063,6 +3219,19 @@
       "state" : "",
       "title" : "stormy life [ANOTHER]",
       "url" : "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=25&order=reg&odtype=a",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "i'DLisT BGA: MAOTUI, obj. i'DLisT",
+      "comment" : "",
+      "level" : "5",
+      "md5" : "667f7dc93fdd0fb036d15ad02910c3df",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "Prime Lady Returns [ANOTHER]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=135&event=137",
       "url_diff" : "",
       "video1" : "",
       "video2" : ""
@@ -3109,7 +3278,7 @@
    {
       "artist" : "La La La La La",
       "comment" : "地力譜面、皿絡み、縦連、トリル",
-      "level" : "8",
+      "level" : "7",
       "md5" : "674604c336667c642ae4c0e5989b6fe2",
       "name_diff" : "同梱",
       "state" : "",
@@ -3128,6 +3297,19 @@
       "state" : "",
       "title" : "RETINAE [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=335&event=133",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "sugar BGA : TEKINA",
+      "comment" : "",
+      "level" : "8",
+      "md5" : "688dbb8a2c06e5a24f1d453eaaad4dc5",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "水面の煌き [SP Another]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=95&event=137",
       "url_diff" : "",
       "video1" : "",
       "video2" : ""
@@ -3180,6 +3362,19 @@
       "state" : "",
       "title" : "o tempo esta bom; vamos a praia~ [SP Another]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=26&event=132",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "Davidsan BGA by ASXZPY",
+      "comment" : "",
+      "level" : "7",
+      "md5" : "6c0dcba461d4d486c5a25367e723a202",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "Estrella Binaria [SP REAL]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=436&event=137",
       "url_diff" : "",
       "video1" : "",
       "video2" : ""
@@ -3239,7 +3434,7 @@
    {
       "artist" : "Street",
       "comment" : "ニ連打、LN複合、連皿、終盤発狂、高TOTAL",
-      "level" : "8",
+      "level" : "9",
       "md5" : "6f628e3782b8f8ed4b0c5a7dc7af49fe",
       "name_diff" : "同梱",
       "state" : "",
@@ -3258,6 +3453,19 @@
       "state" : "",
       "title" : "多重極展開 [SP HYPER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=62&event=88",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "Sobrem mov.Espitz",
+      "comment" : "",
+      "level" : "6",
+      "md5" : "70ec276a00c1236d3b210b7d85e2b115",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "Wit's biz [SP ANOTHER]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=384&event=137",
       "url_diff" : "",
       "video1" : "",
       "video2" : ""
@@ -3328,6 +3536,19 @@
       "video2" : ""
    },
    {
+      "artist" : "Aoi mov:出前",
+      "comment" : "",
+      "level" : "7",
+      "md5" : "72c1fe89ed189673c8d1e2f6e54c1d21",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "!nterroban(?, [ANOTHER]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=407&event=137",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "siromaru",
       "comment" : "",
       "level" : "52",
@@ -3343,7 +3564,7 @@
    {
       "artist" : "SOMON",
       "comment" : "",
-      "level" : "4",
+      "level" : "4.5",
       "md5" : "73161833a21ec8a320c6d742461aac23",
       "name_diff" : "同梱",
       "state" : "",
@@ -3385,9 +3606,22 @@
       "level" : "15",
       "md5" : "73a5941f973656198731efa9202ccf3e",
       "name_diff" : "同梱",
-      "state" : "1",
+      "state" : "",
       "title" : "CRUSH THE PARTY [SP INSANE]",
       "url" : "https://venue.bmssearch.net/bmsshuin3/51",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "翡乃イスカ",
+      "comment" : "",
+      "level" : "16",
+      "md5" : "73edb802e87315e981bc7cd9ed06a72a",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "ワンダフォー・パラダイス [BLACK ANOTHER]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=330&event=137",
       "url_diff" : "",
       "video1" : "",
       "video2" : ""
@@ -3419,6 +3653,19 @@
       "video2" : ""
    },
    {
+      "artist" : "KITUNE",
+      "comment" : "",
+      "level" : "4.5",
+      "md5" : "763c36ab28520cf7b8b1dd0c9e5ad079",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "NICKEL",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=399&event=137",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "uet",
       "comment" : "",
       "level" : "19",
@@ -3437,9 +3684,48 @@
       "level" : "4",
       "md5" : "76baf01c75c735935354c89415ba1e85",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "異聞奇譚ネコマタ異界巡り",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=337&event=133",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "T2o VS 張楚寒",
+      "comment" : "",
+      "level" : "7",
+      "md5" : "770064172428aee07cfbd2be16395499",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "告白進行中 -Retro Future Version-",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=93&event=137",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "T2o Feat 馬剣越&厳雲笙",
+      "comment" : "",
+      "level" : "11",
+      "md5" : "7993c6d0c2ee67442a5ba31542cd142a",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "夜幕離開前",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=101&event=137",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "MA$AKI",
+      "comment" : "",
+      "level" : "12",
+      "md5" : "79d4f3e8ce67e5f721134a96e52199ec",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "Bangin' RIZIN ULTIMA DELUXE [UPPER]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=413&event=137",
       "url_diff" : "",
       "video1" : "",
       "video2" : ""
@@ -3528,7 +3814,7 @@
       "level" : "15",
       "md5" : "7c7d27def7f348922067b968193bda24",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "Wyvern [SP ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=475&event=133",
       "url_diff" : "",
@@ -3627,6 +3913,19 @@
       "video2" : ""
    },
    {
+      "artist" : "doloky",
+      "comment" : "",
+      "level" : "9",
+      "md5" : "7f3e14f8fc2ffc3ad9aa9fe1a824a42b",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "bad_psychic",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=309&event=137",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "ATEMAK",
       "comment" : "29譜面、連皿複合、細かい配置、縦連",
       "level" : "17",
@@ -3654,7 +3953,7 @@
    },
    {
       "artist" : "cybermiso feat. みずたま",
-      "comment" : "",
+      "comment" : "さばみそ譜面入門",
       "level" : "3",
       "md5" : "80d579043dc72277022ad4fce013bb83",
       "name_diff" : "同梱",
@@ -3810,7 +4109,7 @@
    },
    {
       "artist" : "432pro obj : tami",
-      "comment" : "",
+      "comment" : "総合譜面、やや連皿",
       "level" : "3",
       "md5" : "878efd63aab3226e3f648bf3f76864f5",
       "name_diff" : "同梱",
@@ -3856,6 +4155,19 @@
       "state" : "",
       "title" : "e.f.p",
       "url" : "http://www.mediafire.com/download/vgqbs0ziaixxa32/dust-E.F.P.rar",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "ねこみりん feat.まるもこ Movie:むらしん / Illust:なか / obj:hard",
+      "comment" : "",
+      "level" : "7",
+      "md5" : "89a3c7a46839a14263c6ef7622bffdf3",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "ぱぴぽ？ [ANOTHER]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=408&event=137",
       "url_diff" : "",
       "video1" : "",
       "video2" : ""
@@ -3967,7 +4279,7 @@
    {
       "artist" : "TJ.hangneil vs Jackz",
       "comment" : "ソフラン、多要素譜面、終盤高速二重小トリル",
-      "level" : "15",
+      "level" : "17",
       "md5" : "8df67a9012690bb7b10b84693f8944d1",
       "name_diff" : "同梱",
       "state" : "",
@@ -3986,6 +4298,19 @@
       "state" : "",
       "title" : "Hypersurface",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=26&event=133",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "hapi⇒ with 緋藤レイル + あきな obj : ルゼ",
+      "comment" : "",
+      "level" : "11",
+      "md5" : "8f02166afd47e187035d8b81d6297413",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "VR or DIE (LET'S GET DRUNK ON THE VIRTUAL) [7KEYS LEGGENDARIA]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=379&event=137",
       "url_diff" : "",
       "video1" : "",
       "video2" : ""
@@ -4074,7 +4399,7 @@
       "level" : "3",
       "md5" : "9191c0a5e71923b4f110a837805cb407",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "S≠M [SP HARD]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=215&event=133",
       "url_diff" : "",
@@ -4160,6 +4485,19 @@
       "video2" : ""
    },
    {
+      "artist" : "music:stuv | movie:カザリ",
+      "comment" : "",
+      "level" : "15",
+      "md5" : "95103afcd57bbdbbb58101efd1243643",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "Monochrome Heart [SP PURPLE]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=137",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "unknown \"γ\"(a.k.a. 梅干茶漬け)",
       "comment" : "長い連皿発狂2回",
       "level" : "8",
@@ -4227,7 +4565,7 @@
    {
       "artist" : "秋山 澪 Notes:中野 梓",
       "comment" : "偏った鍵盤配置、局所発狂、ラス殺し（皿絡み発狂）",
-      "level" : "13",
+      "level" : "14",
       "md5" : "988cd2a091c6a0e10401fcb6e159b0ab",
       "name_diff" : "同梱",
       "state" : "",
@@ -4253,7 +4591,7 @@
    {
       "artist" : "Wide ステファン Walking / ballec train",
       "comment" : "ガチ押し、終盤爆撃地帯",
-      "level" : "14",
+      "level" : "17",
       "md5" : "9932be98e792a449be469fd601c852b1",
       "name_diff" : "同梱",
       "state" : "",
@@ -4409,7 +4747,7 @@
    {
       "artist" : "xi 鑓田(alpha complex)",
       "comment" : "",
-      "level" : "23",
+      "level" : "24",
       "md5" : "9c2e32f31816bd6a387720a5b977bb66",
       "name_diff" : "同梱",
       "state" : "",
@@ -4511,6 +4849,19 @@
       "video2" : ""
    },
    {
+      "artist" : "ReDark Technology video, bms: LThirty6",
+      "comment" : "",
+      "level" : "2",
+      "md5" : "9f228ee8662ccb68d3d58b311c44a970",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "Dimensional Drift (BMS Edit)",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=99&event=137",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "ZUN Remixed by rider obj:Ark-Z",
       "comment" : "LN複合、トリル、微縦連、TOTAL224",
       "level" : "3",
@@ -4589,6 +4940,19 @@
       "video2" : ""
    },
    {
+      "artist" : "Nakaiankow + NASA / obj.rat",
+      "comment" : "",
+      "level" : "18",
+      "md5" : "a40880abf5bf639a5ad54229754c324c",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "OneWanderer [rather]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=317&event=137",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "Kanata.S feat. ume BGA：ふらっと",
       "comment" : "ギタドラ譜面（軸、同時押し、微ズレ、同色）、局所難",
       "level" : "7",
@@ -4604,10 +4968,10 @@
    {
       "artist" : "deformed",
       "comment" : "",
-      "level" : "7",
+      "level" : "6",
       "md5" : "a67898dfd77140b13f29224213139583",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "chonge the future [Another]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=162&event=133",
       "url_diff" : "",
@@ -4667,6 +5031,19 @@
       "video2" : ""
    },
    {
+      "artist" : "ikaruga_nex",
+      "comment" : "",
+      "level" : "12",
+      "md5" : "a71e59a51c125fdd6001177aaa634d94",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "ultimer",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=320&event=137",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "Basso",
       "comment" : "皿",
       "level" : "52",
@@ -4693,12 +5070,25 @@
       "video2" : ""
    },
    {
+      "artist" : "牧野",
+      "comment" : "",
+      "level" : "4",
+      "md5" : "a7dfcc7788b6df46fdbf32f1758f1d5e",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "S.Q.4.D.",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=351&event=137",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "CAELUS",
       "comment" : "",
       "level" : "4",
       "md5" : "a839ed23818238261802504b1271e175",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "nymph/XXXY_c [7K ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=503&event=133",
       "url_diff" : "",
@@ -4711,7 +5101,7 @@
       "level" : "8",
       "md5" : "a883723332dcb2a2da9896aeeb3a2a80",
       "name_diff" : "同梱",
-      "state" : "1",
+      "state" : "",
       "title" : "The_Flames_of_Love ($fhgfjf remix)",
       "url" : "https://venue.bmssearch.net/bmsshuin3/20",
       "url_diff" : "",
@@ -4732,9 +5122,22 @@
       "video2" : ""
    },
    {
+      "artist" : "AYhaz / nyannurs",
+      "comment" : "",
+      "level" : "7",
+      "md5" : "a96488d94af78736a5824051a8158cd8",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "La Mort de Notre Soleil",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=259&event=137",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "tami",
       "comment" : "偏った配置、ラス殺し（色々）",
-      "level" : "11",
+      "level" : "12",
       "md5" : "aa1a39b5f8ad5c18786f888f21a0b24a",
       "name_diff" : "同梱",
       "state" : "",
@@ -4916,12 +5319,25 @@
    {
       "artist" : "あとぅす BGI:いささか",
       "comment" : "ズレ同時ガチ押し、中盤低速",
-      "level" : "14",
+      "level" : "15",
       "md5" : "b0f2d90c4c12c13222ad07a726ab2f7d",
       "name_diff" : "同梱",
       "state" : "",
       "title" : "Verblasse [INSANE]",
       "url" : "https://venue.bmssearch.net/bmsshuin2/36",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "luzebzk(from 300club) (movie : Y.A.B.tutidama obj : ルゼ)",
+      "comment" : "",
+      "level" : "4.5",
+      "md5" : "b258181e865ad749d728b86ca52e816d",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "Berserk. [7KEYS]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=151&event=137",
       "url_diff" : "",
       "video1" : "",
       "video2" : ""
@@ -4979,6 +5395,19 @@
       "video2" : ""
    },
    {
+      "artist" : "影虎。 BMS:Qayo / BGA:FEIflick",
+      "comment" : "",
+      "level" : "16",
+      "md5" : "b73b912ea7e5e7278a56624da23c23f9",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "Fragments [SP REBELLIONS]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=322&event=137",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "うまるつふり",
       "comment" : "",
       "level" : "30",
@@ -4997,7 +5426,7 @@
       "level" : "11",
       "md5" : "b7bbd621ed64c0463701413747be2027",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "Lehigh [insane]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=255&event=133",
       "url_diff" : "",
@@ -5007,10 +5436,10 @@
    {
       "artist" : "ume",
       "comment" : "",
-      "level" : "8",
+      "level" : "9",
       "md5" : "b94c9c00a189a56813b75639b77e7f64",
       "name_diff" : "同梱",
-      "state" : "1",
+      "state" : "",
       "title" : "残照",
       "url" : "https://venue.bmssearch.net/bmsshuin3/58",
       "url_diff" : "",
@@ -5020,12 +5449,25 @@
    {
       "artist" : "jioyi",
       "comment" : "皿付き壁、縦連複合、皿複合、ラス殺し（壁）",
-      "level" : "14",
+      "level" : "13",
       "md5" : "ba326b7a7cdaf4749e2133545fb0bdf1",
       "name_diff" : "同梱",
       "state" : "",
       "title" : "GAN [ANOTHER]",
       "url" : "http://app.box.com/s/072340ed4de64915f959",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "Abel & Kamisys mov: ScribbleJay",
+      "comment" : "",
+      "level" : "16",
+      "md5" : "ba32d6e126f28a199a9be24418c49c5c",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "Scheherazade [SP LEGGENDARIA]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=24&event=137",
       "url_diff" : "",
       "video1" : "",
       "video2" : ""
@@ -5059,10 +5501,10 @@
    {
       "artist" : "相生あおは BGI: いもねぎ obj:蛇路",
       "comment" : "",
-      "level" : "10",
+      "level" : "11",
       "md5" : "bc64a31c9f3f8ef92c958fc03c70df65",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "Voyager Nekochan [SP ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=276&event=133",
       "url_diff" : "",
@@ -5072,7 +5514,7 @@
    {
       "artist" : "kanoryo BGI.:MOAI WORKS",
       "comment" : "??9の強化版、ラス殺し（皿絡み発狂）",
-      "level" : "17",
+      "level" : "18",
       "md5" : "bd0e1340b98217cfd3d419a2930951ce",
       "name_diff" : "同梱",
       "state" : "",
@@ -5101,7 +5543,7 @@
       "level" : "4",
       "md5" : "bd54fd6c1a7339b19b669b5df2d5bcdb",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "Lehigh [another]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=255&event=133",
       "url_diff" : "",
@@ -5215,7 +5657,7 @@
    {
       "artist" : "Namiel BGI:グーラン",
       "comment" : "",
-      "level" : "6",
+      "level" : "5",
       "md5" : "c361ff4cf7dcc2343428243da063f66f",
       "name_diff" : "同梱",
       "state" : "",
@@ -5231,7 +5673,7 @@
       "level" : "3",
       "md5" : "c3919610f8686f0baa88d6f69bd24361",
       "name_diff" : "同梱",
-      "state" : "1",
+      "state" : "",
       "title" : "G-Bass REAL LIFE",
       "url" : "https://venue.bmssearch.net/bmsshuin3/111",
       "url_diff" : "",
@@ -5382,6 +5824,19 @@
       "video2" : ""
    },
    {
+      "artist" : "Xacla",
+      "comment" : "",
+      "level" : "5",
+      "md5" : "cb903bb302d818630d657eaf651013f1",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "Philadelphia Xperiment [SP Another]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=302&event=137",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "DEMK feat.猫村いろは",
       "comment" : "終盤超発狂、ラスト20%強回復あり",
       "level" : "14",
@@ -5525,6 +5980,19 @@
       "video2" : ""
    },
    {
+      "artist" : "Sephid obj. Sephid",
+      "comment" : "",
+      "level" : "7",
+      "md5" : "cfe36e1c08310b2f1ab00320a903c077",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "Epistrofi",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=81&event=137",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "Grand Thaw",
       "comment" : "短LN複合、LN複合",
       "level" : "5",
@@ -5577,6 +6045,19 @@
       "video2" : ""
    },
    {
+      "artist" : "かたぎり BGA: 水無月☆★",
+      "comment" : "",
+      "level" : "4.5",
+      "md5" : "d2d5792aa418494573c6885c6b8f85f7",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "silly-willy-nilly [ANOTHER]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=45&event=137",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "2:00",
       "comment" : "",
       "level" : "52",
@@ -5595,7 +6076,7 @@
       "level" : "7",
       "md5" : "d3cb29a466f74742e2cdb40fb083293e",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "S≠M [SP HELL]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=215&event=133",
       "url_diff" : "",
@@ -5681,14 +6162,40 @@
       "video2" : ""
    },
    {
+      "artist" : "tigerlily",
+      "comment" : "",
+      "level" : "2",
+      "md5" : "d785c02b48f89e4c8ad6fc0bbd71dbf2",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "KKKYK",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=403&event=137",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "さんわり",
       "comment" : "",
       "level" : "9",
       "md5" : "d92206260cd06215edd6782386d1a569",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "dragoon",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=421&event=133",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "432pro obj : M.H",
+      "comment" : "",
+      "level" : "16",
+      "md5" : "d940c1363f336a63dcf5afaa3cb8b541",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "FLOW",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=424&event=137",
       "url_diff" : "",
       "video1" : "",
       "video2" : ""
@@ -5735,7 +6242,7 @@
    {
       "artist" : "schwarzekugel BGA:出前",
       "comment" : "",
-      "level" : "13",
+      "level" : "14",
       "md5" : "ddc47af3c5f5684d963348938acc8cce",
       "name_diff" : "同梱",
       "state" : "",
@@ -5816,7 +6323,7 @@
       "level" : "6",
       "md5" : "e099c52373624b8f839566cd2307ee0d",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "psychological toll [ANOTHER]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=362&event=133",
       "url_diff" : "",
@@ -5891,7 +6398,7 @@
    {
       "artist" : "Yosk!",
       "comment" : "地力総合、ラス殺し（ズレ発狂）、HARD易（★7）",
-      "level" : "15",
+      "level" : "16",
       "md5" : "e39cb4d66cb7ead4ff701af8fc974ddb",
       "name_diff" : "同梱",
       "state" : "",
@@ -5929,7 +6436,7 @@
    },
    {
       "artist" : "Heinz Schweers",
-      "comment" : "",
+      "comment" : "階段、長い16分配置、LN複合",
       "level" : "3",
       "md5" : "e6374b57c1f2d46dad1a9e5522339e3a",
       "name_diff" : "同梱",
@@ -6006,6 +6513,19 @@
       "video2" : ""
    },
    {
+      "artist" : "utah",
+      "comment" : "",
+      "level" : "4.5",
+      "md5" : "ea1f458f83fa845c8287d8a5910e39bb",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "Gnome",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=228&event=137",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "eicateve",
       "comment" : "ハード判定",
       "level" : "51",
@@ -6034,7 +6554,7 @@
    {
       "artist" : "ei BGA:Kazari",
       "comment" : "",
-      "level" : "9",
+      "level" : "10",
       "md5" : "ec3c7d3cb4c727d709cbc1a229178442",
       "name_diff" : "同梱",
       "state" : "",
@@ -6053,6 +6573,19 @@
       "state" : "",
       "title" : "qualia -ideaesthesia-",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=301&event=110",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
+      "artist" : "KAH bga:自動車 原付 illust:りゅうら",
+      "comment" : "",
+      "level" : "8",
+      "md5" : "ed054312552065eacb0cd0224e765bb1",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "energy revival",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=160&event=137",
       "url_diff" : "",
       "video1" : "",
       "video2" : ""
@@ -6201,6 +6734,19 @@
       "video2" : ""
    },
    {
+      "artist" : "The Musical Ghost (obj. Toshiyuki Doma)",
+      "comment" : "",
+      "level" : "16",
+      "md5" : "eee4a40056e09ea7fd85201e8ce98e25",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "Mahika [Another]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=377&event=137",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "nmk BGA:出前",
       "comment" : "前半に強烈な連皿有りの皿複合、後半やや地力",
       "level" : "11",
@@ -6242,7 +6788,7 @@
    {
       "artist" : "witch's slave a.k.a. gmtn. for \"Abstract\" Graphic by 水無月ぱんだ。",
       "comment" : "微縦連複合地力、皿複合、序盤一時減速、LN複合",
-      "level" : "16",
+      "level" : "17",
       "md5" : "f10b03d02d31adf29fbfc1a24ea2e16f",
       "name_diff" : "同梱",
       "state" : "",
@@ -6320,7 +6866,7 @@
    {
       "artist" : "ポロロッカ",
       "comment" : "??8の強化版、連皿",
-      "level" : "17",
+      "level" : "19",
       "md5" : "f2ffdb018b2d393e524ca15dc6d73ccd",
       "name_diff" : "同梱",
       "state" : "",
@@ -6357,12 +6903,25 @@
       "video2" : ""
    },
    {
+      "artist" : "*reinahitomi",
+      "comment" : "",
+      "level" : "10",
+      "md5" : "f3662f2f2a54b315a81457a96ba89d12",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "シロヒトリサマ",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=133&event=137",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "A plus B equal to C x Alnilam",
       "comment" : "",
       "level" : "3",
       "md5" : "f3d3a78cba1ddb8172e2001b7e96c855",
       "name_diff" : "同梱",
-      "state" : "1",
+      "state" : "",
       "title" : "Iris",
       "url" : "https://venue.bmssearch.net/bmsshuin3/77",
       "url_diff" : "",
@@ -6424,7 +6983,7 @@
    {
       "artist" : "ぽんきち",
       "comment" : "中盤発狂（★14）、終盤やや回復有り",
-      "level" : "15",
+      "level" : "16",
       "md5" : "f4ba2df61f222b067e782ca94f9a920e",
       "name_diff" : "同梱",
       "state" : "",
@@ -6539,6 +7098,19 @@
       "video2" : ""
    },
    {
+      "artist" : "みーに feat. 音街ウナ obj:みすげ～",
+      "comment" : "",
+      "level" : "13",
+      "md5" : "f6b9d4d2b0fc483bf36a28f0c7b08354",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "インフィニット・パラダイムシフト [SCIENTIFIC REVOLUTION]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=137",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "はがね",
       "comment" : "はがね譜面（LN複合地力、連皿複合）",
       "level" : "16",
@@ -6557,7 +7129,7 @@
       "level" : "13",
       "md5" : "f73076c64400c0571e1d4440c1122821",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "S≠M [SP BUNNY EXTINCTION]",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=215&event=133",
       "url_diff" : "",
@@ -6580,7 +7152,7 @@
    {
       "artist" : "Heinz Schweers",
       "comment" : "",
-      "level" : "8",
+      "level" : "6",
       "md5" : "f7617d9e70ba05be96e9e00c48d6e10a",
       "name_diff" : "同梱",
       "state" : "",
@@ -6606,7 +7178,7 @@
    {
       "artist" : "ぽんきち",
       "comment" : "",
-      "level" : "9",
+      "level" : "10",
       "md5" : "f78addbf29b172d76d5e29fb0b4b5dbd",
       "name_diff" : "同梱",
       "state" : "",
@@ -6713,7 +7285,7 @@
       "level" : "3",
       "md5" : "fb82a4b5730172add31ae594194c65bd",
       "name_diff" : "同梱",
-      "state" : "2",
+      "state" : "",
       "title" : "Tin Circus Corps",
       "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=448&event=133",
       "url_diff" : "",
@@ -6747,9 +7319,22 @@
       "video2" : ""
    },
    {
+      "artist" : "みーに feat. 音街ウナ",
+      "comment" : "",
+      "level" : "10",
+      "md5" : "fcdc14c55ebadeaccab843a2cce15ae5",
+      "name_diff" : "同梱",
+      "state" : "2",
+      "title" : "インフィニット・パラダイムシフト [SINGULARITY]",
+      "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=137",
+      "url_diff" : "",
+      "video1" : "",
+      "video2" : ""
+   },
+   {
       "artist" : "LeaF Movie:Optie&Fiz",
       "comment" : "ズレ物量",
-      "level" : "19",
+      "level" : "18",
       "md5" : "fcf9492aec9196fe7802aba45f38d8a0",
       "name_diff" : "同梱",
       "state" : "",
@@ -6800,7 +7385,7 @@
    },
    {
       "artist" : "ei",
-      "comment" : "低速地力、軸、短LN、ラス殺し（割れ連打）",
+      "comment" : "低BPM地力、軸、短LN、ラス殺し（割れ連打）",
       "level" : "10",
       "md5" : "fd9fb9f092a160e08f0652cc44644418",
       "name_diff" : "同梱",
@@ -6840,7 +7425,7 @@
    {
       "artist" : "ProjectG as 東方朔 obj:コ",
       "comment" : "長い連皿、連皿複合、縦連",
-      "level" : "6",
+      "level" : "7",
       "md5" : "ff70b46d22a7a05f5d36192a3f244031",
       "name_diff" : "同梱",
       "state" : "",
